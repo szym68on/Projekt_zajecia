@@ -2,11 +2,6 @@
 # Football Teams Scraper - .gitignore
 # ============================================
 
-# Scraped data (main folders)
-scraped_data/
-football_data/
-my_football_data/
-
 # Checkpoint files
 *_checkpoint_*.json
 
