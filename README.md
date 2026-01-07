@@ -15,7 +15,13 @@ Visualize how football team lineups evolve over time by representing players as 
 
 ## 🚀 Quick Start
 
-### 1. Python - Data Processing
+### 1. Clone Repository
+```bash
+git clone [URL_REPO]
+cd PROJEKT_ZAJECIA
+```
+
+### 2. Python - Data Processing (Optional)
 ```bash
 # Install dependencies
 pip install -r requirements.txt
@@ -23,11 +29,11 @@ pip install -r requirements.txt
 # Convert data (if needed)
 python src/python/format_converter.py
 
-# Build all graphs
+# Build all graphs (already done - 100 graphs ready)
 python src/python/build_all_graphs.py
 ```
 
-### 2. Java - Visualization
+### 3. Java - Visualization
 ```bash
 cd visualization
 
@@ -71,15 +77,15 @@ PROJEKT_ZAJECIA/
 - [x] Data format conversion (JSON → TXT)
 - [x] Graph generation (NetworkX)
 - [x] Basic visualization (GraphStream)
-- [x] 100 complete season graphs
+- [x] 100 complete season graphs ready
 
 ## 🎯 Next Steps (See TODO.md)
 
+**UI Improvements:**
+- Dropdown menu for season selection
+- Statistics panel (nodes, edges, density, top players)
+- Export to PNG functionality
 - Animation between seasons
-- Comparative analysis (club vs club)
-- Advanced graph metrics
-- Export capabilities
-- LaTeX report
 
 ## 📝 Graph Format
 
@@ -90,11 +96,12 @@ PROJEKT_ZAJECIA/
 
 ## 👥 Team
 
-Cardinal Stefan Wyszyński University - Computer Science  
-Adam Waśko
-Szymon Świercz
-Aleksandra Szymańska
-Karolina Woch
+Cardinal Stefan Wyszyński University - Computer Science
+
+- Adam Waśko
+- Szymon Świercz
+- Aleksandra Szymańska
+- Karolina Woch
 
 ## 📄 License
 
