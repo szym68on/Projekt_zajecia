@@ -1,0 +1,313 @@
+# Graph for Java/GraphStream
+# Nodes: 28
+# Edges: 307
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE José Manuel Pinto | Gerard Piqué | 8 | 12 | 32
+EDGE José Manuel Pinto | Javier Mascherano | 8 | 12 | 49
+EDGE José Manuel Pinto | Éric Abidal | 4 | 12 | 35
+EDGE José Manuel Pinto | Carles Puyol | 9 | 12 | 40
+EDGE José Manuel Pinto | Thiago Alcántara | 8 | 12 | 32
+EDGE José Manuel Pinto | Cesc Fàbregas | 7 | 12 | 38
+EDGE José Manuel Pinto | Xavi | 6 | 12 | 45
+EDGE José Manuel Pinto | Alexis Sánchez | 7 | 12 | 31
+EDGE José Manuel Pinto | Isaac Cuenca | 7 | 12 | 20
+EDGE José Manuel Pinto | Lionel Messi | 8 | 12 | 57
+EDGE José Manuel Pinto | Dani Alves | 4 | 12 | 45
+EDGE José Manuel Pinto | Sergio Busquets | 8 | 12 | 46
+EDGE José Manuel Pinto | Andrés Iniesta | 6 | 12 | 39
+EDGE José Manuel Pinto | Andreu Fontàs | 3 | 12 | 5
+EDGE José Manuel Pinto | Adriano | 5 | 12 | 30
+EDGE José Manuel Pinto | Martín Montoya | 5 | 12 | 6
+EDGE José Manuel Pinto | Sergi Roberto | 2 | 12 | 3
+EDGE José Manuel Pinto | Pedro | 8 | 12 | 32
+EDGE José Manuel Pinto | Seydou Keita | 3 | 12 | 22
+EDGE José Manuel Pinto | Marc Bartra | 1 | 12 | 1
+EDGE José Manuel Pinto | Maxwell | 1 | 12 | 6
+EDGE José Manuel Pinto | Jonathan dos Santos | 1 | 12 | 3
+EDGE José Manuel Pinto | Rafinha | 1 | 12 | 1
+EDGE Gerard Piqué | Javier Mascherano | 20 | 32 | 49
+EDGE Gerard Piqué | Éric Abidal | 16 | 32 | 35
+EDGE Gerard Piqué | Carles Puyol | 20 | 32 | 40
+EDGE Gerard Piqué | Thiago Alcántara | 14 | 32 | 32
+EDGE Gerard Piqué | Cesc Fàbregas | 20 | 32 | 38
+EDGE Gerard Piqué | Xavi | 24 | 32 | 45
+EDGE Gerard Piqué | Alexis Sánchez | 19 | 32 | 31
+EDGE Gerard Piqué | Isaac Cuenca | 11 | 32 | 20
+EDGE Gerard Piqué | Lionel Messi | 28 | 32 | 57
+EDGE Gerard Piqué | Dani Alves | 24 | 32 | 45
+EDGE Gerard Piqué | Sergio Busquets | 24 | 32 | 46
+EDGE Gerard Piqué | Andrés Iniesta | 21 | 32 | 39
+EDGE Gerard Piqué | Víctor Valdés | 24 | 32 | 52
+EDGE Gerard Piqué | Adriano | 12 | 32 | 30
+EDGE Gerard Piqué | Pedro | 13 | 32 | 32
+EDGE Gerard Piqué | Andreu Fontàs | 2 | 32 | 5
+EDGE Gerard Piqué | Martín Montoya | 3 | 32 | 6
+EDGE Gerard Piqué | Sergi Roberto | 2 | 32 | 3
+EDGE Gerard Piqué | Seydou Keita | 6 | 32 | 22
+EDGE Gerard Piqué | David Villa | 4 | 32 | 17
+EDGE Gerard Piqué | Maxwell | 3 | 32 | 6
+EDGE Gerard Piqué | Cristian Tello | 1 | 32 | 4
+EDGE Gerard Piqué | Ibrahim Afellay | 1 | 32 | 1
+EDGE Javier Mascherano | Éric Abidal | 27 | 49 | 35
+EDGE Javier Mascherano | Carles Puyol | 28 | 49 | 40
+EDGE Javier Mascherano | Thiago Alcántara | 24 | 49 | 32
+EDGE Javier Mascherano | Cesc Fàbregas | 27 | 49 | 38
+EDGE Javier Mascherano | Xavi | 33 | 49 | 45
+EDGE Javier Mascherano | Alexis Sánchez | 22 | 49 | 31
+EDGE Javier Mascherano | Isaac Cuenca | 15 | 49 | 20
+EDGE Javier Mascherano | Lionel Messi | 46 | 49 | 57
+EDGE Javier Mascherano | Víctor Valdés | 41 | 49 | 52
+EDGE Javier Mascherano | Adriano | 27 | 49 | 30
+EDGE Javier Mascherano | Dani Alves | 34 | 49 | 45
+EDGE Javier Mascherano | Sergio Busquets | 36 | 49 | 46
+EDGE Javier Mascherano | Andrés Iniesta | 30 | 49 | 39
+EDGE Javier Mascherano | Pedro | 27 | 49 | 32
+EDGE Javier Mascherano | Seydou Keita | 18 | 49 | 22
+EDGE Javier Mascherano | David Villa | 14 | 49 | 17
+EDGE Javier Mascherano | Andreu Fontàs | 1 | 49 | 5
+EDGE Javier Mascherano | Martín Montoya | 4 | 49 | 6
+EDGE Javier Mascherano | Sergi Roberto | 2 | 49 | 3
+EDGE Javier Mascherano | Cristian Tello | 3 | 49 | 4
+EDGE Javier Mascherano | Ibrahim Afellay | 1 | 49 | 1
+EDGE Javier Mascherano | Maxwell | 1 | 49 | 6
+EDGE Javier Mascherano | Jonathan dos Santos | 1 | 49 | 3
+EDGE Éric Abidal | Carles Puyol | 20 | 35 | 40
+EDGE Éric Abidal | Thiago Alcántara | 17 | 35 | 32
+EDGE Éric Abidal | Cesc Fàbregas | 21 | 35 | 38
+EDGE Éric Abidal | Xavi | 25 | 35 | 45
+EDGE Éric Abidal | Alexis Sánchez | 17 | 35 | 31
+EDGE Éric Abidal | Isaac Cuenca | 7 | 35 | 20
+EDGE Éric Abidal | Lionel Messi | 35 | 35 | 57
+EDGE Éric Abidal | Dani Alves | 27 | 35 | 45
+EDGE Éric Abidal | Sergio Busquets | 27 | 35 | 46
+EDGE Éric Abidal | Andrés Iniesta | 21 | 35 | 39
+EDGE Éric Abidal | Víctor Valdés | 31 | 35 | 52
+EDGE Éric Abidal | Seydou Keita | 11 | 35 | 22
+EDGE Éric Abidal | Pedro | 13 | 35 | 32
+EDGE Éric Abidal | Adriano | 12 | 35 | 30
+EDGE Éric Abidal | David Villa | 15 | 35 | 17
+EDGE Éric Abidal | Maxwell | 2 | 35 | 6
+EDGE Éric Abidal | Sergi Roberto | 1 | 35 | 3
+EDGE Éric Abidal | Martín Montoya | 1 | 35 | 6
+EDGE Carles Puyol | Thiago Alcántara | 20 | 40 | 32
+EDGE Carles Puyol | Cesc Fàbregas | 30 | 40 | 38
+EDGE Carles Puyol | Xavi | 28 | 40 | 45
+EDGE Carles Puyol | Alexis Sánchez | 22 | 40 | 31
+EDGE Carles Puyol | Isaac Cuenca | 15 | 40 | 20
+EDGE Carles Puyol | Lionel Messi | 37 | 40 | 57
+EDGE Carles Puyol | Dani Alves | 25 | 40 | 45
+EDGE Carles Puyol | Sergio Busquets | 29 | 40 | 46
+EDGE Carles Puyol | Andrés Iniesta | 24 | 40 | 39
+EDGE Carles Puyol | Víctor Valdés | 31 | 40 | 52
+EDGE Carles Puyol | Adriano | 14 | 40 | 30
+EDGE Carles Puyol | Seydou Keita | 12 | 40 | 22
+EDGE Carles Puyol | Pedro | 16 | 40 | 32
+EDGE Carles Puyol | David Villa | 6 | 40 | 17
+EDGE Carles Puyol | Martín Montoya | 3 | 40 | 6
+EDGE Carles Puyol | Andreu Fontàs | 2 | 40 | 5
+EDGE Carles Puyol | Cristian Tello | 3 | 40 | 4
+EDGE Carles Puyol | Sergi Roberto | 1 | 40 | 3
+EDGE Carles Puyol | Maxwell | 3 | 40 | 6
+EDGE Carles Puyol | Jonathan dos Santos | 2 | 40 | 3
+EDGE Thiago Alcántara | Cesc Fàbregas | 15 | 32 | 38
+EDGE Thiago Alcántara | Xavi | 16 | 32 | 45
+EDGE Thiago Alcántara | Alexis Sánchez | 15 | 32 | 31
+EDGE Thiago Alcántara | Isaac Cuenca | 10 | 32 | 20
+EDGE Thiago Alcántara | Lionel Messi | 27 | 32 | 57
+EDGE Thiago Alcántara | Víctor Valdés | 24 | 32 | 52
+EDGE Thiago Alcántara | Sergio Busquets | 20 | 32 | 46
+EDGE Thiago Alcántara | Seydou Keita | 12 | 32 | 22
+EDGE Thiago Alcántara | Andrés Iniesta | 12 | 32 | 39
+EDGE Thiago Alcántara | Pedro | 17 | 32 | 32
+EDGE Thiago Alcántara | Adriano | 17 | 32 | 30
+EDGE Thiago Alcántara | Dani Alves | 20 | 32 | 45
+EDGE Thiago Alcántara | Andreu Fontàs | 4 | 32 | 5
+EDGE Thiago Alcántara | Martín Montoya | 4 | 32 | 6
+EDGE Thiago Alcántara | Sergi Roberto | 3 | 32 | 3
+EDGE Thiago Alcántara | David Villa | 11 | 32 | 17
+EDGE Thiago Alcántara | Maxwell | 3 | 32 | 6
+EDGE Thiago Alcántara | Cristian Tello | 3 | 32 | 4
+EDGE Thiago Alcántara | Marc Bartra | 1 | 32 | 1
+EDGE Thiago Alcántara | Jonathan dos Santos | 2 | 32 | 3
+EDGE Thiago Alcántara | Rafinha | 1 | 32 | 1
+EDGE Cesc Fàbregas | Xavi | 29 | 38 | 45
+EDGE Cesc Fàbregas | Alexis Sánchez | 19 | 38 | 31
+EDGE Cesc Fàbregas | Isaac Cuenca | 15 | 38 | 20
+EDGE Cesc Fàbregas | Lionel Messi | 33 | 38 | 57
+EDGE Cesc Fàbregas | Dani Alves | 26 | 38 | 45
+EDGE Cesc Fàbregas | Sergio Busquets | 31 | 38 | 46
+EDGE Cesc Fàbregas | Andrés Iniesta | 23 | 38 | 39
+EDGE Cesc Fàbregas | Víctor Valdés | 31 | 38 | 52
+EDGE Cesc Fàbregas | Adriano | 13 | 38 | 30
+EDGE Cesc Fàbregas | Pedro | 16 | 38 | 32
+EDGE Cesc Fàbregas | Seydou Keita | 9 | 38 | 22
+EDGE Cesc Fàbregas | David Villa | 4 | 38 | 17
+EDGE Cesc Fàbregas | Andreu Fontàs | 3 | 38 | 5
+EDGE Cesc Fàbregas | Maxwell | 3 | 38 | 6
+EDGE Cesc Fàbregas | Jonathan dos Santos | 2 | 38 | 3
+EDGE Cesc Fàbregas | Cristian Tello | 2 | 38 | 4
+EDGE Cesc Fàbregas | Martín Montoya | 1 | 38 | 6
+EDGE Xavi | Alexis Sánchez | 19 | 45 | 31
+EDGE Xavi | Isaac Cuenca | 13 | 45 | 20
+EDGE Xavi | Lionel Messi | 40 | 45 | 57
+EDGE Xavi | Dani Alves | 35 | 45 | 45
+EDGE Xavi | Sergio Busquets | 35 | 45 | 46
+EDGE Xavi | Andrés Iniesta | 29 | 45 | 39
+EDGE Xavi | Víctor Valdés | 39 | 45 | 52
+EDGE Xavi | Adriano | 17 | 45 | 30
+EDGE Xavi | Pedro | 21 | 45 | 32
+EDGE Xavi | Seydou Keita | 14 | 45 | 22
+EDGE Xavi | David Villa | 14 | 45 | 17
+EDGE Xavi | Andreu Fontàs | 3 | 45 | 5
+EDGE Xavi | Maxwell | 5 | 45 | 6
+EDGE Xavi | Ibrahim Afellay | 1 | 45 | 1
+EDGE Xavi | Martín Montoya | 1 | 45 | 6
+EDGE Xavi | Cristian Tello | 2 | 45 | 4
+EDGE Xavi | Jonathan dos Santos | 1 | 45 | 3
+EDGE Alexis Sánchez | Isaac Cuenca | 9 | 31 | 20
+EDGE Alexis Sánchez | Lionel Messi | 29 | 31 | 57
+EDGE Alexis Sánchez | Dani Alves | 18 | 31 | 45
+EDGE Alexis Sánchez | Sergio Busquets | 23 | 31 | 46
+EDGE Alexis Sánchez | Andrés Iniesta | 20 | 31 | 39
+EDGE Alexis Sánchez | Víctor Valdés | 24 | 31 | 52
+EDGE Alexis Sánchez | Seydou Keita | 9 | 31 | 22
+EDGE Alexis Sánchez | Pedro | 11 | 31 | 32
+EDGE Alexis Sánchez | Adriano | 13 | 31 | 30
+EDGE Alexis Sánchez | Andreu Fontàs | 2 | 31 | 5
+EDGE Alexis Sánchez | Martín Montoya | 4 | 31 | 6
+EDGE Alexis Sánchez | Sergi Roberto | 2 | 31 | 3
+EDGE Alexis Sánchez | Maxwell | 2 | 31 | 6
+EDGE Alexis Sánchez | David Villa | 3 | 31 | 17
+EDGE Alexis Sánchez | Cristian Tello | 1 | 31 | 4
+EDGE Isaac Cuenca | Lionel Messi | 15 | 20 | 57
+EDGE Isaac Cuenca | Andreu Fontàs | 3 | 20 | 5
+EDGE Isaac Cuenca | Adriano | 8 | 20 | 30
+EDGE Isaac Cuenca | Martín Montoya | 2 | 20 | 6
+EDGE Isaac Cuenca | Sergi Roberto | 2 | 20 | 3
+EDGE Isaac Cuenca | Pedro | 9 | 20 | 32
+EDGE Isaac Cuenca | Sergio Busquets | 12 | 20 | 46
+EDGE Isaac Cuenca | Dani Alves | 11 | 20 | 45
+EDGE Isaac Cuenca | Víctor Valdés | 13 | 20 | 52
+EDGE Isaac Cuenca | Seydou Keita | 5 | 20 | 22
+EDGE Isaac Cuenca | Andrés Iniesta | 9 | 20 | 39
+EDGE Isaac Cuenca | Marc Bartra | 1 | 20 | 1
+EDGE Isaac Cuenca | Maxwell | 3 | 20 | 6
+EDGE Isaac Cuenca | Jonathan dos Santos | 2 | 20 | 3
+EDGE Isaac Cuenca | Rafinha | 1 | 20 | 1
+EDGE Isaac Cuenca | David Villa | 1 | 20 | 17
+EDGE Isaac Cuenca | Cristian Tello | 1 | 20 | 4
+EDGE Lionel Messi | Dani Alves | 42 | 57 | 45
+EDGE Lionel Messi | Sergio Busquets | 43 | 57 | 46
+EDGE Lionel Messi | Andrés Iniesta | 36 | 57 | 39
+EDGE Lionel Messi | Víctor Valdés | 49 | 57 | 52
+EDGE Lionel Messi | Adriano | 27 | 57 | 30
+EDGE Lionel Messi | Pedro | 26 | 57 | 32
+EDGE Lionel Messi | Seydou Keita | 19 | 57 | 22
+EDGE Lionel Messi | David Villa | 16 | 57 | 17
+EDGE Lionel Messi | Martín Montoya | 4 | 57 | 6
+EDGE Lionel Messi | Maxwell | 4 | 57 | 6
+EDGE Lionel Messi | Cristian Tello | 3 | 57 | 4
+EDGE Lionel Messi | Ibrahim Afellay | 1 | 57 | 1
+EDGE Lionel Messi | Sergi Roberto | 1 | 57 | 3
+EDGE Lionel Messi | Jonathan dos Santos | 1 | 57 | 3
+EDGE Dani Alves | Sergio Busquets | 32 | 45 | 46
+EDGE Dani Alves | Andrés Iniesta | 27 | 45 | 39
+EDGE Dani Alves | Víctor Valdés | 41 | 45 | 52
+EDGE Dani Alves | Adriano | 23 | 45 | 30
+EDGE Dani Alves | Pedro | 20 | 45 | 32
+EDGE Dani Alves | Seydou Keita | 16 | 45 | 22
+EDGE Dani Alves | David Villa | 14 | 45 | 17
+EDGE Dani Alves | Maxwell | 4 | 45 | 6
+EDGE Dani Alves | Cristian Tello | 3 | 45 | 4
+EDGE Dani Alves | Andreu Fontàs | 1 | 45 | 5
+EDGE Dani Alves | Ibrahim Afellay | 1 | 45 | 1
+EDGE Dani Alves | Sergi Roberto | 1 | 45 | 3
+EDGE Dani Alves | Jonathan dos Santos | 1 | 45 | 3
+EDGE Sergio Busquets | Andrés Iniesta | 30 | 46 | 39
+EDGE Sergio Busquets | Víctor Valdés | 38 | 46 | 52
+EDGE Sergio Busquets | Adriano | 20 | 46 | 30
+EDGE Sergio Busquets | Pedro | 22 | 46 | 32
+EDGE Sergio Busquets | Seydou Keita | 10 | 46 | 22
+EDGE Sergio Busquets | David Villa | 9 | 46 | 17
+EDGE Sergio Busquets | Martín Montoya | 4 | 46 | 6
+EDGE Sergio Busquets | Andreu Fontàs | 2 | 46 | 5
+EDGE Sergio Busquets | Maxwell | 2 | 46 | 6
+EDGE Sergio Busquets | Cristian Tello | 2 | 46 | 4
+EDGE Sergio Busquets | Ibrahim Afellay | 1 | 46 | 1
+EDGE Andrés Iniesta | Víctor Valdés | 33 | 39 | 52
+EDGE Andrés Iniesta | Adriano | 18 | 39 | 30
+EDGE Andrés Iniesta | Pedro | 18 | 39 | 32
+EDGE Andrés Iniesta | Seydou Keita | 12 | 39 | 22
+EDGE Andrés Iniesta | David Villa | 10 | 39 | 17
+EDGE Andrés Iniesta | Martín Montoya | 3 | 39 | 6
+EDGE Andrés Iniesta | Andreu Fontàs | 2 | 39 | 5
+EDGE Andrés Iniesta | Cristian Tello | 3 | 39 | 4
+EDGE Andrés Iniesta | Maxwell | 2 | 39 | 6
+EDGE Andrés Iniesta | Jonathan dos Santos | 1 | 39 | 3
+EDGE Víctor Valdés | Adriano | 25 | 52 | 30
+EDGE Víctor Valdés | Pedro | 24 | 52 | 32
+EDGE Víctor Valdés | Seydou Keita | 19 | 52 | 22
+EDGE Víctor Valdés | David Villa | 17 | 52 | 17
+EDGE Víctor Valdés | Maxwell | 5 | 52 | 6
+EDGE Víctor Valdés | Cristian Tello | 4 | 52 | 4
+EDGE Víctor Valdés | Andreu Fontàs | 2 | 52 | 5
+EDGE Víctor Valdés | Ibrahim Afellay | 1 | 52 | 1
+EDGE Víctor Valdés | Sergi Roberto | 1 | 52 | 3
+EDGE Víctor Valdés | Jonathan dos Santos | 2 | 52 | 3
+EDGE Víctor Valdés | Martín Montoya | 1 | 52 | 6
+EDGE Adriano | Pedro | 17 | 30 | 32
+EDGE Adriano | Seydou Keita | 13 | 30 | 22
+EDGE Adriano | David Villa | 7 | 30 | 17
+EDGE Adriano | Andreu Fontàs | 2 | 30 | 5
+EDGE Adriano | Martín Montoya | 4 | 30 | 6
+EDGE Adriano | Sergi Roberto | 1 | 30 | 3
+EDGE Adriano | Cristian Tello | 3 | 30 | 4
+EDGE Adriano | Ibrahim Afellay | 1 | 30 | 1
+EDGE Adriano | Jonathan dos Santos | 1 | 30 | 3
+EDGE Pedro | Seydou Keita | 13 | 32 | 22
+EDGE Pedro | David Villa | 9 | 32 | 17
+EDGE Pedro | Andreu Fontàs | 4 | 32 | 5
+EDGE Pedro | Martín Montoya | 6 | 32 | 6
+EDGE Pedro | Sergi Roberto | 3 | 32 | 3
+EDGE Pedro | Ibrahim Afellay | 1 | 32 | 1
+EDGE Pedro | Marc Bartra | 1 | 32 | 1
+EDGE Pedro | Maxwell | 3 | 32 | 6
+EDGE Pedro | Jonathan dos Santos | 1 | 32 | 3
+EDGE Pedro | Rafinha | 1 | 32 | 1
+EDGE Seydou Keita | David Villa | 10 | 22 | 17
+EDGE Seydou Keita | Martín Montoya | 2 | 22 | 6
+EDGE Seydou Keita | Andreu Fontàs | 2 | 22 | 5
+EDGE Seydou Keita | Ibrahim Afellay | 1 | 22 | 1
+EDGE Seydou Keita | Maxwell | 2 | 22 | 6
+EDGE Seydou Keita | Jonathan dos Santos | 1 | 22 | 3
+EDGE Seydou Keita | Cristian Tello | 1 | 22 | 4
+EDGE David Villa | Maxwell | 3 | 17 | 6
+EDGE David Villa | Andreu Fontàs | 1 | 17 | 5
+EDGE David Villa | Jonathan dos Santos | 1 | 17 | 3
+EDGE David Villa | Cristian Tello | 1 | 17 | 4
+EDGE Andreu Fontàs | Martín Montoya | 2 | 5 | 6
+EDGE Andreu Fontàs | Sergi Roberto | 2 | 5 | 3
+EDGE Andreu Fontàs | Marc Bartra | 1 | 5 | 1
+EDGE Andreu Fontàs | Maxwell | 2 | 5 | 6
+EDGE Andreu Fontàs | Jonathan dos Santos | 2 | 5 | 3
+EDGE Andreu Fontàs | Rafinha | 1 | 5 | 1
+EDGE Andreu Fontàs | Cristian Tello | 1 | 5 | 4
+EDGE Martín Montoya | Sergi Roberto | 2 | 6 | 3
+EDGE Martín Montoya | Marc Bartra | 1 | 6 | 1
+EDGE Martín Montoya | Maxwell | 1 | 6 | 6
+EDGE Martín Montoya | Jonathan dos Santos | 1 | 6 | 3
+EDGE Martín Montoya | Rafinha | 1 | 6 | 1
+EDGE Sergi Roberto | Marc Bartra | 1 | 3 | 1
+EDGE Sergi Roberto | Maxwell | 1 | 3 | 6
+EDGE Sergi Roberto | Jonathan dos Santos | 1 | 3 | 3
+EDGE Sergi Roberto | Rafinha | 1 | 3 | 1
+EDGE Maxwell | Marc Bartra | 1 | 6 | 1
+EDGE Maxwell | Jonathan dos Santos | 2 | 6 | 3
+EDGE Maxwell | Rafinha | 1 | 6 | 1
+EDGE Maxwell | Cristian Tello | 1 | 6 | 4
+EDGE Cristian Tello | Jonathan dos Santos | 2 | 4 | 3
+EDGE Marc Bartra | Jonathan dos Santos | 1 | 1 | 3
+EDGE Marc Bartra | Rafinha | 1 | 1 | 1
+EDGE Jonathan dos Santos | Rafinha | 1 | 3 | 1

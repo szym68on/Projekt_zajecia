@@ -1,0 +1,323 @@
+# Graph for Java/GraphStream
+# Nodes: 28
+# Edges: 317
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Alphonse Areola | Víctor Ruiz | 33 | 37 | 47
+EDGE Alphonse Areola | Daniele Bonera | 7 | 37 | 11
+EDGE Alphonse Areola | Jaume Costa | 20 | 37 | 24
+EDGE Alphonse Areola | Mario Gaspar | 31 | 37 | 42
+EDGE Alphonse Areola | Bruno Soriano | 28 | 37 | 40
+EDGE Alphonse Areola | Jonathan dos Santos | 20 | 37 | 28
+EDGE Alphonse Areola | Denis Suárez | 26 | 37 | 36
+EDGE Alphonse Areola | Samu Castillejo | 16 | 37 | 31
+EDGE Alphonse Areola | Matías Nahuel | 10 | 37 | 17
+EDGE Alphonse Areola | Cédric Bakambu | 22 | 37 | 34
+EDGE Alphonse Areola | Eric Bailly | 22 | 37 | 35
+EDGE Alphonse Areola | Bojan Jokic | 2 | 37 | 7
+EDGE Alphonse Areola | Tomás Pina | 19 | 37 | 27
+EDGE Alphonse Areola | Manu Trigueros | 23 | 37 | 32
+EDGE Alphonse Areola | Alfonso Pedraza | 2 | 37 | 2
+EDGE Alphonse Areola | Samu García | 5 | 37 | 15
+EDGE Alphonse Areola | Roberto Soldado | 30 | 37 | 39
+EDGE Alphonse Areola | Mateo Musacchio | 15 | 37 | 19
+EDGE Alphonse Areola | Adrián Marín | 10 | 37 | 13
+EDGE Alphonse Areola | Léo Baptistão | 10 | 37 | 17
+EDGE Alphonse Areola | Adrián López | 7 | 37 | 11
+EDGE Alphonse Areola | Antonio Rukavina | 11 | 37 | 27
+EDGE Alphonse Areola | Rodri | 1 | 37 | 4
+EDGE Víctor Ruiz | Daniele Bonera | 7 | 47 | 11
+EDGE Víctor Ruiz | Jaume Costa | 23 | 47 | 24
+EDGE Víctor Ruiz | Mario Gaspar | 38 | 47 | 42
+EDGE Víctor Ruiz | Bruno Soriano | 37 | 47 | 40
+EDGE Víctor Ruiz | Jonathan dos Santos | 23 | 47 | 28
+EDGE Víctor Ruiz | Denis Suárez | 33 | 47 | 36
+EDGE Víctor Ruiz | Samu Castillejo | 25 | 47 | 31
+EDGE Víctor Ruiz | Matías Nahuel | 12 | 47 | 17
+EDGE Víctor Ruiz | Cédric Bakambu | 30 | 47 | 34
+EDGE Víctor Ruiz | Mariano Barbosa | 8 | 47 | 12
+EDGE Víctor Ruiz | Eric Bailly | 28 | 47 | 35
+EDGE Víctor Ruiz | Antonio Rukavina | 21 | 47 | 27
+EDGE Víctor Ruiz | Roberto Soldado | 37 | 47 | 39
+EDGE Víctor Ruiz | Léo Baptistão | 13 | 47 | 17
+EDGE Víctor Ruiz | Bojan Jokic | 5 | 47 | 7
+EDGE Víctor Ruiz | Tomás Pina | 25 | 47 | 27
+EDGE Víctor Ruiz | Manu Trigueros | 25 | 47 | 32
+EDGE Víctor Ruiz | Alfonso Pedraza | 2 | 47 | 2
+EDGE Víctor Ruiz | Samu García | 9 | 47 | 15
+EDGE Víctor Ruiz | Sergio Asenjo | 6 | 47 | 7
+EDGE Víctor Ruiz | Adrián López | 7 | 47 | 11
+EDGE Víctor Ruiz | Mateo Musacchio | 13 | 47 | 19
+EDGE Víctor Ruiz | Adrián Marín | 9 | 47 | 13
+EDGE Víctor Ruiz | Rodri | 1 | 47 | 4
+EDGE Daniele Bonera | Jaume Costa | 2 | 11 | 24
+EDGE Daniele Bonera | Mario Gaspar | 8 | 11 | 42
+EDGE Daniele Bonera | Bruno Soriano | 9 | 11 | 40
+EDGE Daniele Bonera | Jonathan dos Santos | 5 | 11 | 28
+EDGE Daniele Bonera | Denis Suárez | 6 | 11 | 36
+EDGE Daniele Bonera | Samu Castillejo | 8 | 11 | 31
+EDGE Daniele Bonera | Matías Nahuel | 3 | 11 | 17
+EDGE Daniele Bonera | Cédric Bakambu | 4 | 11 | 34
+EDGE Daniele Bonera | Mateo Musacchio | 2 | 11 | 19
+EDGE Daniele Bonera | Adrián Marín | 3 | 11 | 13
+EDGE Daniele Bonera | Eric Bailly | 5 | 11 | 35
+EDGE Daniele Bonera | Manu Trigueros | 5 | 11 | 32
+EDGE Daniele Bonera | Léo Baptistão | 4 | 11 | 17
+EDGE Daniele Bonera | Adrián López | 7 | 11 | 11
+EDGE Daniele Bonera | Sergio Asenjo | 1 | 11 | 7
+EDGE Daniele Bonera | Antonio Rukavina | 7 | 11 | 27
+EDGE Daniele Bonera | Tomás Pina | 4 | 11 | 27
+EDGE Daniele Bonera | Roberto Soldado | 4 | 11 | 39
+EDGE Daniele Bonera | Mariano Barbosa | 3 | 11 | 12
+EDGE Daniele Bonera | Samu García | 4 | 11 | 15
+EDGE Daniele Bonera | Rodri | 1 | 11 | 4
+EDGE Daniele Bonera | Bojan Jokic | 1 | 11 | 7
+EDGE Jaume Costa | Mario Gaspar | 20 | 24 | 42
+EDGE Jaume Costa | Bruno Soriano | 21 | 24 | 40
+EDGE Jaume Costa | Jonathan dos Santos | 16 | 24 | 28
+EDGE Jaume Costa | Denis Suárez | 17 | 24 | 36
+EDGE Jaume Costa | Samu Castillejo | 11 | 24 | 31
+EDGE Jaume Costa | Matías Nahuel | 7 | 24 | 17
+EDGE Jaume Costa | Cédric Bakambu | 16 | 24 | 34
+EDGE Jaume Costa | Mariano Barbosa | 2 | 24 | 12
+EDGE Jaume Costa | Eric Bailly | 14 | 24 | 35
+EDGE Jaume Costa | Antonio Rukavina | 4 | 24 | 27
+EDGE Jaume Costa | Roberto Soldado | 23 | 24 | 39
+EDGE Jaume Costa | Léo Baptistão | 7 | 24 | 17
+EDGE Jaume Costa | Tomás Pina | 11 | 24 | 27
+EDGE Jaume Costa | Manu Trigueros | 13 | 24 | 32
+EDGE Jaume Costa | Samu García | 1 | 24 | 15
+EDGE Jaume Costa | Sergio Asenjo | 2 | 24 | 7
+EDGE Jaume Costa | Mateo Musacchio | 9 | 24 | 19
+EDGE Jaume Costa | Adrián Marín | 1 | 24 | 13
+EDGE Mario Gaspar | Bruno Soriano | 32 | 42 | 40
+EDGE Mario Gaspar | Jonathan dos Santos | 21 | 42 | 28
+EDGE Mario Gaspar | Denis Suárez | 30 | 42 | 36
+EDGE Mario Gaspar | Samu Castillejo | 22 | 42 | 31
+EDGE Mario Gaspar | Matías Nahuel | 11 | 42 | 17
+EDGE Mario Gaspar | Cédric Bakambu | 27 | 42 | 34
+EDGE Mario Gaspar | Eric Bailly | 26 | 42 | 35
+EDGE Mario Gaspar | Bojan Jokic | 3 | 42 | 7
+EDGE Mario Gaspar | Tomás Pina | 21 | 42 | 27
+EDGE Mario Gaspar | Manu Trigueros | 26 | 42 | 32
+EDGE Mario Gaspar | Alfonso Pedraza | 2 | 42 | 2
+EDGE Mario Gaspar | Samu García | 7 | 42 | 15
+EDGE Mario Gaspar | Roberto Soldado | 31 | 42 | 39
+EDGE Mario Gaspar | Sergio Asenjo | 7 | 42 | 7
+EDGE Mario Gaspar | Antonio Rukavina | 17 | 42 | 27
+EDGE Mario Gaspar | Léo Baptistão | 12 | 42 | 17
+EDGE Mario Gaspar | Adrián López | 7 | 42 | 11
+EDGE Mario Gaspar | Mateo Musacchio | 11 | 42 | 19
+EDGE Mario Gaspar | Adrián Marín | 6 | 42 | 13
+EDGE Mario Gaspar | Mariano Barbosa | 4 | 42 | 12
+EDGE Bruno Soriano | Jonathan dos Santos | 22 | 40 | 28
+EDGE Bruno Soriano | Denis Suárez | 32 | 40 | 36
+EDGE Bruno Soriano | Samu Castillejo | 21 | 40 | 31
+EDGE Bruno Soriano | Matías Nahuel | 5 | 40 | 17
+EDGE Bruno Soriano | Cédric Bakambu | 28 | 40 | 34
+EDGE Bruno Soriano | Mariano Barbosa | 5 | 40 | 12
+EDGE Bruno Soriano | Eric Bailly | 22 | 40 | 35
+EDGE Bruno Soriano | Antonio Rukavina | 18 | 40 | 27
+EDGE Bruno Soriano | Roberto Soldado | 33 | 40 | 39
+EDGE Bruno Soriano | Léo Baptistão | 9 | 40 | 17
+EDGE Bruno Soriano | Mateo Musacchio | 15 | 40 | 19
+EDGE Bruno Soriano | Adrián Marín | 7 | 40 | 13
+EDGE Bruno Soriano | Manu Trigueros | 20 | 40 | 32
+EDGE Bruno Soriano | Adrián López | 8 | 40 | 11
+EDGE Bruno Soriano | Sergio Asenjo | 7 | 40 | 7
+EDGE Bruno Soriano | Tomás Pina | 16 | 40 | 27
+EDGE Bruno Soriano | Samu García | 3 | 40 | 15
+EDGE Bruno Soriano | Bojan Jokic | 2 | 40 | 7
+EDGE Jonathan dos Santos | Denis Suárez | 23 | 28 | 36
+EDGE Jonathan dos Santos | Samu Castillejo | 8 | 28 | 31
+EDGE Jonathan dos Santos | Matías Nahuel | 5 | 28 | 17
+EDGE Jonathan dos Santos | Cédric Bakambu | 18 | 28 | 34
+EDGE Jonathan dos Santos | Mariano Barbosa | 6 | 28 | 12
+EDGE Jonathan dos Santos | Eric Bailly | 14 | 28 | 35
+EDGE Jonathan dos Santos | Antonio Rukavina | 9 | 28 | 27
+EDGE Jonathan dos Santos | Roberto Soldado | 20 | 28 | 39
+EDGE Jonathan dos Santos | Léo Baptistão | 8 | 28 | 17
+EDGE Jonathan dos Santos | Manu Trigueros | 16 | 28 | 32
+EDGE Jonathan dos Santos | Sergio Asenjo | 2 | 28 | 7
+EDGE Jonathan dos Santos | Tomás Pina | 9 | 28 | 27
+EDGE Jonathan dos Santos | Adrián López | 4 | 28 | 11
+EDGE Jonathan dos Santos | Mateo Musacchio | 13 | 28 | 19
+EDGE Jonathan dos Santos | Adrián Marín | 6 | 28 | 13
+EDGE Jonathan dos Santos | Samu García | 6 | 28 | 15
+EDGE Jonathan dos Santos | Bojan Jokic | 4 | 28 | 7
+EDGE Jonathan dos Santos | Alfonso Pedraza | 1 | 28 | 2
+EDGE Jonathan dos Santos | Miguel Llambrich | 1 | 28 | 1
+EDGE Denis Suárez | Samu Castillejo | 13 | 36 | 31
+EDGE Denis Suárez | Matías Nahuel | 2 | 36 | 17
+EDGE Denis Suárez | Cédric Bakambu | 27 | 36 | 34
+EDGE Denis Suárez | Sergio Asenjo | 7 | 36 | 7
+EDGE Denis Suárez | Eric Bailly | 20 | 36 | 35
+EDGE Denis Suárez | Antonio Rukavina | 17 | 36 | 27
+EDGE Denis Suárez | Tomás Pina | 16 | 36 | 27
+EDGE Denis Suárez | Roberto Soldado | 28 | 36 | 39
+EDGE Denis Suárez | Manu Trigueros | 18 | 36 | 32
+EDGE Denis Suárez | Léo Baptistão | 7 | 36 | 17
+EDGE Denis Suárez | Adrián López | 8 | 36 | 11
+EDGE Denis Suárez | Mateo Musacchio | 13 | 36 | 19
+EDGE Denis Suárez | Bojan Jokic | 3 | 36 | 7
+EDGE Denis Suárez | Samu García | 3 | 36 | 15
+EDGE Denis Suárez | Adrián Marín | 7 | 36 | 13
+EDGE Denis Suárez | Alfonso Pedraza | 1 | 36 | 2
+EDGE Denis Suárez | Mariano Barbosa | 3 | 36 | 12
+EDGE Samu Castillejo | Matías Nahuel | 14 | 31 | 17
+EDGE Samu Castillejo | Cédric Bakambu | 16 | 31 | 34
+EDGE Samu Castillejo | Mariano Barbosa | 10 | 31 | 12
+EDGE Samu Castillejo | Mateo Musacchio | 6 | 31 | 19
+EDGE Samu Castillejo | Pablo Iñiguez | 1 | 31 | 1
+EDGE Samu Castillejo | Adrián Marín | 8 | 31 | 13
+EDGE Samu Castillejo | Antonio Rukavina | 18 | 31 | 27
+EDGE Samu Castillejo | Rodri | 4 | 31 | 4
+EDGE Samu Castillejo | Manu Trigueros | 17 | 31 | 32
+EDGE Samu Castillejo | Samu García | 10 | 31 | 15
+EDGE Samu Castillejo | Eric Bailly | 22 | 31 | 35
+EDGE Samu Castillejo | Roberto Soldado | 20 | 31 | 39
+EDGE Samu Castillejo | Léo Baptistão | 10 | 31 | 17
+EDGE Samu Castillejo | Adrián López | 6 | 31 | 11
+EDGE Samu Castillejo | Sergio Asenjo | 5 | 31 | 7
+EDGE Samu Castillejo | Tomás Pina | 15 | 31 | 27
+EDGE Samu Castillejo | Bojan Jokic | 3 | 31 | 7
+EDGE Samu Castillejo | Miguel Llambrich | 1 | 31 | 1
+EDGE Matías Nahuel | Cédric Bakambu | 7 | 17 | 34
+EDGE Matías Nahuel | Mariano Barbosa | 7 | 17 | 12
+EDGE Matías Nahuel | Mateo Musacchio | 4 | 17 | 19
+EDGE Matías Nahuel | Pablo Iñiguez | 1 | 17 | 1
+EDGE Matías Nahuel | Adrián Marín | 5 | 17 | 13
+EDGE Matías Nahuel | Antonio Rukavina | 7 | 17 | 27
+EDGE Matías Nahuel | Rodri | 3 | 17 | 4
+EDGE Matías Nahuel | Manu Trigueros | 11 | 17 | 32
+EDGE Matías Nahuel | Samu García | 9 | 17 | 15
+EDGE Matías Nahuel | Eric Bailly | 14 | 17 | 35
+EDGE Matías Nahuel | Roberto Soldado | 7 | 17 | 39
+EDGE Matías Nahuel | Léo Baptistão | 9 | 17 | 17
+EDGE Matías Nahuel | Bojan Jokic | 3 | 17 | 7
+EDGE Matías Nahuel | Tomás Pina | 11 | 17 | 27
+EDGE Matías Nahuel | Alfonso Pedraza | 1 | 17 | 2
+EDGE Matías Nahuel | Adrián López | 1 | 17 | 11
+EDGE Matías Nahuel | Miguel Llambrich | 1 | 17 | 1
+EDGE Cédric Bakambu | Mariano Barbosa | 6 | 34 | 12
+EDGE Cédric Bakambu | Mateo Musacchio | 14 | 34 | 19
+EDGE Cédric Bakambu | Pablo Iñiguez | 1 | 34 | 1
+EDGE Cédric Bakambu | Adrián Marín | 5 | 34 | 13
+EDGE Cédric Bakambu | Antonio Rukavina | 17 | 34 | 27
+EDGE Cédric Bakambu | Rodri | 1 | 34 | 4
+EDGE Cédric Bakambu | Manu Trigueros | 20 | 34 | 32
+EDGE Cédric Bakambu | Samu García | 5 | 34 | 15
+EDGE Cédric Bakambu | Sergio Asenjo | 6 | 34 | 7
+EDGE Cédric Bakambu | Eric Bailly | 20 | 34 | 35
+EDGE Cédric Bakambu | Tomás Pina | 15 | 34 | 27
+EDGE Cédric Bakambu | Roberto Soldado | 27 | 34 | 39
+EDGE Cédric Bakambu | Léo Baptistão | 1 | 34 | 17
+EDGE Cédric Bakambu | Adrián López | 2 | 34 | 11
+EDGE Cédric Bakambu | Bojan Jokic | 4 | 34 | 7
+EDGE Cédric Bakambu | Miguel Llambrich | 1 | 34 | 1
+EDGE Mariano Barbosa | Mateo Musacchio | 4 | 12 | 19
+EDGE Mariano Barbosa | Pablo Iñiguez | 1 | 12 | 1
+EDGE Mariano Barbosa | Adrián Marín | 3 | 12 | 13
+EDGE Mariano Barbosa | Antonio Rukavina | 11 | 12 | 27
+EDGE Mariano Barbosa | Rodri | 3 | 12 | 4
+EDGE Mariano Barbosa | Manu Trigueros | 6 | 12 | 32
+EDGE Mariano Barbosa | Samu García | 10 | 12 | 15
+EDGE Mariano Barbosa | Eric Bailly | 6 | 12 | 35
+EDGE Mariano Barbosa | Roberto Soldado | 4 | 12 | 39
+EDGE Mariano Barbosa | Léo Baptistão | 6 | 12 | 17
+EDGE Mariano Barbosa | Bojan Jokic | 5 | 12 | 7
+EDGE Mariano Barbosa | Tomás Pina | 4 | 12 | 27
+EDGE Mariano Barbosa | Adrián López | 2 | 12 | 11
+EDGE Mariano Barbosa | Miguel Llambrich | 1 | 12 | 1
+EDGE Mateo Musacchio | Pablo Iñiguez | 1 | 19 | 1
+EDGE Mateo Musacchio | Adrián Marín | 7 | 19 | 13
+EDGE Mateo Musacchio | Antonio Rukavina | 7 | 19 | 27
+EDGE Mateo Musacchio | Rodri | 3 | 19 | 4
+EDGE Mateo Musacchio | Manu Trigueros | 14 | 19 | 32
+EDGE Mateo Musacchio | Samu García | 5 | 19 | 15
+EDGE Mateo Musacchio | Eric Bailly | 5 | 19 | 35
+EDGE Mateo Musacchio | Léo Baptistão | 4 | 19 | 17
+EDGE Mateo Musacchio | Adrián López | 2 | 19 | 11
+EDGE Mateo Musacchio | Roberto Soldado | 15 | 19 | 39
+EDGE Mateo Musacchio | Tomás Pina | 5 | 19 | 27
+EDGE Mateo Musacchio | Bojan Jokic | 2 | 19 | 7
+EDGE Mateo Musacchio | Miguel Llambrich | 1 | 19 | 1
+EDGE Pablo Iñiguez | Adrián Marín | 1 | 1 | 13
+EDGE Pablo Iñiguez | Antonio Rukavina | 1 | 1 | 27
+EDGE Pablo Iñiguez | Rodri | 1 | 1 | 4
+EDGE Pablo Iñiguez | Manu Trigueros | 1 | 1 | 32
+EDGE Pablo Iñiguez | Samu García | 1 | 1 | 15
+EDGE Adrián Marín | Antonio Rukavina | 5 | 13 | 27
+EDGE Adrián Marín | Rodri | 4 | 13 | 4
+EDGE Adrián Marín | Manu Trigueros | 8 | 13 | 32
+EDGE Adrián Marín | Samu García | 5 | 13 | 15
+EDGE Adrián Marín | Eric Bailly | 7 | 13 | 35
+EDGE Adrián Marín | Léo Baptistão | 4 | 13 | 17
+EDGE Adrián Marín | Adrián López | 5 | 13 | 11
+EDGE Adrián Marín | Tomás Pina | 6 | 13 | 27
+EDGE Adrián Marín | Roberto Soldado | 7 | 13 | 39
+EDGE Adrián Marín | Alfonso Pedraza | 1 | 13 | 2
+EDGE Antonio Rukavina | Rodri | 4 | 27 | 4
+EDGE Antonio Rukavina | Manu Trigueros | 11 | 27 | 32
+EDGE Antonio Rukavina | Samu García | 11 | 27 | 15
+EDGE Antonio Rukavina | Eric Bailly | 17 | 27 | 35
+EDGE Antonio Rukavina | Roberto Soldado | 15 | 27 | 39
+EDGE Antonio Rukavina | Léo Baptistão | 9 | 27 | 17
+EDGE Antonio Rukavina | Sergio Asenjo | 5 | 27 | 7
+EDGE Antonio Rukavina | Tomás Pina | 15 | 27 | 27
+EDGE Antonio Rukavina | Adrián López | 8 | 27 | 11
+EDGE Antonio Rukavina | Bojan Jokic | 5 | 27 | 7
+EDGE Rodri | Manu Trigueros | 2 | 4 | 32
+EDGE Rodri | Samu García | 4 | 4 | 15
+EDGE Rodri | Roberto Soldado | 1 | 4 | 39
+EDGE Rodri | Adrián López | 1 | 4 | 11
+EDGE Rodri | Eric Bailly | 2 | 4 | 35
+EDGE Rodri | Tomás Pina | 2 | 4 | 27
+EDGE Rodri | Léo Baptistão | 2 | 4 | 17
+EDGE Manu Trigueros | Samu García | 10 | 32 | 15
+EDGE Manu Trigueros | Eric Bailly | 20 | 32 | 35
+EDGE Manu Trigueros | Bojan Jokic | 4 | 32 | 7
+EDGE Manu Trigueros | Tomás Pina | 7 | 32 | 27
+EDGE Manu Trigueros | Alfonso Pedraza | 2 | 32 | 2
+EDGE Manu Trigueros | Roberto Soldado | 22 | 32 | 39
+EDGE Manu Trigueros | Léo Baptistão | 10 | 32 | 17
+EDGE Manu Trigueros | Adrián López | 5 | 32 | 11
+EDGE Manu Trigueros | Sergio Asenjo | 3 | 32 | 7
+EDGE Manu Trigueros | Miguel Llambrich | 1 | 32 | 1
+EDGE Samu García | Eric Bailly | 9 | 15 | 35
+EDGE Samu García | Bojan Jokic | 7 | 15 | 7
+EDGE Samu García | Tomás Pina | 8 | 15 | 27
+EDGE Samu García | Alfonso Pedraza | 1 | 15 | 2
+EDGE Samu García | Roberto Soldado | 5 | 15 | 39
+EDGE Samu García | Léo Baptistão | 7 | 15 | 17
+EDGE Samu García | Adrián López | 4 | 15 | 11
+EDGE Samu García | Miguel Llambrich | 1 | 15 | 1
+EDGE Eric Bailly | Roberto Soldado | 23 | 35 | 39
+EDGE Eric Bailly | Léo Baptistão | 13 | 35 | 17
+EDGE Eric Bailly | Bojan Jokic | 4 | 35 | 7
+EDGE Eric Bailly | Tomás Pina | 20 | 35 | 27
+EDGE Eric Bailly | Alfonso Pedraza | 2 | 35 | 2
+EDGE Eric Bailly | Adrián López | 7 | 35 | 11
+EDGE Eric Bailly | Sergio Asenjo | 7 | 35 | 7
+EDGE Eric Bailly | Miguel Llambrich | 1 | 35 | 1
+EDGE Roberto Soldado | Léo Baptistão | 7 | 39 | 17
+EDGE Roberto Soldado | Bojan Jokic | 3 | 39 | 7
+EDGE Roberto Soldado | Tomás Pina | 19 | 39 | 27
+EDGE Roberto Soldado | Alfonso Pedraza | 1 | 39 | 2
+EDGE Roberto Soldado | Sergio Asenjo | 5 | 39 | 7
+EDGE Roberto Soldado | Adrián López | 3 | 39 | 11
+EDGE Léo Baptistão | Adrián López | 6 | 17 | 11
+EDGE Léo Baptistão | Tomás Pina | 8 | 17 | 27
+EDGE Léo Baptistão | Sergio Asenjo | 1 | 17 | 7
+EDGE Léo Baptistão | Bojan Jokic | 2 | 17 | 7
+EDGE Léo Baptistão | Alfonso Pedraza | 1 | 17 | 2
+EDGE Bojan Jokic | Tomás Pina | 4 | 7 | 27
+EDGE Bojan Jokic | Alfonso Pedraza | 1 | 7 | 2
+EDGE Bojan Jokic | Adrián López | 2 | 7 | 11
+EDGE Bojan Jokic | Miguel Llambrich | 1 | 7 | 1
+EDGE Tomás Pina | Alfonso Pedraza | 1 | 27 | 2
+EDGE Tomás Pina | Sergio Asenjo | 4 | 27 | 7
+EDGE Tomás Pina | Adrián López | 5 | 27 | 11
+EDGE Alfonso Pedraza | Adrián López | 1 | 2 | 11
+EDGE Adrián López | Sergio Asenjo | 2 | 11 | 7

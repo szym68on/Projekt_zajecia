@@ -1,0 +1,232 @@
+# Graph for Java/GraphStream
+# Nodes: 23
+# Edges: 226
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Daniel Aranzubia | Fernando Amorebieta | 16 | 28 | 22
+EDGE Daniel Aranzubia | Ander Murillo | 24 | 28 | 33
+EDGE Daniel Aranzubia | Josu Sarriegi | 27 | 28 | 38
+EDGE Daniel Aranzubia | Unai Expósito | 24 | 28 | 30
+EDGE Daniel Aranzubia | Andoni Iraola | 28 | 28 | 36
+EDGE Daniel Aranzubia | Joseba Garmendia | 3 | 28 | 6
+EDGE Daniel Aranzubia | Javi González | 8 | 28 | 8
+EDGE Daniel Aranzubia | Fran Yeste | 21 | 28 | 32
+EDGE Daniel Aranzubia | Aritz Aduriz | 18 | 28 | 28
+EDGE Daniel Aranzubia | Ismael Urzaiz | 17 | 28 | 20
+EDGE Daniel Aranzubia | Luis Prieto | 14 | 28 | 18
+EDGE Daniel Aranzubia | Ustaritz | 4 | 28 | 11
+EDGE Daniel Aranzubia | Javi Martínez | 22 | 28 | 32
+EDGE Daniel Aranzubia | Javi Casas | 16 | 28 | 20
+EDGE Daniel Aranzubia | Igor Gabilondo | 21 | 28 | 28
+EDGE Daniel Aranzubia | Joseba Etxeberria | 13 | 28 | 19
+EDGE Daniel Aranzubia | Pablo Orbaiz | 1 | 28 | 10
+EDGE Daniel Aranzubia | Mikel Dañobeitia | 1 | 28 | 2
+EDGE Daniel Aranzubia | Javier Iturriaga | 1 | 28 | 3
+EDGE Daniel Aranzubia | Tiko | 1 | 28 | 1
+EDGE Fernando Amorebieta | Ander Murillo | 20 | 22 | 33
+EDGE Fernando Amorebieta | Josu Sarriegi | 20 | 22 | 38
+EDGE Fernando Amorebieta | Unai Expósito | 16 | 22 | 30
+EDGE Fernando Amorebieta | Andoni Iraola | 21 | 22 | 36
+EDGE Fernando Amorebieta | Joseba Garmendia | 4 | 22 | 6
+EDGE Fernando Amorebieta | Javi González | 5 | 22 | 8
+EDGE Fernando Amorebieta | Fran Yeste | 17 | 22 | 32
+EDGE Fernando Amorebieta | Aritz Aduriz | 18 | 22 | 28
+EDGE Fernando Amorebieta | Ismael Urzaiz | 12 | 22 | 20
+EDGE Fernando Amorebieta | Javi Casas | 7 | 22 | 20
+EDGE Fernando Amorebieta | Igor Gabilondo | 16 | 22 | 28
+EDGE Fernando Amorebieta | Iñaki Lafuente | 6 | 22 | 12
+EDGE Fernando Amorebieta | Luis Prieto | 8 | 22 | 18
+EDGE Fernando Amorebieta | Javi Martínez | 15 | 22 | 32
+EDGE Fernando Amorebieta | Pablo Orbaiz | 4 | 22 | 10
+EDGE Fernando Amorebieta | Joseba Etxeberria | 8 | 22 | 19
+EDGE Fernando Amorebieta | Ustaritz | 3 | 22 | 11
+EDGE Fernando Amorebieta | Mikel Dañobeitia | 1 | 22 | 2
+EDGE Fernando Amorebieta | Javier Iturriaga | 2 | 22 | 3
+EDGE Fernando Amorebieta | Tiko | 1 | 22 | 1
+EDGE Ander Murillo | Josu Sarriegi | 31 | 33 | 38
+EDGE Ander Murillo | Unai Expósito | 26 | 33 | 30
+EDGE Ander Murillo | Andoni Iraola | 29 | 33 | 36
+EDGE Ander Murillo | Joseba Garmendia | 5 | 33 | 6
+EDGE Ander Murillo | Javi González | 7 | 33 | 8
+EDGE Ander Murillo | Fran Yeste | 26 | 33 | 32
+EDGE Ander Murillo | Aritz Aduriz | 23 | 33 | 28
+EDGE Ander Murillo | Ismael Urzaiz | 19 | 33 | 20
+EDGE Ander Murillo | Javi Casas | 16 | 33 | 20
+EDGE Ander Murillo | Igor Gabilondo | 22 | 33 | 28
+EDGE Ander Murillo | Iñaki Lafuente | 9 | 33 | 12
+EDGE Ander Murillo | Luis Prieto | 14 | 33 | 18
+EDGE Ander Murillo | Javi Martínez | 25 | 33 | 32
+EDGE Ander Murillo | Pablo Orbaiz | 6 | 33 | 10
+EDGE Ander Murillo | Ustaritz | 8 | 33 | 11
+EDGE Ander Murillo | Javier Iturriaga | 2 | 33 | 3
+EDGE Ander Murillo | Mikel Dañobeitia | 2 | 33 | 2
+EDGE Ander Murillo | Joseba Etxeberria | 13 | 33 | 19
+EDGE Ander Murillo | Fernando Llorente | 2 | 33 | 3
+EDGE Ander Murillo | Tiko | 1 | 33 | 1
+EDGE Josu Sarriegi | Unai Expósito | 29 | 38 | 30
+EDGE Josu Sarriegi | Andoni Iraola | 35 | 38 | 36
+EDGE Josu Sarriegi | Joseba Garmendia | 6 | 38 | 6
+EDGE Josu Sarriegi | Javi González | 7 | 38 | 8
+EDGE Josu Sarriegi | Fran Yeste | 31 | 38 | 32
+EDGE Josu Sarriegi | Aritz Aduriz | 27 | 38 | 28
+EDGE Josu Sarriegi | Ismael Urzaiz | 18 | 38 | 20
+EDGE Josu Sarriegi | Iñaki Lafuente | 11 | 38 | 12
+EDGE Josu Sarriegi | Ustaritz | 10 | 38 | 11
+EDGE Josu Sarriegi | Javi Casas | 20 | 38 | 20
+EDGE Josu Sarriegi | Javi Martínez | 30 | 38 | 32
+EDGE Josu Sarriegi | Pablo Orbaiz | 9 | 38 | 10
+EDGE Josu Sarriegi | Joseba Etxeberria | 18 | 38 | 19
+EDGE Josu Sarriegi | Fernando Llorente | 3 | 38 | 3
+EDGE Josu Sarriegi | Luis Prieto | 16 | 38 | 18
+EDGE Josu Sarriegi | Igor Gabilondo | 26 | 38 | 28
+EDGE Josu Sarriegi | Javier Iturriaga | 3 | 38 | 3
+EDGE Josu Sarriegi | Mikel Dañobeitia | 2 | 38 | 2
+EDGE Josu Sarriegi | Tiko | 1 | 38 | 1
+EDGE Unai Expósito | Andoni Iraola | 27 | 30 | 36
+EDGE Unai Expósito | Joseba Garmendia | 3 | 30 | 6
+EDGE Unai Expósito | Javi González | 7 | 30 | 8
+EDGE Unai Expósito | Fran Yeste | 22 | 30 | 32
+EDGE Unai Expósito | Aritz Aduriz | 19 | 30 | 28
+EDGE Unai Expósito | Ismael Urzaiz | 18 | 30 | 20
+EDGE Unai Expósito | Luis Prieto | 13 | 30 | 18
+EDGE Unai Expósito | Ustaritz | 6 | 30 | 11
+EDGE Unai Expósito | Javi Martínez | 24 | 30 | 32
+EDGE Unai Expósito | Javi Casas | 15 | 30 | 20
+EDGE Unai Expósito | Igor Gabilondo | 22 | 30 | 28
+EDGE Unai Expósito | Joseba Etxeberria | 13 | 30 | 19
+EDGE Unai Expósito | Iñaki Lafuente | 6 | 30 | 12
+EDGE Unai Expósito | Javier Iturriaga | 2 | 30 | 3
+EDGE Unai Expósito | Pablo Orbaiz | 4 | 30 | 10
+EDGE Unai Expósito | Mikel Dañobeitia | 2 | 30 | 2
+EDGE Unai Expósito | Fernando Llorente | 2 | 30 | 3
+EDGE Andoni Iraola | Joseba Garmendia | 6 | 36 | 6
+EDGE Andoni Iraola | Javi González | 8 | 36 | 8
+EDGE Andoni Iraola | Fran Yeste | 29 | 36 | 32
+EDGE Andoni Iraola | Aritz Aduriz | 25 | 36 | 28
+EDGE Andoni Iraola | Ismael Urzaiz | 17 | 36 | 20
+EDGE Andoni Iraola | Iñaki Lafuente | 8 | 36 | 12
+EDGE Andoni Iraola | Ustaritz | 7 | 36 | 11
+EDGE Andoni Iraola | Javi Casas | 19 | 36 | 20
+EDGE Andoni Iraola | Javi Martínez | 29 | 36 | 32
+EDGE Andoni Iraola | Pablo Orbaiz | 6 | 36 | 10
+EDGE Andoni Iraola | Joseba Etxeberria | 18 | 36 | 19
+EDGE Andoni Iraola | Fernando Llorente | 2 | 36 | 3
+EDGE Andoni Iraola | Luis Prieto | 17 | 36 | 18
+EDGE Andoni Iraola | Igor Gabilondo | 25 | 36 | 28
+EDGE Andoni Iraola | Mikel Dañobeitia | 1 | 36 | 2
+EDGE Andoni Iraola | Javier Iturriaga | 2 | 36 | 3
+EDGE Andoni Iraola | Tiko | 1 | 36 | 1
+EDGE Joseba Garmendia | Javi González | 1 | 6 | 8
+EDGE Joseba Garmendia | Fran Yeste | 5 | 6 | 32
+EDGE Joseba Garmendia | Aritz Aduriz | 4 | 6 | 28
+EDGE Joseba Garmendia | Ismael Urzaiz | 2 | 6 | 20
+EDGE Joseba Garmendia | Iñaki Lafuente | 3 | 6 | 12
+EDGE Joseba Garmendia | Ustaritz | 2 | 6 | 11
+EDGE Joseba Garmendia | Javi Casas | 2 | 6 | 20
+EDGE Joseba Garmendia | Javi Martínez | 4 | 6 | 32
+EDGE Joseba Garmendia | Pablo Orbaiz | 3 | 6 | 10
+EDGE Joseba Garmendia | Joseba Etxeberria | 2 | 6 | 19
+EDGE Joseba Garmendia | Fernando Llorente | 1 | 6 | 3
+EDGE Joseba Garmendia | Luis Prieto | 3 | 6 | 18
+EDGE Joseba Garmendia | Igor Gabilondo | 1 | 6 | 28
+EDGE Javi González | Fran Yeste | 5 | 8 | 32
+EDGE Javi González | Aritz Aduriz | 5 | 8 | 28
+EDGE Javi González | Ismael Urzaiz | 4 | 8 | 20
+EDGE Javi González | Luis Prieto | 2 | 8 | 18
+EDGE Javi González | Javi Martínez | 7 | 8 | 32
+EDGE Javi González | Igor Gabilondo | 5 | 8 | 28
+EDGE Javi González | Joseba Etxeberria | 4 | 8 | 19
+EDGE Javi González | Javi Casas | 2 | 8 | 20
+EDGE Javi González | Mikel Dañobeitia | 1 | 8 | 2
+EDGE Javi González | Ustaritz | 1 | 8 | 11
+EDGE Javi González | Javier Iturriaga | 1 | 8 | 3
+EDGE Fran Yeste | Aritz Aduriz | 24 | 32 | 28
+EDGE Fran Yeste | Ismael Urzaiz | 16 | 32 | 20
+EDGE Fran Yeste | Iñaki Lafuente | 11 | 32 | 12
+EDGE Fran Yeste | Ustaritz | 9 | 32 | 11
+EDGE Fran Yeste | Javi Casas | 17 | 32 | 20
+EDGE Fran Yeste | Javi Martínez | 26 | 32 | 32
+EDGE Fran Yeste | Pablo Orbaiz | 9 | 32 | 10
+EDGE Fran Yeste | Joseba Etxeberria | 12 | 32 | 19
+EDGE Fran Yeste | Fernando Llorente | 2 | 32 | 3
+EDGE Fran Yeste | Igor Gabilondo | 21 | 32 | 28
+EDGE Fran Yeste | Luis Prieto | 13 | 32 | 18
+EDGE Fran Yeste | Mikel Dañobeitia | 1 | 32 | 2
+EDGE Fran Yeste | Javier Iturriaga | 2 | 32 | 3
+EDGE Fran Yeste | Tiko | 1 | 32 | 1
+EDGE Aritz Aduriz | Ismael Urzaiz | 10 | 28 | 20
+EDGE Aritz Aduriz | Luis Prieto | 12 | 28 | 18
+EDGE Aritz Aduriz | Ustaritz | 8 | 28 | 11
+EDGE Aritz Aduriz | Javi Martínez | 21 | 28 | 32
+EDGE Aritz Aduriz | Javi Casas | 11 | 28 | 20
+EDGE Aritz Aduriz | Igor Gabilondo | 21 | 28 | 28
+EDGE Aritz Aduriz | Joseba Etxeberria | 12 | 28 | 19
+EDGE Aritz Aduriz | Iñaki Lafuente | 10 | 28 | 12
+EDGE Aritz Aduriz | Pablo Orbaiz | 8 | 28 | 10
+EDGE Aritz Aduriz | Fernando Llorente | 1 | 28 | 3
+EDGE Aritz Aduriz | Javier Iturriaga | 2 | 28 | 3
+EDGE Aritz Aduriz | Tiko | 1 | 28 | 1
+EDGE Ismael Urzaiz | Javi Casas | 11 | 20 | 20
+EDGE Ismael Urzaiz | Igor Gabilondo | 14 | 20 | 28
+EDGE Ismael Urzaiz | Javi Martínez | 16 | 20 | 32
+EDGE Ismael Urzaiz | Iñaki Lafuente | 3 | 20 | 12
+EDGE Ismael Urzaiz | Ustaritz | 4 | 20 | 11
+EDGE Ismael Urzaiz | Pablo Orbaiz | 3 | 20 | 10
+EDGE Ismael Urzaiz | Luis Prieto | 9 | 20 | 18
+EDGE Ismael Urzaiz | Joseba Etxeberria | 5 | 20 | 19
+EDGE Ismael Urzaiz | Mikel Dañobeitia | 1 | 20 | 2
+EDGE Ismael Urzaiz | Tiko | 1 | 20 | 1
+EDGE Iñaki Lafuente | Ustaritz | 7 | 12 | 11
+EDGE Iñaki Lafuente | Javi Casas | 4 | 12 | 20
+EDGE Iñaki Lafuente | Javi Martínez | 10 | 12 | 32
+EDGE Iñaki Lafuente | Pablo Orbaiz | 9 | 12 | 10
+EDGE Iñaki Lafuente | Joseba Etxeberria | 6 | 12 | 19
+EDGE Iñaki Lafuente | Fernando Llorente | 3 | 12 | 3
+EDGE Iñaki Lafuente | Luis Prieto | 4 | 12 | 18
+EDGE Iñaki Lafuente | Javier Iturriaga | 2 | 12 | 3
+EDGE Iñaki Lafuente | Mikel Dañobeitia | 1 | 12 | 2
+EDGE Iñaki Lafuente | Igor Gabilondo | 7 | 12 | 28
+EDGE Ustaritz | Javi Casas | 5 | 11 | 20
+EDGE Ustaritz | Javi Martínez | 10 | 11 | 32
+EDGE Ustaritz | Pablo Orbaiz | 7 | 11 | 10
+EDGE Ustaritz | Joseba Etxeberria | 7 | 11 | 19
+EDGE Ustaritz | Fernando Llorente | 2 | 11 | 3
+EDGE Ustaritz | Luis Prieto | 2 | 11 | 18
+EDGE Ustaritz | Igor Gabilondo | 6 | 11 | 28
+EDGE Ustaritz | Javier Iturriaga | 1 | 11 | 3
+EDGE Ustaritz | Mikel Dañobeitia | 1 | 11 | 2
+EDGE Javi Casas | Javi Martínez | 16 | 20 | 32
+EDGE Javi Casas | Pablo Orbaiz | 3 | 20 | 10
+EDGE Javi Casas | Joseba Etxeberria | 10 | 20 | 19
+EDGE Javi Casas | Fernando Llorente | 3 | 20 | 3
+EDGE Javi Casas | Luis Prieto | 8 | 20 | 18
+EDGE Javi Casas | Igor Gabilondo | 12 | 20 | 28
+EDGE Javi Casas | Javier Iturriaga | 2 | 20 | 3
+EDGE Javi Casas | Mikel Dañobeitia | 1 | 20 | 2
+EDGE Javi Martínez | Pablo Orbaiz | 9 | 32 | 10
+EDGE Javi Martínez | Joseba Etxeberria | 15 | 32 | 19
+EDGE Javi Martínez | Fernando Llorente | 2 | 32 | 3
+EDGE Javi Martínez | Luis Prieto | 15 | 32 | 18
+EDGE Javi Martínez | Igor Gabilondo | 22 | 32 | 28
+EDGE Javi Martínez | Mikel Dañobeitia | 1 | 32 | 2
+EDGE Javi Martínez | Javier Iturriaga | 1 | 32 | 3
+EDGE Pablo Orbaiz | Joseba Etxeberria | 5 | 10 | 19
+EDGE Pablo Orbaiz | Fernando Llorente | 2 | 10 | 3
+EDGE Pablo Orbaiz | Luis Prieto | 4 | 10 | 18
+EDGE Pablo Orbaiz | Javier Iturriaga | 1 | 10 | 3
+EDGE Pablo Orbaiz | Mikel Dañobeitia | 1 | 10 | 2
+EDGE Pablo Orbaiz | Igor Gabilondo | 6 | 10 | 28
+EDGE Joseba Etxeberria | Fernando Llorente | 2 | 19 | 3
+EDGE Joseba Etxeberria | Luis Prieto | 9 | 19 | 18
+EDGE Joseba Etxeberria | Igor Gabilondo | 15 | 19 | 28
+EDGE Joseba Etxeberria | Javier Iturriaga | 2 | 19 | 3
+EDGE Joseba Etxeberria | Mikel Dañobeitia | 1 | 19 | 2
+EDGE Fernando Llorente | Javier Iturriaga | 1 | 3 | 3
+EDGE Fernando Llorente | Mikel Dañobeitia | 1 | 3 | 2
+EDGE Fernando Llorente | Luis Prieto | 1 | 3 | 18
+EDGE Luis Prieto | Igor Gabilondo | 15 | 18 | 28
+EDGE Luis Prieto | Tiko | 1 | 18 | 1
+EDGE Igor Gabilondo | Javier Iturriaga | 2 | 28 | 3
+EDGE Igor Gabilondo | Tiko | 1 | 28 | 1
+EDGE Javier Iturriaga | Mikel Dañobeitia | 1 | 3 | 2

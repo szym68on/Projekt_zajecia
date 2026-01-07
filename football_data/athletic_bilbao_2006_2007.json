@@ -1,0 +1,7182 @@
+[
+  {
+    "url": "https://www.transfermarkt.pl/real-sociedad_athletic-bilbao/aufstellung/spielbericht/58613",
+    "match_id": "58613",
+    "date": "niedz., 28.01.2007",
+    "competition": "LALIGA",
+    "matchday": "20. Kolejka",
+    "home_team": "Real Sociedad",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Claudio Bravo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Víctor López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mikel González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Garrido",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aitor López Rekarte",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juanito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gorka Elustondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Xabi Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jesuli",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sávio",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Morten Skoubo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mikel Aranburu",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Gari Uranga",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Germán Herrera",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Garmendia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Mikel Dañobeitia",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_fc-barcelona/aufstellung/spielbericht/58465",
+    "match_id": "58465",
+    "date": "sob., 30.09.2006",
+    "competition": "LALIGA",
+    "matchday": "5. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "FC Barcelona",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Iñaki Lafuente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Ustaritz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Pablo Orbaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Joseba Garmendia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Víctor Valdés",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Rafa Márquez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Carles Puyol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Giovanni van Bronckhorst",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Gianluca Zambrotta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Edmílson",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Xavi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Deco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Ronaldinho",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Lionel Messi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Eidur Gudjohnsen",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Andrés Iniesta",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "8",
+        "name": "Ludovic Giuly",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Javier Saviola",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_valencia-cf/aufstellung/spielbericht/58696",
+    "match_id": "58696",
+    "date": "sob., 07.04.2007",
+    "competition": "LALIGA",
+    "matchday": "29. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Valencia CF",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ustaritz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Joseba Garmendia",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Ludovic Butelle",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Emiliano Moretti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Carlos Marchena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Asier del Horno",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Curro Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Hugo Viana",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Miguel Pallardó",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Silva",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jorge López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Miguel Ángel Angulo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Miguel",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Joaquín",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "David Villa",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_getafe-cf/aufstellung/spielbericht/58636",
+    "match_id": "58636",
+    "date": "niedz., 18.02.2007",
+    "competition": "LALIGA",
+    "matchday": "23. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Getafe CF",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Roberto Abbondanzieri",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Manuel Tena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Belenguer",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Paredes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Nacho",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Cortés",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabio Celestini",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mario Cotelo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ángel Vivar Dorado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Dani Güiza",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Manu del Moral",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Albín",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "David Sousa",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Maris Verpakovskis",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/gimnàstic-de-tarragona_athletic-bilbao/aufstellung/spielbericht/58470",
+    "match_id": "58470",
+    "date": "niedz., 15.10.2006",
+    "competition": "LALIGA",
+    "matchday": "6. Kolejka",
+    "home_team": "Gimnàstic de Tarragona",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Albano Bizzarri",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aníbal Matellán",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Julio Cáceres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Manuel Ruz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Abel Buades",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Díaz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Cuéllar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Portillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gil",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Irurzun",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Alejandro Campano",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Carlos Merino",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Ariza Makukula",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Iñaki Lafuente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Pablo Orbaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Joseba Garmendia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Javier Iturriaga",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/rcd-mallorca_athletic-bilbao/aufstellung/spielbericht/2283301",
+    "match_id": "2283301",
+    "date": "śr., 08.11.2006",
+    "competition": "Unknown",
+    "matchday": "Unknown",
+    "home_team": "RCD Mallorca",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "José Nunes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Sergio Ballesteros",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Javier Dorado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Héctor Berenguel",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Angelos Basinas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Guillermo Pereyra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Leonardo Pisculichi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Juan Arango",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Boško Janković",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Diego Tristán",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Fernando Navarro",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Ariel Ibagaza",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Víctor Casadesús",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Iñaki Lafuente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Ustaritz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Javier Iturriaga",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Pablo Orbaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Mikel Dañobeitia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_rcd-espanyol/aufstellung/spielbericht/58706",
+    "match_id": "58706",
+    "date": "niedz., 15.04.2007",
+    "competition": "LALIGA",
+    "matchday": "30. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "RCD Espanyol",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Garmendia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Iturriaga",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Carlos Kameni",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Dani Jarque",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Velasco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mari Lacruz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Eduardo Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jônatas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Moha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Francisco Rufete",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ferrán Corominas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Walter Pandiani",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Marc Torrejón",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Luis García",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Iván de la Peña",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_real-betis-balompié/aufstellung/spielbericht/58616",
+    "match_id": "58616",
+    "date": "niedz., 04.02.2007",
+    "competition": "LALIGA",
+    "matchday": "21. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Real Betis Balompié",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi González",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Toni Doblas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Branko Ilic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Rivas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Arzu",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Vega",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Johann Vogel",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Alberto Rivera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Pablo Caffa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Capi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Robert",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Rafael Sóbis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Miguel Ángel",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fernando",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fabrice Pancrate",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/fc-barcelona_athletic-bilbao/aufstellung/spielbericht/58647",
+    "match_id": "58647",
+    "date": "niedz., 25.02.2007",
+    "competition": "LALIGA",
+    "matchday": "24. Kolejka",
+    "home_team": "FC Barcelona",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Víctor Valdés",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Carles Puyol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Oleguer",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Giovanni van Bronckhorst",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Lilian Thuram",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Edmílson",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Andrés Iniesta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Xavi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Ronaldinho",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Ludovic Giuly",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Samuel Eto'o",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Sylvinho",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Lionel Messi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Javier Saviola",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Vergara",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_real-sociedad/aufstellung/spielbericht/58416",
+    "match_id": "58416",
+    "date": "niedz., 27.08.2006",
+    "competition": "LALIGA",
+    "matchday": "1. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Real Sociedad",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Orbaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Joseba Garmendia",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Mikel Dañobeitia",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Asier Riesgo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mikel Labaka",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aitor López Rekarte",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gerardo García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juanito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mikel Alonso",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Diego Rivas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Álvaro Novo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Xabi Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gari Uranga",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Darko Kovacevic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mikel Aranburu",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fábio Felício",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Iñigo Díaz de Cerio",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_racing-santander/aufstellung/spielbericht/58497",
+    "match_id": "58497",
+    "date": "niedz., 05.11.2006",
+    "competition": "LALIGA",
+    "matchday": "9. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Racing Santander",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Iñaki Lafuente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ustaritz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Orbaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Toño",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ezequiel Garay",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Oriol Lozano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Fernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Pinillos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Lionel Scaloni",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gonzalo Colsa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Felipe Melo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio Tomás",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pedro Munitis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Nikola Zigic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Vitolo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Óscar Serrano",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Javier Balboa",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/valencia-cf_athletic-bilbao/aufstellung/spielbericht/58515",
+    "match_id": "58515",
+    "date": "sob., 11.11.2006",
+    "competition": "LALIGA",
+    "matchday": "10. Kolejka",
+    "home_team": "Valencia CF",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Santiago Cañizares",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Roberto Ayala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Navarro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Cerra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Miguel",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Edú Gaspar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Silva",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joaquín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Villa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Morientes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Hugo Viana",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Rubén Baraja",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Miguel Ángel Angulo",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Iñaki Lafuente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ustaritz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Orbaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/levante-ud_athletic-bilbao/aufstellung/spielbericht/58601",
+    "match_id": "58601",
+    "date": "niedz., 21.01.2007",
+    "competition": "LALIGA",
+    "matchday": "19. Kolejka",
+    "home_team": "Levante UD",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "José Francisco Molina",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Frédéric Déhu",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Alexis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ian Harte",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Manolo Gaspar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Diego Camacho",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Damiano Tommasi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Laurent Courtois",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Olivier Kapo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Félix Ettien",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Riga Mustapha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sylvain N'Diaye",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Laurent Robert",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Nino",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Garmendia",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_rcd-mallorca/aufstellung/spielbericht/58766",
+    "match_id": "58766",
+    "date": "niedz., 27.05.2007",
+    "competition": "LALIGA",
+    "matchday": "36. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "RCD Mallorca",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ustaritz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Tiko",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Javi González",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Ballesteros",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Nunes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Navarro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Varela",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Héctor Berenguel",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Guillermo Pereyra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Arango",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jonás Gutiérrez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ariel Ibagaza",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Víctor Casadesús",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Óscar Trejo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Boško Janković",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Maxi López",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_gimnàstic-de-tarragona/aufstellung/spielbericht/58656",
+    "match_id": "58656",
+    "date": "niedz., 04.03.2007",
+    "competition": "LALIGA",
+    "matchday": "25. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Gimnàstic de Tarragona",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "17",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Albano Bizzarri",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "César Navas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mingo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "José Calvo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sebastien Chabaud",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Àngel Morales",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Cuéllar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio Pinilla",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Portillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Rubén Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aníbal Matellán",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Juan Díaz",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Irurzun",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_real-zaragoza/aufstellung/spielbericht/58566",
+    "match_id": "58566",
+    "date": "śr., 20.12.2006",
+    "competition": "LALIGA",
+    "matchday": "16. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Real Zaragoza",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Joseba Garmendia",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "17",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "César Sánchez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Gabriel Milito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Gerard Piqué",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Juanfran",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Carlos Diogo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Albert Celades",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Alberto Zapater",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Pablo Aimar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Andrés D'Alessandro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Ewerthon",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Diego Milito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Óscar González",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Ángel Lafita",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Sergio García",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_recreativo-huelva/aufstellung/spielbericht/58546",
+    "match_id": "58546",
+    "date": "niedz., 10.12.2006",
+    "competition": "LALIGA",
+    "matchday": "14. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Recreativo Huelva",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Joseba Garmendia",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Javier López Vallejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Beto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Merino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Amo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Dani Bautista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aitor Tornavaca",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Santi Cazorla",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Emilio Viqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jesús Vázquez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Florent Sinama-Pongolle",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ikechukwu Uche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "César Arzo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Iago Bouzón",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Laurenţiu Roşu",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/sevilla-fc_athletic-bilbao/aufstellung/spielbericht/58722",
+    "match_id": "58722",
+    "date": "niedz., 22.04.2007",
+    "competition": "LALIGA",
+    "matchday": "31. Kolejka",
+    "home_team": "Sevilla FC",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "David Cobeño",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Julien Escudé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aitor Ocio",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Castedo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio Puerta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Dani Alves",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Christian Poulsen",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Renato",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jesús Navas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aleksandr Kerzhakov",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luís Fabiano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andreas Hinkel",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Enzo Maresca",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Javier Chevantón",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Iñaki Lafuente",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Ustaritz",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_deportivo-de-la-coruña/aufstellung/spielbericht/58746",
+    "match_id": "58746",
+    "date": "niedz., 13.05.2007",
+    "competition": "LALIGA",
+    "matchday": "34. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Deportivo de La Coruña",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Dudu Aouate",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jorge Andrade",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Alberto Lopo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabricio Coloccini",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joan Capdevila",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Julian de Guzmán",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabián Estoyanoff",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Riki",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Arizmendi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Filipe Luís",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Pablo Álvarez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Rodolfo Bodipo",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_sevilla-fc/aufstellung/spielbericht/58526",
+    "match_id": "58526",
+    "date": "niedz., 26.11.2006",
+    "competition": "LALIGA",
+    "matchday": "12. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Sevilla FC",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Iñaki Lafuente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ustaritz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Orbaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Garmendia",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Andrés Palop",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ivica Dragutinovic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Julien Escudé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aitor Ocio",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio Puerta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Dani Alves",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andreas Hinkel",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josep Lluís Martí",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Christian Poulsen",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Frédéric Kanouté",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luís Fabiano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Navarro",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Renato",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Alejandro Alfaro",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_celta-de-vigo/aufstellung/spielbericht/58476",
+    "match_id": "58476",
+    "date": "niedz., 22.10.2006",
+    "competition": "LALIGA",
+    "matchday": "7. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Celta de Vigo",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Iñaki Lafuente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "17",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "José Manuel Pinto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Matías Lequi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Pablo Contreras",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Diego Placente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Ángel López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Borja Oubiña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "25",
+        "name": "Iriney",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Fabián Canobbio",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Nenê",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antonio Núñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Baiano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Gabriel Tamaș",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Jonathan Aspas",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Antonio Guayre",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_athletic-bilbao/aufstellung/spielbericht/58626",
+    "match_id": "58626",
+    "date": "niedz., 11.02.2007",
+    "competition": "LALIGA",
+    "matchday": "22. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mikel Dañobeitia",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/real-madryt_athletic-bilbao/aufstellung/spielbericht/58541",
+    "match_id": "58541",
+    "date": "niedz., 03.12.2006",
+    "competition": "LALIGA",
+    "matchday": "13. Kolejka",
+    "home_team": "Real Madryt",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Iker Casillas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Sergio Ramos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Álvaro Mejía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Roberto Carlos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Míchel Salgado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Emerson",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Mahamadou Diarra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "José Antonio Reyes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Robinho",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Raúl",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Ruud van Nistelrooy",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "David Beckham",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Ronaldo",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Iñaki Lafuente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Pablo Orbaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "3",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_levante-ud/aufstellung/spielbericht/58786",
+    "match_id": "58786",
+    "date": "niedz., 17.06.2007",
+    "competition": "LALIGA",
+    "matchday": "38. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Levante UD",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Ustaritz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Tiko",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "José Francisco Molina",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "José Serrano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Alexis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Luis Rubiales",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Iñaki Descarga",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Mathieu Berson",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Damiano Tommasi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Laurent Robert",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Félix Ettien",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Riga Mustapha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Gustavo Reggi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Sylvain N'Diaye",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Nino",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "24",
+        "name": "Albert Meyong",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/celta-de-vigo_athletic-bilbao/aufstellung/spielbericht/58669",
+    "match_id": "58669",
+    "date": "niedz., 11.03.2007",
+    "competition": "LALIGA",
+    "matchday": "26. Kolejka",
+    "home_team": "Celta de Vigo",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "José Manuel Pinto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Matías Lequi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Yago Yao",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Diego Placente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Ángel López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Pablo García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Jonathan Aspas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Fabián Canobbio",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Gustavo López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antonio Núñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Baiano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "30",
+        "name": "Jonathan Vila",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Nenê",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Habib Bamogo",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Javi González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Mikel Dañobeitia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_athletic-bilbao/aufstellung/spielbericht/58784",
+    "match_id": "58784",
+    "date": "sob., 09.06.2007",
+    "competition": "LALIGA",
+    "matchday": "37. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Sebastián Viera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Gonzalo Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Fabricio Fuentes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "José Enrique",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Javi Venta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Josico",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Alessio Tacchinardi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Robert Pirès",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Cani",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Diego Forlán",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Guillermo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Rodolfo Arruabarrena",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Leandro Somoza",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Matías Fernández",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Ustaritz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Javi González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Tiko",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/real-zaragoza_athletic-bilbao/aufstellung/spielbericht/58765",
+    "match_id": "58765",
+    "date": "sob., 19.05.2007",
+    "competition": "LALIGA",
+    "matchday": "35. Kolejka",
+    "home_team": "Real Zaragoza",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "César Sánchez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Gabriel Milito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergio Fernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Juanfran",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Carlos Diogo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "José María Movilla",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Alberto Zapater",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Pablo Aimar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Andrés D'Alessandro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Sergio García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Diego Milito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Albert Celades",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Antonio Longás",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Ángel Lafita",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Javi González",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "17",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_villarreal-cf/aufstellung/spielbericht/58586",
+    "match_id": "58586",
+    "date": "niedz., 14.01.2007",
+    "competition": "LALIGA",
+    "matchday": "18. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Sebastián Viera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pascal Cygan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabricio Fuentes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josemi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Enrique",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josico",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Marcos Senna",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Marquitos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Matías Fernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Cani",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Diego Forlán",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Bruno Soriano",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Leandro Somoza",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Alessio Tacchinardi",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_ca-osasuna/aufstellung/spielbericht/58676",
+    "match_id": "58676",
+    "date": "sob., 17.03.2007",
+    "competition": "LALIGA",
+    "matchday": "27. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "CA Osasuna",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Iturriaga",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Garmendia",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Ricardo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Carlos Cuéllar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Miguel Flaño",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Nacho Monreal",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Izquierdo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Iñaki Muñoz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javad Nekounam",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Roberto Soldado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Patxi Puñal",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Pierre Webó",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/deportivo-de-la-coruña_athletic-bilbao/aufstellung/spielbericht/58559",
+    "match_id": "58559",
+    "date": "niedz., 17.12.2006",
+    "competition": "LALIGA",
+    "matchday": "15. Kolejka",
+    "home_team": "Deportivo de La Coruña",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Dudu Aouate",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juanma Delgado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joan Capdevila",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Álvaro Arbeloa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Manuel Pablo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Julian de Guzmán",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joan Verdú",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Cristian Hidalgo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Riki",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Arizmendi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabián Estoyanoff",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Iago Iglesias",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Adrián López",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Joseba Garmendia",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/getafe-cf_athletic-bilbao/aufstellung/spielbericht/58449",
+    "match_id": "58449",
+    "date": "niedz., 24.09.2006",
+    "competition": "LALIGA",
+    "matchday": "4. Kolejka",
+    "home_team": "Getafe CF",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Roberto Abbondanzieri",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Belenguer",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Alexis Ruano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Paredes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Nacho",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Cosmin Contra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabio Celestini",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Redondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Sousa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Dani Güiza",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Veljko Paunovic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Casquero",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Sergio Pachón",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Iñaki Lafuente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ustaritz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Orbaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Garmendia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/real-betis-balompié_athletic-bilbao/aufstellung/spielbericht/58428",
+    "match_id": "58428",
+    "date": "niedz., 10.09.2006",
+    "competition": "LALIGA",
+    "matchday": "2. Kolejka",
+    "home_team": "Real Betis Balompié",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Toni Doblas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Nano Rivas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Melli",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juanito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Enrique Romero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Johann Vogel",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Alberto Rivera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Francisco Maldonado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Xisco Muñoz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Edú",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Rafael Sóbis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Miguel Ángel",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Capi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Jorge Wagner",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Tiko",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_real-madryt/aufstellung/spielbericht/58726",
+    "match_id": "58726",
+    "date": "niedz., 29.04.2007",
+    "competition": "LALIGA",
+    "matchday": "32. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Real Madryt",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Javi González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Ustaritz",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Iker Casillas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Sergio Ramos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Fabio Cannavaro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "38",
+        "name": "Miguel Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Cicinho",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Mahamadou Diarra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Emerson",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "David Beckham",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Raúl",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Robinho",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Ruud van Nistelrooy",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Guti",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "José Antonio Reyes",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Gonzalo Higuaín",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_atlético-madryt/aufstellung/spielbericht/58439",
+    "match_id": "58439",
+    "date": "niedz., 17.09.2006",
+    "competition": "LALIGA",
+    "matchday": "3. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Tiko",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Joseba Garmendia",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Martin Petrov",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maxi Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/rcd-espanyol_athletic-bilbao/aufstellung/spielbericht/58516",
+    "match_id": "58516",
+    "date": "niedz., 19.11.2006",
+    "competition": "LALIGA",
+    "matchday": "11. Kolejka",
+    "home_team": "RCD Espanyol",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Carlos Kameni",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Dani Jarque",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Marc Torrejón",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Chica",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Zabaleta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Moisés Hurtado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Albert Riera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Iván de la Peña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Francisco Rufete",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Raúl Tamudo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ferrán Corominas",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Walter Pandiani",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Iñaki Lafuente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ustaritz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Orbaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Iturriaga",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/ca-osasuna_athletic-bilbao/aufstellung/spielbericht/58492",
+    "match_id": "58492",
+    "date": "niedz., 29.10.2006",
+    "competition": "LALIGA",
+    "matchday": "8. Kolejka",
+    "home_team": "CA Osasuna",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Ricardo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Carlos Cuéllar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josetxo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Enrique Corrales",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Flaño",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Patxi Puñal",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ludovic Delporte",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Valdo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Savo Milosevic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pierre Webó",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David López",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Juanlu",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Roberto Soldado",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Iñaki Lafuente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Beñat Etxebarria",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Mikel Dañobeitia",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/rcd-mallorca_athletic-bilbao/aufstellung/spielbericht/58582",
+    "match_id": "58582",
+    "date": "niedz., 07.01.2007",
+    "competition": "LALIGA",
+    "matchday": "17. Kolejka",
+    "home_team": "RCD Mallorca",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Toni Prats",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Nunes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Iván Ramis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Navarro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Varela",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Guillermo Pereyra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Arango",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jonás Gutiérrez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ariel Ibagaza",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Boško Janković",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Víctor Casadesús",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jordi López",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Diego Tristán",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Maxi López",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joseba Garmendia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_rcd-mallorca/aufstellung/spielbericht/2283317",
+    "match_id": "2283317",
+    "date": "śr., 25.10.2006",
+    "competition": "Unknown",
+    "matchday": "Unknown",
+    "home_team": "Athletic Bilbao",
+    "away_team": "RCD Mallorca",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Iñaki Lafuente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Javi Casas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Javier Iturriaga",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Mikel Dañobeitia",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Iván Ramis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Sergio Ballesteros",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Javier Dorado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Héctor Berenguel",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Guillermo Pereyra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Jordi López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Boško Janković",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Daniel Komé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Maxi López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Víctor Casadesús",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Fernando Navarro",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Angelos Basinas",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Jonás Gutiérrez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/racing-santander_athletic-bilbao/aufstellung/spielbericht/58693",
+    "match_id": "58693",
+    "date": "niedz., 01.04.2007",
+    "competition": "LALIGA",
+    "matchday": "28. Kolejka",
+    "home_team": "Racing Santander",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Toño",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Ezequiel Garay",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Rubén González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "35",
+        "name": "Bolaño",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Pablo Pinillos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Gonzalo Colsa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Vitolo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Pedro Munitis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Óscar Serrano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Javier Balboa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Nikola Zigic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Cristian Álvarez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "16",
+        "name": "Momo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Juanjo Expósito",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Javi González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Joseba Etxeberria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Joseba Garmendia",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/recreativo-huelva_athletic-bilbao/aufstellung/spielbericht/58742",
+    "match_id": "58742",
+    "date": "niedz., 06.05.2007",
+    "competition": "LALIGA",
+    "matchday": "33. Kolejka",
+    "home_team": "Recreativo Huelva",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Javier López Vallejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mario Abrante",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Merino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Amo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Poli",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Santi Cazorla",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Rafa Barber",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jesús Vázquez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juanma",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Florent Sinama-Pongolle",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ikechukwu Uche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Laurenţiu Roşu",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Javi Guerrero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Unai Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ustaritz",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  }
+]

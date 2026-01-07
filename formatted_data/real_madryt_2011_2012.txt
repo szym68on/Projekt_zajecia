@@ -1,0 +1,178 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 1178301 | śr., 18.01.2012 | FC Barcelona
+PLAYERS: Iker Casillas, Ricardo Carvalho, Sergio Ramos, Fábio Coentrão, Hamit Altıntop, Pepe, Xabi Alonso, Lassana Diarra, Cristiano Ronaldo, Gonzalo Higuaín, Karim Benzema
+
+MATCH: 1125430 | sob., 28.01.2012 | Real Zaragoza
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Hamit Altıntop, Xabi Alonso, Esteban Granero, Mesut Özil, Kaká, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 1125293 | sob., 15.10.2011 | Real Betis Balompié
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Lassana Diarra, Mesut Özil, Kaká, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 1125509 | śr., 21.03.2012 | Villarreal CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Lassana Diarra, Sami Khedira, Cristiano Ronaldo, Mesut Özil, Karim Benzema
+
+MATCH: 1176711 | wt., 03.01.2012 | Málaga CF
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Marcelo, Álvaro Arbeloa, Xabi Alonso, Lassana Diarra, Kaká, Cristiano Ronaldo, José Callejón, Gonzalo Higuaín
+
+MATCH: 1125556 | sob., 14.04.2012 | Sporting Gijón
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Nuri Şahin, Sami Khedira, Mesut Özil, Cristiano Ronaldo, José Callejón, Gonzalo Higuaín
+
+MATCH: 1125413 | śr., 02.05.2012 | Athletic Bilbao
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, José Callejón, Gonzalo Higuaín
+
+MATCH: 1125395 | sob., 07.01.2012 | Granada CF
+PLAYERS: Iker Casillas, Sergio Ramos, Raphaël Varane, Marcelo, Lassana Diarra, Xabi Alonso, Sami Khedira, Cristiano Ronaldo, Mesut Özil, Karim Benzema, Gonzalo Higuaín
+
+MATCH: 1125480 | niedz., 04.03.2012 | RCD Espanyol
+PLAYERS: Iker Casillas, Ricardo Carvalho, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Kaká, Cristiano Ronaldo, Mesut Özil, Gonzalo Higuaín
+
+MATCH: 1141878 | wt., 18.10.2011 | Olympique Lyon
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1174226 | wt., 21.02.2012 | CSKA Moskwa
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Sami Khedira, Xabi Alonso, Mesut Özil, Cristiano Ronaldo, José Callejón, Karim Benzema
+
+MATCH: 1125290 | niedz., 02.10.2011 | RCD Espanyol
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Xabi Alonso, Lassana Diarra, Kaká, Cristiano Ronaldo, Mesut Özil, Gonzalo Higuaín
+
+MATCH: 1122445 | śr., 17.08.2011 | FC Barcelona
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Fábio Coentrão, Sergio Ramos, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1125271 | śr., 21.09.2011 | Racing Santander
+PLAYERS: Iker Casillas, Ricardo Carvalho, Raphaël Varane, Marcelo, Álvaro Arbeloa, Xabi Alonso, Lassana Diarra, Mesut Özil, Cristiano Ronaldo, José Callejón, Karim Benzema
+
+MATCH: 1125594 | niedz., 13.05.2012 | RCD Mallorca
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Karim Benzema, Gonzalo Higuaín
+
+MATCH: 1158644 | wt., 20.12.2011 | SD Ponferradina
+PLAYERS: Antonio Adán, Pepe, Raphaël Varane, Jorge Casado, Hamit Altıntop, Sami Khedira, Esteban Granero, Nuri Şahin, Mesut Özil, José Callejón, Karim Benzema
+
+MATCH: 1122444 | niedz., 14.08.2011 | FC Barcelona
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2194737 | wt., 17.04.2012 | Bayern Monachium
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1125261 | niedz., 18.09.2011 | Levante UD
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Sami Khedira, Ángel Di María, Fábio Coentrão, Kaká, Karim Benzema
+
+MATCH: 1125250 | sob., 10.09.2011 | Getafe CF
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Fábio Coentrão, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1125483 | sob., 10.03.2012 | Real Betis Balompié
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Kaká, Cristiano Ronaldo, Mesut Özil, Gonzalo Higuaín
+
+MATCH: 1125527 | niedz., 08.04.2012 | Valencia CF
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Karim Benzema, Gonzalo Higuaín
+
+MATCH: 1125376 | sob., 10.12.2011 | FC Barcelona
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Fábio Coentrão, Xabi Alonso, Lassana Diarra, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1125404 | sob., 14.01.2012 | RCD Mallorca
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Lassana Diarra, Mesut Özil, Cristiano Ronaldo, José Callejón, Karim Benzema
+
+MATCH: 1125440 | sob., 04.02.2012 | Getafe CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Lassana Diarra, Mesut Özil, Kaká, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 1125366 | sob., 03.12.2011 | Sporting Gijón
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Fábio Coentrão, Lassana Diarra, Sami Khedira, Ángel Di María, Mesut Özil, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 1125566 | sob., 21.04.2012 | FC Barcelona
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1193024 | śr., 04.04.2012 | APOEL Nikosia
+PLAYERS: Iker Casillas, Pepe, Raphaël Varane, Marcelo, Sergio Ramos, Nuri Şahin, Esteban Granero, Kaká, Cristiano Ronaldo, Hamit Altıntop, Gonzalo Higuaín
+
+MATCH: 1125338 | niedz., 06.11.2011 | CA Osasuna
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1176719 | wt., 10.01.2012 | Málaga CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Sami Khedira, Xabi Alonso, Lassana Diarra, Cristiano Ronaldo, Kaká, Gonzalo Higuaín
+
+MATCH: 1125499 | niedz., 18.03.2012 | Málaga CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Lassana Diarra, Xabi Alonso, Sami Khedira, Kaká, Cristiano Ronaldo, Mesut Özil, Karim Benzema
+
+MATCH: 1125240 | niedz., 28.08.2011 | Real Zaragoza
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Fábio Coentrão, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1125328 | sob., 29.10.2011 | Real Sociedad
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Lassana Diarra, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1125385 | sob., 17.12.2011 | Sevilla FC
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Lassana Diarra, Ángel Di María, Cristiano Ronaldo, José Callejón, Karim Benzema
+
+MATCH: 1125585 | sob., 05.05.2012 | Granada CF
+PLAYERS: Antonio Adán, Ricardo Carvalho, Raphaël Varane, Marcelo, Raúl Albiol, Nuri Şahin, Esteban Granero, Kaká, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1125451 | niedz., 12.02.2012 | Levante UD
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Esteban Granero, Mesut Özil, Cristiano Ronaldo, Karim Benzema, Gonzalo Higuaín
+
+MATCH: 1125548 | sob., 24.03.2012 | Real Sociedad
+PLAYERS: Iker Casillas, Sergio Ramos, Raphaël Varane, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Kaká, Cristiano Ronaldo, Karim Benzema, Gonzalo Higuaín
+
+MATCH: 2193021 | wt., 27.03.2012 | APOEL Nikosia
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Sami Khedira, Nuri Şahin, Mesut Özil, Cristiano Ronaldo, Karim Benzema, Gonzalo Higuaín
+
+MATCH: 1125471 | niedz., 26.02.2012 | Rayo Vallecano
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Kaká, Cristiano Ronaldo, Mesut Özil, Gonzalo Higuaín
+
+MATCH: 1125575 | niedz., 29.04.2012 | Sevilla FC
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Esteban Granero, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1125309 | sob., 22.10.2011 | Málaga CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Kaká, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1125537 | śr., 11.04.2012 | Atlético Madryt
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Kaká, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1134013 | sob., 31.03.2012 | CA Osasuna
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Xabi Alonso, Esteban Granero, Mesut Özil, Cristiano Ronaldo, Karim Benzema, Gonzalo Higuaín
+
+MATCH: 1141916 | wt., 22.11.2011 | GNK Dinamo Zagrzeb
+PLAYERS: Antonio Adán, Sergio Ramos, Raphaël Varane, Fábio Coentrão, Lassana Diarra, Xabi Alonso, Nuri Şahin, Mesut Özil, Karim Benzema, José Callejón, Gonzalo Higuaín
+
+MATCH: 1141854 | śr., 14.09.2011 | GNK Dinamo Zagrzeb
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Fábio Coentrão, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1174227 | śr., 14.03.2012 | CSKA Moskwa
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Kaká, Gonzalo Higuaín
+
+MATCH: 1141863 | wt., 27.09.2011 | Ajax Amsterdam
+PLAYERS: Iker Casillas, Ricardo Carvalho, Raphaël Varane, Álvaro Arbeloa, Sergio Ramos, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Kaká, Karim Benzema
+
+MATCH: 1141941 | śr., 07.12.2011 | Ajax Amsterdam
+PLAYERS: Antonio Adán, Raúl Albiol, Raphaël Varane, Fábio Coentrão, Álvaro Arbeloa, Nuri Şahin, Esteban Granero, Kaká, Karim Benzema, José Callejón, Gonzalo Higuaín
+
+MATCH: 1125347 | sob., 19.11.2011 | Valencia CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Lassana Diarra, Sami Khedira, Cristiano Ronaldo, Mesut Özil, Karim Benzema
+
+MATCH: 1178297 | śr., 25.01.2012 | FC Barcelona
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Lassana Diarra, Kaká, Cristiano Ronaldo, Mesut Özil, Gonzalo Higuaín
+
+MATCH: 1125062 | niedz., 22.01.2012 | Athletic Bilbao
+PLAYERS: Iker Casillas, Sergio Ramos, Raphaël Varane, Marcelo, Álvaro Arbeloa, Xabi Alonso, Esteban Granero, Kaká, Cristiano Ronaldo, Mesut Özil, Karim Benzema
+
+MATCH: 2194740 | śr., 25.04.2012 | Bayern Monachium
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1125281 | sob., 24.09.2011 | Rayo Vallecano
+PLAYERS: Iker Casillas, Raúl Albiol, Raphaël Varane, Marcelo, Sergio Ramos, Xabi Alonso, Lassana Diarra, Kaká, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1125461 | sob., 18.02.2012 | Racing Santander
+PLAYERS: Iker Casillas, Pepe, Raphaël Varane, Marcelo, Sergio Ramos, Xabi Alonso, Esteban Granero, Mesut Özil, Kaká, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 1125357 | sob., 26.11.2011 | Atlético Madryt
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Lassana Diarra, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1125319 | śr., 26.10.2011 | Villarreal CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Kaká, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1158627 | wt., 13.12.2011 | SD Ponferradina
+PLAYERS: Antonio Adán, Raúl Albiol, Raphaël Varane, Marcelo, Hamit Altıntop, Nuri Şahin, Sami Khedira, Kaká, Cristiano Ronaldo, José Callejón, Gonzalo Higuaín
+
+MATCH: 1141902 | śr., 02.11.2011 | Olympique Lyon
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Lassana Diarra, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+

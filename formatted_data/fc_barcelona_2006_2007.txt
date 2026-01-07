@@ -1,0 +1,181 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 58777 | sob., 09.06.2007 | RCD Espanyol
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Giovanni van Bronckhorst, Gianluca Zambrotta, Xavi, Andrés Iniesta, Deco, Eidur Gudjohnsen, Lionel Messi, Samuel Eto'o
+
+MATCH: 58567 | śr., 20.12.2006 | Atlético Madryt
+PLAYERS: Víctor Valdés, Carles Puyol, Oleguer, Juliano Belletti, Lilian Thuram, Thiago Motta, Andrés Iniesta, Xavi, Ronaldinho, Deco, Eidur Gudjohnsen
+
+MATCH: 58548 | niedz., 10.12.2006 | Real Sociedad
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Sylvinho, Juliano Belletti, Edmílson, Xavi, Deco, Ronaldinho, Ludovic Giuly, Eidur Gudjohnsen
+
+MATCH: 991944 | niedz., 17.12.2006 | Internacional Porto Alegre
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Gianluca Zambrotta, Thiago Motta, Andrés Iniesta, Deco, Ronaldinho, Ludovic Giuly, Eidur Gudjohnsen
+
+MATCH: 2283284 | śr., 10.01.2007 | Deportivo Alavés
+PLAYERS: Albert Jorquera, Rafa Márquez, Carles Puyol, Sylvinho, Juliano Belletti, Edmílson, Andrés Iniesta, Xavi, Santiago Ezquerro, Ludovic Giuly, Javier Saviola
+
+MATCH: 64816 | wt., 12.09.2006 | Levski Sofia
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Giovanni van Bronckhorst, Juliano Belletti, Thiago Motta, Deco, Ludovic Giuly, Ronaldinho, Andrés Iniesta, Samuel Eto'o
+
+MATCH: 58507 | niedz., 12.11.2006 | Real Zaragoza
+PLAYERS: Víctor Valdés, Carles Puyol, Edmílson, Sylvinho, Gianluca Zambrotta, Rafa Márquez, Andrés Iniesta, Deco, Ronaldinho, Lionel Messi, Eidur Gudjohnsen
+
+MATCH: 1097467 | czw., 17.08.2006 | RCD Espanyol
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Oleguer, Thiago Motta, Xavi, Deco, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 58644 | niedz., 18.02.2007 | Valencia CF
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Gianluca Zambrotta, Oleguer, Edmílson, Xavi, Deco, Ronaldinho, Andrés Iniesta, Eidur Gudjohnsen
+
+MATCH: 66316 | wt., 31.10.2006 | Chelsea FC
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Gianluca Zambrotta, Thiago Motta, Xavi, Deco, Ronaldinho, Lionel Messi, Eidur Gudjohnsen
+
+MATCH: 58708 | niedz., 15.04.2007 | RCD Mallorca
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Giovanni van Bronckhorst, Gianluca Zambrotta, Rafa Márquez, Andrés Iniesta, Deco, Lionel Messi, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 58789 | niedz., 17.06.2007 | Gimnàstic de Tarragona
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Giovanni van Bronckhorst, Gianluca Zambrotta, Xavi, Andrés Iniesta, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 67333 | wt., 06.03.2007 | FC Liverpool
+PLAYERS: Víctor Valdés, Rafa Márquez, Lilian Thuram, Carles Puyol, Oleguer, Andrés Iniesta, Xavi, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 58743 | sob., 05.05.2007 | Real Sociedad
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Giovanni van Bronckhorst, Gianluca Zambrotta, Edmílson, Andrés Iniesta, Xavi, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 58687 | sob., 31.03.2007 | Deportivo de La Coruña
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Giovanni van Bronckhorst, Gianluca Zambrotta, Edmílson, Andrés Iniesta, Xavi, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 58519 | niedz., 19.11.2006 | RCD Mallorca
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Oleguer, Thiago Motta, Andrés Iniesta, Deco, Ronaldinho, Ludovic Giuly, Eidur Gudjohnsen
+
+MATCH: 58597 | niedz., 21.01.2007 | Gimnàstic de Tarragona
+PLAYERS: Víctor Valdés, Lilian Thuram, Oleguer, Carles Puyol, Gianluca Zambrotta, Edmílson, Xavi, Deco, Ronaldinho, Ludovic Giuly, Javier Saviola
+
+MATCH: 1097466 | niedz., 20.08.2006 | RCD Espanyol
+PLAYERS: Albert Jorquera, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Juliano Belletti, Thiago Motta, Xavi, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 58499 | sob., 04.11.2006 | Deportivo de La Coruña
+PLAYERS: Víctor Valdés, Lilian Thuram, Edmílson, Giovanni van Bronckhorst, Gianluca Zambrotta, Rafa Márquez, Andrés Iniesta, Deco, Ronaldinho, Lionel Messi, Javier Saviola
+
+MATCH: 58465 | sob., 30.09.2006 | Athletic Bilbao
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Gianluca Zambrotta, Edmílson, Xavi, Deco, Ronaldinho, Lionel Messi, Eidur Gudjohnsen
+
+MATCH: 58627 | niedz., 11.02.2007 | Racing Santander
+PLAYERS: Víctor Valdés, Carles Puyol, Edmílson, Gianluca Zambrotta, Juliano Belletti, Rafa Márquez, Xavi, Deco, Ronaldinho, Andrés Iniesta, Javier Saviola
+
+MATCH: 58588 | niedz., 14.01.2007 | RCD Espanyol
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Juliano Belletti, Edmílson, Andrés Iniesta, Xavi, Ronaldinho, Ludovic Giuly, Eidur Gudjohnsen
+
+MATCH: 58607 | niedz., 28.01.2007 | Celta de Vigo
+PLAYERS: Víctor Valdés, Carles Puyol, Oleguer, Giovanni van Bronckhorst, Gianluca Zambrotta, Edmílson, Andrés Iniesta, Xavi, Deco, Ronaldinho, Javier Saviola
+
+MATCH: 2283265 | śr., 28.02.2007 | Real Zaragoza
+PLAYERS: Albert Jorquera, Rafa Márquez, Oleguer, Carles Puyol, Lilian Thuram, Xavi, Andrés Iniesta, Deco, Ronaldinho, Ludovic Giuly, Lionel Messi
+
+MATCH: 58539 | niedz., 03.12.2006 | Levante UD
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Sylvinho, Juliano Belletti, Edmílson, Xavi, Deco, Andrés Iniesta, Ludovic Giuly, Eidur Gudjohnsen
+
+MATCH: 58667 | sob., 10.03.2007 | Real Madryt
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Oleguer, Rafa Márquez, Andrés Iniesta, Xavi, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 2283288 | śr., 08.11.2006 | CF Badalona
+PLAYERS: Albert Jorquera, Lilian Thuram, Oleguer, Sylvinho, Juliano Belletti, Thiago Motta, Giovanni van Bronckhorst, Andrés Iniesta, Santiago Ezquerro, Ludovic Giuly, Javier Saviola
+
+MATCH: 2283262 | śr., 18.04.2007 | Getafe CF
+PLAYERS: Albert Jorquera, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Gianluca Zambrotta, Xavi, Andrés Iniesta, Deco, Eidur Gudjohnsen, Lionel Messi, Samuel Eto'o
+
+MATCH: 58528 | sob., 25.11.2006 | Villarreal CF
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Giovanni van Bronckhorst, Gianluca Zambrotta, Edmílson, Andrés Iniesta, Deco, Ronaldinho, Ludovic Giuly, Eidur Gudjohnsen
+
+MATCH: 58579 | niedz., 07.01.2007 | Getafe CF
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Juliano Belletti, Edmílson, Andrés Iniesta, Xavi, Ludovic Giuly, Eidur Gudjohnsen, Santiago Ezquerro
+
+MATCH: 2283269 | śr., 31.01.2007 | Real Zaragoza
+PLAYERS: Albert Jorquera, Rafa Márquez, Carles Puyol, Gianluca Zambrotta, Oleguer, Edmílson, Xavi, Deco, Ronaldinho, Andrés Iniesta, Javier Saviola
+
+MATCH: 58426 | sob., 09.09.2006 | CA Osasuna
+PLAYERS: Víctor Valdés, Rafa Márquez, Lilian Thuram, Sylvinho, Gianluca Zambrotta, Edmílson, Xavi, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 58485 | niedz., 22.10.2006 | Real Madryt
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Sylvinho, Gianluca Zambrotta, Xavi, Andrés Iniesta, Deco, Ronaldinho, Lionel Messi, Eidur Gudjohnsen
+
+MATCH: 66314 | śr., 18.10.2006 | Chelsea FC
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Gianluca Zambrotta, Edmílson, Xavi, Deco, Ronaldinho, Lionel Messi, Eidur Gudjohnsen
+
+MATCH: 948832 | pt., 25.08.2006 | Sevilla FC
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Juliano Belletti, Xavi, Thiago Motta, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 58728 | niedz., 29.04.2007 | Levante UD
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Giovanni van Bronckhorst, Gianluca Zambrotta, Xavi, Andrés Iniesta, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 58475 | niedz., 15.10.2006 | Sevilla FC
+PLAYERS: Víctor Valdés, Rafa Márquez, Lilian Thuram, Sylvinho, Juliano Belletti, Thiago Motta, Andrés Iniesta, Xavi, Ronaldinho, Lionel Messi, Eidur Gudjohnsen
+
+MATCH: 58455 | niedz., 24.09.2006 | Valencia CF
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Gianluca Zambrotta, Edmílson, Xavi, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 58438 | niedz., 17.09.2006 | Racing Santander
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Gianluca Zambrotta, Edmílson, Xavi, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 58495 | sob., 28.10.2006 | Recreativo Huelva
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Juliano Belletti, Edmílson, Xavi, Deco, Ronaldinho, Ludovic Giuly, Eidur Gudjohnsen
+
+MATCH: 58647 | niedz., 25.02.2007 | Athletic Bilbao
+PLAYERS: Víctor Valdés, Carles Puyol, Oleguer, Giovanni van Bronckhorst, Lilian Thuram, Edmílson, Andrés Iniesta, Xavi, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 58767 | sob., 26.05.2007 | Getafe CF
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Giovanni van Bronckhorst, Juliano Belletti, Edmílson, Xavi, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 66319 | wt., 05.12.2006 | SV Werder Bremen
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Gianluca Zambrotta, Thiago Motta, Andrés Iniesta, Deco, Ronaldinho, Ludovic Giuly, Eidur Gudjohnsen
+
+MATCH: 58705 | sob., 07.04.2007 | Real Zaragoza
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Oleguer, Rafa Márquez, Xavi, Deco, Andrés Iniesta, Ronaldinho, Ludovic Giuly, Lionel Messi
+
+MATCH: 66503 | śr., 21.02.2007 | FC Liverpool
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Gianluca Zambrotta, Juliano Belletti, Thiago Motta, Xavi, Deco, Ronaldinho, Lionel Messi, Javier Saviola
+
+MATCH: 991942 | czw., 14.12.2006 | CF América
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Gianluca Zambrotta, Thiago Motta, Andrés Iniesta, Deco, Ronaldinho, Ludovic Giuly, Eidur Gudjohnsen
+
+MATCH: 58557 | śr., 24.01.2007 | Real Betis Balompié
+PLAYERS: Víctor Valdés, Rafa Márquez, Oleguer, Carles Puyol, Giovanni van Bronckhorst, Thiago Motta, Andrés Iniesta, Deco, Ronaldinho, Ludovic Giuly, Javier Saviola
+
+MATCH: 58417 | pon., 28.08.2006 | Celta de Vigo
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Gianluca Zambrotta, Thiago Motta, Andrés Iniesta, Deco, Lionel Messi, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 64832 | śr., 27.09.2006 | SV Werder Bremen
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Sylvinho, Oleguer, Thiago Motta, Andrés Iniesta, Deco, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 2283304 | śr., 25.10.2006 | CF Badalona
+PLAYERS: Albert Jorquera, Carles Puyol, Oleguer, Giovanni van Bronckhorst, Gianluca Zambrotta, Thiago Motta, Xavi, Santiago Ezquerro, Ludovic Giuly, Javier Saviola, Eidur Gudjohnsen
+
+MATCH: 2283260 | czw., 10.05.2007 | Getafe CF
+PLAYERS: Albert Jorquera, Carles Puyol, Oleguer, Sylvinho, Gianluca Zambrotta, Edmílson, Andrés Iniesta, Xavi, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 2283271 | wt., 16.01.2007 | Deportivo Alavés
+PLAYERS: Albert Jorquera, Rafa Márquez, Carles Puyol, Sylvinho, Oleguer, Thiago Motta, Giovanni van Bronckhorst, Xavi, Ronaldinho, Santiago Ezquerro, Javier Saviola
+
+MATCH: 58663 | sob., 03.03.2007 | Sevilla FC
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Oleguer, Andrés Iniesta, Xavi, Gianluca Zambrotta, Giovanni van Bronckhorst, Ronaldinho, Ludovic Giuly, Lionel Messi
+
+MATCH: 58681 | sob., 17.03.2007 | Recreativo Huelva
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Sylvinho, Gianluca Zambrotta, Xavi, Andrés Iniesta, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 58620 | niedz., 04.02.2007 | CA Osasuna
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Oleguer, Gianluca Zambrotta, Edmílson, Xavi, Deco, Ludovic Giuly, Javier Saviola, Santiago Ezquerro
+
+MATCH: 66318 | śr., 22.11.2006 | Levski Sofia
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Gianluca Zambrotta, Thiago Motta, Andrés Iniesta, Deco, Ronaldinho, Ludovic Giuly, Eidur Gudjohnsen
+
+MATCH: 58724 | niedz., 22.04.2007 | Villarreal CF
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Sylvinho, Gianluca Zambrotta, Xavi, Andrés Iniesta, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 58756 | niedz., 20.05.2007 | Atlético Madryt
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Giovanni van Bronckhorst, Gianluca Zambrotta, Edmílson, Xavi, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 58747 | niedz., 13.05.2007 | Real Betis Balompié
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Giovanni van Bronckhorst, Gianluca Zambrotta, Xavi, Andrés Iniesta, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+

@@ -1,0 +1,296 @@
+# Graph for Java/GraphStream
+# Nodes: 26
+# Edges: 290
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Thibaut Courtois | Diego Godín | 49 | 56 | 51
+EDGE Thibaut Courtois | Miranda | 49 | 56 | 52
+EDGE Thibaut Courtois | Filipe Luís | 48 | 56 | 49
+EDGE Thibaut Courtois | Toby Alderweireld | 14 | 56 | 18
+EDGE Thibaut Courtois | Tiago Mendes | 28 | 56 | 30
+EDGE Thibaut Courtois | Gabi | 51 | 56 | 53
+EDGE Thibaut Courtois | Raúl García | 31 | 56 | 35
+EDGE Thibaut Courtois | Koke | 50 | 56 | 53
+EDGE Thibaut Courtois | David Villa | 39 | 56 | 39
+EDGE Thibaut Courtois | Diego Costa | 48 | 56 | 50
+EDGE Thibaut Courtois | Juanfran Torres | 53 | 56 | 54
+EDGE Thibaut Courtois | José Sosa | 5 | 56 | 6
+EDGE Thibaut Courtois | Arda Turan | 32 | 56 | 34
+EDGE Thibaut Courtois | Adrián López | 12 | 56 | 15
+EDGE Thibaut Courtois | Mario Suárez | 23 | 56 | 24
+EDGE Thibaut Courtois | Diego | 5 | 56 | 7
+EDGE Thibaut Courtois | Óliver Torres | 2 | 56 | 5
+EDGE Thibaut Courtois | Josuha Guilavogui | 3 | 56 | 4
+EDGE Thibaut Courtois | Emiliano Insúa | 8 | 56 | 11
+EDGE Thibaut Courtois | Cristian Rodríguez | 5 | 56 | 7
+EDGE Thibaut Courtois | Javier Manquillo | 2 | 56 | 7
+EDGE Thibaut Courtois | Léo Baptistão | 2 | 56 | 3
+EDGE Thibaut Courtois | José María Giménez | 1 | 56 | 2
+EDGE Diego Godín | Miranda | 43 | 51 | 52
+EDGE Diego Godín | Filipe Luís | 44 | 51 | 49
+EDGE Diego Godín | Toby Alderweireld | 8 | 51 | 18
+EDGE Diego Godín | Tiago Mendes | 26 | 51 | 30
+EDGE Diego Godín | Gabi | 45 | 51 | 53
+EDGE Diego Godín | Raúl García | 26 | 51 | 35
+EDGE Diego Godín | Koke | 44 | 51 | 53
+EDGE Diego Godín | David Villa | 35 | 51 | 39
+EDGE Diego Godín | Diego Costa | 46 | 51 | 50
+EDGE Diego Godín | Juanfran Torres | 47 | 51 | 54
+EDGE Diego Godín | José Sosa | 5 | 51 | 6
+EDGE Diego Godín | Arda Turan | 31 | 51 | 34
+EDGE Diego Godín | Adrián López | 11 | 51 | 15
+EDGE Diego Godín | Mario Suárez | 22 | 51 | 24
+EDGE Diego Godín | Diego | 5 | 51 | 7
+EDGE Diego Godín | Óliver Torres | 3 | 51 | 5
+EDGE Diego Godín | Emiliano Insúa | 6 | 51 | 11
+EDGE Diego Godín | Cristian Rodríguez | 4 | 51 | 7
+EDGE Diego Godín | Javier Manquillo | 4 | 51 | 7
+EDGE Diego Godín | Josuha Guilavogui | 1 | 51 | 4
+EDGE Diego Godín | Daniel Aranzubia | 2 | 51 | 5
+EDGE Diego Godín | Léo Baptistão | 2 | 51 | 3
+EDGE Diego Godín | José María Giménez | 1 | 51 | 2
+EDGE Miranda | Filipe Luís | 42 | 52 | 49
+EDGE Miranda | Toby Alderweireld | 10 | 52 | 18
+EDGE Miranda | Tiago Mendes | 27 | 52 | 30
+EDGE Miranda | Gabi | 48 | 52 | 53
+EDGE Miranda | Raúl García | 29 | 52 | 35
+EDGE Miranda | Koke | 47 | 52 | 53
+EDGE Miranda | David Villa | 34 | 52 | 39
+EDGE Miranda | Diego Costa | 44 | 52 | 50
+EDGE Miranda | Juanfran Torres | 47 | 52 | 54
+EDGE Miranda | Adrián López | 11 | 52 | 15
+EDGE Miranda | Mario Suárez | 20 | 52 | 24
+EDGE Miranda | Diego | 5 | 52 | 7
+EDGE Miranda | Arda Turan | 31 | 52 | 34
+EDGE Miranda | Óliver Torres | 3 | 52 | 5
+EDGE Miranda | José Sosa | 5 | 52 | 6
+EDGE Miranda | Josuha Guilavogui | 2 | 52 | 4
+EDGE Miranda | Emiliano Insúa | 9 | 52 | 11
+EDGE Miranda | Cristian Rodríguez | 4 | 52 | 7
+EDGE Miranda | Daniel Aranzubia | 3 | 52 | 5
+EDGE Miranda | Javier Manquillo | 5 | 52 | 7
+EDGE Miranda | Léo Baptistão | 2 | 52 | 3
+EDGE Filipe Luís | Toby Alderweireld | 12 | 49 | 18
+EDGE Filipe Luís | Tiago Mendes | 26 | 49 | 30
+EDGE Filipe Luís | Gabi | 44 | 49 | 53
+EDGE Filipe Luís | Raúl García | 27 | 49 | 35
+EDGE Filipe Luís | Koke | 44 | 49 | 53
+EDGE Filipe Luís | David Villa | 36 | 49 | 39
+EDGE Filipe Luís | Diego Costa | 41 | 49 | 50
+EDGE Filipe Luís | Juanfran Torres | 45 | 49 | 54
+EDGE Filipe Luís | José Sosa | 4 | 49 | 6
+EDGE Filipe Luís | Arda Turan | 28 | 49 | 34
+EDGE Filipe Luís | Adrián López | 12 | 49 | 15
+EDGE Filipe Luís | Mario Suárez | 19 | 49 | 24
+EDGE Filipe Luís | Diego | 4 | 49 | 7
+EDGE Filipe Luís | Óliver Torres | 3 | 49 | 5
+EDGE Filipe Luís | Josuha Guilavogui | 2 | 49 | 4
+EDGE Filipe Luís | Cristian Rodríguez | 3 | 49 | 7
+EDGE Filipe Luís | Javier Manquillo | 3 | 49 | 7
+EDGE Filipe Luís | Daniel Aranzubia | 1 | 49 | 5
+EDGE Filipe Luís | Léo Baptistão | 1 | 49 | 3
+EDGE Filipe Luís | José María Giménez | 1 | 49 | 2
+EDGE Toby Alderweireld | Tiago Mendes | 7 | 18 | 30
+EDGE Toby Alderweireld | Gabi | 13 | 18 | 53
+EDGE Toby Alderweireld | Raúl García | 15 | 18 | 35
+EDGE Toby Alderweireld | Koke | 15 | 18 | 53
+EDGE Toby Alderweireld | David Villa | 9 | 18 | 39
+EDGE Toby Alderweireld | Diego Costa | 10 | 18 | 50
+EDGE Toby Alderweireld | Juanfran Torres | 13 | 18 | 54
+EDGE Toby Alderweireld | José Sosa | 2 | 18 | 6
+EDGE Toby Alderweireld | Arda Turan | 6 | 18 | 34
+EDGE Toby Alderweireld | Mario Suárez | 6 | 18 | 24
+EDGE Toby Alderweireld | Diego | 4 | 18 | 7
+EDGE Toby Alderweireld | Josuha Guilavogui | 4 | 18 | 4
+EDGE Toby Alderweireld | Adrián López | 7 | 18 | 15
+EDGE Toby Alderweireld | Daniel Aranzubia | 4 | 18 | 5
+EDGE Toby Alderweireld | Emiliano Insúa | 6 | 18 | 11
+EDGE Toby Alderweireld | Javier Manquillo | 4 | 18 | 7
+EDGE Toby Alderweireld | Cristian Rodríguez | 5 | 18 | 7
+EDGE Toby Alderweireld | Óliver Torres | 3 | 18 | 5
+EDGE Toby Alderweireld | José María Giménez | 1 | 18 | 2
+EDGE Toby Alderweireld | Carlos Ramos | 1 | 18 | 1
+EDGE Toby Alderweireld | Léo Baptistão | 1 | 18 | 3
+EDGE Tiago Mendes | Gabi | 26 | 30 | 53
+EDGE Tiago Mendes | Raúl García | 15 | 30 | 35
+EDGE Tiago Mendes | Koke | 24 | 30 | 53
+EDGE Tiago Mendes | David Villa | 23 | 30 | 39
+EDGE Tiago Mendes | Diego Costa | 25 | 30 | 50
+EDGE Tiago Mendes | Juanfran Torres | 28 | 30 | 54
+EDGE Tiago Mendes | José Sosa | 2 | 30 | 6
+EDGE Tiago Mendes | Arda Turan | 20 | 30 | 34
+EDGE Tiago Mendes | Adrián López | 6 | 30 | 15
+EDGE Tiago Mendes | Óliver Torres | 3 | 30 | 5
+EDGE Tiago Mendes | Emiliano Insúa | 3 | 30 | 11
+EDGE Tiago Mendes | Cristian Rodríguez | 1 | 30 | 7
+EDGE Tiago Mendes | Mario Suárez | 2 | 30 | 24
+EDGE Tiago Mendes | Daniel Aranzubia | 2 | 30 | 5
+EDGE Tiago Mendes | Javier Manquillo | 2 | 30 | 7
+EDGE Tiago Mendes | Léo Baptistão | 2 | 30 | 3
+EDGE Tiago Mendes | Diego | 1 | 30 | 7
+EDGE Tiago Mendes | José María Giménez | 1 | 30 | 2
+EDGE Gabi | Raúl García | 31 | 53 | 35
+EDGE Gabi | Koke | 46 | 53 | 53
+EDGE Gabi | David Villa | 37 | 53 | 39
+EDGE Gabi | Diego Costa | 46 | 53 | 50
+EDGE Gabi | Juanfran Torres | 49 | 53 | 54
+EDGE Gabi | José Sosa | 5 | 53 | 6
+EDGE Gabi | Arda Turan | 30 | 53 | 34
+EDGE Gabi | Adrián López | 11 | 53 | 15
+EDGE Gabi | Mario Suárez | 20 | 53 | 24
+EDGE Gabi | Diego | 5 | 53 | 7
+EDGE Gabi | Josuha Guilavogui | 2 | 53 | 4
+EDGE Gabi | Emiliano Insúa | 8 | 53 | 11
+EDGE Gabi | Cristian Rodríguez | 3 | 53 | 7
+EDGE Gabi | Javier Manquillo | 4 | 53 | 7
+EDGE Gabi | Daniel Aranzubia | 2 | 53 | 5
+EDGE Gabi | Óliver Torres | 2 | 53 | 5
+EDGE Gabi | Léo Baptistão | 1 | 53 | 3
+EDGE Gabi | José María Giménez | 1 | 53 | 2
+EDGE Raúl García | Koke | 31 | 35 | 53
+EDGE Raúl García | David Villa | 16 | 35 | 39
+EDGE Raúl García | Diego Costa | 26 | 35 | 50
+EDGE Raúl García | Juanfran Torres | 30 | 35 | 54
+EDGE Raúl García | Adrián López | 8 | 35 | 15
+EDGE Raúl García | Mario Suárez | 13 | 35 | 24
+EDGE Raúl García | Diego | 6 | 35 | 7
+EDGE Raúl García | Arda Turan | 15 | 35 | 34
+EDGE Raúl García | José Sosa | 3 | 35 | 6
+EDGE Raúl García | Josuha Guilavogui | 3 | 35 | 4
+EDGE Raúl García | Cristian Rodríguez | 5 | 35 | 7
+EDGE Raúl García | Emiliano Insúa | 7 | 35 | 11
+EDGE Raúl García | Daniel Aranzubia | 4 | 35 | 5
+EDGE Raúl García | Javier Manquillo | 5 | 35 | 7
+EDGE Raúl García | Óliver Torres | 2 | 35 | 5
+EDGE Raúl García | Léo Baptistão | 1 | 35 | 3
+EDGE Raúl García | José María Giménez | 1 | 35 | 2
+EDGE Koke | David Villa | 34 | 53 | 39
+EDGE Koke | Diego Costa | 44 | 53 | 50
+EDGE Koke | Juanfran Torres | 47 | 53 | 54
+EDGE Koke | Adrián López | 13 | 53 | 15
+EDGE Koke | Mario Suárez | 23 | 53 | 24
+EDGE Koke | Diego | 5 | 53 | 7
+EDGE Koke | Arda Turan | 28 | 53 | 34
+EDGE Koke | Óliver Torres | 4 | 53 | 5
+EDGE Koke | José Sosa | 4 | 53 | 6
+EDGE Koke | Josuha Guilavogui | 3 | 53 | 4
+EDGE Koke | Cristian Rodríguez | 5 | 53 | 7
+EDGE Koke | Emiliano Insúa | 9 | 53 | 11
+EDGE Koke | Daniel Aranzubia | 3 | 53 | 5
+EDGE Koke | Javier Manquillo | 5 | 53 | 7
+EDGE Koke | Léo Baptistão | 1 | 53 | 3
+EDGE Koke | José María Giménez | 1 | 53 | 2
+EDGE David Villa | Diego Costa | 32 | 39 | 50
+EDGE David Villa | Juanfran Torres | 36 | 39 | 54
+EDGE David Villa | José Sosa | 3 | 39 | 6
+EDGE David Villa | Arda Turan | 22 | 39 | 34
+EDGE David Villa | Mario Suárez | 14 | 39 | 24
+EDGE David Villa | Diego | 3 | 39 | 7
+EDGE David Villa | Adrián López | 6 | 39 | 15
+EDGE David Villa | Óliver Torres | 2 | 39 | 5
+EDGE David Villa | Emiliano Insúa | 3 | 39 | 11
+EDGE David Villa | Cristian Rodríguez | 2 | 39 | 7
+EDGE David Villa | Javier Manquillo | 2 | 39 | 7
+EDGE David Villa | Léo Baptistão | 1 | 39 | 3
+EDGE David Villa | José María Giménez | 1 | 39 | 2
+EDGE Diego Costa | Juanfran Torres | 46 | 50 | 54
+EDGE Diego Costa | José Sosa | 5 | 50 | 6
+EDGE Diego Costa | Arda Turan | 29 | 50 | 34
+EDGE Diego Costa | Adrián López | 10 | 50 | 15
+EDGE Diego Costa | Mario Suárez | 20 | 50 | 24
+EDGE Diego Costa | Diego | 4 | 50 | 7
+EDGE Diego Costa | Óliver Torres | 3 | 50 | 5
+EDGE Diego Costa | Josuha Guilavogui | 2 | 50 | 4
+EDGE Diego Costa | Emiliano Insúa | 8 | 50 | 11
+EDGE Diego Costa | Cristian Rodríguez | 3 | 50 | 7
+EDGE Diego Costa | Javier Manquillo | 4 | 50 | 7
+EDGE Diego Costa | Daniel Aranzubia | 2 | 50 | 5
+EDGE Diego Costa | Léo Baptistão | 1 | 50 | 3
+EDGE Diego Costa | José María Giménez | 1 | 50 | 2
+EDGE Juanfran Torres | José Sosa | 4 | 54 | 6
+EDGE Juanfran Torres | Arda Turan | 32 | 54 | 34
+EDGE Juanfran Torres | Adrián López | 12 | 54 | 15
+EDGE Juanfran Torres | Mario Suárez | 22 | 54 | 24
+EDGE Juanfran Torres | Diego | 6 | 54 | 7
+EDGE Juanfran Torres | Óliver Torres | 2 | 54 | 5
+EDGE Juanfran Torres | Josuha Guilavogui | 3 | 54 | 4
+EDGE Juanfran Torres | Emiliano Insúa | 8 | 54 | 11
+EDGE Juanfran Torres | Cristian Rodríguez | 5 | 54 | 7
+EDGE Juanfran Torres | Léo Baptistão | 2 | 54 | 3
+EDGE Juanfran Torres | Daniel Aranzubia | 1 | 54 | 5
+EDGE Juanfran Torres | Javier Manquillo | 1 | 54 | 7
+EDGE Juanfran Torres | José María Giménez | 1 | 54 | 2
+EDGE José Sosa | Arda Turan | 3 | 6 | 34
+EDGE José Sosa | Mario Suárez | 3 | 6 | 24
+EDGE José Sosa | Daniel Aranzubia | 1 | 6 | 5
+EDGE José Sosa | Emiliano Insúa | 2 | 6 | 11
+EDGE José Sosa | Javier Manquillo | 2 | 6 | 7
+EDGE José Sosa | Cristian Rodríguez | 1 | 6 | 7
+EDGE José Sosa | Diego | 1 | 6 | 7
+EDGE Arda Turan | Mario Suárez | 13 | 34 | 24
+EDGE Arda Turan | Óliver Torres | 2 | 34 | 5
+EDGE Arda Turan | Emiliano Insúa | 5 | 34 | 11
+EDGE Arda Turan | Cristian Rodríguez | 1 | 34 | 7
+EDGE Arda Turan | Adrián López | 3 | 34 | 15
+EDGE Arda Turan | Daniel Aranzubia | 2 | 34 | 5
+EDGE Arda Turan | Javier Manquillo | 3 | 34 | 7
+EDGE Arda Turan | Léo Baptistão | 2 | 34 | 3
+EDGE Arda Turan | Diego | 2 | 34 | 7
+EDGE Adrián López | Josuha Guilavogui | 4 | 15 | 4
+EDGE Adrián López | Cristian Rodríguez | 4 | 15 | 7
+EDGE Adrián López | Daniel Aranzubia | 3 | 15 | 5
+EDGE Adrián López | Emiliano Insúa | 3 | 15 | 11
+EDGE Adrián López | Javier Manquillo | 3 | 15 | 7
+EDGE Adrián López | Óliver Torres | 3 | 15 | 5
+EDGE Adrián López | Mario Suárez | 4 | 15 | 24
+EDGE Adrián López | José María Giménez | 1 | 15 | 2
+EDGE Adrián López | Carlos Ramos | 1 | 15 | 1
+EDGE Adrián López | Léo Baptistão | 1 | 15 | 3
+EDGE Adrián López | Diego | 1 | 15 | 7
+EDGE Mario Suárez | Diego | 5 | 24 | 7
+EDGE Mario Suárez | Emiliano Insúa | 5 | 24 | 11
+EDGE Mario Suárez | Daniel Aranzubia | 1 | 24 | 5
+EDGE Mario Suárez | Javier Manquillo | 2 | 24 | 7
+EDGE Mario Suárez | Cristian Rodríguez | 2 | 24 | 7
+EDGE Mario Suárez | Léo Baptistão | 1 | 24 | 3
+EDGE Diego | Daniel Aranzubia | 2 | 7 | 5
+EDGE Diego | Emiliano Insúa | 2 | 7 | 11
+EDGE Diego | Javier Manquillo | 2 | 7 | 7
+EDGE Diego | Cristian Rodríguez | 2 | 7 | 7
+EDGE Óliver Torres | Daniel Aranzubia | 3 | 5 | 5
+EDGE Óliver Torres | Emiliano Insúa | 2 | 5 | 11
+EDGE Óliver Torres | Javier Manquillo | 3 | 5 | 7
+EDGE Óliver Torres | José María Giménez | 1 | 5 | 2
+EDGE Óliver Torres | Josuha Guilavogui | 1 | 5 | 4
+EDGE Óliver Torres | Carlos Ramos | 1 | 5 | 1
+EDGE Óliver Torres | Cristian Rodríguez | 1 | 5 | 7
+EDGE Óliver Torres | Léo Baptistão | 1 | 5 | 3
+EDGE Josuha Guilavogui | Cristian Rodríguez | 3 | 4 | 7
+EDGE Josuha Guilavogui | Emiliano Insúa | 2 | 4 | 11
+EDGE Josuha Guilavogui | Daniel Aranzubia | 1 | 4 | 5
+EDGE Josuha Guilavogui | José María Giménez | 1 | 4 | 2
+EDGE Josuha Guilavogui | Javier Manquillo | 1 | 4 | 7
+EDGE Josuha Guilavogui | Carlos Ramos | 1 | 4 | 1
+EDGE Josuha Guilavogui | Léo Baptistão | 1 | 4 | 3
+EDGE Emiliano Insúa | Cristian Rodríguez | 4 | 11 | 7
+EDGE Emiliano Insúa | Daniel Aranzubia | 3 | 11 | 5
+EDGE Emiliano Insúa | Javier Manquillo | 3 | 11 | 7
+EDGE Emiliano Insúa | José María Giménez | 1 | 11 | 2
+EDGE Emiliano Insúa | Carlos Ramos | 1 | 11 | 1
+EDGE Emiliano Insúa | Léo Baptistão | 2 | 11 | 3
+EDGE Cristian Rodríguez | Daniel Aranzubia | 2 | 7 | 5
+EDGE Cristian Rodríguez | Javier Manquillo | 2 | 7 | 7
+EDGE Cristian Rodríguez | José María Giménez | 1 | 7 | 2
+EDGE Cristian Rodríguez | Carlos Ramos | 1 | 7 | 1
+EDGE Cristian Rodríguez | Léo Baptistão | 1 | 7 | 3
+EDGE Daniel Aranzubia | Javier Manquillo | 5 | 5 | 7
+EDGE Daniel Aranzubia | José María Giménez | 1 | 5 | 2
+EDGE Daniel Aranzubia | Carlos Ramos | 1 | 5 | 1
+EDGE Daniel Aranzubia | Léo Baptistão | 1 | 5 | 3
+EDGE Javier Manquillo | José María Giménez | 1 | 7 | 2
+EDGE Javier Manquillo | Carlos Ramos | 1 | 7 | 1
+EDGE Javier Manquillo | Léo Baptistão | 1 | 7 | 3
+EDGE José María Giménez | Carlos Ramos | 1 | 2 | 1
+EDGE José María Giménez | Léo Baptistão | 1 | 2 | 3
+EDGE Carlos Ramos | Léo Baptistão | 1 | 1 | 3

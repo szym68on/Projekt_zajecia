@@ -1,0 +1,160 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 85467 | czw., 25.10.2007 | AC Fiorentina
+PLAYERS: Diego López, Diego Godín, Fabricio Fuentes, Joan Capdevila, Ángel López, Josico, Marcos Senna, Cani, Matías Fernández, Giuseppe Rossi, Jon Dahl Tomasson
+
+MATCH: 78884 | niedz., 04.11.2007 | Atlético Madryt
+PLAYERS: Sebastián Viera, Diego Godín, Fabricio Fuentes, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Robert Pirès, Cani, Giuseppe Rossi, Guillermo Franco
+
+MATCH: 84312 | czw., 20.09.2007 | BATE Borysów
+PLAYERS: Diego López, Diego Godín, Fabricio Fuentes, Javi Venta, Ángel López, Bruno Soriano, Marcos Senna, Matías Fernández, Cani, Jon Dahl Tomasson, Nihat Kahveci
+
+MATCH: 78955 | sob., 05.01.2008 | RCD Espanyol
+PLAYERS: Sebastián Viera, Diego Godín, Fabricio Fuentes, Joan Capdevila, Ángel López, Marcos Senna, Rio Mavuba, Robert Pirès, Matías Fernández, Cani, Giuseppe Rossi
+
+MATCH: 86911 | śr., 14.11.2007 | UD Las Palmas
+PLAYERS: Diego López, Pascal Cygan, Fabricio Fuentes, Josemi, Ángel López, Javi Venta, Bruno Soriano, Rio Mavuba, Santi Cazorla, Robert Pirès, Guillermo Franco
+
+MATCH: 78923 | niedz., 02.12.2007 | Real Valladolid CF
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Cani, Robert Pirès, Guillermo Franco, Nihat Kahveci
+
+MATCH: 85483 | czw., 08.11.2007 | FK Mlada Boleslav
+PLAYERS: Diego López, Pascal Cygan, Diego Godín, Ángel López, Josemi, Josico, Rio Mavuba, Santi Cazorla, Matías Fernández, Jon Dahl Tomasson, Nihat Kahveci
+
+MATCH: 78989 | niedz., 27.01.2008 | Real Madryt
+PLAYERS: Diego López, Pascal Cygan, Diego Godín, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Cani, Santi Cazorla, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 78972 | niedz., 13.01.2008 | Deportivo de La Coruña
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Josemi, Joan Capdevila, Bruno Soriano, Marcos Senna, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 88950 | czw., 21.02.2008 | Zenit Petersburg
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Ángel López, Josico, Marcos Senna, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Jon Dahl Tomasson
+
+MATCH: 88157 | śr., 05.12.2007 | IF Elfsborg
+PLAYERS: Diego López, Pascal Cygan, Diego Godín, Joan Capdevila, Ángel López, Rio Mavuba, Marcos Senna, Santi Cazorla, Matías Fernández, Jon Dahl Tomasson, Nihat Kahveci
+
+MATCH: 78863 | sob., 20.10.2007 | FC Barcelona
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Robert Pirès, Santi Cazorla, Cani, Guillermo Franco
+
+MATCH: 88484 | czw., 24.01.2008 | FC Barcelona
+PLAYERS: Diego López, Pascal Cygan, Diego Godín, Joan Capdevila, Ángel López, Josico, Bruno Soriano, Robert Pirès, Santi Cazorla, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 88422 | śr., 09.01.2008 | Recreativo Huelva
+PLAYERS: Diego López, Pascal Cygan, Fabricio Fuentes, Josemi, Ángel López, Marcos Senna, Rio Mavuba, Santi Cazorla, Matías Fernández, Cani, Giuseppe Rossi
+
+MATCH: 78873 | niedz., 28.10.2007 | Real Zaragoza
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Cani, Robert Pirès, Santi Cazorla, Jon Dahl Tomasson
+
+MATCH: 78807 | niedz., 16.09.2007 | RCD Mallorca
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Joan Capdevila, Javi Venta, Josico, Marcos Senna, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Guillermo Franco
+
+MATCH: 79002 | niedz., 03.02.2008 | RCD Mallorca
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Josico, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 79043 | niedz., 02.03.2008 | CA Osasuna
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Sebastián Eguren, Marcos Senna, Santi Cazorla, Robert Pirès, Guillermo Franco, Nihat Kahveci
+
+MATCH: 79022 | niedz., 17.02.2008 | Racing Santander
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Ángel López, Javi Venta, Bruno Soriano, Josico, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 79063 | niedz., 16.03.2008 | Real Zaragoza
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Javi Venta, Marcos Senna, Sebastián Eguren, Robert Pirès, Matías Fernández, Jon Dahl Tomasson, Nihat Kahveci
+
+MATCH: 79066 | niedz., 23.03.2008 | Levante UD
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Javi Venta, Marcos Senna, Sebastián Eguren, Matías Fernández, Nihat Kahveci, Santi Cazorla, Jon Dahl Tomasson
+
+MATCH: 84324 | czw., 04.10.2007 | BATE Borysów
+PLAYERS: Diego López, Diego Godín, Fabricio Fuentes, Joan Capdevila, Javi Venta, Bruno Soriano, Rio Mavuba, Matías Fernández, Cani, Guillermo Franco, Jon Dahl Tomasson
+
+MATCH: 78982 | sob., 19.01.2008 | Valencia CF
+PLAYERS: Diego López, Pascal Cygan, Diego Godín, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Robert Pirès, Cani, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 78793 | niedz., 26.08.2007 | Valencia CF
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Joan Capdevila, Javi Venta, Josico, Marcos Senna, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Jon Dahl Tomasson
+
+MATCH: 79114 | niedz., 27.04.2008 | Real Betis Balompié
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Marcos Senna, Sebastián Eguren, Santi Cazorla, Cani, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 79142 | śr., 07.05.2008 | Recreativo Huelva
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Javi Venta, Marcos Senna, Sebastián Eguren, Matías Fernández, Cani, Jon Dahl Tomasson, Nihat Kahveci
+
+MATCH: 78822 | niedz., 23.09.2007 | Real Murcia CF
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Joan Capdevila, Javi Venta, Josico, Marcos Senna, Santi Cazorla, Robert Pirès, Nihat Kahveci, Jon Dahl Tomasson
+
+MATCH: 88371 | czw., 20.12.2007 | AEK Ateny
+PLAYERS: Diego López, Pascal Cygan, Fabricio Fuentes, Josemi, Javi Venta, Bruno Soriano, Rio Mavuba, Santi Cazorla, Matías Fernández, Giuseppe Rossi, Jon Dahl Tomasson
+
+MATCH: 88407 | śr., 13.02.2008 | Zenit Petersburg
+PLAYERS: Diego López, Gonzalo Rodríguez, Josemi, Diego Godín, Joan Capdevila, Bruno Soriano, Josico, Santi Cazorla, Cani, Guillermo Franco, Nihat Kahveci
+
+MATCH: 79092 | niedz., 06.04.2008 | Sevilla FC
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Marcos Senna, Sebastián Eguren, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 79083 | sob., 29.03.2008 | Atlético Madryt
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Marcos Senna, Sebastián Eguren, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 78883 | śr., 31.10.2007 | Levante UD
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Santi Cazorla, Matías Fernández, Giuseppe Rossi, Guillermo Franco
+
+MATCH: 79127 | niedz., 04.05.2008 | Getafe CF
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 78912 | niedz., 25.11.2007 | UD Almería
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Santi Cazorla, Robert Pirès, Guillermo Franco, Nihat Kahveci
+
+MATCH: 78842 | niedz., 30.09.2007 | Athletic Bilbao
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Joan Capdevila, Ángel López, Josico, Marcos Senna, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 79094 | niedz., 13.04.2008 | UD Almería
+PLAYERS: Diego López, Pascal Cygan, Gonzalo Rodríguez, Ángel López, Javi Venta, Marcos Senna, Sebastián Eguren, Santi Cazorla, Matías Fernández, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 79154 | niedz., 18.05.2008 | Deportivo de La Coruña
+PLAYERS: Diego López, Pascal Cygan, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Sebastián Eguren, Santi Cazorla, Matías Fernández, Guillermo Franco, Jon Dahl Tomasson
+
+MATCH: 87614 | śr., 02.01.2008 | UD Las Palmas
+PLAYERS: Diego López, Pascal Cygan, Fabricio Fuentes, Josemi, Javi Venta, Rio Mavuba, Santi Cazorla, Matías Fernández, Cani, Giuseppe Rossi, Jon Dahl Tomasson
+
+MATCH: 79008 | sob., 09.02.2008 | Real Murcia CF
+PLAYERS: Diego López, Pascal Cygan, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Josico, Sebastián Eguren, Santi Cazorla, Cani, Giuseppe Rossi, Guillermo Franco
+
+MATCH: 78802 | niedz., 02.09.2007 | Real Madryt
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Joan Capdevila, Javi Venta, Josico, Marcos Senna, Robert Pirès, Jon Dahl Tomasson, Santi Cazorla, Giuseppe Rossi
+
+MATCH: 78937 | niedz., 16.12.2007 | Getafe CF
+PLAYERS: Sebastián Viera, Diego Godín, Fabricio Fuentes, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Robert Pirès, Cani, Guillermo Franco, Nihat Kahveci
+
+MATCH: 79152 | niedz., 11.05.2008 | RCD Espanyol
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Marcos Senna, Sebastián Eguren, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 88488 | czw., 31.01.2008 | FC Barcelona
+PLAYERS: Diego López, Pascal Cygan, Diego Godín, Joan Capdevila, Javi Venta, Josico, Marcos Senna, Robert Pirès, Cani, Jon Dahl Tomasson, Giuseppe Rossi
+
+MATCH: 88430 | śr., 16.01.2008 | Recreativo Huelva
+PLAYERS: Diego López, Pascal Cygan, Diego Godín, Ángel López, Javi Venta, Rio Mavuba, Marcos Senna, Santi Cazorla, Cani, Jon Dahl Tomasson, Nihat Kahveci
+
+MATCH: 78831 | śr., 26.09.2007 | Racing Santander
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Joan Capdevila, Ángel López, Josico, Marcos Senna, Matías Fernández, Cani, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 78932 | niedz., 09.12.2007 | Real Betis Balompié
+PLAYERS: Sebastián Viera, Diego Godín, Fabricio Fuentes, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Santi Cazorla, Matías Fernández, Guillermo Franco, Jon Dahl Tomasson
+
+MATCH: 79045 | niedz., 09.03.2008 | FC Barcelona
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Javi Venta, Marcos Senna, Sebastián Eguren, Robert Pirès, Matías Fernández, Santi Cazorla, Guillermo Franco
+
+MATCH: 78848 | niedz., 07.10.2007 | CA Osasuna
+PLAYERS: Sebastián Viera, Diego Godín, Fabricio Fuentes, Joan Capdevila, Javi Venta, Ángel López, Marcos Senna, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Guillermo Franco
+
+MATCH: 79112 | niedz., 20.04.2008 | Real Valladolid CF
+PLAYERS: Sebastián Viera, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Marcos Senna, Sebastián Eguren, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 78903 | niedz., 11.11.2007 | Sevilla FC
+PLAYERS: Diego López, Pascal Cygan, Fabricio Fuentes, Joan Capdevila, Ángel López, Josico, Marcos Senna, Robert Pirès, Cani, Guillermo Franco, Nihat Kahveci
+
+MATCH: 79024 | niedz., 24.02.2008 | Athletic Bilbao
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Marcos Senna, Sebastián Eguren, Matías Fernández, Cani, Guillermo Franco, Nihat Kahveci
+
+MATCH: 78952 | niedz., 23.12.2007 | Recreativo Huelva
+PLAYERS: Diego López, Pascal Cygan, Diego Godín, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Robert Pirès, Santi Cazorla, Guillermo Franco, Nihat Kahveci
+

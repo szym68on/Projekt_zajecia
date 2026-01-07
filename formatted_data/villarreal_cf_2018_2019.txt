@@ -1,0 +1,166 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3098767 | czw., 29.11.2018 | Glasgow Rangers
+PLAYERS: Andrés Fernández, Ramiro Funes Mori, Álvaro González, Jaume Costa, Mario Gaspar, Santiago Cáseres, Manu Morlanes, Pablo Fornals, Manu Trigueros, Karl Toko Ekambi, Carlos Bacca
+
+MATCH: 3142947 | śr., 09.01.2019 | RCD Espanyol
+PLAYERS: Andrés Fernández, Álvaro González, Daniele Bonera, Jaume Costa, Miguel Layún, Santiago Cáseres, Manu Trigueros, Alfonso Pedraza, Dani Raba, Carlos Bacca, Karl Toko Ekambi
+
+MATCH: 3079499 | niedz., 16.12.2018 | SD Huesca
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Álvaro González, Jaume Costa, Mario Gaspar, Santiago Cáseres, Manu Trigueros, Pablo Fornals, Samuel Chukwueze, Gerard Moreno, Carlos Bacca
+
+MATCH: 3079450 | niedz., 04.11.2018 | Levante UD
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Álvaro González, Jaume Costa, Miguel Llambrich, Santiago Cáseres, Manu Trigueros, Pablo Fornals, Samuel Chukwueze, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3080827 | sob., 02.03.2019 | Deportivo Alavés
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Víctor Ruiz, Álvaro González, Alfonso Pedraza, Mario Gaspar, Vicente Iborra, Manu Morlanes, Santi Cazorla, Carlos Bacca, Karl Toko Ekambi
+
+MATCH: 3080797 | pt., 08.02.2019 | Real Valladolid CF
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Álvaro González, Daniele Bonera, Vicente Iborra, Santi Cazorla, Pablo Fornals, Miguel Llambrich, Alfonso Pedraza, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3098779 | czw., 13.12.2018 | Spartak Moskwa
+PLAYERS: Andrés Fernández, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Santiago Cáseres, Javi Fuego, Pablo Fornals, Samuel Chukwueze, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3160740 | czw., 14.03.2019 | Zenit Petersburg
+PLAYERS: Andrés Fernández, Ramiro Funes Mori, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Santiago Cáseres, Vicente Iborra, Pablo Fornals, Gerard Moreno, Carlos Bacca
+
+MATCH: 3079516 | niedz., 06.01.2019 | SD Eibar
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Víctor Ruiz, Alfonso Pedraza, Mario Gaspar, Santiago Cáseres, Javi Fuego, Santi Cazorla, Pablo Fornals, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3080873 | niedz., 07.04.2019 | Real Betis Balompié
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Víctor Ruiz, Daniele Bonera, Santi Cazorla, Manu Morlanes, Mario Gaspar, Alfonso Pedraza, Vicente Iborra, Samuel Chukwueze, Karl Toko Ekambi
+
+MATCH: 3135874 | czw., 21.02.2019 | Sporting CP
+PLAYERS: Andrés Fernández, Ramiro Funes Mori, Víctor Ruiz, Mario Gaspar, Javi Fuego, Manu Trigueros, Miguel Llambrich, Alfonso Pedraza, Pablo Fornals, Dani Raba, Gerard Moreno
+
+MATCH: 3079432 | niedz., 28.10.2018 | Deportivo Alavés
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Álvaro González, Jaume Costa, Mario Gaspar, Santiago Cáseres, Manu Trigueros, Santi Cazorla, Pablo Fornals, Alfonso Pedraza, Gerard Moreno
+
+MATCH: 3080789 | niedz., 03.02.2019 | RCD Espanyol
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Álvaro González, Daniele Bonera, Vicente Iborra, Santi Cazorla, Miguel Llambrich, Alfonso Pedraza, Pablo Fornals, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3080838 | niedz., 10.03.2019 | Levante UD
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Víctor Ruiz, Mario Gaspar, Santiago Cáseres, Vicente Iborra, Jaume Costa, Alfonso Pedraza, Santi Cazorla, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3079374 | niedz., 16.09.2018 | CD Leganés
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Manu Trigueros, Manu Morlanes, Miguel Layún, Dani Raba, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3080851 | niedz., 17.03.2019 | Rayo Vallecano
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Víctor Ruiz, Álvaro González, Vicente Iborra, Manu Morlanes, Jaume Costa, Alfonso Pedraza, Santi Cazorla, Samuel Chukwueze, Karl Toko Ekambi
+
+MATCH: 3135848 | czw., 14.02.2019 | Sporting CP
+PLAYERS: Andrés Fernández, Víctor Ruiz, Álvaro González, Ramiro Funes Mori, Mario Gaspar, Javi Fuego, Manu Trigueros, Pablo Fornals, Alfonso Pedraza, Samuel Chukwueze, Carlos Bacca
+
+MATCH: 3079409 | niedz., 30.09.2018 | Real Valladolid CF
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Ramiro Funes Mori, Manu Trigueros, Pablo Fornals, Santi Cazorla, Gerard Moreno, Carlos Bacca
+
+MATCH: 3080868 | wt., 02.04.2019 | FC Barcelona
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Víctor Ruiz, Álvaro González, Santi Cazorla, Manu Morlanes, Mario Gaspar, Alfonso Pedraza, Vicente Iborra, Samuel Chukwueze, Karl Toko Ekambi
+
+MATCH: 3081105 | niedz., 05.05.2019 | Real Madryt
+PLAYERS: Andrés Fernández, Ramiro Funes Mori, Álvaro González, Xavi Quintillà, Mario Gaspar, Vicente Iborra, Santi Cazorla, Pablo Fornals, Alfonso Pedraza, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3080884 | niedz., 14.04.2019 | Girona FC
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Álvaro González, Xavi Quintillà, Mario Gaspar, Vicente Iborra, Santi Cazorla, Pablo Fornals, Karl Toko Ekambi, Samuel Chukwueze, Carlos Bacca
+
+MATCH: 3079425 | sob., 20.10.2018 | Atlético Madryt
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Álvaro González, Jaume Costa, Mario Gaspar, Manuel Iturra, Manu Trigueros, Pablo Fornals, Santi Cazorla, Alfonso Pedraza, Gerard Moreno
+
+MATCH: 3080776 | sob., 26.01.2019 | Valencia CF
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Vicente Iborra, Manu Trigueros, Pablo Fornals, Alfonso Pedraza, Santi Cazorla, Karl Toko Ekambi
+
+MATCH: 3079312 | sob., 18.08.2018 | Real Sociedad
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Álvaro González, Alfonso Pedraza, Mario Gaspar, Santiago Cáseres, Santi Cazorla, Manu Morlanes, Pablo Fornals, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3081124 | sob., 18.05.2019 | Getafe CF
+PLAYERS: Andrés Fernández, Ramiro Funes Mori, Álvaro González, Xavi Quintillà, Jaume Costa, Javi Fuego, Vicente Iborra, Manu Trigueros, Alfonso Pedraza, Dani Raba, Carlos Bacca
+
+MATCH: 3098693 | czw., 04.10.2018 | Spartak Moskwa
+PLAYERS: Andrés Fernández, Víctor Ruiz, Daniele Bonera, Alfonso Pedraza, Mario Gaspar, Ramiro Funes Mori, Manu Trigueros, Pablo Fornals, Nicola Sansone, Samuel Chukwueze, Karl Toko Ekambi
+
+MATCH: 3167771 | czw., 11.04.2019 | Valencia CF
+PLAYERS: Andrés Fernández, Víctor Ruiz, Mario Gaspar, Álvaro González, Santiago Cáseres, Santi Cazorla, Pablo Fornals, Xavi Quintillà, Vicente Iborra, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3080811 | niedz., 17.02.2019 | Sevilla FC
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Daniele Bonera, Santiago Cáseres, Vicente Iborra, Mario Gaspar, Alfonso Pedraza, Santi Cazorla, Carlos Bacca, Karl Toko Ekambi
+
+MATCH: 3080854 | sob., 30.03.2019 | Celta de Vigo
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mario Gaspar, Álvaro González, Vicente Iborra, Manu Morlanes, Xavi Quintillà, Alfonso Pedraza, Santi Cazorla, Samuel Chukwueze, Karl Toko Ekambi
+
+MATCH: 3081084 | czw., 25.04.2019 | Real Sociedad
+PLAYERS: Andrés Fernández, Ramiro Funes Mori, Álvaro González, Xavi Quintillà, Mario Gaspar, Vicente Iborra, Santi Cazorla, Pablo Fornals, Karl Toko Ekambi, Samuel Chukwueze, Carlos Bacca
+
+MATCH: 3098720 | czw., 25.10.2018 | SK Rapid Wiedeń
+PLAYERS: Andrés Fernández, Ramiro Funes Mori, Álvaro González, Jaume Costa, Miguel Llambrich, Santiago Cáseres, Manu Trigueros, Miguel Layún, Pablo Fornals, Dani Raba, Karl Toko Ekambi
+
+MATCH: 3142974 | czw., 17.01.2019 | RCD Espanyol
+PLAYERS: Andrés Fernández, Daniele Bonera, Pepe Castaño, Miguel Layún, Miguel Llambrich, Santiago Cáseres, Javi Fuego, Dani Raba, Alfonso Pedraza, Samuel Chukwueze, Carlos Bacca
+
+MATCH: 3080770 | niedz., 20.01.2019 | Athletic Bilbao
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Álvaro González, Jaume Costa, Mario Gaspar, Vicente Iborra, Manu Trigueros, Pablo Fornals, Santi Cazorla, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3098671 | czw., 20.09.2018 | Glasgow Rangers
+PLAYERS: Andrés Fernández, Víctor Ruiz, Daniele Bonera, Alfonso Pedraza, Miguel Llambrich, Ramiro Funes Mori, Santi Cazorla, Pablo Fornals, Nicola Sansone, Carlos Bacca, Karl Toko Ekambi
+
+MATCH: 3160739 | czw., 07.03.2019 | Zenit Petersburg
+PLAYERS: Andrés Fernández, Ramiro Funes Mori, Víctor Ruiz, Álvaro González, Jaume Costa, Miguel Llambrich, Vicente Iborra, Manu Morlanes, Pablo Fornals, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3079492 | sob., 08.12.2018 | Celta de Vigo
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Alfonso Pedraza, Mario Gaspar, Santiago Cáseres, Manu Trigueros, Pablo Fornals, Santi Cazorla, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3081100 | niedz., 28.04.2019 | SD Huesca
+PLAYERS: Andrés Fernández, Ramiro Funes Mori, Álvaro González, Xavi Quintillà, Mario Gaspar, Santiago Cáseres, Santi Cazorla, Pablo Fornals, Karl Toko Ekambi, Samuel Chukwueze, Carlos Bacca
+
+MATCH: 3118589 | czw., 01.11.2018 | UD Almería
+PLAYERS: Andrés Fernández, Víctor Ruiz, Mario Gaspar, Xavi Quintillà, Miguel Llambrich, Manuel Iturra, Santi Cazorla, Dani Raba, Miguel Layún, Samuel Chukwueze, Nicola Sansone
+
+MATCH: 3079472 | niedz., 02.12.2018 | FC Barcelona
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Alfonso Pedraza, Mario Gaspar, Santiago Cáseres, Santi Cazorla, Manu Trigueros, Pablo Fornals, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3081118 | niedz., 12.05.2019 | SD Eibar
+PLAYERS: Andrés Fernández, Ramiro Funes Mori, Álvaro González, Jaume Costa, Mario Gaspar, Vicente Iborra, Santi Cazorla, Pablo Fornals, Samuel Chukwueze, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3079457 | niedz., 11.11.2018 | Rayo Vallecano
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Álvaro González, Jaume Costa, Miguel Llambrich, Santiago Cáseres, Manu Trigueros, Pablo Fornals, Samuel Chukwueze, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3098742 | czw., 08.11.2018 | SK Rapid Wiedeń
+PLAYERS: Andrés Fernández, Víctor Ruiz, Daniele Bonera, Alfonso Pedraza, Mario Gaspar, Santiago Cáseres, Santi Cazorla, Miguel Layún, Dani Raba, Nicola Sansone, Gerard Moreno
+
+MATCH: 3080901 | niedz., 21.04.2019 | CD Leganés
+PLAYERS: Andrés Fernández, Ramiro Funes Mori, Álvaro González, Xavi Quintillà, Mario Gaspar, Vicente Iborra, Santi Cazorla, Pablo Fornals, Samuel Chukwueze, Carlos Bacca, Karl Toko Ekambi
+
+MATCH: 3079391 | śr., 26.09.2018 | Athletic Bilbao
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Ramiro Funes Mori, Manu Trigueros, Pablo Fornals, Miguel Layún, Gerard Moreno, Carlos Bacca
+
+MATCH: 3079319 | niedz., 26.08.2018 | Sevilla FC
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Alfonso Pedraza, Mario Gaspar, Santiago Cáseres, Santi Cazorla, Manu Trigueros, Pablo Fornals, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3079413 | niedz., 07.10.2018 | RCD Espanyol
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Miguel Llambrich, Ramiro Funes Mori, Manu Trigueros, Miguel Layún, Pablo Fornals, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3167772 | czw., 18.04.2019 | Valencia CF
+PLAYERS: Andrés Fernández, Ramiro Funes Mori, Víctor Ruiz, Jaume Costa, Andrei Rațiu, Santiago Cáseres, Manu Morlanes, Manu Trigueros, Alfonso Pedraza, Dani Raba, Gerard Moreno
+
+MATCH: 3118604 | śr., 05.12.2018 | UD Almería
+PLAYERS: Andrés Fernández, Ramiro Funes Mori, Daniele Bonera, Jaume Costa, Miguel Layún, Javi Fuego, Manu Trigueros, Manu Morlanes, Dani Raba, Carlos Bacca, Karl Toko Ekambi
+
+MATCH: 3079514 | czw., 03.01.2019 | Real Madryt
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Miguel Layún, Santiago Cáseres, Javi Fuego, Santi Cazorla, Pablo Fornals, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3079533 | sob., 12.01.2019 | Getafe CF
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Víctor Ruiz, Jaume Costa, Mario Gaspar, Santiago Cáseres, Vicente Iborra, Santi Cazorla, Pablo Fornals, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3079389 | niedz., 23.09.2018 | Valencia CF
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Ramiro Funes Mori, Manu Trigueros, Miguel Layún, Pablo Fornals, Gerard Moreno, Carlos Bacca
+
+MATCH: 3080814 | niedz., 24.02.2019 | Atlético Madryt
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Víctor Ruiz, Álvaro González, Alfonso Pedraza, Mario Gaspar, Santiago Cáseres, Vicente Iborra, Santi Cazorla, Carlos Bacca, Karl Toko Ekambi
+
+MATCH: 3079468 | niedz., 25.11.2018 | Real Betis Balompié
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Víctor Ruiz, Alfonso Pedraza, Mario Gaspar, Santiago Cáseres, Manu Trigueros, Santi Cazorla, Pablo Fornals, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3079331 | pt., 31.08.2018 | Girona FC
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Alfonso Pedraza, Mario Gaspar, Santiago Cáseres, Santi Cazorla, Manu Trigueros, Pablo Fornals, Gerard Moreno, Karl Toko Ekambi
+

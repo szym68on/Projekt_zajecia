@@ -1,0 +1,172 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3651124 | śr., 24.11.2021 | FC Sheriff Tyraspol
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3605300 | niedz., 03.10.2021 | RCD Espanyol
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, David Alaba, Lucas Vázquez, Toni Kroos, Eduardo Camavinga, Federico Valverde, Luka Modrić, Vinicius Junior, Karim Benzema
+
+MATCH: 3610433 | pon., 14.03.2022 | RCD Mallorca
+PLAYERS: Thibaut Courtois, David Alaba, Nacho Fernández, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3727223 | czw., 20.01.2022 | Elche CF
+PLAYERS: Andriy Lunin, David Alaba, Nacho Fernández, Marcelo, Lucas Vázquez, Eduardo Camavinga, Toni Kroos, Federico Valverde, Vinicius Junior, Rodrygo, Luka Jović
+
+MATCH: 3611474 | sob., 30.04.2022 | RCD Espanyol
+PLAYERS: Thibaut Courtois, Jesús Vallejo, Casemiro, Marcelo, Lucas Vázquez, Eduardo Camavinga, Luka Modrić, Dani Ceballos, Rodrygo, Marco Asensio, Mariano Díaz
+
+MATCH: 3610270 | śr., 22.12.2021 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Ferland Mendy, Lucas Vázquez, Eduardo Camavinga, Toni Kroos, Federico Valverde, Vinicius Junior, Eden Hazard, Karim Benzema
+
+MATCH: 3611493 | czw., 12.05.2022 | Levante UD
+PLAYERS: Thibaut Courtois, Jesús Vallejo, Nacho Fernández, Ferland Mendy, Lucas Vázquez, Eduardo Camavinga, Luka Modrić, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3605281 | sob., 25.09.2021 | Villarreal CF
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Nacho Fernández, Federico Valverde, Casemiro, Luka Modrić, Marco Asensio, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3607577 | sob., 04.12.2021 | Real Sociedad
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3651083 | wt., 19.10.2021 | Szachtar Donieck
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3605310 | śr., 01.12.2021 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3605060 | sob., 28.08.2021 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Miguel Gutiérrez, Daniel Carvajal, Casemiro, Federico Valverde, Isco, Vinicius Junior, Gareth Bale, Karim Benzema
+
+MATCH: 3714221 | wt., 15.02.2022 | FC Paris Saint-Germain
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3605055 | niedz., 22.08.2021 | Levante UD
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, David Alaba, Lucas Vázquez, Casemiro, Federico Valverde, Isco, Eden Hazard, Gareth Bale, Karim Benzema
+
+MATCH: 3730819 | niedz., 16.01.2022 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3605221 | śr., 22.09.2021 | RCD Mallorca
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Miguel Gutiérrez, Nacho Fernández, Eduardo Camavinga, Federico Valverde, Marco Asensio, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3610295 | niedz., 23.01.2022 | Elche CF
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Eden Hazard, Karim Benzema
+
+MATCH: 3610327 | niedz., 06.02.2022 | Granada CF
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Marcelo, Daniel Carvajal, Eduardo Camavinga, Toni Kroos, Luka Modrić, Rodrygo, Marco Asensio, Isco
+
+MATCH: 3607613 | niedz., 02.01.2022 | Getafe CF
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Rodrygo, Marco Asensio, Karim Benzema
+
+MATCH: 3611505 | niedz., 15.05.2022 | Cádiz CF
+PLAYERS: Andriy Lunin, Éder Militão, Nacho Fernández, Lucas Vázquez, Jesús Vallejo, Casemiro, Toni Kroos, Federico Valverde, Rodrygo, Marco Asensio, Mariano Díaz
+
+MATCH: 3796966 | wt., 26.04.2022 | Manchester City
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Toni Kroos, Luka Modrić, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3651131 | wt., 07.12.2021 | Inter Mediolan
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Rodrygo, Luka Jović
+
+MATCH: 3607540 | sob., 30.10.2021 | Elche CF
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Marcelo, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Rodrygo, Mariano Díaz
+
+MATCH: 3605324 | niedz., 24.10.2021 | FC Barcelona
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3611480 | niedz., 08.05.2022 | Atlético Madryt
+PLAYERS: Andriy Lunin, Éder Militão, Jesús Vallejo, Nacho Fernández, Lucas Vázquez, Casemiro, Eduardo Camavinga, Toni Kroos, Rodrygo, Marco Asensio, Luka Jović
+
+MATCH: 3607555 | niedz., 21.11.2021 | Granada CF
+PLAYERS: Thibaut Courtois, David Alaba, Nacho Fernández, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3773448 | wt., 12.04.2022 | Chelsea FC
+PLAYERS: Thibaut Courtois, David Alaba, Nacho Fernández, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Federico Valverde, Vinicius Junior, Karim Benzema
+
+MATCH: 3607596 | niedz., 12.12.2021 | Atlético Madryt
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3735937 | czw., 03.02.2022 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, David Alaba, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Rodrygo, Marco Asensio
+
+MATCH: 3607624 | sob., 08.01.2022 | Valencia CF
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3607548 | sob., 06.11.2021 | Rayo Vallecano
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Casemiro, Eduardo Camavinga, Toni Kroos, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3610572 | sob., 02.04.2022 | Celta de Vigo
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3651068 | wt., 28.09.2021 | FC Sheriff Tyraspol
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Miguel Gutiérrez, Nacho Fernández, Casemiro, Eduardo Camavinga, Federico Valverde, Vinicius Junior, Eden Hazard, Karim Benzema
+
+MATCH: 3714229 | śr., 09.03.2022 | FC Paris Saint-Germain
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Nacho Fernández, Daniel Carvajal, Toni Kroos, Luka Modrić, Federico Valverde, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3607528 | śr., 27.10.2021 | CA Osasuna
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Casemiro, Eduardo Camavinga, Toni Kroos, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3812391 | sob., 28.05.2022 | FC Liverpool
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Karim Benzema
+
+MATCH: 3607568 | niedz., 28.11.2021 | Sevilla FC
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3651044 | śr., 15.09.2021 | Inter Mediolan
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Nacho Fernández, Daniel Carvajal, Casemiro, Luka Modrić, Federico Valverde, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3605038 | sob., 14.08.2021 | Deportivo Alavés
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, David Alaba, Lucas Vázquez, Casemiro, Luka Modrić, Federico Valverde, Eden Hazard, Gareth Bale, Karim Benzema
+
+MATCH: 3611444 | sob., 09.04.2022 | Getafe CF
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Marcelo, Lucas Vázquez, Casemiro, Eduardo Camavinga, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3773444 | śr., 06.04.2022 | Chelsea FC
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Karim Benzema
+
+MATCH: 3611456 | niedz., 17.04.2022 | Sevilla FC
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Daniel Carvajal, Lucas Vázquez, Eduardo Camavinga, Toni Kroos, Luka Modrić, Federico Valverde, Vinicius Junior, Karim Benzema
+
+MATCH: 3611466 | śr., 20.04.2022 | CA Osasuna
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Nacho Fernández, Lucas Vázquez, Eduardo Camavinga, Federico Valverde, Dani Ceballos, Rodrygo, Marco Asensio, Karim Benzema
+
+MATCH: 3610407 | sob., 05.03.2022 | Real Sociedad
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Casemiro, Eduardo Camavinga, Luka Modrić, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3651107 | śr., 03.11.2021 | Szachtar Donieck
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3593340 | śr., 12.01.2022 | FC Barcelona
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3716579 | śr., 05.01.2022 | CD Alcoyano
+PLAYERS: Andriy Lunin, David Alaba, Éder Militão, Marcelo, Nacho Fernández, Casemiro, Eduardo Camavinga, Federico Valverde, Eden Hazard, Rodrygo, Mariano Díaz
+
+MATCH: 3605201 | niedz., 12.09.2021 | Celta de Vigo
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Miguel Gutiérrez, Daniel Carvajal, Casemiro, Luka Modrić, Federico Valverde, Vinicius Junior, Eden Hazard, Karim Benzema
+
+MATCH: 3610378 | sob., 26.02.2022 | Rayo Vallecano
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3610367 | sob., 19.02.2022 | Deportivo Alavés
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Casemiro, Luka Modrić, Federico Valverde, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3610349 | sob., 12.02.2022 | Villarreal CF
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Vinicius Junior, Marco Asensio, Gareth Bale
+
+MATCH: 3611513 | pt., 20.05.2022 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3605211 | niedz., 19.09.2021 | Valencia CF
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Nacho Fernández, Daniel Carvajal, Casemiro, Luka Modrić, Federico Valverde, Eden Hazard, Vinicius Junior, Karim Benzema
+
+MATCH: 3607605 | niedz., 19.12.2021 | Cádiz CF
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Federico Valverde, Vinicius Junior, Eden Hazard, Karim Benzema
+
+MATCH: 3796968 | śr., 04.05.2022 | Manchester City
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Luka Modrić, Vinicius Junior, Karim Benzema
+
+MATCH: 3610564 | niedz., 20.03.2022 | FC Barcelona
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Nacho Fernández, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Vinicius Junior, Rodrygo, Luka Modrić
+

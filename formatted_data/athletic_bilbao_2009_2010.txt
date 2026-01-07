@@ -1,0 +1,166 @@
+# Team: Athletic Bilbao
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 957381 | niedz., 07.02.2010 | Xerez CD
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Xabier Castillo, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Carlos Gurpegui, Iker Muniain, Gaizka Toquero, Fernando Llorente
+
+MATCH: 971693 | czw., 05.11.2009 | CD Nacional
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Ustaritz, Xabier Castillo, Andoni Iraola, Carlos Gurpegui, Javi Martínez, Igor Gabilondo, David López, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 971635 | czw., 17.09.2009 | FK Austria Wiedeń
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Xabier Castillo, Andoni Iraola, Carlos Gurpegui, Fran Yeste, Joseba Etxeberria, Markel Susaeta, Iker Muniain, Fernando Llorente
+
+MATCH: 957251 | sob., 21.11.2009 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Ustaritz, Koikili, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Carlos Gurpegui, Markel Susaeta, Fran Yeste, Fernando Llorente
+
+MATCH: 965995 | czw., 27.08.2009 | Tromsø IL
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Xabier Castillo, Andoni Iraola, Javi Martínez, Óscar de Marcos, Markel Susaeta, Fran Yeste, Gaizka Toquero, Fernando Llorente
+
+MATCH: 949294 | niedz., 23.08.2009 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Ustaritz, Xabier Etxebarria, Koikili, Andoni Iraola, Carlos Gurpegui, Pablo Orbaiz, David López, Igor Gabilondo, Joseba Etxeberria, Iñigo Díaz de Cerio
+
+MATCH: 957262 | niedz., 29.11.2009 | UD Almería
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Ustaritz, Koikili, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Carlos Gurpegui, Markel Susaeta, Fran Yeste, Fernando Llorente
+
+MATCH: 955870 | niedz., 04.10.2009 | Real Valladolid CF
+PLAYERS: Gorka Iraizoz, Ustaritz, Aitor Ocio, Koikili, Andoni Iraola, Carlos Gurpegui, Javi Martínez, Fran Yeste, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 955831 | śr., 23.09.2009 | CD Tenerife
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Xabier Castillo, Andoni Iraola, Ander Iturraspe, Fran Yeste, Markel Susaeta, Igor Gabilondo, Iker Muniain, Joseba Etxeberria
+
+MATCH: 957340 | niedz., 03.01.2010 | RCD Mallorca
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Xabier Castillo, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Carlos Gurpegui, Markel Susaeta, Fran Yeste, Fernando Llorente
+
+MATCH: 949293 | niedz., 16.08.2009 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Ustaritz, Aitor Ocio, Koikili, Andoni Iraola, Carlos Gurpegui, Pablo Orbaiz, Igor Gabilondo, Óscar de Marcos, Markel Susaeta, Fernando Llorente
+
+MATCH: 955799 | niedz., 13.09.2009 | Xerez CD
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Xabier Castillo, Andoni Iraola, Javi Martínez, Fran Yeste, Markel Susaeta, Óscar de Marcos, Gaizka Toquero, Fernando Llorente
+
+MATCH: 957329 | sob., 19.12.2009 | CA Osasuna
+PLAYERS: Gorka Iraizoz, Ustaritz, Mikel San José, Xabier Castillo, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Carlos Gurpegui, Fran Yeste, Gaizka Toquero, Fernando Llorente
+
+MATCH: 957319 | sob., 12.12.2009 | Real Zaragoza
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Xabier Castillo, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Carlos Gurpegui, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 957647 | niedz., 18.04.2010 | Real Zaragoza
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Xabier Castillo, Andoni Iraola, Carlos Gurpegui, Javi Martínez, Óscar de Marcos, Igor Gabilondo, Markel Susaeta, Fernando Llorente
+
+MATCH: 988812 | czw., 25.02.2010 | RSC Anderlecht
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Xabier Castillo, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Fran Yeste, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 966496 | czw., 20.08.2009 | Tromsø IL
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Javi Martínez, Xabier Castillo, Andoni Iraola, Óscar de Marcos, Fran Yeste, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 957393 | sob., 13.02.2010 | Villarreal CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Xabier Castillo, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Carlos Gurpegui, Igor Gabilondo, Óscar de Marcos, Fernando Llorente
+
+MATCH: 957404 | niedz., 21.02.2010 | CD Tenerife
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Koikili, Andoni Iraola, Carlos Gurpegui, Ander Iturraspe, David López, Igor Gabilondo, Gaizka Toquero, Fernando Llorente
+
+MATCH: 957451 | sob., 20.03.2010 | Getafe CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Xabier Castillo, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Carlos Gurpegui, Igor Gabilondo, Gaizka Toquero, Fernando Llorente
+
+MATCH: 957465 | czw., 25.03.2010 | Atlético Madryt
+PLAYERS: Gorka Iraizoz, Ustaritz, Mikel San José, Xabier Castillo, Andoni Iraola, Javi Martínez, Ander Iturraspe, Carlos Gurpegui, Igor Gabilondo, Gaizka Toquero, Fernando Llorente
+
+MATCH: 955859 | sob., 26.09.2009 | Sevilla FC
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Ustaritz, Koikili, Andoni Iraola, Carlos Gurpegui, Javi Martínez, David López, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 957380 | sob., 30.01.2010 | RCD Espanyol
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Ustaritz, Koikili, Andoni Iraola, Ander Iturraspe, Carlos Gurpegui, Pablo Orbaiz, Fran Yeste, Gaizka Toquero, Fernando Llorente
+
+MATCH: 955915 | niedz., 08.11.2009 | Racing Santander
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Ustaritz, Xabier Castillo, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Carlos Gurpegui, Óscar de Marcos, Markel Susaeta, Ion Vélez
+
+MATCH: 957657 | pon., 26.04.2010 | CA Osasuna
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Koikili, Ustaritz, Javi Martínez, Ander Iturraspe, Carlos Gurpegui, Fran Yeste, Gaizka Toquero, Fernando Llorente
+
+MATCH: 971849 | czw., 22.10.2009 | CD Nacional
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Ustaritz, Xabier Castillo, Andoni Iraola, Pablo Orbaiz, Igor Gabilondo, Fran Yeste, Markel Susaeta, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 957678 | śr., 05.05.2010 | Málaga CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Xabier Castillo, Andoni Iraola, Carlos Gurpegui, Ander Iturraspe, David López, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 957350 | niedz., 10.01.2010 | Málaga CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Koikili, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Carlos Gurpegui, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 955811 | niedz., 20.09.2009 | Villarreal CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Ustaritz, Koikili, Andoni Iraola, Carlos Gurpegui, Javi Martínez, David López, Igor Gabilondo, Gaizka Toquero, Fernando Llorente
+
+MATCH: 957206 | czw., 06.08.2009 | BSC Young Boys
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Javi Martínez, Xabier Castillo, Andoni Iraola, Óscar de Marcos, Fran Yeste, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 957629 | czw., 15.04.2010 | Valencia CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Ustaritz, Koikili, Andoni Iraola, Carlos Gurpegui, Javi Martínez, David López, Igor Gabilondo, Markel Susaeta, Fernando Llorente
+
+MATCH: 957697 | sob., 15.05.2010 | Deportivo de La Coruña
+PLAYERS: Armando Ribeiro, Ustaritz, Mikel San José, Koikili, Andoni Iraola, Javi Martínez, Ander Iturraspe, Iker Muniain, Markel Susaeta, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 955903 | sob., 31.10.2009 | Atlético Madryt
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Ustaritz, Koikili, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Markel Susaeta, Óscar de Marcos, Gaizka Toquero, Fernando Llorente
+
+MATCH: 957414 | niedz., 28.02.2010 | Sevilla FC
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Xabier Castillo, Andoni Iraola, Carlos Gurpegui, Javi Martínez, Óscar de Marcos, Igor Gabilondo, Ander Iturraspe, Fernando Llorente
+
+MATCH: 957205 | czw., 30.07.2009 | BSC Young Boys
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Javi Martínez, Xabier Castillo, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 957369 | sob., 23.01.2010 | Deportivo de La Coruña
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Koikili, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Fran Yeste, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 955889 | niedz., 25.10.2009 | Getafe CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Ustaritz, Xabier Castillo, Andoni Iraola, Carlos Gurpegui, Javi Martínez, Igor Gabilondo, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 957668 | niedz., 02.05.2010 | RCD Mallorca
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Koikili, Andoni Iraola, Javi Martínez, Ander Iturraspe, Carlos Gurpegui, Igor Gabilondo, Gaizka Toquero, Fernando Llorente
+
+MATCH: 976421 | śr., 28.10.2009 | Rayo Vallecano
+PLAYERS: Armando Ribeiro, Fernando Amorebieta, Xabi Etxeita, Carlos Gurpegui, Koikili, Andoni Iraola, Pablo Orbaiz, Iñigo Pérez, David López, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 955880 | niedz., 18.10.2009 | Sporting Gijón
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Xabi Etxeita, Koikili, Andoni Iraola, Carlos Gurpegui, Javi Martínez, Óscar de Marcos, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 957432 | niedz., 07.03.2010 | Real Valladolid CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Xabier Castillo, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Igor Gabilondo, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 957597 | sob., 03.04.2010 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Koikili, Andoni Iraola, Carlos Gurpegui, Javi Martínez, David López, Igor Gabilondo, Markel Susaeta, Fernando Llorente
+
+MATCH: 955785 | niedz., 30.08.2009 | RCD Espanyol
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Ustaritz, Xabier Castillo, Andoni Iraola, Carlos Gurpegui, Javi Martínez, Óscar de Marcos, Iker Muniain, Gaizka Toquero, Fernando Llorente
+
+MATCH: 976437 | śr., 11.11.2009 | Rayo Vallecano
+PLAYERS: Armando Ribeiro, Fernando Amorebieta, Ustaritz, Koikili, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Óscar de Marcos, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 957506 | pon., 29.03.2010 | Racing Santander
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Xabier Castillo, Andoni Iraola, Javi Martínez, Ander Iturraspe, Igor Gabilondo, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 988806 | czw., 18.02.2010 | RSC Anderlecht
+PLAYERS: Gorka Iraizoz, Ustaritz, Mikel San José, Xabier Castillo, Andoni Iraola, Carlos Gurpegui, Javi Martínez, Pablo Orbaiz, Óscar de Marcos, Fran Yeste, Fernando Llorente
+
+MATCH: 957613 | niedz., 11.04.2010 | UD Almería
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Koikili, Andoni Iraola, Carlos Gurpegui, Javi Martínez, Igor Gabilondo, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 971695 | śr., 16.12.2009 | SV Werder Bremen
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Jon Aurtenetxe, Xabi Etxeita, Javi Martínez, Fran Yeste, Iker Muniain, Markel Susaeta, Gaizka Toquero, Iñigo Díaz de Cerio
+
+MATCH: 971694 | czw., 03.12.2009 | FK Austria Wiedeń
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Xabier Castillo, Carlos Gurpegui, Mikel San José, Ander Iturraspe, Andoni Iraola, Fran Yeste, Iker Muniain, Fernando Llorente
+
+MATCH: 971130 | czw., 01.10.2009 | SV Werder Bremen
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Xabier Castillo, Andoni Iraola, Carlos Gurpegui, Javi Martínez, Igor Gabilondo, Gaizka Toquero, Fran Yeste, Fernando Llorente
+
+MATCH: 957308 | niedz., 06.12.2009 | Valencia CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Koikili, Andoni Iraola, Javi Martínez, Pablo Orbaiz, David López, Markel Susaeta, Fran Yeste, Fernando Llorente
+
+MATCH: 957688 | sob., 08.05.2010 | Real Madryt
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Koikili, Andoni Iraola, Carlos Gurpegui, Javi Martínez, Ander Iturraspe, Óscar de Marcos, Fran Yeste, Gaizka Toquero
+
+MATCH: 957360 | sob., 16.01.2010 | Real Madryt
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Koikili, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Carlos Gurpegui, Fran Yeste, Gaizka Toquero, Fernando Llorente
+
+MATCH: 957442 | sob., 13.03.2010 | Sporting Gijón
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Xabier Castillo, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Carlos Gurpegui, Igor Gabilondo, Gaizka Toquero, Fernando Llorente
+

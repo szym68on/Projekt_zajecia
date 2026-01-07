@@ -1,0 +1,321 @@
+# Graph for Java/GraphStream
+# Nodes: 30
+# Edges: 315
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Sergio Asenjo | Álvaro Domínguez | 14 | 25 | 46
+EDGE Sergio Asenjo | Luis Amaranto Perea | 18 | 25 | 48
+EDGE Sergio Asenjo | Antonio López | 17 | 25 | 47
+EDGE Sergio Asenjo | Juan Valera | 8 | 25 | 25
+EDGE Sergio Asenjo | Paulo Assunção | 21 | 25 | 52
+EDGE Sergio Asenjo | Raúl García | 12 | 25 | 26
+EDGE Sergio Asenjo | José Manuel Jurado | 16 | 25 | 42
+EDGE Sergio Asenjo | José Antonio Reyes | 12 | 25 | 37
+EDGE Sergio Asenjo | Simão | 21 | 25 | 52
+EDGE Sergio Asenjo | Diego Forlán | 18 | 25 | 50
+EDGE Sergio Asenjo | Juanito | 14 | 25 | 23
+EDGE Sergio Asenjo | Cléber Santana | 11 | 25 | 16
+EDGE Sergio Asenjo | Maxi Rodríguez | 11 | 25 | 14
+EDGE Sergio Asenjo | Sergio Agüero | 15 | 25 | 45
+EDGE Sergio Asenjo | Pablo Ibáñez | 7 | 25 | 11
+EDGE Sergio Asenjo | Tomas Ujfalusi | 18 | 25 | 49
+EDGE Sergio Asenjo | John Heitinga | 3 | 25 | 3
+EDGE Sergio Asenjo | Florent Sinama-Pongolle | 5 | 25 | 6
+EDGE Sergio Asenjo | Leandro Cabrera | 1 | 25 | 4
+EDGE Sergio Asenjo | Ignacio Camacho | 2 | 25 | 8
+EDGE Sergio Asenjo | Tiago Mendes | 2 | 25 | 21
+EDGE Sergio Asenjo | Eduardo Salvio | 1 | 25 | 5
+EDGE Sergio Asenjo | Ibrahima Balde | 2 | 25 | 5
+EDGE Álvaro Domínguez | Luis Amaranto Perea | 37 | 46 | 48
+EDGE Álvaro Domínguez | Antonio López | 32 | 46 | 47
+EDGE Álvaro Domínguez | Juan Valera | 19 | 46 | 25
+EDGE Álvaro Domínguez | Paulo Assunção | 36 | 46 | 52
+EDGE Álvaro Domínguez | Raúl García | 20 | 46 | 26
+EDGE Álvaro Domínguez | José Manuel Jurado | 30 | 46 | 42
+EDGE Álvaro Domínguez | José Antonio Reyes | 31 | 46 | 37
+EDGE Álvaro Domínguez | Simão | 36 | 46 | 52
+EDGE Álvaro Domínguez | Diego Forlán | 36 | 46 | 50
+EDGE Álvaro Domínguez | David de Gea | 31 | 46 | 34
+EDGE Álvaro Domínguez | Tomas Ujfalusi | 33 | 46 | 49
+EDGE Álvaro Domínguez | Sergio Agüero | 33 | 46 | 45
+EDGE Álvaro Domínguez | Juanito | 11 | 46 | 23
+EDGE Álvaro Domínguez | Cléber Santana | 6 | 46 | 16
+EDGE Álvaro Domínguez | Maxi Rodríguez | 5 | 46 | 14
+EDGE Álvaro Domínguez | Tiago Mendes | 19 | 46 | 21
+EDGE Álvaro Domínguez | Ibrahima Balde | 5 | 46 | 5
+EDGE Álvaro Domínguez | Leandro Cabrera | 3 | 46 | 4
+EDGE Álvaro Domínguez | Ignacio Camacho | 8 | 46 | 8
+EDGE Álvaro Domínguez | Eduardo Salvio | 4 | 46 | 5
+EDGE Álvaro Domínguez | Pablo Ibáñez | 4 | 46 | 11
+EDGE Álvaro Domínguez | Florent Sinama-Pongolle | 2 | 46 | 6
+EDGE Álvaro Domínguez | Mariano Pernía | 2 | 46 | 2
+EDGE Álvaro Domínguez | Joel Robles | 1 | 46 | 1
+EDGE Álvaro Domínguez | Koke | 1 | 46 | 1
+EDGE Álvaro Domínguez | Cedrick | 1 | 46 | 1
+EDGE Luis Amaranto Perea | Antonio López | 34 | 48 | 47
+EDGE Luis Amaranto Perea | Juan Valera | 17 | 48 | 25
+EDGE Luis Amaranto Perea | Paulo Assunção | 41 | 48 | 52
+EDGE Luis Amaranto Perea | Raúl García | 20 | 48 | 26
+EDGE Luis Amaranto Perea | José Manuel Jurado | 33 | 48 | 42
+EDGE Luis Amaranto Perea | José Antonio Reyes | 31 | 48 | 37
+EDGE Luis Amaranto Perea | Simão | 41 | 48 | 52
+EDGE Luis Amaranto Perea | Diego Forlán | 38 | 48 | 50
+EDGE Luis Amaranto Perea | David de Gea | 26 | 48 | 34
+EDGE Luis Amaranto Perea | Tomas Ujfalusi | 35 | 48 | 49
+EDGE Luis Amaranto Perea | Sergio Agüero | 35 | 48 | 45
+EDGE Luis Amaranto Perea | Roberto | 4 | 48 | 4
+EDGE Luis Amaranto Perea | Juanito | 11 | 48 | 23
+EDGE Luis Amaranto Perea | Pablo Ibáñez | 8 | 48 | 11
+EDGE Luis Amaranto Perea | Cléber Santana | 12 | 48 | 16
+EDGE Luis Amaranto Perea | Maxi Rodríguez | 8 | 48 | 14
+EDGE Luis Amaranto Perea | Tiago Mendes | 15 | 48 | 21
+EDGE Luis Amaranto Perea | Ibrahima Balde | 3 | 48 | 5
+EDGE Luis Amaranto Perea | Leandro Cabrera | 1 | 48 | 4
+EDGE Luis Amaranto Perea | Ignacio Camacho | 4 | 48 | 8
+EDGE Luis Amaranto Perea | Eduardo Salvio | 2 | 48 | 5
+EDGE Luis Amaranto Perea | Florent Sinama-Pongolle | 4 | 48 | 6
+EDGE Luis Amaranto Perea | Mariano Pernía | 2 | 48 | 2
+EDGE Antonio López | Juan Valera | 15 | 47 | 25
+EDGE Antonio López | Paulo Assunção | 41 | 47 | 52
+EDGE Antonio López | Raúl García | 22 | 47 | 26
+EDGE Antonio López | José Manuel Jurado | 28 | 47 | 42
+EDGE Antonio López | José Antonio Reyes | 28 | 47 | 37
+EDGE Antonio López | Simão | 39 | 47 | 52
+EDGE Antonio López | Diego Forlán | 37 | 47 | 50
+EDGE Antonio López | David de Gea | 27 | 47 | 34
+EDGE Antonio López | Tomas Ujfalusi | 37 | 47 | 49
+EDGE Antonio López | Sergio Agüero | 34 | 47 | 45
+EDGE Antonio López | Tiago Mendes | 15 | 47 | 21
+EDGE Antonio López | Roberto | 3 | 47 | 4
+EDGE Antonio López | Pablo Ibáñez | 8 | 47 | 11
+EDGE Antonio López | Maxi Rodríguez | 10 | 47 | 14
+EDGE Antonio López | Juanito | 13 | 47 | 23
+EDGE Antonio López | Cléber Santana | 10 | 47 | 16
+EDGE Antonio López | Ibrahima Balde | 4 | 47 | 5
+EDGE Antonio López | John Heitinga | 3 | 47 | 3
+EDGE Antonio López | Leandro Cabrera | 1 | 47 | 4
+EDGE Antonio López | Ignacio Camacho | 4 | 47 | 8
+EDGE Antonio López | Eduardo Salvio | 2 | 47 | 5
+EDGE Antonio López | Florent Sinama-Pongolle | 5 | 47 | 6
+EDGE Juan Valera | Paulo Assunção | 19 | 25 | 52
+EDGE Juan Valera | Raúl García | 7 | 25 | 26
+EDGE Juan Valera | José Manuel Jurado | 18 | 25 | 42
+EDGE Juan Valera | José Antonio Reyes | 18 | 25 | 37
+EDGE Juan Valera | Simão | 17 | 25 | 52
+EDGE Juan Valera | Diego Forlán | 18 | 25 | 50
+EDGE Juan Valera | Juanito | 9 | 25 | 23
+EDGE Juan Valera | Cléber Santana | 4 | 25 | 16
+EDGE Juan Valera | Maxi Rodríguez | 2 | 25 | 14
+EDGE Juan Valera | Sergio Agüero | 16 | 25 | 45
+EDGE Juan Valera | David de Gea | 15 | 25 | 34
+EDGE Juan Valera | Tomas Ujfalusi | 13 | 25 | 49
+EDGE Juan Valera | Tiago Mendes | 11 | 25 | 21
+EDGE Juan Valera | Ibrahima Balde | 4 | 25 | 5
+EDGE Juan Valera | Leandro Cabrera | 4 | 25 | 4
+EDGE Juan Valera | Ignacio Camacho | 5 | 25 | 8
+EDGE Juan Valera | Eduardo Salvio | 5 | 25 | 5
+EDGE Juan Valera | Mariano Pernía | 1 | 25 | 2
+EDGE Juan Valera | Joel Robles | 1 | 25 | 1
+EDGE Juan Valera | Koke | 1 | 25 | 1
+EDGE Juan Valera | Roberto | 1 | 25 | 4
+EDGE Juan Valera | Florent Sinama-Pongolle | 1 | 25 | 6
+EDGE Juan Valera | Cedrick | 1 | 25 | 1
+EDGE Paulo Assunção | Raúl García | 22 | 52 | 26
+EDGE Paulo Assunção | José Manuel Jurado | 31 | 52 | 42
+EDGE Paulo Assunção | José Antonio Reyes | 32 | 52 | 37
+EDGE Paulo Assunção | Simão | 45 | 52 | 52
+EDGE Paulo Assunção | Diego Forlán | 43 | 52 | 50
+EDGE Paulo Assunção | David de Gea | 27 | 52 | 34
+EDGE Paulo Assunção | Tomas Ujfalusi | 42 | 52 | 49
+EDGE Paulo Assunção | Sergio Agüero | 38 | 52 | 45
+EDGE Paulo Assunção | Roberto | 4 | 52 | 4
+EDGE Paulo Assunção | Juanito | 17 | 52 | 23
+EDGE Paulo Assunção | Pablo Ibáñez | 10 | 52 | 11
+EDGE Paulo Assunção | Cléber Santana | 12 | 52 | 16
+EDGE Paulo Assunção | Maxi Rodríguez | 13 | 52 | 14
+EDGE Paulo Assunção | Tiago Mendes | 13 | 52 | 21
+EDGE Paulo Assunção | Ibrahima Balde | 2 | 52 | 5
+EDGE Paulo Assunção | Leandro Cabrera | 1 | 52 | 4
+EDGE Paulo Assunção | Eduardo Salvio | 1 | 52 | 5
+EDGE Paulo Assunção | Florent Sinama-Pongolle | 6 | 52 | 6
+EDGE Paulo Assunção | John Heitinga | 2 | 52 | 3
+EDGE Raúl García | José Manuel Jurado | 13 | 26 | 42
+EDGE Raúl García | José Antonio Reyes | 15 | 26 | 37
+EDGE Raúl García | Simão | 23 | 26 | 52
+EDGE Raúl García | Diego Forlán | 21 | 26 | 50
+EDGE Raúl García | Juanito | 5 | 26 | 23
+EDGE Raúl García | Pablo Ibáñez | 5 | 26 | 11
+EDGE Raúl García | Tomas Ujfalusi | 20 | 26 | 49
+EDGE Raúl García | Maxi Rodríguez | 7 | 26 | 14
+EDGE Raúl García | Sergio Agüero | 19 | 26 | 45
+EDGE Raúl García | David de Gea | 14 | 26 | 34
+EDGE Raúl García | Ibrahima Balde | 2 | 26 | 5
+EDGE Raúl García | John Heitinga | 3 | 26 | 3
+EDGE Raúl García | Cléber Santana | 3 | 26 | 16
+EDGE Raúl García | Florent Sinama-Pongolle | 2 | 26 | 6
+EDGE Raúl García | Mariano Pernía | 2 | 26 | 2
+EDGE Raúl García | Tiago Mendes | 3 | 26 | 21
+EDGE José Manuel Jurado | José Antonio Reyes | 22 | 42 | 37
+EDGE José Manuel Jurado | Simão | 30 | 42 | 52
+EDGE José Manuel Jurado | Diego Forlán | 28 | 42 | 50
+EDGE José Manuel Jurado | David de Gea | 21 | 42 | 34
+EDGE José Manuel Jurado | Tomas Ujfalusi | 31 | 42 | 49
+EDGE José Manuel Jurado | Sergio Agüero | 25 | 42 | 45
+EDGE José Manuel Jurado | Roberto | 4 | 42 | 4
+EDGE José Manuel Jurado | Juanito | 16 | 42 | 23
+EDGE José Manuel Jurado | Pablo Ibáñez | 8 | 42 | 11
+EDGE José Manuel Jurado | Cléber Santana | 12 | 42 | 16
+EDGE José Manuel Jurado | Tiago Mendes | 14 | 42 | 21
+EDGE José Manuel Jurado | Maxi Rodríguez | 8 | 42 | 14
+EDGE José Manuel Jurado | Ibrahima Balde | 4 | 42 | 5
+EDGE José Manuel Jurado | Leandro Cabrera | 4 | 42 | 4
+EDGE José Manuel Jurado | Ignacio Camacho | 8 | 42 | 8
+EDGE José Manuel Jurado | Eduardo Salvio | 5 | 42 | 5
+EDGE José Manuel Jurado | Florent Sinama-Pongolle | 5 | 42 | 6
+EDGE José Manuel Jurado | Mariano Pernía | 2 | 42 | 2
+EDGE José Manuel Jurado | Joel Robles | 1 | 42 | 1
+EDGE José Manuel Jurado | Koke | 1 | 42 | 1
+EDGE José Manuel Jurado | Cedrick | 1 | 42 | 1
+EDGE José Antonio Reyes | Simão | 29 | 37 | 52
+EDGE José Antonio Reyes | Diego Forlán | 28 | 37 | 50
+EDGE José Antonio Reyes | David de Gea | 25 | 37 | 34
+EDGE José Antonio Reyes | Tomas Ujfalusi | 28 | 37 | 49
+EDGE José Antonio Reyes | Sergio Agüero | 25 | 37 | 45
+EDGE José Antonio Reyes | Tiago Mendes | 14 | 37 | 21
+EDGE José Antonio Reyes | Ibrahima Balde | 2 | 37 | 5
+EDGE José Antonio Reyes | Leandro Cabrera | 1 | 37 | 4
+EDGE José Antonio Reyes | Ignacio Camacho | 3 | 37 | 8
+EDGE José Antonio Reyes | Eduardo Salvio | 2 | 37 | 5
+EDGE José Antonio Reyes | Pablo Ibáñez | 4 | 37 | 11
+EDGE José Antonio Reyes | Maxi Rodríguez | 3 | 37 | 14
+EDGE José Antonio Reyes | Florent Sinama-Pongolle | 3 | 37 | 6
+EDGE José Antonio Reyes | Cléber Santana | 4 | 37 | 16
+EDGE José Antonio Reyes | Juanito | 7 | 37 | 23
+EDGE José Antonio Reyes | Mariano Pernía | 1 | 37 | 2
+EDGE José Antonio Reyes | Cedrick | 1 | 37 | 1
+EDGE Simão | Diego Forlán | 46 | 52 | 50
+EDGE Simão | David de Gea | 28 | 52 | 34
+EDGE Simão | Tomas Ujfalusi | 44 | 52 | 49
+EDGE Simão | Sergio Agüero | 41 | 52 | 45
+EDGE Simão | Roberto | 3 | 52 | 4
+EDGE Simão | Juanito | 18 | 52 | 23
+EDGE Simão | Pablo Ibáñez | 7 | 52 | 11
+EDGE Simão | Cléber Santana | 13 | 52 | 16
+EDGE Simão | Maxi Rodríguez | 10 | 52 | 14
+EDGE Simão | Tiago Mendes | 15 | 52 | 21
+EDGE Simão | John Heitinga | 3 | 52 | 3
+EDGE Simão | Leandro Cabrera | 1 | 52 | 4
+EDGE Simão | Eduardo Salvio | 1 | 52 | 5
+EDGE Simão | Mariano Pernía | 2 | 52 | 2
+EDGE Simão | Ibrahima Balde | 2 | 52 | 5
+EDGE Simão | Ignacio Camacho | 3 | 52 | 8
+EDGE Simão | Florent Sinama-Pongolle | 2 | 52 | 6
+EDGE Diego Forlán | David de Gea | 28 | 50 | 34
+EDGE Diego Forlán | Tomas Ujfalusi | 40 | 50 | 49
+EDGE Diego Forlán | Sergio Agüero | 35 | 50 | 45
+EDGE Diego Forlán | Roberto | 4 | 50 | 4
+EDGE Diego Forlán | Juanito | 19 | 50 | 23
+EDGE Diego Forlán | Pablo Ibáñez | 8 | 50 | 11
+EDGE Diego Forlán | Cléber Santana | 13 | 50 | 16
+EDGE Diego Forlán | Maxi Rodríguez | 10 | 50 | 14
+EDGE Diego Forlán | Tiago Mendes | 14 | 50 | 21
+EDGE Diego Forlán | Ibrahima Balde | 3 | 50 | 5
+EDGE Diego Forlán | John Heitinga | 3 | 50 | 3
+EDGE Diego Forlán | Leandro Cabrera | 1 | 50 | 4
+EDGE Diego Forlán | Eduardo Salvio | 1 | 50 | 5
+EDGE Diego Forlán | Mariano Pernía | 1 | 50 | 2
+EDGE Diego Forlán | Florent Sinama-Pongolle | 2 | 50 | 6
+EDGE Diego Forlán | Ignacio Camacho | 4 | 50 | 8
+EDGE Diego Forlán | Cedrick | 1 | 50 | 1
+EDGE David de Gea | Tomas Ujfalusi | 28 | 34 | 49
+EDGE David de Gea | Sergio Agüero | 27 | 34 | 45
+EDGE David de Gea | Tiago Mendes | 18 | 34 | 21
+EDGE David de Gea | Ibrahima Balde | 2 | 34 | 5
+EDGE David de Gea | Leandro Cabrera | 2 | 34 | 4
+EDGE David de Gea | Ignacio Camacho | 5 | 34 | 8
+EDGE David de Gea | Eduardo Salvio | 3 | 34 | 5
+EDGE David de Gea | Juanito | 6 | 34 | 23
+EDGE David de Gea | Mariano Pernía | 2 | 34 | 2
+EDGE David de Gea | Cléber Santana | 2 | 34 | 16
+EDGE David de Gea | Pablo Ibáñez | 1 | 34 | 11
+EDGE David de Gea | Maxi Rodríguez | 1 | 34 | 14
+EDGE David de Gea | Cedrick | 1 | 34 | 1
+EDGE Tomas Ujfalusi | Sergio Agüero | 37 | 49 | 45
+EDGE Tomas Ujfalusi | Roberto | 3 | 49 | 4
+EDGE Tomas Ujfalusi | Juanito | 17 | 49 | 23
+EDGE Tomas Ujfalusi | Pablo Ibáñez | 8 | 49 | 11
+EDGE Tomas Ujfalusi | Cléber Santana | 13 | 49 | 16
+EDGE Tomas Ujfalusi | Tiago Mendes | 16 | 49 | 21
+EDGE Tomas Ujfalusi | Maxi Rodríguez | 11 | 49 | 14
+EDGE Tomas Ujfalusi | John Heitinga | 3 | 49 | 3
+EDGE Tomas Ujfalusi | Leandro Cabrera | 1 | 49 | 4
+EDGE Tomas Ujfalusi | Eduardo Salvio | 1 | 49 | 5
+EDGE Tomas Ujfalusi | Florent Sinama-Pongolle | 3 | 49 | 6
+EDGE Tomas Ujfalusi | Mariano Pernía | 1 | 49 | 2
+EDGE Tomas Ujfalusi | Ignacio Camacho | 4 | 49 | 8
+EDGE Tomas Ujfalusi | Cedrick | 1 | 49 | 1
+EDGE Tomas Ujfalusi | Ibrahima Balde | 1 | 49 | 5
+EDGE Sergio Agüero | Roberto | 3 | 45 | 4
+EDGE Sergio Agüero | Juanito | 14 | 45 | 23
+EDGE Sergio Agüero | Pablo Ibáñez | 6 | 45 | 11
+EDGE Sergio Agüero | Cléber Santana | 10 | 45 | 16
+EDGE Sergio Agüero | Maxi Rodríguez | 9 | 45 | 14
+EDGE Sergio Agüero | Tiago Mendes | 14 | 45 | 21
+EDGE Sergio Agüero | Leandro Cabrera | 1 | 45 | 4
+EDGE Sergio Agüero | Ignacio Camacho | 4 | 45 | 8
+EDGE Sergio Agüero | Eduardo Salvio | 2 | 45 | 5
+EDGE Sergio Agüero | John Heitinga | 3 | 45 | 3
+EDGE Sergio Agüero | Mariano Pernía | 2 | 45 | 2
+EDGE Sergio Agüero | Florent Sinama-Pongolle | 2 | 45 | 6
+EDGE Roberto | Juanito | 2 | 4 | 23
+EDGE Roberto | Pablo Ibáñez | 3 | 4 | 11
+EDGE Roberto | Cléber Santana | 3 | 4 | 16
+EDGE Roberto | Maxi Rodríguez | 2 | 4 | 14
+EDGE Roberto | Florent Sinama-Pongolle | 1 | 4 | 6
+EDGE Juanito | Pablo Ibáñez | 4 | 23 | 11
+EDGE Juanito | Cléber Santana | 11 | 23 | 16
+EDGE Juanito | Maxi Rodríguez | 9 | 23 | 14
+EDGE Juanito | John Heitinga | 3 | 23 | 3
+EDGE Juanito | Leandro Cabrera | 3 | 23 | 4
+EDGE Juanito | Tiago Mendes | 5 | 23 | 21
+EDGE Juanito | Eduardo Salvio | 3 | 23 | 5
+EDGE Juanito | Ignacio Camacho | 5 | 23 | 8
+EDGE Juanito | Ibrahima Balde | 2 | 23 | 5
+EDGE Juanito | Joel Robles | 1 | 23 | 1
+EDGE Juanito | Koke | 1 | 23 | 1
+EDGE Juanito | Florent Sinama-Pongolle | 3 | 23 | 6
+EDGE Juanito | Cedrick | 1 | 23 | 1
+EDGE Pablo Ibáñez | Cléber Santana | 6 | 11 | 16
+EDGE Pablo Ibáñez | Maxi Rodríguez | 7 | 11 | 14
+EDGE Pablo Ibáñez | Florent Sinama-Pongolle | 5 | 11 | 6
+EDGE Cléber Santana | Maxi Rodríguez | 6 | 16 | 14
+EDGE Cléber Santana | John Heitinga | 1 | 16 | 3
+EDGE Cléber Santana | Florent Sinama-Pongolle | 4 | 16 | 6
+EDGE Cléber Santana | Ignacio Camacho | 2 | 16 | 8
+EDGE Cléber Santana | Cedrick | 1 | 16 | 1
+EDGE Maxi Rodríguez | John Heitinga | 3 | 14 | 3
+EDGE Maxi Rodríguez | Florent Sinama-Pongolle | 4 | 14 | 6
+EDGE Tiago Mendes | Leandro Cabrera | 4 | 21 | 4
+EDGE Tiago Mendes | Ignacio Camacho | 6 | 21 | 8
+EDGE Tiago Mendes | Eduardo Salvio | 5 | 21 | 5
+EDGE Tiago Mendes | Ibrahima Balde | 3 | 21 | 5
+EDGE Tiago Mendes | Mariano Pernía | 2 | 21 | 2
+EDGE Tiago Mendes | Joel Robles | 1 | 21 | 1
+EDGE Tiago Mendes | Koke | 1 | 21 | 1
+EDGE Ibrahima Balde | Leandro Cabrera | 2 | 5 | 4
+EDGE Ibrahima Balde | Ignacio Camacho | 3 | 5 | 8
+EDGE Ibrahima Balde | Eduardo Salvio | 2 | 5 | 5
+EDGE Ibrahima Balde | Joel Robles | 1 | 5 | 1
+EDGE Ibrahima Balde | Koke | 1 | 5 | 1
+EDGE Leandro Cabrera | Ignacio Camacho | 3 | 4 | 8
+EDGE Leandro Cabrera | Eduardo Salvio | 4 | 4 | 5
+EDGE Leandro Cabrera | Joel Robles | 1 | 4 | 1
+EDGE Leandro Cabrera | Koke | 1 | 4 | 1
+EDGE Ignacio Camacho | Eduardo Salvio | 4 | 8 | 5
+EDGE Ignacio Camacho | Joel Robles | 1 | 8 | 1
+EDGE Ignacio Camacho | Koke | 1 | 8 | 1
+EDGE Ignacio Camacho | Cedrick | 1 | 8 | 1
+EDGE Eduardo Salvio | Joel Robles | 1 | 5 | 1
+EDGE Eduardo Salvio | Koke | 1 | 5 | 1
+EDGE Joel Robles | Koke | 1 | 1 | 1

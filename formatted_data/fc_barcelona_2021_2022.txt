@@ -1,0 +1,163 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3727226 | czw., 20.01.2022 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Jordi Alba, Dani Alves, Sergio Busquets, Pedri, Gavi, Abde Ezzalzouli, Ferran Torres, Ferran Jutglà
+
+MATCH: 3651070 | śr., 29.09.2021 | Benfika Lizbona
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Eric García, Sergio Busquets, Frenkie de Jong, Sergi Roberto, Sergiño Dest, Pedri, Memphis Depay, Luuk de Jong
+
+MATCH: 3605202 | wt., 21.12.2021 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Eric García, Jordi Alba, Ronald Araujo, Sergio Busquets, Frenkie de Jong, Gavi, Abde Ezzalzouli, Ousmane Dembélé, Ferran Jutglà
+
+MATCH: 3607570 | sob., 27.11.2021 | Villarreal CF
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Jordi Alba, Eric García, Sergio Busquets, Nico González, Frenkie de Jong, Gavi, Abde Ezzalzouli, Memphis Depay
+
+MATCH: 3605305 | niedz., 17.10.2021 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Eric García, Jordi Alba, Sergi Roberto, Sergio Busquets, Frenkie de Jong, Gavi, Sergiño Dest, Ansu Fati, Memphis Depay
+
+MATCH: 3611467 | czw., 21.04.2022 | Real Sociedad
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Jordi Alba, Dani Alves, Sergio Busquets, Frenkie de Jong, Gavi, Ferran Torres, Ousmane Dembélé, Pierre-Emerick Aubameyang
+
+MATCH: 3605049 | sob., 21.08.2021 | Athletic Bilbao
+PLAYERS: Neto, Gerard Piqué, Eric García, Jordi Alba, Sergiño Dest, Sergio Busquets, Pedri, Frenkie de Jong, Martin Braithwaite, Antoine Griezmann, Memphis Depay
+
+MATCH: 3757962 | czw., 10.03.2022 | Galatasaray
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Eric García, Jordi Alba, Sergiño Dest, Nico González, Pedri, Frenkie de Jong, Memphis Depay, Adama Traoré, Ferran Torres
+
+MATCH: 3605277 | niedz., 26.09.2021 | Levante UD
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Eric García, Sergiño Dest, Óscar Mingueza, Sergio Busquets, Nico González, Philippe Coutinho, Memphis Depay, Gavi, Luuk de Jong
+
+MATCH: 3611510 | niedz., 22.05.2022 | Villarreal CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Ronald Araujo, Jordi Alba, Dani Alves, Sergio Busquets, Frenkie de Jong, Gavi, Ferran Torres, Adama Traoré, Pierre-Emerick Aubameyang
+
+MATCH: 3610272 | niedz., 24.04.2022 | Rayo Vallecano
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Eric García, Jordi Alba, Sergiño Dest, Sergio Busquets, Frenkie de Jong, Gavi, Ferran Torres, Ousmane Dembélé, Pierre-Emerick Aubameyang
+
+MATCH: 3607595 | niedz., 12.12.2021 | CA Osasuna
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Ronald Araujo, Sergio Busquets, Frenkie de Jong, Nico González, Gavi, Abde Ezzalzouli, Ousmane Dembélé, Luuk de Jong
+
+MATCH: 3651110 | wt., 23.11.2021 | Benfika Lizbona
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Ronald Araujo, Sergio Busquets, Frenkie de Jong, Yusuf Demir, Jordi Alba, Nico González, Gavi, Memphis Depay
+
+MATCH: 3607552 | sob., 20.11.2021 | RCD Espanyol
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Eric García, Jordi Alba, Óscar Mingueza, Sergio Busquets, Nico González, Frenkie de Jong, Gavi, Ilias Akhomach, Memphis Depay
+
+MATCH: 3773620 | czw., 07.04.2022 | Eintracht Frankfurt
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Eric García, Jordi Alba, Ronald Araujo, Sergio Busquets, Pedri, Gavi, Ferran Torres, Adama Traoré, Pierre-Emerick Aubameyang
+
+MATCH: 3605059 | niedz., 29.08.2021 | Getafe CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Ronald Araujo, Jordi Alba, Emerson Royal, Sergio Busquets, Sergi Roberto, Frenkie de Jong, Martin Braithwaite, Antoine Griezmann, Memphis Depay
+
+MATCH: 3607612 | niedz., 02.01.2022 | RCD Mallorca
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Eric García, Ronald Araujo, Óscar Mingueza, Frenkie de Jong, Nico González, Riqui Puig, Ferran Jutglà, Ilias Akhomach, Luuk de Jong
+
+MATCH: 3773624 | czw., 14.04.2022 | Eintracht Frankfurt
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Eric García, Jordi Alba, Óscar Mingueza, Sergio Busquets, Pedri, Gavi, Ferran Torres, Ousmane Dembélé, Pierre-Emerick Aubameyang
+
+MATCH: 3716580 | śr., 05.01.2022 | Linares Deportivo
+PLAYERS: Neto, Ronald Araujo, Eric García, Óscar Mingueza, Sergio Busquets, Nico González, Riqui Puig, Dani Alves, Jordi Alba, Ilias Akhomach, Ferran Jutglà
+
+MATCH: 3651142 | wt., 14.09.2021 | Bayern Monachium
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Eric García, Sergio Busquets, Pedri, Frenkie de Jong, Sergi Roberto, Jordi Alba, Memphis Depay, Luuk de Jong
+
+MATCH: 3610431 | niedz., 13.03.2022 | CA Osasuna
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Eric García, Jordi Alba, Dani Alves, Sergio Busquets, Pedri, Gavi, Ferran Torres, Ousmane Dembélé, Pierre-Emerick Aubameyang
+
+MATCH: 3605039 | niedz., 15.08.2021 | Real Sociedad
+PLAYERS: Neto, Gerard Piqué, Eric García, Jordi Alba, Sergiño Dest, Sergio Busquets, Pedri, Frenkie de Jong, Martin Braithwaite, Antoine Griezmann, Memphis Depay
+
+MATCH: 3607600 | sob., 18.12.2021 | Elche CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Eric García, Jordi Alba, Ronald Araujo, Sergio Busquets, Frenkie de Jong, Gavi, Abde Ezzalzouli, Ousmane Dembélé, Ferran Jutglà
+
+MATCH: 3610371 | niedz., 27.02.2022 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Sergiño Dest, Dani Alves, Sergio Busquets, Pedri, Gavi, Ferran Torres, Adama Traoré, Pierre-Emerick Aubameyang
+
+MATCH: 3611471 | niedz., 01.05.2022 | RCD Mallorca
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Jordi Alba, Dani Alves, Sergio Busquets, Frenkie de Jong, Gavi, Memphis Depay, Ferran Torres, Pierre-Emerick Aubameyang
+
+MATCH: 3610321 | niedz., 06.02.2022 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Jordi Alba, Dani Alves, Sergio Busquets, Pedri, Frenkie de Jong, Gavi, Adama Traoré, Ferran Torres
+
+MATCH: 3610564 | niedz., 20.03.2022 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Eric García, Jordi Alba, Ronald Araujo, Sergio Busquets, Pedri, Frenkie de Jong, Ferran Torres, Ousmane Dembélé, Pierre-Emerick Aubameyang
+
+MATCH: 3757970 | czw., 17.03.2022 | Galatasaray
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Eric García, Jordi Alba, Sergiño Dest, Sergio Busquets, Pedri, Frenkie de Jong, Ferran Torres, Adama Traoré, Pierre-Emerick Aubameyang
+
+MATCH: 3610409 | niedz., 06.03.2022 | Elche CF
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Jordi Alba, Dani Alves, Sergio Busquets, Pedri, Frenkie de Jong, Gavi, Ousmane Dembélé, Pierre-Emerick Aubameyang
+
+MATCH: 3651134 | śr., 08.12.2021 | Bayern Monachium
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Ronald Araujo, Sergio Busquets, Frenkie de Jong, Gavi, Ousmane Dembélé, Sergiño Dest, Memphis Depay
+
+MATCH: 3593340 | śr., 12.01.2022 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Jordi Alba, Dani Alves, Sergio Busquets, Frenkie de Jong, Gavi, Ousmane Dembélé, Ferran Torres, Luuk de Jong
+
+MATCH: 3611442 | niedz., 10.04.2022 | Levante UD
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Eric García, Jordi Alba, Dani Alves, Sergio Busquets, Nico González, Frenkie de Jong, Ferran Torres, Ousmane Dembélé, Pierre-Emerick Aubameyang
+
+MATCH: 3714015 | czw., 17.02.2022 | SSC Napoli
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Eric García, Jordi Alba, Óscar Mingueza, Frenkie de Jong, Nico González, Pedri, Ferran Torres, Adama Traoré, Pierre-Emerick Aubameyang
+
+MATCH: 3610290 | niedz., 23.01.2022 | Deportivo Alavés
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Jordi Alba, Sergiño Dest, Sergio Busquets, Pedri, Frenkie de Jong, Abde Ezzalzouli, Ferran Torres, Luuk de Jong
+
+MATCH: 3605324 | niedz., 24.10.2021 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Eric García, Jordi Alba, Óscar Mingueza, Sergio Busquets, Frenkie de Jong, Gavi, Memphis Depay, Sergiño Dest, Ansu Fati
+
+MATCH: 3607620 | sob., 08.01.2022 | Granada CF
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Eric García, Jordi Alba, Dani Alves, Sergio Busquets, Nico González, Gavi, Ferran Jutglà, Ousmane Dembélé, Luuk de Jong
+
+MATCH: 3605216 | czw., 23.09.2021 | Cádiz CF
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Sergiño Dest, Óscar Mingueza, Sergio Busquets, Frenkie de Jong, Gavi, Memphis Depay, Yusuf Demir, Luuk de Jong
+
+MATCH: 3611490 | wt., 10.05.2022 | Celta de Vigo
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Eric García, Jordi Alba, Dani Alves, Frenkie de Jong, Gavi, Ferran Torres, Ousmane Dembélé, Memphis Depay, Pierre-Emerick Aubameyang
+
+MATCH: 3714023 | czw., 24.02.2022 | SSC Napoli
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Jordi Alba, Sergiño Dest, Sergio Busquets, Pedri, Frenkie de Jong, Ferran Torres, Adama Traoré, Pierre-Emerick Aubameyang
+
+MATCH: 3607544 | sob., 06.11.2021 | Celta de Vigo
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Eric García, Jordi Alba, Óscar Mingueza, Sergio Busquets, Nico González, Frenkie de Jong, Ansu Fati, Gavi, Memphis Depay
+
+MATCH: 3611504 | niedz., 15.05.2022 | Getafe CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Óscar Mingueza, Alejandro Balde, Dani Alves, Sergio Busquets, Riqui Puig, Gavi, Memphis Depay, Ferran Torres, Pierre-Emerick Aubameyang
+
+MATCH: 3607529 | śr., 27.10.2021 | Rayo Vallecano
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Eric García, Jordi Alba, Sergi Roberto, Sergio Busquets, Nico González, Philippe Coutinho, Memphis Depay, Sergiño Dest, Sergio Agüero
+
+MATCH: 3607532 | sob., 30.10.2021 | Deportivo Alavés
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Eric García, Jordi Alba, Óscar Mingueza, Sergio Busquets, Nico González, Gavi, Memphis Depay, Sergiño Dest, Sergio Agüero
+
+MATCH: 3651093 | wt., 02.11.2021 | Dynamo Kijów
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Eric García, Jordi Alba, Óscar Mingueza, Sergio Busquets, Nico González, Frenkie de Jong, Ansu Fati, Gavi, Memphis Depay
+
+MATCH: 3651085 | śr., 20.10.2021 | Dynamo Kijów
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Óscar Mingueza, Sergio Busquets, Frenkie de Jong, Gavi, Memphis Depay, Sergiño Dest, Luuk de Jong
+
+MATCH: 3605206 | pon., 20.09.2021 | Granada CF
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Eric García, Alejandro Balde, Sergiño Dest, Sergio Busquets, Sergi Roberto, Frenkie de Jong, Philippe Coutinho, Yusuf Demir, Memphis Depay
+
+MATCH: 3610368 | niedz., 20.02.2022 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Eric García, Jordi Alba, Sergiño Dest, Sergio Busquets, Frenkie de Jong, Gavi, Ferran Torres, Ousmane Dembélé, Pierre-Emerick Aubameyang
+
+MATCH: 3611481 | sob., 07.05.2022 | Real Betis Balompié
+PLAYERS: Neto, Ronald Araujo, Eric García, Jordi Alba, Dani Alves, Sergio Busquets, Frenkie de Jong, Gavi, Memphis Depay, Ousmane Dembélé, Ferran Torres
+
+MATCH: 3610344 | niedz., 13.02.2022 | RCD Espanyol
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Jordi Alba, Sergiño Dest, Sergio Busquets, Pedri, Frenkie de Jong, Gavi, Adama Traoré, Ferran Torres
+
+MATCH: 3607572 | sob., 04.12.2021 | Real Betis Balompié
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Ronald Araujo, Jordi Alba, Sergiño Dest, Sergio Busquets, Nico González, Gavi, Philippe Coutinho, Abde Ezzalzouli, Memphis Depay
+
+MATCH: 3611452 | pon., 18.04.2022 | Cádiz CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Eric García, Jordi Alba, Sergiño Dest, Sergio Busquets, Frenkie de Jong, Gavi, Ferran Torres, Ousmane Dembélé, Memphis Depay
+
+MATCH: 3610570 | niedz., 03.04.2022 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Jordi Alba, Dani Alves, Sergio Busquets, Pedri, Frenkie de Jong, Ferran Torres, Ousmane Dembélé, Pierre-Emerick Aubameyang
+
+MATCH: 3605295 | sob., 02.10.2021 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Sergiño Dest, Óscar Mingueza, Sergio Busquets, Nico González, Frenkie de Jong, Philippe Coutinho, Gavi, Memphis Depay
+

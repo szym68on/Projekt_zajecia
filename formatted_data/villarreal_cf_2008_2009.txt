@@ -1,0 +1,154 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 920687 | sob., 16.05.2009 | Real Madryt
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Javi Venta, Sebastián Eguren, Ariel Ibagaza, Robert Pirès, Cani, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920707 | sob., 30.05.2009 | RCD Mallorca
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Sebastián Eguren, Robert Pirès, Matías Fernández, Cani, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 926957 | śr., 29.10.2008 | Polideportivo Ejido
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Ángel López, Javi Venta, Bruno Soriano, Edmílson, Matías Fernández, Cani, Giuseppe Rossi, Jozy Altidore
+
+MATCH: 920659 | niedz., 26.04.2009 | Getafe CF
+PLAYERS: Diego López, Fabricio Fuentes, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Sebastián Eguren, Robert Pirès, Cani, Joseba Llorente, Nihat Kahveci
+
+MATCH: 926973 | śr., 12.11.2008 | Polideportivo Ejido
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Javi Venta, Bruno Soriano, Edmílson, Sebastián Eguren, Matías Fernández, Cani, Guillermo Franco, Jozy Altidore
+
+MATCH: 920440 | niedz., 16.11.2008 | Málaga CF
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Marcos Senna, Sebastián Eguren, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920611 | sob., 21.03.2009 | Athletic Bilbao
+PLAYERS: Diego López, Diego Godín, Fabricio Fuentes, Joan Capdevila, Ángel López, Marcos Senna, Sebastián Eguren, Santi Cazorla, Ariel Ibagaza, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 923896 | wt., 25.11.2008 | Manchester United
+PLAYERS: Diego López, Gonzalo Rodríguez, Fabricio Fuentes, Joan Capdevila, Javi Venta, Sebastián Eguren, Marcos Senna, Santi Cazorla, Robert Pirès, Ariel Ibagaza, Giuseppe Rossi
+
+MATCH: 920459 | niedz., 30.11.2008 | Recreativo Huelva
+PLAYERS: Diego López, Pascal Cygan, Fabricio Fuentes, Joan Capdevila, Javi Venta, Bruno Soriano, Sebastián Eguren, Santi Cazorla, Ariel Ibagaza, Giuseppe Rossi, Jozy Altidore
+
+MATCH: 920602 | niedz., 15.03.2009 | Atlético Madryt
+PLAYERS: Diego López, Fabricio Fuentes, Joan Capdevila, Javi Venta, Marcos Senna, Sebastián Eguren, Santi Cazorla, Robert Pirès, Matías Fernández, Cani, Giuseppe Rossi
+
+MATCH: 920478 | niedz., 14.12.2008 | Sevilla FC
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Marcos Senna, Sebastián Eguren, Santi Cazorla, Robert Pirès, Ariel Ibagaza, Joseba Llorente
+
+MATCH: 920488 | niedz., 21.12.2008 | FC Barcelona
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Ángel López, Sebastián Eguren, Marcos Senna, Robert Pirès, Cani, Santi Cazorla, Giuseppe Rossi
+
+MATCH: 920355 | niedz., 14.09.2008 | Deportivo de La Coruña
+PLAYERS: Diego López, Fabricio Fuentes, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Edmílson, Marcos Senna, Santi Cazorla, Ariel Ibagaza, Guillermo Franco, Joseba Llorente
+
+MATCH: 920507 | sob., 10.01.2009 | Valencia CF
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Sebastián Eguren, Santi Cazorla, Ariel Ibagaza, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920554 | niedz., 08.02.2009 | CD Numancia
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Marcos Senna, Sebastián Eguren, Ariel Ibagaza, Cani, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920564 | niedz., 15.02.2009 | Racing Santander
+PLAYERS: Diego López, Diego Godín, Fabricio Fuentes, Ángel López, Javi Venta, Sebastián Eguren, Santi Cazorla, Robert Pirès, Ariel Ibagaza, Cani, Giuseppe Rossi
+
+MATCH: 920592 | sob., 07.03.2009 | RCD Espanyol
+PLAYERS: Diego López, Diego Godín, Fabricio Fuentes, Joan Capdevila, Ángel López, Marcos Senna, Santi Cazorla, Ariel Ibagaza, Cani, Joseba Llorente, Nihat Kahveci
+
+MATCH: 920583 | niedz., 01.03.2009 | Real Betis Balompié
+PLAYERS: Diego López, Diego Godín, Fabricio Fuentes, Joan Capdevila, Javi Venta, Sebastián Eguren, Santi Cazorla, Robert Pirès, Matías Fernández, Cani, Giuseppe Rossi
+
+MATCH: 923921 | śr., 10.12.2008 | Celtic Glasgow
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Fabricio Fuentes, Bruno Soriano, Ángel López, Edmílson, Marcos Senna, Cani, Matías Fernández, Ariel Ibagaza, Guillermo Franco
+
+MATCH: 940380 | wt., 07.04.2009 | FC Arsenal
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Ángel López, Sebastián Eguren, Marcos Senna, Cani, Ariel Ibagaza, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920678 | niedz., 10.05.2009 | FC Barcelona
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Javi Venta, Sebastián Eguren, Cani, Robert Pirès, Ariel Ibagaza, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920344 | niedz., 31.08.2008 | CA Osasuna
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Marcos Senna, Sebastián Eguren, Santi Cazorla, Ariel Ibagaza, Guillermo Franco, Joseba Llorente
+
+MATCH: 920535 | sob., 24.01.2009 | CA Osasuna
+PLAYERS: Diego López, Pascal Cygan, Fabricio Fuentes, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 923848 | wt., 30.09.2008 | Celtic Glasgow
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Ángel López, Sebastián Eguren, Marcos Senna, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920364 | niedz., 21.09.2008 | CD Numancia
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Sebastián Eguren, Marcos Senna, Santi Cazorla, Ariel Ibagaza, Guillermo Franco, Joseba Llorente
+
+MATCH: 933243 | śr., 25.02.2009 | Panathinaikos FC
+PLAYERS: Diego López, Diego Godín, Fabricio Fuentes, Bruno Soriano, Ángel López, Sebastián Eguren, Marcos Senna, Ariel Ibagaza, Santi Cazorla, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 940384 | śr., 15.04.2009 | FC Arsenal
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Ángel López, Bruno Soriano, Sebastián Eguren, Matías Fernández, Robert Pirès, Cani, Giuseppe Rossi
+
+MATCH: 920412 | niedz., 26.10.2008 | Atlético Madryt
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920469 | sob., 06.12.2008 | Getafe CF
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Marcos Senna, Sebastián Eguren, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Jozy Altidore
+
+MATCH: 920697 | sob., 23.05.2009 | Valencia CF
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Sebastián Eguren, Robert Pirès, Ariel Ibagaza, Cani, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 923865 | wt., 21.10.2008 | Aalborg BK
+PLAYERS: Diego López, Gonzalo Rodríguez, Fabricio Fuentes, Joan Capdevila, Ángel López, Edmílson, Marcos Senna, Santi Cazorla, Matías Fernández, Giuseppe Rossi, Guillermo Franco
+
+MATCH: 920517 | niedz., 18.01.2009 | RCD Mallorca
+PLAYERS: Diego López, Diego Godín, Fabricio Fuentes, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Santi Cazorla, Ariel Ibagaza, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920649 | czw., 23.04.2009 | Recreativo Huelva
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Sebastián Eguren, Ariel Ibagaza, Matías Fernández, Cani, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920421 | sob., 01.11.2008 | Athletic Bilbao
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920383 | sob., 27.09.2008 | Sporting Gijón
+PLAYERS: Diego López, Diego Godín, Fabricio Fuentes, Joan Capdevila, Javi Venta, Edmílson, Marcos Senna, Ariel Ibagaza, Matías Fernández, Joseba Llorente, Nihat Kahveci
+
+MATCH: 920573 | sob., 21.02.2009 | Sporting Gijón
+PLAYERS: Diego López, Diego Godín, Fabricio Fuentes, Joan Capdevila, Javi Venta, Marcos Senna, Santi Cazorla, Robert Pirès, Cani, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920621 | sob., 04.04.2009 | UD Almería
+PLAYERS: Diego López, Fabricio Fuentes, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Sebastián Eguren, Santi Cazorla, Javier Matilla, Robert Pirès, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920640 | niedz., 19.04.2009 | Real Valladolid CF
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Bruno Soriano, Sebastián Eguren, Robert Pirès, Cani, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920393 | sob., 04.10.2008 | Real Betis Balompié
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Ángel López, Javi Venta, Marcos Senna, Sebastián Eguren, Santi Cazorla, Ariel Ibagaza, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920402 | sob., 18.10.2008 | RCD Espanyol
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Robert Pirès, Cani, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920545 | niedz., 01.02.2009 | Deportivo de La Coruña
+PLAYERS: Diego López, Diego Godín, Fabricio Fuentes, Joan Capdevila, Javi Venta, Marcos Senna, Sebastián Eguren, Santi Cazorla, Robert Pirès, Guillermo Franco, Joseba Llorente
+
+MATCH: 923737 | śr., 17.09.2008 | Manchester United
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Ángel López, Edmílson, Sebastián Eguren, Matías Fernández, Robert Pirès, Cani, Guillermo Franco
+
+MATCH: 920431 | niedz., 09.11.2008 | UD Almería
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920450 | sob., 22.11.2008 | Real Valladolid CF
+PLAYERS: Diego López, Pascal Cygan, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Marcos Senna, Sebastián Eguren, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Guillermo Franco
+
+MATCH: 933251 | wt., 10.03.2009 | Panathinaikos FC
+PLAYERS: Diego López, Diego Godín, Fabricio Fuentes, Joan Capdevila, Ángel López, Sebastián Eguren, Marcos Senna, Ariel Ibagaza, Santi Cazorla, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 920630 | sob., 11.04.2009 | Málaga CF
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Sebastián Eguren, Ariel Ibagaza, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 920500 | niedz., 04.01.2009 | Real Madryt
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Ángel López, Sebastián Eguren, Marcos Senna, Robert Pirès, Santi Cazorla, Giuseppe Rossi, Nihat Kahveci
+
+MATCH: 920374 | śr., 24.09.2008 | Racing Santander
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Marcos Senna, Sebastián Eguren, Santi Cazorla, Robert Pirès, Joseba Llorente, Nihat Kahveci
+
+MATCH: 923889 | śr., 05.11.2008 | Aalborg BK
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Javi Venta, Edmílson, Marcos Senna, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 920668 | sob., 02.05.2009 | Sevilla FC
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Sebastián Eguren, Ariel Ibagaza, Cani, Joseba Llorente, Nihat Kahveci
+

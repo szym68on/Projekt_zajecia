@@ -1,0 +1,233 @@
+# Graph for Java/GraphStream
+# Nodes: 24
+# Edges: 227
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Leo Franco | García Calvo | 7 | 35 | 9
+EDGE Leo Franco | Luis Amaranto Perea | 31 | 35 | 35
+EDGE Leo Franco | Antonio López | 32 | 35 | 38
+EDGE Leo Franco | Juan Valera | 10 | 35 | 12
+EDGE Leo Franco | José Ignacio Zahinos | 12 | 35 | 16
+EDGE Leo Franco | Peter Luccin | 29 | 35 | 30
+EDGE Leo Franco | Mario Suárez | 1 | 35 | 3
+EDGE Leo Franco | Ariel Ibagaza | 15 | 35 | 20
+EDGE Leo Franco | Luciano Galletti | 16 | 35 | 17
+EDGE Leo Franco | Fernando Torres | 33 | 35 | 39
+EDGE Leo Franco | Pablo Ibáñez | 30 | 35 | 36
+EDGE Leo Franco | Juan Velasco | 22 | 35 | 26
+EDGE Leo Franco | Martin Petrov | 27 | 35 | 33
+EDGE Leo Franco | Maxi Rodríguez | 21 | 35 | 25
+EDGE Leo Franco | Mateja Kežman | 28 | 35 | 29
+EDGE Leo Franco | Francisco Molinero | 11 | 35 | 11
+EDGE Leo Franco | Gabi | 19 | 35 | 21
+EDGE Leo Franco | Fernando Marqués | 1 | 35 | 1
+EDGE Leo Franco | Manu del Moral | 2 | 35 | 2
+EDGE Leo Franco | Pablo Sicilia | 1 | 35 | 1
+EDGE Leo Franco | Gonzalo Colsa | 2 | 35 | 6
+EDGE García Calvo | Luis Amaranto Perea | 3 | 9 | 35
+EDGE García Calvo | Antonio López | 8 | 9 | 38
+EDGE García Calvo | Juan Valera | 4 | 9 | 12
+EDGE García Calvo | José Ignacio Zahinos | 4 | 9 | 16
+EDGE García Calvo | Peter Luccin | 6 | 9 | 30
+EDGE García Calvo | Mario Suárez | 1 | 9 | 3
+EDGE García Calvo | Ariel Ibagaza | 7 | 9 | 20
+EDGE García Calvo | Luciano Galletti | 4 | 9 | 17
+EDGE García Calvo | Fernando Torres | 8 | 9 | 39
+EDGE García Calvo | Juan Velasco | 5 | 9 | 26
+EDGE García Calvo | Gabi | 3 | 9 | 21
+EDGE García Calvo | Martin Petrov | 7 | 9 | 33
+EDGE García Calvo | Maxi Rodríguez | 5 | 9 | 25
+EDGE García Calvo | Mateja Kežman | 7 | 9 | 29
+EDGE García Calvo | Pablo Ibáñez | 5 | 9 | 36
+EDGE García Calvo | Francisco Molinero | 2 | 9 | 11
+EDGE García Calvo | Gonzalo Colsa | 2 | 9 | 6
+EDGE García Calvo | Ismael Falcón | 2 | 9 | 5
+EDGE Luis Amaranto Perea | Antonio López | 32 | 35 | 38
+EDGE Luis Amaranto Perea | Juan Valera | 11 | 35 | 12
+EDGE Luis Amaranto Perea | José Ignacio Zahinos | 14 | 35 | 16
+EDGE Luis Amaranto Perea | Peter Luccin | 26 | 35 | 30
+EDGE Luis Amaranto Perea | Mario Suárez | 3 | 35 | 3
+EDGE Luis Amaranto Perea | Ariel Ibagaza | 16 | 35 | 20
+EDGE Luis Amaranto Perea | Luciano Galletti | 15 | 35 | 17
+EDGE Luis Amaranto Perea | Fernando Torres | 33 | 35 | 39
+EDGE Luis Amaranto Perea | Pablo Ibáñez | 31 | 35 | 36
+EDGE Luis Amaranto Perea | Juan Velasco | 21 | 35 | 26
+EDGE Luis Amaranto Perea | Martin Petrov | 27 | 35 | 33
+EDGE Luis Amaranto Perea | Maxi Rodríguez | 21 | 35 | 25
+EDGE Luis Amaranto Perea | Mateja Kežman | 24 | 35 | 29
+EDGE Luis Amaranto Perea | Francisco Molinero | 11 | 35 | 11
+EDGE Luis Amaranto Perea | Gabi | 19 | 35 | 21
+EDGE Luis Amaranto Perea | Fernando Marqués | 1 | 35 | 1
+EDGE Luis Amaranto Perea | Manu del Moral | 2 | 35 | 2
+EDGE Luis Amaranto Perea | Pablo Sicilia | 1 | 35 | 1
+EDGE Luis Amaranto Perea | Gonzalo Colsa | 4 | 35 | 6
+EDGE Luis Amaranto Perea | Roberto | 1 | 35 | 1
+EDGE Luis Amaranto Perea | Ismael Falcón | 3 | 35 | 5
+EDGE Antonio López | Juan Valera | 10 | 38 | 12
+EDGE Antonio López | José Ignacio Zahinos | 14 | 38 | 16
+EDGE Antonio López | Peter Luccin | 28 | 38 | 30
+EDGE Antonio López | Mario Suárez | 3 | 38 | 3
+EDGE Antonio López | Ariel Ibagaza | 17 | 38 | 20
+EDGE Antonio López | Luciano Galletti | 16 | 38 | 17
+EDGE Antonio López | Fernando Torres | 37 | 38 | 39
+EDGE Antonio López | Pablo Ibáñez | 34 | 38 | 36
+EDGE Antonio López | Juan Velasco | 25 | 38 | 26
+EDGE Antonio López | Martin Petrov | 31 | 38 | 33
+EDGE Antonio López | Maxi Rodríguez | 23 | 38 | 25
+EDGE Antonio López | Mateja Kežman | 27 | 38 | 29
+EDGE Antonio López | Francisco Molinero | 8 | 38 | 11
+EDGE Antonio López | Gabi | 19 | 38 | 21
+EDGE Antonio López | Fernando Marqués | 1 | 38 | 1
+EDGE Antonio López | Manu del Moral | 2 | 38 | 2
+EDGE Antonio López | Pablo Sicilia | 1 | 38 | 1
+EDGE Antonio López | Gonzalo Colsa | 6 | 38 | 6
+EDGE Antonio López | Roberto | 1 | 38 | 1
+EDGE Antonio López | Ismael Falcón | 5 | 38 | 5
+EDGE Juan Valera | José Ignacio Zahinos | 6 | 12 | 16
+EDGE Juan Valera | Peter Luccin | 9 | 12 | 30
+EDGE Juan Valera | Mario Suárez | 2 | 12 | 3
+EDGE Juan Valera | Ariel Ibagaza | 7 | 12 | 20
+EDGE Juan Valera | Luciano Galletti | 6 | 12 | 17
+EDGE Juan Valera | Fernando Torres | 10 | 12 | 39
+EDGE Juan Valera | Pablo Ibáñez | 8 | 12 | 36
+EDGE Juan Valera | Francisco Molinero | 5 | 12 | 11
+EDGE Juan Valera | Gabi | 8 | 12 | 21
+EDGE Juan Valera | Fernando Marqués | 1 | 12 | 1
+EDGE Juan Valera | Manu del Moral | 1 | 12 | 2
+EDGE Juan Valera | Pablo Sicilia | 1 | 12 | 1
+EDGE Juan Valera | Mateja Kežman | 6 | 12 | 29
+EDGE Juan Valera | Martin Petrov | 5 | 12 | 33
+EDGE Juan Valera | Maxi Rodríguez | 5 | 12 | 25
+EDGE Juan Valera | Roberto | 1 | 12 | 1
+EDGE Juan Valera | Gonzalo Colsa | 2 | 12 | 6
+EDGE Juan Valera | Juan Velasco | 1 | 12 | 26
+EDGE Juan Valera | Ismael Falcón | 1 | 12 | 5
+EDGE José Ignacio Zahinos | Peter Luccin | 9 | 16 | 30
+EDGE José Ignacio Zahinos | Mario Suárez | 2 | 16 | 3
+EDGE José Ignacio Zahinos | Ariel Ibagaza | 8 | 16 | 20
+EDGE José Ignacio Zahinos | Luciano Galletti | 3 | 16 | 17
+EDGE José Ignacio Zahinos | Fernando Torres | 15 | 16 | 39
+EDGE José Ignacio Zahinos | Pablo Ibáñez | 13 | 16 | 36
+EDGE José Ignacio Zahinos | Juan Velasco | 10 | 16 | 26
+EDGE José Ignacio Zahinos | Martin Petrov | 12 | 16 | 33
+EDGE José Ignacio Zahinos | Maxi Rodríguez | 12 | 16 | 25
+EDGE José Ignacio Zahinos | Mateja Kežman | 9 | 16 | 29
+EDGE José Ignacio Zahinos | Gabi | 8 | 16 | 21
+EDGE José Ignacio Zahinos | Francisco Molinero | 2 | 16 | 11
+EDGE José Ignacio Zahinos | Ismael Falcón | 4 | 16 | 5
+EDGE José Ignacio Zahinos | Gonzalo Colsa | 3 | 16 | 6
+EDGE Peter Luccin | Mario Suárez | 1 | 30 | 3
+EDGE Peter Luccin | Ariel Ibagaza | 14 | 30 | 20
+EDGE Peter Luccin | Luciano Galletti | 14 | 30 | 17
+EDGE Peter Luccin | Fernando Torres | 29 | 30 | 39
+EDGE Peter Luccin | Pablo Ibáñez | 26 | 30 | 36
+EDGE Peter Luccin | Juan Velasco | 19 | 30 | 26
+EDGE Peter Luccin | Martin Petrov | 22 | 30 | 33
+EDGE Peter Luccin | Maxi Rodríguez | 17 | 30 | 25
+EDGE Peter Luccin | Mateja Kežman | 23 | 30 | 29
+EDGE Peter Luccin | Francisco Molinero | 9 | 30 | 11
+EDGE Peter Luccin | Gabi | 14 | 30 | 21
+EDGE Peter Luccin | Fernando Marqués | 1 | 30 | 1
+EDGE Peter Luccin | Manu del Moral | 2 | 30 | 2
+EDGE Peter Luccin | Pablo Sicilia | 1 | 30 | 1
+EDGE Peter Luccin | Ismael Falcón | 1 | 30 | 5
+EDGE Mario Suárez | Ariel Ibagaza | 2 | 3 | 20
+EDGE Mario Suárez | Luciano Galletti | 1 | 3 | 17
+EDGE Mario Suárez | Fernando Torres | 3 | 3 | 39
+EDGE Mario Suárez | Roberto | 1 | 3 | 1
+EDGE Mario Suárez | Pablo Ibáñez | 2 | 3 | 36
+EDGE Mario Suárez | Gonzalo Colsa | 2 | 3 | 6
+EDGE Mario Suárez | Gabi | 1 | 3 | 21
+EDGE Mario Suárez | Martin Petrov | 2 | 3 | 33
+EDGE Mario Suárez | Maxi Rodríguez | 1 | 3 | 25
+EDGE Mario Suárez | Ismael Falcón | 1 | 3 | 5
+EDGE Mario Suárez | Juan Velasco | 1 | 3 | 26
+EDGE Ariel Ibagaza | Luciano Galletti | 11 | 20 | 17
+EDGE Ariel Ibagaza | Fernando Torres | 19 | 20 | 39
+EDGE Ariel Ibagaza | Pablo Ibáñez | 16 | 20 | 36
+EDGE Ariel Ibagaza | Gabi | 4 | 20 | 21
+EDGE Ariel Ibagaza | Francisco Molinero | 8 | 20 | 11
+EDGE Ariel Ibagaza | Martin Petrov | 14 | 20 | 33
+EDGE Ariel Ibagaza | Maxi Rodríguez | 9 | 20 | 25
+EDGE Ariel Ibagaza | Juan Velasco | 11 | 20 | 26
+EDGE Ariel Ibagaza | Mateja Kežman | 11 | 20 | 29
+EDGE Ariel Ibagaza | Pablo Sicilia | 1 | 20 | 1
+EDGE Ariel Ibagaza | Ismael Falcón | 5 | 20 | 5
+EDGE Ariel Ibagaza | Gonzalo Colsa | 4 | 20 | 6
+EDGE Ariel Ibagaza | Manu del Moral | 1 | 20 | 2
+EDGE Luciano Galletti | Fernando Torres | 16 | 17 | 39
+EDGE Luciano Galletti | Pablo Ibáñez | 14 | 17 | 36
+EDGE Luciano Galletti | Francisco Molinero | 9 | 17 | 11
+EDGE Luciano Galletti | Gabi | 7 | 17 | 21
+EDGE Luciano Galletti | Fernando Marqués | 1 | 17 | 1
+EDGE Luciano Galletti | Manu del Moral | 2 | 17 | 2
+EDGE Luciano Galletti | Martin Petrov | 10 | 17 | 33
+EDGE Luciano Galletti | Maxi Rodríguez | 4 | 17 | 25
+EDGE Luciano Galletti | Pablo Sicilia | 1 | 17 | 1
+EDGE Luciano Galletti | Mateja Kežman | 10 | 17 | 29
+EDGE Luciano Galletti | Juan Velasco | 7 | 17 | 26
+EDGE Luciano Galletti | Gonzalo Colsa | 2 | 17 | 6
+EDGE Luciano Galletti | Ismael Falcón | 1 | 17 | 5
+EDGE Fernando Torres | Pablo Ibáñez | 35 | 39 | 36
+EDGE Fernando Torres | Juan Velasco | 26 | 39 | 26
+EDGE Fernando Torres | Martin Petrov | 32 | 39 | 33
+EDGE Fernando Torres | Maxi Rodríguez | 24 | 39 | 25
+EDGE Fernando Torres | Mateja Kežman | 28 | 39 | 29
+EDGE Fernando Torres | Gabi | 19 | 39 | 21
+EDGE Fernando Torres | Francisco Molinero | 9 | 39 | 11
+EDGE Fernando Torres | Pablo Sicilia | 1 | 39 | 1
+EDGE Fernando Torres | Gonzalo Colsa | 6 | 39 | 6
+EDGE Fernando Torres | Roberto | 1 | 39 | 1
+EDGE Fernando Torres | Ismael Falcón | 5 | 39 | 5
+EDGE Fernando Torres | Manu del Moral | 1 | 39 | 2
+EDGE Pablo Ibáñez | Juan Velasco | 25 | 36 | 26
+EDGE Pablo Ibáñez | Martin Petrov | 31 | 36 | 33
+EDGE Pablo Ibáñez | Maxi Rodríguez | 23 | 36 | 25
+EDGE Pablo Ibáñez | Mateja Kežman | 25 | 36 | 29
+EDGE Pablo Ibáñez | Francisco Molinero | 8 | 36 | 11
+EDGE Pablo Ibáñez | Gabi | 19 | 36 | 21
+EDGE Pablo Ibáñez | Fernando Marqués | 1 | 36 | 1
+EDGE Pablo Ibáñez | Manu del Moral | 2 | 36 | 2
+EDGE Pablo Ibáñez | Gonzalo Colsa | 6 | 36 | 6
+EDGE Pablo Ibáñez | Roberto | 1 | 36 | 1
+EDGE Pablo Ibáñez | Ismael Falcón | 5 | 36 | 5
+EDGE Juan Velasco | Martin Petrov | 25 | 26 | 33
+EDGE Juan Velasco | Maxi Rodríguez | 18 | 26 | 25
+EDGE Juan Velasco | Mateja Kežman | 21 | 26 | 29
+EDGE Juan Velasco | Gabi | 12 | 26 | 21
+EDGE Juan Velasco | Gonzalo Colsa | 4 | 26 | 6
+EDGE Juan Velasco | Francisco Molinero | 2 | 26 | 11
+EDGE Juan Velasco | Ismael Falcón | 4 | 26 | 5
+EDGE Juan Velasco | Manu del Moral | 1 | 26 | 2
+EDGE Martin Petrov | Maxi Rodríguez | 24 | 33 | 25
+EDGE Martin Petrov | Mateja Kežman | 25 | 33 | 29
+EDGE Martin Petrov | Gabi | 17 | 33 | 21
+EDGE Martin Petrov | Francisco Molinero | 6 | 33 | 11
+EDGE Martin Petrov | Gonzalo Colsa | 6 | 33 | 6
+EDGE Martin Petrov | Roberto | 1 | 33 | 1
+EDGE Martin Petrov | Ismael Falcón | 5 | 33 | 5
+EDGE Martin Petrov | Manu del Moral | 1 | 33 | 2
+EDGE Maxi Rodríguez | Mateja Kežman | 18 | 25 | 29
+EDGE Maxi Rodríguez | Gabi | 14 | 25 | 21
+EDGE Maxi Rodríguez | Francisco Molinero | 4 | 25 | 11
+EDGE Maxi Rodríguez | Roberto | 1 | 25 | 1
+EDGE Maxi Rodríguez | Gonzalo Colsa | 3 | 25 | 6
+EDGE Maxi Rodríguez | Ismael Falcón | 3 | 25 | 5
+EDGE Mateja Kežman | Gabi | 16 | 29 | 21
+EDGE Mateja Kežman | Pablo Sicilia | 1 | 29 | 1
+EDGE Mateja Kežman | Francisco Molinero | 8 | 29 | 11
+EDGE Mateja Kežman | Gonzalo Colsa | 2 | 29 | 6
+EDGE Mateja Kežman | Ismael Falcón | 1 | 29 | 5
+EDGE Francisco Molinero | Gabi | 5 | 11 | 21
+EDGE Francisco Molinero | Fernando Marqués | 1 | 11 | 1
+EDGE Francisco Molinero | Manu del Moral | 1 | 11 | 2
+EDGE Francisco Molinero | Pablo Sicilia | 1 | 11 | 1
+EDGE Gabi | Fernando Marqués | 1 | 21 | 1
+EDGE Gabi | Manu del Moral | 1 | 21 | 2
+EDGE Gabi | Gonzalo Colsa | 2 | 21 | 6
+EDGE Gabi | Roberto | 1 | 21 | 1
+EDGE Gabi | Ismael Falcón | 1 | 21 | 5
+EDGE Fernando Marqués | Manu del Moral | 1 | 1 | 2
+EDGE Gonzalo Colsa | Roberto | 1 | 6 | 1
+EDGE Gonzalo Colsa | Ismael Falcón | 3 | 6 | 5

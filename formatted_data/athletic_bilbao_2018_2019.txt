@@ -1,0 +1,130 @@
+# Team: Athletic Bilbao
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3079386 | niedz., 23.09.2018 | Real Betis Balompié
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Dani García, Beñat Etxebarria, Yuri Berchiche, Raúl García, Markel Susaeta, Iñaki Williams
+
+MATCH: 3079476 | pon., 03.12.2018 | Levante UD
+PLAYERS: Iago Herrerín, Iñigo Martínez, Unai Núñez, Peru Nolaskoain, Mikel San José, Beñat Etxebarria, Óscar de Marcos, Cristian Ganea, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 3118594 | śr., 28.11.2018 | SD Huesca
+PLAYERS: Unai Simón, Iñigo Martínez, Peru Nolaskoain, Yuri Berchiche, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Iker Muniain, Gorka Guruzeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 3142971 | śr., 16.01.2019 | Sevilla FC
+PLAYERS: Unai Simón, Unai Núñez, Peru Nolaskoain, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Ander Iturraspe, Unai López, Ibai Gómez, Markel Susaeta, Gorka Guruzeta
+
+MATCH: 3079406 | sob., 29.09.2018 | FC Barcelona
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Dani García, Beñat Etxebarria, Yuri Berchiche, Raúl García, Markel Susaeta, Iñaki Williams
+
+MATCH: 3080828 | niedz., 03.03.2019 | Valencia CF
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Dani García, Beñat Etxebarria, Raúl García, Iker Muniain, Ibai Gómez, Iñaki Williams
+
+MATCH: 3080806 | pon., 18.02.2019 | SD Huesca
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Iñaki Williams
+
+MATCH: 3079458 | sob., 10.11.2018 | Atlético Madryt
+PLAYERS: Iago Herrerín, Iñigo Martínez, Unai Núñez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Yuri Berchiche, Iker Muniain, Markel Susaeta, Iñaki Williams
+
+MATCH: 3079424 | niedz., 21.10.2018 | SD Eibar
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Dani García, Unai López, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 3080876 | niedz., 07.04.2019 | Getafe CF
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Mikel San José, Dani García, Raúl García, Iñigo Córdoba, Ibai Gómez, Iñaki Williams
+
+MATCH: 3081085 | śr., 24.04.2019 | CD Leganés
+PLAYERS: Iago Herrerín, Iñigo Martínez, Unai Núñez, Yeray Álvarez, Yuri Berchiche, Iñigo Lekue, Mikel San José, Mikel Rico, Iñigo Córdoba, Iñaki Williams, Aritz Aduriz
+
+MATCH: 3080773 | niedz., 27.01.2019 | Real Betis Balompié
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Mikel San José, Dani García, Óscar de Marcos, Iker Muniain, Iñigo Córdoba, Iñaki Williams
+
+MATCH: 3080813 | sob., 23.02.2019 | SD Eibar
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Dani García, Beñat Etxebarria, Óscar de Marcos, Raúl García, Iker Muniain, Iñaki Williams
+
+MATCH: 3081126 | sob., 18.05.2019 | Sevilla FC
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Mikel Balenziaga, Ander Capa, Dani García, Beñat Etxebarria, Yuri Berchiche, Raúl García, Iker Muniain, Iñaki Williams
+
+MATCH: 3081096 | sob., 27.04.2019 | Deportivo Alavés
+PLAYERS: Iago Herrerín, Iñigo Martínez, Unai Núñez, Yuri Berchiche, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Iñaki Williams
+
+MATCH: 3080833 | pt., 08.03.2019 | RCD Espanyol
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Mikel San José, Dani García, Raúl García, Iker Muniain, Markel Susaeta, Iñaki Williams
+
+MATCH: 3080787 | sob., 02.02.2019 | Real Sociedad
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Mikel San José, Dani García, Iker Muniain, Iñigo Córdoba, Ibai Gómez, Iñaki Williams
+
+MATCH: 3079519 | pon., 07.01.2019 | Celta de Vigo
+PLAYERS: Iago Herrerín, Iñigo Martínez, Unai Núñez, Yuri Berchiche, Ander Capa, Dani García, Beñat Etxebarria, Óscar de Marcos, Iker Muniain, Iñigo Córdoba, Iñaki Williams
+
+MATCH: 3079329 | śr., 24.10.2018 | Rayo Vallecano
+PLAYERS: Iago Herrerín, Iñigo Martínez, Peru Nolaskoain, Yuri Berchiche, Óscar de Marcos, Dani García, Unai López, Iker Muniain, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 3080842 | sob., 16.03.2019 | Atlético Madryt
+PLAYERS: Iago Herrerín, Unai Núñez, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Mikel San José, Dani García, Raúl García, Iker Muniain, Ibai Gómez, Iñaki Williams
+
+MATCH: 3079433 | sob., 27.10.2018 | Valencia CF
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Mikel San José, Dani García, Mikel Rico, Raúl García, Markel Susaeta, Aritz Aduriz
+
+MATCH: 3118610 | czw., 06.12.2018 | SD Huesca
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Dani García, Beñat Etxebarria, Raúl García, Iñigo Córdoba, Markel Susaeta, Aritz Aduriz
+
+MATCH: 3080897 | niedz., 21.04.2019 | Real Madryt
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Iñigo Lekue, Mikel San José, Beñat Etxebarria, Raúl García, Iñigo Córdoba, Iker Muniain, Iñaki Williams
+
+MATCH: 3142949 | czw., 10.01.2019 | Sevilla FC
+PLAYERS: Unai Simón, Unai Núñez, Yeray Álvarez, Mikel Balenziaga, Ander Capa, Mikel San José, Ander Iturraspe, Iñigo Córdoba, Markel Susaeta, Aritz Aduriz, Gorka Guruzeta
+
+MATCH: 3079462 | niedz., 25.11.2018 | Getafe CF
+PLAYERS: Iago Herrerín, Iñigo Martínez, Unai Núñez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Iñaki Williams
+
+MATCH: 3080857 | pt., 29.03.2019 | Girona FC
+PLAYERS: Iago Herrerín, Iñigo Martínez, Unai Núñez, Yuri Berchiche, Ander Capa, Dani García, Beñat Etxebarria, Óscar de Marcos, Raúl García, Iñigo Córdoba, Iñaki Williams
+
+MATCH: 3080770 | niedz., 20.01.2019 | Villarreal CF
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Dani García, Beñat Etxebarria, Iker Muniain, Iñigo Córdoba, Ibai Gómez, Iñaki Williams
+
+MATCH: 3080882 | niedz., 14.04.2019 | Rayo Vallecano
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Dani García, Beñat Etxebarria, Iker Muniain, Iñigo Córdoba, Raúl García, Iñaki Williams
+
+MATCH: 3079505 | sob., 22.12.2018 | Real Valladolid CF
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Dani García, Beñat Etxebarria, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 3081106 | niedz., 05.05.2019 | Real Valladolid CF
+PLAYERS: Iago Herrerín, Unai Núñez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Mikel San José, Dani García, Óscar de Marcos, Iker Muniain, Iñigo Córdoba, Iñaki Williams
+
+MATCH: 3079411 | pt., 05.10.2018 | Real Sociedad
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Dani García, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Iñaki Williams
+
+MATCH: 3080794 | niedz., 10.02.2019 | FC Barcelona
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Dani García, Beñat Etxebarria, Yuri Berchiche, Raúl García, Markel Susaeta, Iñaki Williams
+
+MATCH: 3081111 | niedz., 12.05.2019 | Celta de Vigo
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Dani García, Beñat Etxebarria, Raúl García, Iker Muniain, Ibai Gómez, Iñaki Williams
+
+MATCH: 3079445 | pon., 05.11.2018 | RCD Espanyol
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Mikel San José, Dani García, Mikel Rico, Raúl García, Iñaki Williams, Aritz Aduriz
+
+MATCH: 3079495 | pon., 17.12.2018 | Deportivo Alavés
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Dani García, Beñat Etxebarria, Raúl García, Iñigo Córdoba, Markel Susaeta, Aritz Aduriz
+
+MATCH: 3080862 | śr., 03.04.2019 | Levante UD
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Mikel San José, Beñat Etxebarria, Óscar de Marcos, Raúl García, Iñigo Córdoba, Iñaki Williams
+
+MATCH: 3079303 | pon., 20.08.2018 | CD Leganés
+PLAYERS: Unai Simón, Yeray Álvarez, Peru Nolaskoain, Yuri Berchiche, Óscar de Marcos, Dani García, Unai López, Iker Muniain, Iñaki Williams, Markel Susaeta, Aritz Aduriz
+
+MATCH: 3079391 | śr., 26.09.2018 | Villarreal CF
+PLAYERS: Unai Simón, Iñigo Martínez, Unai Núñez, Yuri Berchiche, Óscar de Marcos, Ander Iturraspe, Beñat Etxebarria, Raúl García, Iker Muniain, Ander Capa, Iñaki Williams
+
+MATCH: 3079485 | pon., 10.12.2018 | Girona FC
+PLAYERS: Iago Herrerín, Unai Núñez, Yeray Álvarez, Óscar de Marcos, Ander Capa, Dani García, Beñat Etxebarria, Raúl García, Iñigo Córdoba, Iñaki Williams, Aritz Aduriz
+
+MATCH: 3079314 | pon., 27.08.2018 | SD Huesca
+PLAYERS: Unai Simón, Yeray Álvarez, Peru Nolaskoain, Yuri Berchiche, Óscar de Marcos, Dani García, Raúl García, Iker Muniain, Iñigo Córdoba, Markel Susaeta, Iñaki Williams
+
+MATCH: 3079370 | sob., 15.09.2018 | Real Madryt
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Dani García, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Iñaki Williams
+
+MATCH: 3079525 | niedz., 13.01.2019 | Sevilla FC
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Dani García, Beñat Etxebarria, Óscar de Marcos, Iker Muniain, Iñigo Córdoba, Iñaki Williams
+

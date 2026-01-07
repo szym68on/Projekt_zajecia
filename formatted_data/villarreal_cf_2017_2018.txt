@@ -1,0 +1,154 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2978835 | czw., 04.01.2018 | CD Leganés
+PLAYERS: Mariano Barbosa, Pau Torres, Álvaro González, Antonio Rukavina, Mario Gaspar, Manu Trigueros, Ramiro Guerra, Denis Cheryshev, Samu Castillejo, Dani Raba, Enes Ünal
+
+MATCH: 2899906 | pon., 09.04.2018 | Athletic Bilbao
+PLAYERS: Sergio Asenjo, Álvaro González, Daniele Bonera, Jaume Costa, Antonio Rukavina, Rodri, Javi Fuego, Manu Trigueros, Pablo Fornals, Carlos Bacca, Enes Ünal
+
+MATCH: 2899775 | sob., 10.02.2018 | Deportivo Alavés
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Javi Fuego, Manu Trigueros, Pablo Fornals, Samu Castillejo, Carlos Bacca, Roger Martínez
+
+MATCH: 2899671 | niedz., 26.11.2017 | Sevilla FC
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Rodri, Roberto Soriano, Manu Trigueros, Pablo Fornals, Carlos Bacca, Cédric Bakambu
+
+MATCH: 2899824 | sob., 03.03.2018 | Girona FC
+PLAYERS: Sergio Asenjo, Álvaro González, Daniele Bonera, Jaume Costa, Mario Gaspar, Rodri, Manu Trigueros, Pablo Fornals, Samu Castillejo, Dani Raba, Carlos Bacca
+
+MATCH: 2899878 | sob., 28.04.2018 | Celta de Vigo
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Antonio Rukavina, Mario Gaspar, Rodri, Manu Trigueros, Dani Raba, Denis Cheryshev, Samu Castillejo, Carlos Bacca
+
+MATCH: 2899911 | sob., 12.05.2018 | Deportivo de La Coruña
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Rodri, Manu Trigueros, Pablo Fornals, Dani Raba, Samu Castillejo, Carlos Bacca
+
+MATCH: 2982080 | czw., 15.02.2018 | Olympique Lyon
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Rodri, Manu Trigueros, Pablo Fornals, Denis Cheryshev, Samu Castillejo, Carlos Bacca
+
+MATCH: 2899935 | pt., 25.08.2017 | Real Sociedad
+PLAYERS: Andrés Fernández, Rúben Semedo, Alfred N'Diaye, Jaume Costa, Álvaro González, Rodri, Manu Trigueros, Pablo Fornals, Samu Castillejo, Carlos Bacca, Cédric Bakambu
+
+MATCH: 2899728 | niedz., 07.01.2018 | Deportivo de La Coruña
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Rodri, Pablo Fornals, Samu Castillejo, Dani Raba, Carlos Bacca, Enes Ünal
+
+MATCH: 2899694 | niedz., 03.12.2017 | CD Leganés
+PLAYERS: Mariano Barbosa, Álvaro González, Daniele Bonera, Adrián Marín, Mario Gaspar, Rodri, Manu Trigueros, Pablo Fornals, Dani Raba, Carlos Bacca, Cédric Bakambu
+
+MATCH: 2899600 | niedz., 24.09.2017 | Getafe CF
+PLAYERS: Mariano Barbosa, Álvaro González, Rúben Semedo, Antonio Rukavina, Mario Gaspar, Rodri, Manu Trigueros, Pablo Fornals, Samu Castillejo, Enes Ünal, Cédric Bakambu
+
+MATCH: 2899844 | sob., 14.04.2018 | Sevilla FC
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Antonio Rukavina, Jaume Costa, Mario Gaspar, Rodri, Manu Trigueros, Dani Raba, Denis Cheryshev, Samu Castillejo, Carlos Bacca
+
+MATCH: 2899917 | sob., 19.05.2018 | Real Madryt
+PLAYERS: Andrés Fernández, Álvaro González, Daniele Bonera, Adrián Marín, Mario Gaspar, Rodri, Javi Fuego, Roberto Soriano, Nicola Sansone, Pablo Fornals, Enes Ünal
+
+MATCH: 2919852 | czw., 19.10.2017 | SK Slavia Praga
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Daniele Bonera, Jaume Costa, Antonio Rukavina, Ramiro Guerra, Pablo Fornals, Manu Trigueros, Roberto Soriano, Carlos Bacca, Enes Ünal
+
+MATCH: 2982096 | czw., 22.02.2018 | Olympique Lyon
+PLAYERS: Sergio Asenjo, Álvaro González, Daniele Bonera, Jaume Costa, Mario Gaspar, Rodri, Javi Fuego, Manu Trigueros, Pablo Fornals, Carlos Bacca, Enes Ünal
+
+MATCH: 2899756 | sob., 27.01.2018 | Real Sociedad
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Daniele Bonera, Jaume Costa, Mario Gaspar, Rodri, Manu Trigueros, Pablo Fornals, Samu Castillejo, Carlos Bacca, Enes Ünal
+
+MATCH: 2899618 | niedz., 01.10.2017 | SD Eibar
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Rodri, Manu Trigueros, Pablo Fornals, Samu Castillejo, Nicola Sansone, Cédric Bakambu
+
+MATCH: 2899730 | sob., 20.01.2018 | Levante UD
+PLAYERS: Sergio Asenjo, Álvaro González, Daniele Bonera, Jaume Costa, Mario Gaspar, Rodri, Manu Trigueros, Pablo Fornals, Denis Cheryshev, Samu Castillejo, Enes Ünal
+
+MATCH: 2929846 | czw., 30.11.2017 | SD Ponferradina
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Pau Torres, Jaume Costa, Antonio Rukavina, Rodri, Chuca, Roberto Soriano, Dani Raba, Nicola Sansone, Cédric Bakambu
+
+MATCH: 2899862 | śr., 09.05.2018 | FC Barcelona
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Rodri, Manu Trigueros, Pablo Fornals, Denis Cheryshev, Samu Castillejo, Carlos Bacca
+
+MATCH: 2899577 | niedz., 10.09.2017 | Real Betis Balompié
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Álvaro González, Jaume Costa, Antonio Rukavina, Rodri, Manu Trigueros, Pablo Fornals, Samu Castillejo, Carlos Bacca, Cédric Bakambu
+
+MATCH: 2899709 | niedz., 17.12.2017 | Celta de Vigo
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Rodri, Manu Trigueros, Roberto Soriano, Pablo Fornals, Samu Castillejo, Carlos Bacca
+
+MATCH: 2919917 | czw., 07.12.2017 | Maccabi Tel Aviv
+PLAYERS: Mariano Barbosa, Pau Torres, Genís Montolio, Adrián Marín, Antonio Rukavina, Ramiro Guerra, Chuca, Roberto Soriano, Manu Morlanes, Mario González, Darío Poveda
+
+MATCH: 2899674 | niedz., 19.11.2017 | Athletic Bilbao
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Daniele Bonera, Jaume Costa, Mario Gaspar, Rodri, Roberto Soriano, Manu Trigueros, Pablo Fornals, Carlos Bacca, Cédric Bakambu
+
+MATCH: 2929834 | śr., 25.10.2017 | SD Ponferradina
+PLAYERS: Ander Cantero, Pau Torres, Daniele Bonera, Adrián Marín, Antonio Rukavina, Ramiro Guerra, Roberto Soriano, Samu Castillejo, Denis Cheryshev, Leo Suárez, Enes Ünal
+
+MATCH: 2899647 | sob., 28.10.2017 | Atlético Madryt
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Rodri, Roberto Soriano, Manu Trigueros, Pablo Fornals, Carlos Bacca, Cédric Bakambu
+
+MATCH: 2919789 | czw., 14.09.2017 | FC Astana
+PLAYERS: Mariano Barbosa, Rúben Semedo, Daniele Bonera, Jaume Costa, Mario Gaspar, Rodri, Manu Trigueros, Pablo Fornals, Samu Castillejo, Nicola Sansone, Enes Ünal
+
+MATCH: 2899695 | niedz., 10.12.2017 | FC Barcelona
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Rúben Semedo, Rodri, Roberto Soriano, Manu Trigueros, Dani Raba, Cédric Bakambu
+
+MATCH: 2899875 | wt., 17.04.2018 | CD Leganés
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Antonio Rukavina, Mario Gaspar, Rodri, Manu Trigueros, Dani Raba, Denis Cheryshev, Samu Castillejo, Carlos Bacca
+
+MATCH: 2899789 | niedz., 25.02.2018 | Getafe CF
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Daniele Bonera, Jaume Costa, Antonio Rukavina, Javi Fuego, Manu Trigueros, Roberto Soriano, Samu Castillejo, Carlos Bacca, Enes Ünal
+
+MATCH: 2899740 | sob., 13.01.2018 | Real Madryt
+PLAYERS: Sergio Asenjo, Álvaro González, Daniele Bonera, Jaume Costa, Mario Gaspar, Rodri, Manu Trigueros, Pablo Fornals, Dani Raba, Samu Castillejo, Carlos Bacca
+
+MATCH: 2978843 | śr., 10.01.2018 | CD Leganés
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Álvaro González, Adrián Marín, Antonio Rukavina, Rodri, Manu Trigueros, Pablo Fornals, Dani Raba, Carlos Bacca, Enes Ünal
+
+MATCH: 2899657 | niedz., 05.11.2017 | Málaga CF
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Daniele Bonera, Jaume Costa, Mario Gaspar, Rodri, Chuca, Pablo Fornals, Roberto Soriano, Carlos Bacca, Cédric Bakambu
+
+MATCH: 2899761 | sob., 03.02.2018 | Real Betis Balompié
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Daniele Bonera, Jaume Costa, Mario Gaspar, Rodri, Manu Trigueros, Pablo Fornals, Samu Castillejo, Carlos Bacca, Enes Ünal
+
+MATCH: 2899782 | niedz., 18.02.2018 | RCD Espanyol
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Antonio Rukavina, Mario Gaspar, Rodri, Javi Fuego, Pablo Fornals, Denis Cheryshev, Dani Raba, Enes Ünal
+
+MATCH: 2899880 | sob., 05.05.2018 | Valencia CF
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Antonio Rukavina, Mario Gaspar, Rodri, Manu Trigueros, Dani Raba, Denis Cheryshev, Samu Castillejo, Carlos Bacca
+
+MATCH: 2919881 | czw., 23.11.2017 | FC Astana
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Daniele Bonera, Adrián Marín, Antonio Rukavina, Rodri, Manu Trigueros, Pablo Fornals, Nicola Sansone, Dani Raba, Carlos Bacca
+
+MATCH: 2899712 | sob., 23.12.2017 | Valencia CF
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Antonio Rukavina, Mario Gaspar, Rodri, Manu Trigueros, Pablo Fornals, Samu Castillejo, Carlos Bacca, Cédric Bakambu
+
+MATCH: 2899580 | niedz., 17.09.2017 | Deportivo Alavés
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Álvaro González, Jaume Costa, Antonio Rukavina, Rodri, Manu Trigueros, Pablo Fornals, Samu Castillejo, Carlos Bacca, Cédric Bakambu
+
+MATCH: 2899807 | śr., 28.02.2018 | SD Eibar
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Antonio Rukavina, Mario Gaspar, Rodri, Javi Fuego, Denis Cheryshev, Dani Raba, Enes Ünal, Roger Martínez
+
+MATCH: 2899907 | niedz., 01.04.2018 | Málaga CF
+PLAYERS: Sergio Asenjo, Álvaro González, Daniele Bonera, Jaume Costa, Mario Gaspar, Rodri, Pablo Fornals, Roberto Soriano, Samu Castillejo, Nicola Sansone, Carlos Bacca
+
+MATCH: 2899568 | pon., 21.08.2017 | Levante UD
+PLAYERS: Andrés Fernández, Víctor Ruiz, Álvaro González, Jaume Costa, Antonio Rukavina, Rodri, Manu Trigueros, Pablo Fornals, Nicola Sansone, Enes Ünal, Carlos Bacca
+
+MATCH: 2899637 | niedz., 22.10.2017 | UD Las Palmas
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Rodri, Manu Trigueros, Pablo Fornals, Samu Castillejo, Carlos Bacca, Cédric Bakambu
+
+MATCH: 2919867 | czw., 02.11.2017 | SK Slavia Praga
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Álvaro González, Adrián Marín, Mario Gaspar, Rodri, Roberto Soriano, Manu Trigueros, Pablo Fornals, Carlos Bacca, Cédric Bakambu
+
+MATCH: 2899590 | czw., 21.09.2017 | RCD Espanyol
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Rodri, Manu Trigueros, Denis Cheryshev, Samu Castillejo, Carlos Bacca, Cédric Bakambu
+
+MATCH: 2899825 | niedz., 11.03.2018 | UD Las Palmas
+PLAYERS: Sergio Asenjo, Álvaro González, Daniele Bonera, Jaume Costa, Antonio Rukavina, Rodri, Manu Trigueros, Pablo Fornals, Roberto Soriano, Dani Raba, Carlos Bacca
+
+MATCH: 2919821 | czw., 28.09.2017 | Maccabi Tel Aviv
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Daniele Bonera, Jaume Costa, Mario Gaspar, Manu Trigueros, Ramiro Guerra, Roberto Soriano, Pablo Fornals, Carlos Bacca, Cédric Bakambu
+
+MATCH: 2899822 | niedz., 18.03.2018 | Atlético Madryt
+PLAYERS: Sergio Asenjo, Álvaro González, Daniele Bonera, Jaume Costa, Mario Gaspar, Rodri, Manu Trigueros, Pablo Fornals, Roberto Soriano, Dani Raba, Carlos Bacca
+
+MATCH: 2899623 | niedz., 15.10.2017 | Girona FC
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Rodri, Samu Castillejo, Manu Trigueros, Pablo Fornals, Nicola Sansone, Cédric Bakambu
+

@@ -1,0 +1,270 @@
+# Graph for Java/GraphStream
+# Nodes: 25
+# Edges: 264
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Thibaut Courtois | Jorge Pulido | 2 | 46 | 8
+EDGE Thibaut Courtois | Miranda | 42 | 46 | 46
+EDGE Thibaut Courtois | Emiliano Insúa | 2 | 46 | 2
+EDGE Thibaut Courtois | Juanfran Torres | 41 | 46 | 44
+EDGE Thibaut Courtois | Tiago Mendes | 15 | 46 | 20
+EDGE Thibaut Courtois | Raúl García | 16 | 46 | 23
+EDGE Thibaut Courtois | Koke | 35 | 46 | 38
+EDGE Thibaut Courtois | Cristian Rodríguez | 13 | 46 | 20
+EDGE Thibaut Courtois | Adrián López | 19 | 46 | 28
+EDGE Thibaut Courtois | Diego Costa | 31 | 46 | 36
+EDGE Thibaut Courtois | Diego Godín | 40 | 46 | 42
+EDGE Thibaut Courtois | Filipe Luís | 38 | 46 | 42
+EDGE Thibaut Courtois | Mario Suárez | 30 | 46 | 36
+EDGE Thibaut Courtois | Gabi | 41 | 46 | 44
+EDGE Thibaut Courtois | Radamel Falcao | 38 | 46 | 41
+EDGE Thibaut Courtois | Cata Díaz | 10 | 46 | 18
+EDGE Thibaut Courtois | Arda Turan | 33 | 46 | 35
+EDGE Thibaut Courtois | Emre Belözoğlu | 5 | 46 | 11
+EDGE Thibaut Courtois | Javier Manquillo | 3 | 46 | 6
+EDGE Thibaut Courtois | Sílvio | 2 | 46 | 7
+EDGE Thibaut Courtois | Domingo Cisma | 4 | 46 | 10
+EDGE Jorge Pulido | Miranda | 2 | 8 | 46
+EDGE Jorge Pulido | Emiliano Insúa | 1 | 8 | 2
+EDGE Jorge Pulido | Juanfran Torres | 2 | 8 | 44
+EDGE Jorge Pulido | Tiago Mendes | 5 | 8 | 20
+EDGE Jorge Pulido | Raúl García | 6 | 8 | 23
+EDGE Jorge Pulido | Koke | 5 | 8 | 38
+EDGE Jorge Pulido | Cristian Rodríguez | 5 | 8 | 20
+EDGE Jorge Pulido | Adrián López | 7 | 8 | 28
+EDGE Jorge Pulido | Diego Costa | 6 | 8 | 36
+EDGE Jorge Pulido | Sergio Asenjo | 6 | 8 | 10
+EDGE Jorge Pulido | Cata Díaz | 6 | 8 | 18
+EDGE Jorge Pulido | Domingo Cisma | 5 | 8 | 10
+EDGE Jorge Pulido | Sílvio | 5 | 8 | 7
+EDGE Jorge Pulido | Javier Manquillo | 2 | 8 | 6
+EDGE Jorge Pulido | Emre Belözoğlu | 5 | 8 | 11
+EDGE Jorge Pulido | Filipe Luís | 2 | 8 | 42
+EDGE Jorge Pulido | Gabi | 3 | 8 | 44
+EDGE Jorge Pulido | Mario Suárez | 3 | 8 | 36
+EDGE Jorge Pulido | Saúl Ñíguez | 1 | 8 | 2
+EDGE Jorge Pulido | Abdelkader Oueslati | 1 | 8 | 1
+EDGE Miranda | Emiliano Insúa | 2 | 46 | 2
+EDGE Miranda | Juanfran Torres | 40 | 46 | 44
+EDGE Miranda | Tiago Mendes | 14 | 46 | 20
+EDGE Miranda | Raúl García | 17 | 46 | 23
+EDGE Miranda | Koke | 32 | 46 | 38
+EDGE Miranda | Cristian Rodríguez | 14 | 46 | 20
+EDGE Miranda | Adrián López | 21 | 46 | 28
+EDGE Miranda | Diego Costa | 29 | 46 | 36
+EDGE Miranda | Diego Godín | 38 | 46 | 42
+EDGE Miranda | Filipe Luís | 36 | 46 | 42
+EDGE Miranda | Mario Suárez | 31 | 46 | 36
+EDGE Miranda | Gabi | 39 | 46 | 44
+EDGE Miranda | Radamel Falcao | 39 | 46 | 41
+EDGE Miranda | Arda Turan | 32 | 46 | 35
+EDGE Miranda | Sergio Asenjo | 4 | 46 | 10
+EDGE Miranda | Cata Díaz | 8 | 46 | 18
+EDGE Miranda | Domingo Cisma | 6 | 46 | 10
+EDGE Miranda | Sílvio | 2 | 46 | 7
+EDGE Miranda | Emre Belözoğlu | 6 | 46 | 11
+EDGE Miranda | Javier Manquillo | 5 | 46 | 6
+EDGE Miranda | Saúl Ñíguez | 1 | 46 | 2
+EDGE Emiliano Insúa | Juanfran Torres | 2 | 2 | 44
+EDGE Emiliano Insúa | Tiago Mendes | 2 | 2 | 20
+EDGE Emiliano Insúa | Raúl García | 1 | 2 | 23
+EDGE Emiliano Insúa | Koke | 2 | 2 | 38
+EDGE Emiliano Insúa | Cristian Rodríguez | 1 | 2 | 20
+EDGE Emiliano Insúa | Adrián López | 2 | 2 | 28
+EDGE Emiliano Insúa | Diego Costa | 1 | 2 | 36
+EDGE Emiliano Insúa | Diego Godín | 1 | 2 | 42
+EDGE Emiliano Insúa | Gabi | 1 | 2 | 44
+EDGE Emiliano Insúa | Arda Turan | 1 | 2 | 35
+EDGE Emiliano Insúa | Radamel Falcao | 1 | 2 | 41
+EDGE Juanfran Torres | Tiago Mendes | 15 | 44 | 20
+EDGE Juanfran Torres | Raúl García | 17 | 44 | 23
+EDGE Juanfran Torres | Koke | 31 | 44 | 38
+EDGE Juanfran Torres | Cristian Rodríguez | 12 | 44 | 20
+EDGE Juanfran Torres | Adrián López | 18 | 44 | 28
+EDGE Juanfran Torres | Diego Costa | 29 | 44 | 36
+EDGE Juanfran Torres | Diego Godín | 38 | 44 | 42
+EDGE Juanfran Torres | Filipe Luís | 37 | 44 | 42
+EDGE Juanfran Torres | Mario Suárez | 29 | 44 | 36
+EDGE Juanfran Torres | Gabi | 37 | 44 | 44
+EDGE Juanfran Torres | Radamel Falcao | 37 | 44 | 41
+EDGE Juanfran Torres | Cata Díaz | 9 | 44 | 18
+EDGE Juanfran Torres | Arda Turan | 32 | 44 | 35
+EDGE Juanfran Torres | Emre Belözoğlu | 6 | 44 | 11
+EDGE Juanfran Torres | Domingo Cisma | 4 | 44 | 10
+EDGE Juanfran Torres | Sergio Asenjo | 3 | 44 | 10
+EDGE Juanfran Torres | Javier Manquillo | 1 | 44 | 6
+EDGE Tiago Mendes | Raúl García | 8 | 20 | 23
+EDGE Tiago Mendes | Koke | 13 | 20 | 38
+EDGE Tiago Mendes | Cristian Rodríguez | 6 | 20 | 20
+EDGE Tiago Mendes | Adrián López | 11 | 20 | 28
+EDGE Tiago Mendes | Diego Costa | 13 | 20 | 36
+EDGE Tiago Mendes | Diego Godín | 14 | 20 | 42
+EDGE Tiago Mendes | Cata Díaz | 8 | 20 | 18
+EDGE Tiago Mendes | Filipe Luís | 14 | 20 | 42
+EDGE Tiago Mendes | Gabi | 13 | 20 | 44
+EDGE Tiago Mendes | Arda Turan | 13 | 20 | 35
+EDGE Tiago Mendes | Radamel Falcao | 12 | 20 | 41
+EDGE Tiago Mendes | Sergio Asenjo | 5 | 20 | 10
+EDGE Tiago Mendes | Domingo Cisma | 3 | 20 | 10
+EDGE Tiago Mendes | Sílvio | 4 | 20 | 7
+EDGE Tiago Mendes | Javier Manquillo | 3 | 20 | 6
+EDGE Tiago Mendes | Emre Belözoğlu | 5 | 20 | 11
+EDGE Tiago Mendes | Mario Suárez | 3 | 20 | 36
+EDGE Tiago Mendes | Saúl Ñíguez | 1 | 20 | 2
+EDGE Raúl García | Koke | 9 | 23 | 38
+EDGE Raúl García | Cristian Rodríguez | 12 | 23 | 20
+EDGE Raúl García | Adrián López | 13 | 23 | 28
+EDGE Raúl García | Diego Costa | 12 | 23 | 36
+EDGE Raúl García | Diego Godín | 12 | 23 | 42
+EDGE Raúl García | Filipe Luís | 15 | 23 | 42
+EDGE Raúl García | Mario Suárez | 16 | 23 | 36
+EDGE Raúl García | Gabi | 13 | 23 | 44
+EDGE Raúl García | Radamel Falcao | 13 | 23 | 41
+EDGE Raúl García | Cata Díaz | 11 | 23 | 18
+EDGE Raúl García | Sergio Asenjo | 7 | 23 | 10
+EDGE Raúl García | Domingo Cisma | 7 | 23 | 10
+EDGE Raúl García | Sílvio | 5 | 23 | 7
+EDGE Raúl García | Javier Manquillo | 3 | 23 | 6
+EDGE Raúl García | Emre Belözoğlu | 7 | 23 | 11
+EDGE Raúl García | Arda Turan | 8 | 23 | 35
+EDGE Raúl García | Saúl Ñíguez | 2 | 23 | 2
+EDGE Koke | Cristian Rodríguez | 9 | 38 | 20
+EDGE Koke | Adrián López | 16 | 38 | 28
+EDGE Koke | Diego Costa | 30 | 38 | 36
+EDGE Koke | Diego Godín | 31 | 38 | 42
+EDGE Koke | Filipe Luís | 31 | 38 | 42
+EDGE Koke | Mario Suárez | 24 | 38 | 36
+EDGE Koke | Gabi | 34 | 38 | 44
+EDGE Koke | Radamel Falcao | 28 | 38 | 41
+EDGE Koke | Cata Díaz | 9 | 38 | 18
+EDGE Koke | Arda Turan | 24 | 38 | 35
+EDGE Koke | Javier Manquillo | 3 | 38 | 6
+EDGE Koke | Sergio Asenjo | 3 | 38 | 10
+EDGE Koke | Sílvio | 3 | 38 | 7
+EDGE Koke | Emre Belözoğlu | 2 | 38 | 11
+EDGE Koke | Saúl Ñíguez | 1 | 38 | 2
+EDGE Koke | Domingo Cisma | 4 | 38 | 10
+EDGE Koke | Abdelkader Oueslati | 1 | 38 | 1
+EDGE Cristian Rodríguez | Adrián López | 10 | 20 | 28
+EDGE Cristian Rodríguez | Diego Costa | 10 | 20 | 36
+EDGE Cristian Rodríguez | Sergio Asenjo | 7 | 20 | 10
+EDGE Cristian Rodríguez | Cata Díaz | 10 | 20 | 18
+EDGE Cristian Rodríguez | Domingo Cisma | 7 | 20 | 10
+EDGE Cristian Rodríguez | Sílvio | 5 | 20 | 7
+EDGE Cristian Rodríguez | Javier Manquillo | 3 | 20 | 6
+EDGE Cristian Rodríguez | Emre Belözoğlu | 7 | 20 | 11
+EDGE Cristian Rodríguez | Mario Suárez | 12 | 20 | 36
+EDGE Cristian Rodríguez | Saúl Ñíguez | 1 | 20 | 2
+EDGE Cristian Rodríguez | Radamel Falcao | 13 | 20 | 41
+EDGE Cristian Rodríguez | Diego Godín | 12 | 20 | 42
+EDGE Cristian Rodríguez | Filipe Luís | 11 | 20 | 42
+EDGE Cristian Rodríguez | Gabi | 11 | 20 | 44
+EDGE Cristian Rodríguez | Arda Turan | 8 | 20 | 35
+EDGE Cristian Rodríguez | Abdelkader Oueslati | 1 | 20 | 1
+EDGE Adrián López | Diego Costa | 12 | 28 | 36
+EDGE Adrián López | Diego Godín | 18 | 28 | 42
+EDGE Adrián López | Filipe Luís | 18 | 28 | 42
+EDGE Adrián López | Mario Suárez | 18 | 28 | 36
+EDGE Adrián López | Gabi | 20 | 28 | 44
+EDGE Adrián López | Radamel Falcao | 16 | 28 | 41
+EDGE Adrián López | Cata Díaz | 11 | 28 | 18
+EDGE Adrián López | Sergio Asenjo | 9 | 28 | 10
+EDGE Adrián López | Domingo Cisma | 7 | 28 | 10
+EDGE Adrián López | Sílvio | 6 | 28 | 7
+EDGE Adrián López | Javier Manquillo | 5 | 28 | 6
+EDGE Adrián López | Emre Belözoğlu | 8 | 28 | 11
+EDGE Adrián López | Arda Turan | 12 | 28 | 35
+EDGE Adrián López | Saúl Ñíguez | 2 | 28 | 2
+EDGE Adrián López | Abdelkader Oueslati | 1 | 28 | 1
+EDGE Diego Costa | Diego Godín | 27 | 36 | 42
+EDGE Diego Costa | Cata Díaz | 11 | 36 | 18
+EDGE Diego Costa | Filipe Luís | 28 | 36 | 42
+EDGE Diego Costa | Gabi | 29 | 36 | 44
+EDGE Diego Costa | Arda Turan | 23 | 36 | 35
+EDGE Diego Costa | Radamel Falcao | 23 | 36 | 41
+EDGE Diego Costa | Sergio Asenjo | 5 | 36 | 10
+EDGE Diego Costa | Domingo Cisma | 6 | 36 | 10
+EDGE Diego Costa | Sílvio | 4 | 36 | 7
+EDGE Diego Costa | Mario Suárez | 21 | 36 | 36
+EDGE Diego Costa | Emre Belözoğlu | 6 | 36 | 11
+EDGE Diego Costa | Javier Manquillo | 3 | 36 | 6
+EDGE Diego Costa | Abdelkader Oueslati | 1 | 36 | 1
+EDGE Diego Godín | Filipe Luís | 37 | 42 | 42
+EDGE Diego Godín | Mario Suárez | 28 | 42 | 36
+EDGE Diego Godín | Gabi | 38 | 42 | 44
+EDGE Diego Godín | Radamel Falcao | 36 | 42 | 41
+EDGE Diego Godín | Cata Díaz | 6 | 42 | 18
+EDGE Diego Godín | Arda Turan | 32 | 42 | 35
+EDGE Diego Godín | Emre Belözoğlu | 4 | 42 | 11
+EDGE Diego Godín | Javier Manquillo | 3 | 42 | 6
+EDGE Diego Godín | Sílvio | 1 | 42 | 7
+EDGE Diego Godín | Sergio Asenjo | 2 | 42 | 10
+EDGE Diego Godín | Domingo Cisma | 2 | 42 | 10
+EDGE Filipe Luís | Mario Suárez | 29 | 42 | 36
+EDGE Filipe Luís | Gabi | 37 | 42 | 44
+EDGE Filipe Luís | Radamel Falcao | 34 | 42 | 41
+EDGE Filipe Luís | Cata Díaz | 9 | 42 | 18
+EDGE Filipe Luís | Arda Turan | 29 | 42 | 35
+EDGE Filipe Luís | Emre Belözoğlu | 5 | 42 | 11
+EDGE Filipe Luís | Javier Manquillo | 3 | 42 | 6
+EDGE Filipe Luís | Sergio Asenjo | 4 | 42 | 10
+EDGE Filipe Luís | Sílvio | 2 | 42 | 7
+EDGE Filipe Luís | Saúl Ñíguez | 1 | 42 | 2
+EDGE Mario Suárez | Gabi | 28 | 36 | 44
+EDGE Mario Suárez | Radamel Falcao | 28 | 36 | 41
+EDGE Mario Suárez | Sergio Asenjo | 6 | 36 | 10
+EDGE Mario Suárez | Cata Díaz | 11 | 36 | 18
+EDGE Mario Suárez | Domingo Cisma | 6 | 36 | 10
+EDGE Mario Suárez | Sílvio | 4 | 36 | 7
+EDGE Mario Suárez | Emre Belözoğlu | 5 | 36 | 11
+EDGE Mario Suárez | Arda Turan | 23 | 36 | 35
+EDGE Mario Suárez | Javier Manquillo | 3 | 36 | 6
+EDGE Mario Suárez | Saúl Ñíguez | 2 | 36 | 2
+EDGE Gabi | Radamel Falcao | 37 | 44 | 41
+EDGE Gabi | Cata Díaz | 10 | 44 | 18
+EDGE Gabi | Arda Turan | 30 | 44 | 35
+EDGE Gabi | Emre Belözoğlu | 5 | 44 | 11
+EDGE Gabi | Javier Manquillo | 3 | 44 | 6
+EDGE Gabi | Sílvio | 3 | 44 | 7
+EDGE Gabi | Sergio Asenjo | 3 | 44 | 10
+EDGE Gabi | Domingo Cisma | 4 | 44 | 10
+EDGE Gabi | Abdelkader Oueslati | 1 | 44 | 1
+EDGE Radamel Falcao | Arda Turan | 30 | 41 | 35
+EDGE Radamel Falcao | Sergio Asenjo | 3 | 41 | 10
+EDGE Radamel Falcao | Cata Díaz | 9 | 41 | 18
+EDGE Radamel Falcao | Domingo Cisma | 4 | 41 | 10
+EDGE Radamel Falcao | Javier Manquillo | 3 | 41 | 6
+EDGE Radamel Falcao | Saúl Ñíguez | 1 | 41 | 2
+EDGE Radamel Falcao | Emre Belözoğlu | 4 | 41 | 11
+EDGE Radamel Falcao | Sílvio | 1 | 41 | 7
+EDGE Cata Díaz | Sergio Asenjo | 8 | 18 | 10
+EDGE Cata Díaz | Domingo Cisma | 7 | 18 | 10
+EDGE Cata Díaz | Sílvio | 7 | 18 | 7
+EDGE Cata Díaz | Javier Manquillo | 2 | 18 | 6
+EDGE Cata Díaz | Emre Belözoğlu | 7 | 18 | 11
+EDGE Cata Díaz | Saúl Ñíguez | 2 | 18 | 2
+EDGE Cata Díaz | Arda Turan | 8 | 18 | 35
+EDGE Cata Díaz | Abdelkader Oueslati | 1 | 18 | 1
+EDGE Arda Turan | Emre Belözoğlu | 4 | 35 | 11
+EDGE Arda Turan | Javier Manquillo | 2 | 35 | 6
+EDGE Arda Turan | Sílvio | 1 | 35 | 7
+EDGE Arda Turan | Domingo Cisma | 3 | 35 | 10
+EDGE Arda Turan | Sergio Asenjo | 2 | 35 | 10
+EDGE Sergio Asenjo | Domingo Cisma | 6 | 10 | 10
+EDGE Sergio Asenjo | Sílvio | 5 | 10 | 7
+EDGE Sergio Asenjo | Javier Manquillo | 3 | 10 | 6
+EDGE Sergio Asenjo | Emre Belözoğlu | 6 | 10 | 11
+EDGE Sergio Asenjo | Saúl Ñíguez | 2 | 10 | 2
+EDGE Sergio Asenjo | Abdelkader Oueslati | 1 | 10 | 1
+EDGE Domingo Cisma | Sílvio | 4 | 10 | 7
+EDGE Domingo Cisma | Javier Manquillo | 3 | 10 | 6
+EDGE Domingo Cisma | Emre Belözoğlu | 6 | 10 | 11
+EDGE Domingo Cisma | Saúl Ñíguez | 1 | 10 | 2
+EDGE Domingo Cisma | Abdelkader Oueslati | 1 | 10 | 1
+EDGE Sílvio | Javier Manquillo | 1 | 7 | 6
+EDGE Sílvio | Emre Belözoğlu | 4 | 7 | 11
+EDGE Sílvio | Saúl Ñíguez | 1 | 7 | 2
+EDGE Javier Manquillo | Emre Belözoğlu | 2 | 6 | 11
+EDGE Javier Manquillo | Saúl Ñíguez | 1 | 6 | 2
+EDGE Emre Belözoğlu | Abdelkader Oueslati | 1 | 11 | 1

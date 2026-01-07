@@ -1,0 +1,178 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 79054 | niedz., 16.03.2008 | UD Almería
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Lilian Thuram, Éric Abidal, Edmílson, Andrés Iniesta, Xavi, Bojan Krkic, Samuel Eto'o, Eidur Gudjohnsen
+
+MATCH: 78816 | sob., 22.09.2007 | Sevilla FC
+PLAYERS: Víctor Valdés, Gabriel Milito, Rafa Márquez, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Xavi, Deco, Andrés Iniesta, Lionel Messi, Thierry Henry
+
+MATCH: 78839 | sob., 29.09.2007 | Levante UD
+PLAYERS: Víctor Valdés, Gabriel Milito, Lilian Thuram, Éric Abidal, Oleguer, Yaya Touré, Xavi, Deco, Andrés Iniesta, Lionel Messi, Thierry Henry
+
+MATCH: 79158 | sob., 17.05.2008 | Real Murcia CF
+PLAYERS: José Manuel Pinto, Carles Puyol, Lilian Thuram, Éric Abidal, Oleguer, Xavi, Giovani dos Santos, Eidur Gudjohnsen, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 90148 | śr., 09.04.2008 | FC Schalke 04
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Andrés Iniesta, Xavi, Thierry Henry, Bojan Krkic, Samuel Eto'o
+
+MATCH: 83375 | śr., 07.11.2007 | Glasgow Rangers
+PLAYERS: Víctor Valdés, Gabriel Milito, Lilian Thuram, Éric Abidal, Carles Puyol, Yaya Touré, Andrés Iniesta, Xavi, Ronaldinho, Lionel Messi, Thierry Henry
+
+MATCH: 83355 | wt., 23.10.2007 | Glasgow Rangers
+PLAYERS: Víctor Valdés, Gabriel Milito, Lilian Thuram, Éric Abidal, Carles Puyol, Andrés Iniesta, Xavi, Eidur Gudjohnsen, Ronaldinho, Lionel Messi, Thierry Henry
+
+MATCH: 88484 | czw., 24.01.2008 | Villarreal CF
+PLAYERS: Víctor Valdés, Gabriel Milito, Lilian Thuram, Sylvinho, Gianluca Zambrotta, Rafa Márquez, Xavi, Deco, Andrés Iniesta, Giovani dos Santos, Thierry Henry
+
+MATCH: 78790 | niedz., 26.08.2007 | Racing Santander
+PLAYERS: Víctor Valdés, Lilian Thuram, Oleguer, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Andrés Iniesta, Xavi, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 88431 | wt., 15.01.2008 | Sevilla FC
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Éric Abidal, Gianluca Zambrotta, Rafa Márquez, Andrés Iniesta, Xavi, Thierry Henry, Giovani dos Santos, Eidur Gudjohnsen
+
+MATCH: 79023 | sob., 16.02.2008 | Real Zaragoza
+PLAYERS: Víctor Valdés, Gabriel Milito, Rafa Márquez, Éric Abidal, Carles Puyol, Edmílson, Xavi, Deco, Thierry Henry, Giovani dos Santos, Lionel Messi
+
+MATCH: 90144 | wt., 01.04.2008 | FC Schalke 04
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Andrés Iniesta, Xavi, Thierry Henry, Samuel Eto'o, Bojan Krkic
+
+MATCH: 78796 | niedz., 02.09.2007 | Athletic Bilbao
+PLAYERS: Víctor Valdés, Rafa Márquez, Oleguer, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Xavi, Deco, Ronaldinho, Lionel Messi, Thierry Henry
+
+MATCH: 78845 | niedz., 07.10.2007 | Atlético Madryt
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Éric Abidal, Oleguer, Xavi, Andrés Iniesta, Deco, Ronaldinho, Lionel Messi, Thierry Henry
+
+MATCH: 88392 | śr., 20.02.2008 | Celtic Glasgow
+PLAYERS: Víctor Valdés, Gabriel Milito, Rafa Márquez, Éric Abidal, Carles Puyol, Yaya Touré, Andrés Iniesta, Deco, Ronaldinho, Lionel Messi, Thierry Henry
+
+MATCH: 79065 | niedz., 23.03.2008 | Real Valladolid CF
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Sylvinho, Gianluca Zambrotta, Yaya Touré, Andrés Iniesta, Xavi, Thierry Henry, Bojan Krkic, Samuel Eto'o
+
+MATCH: 78863 | sob., 20.10.2007 | Villarreal CF
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Éric Abidal, Oleguer, Xavi, Andrés Iniesta, Deco, Thierry Henry, Lionel Messi, Bojan Krkic
+
+MATCH: 79106 | sob., 19.04.2008 | RCD Espanyol
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Sylvinho, Gianluca Zambrotta, Yaya Touré, Xavi, Eidur Gudjohnsen, Giovani dos Santos, Bojan Krkic, Samuel Eto'o
+
+MATCH: 78906 | sob., 24.11.2007 | Recreativo Huelva
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Xavi, Eidur Gudjohnsen, Andrés Iniesta, Lionel Messi, Thierry Henry
+
+MATCH: 78996 | niedz., 03.02.2008 | CA Osasuna
+PLAYERS: Víctor Valdés, Gabriel Milito, Lilian Thuram, Éric Abidal, Gianluca Zambrotta, Rafa Márquez, Andrés Iniesta, Deco, Thierry Henry, Lionel Messi, Bojan Krkic
+
+MATCH: 79101 | sob., 12.04.2008 | Recreativo Huelva
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Xavi, Eidur Gudjohnsen, Santiago Ezquerro, Giovani dos Santos, Samuel Eto'o
+
+MATCH: 78984 | niedz., 27.01.2008 | Athletic Bilbao
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Sylvinho, Gianluca Zambrotta, Xavi, Andrés Iniesta, Deco, Thierry Henry, Lionel Messi, Bojan Krkic
+
+MATCH: 83378 | wt., 27.11.2007 | Olympique Lyon
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Andrés Iniesta, Xavi, Bojan Krkic, Lionel Messi, Eidur Gudjohnsen
+
+MATCH: 78927 | niedz., 09.12.2007 | Deportivo de La Coruña
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Sylvinho, Gianluca Zambrotta, Rafa Márquez, Andrés Iniesta, Xavi, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 79045 | niedz., 09.03.2008 | Villarreal CF
+PLAYERS: Víctor Valdés, Gabriel Milito, Lilian Thuram, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Andrés Iniesta, Xavi, Ronaldinho, Samuel Eto'o, Thierry Henry
+
+MATCH: 83331 | śr., 19.09.2007 | Olympique Lyon
+PLAYERS: Víctor Valdés, Gabriel Milito, Rafa Márquez, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Xavi, Deco, Ronaldinho, Lionel Messi, Thierry Henry
+
+MATCH: 79147 | niedz., 11.05.2008 | RCD Mallorca
+PLAYERS: José Manuel Pinto, Carles Puyol, Lilian Thuram, Éric Abidal, Gianluca Zambrotta, Edmílson, Yaya Touré, Deco, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 79140 | śr., 07.05.2008 | Real Madryt
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Xavi, Eidur Gudjohnsen, Thierry Henry, Lionel Messi, Bojan Krkic
+
+MATCH: 78898 | sob., 10.11.2007 | Getafe CF
+PLAYERS: Víctor Valdés, Gabriel Milito, Lilian Thuram, Éric Abidal, Carles Puyol, Yaya Touré, Andrés Iniesta, Xavi, Ronaldinho, Lionel Messi, Thierry Henry
+
+MATCH: 78942 | sob., 15.12.2007 | Valencia CF
+PLAYERS: Víctor Valdés, Gabriel Milito, Rafa Márquez, Éric Abidal, Carles Puyol, Yaya Touré, Andrés Iniesta, Xavi, Lionel Messi, Samuel Eto'o, Eidur Gudjohnsen
+
+MATCH: 78809 | niedz., 16.09.2007 | CA Osasuna
+PLAYERS: Víctor Valdés, Gabriel Milito, Lilian Thuram, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Andrés Iniesta, Deco, Ronaldinho, Giovani dos Santos, Thierry Henry
+
+MATCH: 78976 | niedz., 20.01.2008 | Racing Santander
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Sylvinho, Gianluca Zambrotta, Andrés Iniesta, Deco, Eidur Gudjohnsen, Thierry Henry, Giovani dos Santos, Bojan Krkic
+
+MATCH: 79132 | niedz., 04.05.2008 | Valencia CF
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Éric Abidal, Gianluca Zambrotta, Rafa Márquez, Xavi, Deco, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 88423 | śr., 09.01.2008 | Sevilla FC
+PLAYERS: Víctor Valdés, Gabriel Milito, Rafa Márquez, Éric Abidal, Carles Puyol, Edmílson, Andrés Iniesta, Xavi, Thierry Henry, Giovani dos Santos, Samuel Eto'o
+
+MATCH: 78947 | niedz., 23.12.2007 | Real Madryt
+PLAYERS: Víctor Valdés, Gabriel Milito, Rafa Márquez, Éric Abidal, Carles Puyol, Yaya Touré, Xavi, Deco, Andrés Iniesta, Ronaldinho, Samuel Eto'o
+
+MATCH: 79025 | niedz., 24.02.2008 | Levante UD
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Sylvinho, Gianluca Zambrotta, Yaya Touré, Andrés Iniesta, Xavi, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 78882 | czw., 01.11.2007 | Real Valladolid CF
+PLAYERS: Víctor Valdés, Gabriel Milito, Rafa Márquez, Sylvinho, Carles Puyol, Yaya Touré, Andrés Iniesta, Xavi, Ronaldinho, Lionel Messi, Bojan Krkic
+
+MATCH: 78865 | niedz., 28.10.2007 | UD Almería
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Andrés Iniesta, Xavi, Ronaldinho, Giovani dos Santos, Thierry Henry
+
+MATCH: 90882 | śr., 23.04.2008 | Manchester United
+PLAYERS: Víctor Valdés, Gabriel Milito, Rafa Márquez, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Xavi, Deco, Andrés Iniesta, Lionel Messi, Samuel Eto'o
+
+MATCH: 86905 | wt., 13.11.2007 | CD Alcoyano
+PLAYERS: Albert Jorquera, Rafa Márquez, Carles Puyol, Sylvinho, Oleguer, Yaya Touré, Andrés Iniesta, Xavi, Thierry Henry, Giovani dos Santos, Eidur Gudjohnsen
+
+MATCH: 78967 | sob., 12.01.2008 | Real Murcia CF
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Sylvinho, Gianluca Zambrotta, Rafa Márquez, Xavi, Eidur Gudjohnsen, Thierry Henry, Bojan Krkic, Samuel Eto'o
+
+MATCH: 78917 | sob., 01.12.2007 | RCD Espanyol
+PLAYERS: Víctor Valdés, Gabriel Milito, Rafa Márquez, Éric Abidal, Carles Puyol, Yaya Touré, Xavi, Eidur Gudjohnsen, Andrés Iniesta, Lionel Messi, Bojan Krkic
+
+MATCH: 79086 | niedz., 06.04.2008 | Getafe CF
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Sylvinho, Gianluca Zambrotta, Andrés Iniesta, Xavi, Yaya Touré, Bojan Krkic, Thierry Henry, Samuel Eto'o
+
+MATCH: 78825 | śr., 26.09.2007 | Real Zaragoza
+PLAYERS: Víctor Valdés, Gabriel Milito, Rafa Márquez, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Xavi, Deco, Andrés Iniesta, Lionel Messi, Thierry Henry
+
+MATCH: 83401 | śr., 12.12.2007 | VfB Stuttgart
+PLAYERS: Albert Jorquera, Gabriel Milito, Lilian Thuram, Sylvinho, Carles Puyol, Rafa Márquez, Xavi, Eidur Gudjohnsen, Ronaldinho, Giovani dos Santos, Samuel Eto'o
+
+MATCH: 88488 | czw., 31.01.2008 | Villarreal CF
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Éric Abidal, Gianluca Zambrotta, Rafa Márquez, Andrés Iniesta, Deco, Thierry Henry, Lionel Messi, Bojan Krkic
+
+MATCH: 88984 | śr., 27.02.2008 | Valencia CF
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Xavi, Deco, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 79115 | sob., 26.04.2008 | Deportivo de La Coruña
+PLAYERS: José Manuel Pinto, Carles Puyol, Rafa Márquez, Lilian Thuram, Sylvinho, Gianluca Zambrotta, Yaya Touré, Giovani dos Santos, Bojan Krkic, Thierry Henry, Eidur Gudjohnsen
+
+MATCH: 88986 | czw., 20.03.2008 | Valencia CF
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Andrés Iniesta, Xavi, Bojan Krkic, Samuel Eto'o, Eidur Gudjohnsen
+
+MATCH: 83337 | wt., 02.10.2007 | VfB Stuttgart
+PLAYERS: Víctor Valdés, Rafa Márquez, Lilian Thuram, Éric Abidal, Oleguer, Xavi, Andrés Iniesta, Deco, Ronaldinho, Lionel Messi, Thierry Henry
+
+MATCH: 78886 | niedz., 04.11.2007 | Real Betis Balompié
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Andrés Iniesta, Xavi, Ronaldinho, Lionel Messi, Thierry Henry
+
+MATCH: 90903 | wt., 29.04.2008 | Manchester United
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Éric Abidal, Gianluca Zambrotta, Yaya Touré, Xavi, Deco, Andrés Iniesta, Lionel Messi, Samuel Eto'o
+
+MATCH: 79012 | sob., 09.02.2008 | Sevilla FC
+PLAYERS: Víctor Valdés, Gabriel Milito, Lilian Thuram, Éric Abidal, Oleguer, Edmílson, Andrés Iniesta, Xavi, Lionel Messi, Giovani dos Santos, Thierry Henry
+
+MATCH: 79075 | sob., 29.03.2008 | Real Betis Balompié
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Éric Abidal, Gianluca Zambrotta, Andrés Iniesta, Xavi, Yaya Touré, Bojan Krkic, Thierry Henry, Samuel Eto'o
+
+MATCH: 88401 | wt., 04.03.2008 | Celtic Glasgow
+PLAYERS: Víctor Valdés, Carles Puyol, Lilian Thuram, Sylvinho, Gianluca Zambrotta, Yaya Touré, Xavi, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 78957 | sob., 05.01.2008 | RCD Mallorca
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Rafa Márquez, Éric Abidal, Andrés Iniesta, Xavi, Yaya Touré, Giovani dos Santos, Samuel Eto'o, Eidur Gudjohnsen
+
+MATCH: 87616 | śr., 02.01.2008 | CD Alcoyano
+PLAYERS: Oier Olazábal, Carles Puyol, Lilian Thuram, Sylvinho, Edmílson, Víctor Sánchez, Deco, Giovani dos Santos, Bojan Krkic, Eidur Gudjohnsen, Santiago Ezquerro
+
+MATCH: 79035 | sob., 01.03.2008 | Atlético Madryt
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Éric Abidal, Gianluca Zambrotta, Edmílson, Andrés Iniesta, Xavi, Ronaldinho, Samuel Eto'o, Thierry Henry
+

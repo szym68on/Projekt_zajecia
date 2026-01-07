@@ -1,0 +1,175 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3118585 | śr., 31.10.2018 | UD Melilla
+PLAYERS: Keylor Navas, Sergio Ramos, Javi Sánchez, Sergio Reguilón, Álvaro Odriozola, Marcos Llorente, Dani Ceballos, Marco Asensio, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3079442 | sob., 03.11.2018 | Real Valladolid CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Nacho Fernández, Sergio Reguilón, Álvaro Odriozola, Casemiro, Toni Kroos, Luka Modrić, Marco Asensio, Gareth Bale, Karim Benzema
+
+MATCH: 3079518 | niedz., 06.01.2019 | Real Sociedad
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3079430 | sob., 20.10.2018 | Levante UD
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Álvaro Odriozola, Casemiro, Luka Modrić, Isco, Marco Asensio, Lucas Vázquez, Mariano Díaz
+
+MATCH: 3079404 | sob., 29.09.2018 | Atlético Madryt
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Nacho Fernández, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Marco Asensio, Gareth Bale, Karim Benzema
+
+MATCH: 3080878 | sob., 06.04.2019 | SD Eibar
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Sergio Reguilón, Álvaro Odriozola, Federico Valverde, Luka Modrić, Isco, Marco Asensio, Gareth Bale, Karim Benzema
+
+MATCH: 3080871 | śr., 03.04.2019 | Valencia CF
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Álvaro Odriozola, Casemiro, Toni Kroos, Luka Modrić, Marco Asensio, Lucas Vázquez, Karim Benzema
+
+MATCH: 3153160 | śr., 27.02.2019 | FC Barcelona
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Sergio Reguilón, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3153158 | śr., 06.02.2019 | FC Barcelona
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Marcos Llorente, Toni Kroos, Luka Modrić, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3079317 | niedz., 26.08.2018 | Girona FC
+PLAYERS: Keylor Navas, Sergio Ramos, Nacho Fernández, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Isco, Marco Asensio, Gareth Bale, Karim Benzema
+
+MATCH: 3080809 | niedz., 17.02.2019 | Girona FC
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Álvaro Odriozola, Casemiro, Toni Kroos, Dani Ceballos, Marco Asensio, Lucas Vázquez, Karim Benzema
+
+MATCH: 3148383 | czw., 24.01.2019 | Girona FC
+PLAYERS: Thibaut Courtois, Sergio Ramos, Nacho Fernández, Marcelo, Álvaro Odriozola, Casemiro, Luka Modrić, Dani Ceballos, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3081083 | czw., 25.04.2019 | Getafe CF
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Sergio Reguilón, Daniel Carvajal, Casemiro, Federico Valverde, Isco, Gareth Bale, Brahim Díaz, Karim Benzema
+
+MATCH: 3079388 | sob., 22.09.2018 | RCD Espanyol
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Nacho Fernández, Álvaro Odriozola, Casemiro, Luka Modrić, Dani Ceballos, Marco Asensio, Isco, Karim Benzema
+
+MATCH: 3097991 | wt., 02.10.2018 | CSKA Moskwa
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Sergio Reguilón, Daniel Carvajal, Casemiro, Toni Kroos, Dani Ceballos, Marco Asensio, Lucas Vázquez, Karim Benzema
+
+MATCH: 3080840 | niedz., 10.03.2019 | Real Valladolid CF
+PLAYERS: Thibaut Courtois, Raphaël Varane, Nacho Fernández, Sergio Reguilón, Álvaro Odriozola, Casemiro, Toni Kroos, Luka Modrić, Dani Ceballos, Marco Asensio, Karim Benzema
+
+MATCH: 3080847 | sob., 16.03.2019 | Celta de Vigo
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Álvaro Odriozola, Toni Kroos, Luka Modrić, Isco, Gareth Bale, Marco Asensio, Karim Benzema
+
+MATCH: 3080792 | sob., 09.02.2019 | Atlético Madryt
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Sergio Reguilón, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3080885 | pon., 15.04.2019 | CD Leganés
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Marcelo, Daniel Carvajal, Casemiro, Luka Modrić, Federico Valverde, Isco, Marco Asensio, Karim Benzema
+
+MATCH: 3148386 | czw., 31.01.2019 | Girona FC
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Marcos Llorente, Toni Kroos, Dani Ceballos, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3079528 | niedz., 13.01.2019 | Real Betis Balompié
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Nacho Fernández, Casemiro, Federico Valverde, Daniel Carvajal, Sergio Reguilón, Luka Modrić, Vinicius Junior, Karim Benzema
+
+MATCH: 3079463 | sob., 24.11.2018 | SD Eibar
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Álvaro Odriozola, Toni Kroos, Luka Modrić, Dani Ceballos, Marco Asensio, Gareth Bale, Karim Benzema
+
+MATCH: 3081095 | niedz., 28.04.2019 | Rayo Vallecano
+PLAYERS: Thibaut Courtois, Jesús Vallejo, Raphaël Varane, Marcelo, Daniel Carvajal, Marcos Llorente, Toni Kroos, Dani Ceballos, Luka Modrić, Gareth Bale, Mariano Díaz
+
+MATCH: 3079453 | niedz., 11.11.2018 | Celta de Vigo
+PLAYERS: Thibaut Courtois, Sergio Ramos, Nacho Fernández, Sergio Reguilón, Álvaro Odriozola, Casemiro, Toni Kroos, Luka Modrić, Gareth Bale, Lucas Vázquez, Karim Benzema
+
+MATCH: 3080786 | niedz., 03.02.2019 | Deportivo Alavés
+PLAYERS: Thibaut Courtois, Sergio Ramos, Nacho Fernández, Sergio Reguilón, Álvaro Odriozola, Casemiro, Luka Modrić, Dani Ceballos, Vinicius Junior, Gareth Bale, Karim Benzema
+
+MATCH: 3098055 | śr., 12.12.2018 | CSKA Moskwa
+PLAYERS: Thibaut Courtois, Jesús Vallejo, Javi Sánchez, Marcelo, Álvaro Odriozola, Marcos Llorente, Federico Valverde, Isco, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3079399 | śr., 26.09.2018 | Sevilla FC
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Nacho Fernández, Casemiro, Toni Kroos, Luka Modrić, Marco Asensio, Gareth Bale, Karim Benzema
+
+MATCH: 3079488 | niedz., 09.12.2018 | SD Huesca
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Daniel Carvajal, Álvaro Odriozola, Marcos Llorente, Luka Modrić, Dani Ceballos, Gareth Bale, Lucas Vázquez, Karim Benzema
+
+MATCH: 3079431 | niedz., 28.10.2018 | FC Barcelona
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Nacho Fernández, Casemiro, Toni Kroos, Luka Modrić, Isco, Gareth Bale, Karim Benzema
+
+MATCH: 3080826 | sob., 02.03.2019 | FC Barcelona
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Sergio Reguilón, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Gareth Bale, Karim Benzema
+
+MATCH: 3118598 | czw., 06.12.2018 | UD Melilla
+PLAYERS: Keylor Navas, Jesús Vallejo, Javi Sánchez, Daniel Carvajal, Álvaro Odriozola, Marcos Llorente, Federico Valverde, Isco, Vinicius Junior, Marco Asensio, Mariano Díaz
+
+MATCH: 3097967 | śr., 19.09.2018 | AS Roma
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Isco, Gareth Bale, Karim Benzema
+
+MATCH: 3135203 | śr., 19.12.2018 | Kashima Antlers
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Marcos Llorente, Toni Kroos, Luka Modrić, Gareth Bale, Lucas Vázquez, Karim Benzema
+
+MATCH: 3136571 | sob., 22.12.2018 | Al-Ain FC
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Marcos Llorente, Toni Kroos, Luka Modrić, Gareth Bale, Lucas Vázquez, Karim Benzema
+
+MATCH: 3079370 | sob., 15.09.2018 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Dani Ceballos, Marco Asensio, Gareth Bale, Karim Benzema
+
+MATCH: 3081105 | niedz., 05.05.2019 | Villarreal CF
+PLAYERS: Thibaut Courtois, Jesús Vallejo, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Brahim Díaz, Lucas Vázquez, Mariano Díaz
+
+MATCH: 3079311 | niedz., 19.08.2018 | Getafe CF
+PLAYERS: Keylor Navas, Sergio Ramos, Nacho Fernández, Marcelo, Daniel Carvajal, Toni Kroos, Dani Ceballos, Isco, Marco Asensio, Gareth Bale, Karim Benzema
+
+MATCH: 3098007 | wt., 23.10.2018 | FC Viktoria Pilzno
+PLAYERS: Keylor Navas, Sergio Ramos, Nacho Fernández, Marcelo, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Isco, Gareth Bale, Karim Benzema
+
+MATCH: 3080819 | niedz., 24.02.2019 | Levante UD
+PLAYERS: Thibaut Courtois, Raphaël Varane, Nacho Fernández, Sergio Reguilón, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3081129 | niedz., 19.05.2019 | Real Betis Balompié
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Marcelo, Daniel Carvajal, Marcos Llorente, Luka Modrić, Federico Valverde, Vinicius Junior, Brahim Díaz, Karim Benzema
+
+MATCH: 3135812 | wt., 05.03.2019 | Ajax Amsterdam
+PLAYERS: Thibaut Courtois, Raphaël Varane, Nacho Fernández, Sergio Reguilón, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3142948 | śr., 09.01.2019 | CD Leganés
+PLAYERS: Keylor Navas, Sergio Ramos, Nacho Fernández, Sergio Reguilón, Álvaro Odriozola, Casemiro, Federico Valverde, Dani Ceballos, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3081120 | niedz., 12.05.2019 | Real Sociedad
+PLAYERS: Thibaut Courtois, Jesús Vallejo, Nacho Fernández, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Isco, Brahim Díaz, Marco Asensio, Karim Benzema
+
+MATCH: 3080768 | sob., 19.01.2019 | Sevilla FC
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Sergio Reguilón, Daniel Carvajal, Casemiro, Luka Modrić, Dani Ceballos, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3098040 | wt., 27.11.2018 | AS Roma
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Marcos Llorente, Toni Kroos, Luka Modrić, Gareth Bale, Lucas Vázquez, Karim Benzema
+
+MATCH: 3135802 | śr., 13.02.2019 | Ajax Amsterdam
+PLAYERS: Thibaut Courtois, Sergio Ramos, Nacho Fernández, Sergio Reguilón, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Gareth Bale, Karim Benzema
+
+MATCH: 3079332 | sob., 01.09.2018 | CD Leganés
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Marco Asensio, Gareth Bale, Karim Benzema
+
+MATCH: 3098024 | śr., 07.11.2018 | FC Viktoria Pilzno
+PLAYERS: Thibaut Courtois, Sergio Ramos, Nacho Fernández, Sergio Reguilón, Álvaro Odriozola, Casemiro, Toni Kroos, Dani Ceballos, Gareth Bale, Lucas Vázquez, Karim Benzema
+
+MATCH: 3079504 | sob., 15.12.2018 | Rayo Vallecano
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Marcos Llorente, Toni Kroos, Luka Modrić, Marco Asensio, Lucas Vázquez, Karim Benzema
+
+MATCH: 3080860 | niedz., 31.03.2019 | SD Huesca
+PLAYERS: Luca Zidane, Sergio Ramos, Nacho Fernández, Marcelo, Álvaro Odriozola, Marcos Llorente, Dani Ceballos, Isco, Brahim Díaz, Gareth Bale, Karim Benzema
+
+MATCH: 3079410 | sob., 06.10.2018 | Deportivo Alavés
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Nacho Fernández, Álvaro Odriozola, Casemiro, Toni Kroos, Luka Modrić, Dani Ceballos, Gareth Bale, Karim Benzema
+
+MATCH: 3142972 | śr., 16.01.2019 | CD Leganés
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Sergio Reguilón, Álvaro Odriozola, Casemiro, Federico Valverde, Isco, Marcelo, Lucas Vázquez, Vinicius Junior
+
+MATCH: 3080897 | niedz., 21.04.2019 | Athletic Bilbao
+PLAYERS: Keylor Navas, Jesús Vallejo, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Marco Asensio, Lucas Vázquez, Karim Benzema
+
+MATCH: 3045430 | śr., 15.08.2018 | Atlético Madryt
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Isco, Marco Asensio, Gareth Bale, Karim Benzema
+
+MATCH: 3079514 | czw., 03.01.2019 | Villarreal CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Gareth Bale, Lucas Vázquez, Karim Benzema
+
+MATCH: 3079475 | sob., 01.12.2018 | Valencia CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Sergio Reguilón, Daniel Carvajal, Marcos Llorente, Luka Modrić, Dani Ceballos, Gareth Bale, Lucas Vázquez, Karim Benzema
+
+MATCH: 3080775 | niedz., 27.01.2019 | RCD Espanyol
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Sergio Reguilón, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Lucas Vázquez, Karim Benzema
+

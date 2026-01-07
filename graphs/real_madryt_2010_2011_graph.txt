@@ -1,0 +1,296 @@
+# Graph for Java/GraphStream
+# Nodes: 27
+# Edges: 290
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Iker Casillas | Ricardo Carvalho | 42 | 54 | 46
+EDGE Iker Casillas | Pepe | 34 | 54 | 36
+EDGE Iker Casillas | Álvaro Arbeloa | 33 | 54 | 37
+EDGE Iker Casillas | Sergio Ramos | 43 | 54 | 45
+EDGE Iker Casillas | Lassana Diarra | 23 | 54 | 26
+EDGE Iker Casillas | Sami Khedira | 32 | 54 | 34
+EDGE Iker Casillas | Mesut Özil | 43 | 54 | 45
+EDGE Iker Casillas | Cristiano Ronaldo | 47 | 54 | 51
+EDGE Iker Casillas | Ángel Di María | 40 | 54 | 42
+EDGE Iker Casillas | Karim Benzema | 27 | 54 | 31
+EDGE Iker Casillas | Raúl Albiol | 21 | 54 | 24
+EDGE Iker Casillas | Xabi Alonso | 44 | 54 | 46
+EDGE Iker Casillas | Marcelo | 44 | 54 | 47
+EDGE Iker Casillas | Emmanuel Adebayor | 8 | 54 | 9
+EDGE Iker Casillas | Gonzalo Higuaín | 21 | 54 | 22
+EDGE Iker Casillas | Kaká | 10 | 54 | 12
+EDGE Iker Casillas | Ezequiel Garay | 4 | 54 | 5
+EDGE Iker Casillas | Nacho Fernández | 2 | 54 | 2
+EDGE Iker Casillas | Esteban Granero | 11 | 54 | 13
+EDGE Iker Casillas | Sergio Canales | 5 | 54 | 6
+EDGE Iker Casillas | Fernando Gago | 1 | 54 | 2
+EDGE Iker Casillas | Mahamadou Diarra | 2 | 54 | 3
+EDGE Iker Casillas | Pedro León | 3 | 54 | 5
+EDGE Ricardo Carvalho | Pepe | 28 | 46 | 36
+EDGE Ricardo Carvalho | Álvaro Arbeloa | 25 | 46 | 37
+EDGE Ricardo Carvalho | Sergio Ramos | 34 | 46 | 45
+EDGE Ricardo Carvalho | Lassana Diarra | 17 | 46 | 26
+EDGE Ricardo Carvalho | Sami Khedira | 31 | 46 | 34
+EDGE Ricardo Carvalho | Mesut Özil | 36 | 46 | 45
+EDGE Ricardo Carvalho | Cristiano Ronaldo | 41 | 46 | 51
+EDGE Ricardo Carvalho | Ángel Di María | 35 | 46 | 42
+EDGE Ricardo Carvalho | Karim Benzema | 22 | 46 | 31
+EDGE Ricardo Carvalho | Raúl Albiol | 13 | 46 | 24
+EDGE Ricardo Carvalho | Xabi Alonso | 37 | 46 | 46
+EDGE Ricardo Carvalho | Marcelo | 37 | 46 | 47
+EDGE Ricardo Carvalho | Emmanuel Adebayor | 7 | 46 | 9
+EDGE Ricardo Carvalho | Gonzalo Higuaín | 19 | 46 | 22
+EDGE Ricardo Carvalho | Kaká | 8 | 46 | 12
+EDGE Ricardo Carvalho | Ezequiel Garay | 4 | 46 | 5
+EDGE Ricardo Carvalho | Nacho Fernández | 2 | 46 | 2
+EDGE Ricardo Carvalho | Esteban Granero | 8 | 46 | 13
+EDGE Ricardo Carvalho | Sergio Canales | 4 | 46 | 6
+EDGE Ricardo Carvalho | Fernando Gago | 2 | 46 | 2
+EDGE Ricardo Carvalho | Antonio Adán | 3 | 46 | 3
+EDGE Ricardo Carvalho | Jerzy Dudek | 1 | 46 | 2
+EDGE Ricardo Carvalho | Mahamadou Diarra | 1 | 46 | 3
+EDGE Ricardo Carvalho | Pedro León | 2 | 46 | 5
+EDGE Ricardo Carvalho | David Mateos | 1 | 46 | 1
+EDGE Pepe | Álvaro Arbeloa | 18 | 36 | 37
+EDGE Pepe | Sergio Ramos | 27 | 36 | 45
+EDGE Pepe | Lassana Diarra | 12 | 36 | 26
+EDGE Pepe | Sami Khedira | 23 | 36 | 34
+EDGE Pepe | Mesut Özil | 30 | 36 | 45
+EDGE Pepe | Cristiano Ronaldo | 33 | 36 | 51
+EDGE Pepe | Ángel Di María | 27 | 36 | 42
+EDGE Pepe | Karim Benzema | 16 | 36 | 31
+EDGE Pepe | Marcelo | 30 | 36 | 47
+EDGE Pepe | Xabi Alonso | 32 | 36 | 46
+EDGE Pepe | Gonzalo Higuaín | 17 | 36 | 22
+EDGE Pepe | Emmanuel Adebayor | 5 | 36 | 9
+EDGE Pepe | Raúl Albiol | 7 | 36 | 24
+EDGE Pepe | Ezequiel Garay | 2 | 36 | 5
+EDGE Pepe | Nacho Fernández | 1 | 36 | 2
+EDGE Pepe | Esteban Granero | 6 | 36 | 13
+EDGE Pepe | Sergio Canales | 2 | 36 | 6
+EDGE Pepe | Kaká | 6 | 36 | 12
+EDGE Pepe | Mahamadou Diarra | 1 | 36 | 3
+EDGE Pepe | Pedro León | 1 | 36 | 5
+EDGE Pepe | Jerzy Dudek | 1 | 36 | 2
+EDGE Pepe | Antonio Adán | 1 | 36 | 3
+EDGE Álvaro Arbeloa | Sergio Ramos | 25 | 37 | 45
+EDGE Álvaro Arbeloa | Lassana Diarra | 18 | 37 | 26
+EDGE Álvaro Arbeloa | Sami Khedira | 20 | 37 | 34
+EDGE Álvaro Arbeloa | Mesut Özil | 27 | 37 | 45
+EDGE Álvaro Arbeloa | Cristiano Ronaldo | 32 | 37 | 51
+EDGE Álvaro Arbeloa | Ángel Di María | 25 | 37 | 42
+EDGE Álvaro Arbeloa | Karim Benzema | 18 | 37 | 31
+EDGE Álvaro Arbeloa | Raúl Albiol | 18 | 37 | 24
+EDGE Álvaro Arbeloa | Xabi Alonso | 27 | 37 | 46
+EDGE Álvaro Arbeloa | Marcelo | 27 | 37 | 47
+EDGE Álvaro Arbeloa | Emmanuel Adebayor | 7 | 37 | 9
+EDGE Álvaro Arbeloa | Kaká | 8 | 37 | 12
+EDGE Álvaro Arbeloa | Gonzalo Higuaín | 11 | 37 | 22
+EDGE Álvaro Arbeloa | Fernando Gago | 2 | 37 | 2
+EDGE Álvaro Arbeloa | Esteban Granero | 9 | 37 | 13
+EDGE Álvaro Arbeloa | Mahamadou Diarra | 3 | 37 | 3
+EDGE Álvaro Arbeloa | Sergio Canales | 4 | 37 | 6
+EDGE Álvaro Arbeloa | Pedro León | 5 | 37 | 5
+EDGE Álvaro Arbeloa | Jerzy Dudek | 2 | 37 | 2
+EDGE Álvaro Arbeloa | Ezequiel Garay | 3 | 37 | 5
+EDGE Álvaro Arbeloa | Antonio Adán | 2 | 37 | 3
+EDGE Álvaro Arbeloa | David Mateos | 1 | 37 | 1
+EDGE Sergio Ramos | Lassana Diarra | 18 | 45 | 26
+EDGE Sergio Ramos | Sami Khedira | 27 | 45 | 34
+EDGE Sergio Ramos | Mesut Özil | 35 | 45 | 45
+EDGE Sergio Ramos | Cristiano Ronaldo | 39 | 45 | 51
+EDGE Sergio Ramos | Ángel Di María | 32 | 45 | 42
+EDGE Sergio Ramos | Karim Benzema | 26 | 45 | 31
+EDGE Sergio Ramos | Raúl Albiol | 19 | 45 | 24
+EDGE Sergio Ramos | Xabi Alonso | 35 | 45 | 46
+EDGE Sergio Ramos | Marcelo | 35 | 45 | 47
+EDGE Sergio Ramos | Emmanuel Adebayor | 7 | 45 | 9
+EDGE Sergio Ramos | Gonzalo Higuaín | 15 | 45 | 22
+EDGE Sergio Ramos | Ezequiel Garay | 2 | 45 | 5
+EDGE Sergio Ramos | Nacho Fernández | 1 | 45 | 2
+EDGE Sergio Ramos | Esteban Granero | 9 | 45 | 13
+EDGE Sergio Ramos | Sergio Canales | 4 | 45 | 6
+EDGE Sergio Ramos | Kaká | 9 | 45 | 12
+EDGE Sergio Ramos | Fernando Gago | 1 | 45 | 2
+EDGE Sergio Ramos | Mahamadou Diarra | 2 | 45 | 3
+EDGE Sergio Ramos | Pedro León | 3 | 45 | 5
+EDGE Sergio Ramos | Antonio Adán | 1 | 45 | 3
+EDGE Sergio Ramos | Jerzy Dudek | 1 | 45 | 2
+EDGE Lassana Diarra | Sami Khedira | 8 | 26 | 34
+EDGE Lassana Diarra | Mesut Özil | 19 | 26 | 45
+EDGE Lassana Diarra | Cristiano Ronaldo | 22 | 26 | 51
+EDGE Lassana Diarra | Ángel Di María | 17 | 26 | 42
+EDGE Lassana Diarra | Karim Benzema | 17 | 26 | 31
+EDGE Lassana Diarra | Raúl Albiol | 16 | 26 | 24
+EDGE Lassana Diarra | Marcelo | 20 | 26 | 47
+EDGE Lassana Diarra | Xabi Alonso | 18 | 26 | 46
+EDGE Lassana Diarra | Kaká | 7 | 26 | 12
+EDGE Lassana Diarra | Gonzalo Higuaín | 7 | 26 | 22
+EDGE Lassana Diarra | Esteban Granero | 6 | 26 | 13
+EDGE Lassana Diarra | Sergio Canales | 2 | 26 | 6
+EDGE Lassana Diarra | Ezequiel Garay | 3 | 26 | 5
+EDGE Lassana Diarra | Nacho Fernández | 1 | 26 | 2
+EDGE Lassana Diarra | Antonio Adán | 2 | 26 | 3
+EDGE Lassana Diarra | Emmanuel Adebayor | 3 | 26 | 9
+EDGE Lassana Diarra | Jerzy Dudek | 1 | 26 | 2
+EDGE Lassana Diarra | Mahamadou Diarra | 1 | 26 | 3
+EDGE Lassana Diarra | Pedro León | 2 | 26 | 5
+EDGE Sami Khedira | Mesut Özil | 30 | 34 | 45
+EDGE Sami Khedira | Cristiano Ronaldo | 32 | 34 | 51
+EDGE Sami Khedira | Ángel Di María | 28 | 34 | 42
+EDGE Sami Khedira | Karim Benzema | 13 | 34 | 31
+EDGE Sami Khedira | Raúl Albiol | 10 | 34 | 24
+EDGE Sami Khedira | Xabi Alonso | 29 | 34 | 46
+EDGE Sami Khedira | Marcelo | 27 | 34 | 47
+EDGE Sami Khedira | Emmanuel Adebayor | 5 | 34 | 9
+EDGE Sami Khedira | Gonzalo Higuaín | 14 | 34 | 22
+EDGE Sami Khedira | Antonio Adán | 2 | 34 | 3
+EDGE Sami Khedira | Kaká | 2 | 34 | 12
+EDGE Sami Khedira | Esteban Granero | 2 | 34 | 13
+EDGE Sami Khedira | Ezequiel Garay | 1 | 34 | 5
+EDGE Sami Khedira | David Mateos | 1 | 34 | 1
+EDGE Sami Khedira | Fernando Gago | 1 | 34 | 2
+EDGE Sami Khedira | Sergio Canales | 1 | 34 | 6
+EDGE Sami Khedira | Pedro León | 1 | 34 | 5
+EDGE Mesut Özil | Cristiano Ronaldo | 42 | 45 | 51
+EDGE Mesut Özil | Ángel Di María | 36 | 45 | 42
+EDGE Mesut Özil | Karim Benzema | 20 | 45 | 31
+EDGE Mesut Özil | Raúl Albiol | 16 | 45 | 24
+EDGE Mesut Özil | Xabi Alonso | 41 | 45 | 46
+EDGE Mesut Özil | Marcelo | 38 | 45 | 47
+EDGE Mesut Özil | Emmanuel Adebayor | 9 | 45 | 9
+EDGE Mesut Özil | Gonzalo Higuaín | 15 | 45 | 22
+EDGE Mesut Özil | Esteban Granero | 4 | 45 | 13
+EDGE Mesut Özil | Kaká | 5 | 45 | 12
+EDGE Mesut Özil | Jerzy Dudek | 1 | 45 | 2
+EDGE Mesut Özil | Ezequiel Garay | 1 | 45 | 5
+EDGE Mesut Özil | Antonio Adán | 1 | 45 | 3
+EDGE Mesut Özil | Pedro León | 1 | 45 | 5
+EDGE Cristiano Ronaldo | Ángel Di María | 38 | 51 | 42
+EDGE Cristiano Ronaldo | Karim Benzema | 25 | 51 | 31
+EDGE Cristiano Ronaldo | Raúl Albiol | 19 | 51 | 24
+EDGE Cristiano Ronaldo | Xabi Alonso | 45 | 51 | 46
+EDGE Cristiano Ronaldo | Marcelo | 44 | 51 | 47
+EDGE Cristiano Ronaldo | Emmanuel Adebayor | 6 | 51 | 9
+EDGE Cristiano Ronaldo | Gonzalo Higuaín | 18 | 51 | 22
+EDGE Cristiano Ronaldo | Kaká | 9 | 51 | 12
+EDGE Cristiano Ronaldo | Fernando Gago | 1 | 51 | 2
+EDGE Cristiano Ronaldo | Esteban Granero | 5 | 51 | 13
+EDGE Cristiano Ronaldo | Mahamadou Diarra | 2 | 51 | 3
+EDGE Cristiano Ronaldo | Sergio Canales | 2 | 51 | 6
+EDGE Cristiano Ronaldo | Pedro León | 3 | 51 | 5
+EDGE Cristiano Ronaldo | Antonio Adán | 2 | 51 | 3
+EDGE Cristiano Ronaldo | Jerzy Dudek | 2 | 51 | 2
+EDGE Cristiano Ronaldo | Ezequiel Garay | 1 | 51 | 5
+EDGE Ángel Di María | Karim Benzema | 16 | 42 | 31
+EDGE Ángel Di María | Raúl Albiol | 16 | 42 | 24
+EDGE Ángel Di María | Marcelo | 36 | 42 | 47
+EDGE Ángel Di María | Xabi Alonso | 35 | 42 | 46
+EDGE Ángel Di María | Kaká | 5 | 42 | 12
+EDGE Ángel Di María | Gonzalo Higuaín | 17 | 42 | 22
+EDGE Ángel Di María | Emmanuel Adebayor | 6 | 42 | 9
+EDGE Ángel Di María | Fernando Gago | 1 | 42 | 2
+EDGE Ángel Di María | Esteban Granero | 6 | 42 | 13
+EDGE Ángel Di María | Sergio Canales | 1 | 42 | 6
+EDGE Ángel Di María | Antonio Adán | 2 | 42 | 3
+EDGE Ángel Di María | Ezequiel Garay | 1 | 42 | 5
+EDGE Karim Benzema | Marcelo | 22 | 31 | 47
+EDGE Karim Benzema | Xabi Alonso | 20 | 31 | 46
+EDGE Karim Benzema | Gonzalo Higuaín | 5 | 31 | 22
+EDGE Karim Benzema | Raúl Albiol | 16 | 31 | 24
+EDGE Karim Benzema | Ezequiel Garay | 3 | 31 | 5
+EDGE Karim Benzema | Nacho Fernández | 2 | 31 | 2
+EDGE Karim Benzema | Esteban Granero | 11 | 31 | 13
+EDGE Karim Benzema | Sergio Canales | 5 | 31 | 6
+EDGE Karim Benzema | Kaká | 8 | 31 | 12
+EDGE Karim Benzema | Fernando Gago | 2 | 31 | 2
+EDGE Karim Benzema | Mahamadou Diarra | 3 | 31 | 3
+EDGE Karim Benzema | Pedro León | 5 | 31 | 5
+EDGE Karim Benzema | Antonio Adán | 2 | 31 | 3
+EDGE Karim Benzema | Emmanuel Adebayor | 3 | 31 | 9
+EDGE Karim Benzema | Jerzy Dudek | 2 | 31 | 2
+EDGE Karim Benzema | David Mateos | 1 | 31 | 1
+EDGE Raúl Albiol | Xabi Alonso | 15 | 24 | 46
+EDGE Raúl Albiol | Marcelo | 16 | 24 | 47
+EDGE Raúl Albiol | Emmanuel Adebayor | 4 | 24 | 9
+EDGE Raúl Albiol | Kaká | 6 | 24 | 12
+EDGE Raúl Albiol | Gonzalo Higuaín | 4 | 24 | 22
+EDGE Raúl Albiol | Mahamadou Diarra | 3 | 24 | 3
+EDGE Raúl Albiol | Esteban Granero | 8 | 24 | 13
+EDGE Raúl Albiol | Sergio Canales | 3 | 24 | 6
+EDGE Raúl Albiol | Pedro León | 4 | 24 | 5
+EDGE Raúl Albiol | Ezequiel Garay | 2 | 24 | 5
+EDGE Raúl Albiol | Nacho Fernández | 1 | 24 | 2
+EDGE Raúl Albiol | Antonio Adán | 1 | 24 | 3
+EDGE Raúl Albiol | Jerzy Dudek | 2 | 24 | 2
+EDGE Xabi Alonso | Marcelo | 42 | 46 | 47
+EDGE Xabi Alonso | Emmanuel Adebayor | 7 | 46 | 9
+EDGE Xabi Alonso | Gonzalo Higuaín | 18 | 46 | 22
+EDGE Xabi Alonso | Kaká | 7 | 46 | 12
+EDGE Xabi Alonso | Esteban Granero | 3 | 46 | 13
+EDGE Xabi Alonso | Sergio Canales | 1 | 46 | 6
+EDGE Xabi Alonso | Jerzy Dudek | 1 | 46 | 2
+EDGE Xabi Alonso | Ezequiel Garay | 1 | 46 | 5
+EDGE Xabi Alonso | Antonio Adán | 1 | 46 | 3
+EDGE Xabi Alonso | Pedro León | 1 | 46 | 5
+EDGE Marcelo | Emmanuel Adebayor | 6 | 47 | 9
+EDGE Marcelo | Gonzalo Higuaín | 19 | 47 | 22
+EDGE Marcelo | Kaká | 8 | 47 | 12
+EDGE Marcelo | Fernando Gago | 1 | 47 | 2
+EDGE Marcelo | Esteban Granero | 7 | 47 | 13
+EDGE Marcelo | Sergio Canales | 2 | 47 | 6
+EDGE Marcelo | Antonio Adán | 2 | 47 | 3
+EDGE Marcelo | Jerzy Dudek | 1 | 47 | 2
+EDGE Marcelo | Mahamadou Diarra | 2 | 47 | 3
+EDGE Marcelo | Pedro León | 3 | 47 | 5
+EDGE Marcelo | Ezequiel Garay | 1 | 47 | 5
+EDGE Emmanuel Adebayor | Esteban Granero | 3 | 9 | 13
+EDGE Emmanuel Adebayor | Jerzy Dudek | 1 | 9 | 2
+EDGE Emmanuel Adebayor | Kaká | 2 | 9 | 12
+EDGE Emmanuel Adebayor | Ezequiel Garay | 1 | 9 | 5
+EDGE Gonzalo Higuaín | Kaká | 4 | 22 | 12
+EDGE Gonzalo Higuaín | Ezequiel Garay | 3 | 22 | 5
+EDGE Gonzalo Higuaín | Nacho Fernández | 2 | 22 | 2
+EDGE Gonzalo Higuaín | Esteban Granero | 4 | 22 | 13
+EDGE Gonzalo Higuaín | Sergio Canales | 4 | 22 | 6
+EDGE Gonzalo Higuaín | Antonio Adán | 1 | 22 | 3
+EDGE Gonzalo Higuaín | Mahamadou Diarra | 1 | 22 | 3
+EDGE Gonzalo Higuaín | Pedro León | 1 | 22 | 5
+EDGE Kaká | Ezequiel Garay | 4 | 12 | 5
+EDGE Kaká | Nacho Fernández | 2 | 12 | 2
+EDGE Kaká | Esteban Granero | 5 | 12 | 13
+EDGE Kaká | Sergio Canales | 2 | 12 | 6
+EDGE Kaká | Fernando Gago | 1 | 12 | 2
+EDGE Kaká | Antonio Adán | 1 | 12 | 3
+EDGE Kaká | Jerzy Dudek | 1 | 12 | 2
+EDGE Ezequiel Garay | Nacho Fernández | 2 | 5 | 2
+EDGE Ezequiel Garay | Esteban Granero | 4 | 5 | 13
+EDGE Ezequiel Garay | Sergio Canales | 3 | 5 | 6
+EDGE Ezequiel Garay | Antonio Adán | 1 | 5 | 3
+EDGE Ezequiel Garay | David Mateos | 1 | 5 | 1
+EDGE Ezequiel Garay | Fernando Gago | 1 | 5 | 2
+EDGE Ezequiel Garay | Pedro León | 1 | 5 | 5
+EDGE Nacho Fernández | Esteban Granero | 2 | 2 | 13
+EDGE Nacho Fernández | Sergio Canales | 2 | 2 | 6
+EDGE Esteban Granero | Sergio Canales | 5 | 13 | 6
+EDGE Esteban Granero | Fernando Gago | 2 | 13 | 2
+EDGE Esteban Granero | Mahamadou Diarra | 3 | 13 | 3
+EDGE Esteban Granero | Pedro León | 4 | 13 | 5
+EDGE Esteban Granero | Jerzy Dudek | 1 | 13 | 2
+EDGE Esteban Granero | Antonio Adán | 1 | 13 | 3
+EDGE Esteban Granero | David Mateos | 1 | 13 | 1
+EDGE Sergio Canales | Mahamadou Diarra | 2 | 6 | 3
+EDGE Sergio Canales | Pedro León | 3 | 6 | 5
+EDGE Sergio Canales | Antonio Adán | 1 | 6 | 3
+EDGE Sergio Canales | David Mateos | 1 | 6 | 1
+EDGE Sergio Canales | Fernando Gago | 1 | 6 | 2
+EDGE Fernando Gago | Antonio Adán | 1 | 2 | 3
+EDGE Fernando Gago | David Mateos | 1 | 2 | 1
+EDGE Fernando Gago | Pedro León | 1 | 2 | 5
+EDGE Mahamadou Diarra | Pedro León | 3 | 3 | 5
+EDGE Mahamadou Diarra | Jerzy Dudek | 1 | 3 | 2
+EDGE Pedro León | Jerzy Dudek | 1 | 5 | 2
+EDGE Pedro León | Antonio Adán | 1 | 5 | 3
+EDGE Pedro León | David Mateos | 1 | 5 | 1
+EDGE Antonio Adán | David Mateos | 1 | 3 | 1

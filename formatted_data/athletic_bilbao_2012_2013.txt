@@ -1,0 +1,154 @@
+# Team: Athletic Bilbao
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2242985 | sob., 11.05.2013 | RCD Mallorca
+PLAYERS: Gorka Iraizoz, Borja Ekiza, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Carlos Gurpegui, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2242992 | niedz., 19.05.2013 | Real Zaragoza
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Mikel San José, Jon Aurtenetxe, Jonás Ramalho, Ander Iturraspe, Ander Herrera, Óscar de Marcos, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2242926 | niedz., 11.11.2012 | Sevilla FC
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Carlos Gurpegui, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Ander Herrera, Óscar de Marcos, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2242868 | niedz., 16.09.2012 | RCD Espanyol
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Carlos Gurpegui, Iñigo Pérez, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Isma López, Markel Susaeta, Iker Muniain, Aritz Aduriz
+
+MATCH: 2242829 | pon., 27.08.2012 | Atlético Madryt
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Mikel San José, Iñigo Pérez, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Isma López, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2243182 | pon., 08.04.2013 | Sevilla FC
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Borja Ekiza, Mikel San José, Andoni Iraola, Óscar de Marcos, Ander Herrera, Iker Muniain, Ibai Gómez, Fernando Llorente
+
+MATCH: 2243118 | sob., 16.02.2013 | Málaga CF
+PLAYERS: Raúl Fernández, Aymeric Laporte, Carlos Gurpegui, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2247095 | czw., 02.08.2012 | Slaven Belupo Koprivnica
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Jonás Ramalho, Iñigo Pérez, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Isma López, Ibai Gómez, Gaizka Toquero, Markel Susaeta
+
+MATCH: 2269536 | czw., 01.11.2012 | SD Eibar
+PLAYERS: Raúl Fernández, Fernando Amorebieta, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Ander Herrera, Ibai Gómez, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 2243053 | niedz., 09.12.2012 | Celta de Vigo
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Borja Ekiza, Jon Aurtenetxe, Jonás Ramalho, Mikel San José, Óscar de Marcos, Ander Herrera, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2242912 | niedz., 23.09.2012 | Málaga CF
+PLAYERS: Raúl Fernández, Carlos Gurpegui, Borja Ekiza, Xabier Castillo, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Isma López, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2243004 | sob., 17.11.2012 | Real Madryt
+PLAYERS: Gorka Iraizoz, Borja Ekiza, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Carlos Gurpegui, Ander Iturraspe, Iker Muniain, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2269551 | śr., 12.12.2012 | SD Eibar
+PLAYERS: Raúl Fernández, Fernando Amorebieta, Borja Ekiza, Jon Aurtenetxe, Jonás Ramalho, Mikel San José, Ander Herrera, Óscar de Marcos, Iker Muniain, Ibai Gómez, Fernando Llorente
+
+MATCH: 2242870 | niedz., 04.11.2012 | Granada CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Carlos Gurpegui, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Markel Susaeta, Iker Muniain, Ibai Gómez, Aritz Aduriz
+
+MATCH: 2262397 | czw., 20.09.2012 | Ironi Kiryat Shmona
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Carlos Gurpegui, Xabier Castillo, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Iker Muniain, Isma López, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2243085 | pt., 11.01.2013 | Rayo Vallecano
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Borja Ekiza, Óscar de Marcos, Andoni Iraola, Mikel San José, Ander Herrera, Iker Muniain, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2243101 | pt., 01.02.2013 | Real Valladolid CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Jon Aurtenetxe, Andoni Iraola, Mikel San José, Ander Herrera, Óscar de Marcos, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2243168 | pon., 01.04.2013 | Granada CF
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Borja Ekiza, Aymeric Laporte, Andoni Iraola, Mikel San José, Óscar de Marcos, Ander Herrera, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2243194 | niedz., 14.04.2013 | Real Madryt
+PLAYERS: Gorka Iraizoz, Borja Ekiza, Mikel San José, Jon Aurtenetxe, Jonás Ramalho, Ander Iturraspe, Ander Herrera, Iker Muniain, Ibai Gómez, Markel Susaeta, Fernando Llorente
+
+MATCH: 2243156 | sob., 16.03.2013 | Getafe CF
+PLAYERS: Gorka Iraizoz, Borja Ekiza, Mikel San José, Aymeric Laporte, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2243094 | niedz., 27.01.2013 | Atlético Madryt
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Borja Ekiza, Jon Aurtenetxe, Andoni Iraola, Mikel San José, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2243159 | niedz., 10.03.2013 | Valencia CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Borja Ekiza, Jon Aurtenetxe, Andoni Iraola, Mikel San José, Óscar de Marcos, Ander Iturraspe, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2243039 | sob., 15.12.2012 | RCD Mallorca
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Borja Ekiza, Jon Aurtenetxe, Andoni Iraola, Mikel San José, Ander Herrera, Óscar de Marcos, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2243028 | sob., 01.06.2013 | Rayo Vallecano
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2243037 | sob., 22.12.2012 | Real Zaragoza
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Borja Ekiza, Jon Aurtenetxe, Andoni Iraola, Mikel San José, Ander Herrera, Óscar de Marcos, Iker Muniain, Ibai Gómez, Aritz Aduriz
+
+MATCH: 2244380 | niedz., 19.08.2012 | Real Betis Balompié
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Mikel San José, Óscar de Marcos, Andoni Iraola, Ander Iturraspe, Iñigo Pérez, Ander Herrera, Isma López, Markel Susaeta, Gaizka Toquero
+
+MATCH: 2242887 | niedz., 02.09.2012 | Real Valladolid CF
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Borja Ekiza, Iñigo Pérez, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Iker Muniain, Isma López, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2242852 | niedz., 07.10.2012 | CA Osasuna
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Borja Ekiza, Xabier Castillo, Andoni Iraola, Óscar de Marcos, Ander Iturraspe, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2243068 | sob., 05.01.2013 | Levante UD
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Borja Ekiza, Óscar de Marcos, Andoni Iraola, Carlos Gurpegui, Ander Herrera, Iker Muniain, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2243132 | pt., 22.02.2013 | Real Sociedad
+PLAYERS: Raúl Fernández, Aymeric Laporte, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2242931 | pt., 03.05.2013 | Celta de Vigo
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Borja Ekiza, Jon Aurtenetxe, Andoni Iraola, Mikel San José, Óscar de Marcos, Ander Iturraspe, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2243111 | niedz., 10.02.2013 | RCD Espanyol
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2254960 | czw., 23.08.2012 | HJK Helsinki
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Mikel San José, Iñigo Pérez, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Isma López, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2242988 | niedz., 25.11.2012 | Deportivo de La Coruña
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Borja Ekiza, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Ander Herrera, Óscar de Marcos, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 2243006 | sob., 01.12.2012 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Borja Ekiza, Jon Aurtenetxe, Jonás Ramalho, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2262516 | czw., 06.12.2012 | AC Sparta Praga
+PLAYERS: Raúl Fernández, Aymeric Laporte, Mikel San José, Xabier Castillo, Jonás Ramalho, Ander Iturraspe, Isma López, Igor Martínez, Iker Muniain, Gaizka Toquero, Fernando Llorente
+
+MATCH: 2242892 | niedz., 28.10.2012 | Getafe CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Carlos Gurpegui, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Iker Muniain, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2262468 | czw., 08.11.2012 | Olympique Lyon
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Carlos Gurpegui, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Ander Herrera, Óscar de Marcos, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2243147 | sob., 02.03.2013 | CA Osasuna
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Ander Herrera, Óscar de Marcos, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2262432 | czw., 25.10.2012 | Olympique Lyon
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Carlos Gurpegui, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2243086 | pon., 21.01.2013 | Real Betis Balompié
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Borja Ekiza, Óscar de Marcos, Andoni Iraola, Carlos Gurpegui, Ander Iturraspe, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2242951 | niedz., 21.04.2013 | Deportivo de La Coruña
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Borja Ekiza, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 2242962 | niedz., 26.05.2013 | Levante UD
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2242955 | sob., 27.04.2013 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Borja Ekiza, Jon Aurtenetxe, Andoni Iraola, Mikel San José, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2242859 | sob., 20.10.2012 | Valencia CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Borja Ekiza, Iñigo Pérez, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2254961 | czw., 30.08.2012 | HJK Helsinki
+PLAYERS: Raúl Fernández, Borja Ekiza, Mikel San José, Xabier Castillo, Iñigo Ruiz de Galarreta, Ander Iturraspe, Óscar de Marcos, Iker Muniain, Ibai Gómez, Markel Susaeta, Gaizka Toquero
+
+MATCH: 2242849 | sob., 29.09.2012 | Real Sociedad
+PLAYERS: Raúl Fernández, Fernando Amorebieta, Carlos Gurpegui, Xabier Castillo, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Iker Muniain, Isma López, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2262482 | śr., 28.11.2012 | Ironi Kiryat Shmona
+PLAYERS: Raúl Fernández, Aymeric Laporte, Mikel San José, Xabier Castillo, Jonás Ramalho, Erik Morán, Álvaro Peña, Isma López, Igor Martínez, Gaizka Toquero, Fernando Llorente
+
+MATCH: 2262410 | czw., 04.10.2012 | AC Sparta Praga
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Carlos Gurpegui, Xabier Castillo, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Iker Muniain, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2247105 | czw., 09.08.2012 | Slaven Belupo Koprivnica
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Borja Ekiza, Iñigo Pérez, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Isma López, Ibai Gómez, Gaizka Toquero, Markel Susaeta
+

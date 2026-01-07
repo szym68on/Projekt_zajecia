@@ -1,0 +1,280 @@
+# Graph for Java/GraphStream
+# Nodes: 26
+# Edges: 274
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Víctor Valdés | Gabriel Milito | 40 | 52 | 41
+EDGE Víctor Valdés | Carles Puyol | 39 | 52 | 45
+EDGE Víctor Valdés | Lilian Thuram | 20 | 52 | 25
+EDGE Víctor Valdés | Éric Abidal | 41 | 52 | 43
+EDGE Víctor Valdés | Edmílson | 5 | 52 | 7
+EDGE Víctor Valdés | Andrés Iniesta | 42 | 52 | 43
+EDGE Víctor Valdés | Xavi | 47 | 52 | 50
+EDGE Víctor Valdés | Bojan Krkic | 18 | 52 | 20
+EDGE Víctor Valdés | Samuel Eto'o | 24 | 52 | 27
+EDGE Víctor Valdés | Eidur Gudjohnsen | 14 | 52 | 19
+EDGE Víctor Valdés | Rafa Márquez | 22 | 52 | 25
+EDGE Víctor Valdés | Gianluca Zambrotta | 35 | 52 | 37
+EDGE Víctor Valdés | Yaya Touré | 34 | 52 | 37
+EDGE Víctor Valdés | Deco | 22 | 52 | 24
+EDGE Víctor Valdés | Lionel Messi | 32 | 52 | 34
+EDGE Víctor Valdés | Thierry Henry | 36 | 52 | 40
+EDGE Víctor Valdés | Oleguer | 7 | 52 | 9
+EDGE Víctor Valdés | Ronaldinho | 19 | 52 | 20
+EDGE Víctor Valdés | Sylvinho | 11 | 52 | 15
+EDGE Víctor Valdés | Giovani dos Santos | 11 | 52 | 16
+EDGE Víctor Valdés | Santiago Ezquerro | 1 | 52 | 2
+EDGE Gabriel Milito | Carles Puyol | 31 | 41 | 45
+EDGE Gabriel Milito | Lilian Thuram | 11 | 41 | 25
+EDGE Gabriel Milito | Éric Abidal | 33 | 41 | 43
+EDGE Gabriel Milito | Edmílson | 5 | 41 | 7
+EDGE Gabriel Milito | Andrés Iniesta | 35 | 41 | 43
+EDGE Gabriel Milito | Xavi | 36 | 41 | 50
+EDGE Gabriel Milito | Bojan Krkic | 12 | 41 | 20
+EDGE Gabriel Milito | Samuel Eto'o | 18 | 41 | 27
+EDGE Gabriel Milito | Eidur Gudjohnsen | 13 | 41 | 19
+EDGE Gabriel Milito | Rafa Márquez | 18 | 41 | 25
+EDGE Gabriel Milito | Gianluca Zambrotta | 24 | 41 | 37
+EDGE Gabriel Milito | Yaya Touré | 26 | 41 | 37
+EDGE Gabriel Milito | Deco | 17 | 41 | 24
+EDGE Gabriel Milito | Lionel Messi | 24 | 41 | 34
+EDGE Gabriel Milito | Thierry Henry | 26 | 41 | 40
+EDGE Gabriel Milito | Oleguer | 4 | 41 | 9
+EDGE Gabriel Milito | Ronaldinho | 15 | 41 | 20
+EDGE Gabriel Milito | Sylvinho | 8 | 41 | 15
+EDGE Gabriel Milito | Giovani dos Santos | 12 | 41 | 16
+EDGE Gabriel Milito | Santiago Ezquerro | 1 | 41 | 2
+EDGE Gabriel Milito | Albert Jorquera | 1 | 41 | 2
+EDGE Carles Puyol | Lilian Thuram | 17 | 45 | 25
+EDGE Carles Puyol | Éric Abidal | 31 | 45 | 43
+EDGE Carles Puyol | Edmílson | 6 | 45 | 7
+EDGE Carles Puyol | Andrés Iniesta | 32 | 45 | 43
+EDGE Carles Puyol | Xavi | 39 | 45 | 50
+EDGE Carles Puyol | Bojan Krkic | 19 | 45 | 20
+EDGE Carles Puyol | Samuel Eto'o | 24 | 45 | 27
+EDGE Carles Puyol | Eidur Gudjohnsen | 19 | 45 | 19
+EDGE Carles Puyol | José Manuel Pinto | 3 | 45 | 3
+EDGE Carles Puyol | Oleguer | 4 | 45 | 9
+EDGE Carles Puyol | Giovani dos Santos | 13 | 45 | 16
+EDGE Carles Puyol | Thierry Henry | 29 | 45 | 40
+EDGE Carles Puyol | Lionel Messi | 24 | 45 | 34
+EDGE Carles Puyol | Gianluca Zambrotta | 27 | 45 | 37
+EDGE Carles Puyol | Yaya Touré | 28 | 45 | 37
+EDGE Carles Puyol | Ronaldinho | 14 | 45 | 20
+EDGE Carles Puyol | Rafa Márquez | 17 | 45 | 25
+EDGE Carles Puyol | Deco | 14 | 45 | 24
+EDGE Carles Puyol | Sylvinho | 14 | 45 | 15
+EDGE Carles Puyol | Santiago Ezquerro | 2 | 45 | 2
+EDGE Carles Puyol | Albert Jorquera | 2 | 45 | 2
+EDGE Carles Puyol | Oier Olazábal | 1 | 45 | 1
+EDGE Carles Puyol | Víctor Sánchez | 1 | 45 | 1
+EDGE Lilian Thuram | Éric Abidal | 17 | 25 | 43
+EDGE Lilian Thuram | Edmílson | 4 | 25 | 7
+EDGE Lilian Thuram | Andrés Iniesta | 17 | 25 | 43
+EDGE Lilian Thuram | Xavi | 20 | 25 | 50
+EDGE Lilian Thuram | Bojan Krkic | 9 | 25 | 20
+EDGE Lilian Thuram | Samuel Eto'o | 12 | 25 | 27
+EDGE Lilian Thuram | Eidur Gudjohnsen | 7 | 25 | 19
+EDGE Lilian Thuram | Oleguer | 5 | 25 | 9
+EDGE Lilian Thuram | Yaya Touré | 13 | 25 | 37
+EDGE Lilian Thuram | Deco | 10 | 25 | 24
+EDGE Lilian Thuram | Lionel Messi | 14 | 25 | 34
+EDGE Lilian Thuram | Thierry Henry | 20 | 25 | 40
+EDGE Lilian Thuram | José Manuel Pinto | 3 | 25 | 3
+EDGE Lilian Thuram | Giovani dos Santos | 7 | 25 | 16
+EDGE Lilian Thuram | Gianluca Zambrotta | 15 | 25 | 37
+EDGE Lilian Thuram | Ronaldinho | 10 | 25 | 20
+EDGE Lilian Thuram | Sylvinho | 8 | 25 | 15
+EDGE Lilian Thuram | Rafa Márquez | 7 | 25 | 25
+EDGE Lilian Thuram | Albert Jorquera | 1 | 25 | 2
+EDGE Lilian Thuram | Oier Olazábal | 1 | 25 | 1
+EDGE Lilian Thuram | Víctor Sánchez | 1 | 25 | 1
+EDGE Lilian Thuram | Santiago Ezquerro | 1 | 25 | 2
+EDGE Éric Abidal | Edmílson | 6 | 43 | 7
+EDGE Éric Abidal | Andrés Iniesta | 34 | 43 | 43
+EDGE Éric Abidal | Xavi | 38 | 43 | 50
+EDGE Éric Abidal | Bojan Krkic | 11 | 43 | 20
+EDGE Éric Abidal | Samuel Eto'o | 19 | 43 | 27
+EDGE Éric Abidal | Eidur Gudjohnsen | 12 | 43 | 19
+EDGE Éric Abidal | Rafa Márquez | 18 | 43 | 25
+EDGE Éric Abidal | Gianluca Zambrotta | 26 | 43 | 37
+EDGE Éric Abidal | Yaya Touré | 29 | 43 | 37
+EDGE Éric Abidal | Deco | 19 | 43 | 24
+EDGE Éric Abidal | Lionel Messi | 29 | 43 | 34
+EDGE Éric Abidal | Thierry Henry | 32 | 43 | 40
+EDGE Éric Abidal | Oleguer | 8 | 43 | 9
+EDGE Éric Abidal | José Manuel Pinto | 2 | 43 | 3
+EDGE Éric Abidal | Giovani dos Santos | 9 | 43 | 16
+EDGE Éric Abidal | Ronaldinho | 15 | 43 | 20
+EDGE Éric Abidal | Santiago Ezquerro | 1 | 43 | 2
+EDGE Edmílson | Andrés Iniesta | 4 | 7 | 43
+EDGE Edmílson | Xavi | 5 | 7 | 50
+EDGE Edmílson | Bojan Krkic | 2 | 7 | 20
+EDGE Edmílson | Samuel Eto'o | 4 | 7 | 27
+EDGE Edmílson | Eidur Gudjohnsen | 2 | 7 | 19
+EDGE Edmílson | Rafa Márquez | 2 | 7 | 25
+EDGE Edmílson | Deco | 3 | 7 | 24
+EDGE Edmílson | Thierry Henry | 5 | 7 | 40
+EDGE Edmílson | Giovani dos Santos | 4 | 7 | 16
+EDGE Edmílson | Lionel Messi | 3 | 7 | 34
+EDGE Edmílson | José Manuel Pinto | 1 | 7 | 3
+EDGE Edmílson | Gianluca Zambrotta | 2 | 7 | 37
+EDGE Edmílson | Yaya Touré | 1 | 7 | 37
+EDGE Edmílson | Oleguer | 1 | 7 | 9
+EDGE Edmílson | Oier Olazábal | 1 | 7 | 1
+EDGE Edmílson | Sylvinho | 1 | 7 | 15
+EDGE Edmílson | Víctor Sánchez | 1 | 7 | 1
+EDGE Edmílson | Santiago Ezquerro | 1 | 7 | 2
+EDGE Edmílson | Ronaldinho | 1 | 7 | 20
+EDGE Andrés Iniesta | Xavi | 38 | 43 | 50
+EDGE Andrés Iniesta | Bojan Krkic | 15 | 43 | 20
+EDGE Andrés Iniesta | Samuel Eto'o | 18 | 43 | 27
+EDGE Andrés Iniesta | Eidur Gudjohnsen | 11 | 43 | 19
+EDGE Andrés Iniesta | Rafa Márquez | 17 | 43 | 25
+EDGE Andrés Iniesta | Gianluca Zambrotta | 26 | 43 | 37
+EDGE Andrés Iniesta | Yaya Touré | 28 | 43 | 37
+EDGE Andrés Iniesta | Deco | 16 | 43 | 24
+EDGE Andrés Iniesta | Lionel Messi | 25 | 43 | 34
+EDGE Andrés Iniesta | Thierry Henry | 30 | 43 | 40
+EDGE Andrés Iniesta | Oleguer | 7 | 43 | 9
+EDGE Andrés Iniesta | Ronaldinho | 16 | 43 | 20
+EDGE Andrés Iniesta | Sylvinho | 9 | 43 | 15
+EDGE Andrés Iniesta | Giovani dos Santos | 9 | 43 | 16
+EDGE Andrés Iniesta | Albert Jorquera | 1 | 43 | 2
+EDGE Xavi | Bojan Krkic | 15 | 50 | 20
+EDGE Xavi | Samuel Eto'o | 26 | 50 | 27
+EDGE Xavi | Eidur Gudjohnsen | 16 | 50 | 19
+EDGE Xavi | Rafa Márquez | 21 | 50 | 25
+EDGE Xavi | Gianluca Zambrotta | 31 | 50 | 37
+EDGE Xavi | Yaya Touré | 33 | 50 | 37
+EDGE Xavi | Deco | 17 | 50 | 24
+EDGE Xavi | Lionel Messi | 30 | 50 | 34
+EDGE Xavi | Thierry Henry | 33 | 50 | 40
+EDGE Xavi | Oleguer | 9 | 50 | 9
+EDGE Xavi | José Manuel Pinto | 1 | 50 | 3
+EDGE Xavi | Giovani dos Santos | 12 | 50 | 16
+EDGE Xavi | Ronaldinho | 18 | 50 | 20
+EDGE Xavi | Sylvinho | 12 | 50 | 15
+EDGE Xavi | Santiago Ezquerro | 1 | 50 | 2
+EDGE Xavi | Albert Jorquera | 2 | 50 | 2
+EDGE Bojan Krkic | Samuel Eto'o | 9 | 20 | 27
+EDGE Bojan Krkic | Eidur Gudjohnsen | 10 | 20 | 19
+EDGE Bojan Krkic | Gianluca Zambrotta | 15 | 20 | 37
+EDGE Bojan Krkic | Yaya Touré | 12 | 20 | 37
+EDGE Bojan Krkic | Thierry Henry | 13 | 20 | 40
+EDGE Bojan Krkic | Sylvinho | 9 | 20 | 15
+EDGE Bojan Krkic | Oleguer | 1 | 20 | 9
+EDGE Bojan Krkic | Deco | 6 | 20 | 24
+EDGE Bojan Krkic | Lionel Messi | 8 | 20 | 34
+EDGE Bojan Krkic | Giovani dos Santos | 4 | 20 | 16
+EDGE Bojan Krkic | Rafa Márquez | 7 | 20 | 25
+EDGE Bojan Krkic | Ronaldinho | 1 | 20 | 20
+EDGE Bojan Krkic | José Manuel Pinto | 1 | 20 | 3
+EDGE Bojan Krkic | Oier Olazábal | 1 | 20 | 1
+EDGE Bojan Krkic | Víctor Sánchez | 1 | 20 | 1
+EDGE Bojan Krkic | Santiago Ezquerro | 1 | 20 | 2
+EDGE Samuel Eto'o | Eidur Gudjohnsen | 9 | 27 | 19
+EDGE Samuel Eto'o | José Manuel Pinto | 2 | 27 | 3
+EDGE Samuel Eto'o | Oleguer | 2 | 27 | 9
+EDGE Samuel Eto'o | Giovani dos Santos | 6 | 27 | 16
+EDGE Samuel Eto'o | Thierry Henry | 13 | 27 | 40
+EDGE Samuel Eto'o | Lionel Messi | 11 | 27 | 34
+EDGE Samuel Eto'o | Gianluca Zambrotta | 20 | 27 | 37
+EDGE Samuel Eto'o | Yaya Touré | 19 | 27 | 37
+EDGE Samuel Eto'o | Ronaldinho | 8 | 27 | 20
+EDGE Samuel Eto'o | Sylvinho | 8 | 27 | 15
+EDGE Samuel Eto'o | Santiago Ezquerro | 1 | 27 | 2
+EDGE Samuel Eto'o | Rafa Márquez | 9 | 27 | 25
+EDGE Samuel Eto'o | Deco | 7 | 27 | 24
+EDGE Samuel Eto'o | Albert Jorquera | 1 | 27 | 2
+EDGE Eidur Gudjohnsen | José Manuel Pinto | 2 | 19 | 3
+EDGE Eidur Gudjohnsen | Oleguer | 2 | 19 | 9
+EDGE Eidur Gudjohnsen | Giovani dos Santos | 10 | 19 | 16
+EDGE Eidur Gudjohnsen | Thierry Henry | 9 | 19 | 40
+EDGE Eidur Gudjohnsen | Lionel Messi | 7 | 19 | 34
+EDGE Eidur Gudjohnsen | Ronaldinho | 2 | 19 | 20
+EDGE Eidur Gudjohnsen | Gianluca Zambrotta | 10 | 19 | 37
+EDGE Eidur Gudjohnsen | Rafa Márquez | 9 | 19 | 25
+EDGE Eidur Gudjohnsen | Sylvinho | 7 | 19 | 15
+EDGE Eidur Gudjohnsen | Yaya Touré | 11 | 19 | 37
+EDGE Eidur Gudjohnsen | Santiago Ezquerro | 2 | 19 | 2
+EDGE Eidur Gudjohnsen | Deco | 2 | 19 | 24
+EDGE Eidur Gudjohnsen | Albert Jorquera | 2 | 19 | 2
+EDGE Eidur Gudjohnsen | Oier Olazábal | 1 | 19 | 1
+EDGE Eidur Gudjohnsen | Víctor Sánchez | 1 | 19 | 1
+EDGE Rafa Márquez | Gianluca Zambrotta | 14 | 25 | 37
+EDGE Rafa Márquez | Yaya Touré | 14 | 25 | 37
+EDGE Rafa Márquez | Deco | 13 | 25 | 24
+EDGE Rafa Márquez | Lionel Messi | 16 | 25 | 34
+EDGE Rafa Márquez | Thierry Henry | 17 | 25 | 40
+EDGE Rafa Márquez | Sylvinho | 7 | 25 | 15
+EDGE Rafa Márquez | Giovani dos Santos | 8 | 25 | 16
+EDGE Rafa Márquez | Oleguer | 3 | 25 | 9
+EDGE Rafa Márquez | Ronaldinho | 8 | 25 | 20
+EDGE Rafa Márquez | Albert Jorquera | 2 | 25 | 2
+EDGE Rafa Márquez | José Manuel Pinto | 1 | 25 | 3
+EDGE Gianluca Zambrotta | Yaya Touré | 27 | 37 | 37
+EDGE Gianluca Zambrotta | Deco | 16 | 37 | 24
+EDGE Gianluca Zambrotta | Lionel Messi | 20 | 37 | 34
+EDGE Gianluca Zambrotta | Thierry Henry | 27 | 37 | 40
+EDGE Gianluca Zambrotta | Sylvinho | 11 | 37 | 15
+EDGE Gianluca Zambrotta | Giovani dos Santos | 8 | 37 | 16
+EDGE Gianluca Zambrotta | Oleguer | 2 | 37 | 9
+EDGE Gianluca Zambrotta | Ronaldinho | 11 | 37 | 20
+EDGE Gianluca Zambrotta | Santiago Ezquerro | 1 | 37 | 2
+EDGE Gianluca Zambrotta | José Manuel Pinto | 2 | 37 | 3
+EDGE Yaya Touré | Deco | 13 | 37 | 24
+EDGE Yaya Touré | Lionel Messi | 22 | 37 | 34
+EDGE Yaya Touré | Thierry Henry | 23 | 37 | 40
+EDGE Yaya Touré | Oleguer | 4 | 37 | 9
+EDGE Yaya Touré | Ronaldinho | 14 | 37 | 20
+EDGE Yaya Touré | Sylvinho | 8 | 37 | 15
+EDGE Yaya Touré | Giovani dos Santos | 7 | 37 | 16
+EDGE Yaya Touré | Santiago Ezquerro | 1 | 37 | 2
+EDGE Yaya Touré | José Manuel Pinto | 2 | 37 | 3
+EDGE Yaya Touré | Albert Jorquera | 1 | 37 | 2
+EDGE Deco | Lionel Messi | 19 | 24 | 34
+EDGE Deco | Thierry Henry | 19 | 24 | 40
+EDGE Deco | Oleguer | 5 | 24 | 9
+EDGE Deco | Sylvinho | 5 | 24 | 15
+EDGE Deco | Giovani dos Santos | 5 | 24 | 16
+EDGE Deco | Ronaldinho | 8 | 24 | 20
+EDGE Deco | José Manuel Pinto | 1 | 24 | 3
+EDGE Deco | Oier Olazábal | 1 | 24 | 1
+EDGE Deco | Víctor Sánchez | 1 | 24 | 1
+EDGE Deco | Santiago Ezquerro | 1 | 24 | 2
+EDGE Lionel Messi | Thierry Henry | 24 | 34 | 40
+EDGE Lionel Messi | Oleguer | 8 | 34 | 9
+EDGE Lionel Messi | José Manuel Pinto | 2 | 34 | 3
+EDGE Lionel Messi | Giovani dos Santos | 3 | 34 | 16
+EDGE Lionel Messi | Ronaldinho | 14 | 34 | 20
+EDGE Lionel Messi | Sylvinho | 5 | 34 | 15
+EDGE Thierry Henry | Oleguer | 8 | 40 | 9
+EDGE Thierry Henry | José Manuel Pinto | 3 | 40 | 3
+EDGE Thierry Henry | Giovani dos Santos | 11 | 40 | 16
+EDGE Thierry Henry | Ronaldinho | 13 | 40 | 20
+EDGE Thierry Henry | Sylvinho | 8 | 40 | 15
+EDGE Thierry Henry | Albert Jorquera | 1 | 40 | 2
+EDGE Oleguer | José Manuel Pinto | 1 | 9 | 3
+EDGE Oleguer | Giovani dos Santos | 3 | 9 | 16
+EDGE Oleguer | Ronaldinho | 4 | 9 | 20
+EDGE Oleguer | Albert Jorquera | 1 | 9 | 2
+EDGE Oleguer | Sylvinho | 1 | 9 | 15
+EDGE José Manuel Pinto | Giovani dos Santos | 2 | 3 | 16
+EDGE José Manuel Pinto | Sylvinho | 1 | 3 | 15
+EDGE Giovani dos Santos | Sylvinho | 7 | 16 | 15
+EDGE Giovani dos Santos | Santiago Ezquerro | 2 | 16 | 2
+EDGE Giovani dos Santos | Ronaldinho | 3 | 16 | 20
+EDGE Giovani dos Santos | Albert Jorquera | 2 | 16 | 2
+EDGE Giovani dos Santos | Oier Olazábal | 1 | 16 | 1
+EDGE Giovani dos Santos | Víctor Sánchez | 1 | 16 | 1
+EDGE Ronaldinho | Sylvinho | 5 | 20 | 15
+EDGE Ronaldinho | Albert Jorquera | 1 | 20 | 2
+EDGE Sylvinho | Albert Jorquera | 2 | 15 | 2
+EDGE Sylvinho | Oier Olazábal | 1 | 15 | 1
+EDGE Sylvinho | Víctor Sánchez | 1 | 15 | 1
+EDGE Sylvinho | Santiago Ezquerro | 1 | 15 | 2
+EDGE Santiago Ezquerro | Oier Olazábal | 1 | 2 | 1
+EDGE Santiago Ezquerro | Víctor Sánchez | 1 | 2 | 1
+EDGE Oier Olazábal | Víctor Sánchez | 1 | 1 | 1

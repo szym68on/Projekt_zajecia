@@ -1,0 +1,181 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2899586 | sob., 16.09.2017 | Getafe CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 2899736 | niedz., 14.01.2018 | Real Sociedad
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Paulinho, André Gomes, Lionel Messi, Luis Suárez
+
+MATCH: 2899719 | niedz., 07.01.2018 | Levante UD
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Javier Mascherano, Jordi Alba, Sergi Roberto, Ivan Rakitic, Paulinho, Andrés Iniesta, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 2899803 | czw., 01.03.2018 | UD Las Palmas
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Thomas Vermaelen, Lucas Digne, Sergi Roberto, Sergio Busquets, Paulinho, Aleix Vidal, Andrés Iniesta, Lionel Messi, Luis Suárez
+
+MATCH: 2899805 | sob., 24.02.2018 | Girona FC
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Philippe Coutinho, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 2899661 | niedz., 26.11.2017 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Thomas Vermaelen, Jordi Alba, Nélson Semedo, Sergio Busquets, Paulinho, Ivan Rakitic, Andrés Iniesta, Lionel Messi, Luis Suárez
+
+MATCH: 2899916 | niedz., 13.05.2018 | Levante UD
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Yerry Mina, Jordi Alba, Nélson Semedo, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Philippe Coutinho, Ousmane Dembélé, Luis Suárez
+
+MATCH: 2899665 | sob., 04.11.2017 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Paco Alcácer, Lionel Messi, Luis Suárez
+
+MATCH: 2899620 | niedz., 01.10.2017 | UD Las Palmas
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jordi Alba, Sergi Roberto, Sergio Busquets, Paulinho, Aleix Vidal, Denis Suárez, Lionel Messi, Luis Suárez
+
+MATCH: 2899695 | niedz., 10.12.2017 | Villarreal CF
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Paulinho, Denis Suárez, Lionel Messi, Luis Suárez
+
+MATCH: 2993262 | czw., 08.02.2018 | Valencia CF
+PLAYERS: Jasper Cillessen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, André Gomes, Andrés Iniesta, Lionel Messi, Luis Suárez
+
+MATCH: 2899566 | niedz., 20.08.2017 | Real Betis Balompié
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Javier Mascherano, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Sergi Roberto, Gerard Deulofeu, Lionel Messi, Paco Alcácer
+
+MATCH: 2917412 | wt., 31.10.2017 | Olympiakos Pireus
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Javier Mascherano, Jordi Alba, Nélson Semedo, Sergio Busquets, Paulinho, Sergi Roberto, Denis Suárez, Lionel Messi, Luis Suárez
+
+MATCH: 2878317 | śr., 16.08.2017 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Javier Mascherano, Sergio Busquets, Ivan Rakitic, André Gomes, Sergi Roberto, Jordi Alba, Lionel Messi, Luis Suárez
+
+MATCH: 2899605 | sob., 23.09.2017 | Girona FC
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Javier Mascherano, Jordi Alba, Sergi Roberto, Ivan Rakitic, Paulinho, Aleix Vidal, Andrés Iniesta, Lionel Messi, Luis Suárez
+
+MATCH: 2899869 | niedz., 06.05.2018 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Andrés Iniesta, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 2899738 | niedz., 21.01.2018 | Real Betis Balompié
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Sergi Roberto, André Gomes, Lionel Messi, Luis Suárez
+
+MATCH: 2899862 | śr., 09.05.2018 | Villarreal CF
+PLAYERS: Jasper Cillessen, Thomas Vermaelen, Gerard Piqué, Lucas Digne, Nélson Semedo, Sergio Busquets, Andrés Iniesta, Paulinho, Philippe Coutinho, Ousmane Dembélé, Lionel Messi
+
+MATCH: 2899684 | sob., 02.12.2017 | Celta de Vigo
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Andrés Iniesta, Paulinho, Lionel Messi, Luis Suárez
+
+MATCH: 2993260 | czw., 01.02.2018 | Valencia CF
+PLAYERS: Jasper Cillessen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Aleix Vidal, Andrés Iniesta, Lionel Messi, Luis Suárez
+
+MATCH: 2899748 | niedz., 04.02.2018 | RCD Espanyol
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Lucas Digne, Nélson Semedo, Sergio Busquets, Paulinho, Andrés Iniesta, Philippe Coutinho, Luis Suárez, Paco Alcácer
+
+MATCH: 2899819 | niedz., 04.03.2018 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Andrés Iniesta, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 2899853 | sob., 07.04.2018 | CD Leganés
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Gerard Piqué, Sergi Roberto, Nélson Semedo, Ivan Rakitic, André Gomes, Philippe Coutinho, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 2899791 | sob., 17.02.2018 | SD Eibar
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Paulinho, Ivan Rakitic, Andrés Iniesta, Lionel Messi, Luis Suárez
+
+MATCH: 2899654 | sob., 18.11.2017 | CD Leganés
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Paco Alcácer, Lionel Messi, Luis Suárez
+
+MATCH: 2929830 | wt., 24.10.2017 | Real Murcia CF
+PLAYERS: Jasper Cillessen, Thomas Vermaelen, Javier Mascherano, Lucas Digne, Nélson Semedo, André Gomes, Carles Aleñá, Denis Suárez, José Manuel Arnáiz, Gerard Deulofeu, Paco Alcácer
+
+MATCH: 2917396 | śr., 18.10.2017 | Olympiakos Pireus
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Lucas Digne, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Paulinho, Luis Suárez, Gerard Deulofeu, Lionel Messi
+
+MATCH: 3000614 | sob., 21.04.2018 | Sevilla FC
+PLAYERS: Jasper Cillessen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Andrés Iniesta, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 2899871 | wt., 17.04.2018 | Celta de Vigo
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Yerry Mina, Lucas Digne, Nélson Semedo, André Gomes, Paulinho, Denis Suárez, Philippe Coutinho, Ousmane Dembélé, Paco Alcácer
+
+MATCH: 2899698 | sob., 23.12.2017 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Paulinho, Andrés Iniesta, Lionel Messi, Luis Suárez
+
+MATCH: 2899826 | niedz., 18.03.2018 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Ivan Rakitic, Paulinho, Philippe Coutinho, Ousmane Dembélé, Lionel Messi, Paco Alcácer
+
+MATCH: 2899594 | wt., 19.09.2017 | SD Eibar
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Lucas Digne, Nélson Semedo, Sergio Busquets, Andrés Iniesta, Paulinho, Denis Suárez, Gerard Deulofeu, Lionel Messi
+
+MATCH: 2899630 | sob., 21.10.2017 | Málaga CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Javier Mascherano, Lucas Digne, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Gerard Deulofeu, Lionel Messi, Luis Suárez
+
+MATCH: 2899839 | sob., 14.04.2018 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Paulinho, Andrés Iniesta, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 2899867 | niedz., 29.04.2018 | Deportivo de La Coruña
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Philippe Coutinho, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 2978841 | czw., 11.01.2018 | Celta de Vigo
+PLAYERS: Jasper Cillessen, Gerard Piqué, Javier Mascherano, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, André Gomes, Andrés Iniesta, Lionel Messi, Luis Suárez
+
+MATCH: 2878318 | niedz., 13.08.2017 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Aleix Vidal, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Gerard Deulofeu, Lionel Messi, Luis Suárez
+
+MATCH: 2899649 | sob., 28.10.2017 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Paulinho, Ivan Rakitic, André Gomes, Lionel Messi, Luis Suárez
+
+MATCH: 2899779 | niedz., 11.02.2018 | Getafe CF
+PLAYERS: Marc-André ter Stegen, Yerry Mina, Lucas Digne, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Philippe Coutinho, Paco Alcácer, Lionel Messi, Luis Suárez
+
+MATCH: 2899818 | sob., 10.03.2018 | Málaga CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Paulinho, Philippe Coutinho, Ousmane Dembélé, Luis Suárez
+
+MATCH: 2917363 | wt., 12.09.2017 | Juventus Turyn
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Luis Suárez, Ousmane Dembélé, Lionel Messi
+
+MATCH: 2917427 | śr., 22.11.2017 | Juventus Turyn
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Lucas Digne, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Paulinho, Andrés Iniesta, Gerard Deulofeu, Luis Suárez
+
+MATCH: 2899845 | sob., 31.03.2018 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Ivan Rakitic, Andrés Iniesta, Paulinho, Philippe Coutinho, Ousmane Dembélé, Luis Suárez
+
+MATCH: 2917387 | śr., 27.09.2017 | Sporting CP
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Sergi Roberto, Andrés Iniesta, Lionel Messi, Luis Suárez
+
+MATCH: 2899617 | sob., 14.10.2017 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, André Gomes, Andrés Iniesta, Lionel Messi, Luis Suárez
+
+MATCH: 2982129 | czw., 04.01.2018 | Celta de Vigo
+PLAYERS: Jasper Cillessen, Thomas Vermaelen, Gerard Piqué, Lucas Digne, Nélson Semedo, Sergio Busquets, Paulinho, André Gomes, Aleix Vidal, Denis Suárez, José Manuel Arnáiz
+
+MATCH: 2899707 | niedz., 17.12.2017 | Deportivo de La Coruña
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Gerard Piqué, Jordi Alba, Sergi Roberto, Ivan Rakitic, Andrés Iniesta, Paulinho, Paco Alcácer, Lionel Messi, Luis Suárez
+
+MATCH: 2917443 | wt., 05.12.2017 | Sporting CP
+PLAYERS: Jasper Cillessen, Thomas Vermaelen, Gerard Piqué, Lucas Digne, Nélson Semedo, Ivan Rakitic, André Gomes, Denis Suárez, Paco Alcácer, Aleix Vidal, Luis Suárez
+
+MATCH: 2981999 | wt., 20.02.2018 | Chelsea FC
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Paulinho, Andrés Iniesta, Lionel Messi, Luis Suárez
+
+MATCH: 2899920 | niedz., 20.05.2018 | Real Sociedad
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Yerry Mina, Jordi Alba, Nélson Semedo, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Philippe Coutinho, Ousmane Dembélé, Luis Suárez
+
+MATCH: 2989785 | śr., 17.01.2018 | RCD Espanyol
+PLAYERS: Jasper Cillessen, Thomas Vermaelen, Gerard Piqué, Lucas Digne, Sergi Roberto, Sergio Busquets, Carles Aleñá, Paulinho, Aleix Vidal, Denis Suárez, Lionel Messi
+
+MATCH: 2982007 | śr., 14.03.2018 | Chelsea FC
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Andrés Iniesta, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3018933 | wt., 10.04.2018 | AS Roma
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Sergi Roberto, Andrés Iniesta, Lionel Messi, Luis Suárez
+
+MATCH: 2929842 | śr., 29.11.2017 | Real Murcia CF
+PLAYERS: Jasper Cillessen, Thomas Vermaelen, Gerard Piqué, Lucas Digne, Nélson Semedo, Uri Busquets, Carles Aleñá, Denis Suárez, Gerard Deulofeu, Aleix Vidal, Paco Alcácer
+
+MATCH: 2899747 | niedz., 28.01.2018 | Deportivo Alavés
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Lucas Digne, Nélson Semedo, Ivan Rakitic, Paulinho, Andrés Iniesta, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 3018929 | śr., 04.04.2018 | AS Roma
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Sergi Roberto, Andrés Iniesta, Lionel Messi, Luis Suárez
+
+MATCH: 2899570 | sob., 09.09.2017 | RCD Espanyol
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Andrés Iniesta, Gerard Deulofeu, Lionel Messi, Luis Suárez
+
+MATCH: 2989790 | czw., 25.01.2018 | RCD Espanyol
+PLAYERS: Jasper Cillessen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Andrés Iniesta, Aleix Vidal, Lionel Messi, Luis Suárez
+
+MATCH: 2899930 | sob., 26.08.2017 | Deportivo Alavés
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Gerard Deulofeu, Aleix Vidal, Lionel Messi
+

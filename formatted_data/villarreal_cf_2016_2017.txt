@@ -1,0 +1,160 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2718830 | niedz., 27.11.2016 | Deportivo Alavés
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Roberto Soriano, Samu Castillejo, Nicola Sansone, Alexandre Pato
+
+MATCH: 2718949 | śr., 01.03.2017 | CA Osasuna
+PLAYERS: Andrés Fernández, Mateo Musacchio, Álvaro González, Jaume Costa, Antonio Rukavina, Rodri, Manu Trigueros, Jonathan dos Santos, Roberto Soriano, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2718799 | niedz., 30.10.2016 | SD Eibar
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Roberto Soriano, Samu Castillejo, Nicola Sansone, Cédric Bakambu
+
+MATCH: 2718740 | niedz., 18.09.2016 | Real Sociedad
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Roberto Soriano, Samu Castillejo, Nicola Sansone, Alexandre Pato
+
+MATCH: 2719010 | pt., 07.04.2017 | Athletic Bilbao
+PLAYERS: Andrés Fernández, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Roberto Soriano, Samu Castillejo, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2810027 | śr., 11.01.2017 | Real Sociedad
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Antonio Rukavina, Bruno Soriano, Rodri, Roberto Soriano, Samu Castillejo, Nicola Sansone, Rafael Borré
+
+MATCH: 2718893 | sob., 21.01.2017 | Valencia CF
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Roberto Soriano, Nicola Sansone, Alexandre Pato
+
+MATCH: 2718883 | sob., 14.01.2017 | Deportivo de La Coruña
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Cote, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Samu Castillejo, Alexandre Pato, Rafael Borré
+
+MATCH: 2718759 | niedz., 25.09.2016 | CA Osasuna
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Roberto Soriano, Samu Castillejo, Nicola Sansone, Alexandre Pato
+
+MATCH: 2718904 | sob., 28.01.2017 | Granada CF
+PLAYERS: Sergio Asenjo, Álvaro González, Daniele Bonera, Cote, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Roberto Soriano, Samu Castillejo, Nicola Sansone
+
+MATCH: 2767534 | wt., 20.12.2016 | CD Toledo
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Álvaro González, Cote, Mario Gaspar, Alfred N'Diaye, Rodri, Jonathan dos Santos, Roberto Soriano, Alexandre Pato, Rafael Borré
+
+MATCH: 2765918 | czw., 08.12.2016 | Steaua Bukarest
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Roberto Soriano, Nicola Sansone, Cédric Bakambu
+
+MATCH: 2719073 | niedz., 14.05.2017 | Deportivo de La Coruña
+PLAYERS: Andrés Fernández, Álvaro González, Daniele Bonera, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Samu Castillejo, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2718989 | sob., 01.04.2017 | SD Eibar
+PLAYERS: Andrés Fernández, Álvaro González, Daniele Bonera, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Roberto Soriano, Samu Castillejo, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2718841 | sob., 03.12.2016 | CD Leganés
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Rodri, Manu Trigueros, Roberto Soriano, Samu Castillejo, Nicola Sansone, Alexandre Pato
+
+MATCH: 2719052 | pt., 28.04.2017 | Sporting Gijón
+PLAYERS: Andrés Fernández, Álvaro González, Daniele Bonera, Cote, Mario Gaspar, Bruno Soriano, Rodri, Jonathan dos Santos, Roberto Soriano, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2718721 | niedz., 28.08.2016 | Sevilla FC
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Roberto Soriano, Samu Castillejo, Nicola Sansone, Alexandre Pato
+
+MATCH: 2718911 | niedz., 05.02.2017 | Sevilla FC
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Daniele Bonera, Cote, Mario Gaspar, Bruno Soriano, Rodri, Jonathan dos Santos, Manu Trigueros, Samu Castillejo, Adrián López
+
+MATCH: 2718820 | niedz., 20.11.2016 | Athletic Bilbao
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Bruno Soriano, Rodri, Manu Trigueros, Roberto Soriano, Samu Castillejo, Nicola Sansone
+
+MATCH: 2719020 | pon., 17.04.2017 | Deportivo Alavés
+PLAYERS: Andrés Fernández, Mateo Musacchio, Álvaro González, Jaume Costa, Mario Gaspar, Bruno Soriano, Rodri, Roberto Soriano, Adrián López, Nicola Sansone, Cédric Bakambu
+
+MATCH: 2805674 | czw., 23.02.2017 | AS Roma
+PLAYERS: Andrés Fernández, Álvaro González, Daniele Bonera, Cote, Antonio Rukavina, Bruno Soriano, Rodri, Roberto Soriano, Denis Cheryshev, Roberto Soldado, Rafael Borré
+
+MATCH: 2718958 | sob., 04.03.2017 | RCD Espanyol
+PLAYERS: Andrés Fernández, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Roberto Soriano, Samu Castillejo, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2718730 | sob., 10.09.2016 | Málaga CF
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Roberto Soriano, Samu Castillejo, Nicola Sansone, Rafael Borré
+
+MATCH: 2740121 | śr., 17.08.2016 | AS Monaco
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Alfred N'Diaye, Cote, Mario Gaspar, Bruno Soriano, Manu Trigueros, Roberto Soriano, Samu Castillejo, Alexandre Pato, Rafael Borré
+
+MATCH: 2718930 | niedz., 19.02.2017 | Real Sociedad
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Álvaro González, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Cheryshev, Adrián López, Cédric Bakambu
+
+MATCH: 2758748 | czw., 03.11.2016 | Osmanlispor FK
+PLAYERS: Andrés Fernández, Víctor Ruiz, Álvaro González, Cote, Antonio Rukavina, Bruno Soriano, Rodri, Jonathan dos Santos, Denis Cheryshev, Cédric Bakambu, Rafael Borré
+
+MATCH: 2718968 | niedz., 12.03.2017 | Celta de Vigo
+PLAYERS: Andrés Fernández, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Roberto Soriano, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2765904 | czw., 24.11.2016 | FC Zürich
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Cote, Antonio Rukavina, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Cheryshev, Alexandre Pato, Cédric Bakambu
+
+MATCH: 2718809 | niedz., 06.11.2016 | Real Betis Balompié
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Roberto Soriano, Samu Castillejo, Nicola Sansone, Cédric Bakambu
+
+MATCH: 2718939 | niedz., 26.02.2017 | Real Madryt
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Jonathan dos Santos, Manu Trigueros, Adrián López, Samu Castillejo, Cédric Bakambu
+
+MATCH: 2719031 | sob., 22.04.2017 | CD Leganés
+PLAYERS: Andrés Fernández, Mateo Musacchio, Álvaro González, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Roberto Soriano, Nicola Sansone, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2767520 | śr., 30.11.2016 | CD Toledo
+PLAYERS: Mariano Barbosa, Álvaro González, Daniele Bonera, Jaume Costa, Antonio Rukavina, Rodri, Manu Trigueros, Jonathan dos Santos, Denis Cheryshev, Cédric Bakambu, Rafael Borré
+
+MATCH: 2754306 | czw., 15.09.2016 | FC Zürich
+PLAYERS: Andrés Fernández, Víctor Ruiz, Álvaro González, Cote, Antonio Rukavina, Bruno Soriano, Alfred N'Diaye, Jonathan dos Santos, Denis Cheryshev, Rafael Borré, Alexandre Pato
+
+MATCH: 2718749 | śr., 21.09.2016 | Real Madryt
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Cote, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Cheryshev, Samu Castillejo, Nicola Sansone
+
+MATCH: 2740479 | wt., 23.08.2016 | AS Monaco
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Cote, Mario Gaspar, Bruno Soriano, Manu Trigueros, Roberto Soriano, Samu Castillejo, Alexandre Pato, Rafael Borré
+
+MATCH: 2805658 | czw., 16.02.2017 | AS Roma
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Samu Castillejo, Nicola Sansone, Cédric Bakambu
+
+MATCH: 2718999 | wt., 04.04.2017 | Real Betis Balompié
+PLAYERS: Andrés Fernández, Víctor Ruiz, Mateo Musacchio, Cote, Mario Gaspar, Rodri, Jonathan dos Santos, Roberto Soriano, Samu Castillejo, Adrián López, Nicola Sansone
+
+MATCH: 2754330 | czw., 29.09.2016 | Steaua Bukarest
+PLAYERS: Andrés Fernández, Mateo Musacchio, Daniele Bonera, Cote, Antonio Rukavina, Bruno Soriano, Alfred N'Diaye, Jonathan dos Santos, Denis Cheryshev, Alexandre Pato, Rafael Borré
+
+MATCH: 2718768 | niedz., 02.10.2016 | RCD Espanyol
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Roberto Soriano, Jonathan dos Santos, Samu Castillejo, Nicola Sansone
+
+MATCH: 2758706 | czw., 20.10.2016 | Osmanlispor FK
+PLAYERS: Andrés Fernández, Álvaro González, Daniele Bonera, Cote, Antonio Rukavina, Bruno Soriano, Alfred N'Diaye, Jonathan dos Santos, Samu Castillejo, Alexandre Pato, Rafael Borré
+
+MATCH: 2719083 | niedz., 21.05.2017 | Valencia CF
+PLAYERS: Andrés Fernández, Álvaro González, Daniele Bonera, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Roberto Soriano, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2719041 | wt., 25.04.2017 | Atlético Madryt
+PLAYERS: Andrés Fernández, Mateo Musacchio, Álvaro González, Jaume Costa, Antonio Rukavina, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Samu Castillejo, Nicola Sansone, Adrián López
+
+MATCH: 2718862 | sob., 17.12.2016 | Sporting Gijón
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Roberto Soriano, Nicola Sansone, Alexandre Pato
+
+MATCH: 2718920 | niedz., 12.02.2017 | Málaga CF
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Cote, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Roberto Soriano, Nicola Sansone, Adrián López
+
+MATCH: 2718978 | pt., 17.03.2017 | UD Las Palmas
+PLAYERS: Andrés Fernández, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Roberto Soriano, Samu Castillejo, Nicola Sansone
+
+MATCH: 2718778 | niedz., 16.10.2016 | Celta de Vigo
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Roberto Soriano, Samu Castillejo, Nicola Sansone, Cédric Bakambu
+
+MATCH: 2810020 | śr., 04.01.2017 | Real Sociedad
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Álvaro González, Cote, Mario Gaspar, Rodri, Manu Trigueros, Jonathan dos Santos, Roberto Soriano, Nicola Sansone, Alexandre Pato
+
+MATCH: 2719062 | sob., 06.05.2017 | FC Barcelona
+PLAYERS: Andrés Fernández, Mateo Musacchio, Álvaro González, Jaume Costa, Mario Gaspar, Rodri, Manu Trigueros, Jonathan dos Santos, Roberto Soriano, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2718788 | niedz., 23.10.2016 | UD Las Palmas
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Roberto Soriano, Nicola Sansone, Cédric Bakambu
+
+MATCH: 2718872 | niedz., 08.01.2017 | FC Barcelona
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Roberto Soriano, Nicola Sansone, Alexandre Pato
+
+MATCH: 2718851 | pon., 12.12.2016 | Atlético Madryt
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Álvaro González, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Roberto Soriano, Nicola Sansone, Alexandre Pato
+
+MATCH: 2718714 | sob., 20.08.2016 | Granada CF
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Antonio Rukavina, Mario Gaspar, Alfred N'Diaye, Manu Trigueros, Roberto Soriano, Samu Castillejo, Nicola Sansone, Alexandre Pato
+

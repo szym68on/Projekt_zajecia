@@ -1,0 +1,175 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2421924 | śr., 01.02.2006 | Real Zaragoza
+PLAYERS: Albert Jorquera, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Oleguer, Edmílson, Andrés Iniesta, Deco, Ronaldinho, Ludovic Giuly, Lionel Messi
+
+MATCH: 53463 | śr., 17.05.2006 | FC Arsenal
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Oleguer, Edmílson, Mark van Bommel, Deco, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 36057 | niedz., 09.04.2006 | Racing Santander
+PLAYERS: Víctor Valdés, Carles Puyol, Rodri, Sylvinho, Juliano Belletti, Mark van Bommel, Andrés Iniesta, Deco, Henrik Larsson, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 36025 | niedz., 22.01.2006 | Deportivo Alavés
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Oleguer, Edmílson, Andrés Iniesta, Mark van Bommel, Ronaldinho, Ludovic Giuly, Henrik Larsson
+
+MATCH: 53457 | śr., 26.04.2006 | AC Milan
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Juliano Belletti, Edmílson, Andrés Iniesta, Deco, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 35975 | śr., 21.09.2005 | Valencia CF
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Oleguer, Edmílson, Xavi, Deco, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 36046 | niedz., 05.03.2006 | Deportivo de La Coruña
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Juliano Belletti, Edmílson, Andrés Iniesta, Deco, Ronaldinho, Henrik Larsson, Samuel Eto'o
+
+MATCH: 37333 | śr., 22.03.2006 | Getafe CF
+PLAYERS: Víctor Valdés, Carles Puyol, Oleguer, Giovanni van Bronckhorst, Juliano Belletti, Thiago Motta, Mark van Bommel, Deco, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 36071 | niedz., 07.05.2006 | RCD Espanyol
+PLAYERS: Albert Jorquera, Carles Puyol, Oleguer, Sylvinho, Juliano Belletti, Edmílson, Xavi, Deco, Ronaldinho, Henrik Larsson, Samuel Eto'o
+
+MATCH: 1097469 | sob., 20.08.2005 | Real Betis Balompié
+PLAYERS: Víctor Valdés, Carles Puyol, Oleguer, Sylvinho, Juliano Belletti, Edmílson, Xavi, Deco, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 36053 | niedz., 26.03.2006 | Málaga CF
+PLAYERS: Víctor Valdés, Oleguer, Rodri, Sylvinho, Juliano Belletti, Gabri, Thiago Motta, Mark van Bommel, Samuel Eto'o, Ludovic Giuly, Henrik Larsson
+
+MATCH: 36067 | śr., 03.05.2006 | Celta de Vigo
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Juliano Belletti, Mark van Bommel, Andrés Iniesta, Deco, Ronaldinho, Henrik Larsson, Samuel Eto'o
+
+MATCH: 35579 | śr., 14.09.2005 | SV Werder Bremen
+PLAYERS: Víctor Valdés, Carles Puyol, Oleguer, Giovanni van Bronckhorst, Juliano Belletti, Rafa Márquez, Xavi, Deco, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 37307 | niedz., 12.02.2006 | Valencia CF
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Oleguer, Edmílson, Andrés Iniesta, Mark van Bommel, Santiago Ezquerro, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 37326 | niedz., 12.03.2006 | CA Osasuna
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Juliano Belletti, Edmílson, Thiago Motta, Deco, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 49856 | wt., 07.03.2006 | Chelsea FC
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Oleguer, Edmílson, Thiago Motta, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 37315 | sob., 25.02.2006 | Real Zaragoza
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Juliano Belletti, Edmílson, Thiago Motta, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 53418 | wt., 28.03.2006 | Benfika Lizbona
+PLAYERS: Víctor Valdés, Oleguer, Mark van Bommel, Giovanni van Bronckhorst, Juliano Belletti, Thiago Motta, Andrés Iniesta, Deco, Ronaldinho, Samuel Eto'o, Henrik Larsson
+
+MATCH: 37266 | niedz., 11.12.2005 | Sevilla FC
+PLAYERS: Víctor Valdés, Carles Puyol, Oleguer, Sylvinho, Juliano Belletti, Edmílson, Gabri, Andrés Iniesta, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 35613 | wt., 18.10.2005 | Panathinaikos FC
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Juliano Belletti, Mark van Bommel, Xavi, Deco, Ronaldinho, Samuel Eto'o, Henrik Larsson
+
+MATCH: 53455 | wt., 18.04.2006 | AC Milan
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Oleguer, Edmílson, Andrés Iniesta, Mark van Bommel, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 35982 | sob., 01.10.2005 | Real Zaragoza
+PLAYERS: Víctor Valdés, Carles Puyol, Oleguer, Giovanni van Bronckhorst, Juliano Belletti, Rafa Márquez, Andrés Iniesta, Deco, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 37357 | sob., 13.05.2006 | Sevilla FC
+PLAYERS: Albert Jorquera, Oleguer, Rodri, Sylvinho, Juliano Belletti, Gabri, Thiago Motta, Xavi, Santiago Ezquerro, Henrik Larsson, Maxi López
+
+MATCH: 35958 | sob., 27.08.2005 | Deportivo Alavés
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Oleguer, Edmílson, Xavi, Deco, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 36061 | niedz., 30.04.2006 | Cádiz CF
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Juliano Belletti, Thiago Motta, Mark van Bommel, Deco, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 49114 | niedz., 06.11.2005 | Getafe CF
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Oleguer, Mark van Bommel, Thiago Motta, Xavi, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 35615 | śr., 02.11.2005 | Panathinaikos FC
+PLAYERS: Víctor Valdés, Carles Puyol, Edmílson, Giovanni van Bronckhorst, Oleguer, Mark van Bommel, Andrés Iniesta, Xavi, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 36009 | sob., 17.12.2005 | Cádiz CF
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Oleguer, Edmílson, Andrés Iniesta, Deco, Lionel Messi, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 35969 | niedz., 18.09.2005 | Atlético Madryt
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Oleguer, Edmílson, Xavi, Deco, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 2423094 | śr., 11.01.2006 | Zamora CF
+PLAYERS: Albert Jorquera, Carles Puyol, Thiago Motta, Giovanni van Bronckhorst, Juliano Belletti, Mark van Bommel, Gabri, Andrés Iniesta, Santiago Ezquerro, Ludovic Giuly, Henrik Larsson
+
+MATCH: 36004 | niedz., 27.11.2005 | Racing Santander
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Juliano Belletti, Edmílson, Xavi, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 36033 | niedz., 05.02.2006 | Atlético Madryt
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Oleguer, Mark van Bommel, Gabri, Deco, Andrés Iniesta, Lionel Messi, Henrik Larsson
+
+MATCH: 49091 | śr., 26.10.2005 | Málaga CF
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Oleguer, Edmílson, Xavi, Mark van Bommel, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 36017 | sob., 07.01.2006 | RCD Espanyol
+PLAYERS: Víctor Valdés, Carles Puyol, Oleguer, Giovanni van Bronckhorst, Juliano Belletti, Edmílson, Thiago Motta, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 35981 | sob., 24.09.2005 | Real Betis Balompié
+PLAYERS: Víctor Valdés, Carles Puyol, Oleguer, Sylvinho, Juliano Belletti, Edmílson, Xavi, Mark van Bommel, Ludovic Giuly, Samuel Eto'o, Henrik Larsson
+
+MATCH: 49848 | śr., 22.02.2006 | Chelsea FC
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Oleguer, Edmílson, Thiago Motta, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 36015 | wt., 20.12.2005 | Celta de Vigo
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Oleguer, Edmílson, Andrés Iniesta, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 36002 | sob., 19.11.2005 | Real Madryt
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Oleguer, Edmílson, Xavi, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 37241 | sob., 15.10.2005 | Deportivo de La Coruña
+PLAYERS: Víctor Valdés, Carles Puyol, Oleguer, Sylvinho, Juliano Belletti, Rafa Márquez, Xavi, Deco, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 36075 | sob., 20.05.2006 | Athletic Bilbao
+PLAYERS: Albert Jorquera, Oleguer, Jesús Olmo, Andrea Orlandi, Juliano Belletti, Thiago Motta, Ludovic Sylvestre, Ludovic Giuly, Santiago Ezquerro, Maxi López, Samuel Eto'o
+
+MATCH: 1097468 | sob., 13.08.2005 | Real Betis Balompié
+PLAYERS: Víctor Valdés, Carles Puyol, Oleguer, Sylvinho, Juliano Belletti, Edmílson, Xavi, Deco, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 36056 | niedz., 02.04.2006 | Real Madryt
+PLAYERS: Víctor Valdés, Carles Puyol, Thiago Motta, Giovanni van Bronckhorst, Oleguer, Mark van Bommel, Andrés Iniesta, Deco, Ronaldinho, Henrik Larsson, Samuel Eto'o
+
+MATCH: 35611 | wt., 27.09.2005 | Udinese Calcio
+PLAYERS: Víctor Valdés, Carles Puyol, Oleguer, Giovanni van Bronckhorst, Juliano Belletti, Mark van Bommel, Xavi, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 36058 | niedz., 16.04.2006 | Villarreal CF
+PLAYERS: Víctor Valdés, Carles Puyol, Edmílson, Giovanni van Bronckhorst, Oleguer, Mark van Bommel, Andrés Iniesta, Deco, Henrik Larsson, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 37330 | niedz., 19.03.2006 | Real Sociedad
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Oleguer, Edmílson, Mark van Bommel, Deco, Ronaldinho, Henrik Larsson, Samuel Eto'o
+
+MATCH: 37249 | sob., 22.10.2005 | CA Osasuna
+PLAYERS: Víctor Valdés, Carles Puyol, Oleguer, Sylvinho, Juliano Belletti, Rafa Márquez, Xavi, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 53422 | śr., 05.04.2006 | Benfika Lizbona
+PLAYERS: Víctor Valdés, Carles Puyol, Oleguer, Giovanni van Bronckhorst, Juliano Belletti, Mark van Bommel, Andrés Iniesta, Deco, Ronaldinho, Samuel Eto'o, Henrik Larsson
+
+MATCH: 2421923 | czw., 26.01.2006 | Real Zaragoza
+PLAYERS: Albert Jorquera, Rafa Márquez, Oleguer, Giovanni van Bronckhorst, Juliano Belletti, Edmílson, Andrés Iniesta, Mark van Bommel, Ronaldinho, Lionel Messi, Henrik Larsson
+
+MATCH: 35620 | śr., 07.12.2005 | Udinese Calcio
+PLAYERS: Albert Jorquera, Carles Puyol, Oleguer, Giovanni van Bronckhorst, Juliano Belletti, Edmílson, Gabri, Deco, Santiago Ezquerro, Ludovic Giuly, Henrik Larsson
+
+MATCH: 36039 | sob., 18.02.2006 | Real Betis Balompié
+PLAYERS: Víctor Valdés, Carles Puyol, Oleguer, Sylvinho, Juliano Belletti, Edmílson, Andrés Iniesta, Deco, Ronaldinho, Samuel Eto'o, Henrik Larsson
+
+MATCH: 36031 | niedz., 29.01.2006 | RCD Mallorca
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Oleguer, Edmílson, Mark van Bommel, Deco, Ronaldinho, Ludovic Giuly, Henrik Larsson
+
+MATCH: 35961 | niedz., 11.09.2005 | RCD Mallorca
+PLAYERS: Víctor Valdés, Carles Puyol, Oleguer, Giovanni van Bronckhorst, Juliano Belletti, Rafa Márquez, Xavi, Deco, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 49106 | niedz., 30.10.2005 | Real Sociedad
+PLAYERS: Víctor Valdés, Carles Puyol, Edmílson, Sylvinho, Oleguer, Mark van Bommel, Andrés Iniesta, Xavi, Ronaldinho, Ludovic Giuly, Samuel Eto'o
+
+MATCH: 36020 | niedz., 15.01.2006 | Athletic Bilbao
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Oleguer, Edmílson, Mark van Bommel, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+
+MATCH: 35617 | wt., 22.11.2005 | SV Werder Bremen
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Giovanni van Bronckhorst, Oleguer, Thiago Motta, Gabri, Deco, Ronaldinho, Ludovic Giuly, Henrik Larsson
+
+MATCH: 2423086 | wt., 03.01.2006 | Zamora CF
+PLAYERS: Albert Jorquera, Carles Puyol, Oleguer, Sylvinho, Juliano Belletti, Rafa Márquez, Gabri, Andrés Iniesta, Giovanni van Bronckhorst, Ludovic Giuly, Santiago Ezquerro
+
+MATCH: 37265 | niedz., 04.12.2005 | Villarreal CF
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Oleguer, Edmílson, Thiago Motta, Deco, Ronaldinho, Lionel Messi, Samuel Eto'o
+

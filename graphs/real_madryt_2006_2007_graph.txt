@@ -1,0 +1,293 @@
+# Graph for Java/GraphStream
+# Nodes: 28
+# Edges: 287
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Iker Casillas | Fabio Cannavaro | 38 | 45 | 38
+EDGE Iker Casillas | Sergio Ramos | 39 | 45 | 42
+EDGE Iker Casillas | Roberto Carlos | 29 | 45 | 31
+EDGE Iker Casillas | Miguel Torres | 19 | 45 | 23
+EDGE Iker Casillas | Mahamadou Diarra | 36 | 45 | 41
+EDGE Iker Casillas | Fernando Gago | 15 | 45 | 17
+EDGE Iker Casillas | David Beckham | 16 | 45 | 19
+EDGE Iker Casillas | Robinho | 23 | 45 | 25
+EDGE Iker Casillas | Raúl | 39 | 45 | 39
+EDGE Iker Casillas | Ruud van Nistelrooy | 43 | 45 | 46
+EDGE Iker Casillas | Míchel Salgado | 15 | 45 | 16
+EDGE Iker Casillas | Emerson | 33 | 45 | 33
+EDGE Iker Casillas | José Antonio Reyes | 15 | 45 | 19
+EDGE Iker Casillas | Antonio Cassano | 6 | 45 | 8
+EDGE Iker Casillas | Iván Helguera | 26 | 45 | 28
+EDGE Iker Casillas | Guti | 26 | 45 | 26
+EDGE Iker Casillas | Gonzalo Higuaín | 15 | 45 | 17
+EDGE Iker Casillas | Raúl Bravo | 3 | 45 | 6
+EDGE Iker Casillas | Cicinho | 6 | 45 | 6
+EDGE Iker Casillas | Ronaldo | 3 | 45 | 6
+EDGE Iker Casillas | Álvaro Mejía | 4 | 45 | 7
+EDGE Iker Casillas | Marcelo | 1 | 45 | 1
+EDGE Fabio Cannavaro | Sergio Ramos | 33 | 38 | 42
+EDGE Fabio Cannavaro | Roberto Carlos | 25 | 38 | 31
+EDGE Fabio Cannavaro | Miguel Torres | 14 | 38 | 23
+EDGE Fabio Cannavaro | Mahamadou Diarra | 30 | 38 | 41
+EDGE Fabio Cannavaro | Fernando Gago | 11 | 38 | 17
+EDGE Fabio Cannavaro | David Beckham | 14 | 38 | 19
+EDGE Fabio Cannavaro | Robinho | 21 | 38 | 25
+EDGE Fabio Cannavaro | Raúl | 34 | 38 | 39
+EDGE Fabio Cannavaro | Ruud van Nistelrooy | 36 | 38 | 46
+EDGE Fabio Cannavaro | Míchel Salgado | 11 | 38 | 16
+EDGE Fabio Cannavaro | Emerson | 30 | 38 | 33
+EDGE Fabio Cannavaro | José Antonio Reyes | 12 | 38 | 19
+EDGE Fabio Cannavaro | Antonio Cassano | 5 | 38 | 8
+EDGE Fabio Cannavaro | Iván Helguera | 20 | 38 | 28
+EDGE Fabio Cannavaro | Guti | 22 | 38 | 26
+EDGE Fabio Cannavaro | Gonzalo Higuaín | 10 | 38 | 17
+EDGE Fabio Cannavaro | Raúl Bravo | 2 | 38 | 6
+EDGE Fabio Cannavaro | Cicinho | 6 | 38 | 6
+EDGE Fabio Cannavaro | Ronaldo | 3 | 38 | 6
+EDGE Fabio Cannavaro | Álvaro Mejía | 2 | 38 | 7
+EDGE Fabio Cannavaro | Marcelo | 1 | 38 | 1
+EDGE Sergio Ramos | Roberto Carlos | 27 | 42 | 31
+EDGE Sergio Ramos | Miguel Torres | 17 | 42 | 23
+EDGE Sergio Ramos | Mahamadou Diarra | 35 | 42 | 41
+EDGE Sergio Ramos | Fernando Gago | 14 | 42 | 17
+EDGE Sergio Ramos | David Beckham | 14 | 42 | 19
+EDGE Sergio Ramos | Robinho | 25 | 42 | 25
+EDGE Sergio Ramos | Raúl | 34 | 42 | 39
+EDGE Sergio Ramos | Ruud van Nistelrooy | 41 | 42 | 46
+EDGE Sergio Ramos | Míchel Salgado | 12 | 42 | 16
+EDGE Sergio Ramos | Emerson | 30 | 42 | 33
+EDGE Sergio Ramos | José Antonio Reyes | 16 | 42 | 19
+EDGE Sergio Ramos | Antonio Cassano | 3 | 42 | 8
+EDGE Sergio Ramos | Iván Helguera | 23 | 42 | 28
+EDGE Sergio Ramos | Gonzalo Higuaín | 13 | 42 | 17
+EDGE Sergio Ramos | Guti | 22 | 42 | 26
+EDGE Sergio Ramos | Cicinho | 6 | 42 | 6
+EDGE Sergio Ramos | Ronaldo | 4 | 42 | 6
+EDGE Sergio Ramos | Álvaro Mejía | 4 | 42 | 7
+EDGE Sergio Ramos | Diego López | 3 | 42 | 5
+EDGE Sergio Ramos | Francisco Pavón | 1 | 42 | 2
+EDGE Sergio Ramos | Raúl Bravo | 2 | 42 | 6
+EDGE Sergio Ramos | Javi García | 1 | 42 | 2
+EDGE Sergio Ramos | Marcelo | 1 | 42 | 1
+EDGE Roberto Carlos | Miguel Torres | 7 | 31 | 23
+EDGE Roberto Carlos | Mahamadou Diarra | 26 | 31 | 41
+EDGE Roberto Carlos | Fernando Gago | 6 | 31 | 17
+EDGE Roberto Carlos | David Beckham | 13 | 31 | 19
+EDGE Roberto Carlos | Robinho | 16 | 31 | 25
+EDGE Roberto Carlos | Raúl | 26 | 31 | 39
+EDGE Roberto Carlos | Ruud van Nistelrooy | 29 | 31 | 46
+EDGE Roberto Carlos | Míchel Salgado | 9 | 31 | 16
+EDGE Roberto Carlos | Emerson | 25 | 31 | 33
+EDGE Roberto Carlos | José Antonio Reyes | 10 | 31 | 19
+EDGE Roberto Carlos | Antonio Cassano | 6 | 31 | 8
+EDGE Roberto Carlos | Iván Helguera | 14 | 31 | 28
+EDGE Roberto Carlos | Guti | 18 | 31 | 26
+EDGE Roberto Carlos | Gonzalo Higuaín | 5 | 31 | 17
+EDGE Roberto Carlos | Diego López | 2 | 31 | 5
+EDGE Roberto Carlos | Álvaro Mejía | 5 | 31 | 7
+EDGE Roberto Carlos | Rubén de la Red | 1 | 31 | 1
+EDGE Roberto Carlos | Miguel Ángel Nieto | 1 | 31 | 1
+EDGE Roberto Carlos | Ronaldo | 4 | 31 | 6
+EDGE Roberto Carlos | Cicinho | 4 | 31 | 6
+EDGE Roberto Carlos | Raúl Bravo | 2 | 31 | 6
+EDGE Miguel Torres | Mahamadou Diarra | 18 | 23 | 41
+EDGE Miguel Torres | Fernando Gago | 16 | 23 | 17
+EDGE Miguel Torres | David Beckham | 10 | 23 | 19
+EDGE Miguel Torres | Robinho | 12 | 23 | 25
+EDGE Miguel Torres | Raúl | 15 | 23 | 39
+EDGE Miguel Torres | Ruud van Nistelrooy | 20 | 23 | 46
+EDGE Miguel Torres | Iván Helguera | 16 | 23 | 28
+EDGE Miguel Torres | Guti | 8 | 23 | 26
+EDGE Miguel Torres | Gonzalo Higuaín | 15 | 23 | 17
+EDGE Miguel Torres | José Antonio Reyes | 9 | 23 | 19
+EDGE Miguel Torres | Diego López | 4 | 23 | 5
+EDGE Miguel Torres | Francisco Pavón | 1 | 23 | 2
+EDGE Miguel Torres | Álvaro Mejía | 2 | 23 | 7
+EDGE Miguel Torres | Raúl Bravo | 3 | 23 | 6
+EDGE Miguel Torres | Javi García | 1 | 23 | 2
+EDGE Miguel Torres | Antonio Cassano | 3 | 23 | 8
+EDGE Miguel Torres | Ronaldo | 2 | 23 | 6
+EDGE Miguel Torres | Cicinho | 2 | 23 | 6
+EDGE Miguel Torres | Emerson | 7 | 23 | 33
+EDGE Miguel Torres | Míchel Salgado | 7 | 23 | 16
+EDGE Miguel Torres | Rubén de la Red | 1 | 23 | 1
+EDGE Miguel Torres | Miguel Ángel Nieto | 1 | 23 | 1
+EDGE Mahamadou Diarra | Fernando Gago | 11 | 41 | 17
+EDGE Mahamadou Diarra | David Beckham | 13 | 41 | 19
+EDGE Mahamadou Diarra | Robinho | 22 | 41 | 25
+EDGE Mahamadou Diarra | Raúl | 32 | 41 | 39
+EDGE Mahamadou Diarra | Ruud van Nistelrooy | 38 | 41 | 46
+EDGE Mahamadou Diarra | Míchel Salgado | 11 | 41 | 16
+EDGE Mahamadou Diarra | Emerson | 26 | 41 | 33
+EDGE Mahamadou Diarra | José Antonio Reyes | 15 | 41 | 19
+EDGE Mahamadou Diarra | Antonio Cassano | 8 | 41 | 8
+EDGE Mahamadou Diarra | Iván Helguera | 22 | 41 | 28
+EDGE Mahamadou Diarra | Guti | 18 | 41 | 26
+EDGE Mahamadou Diarra | Diego López | 5 | 41 | 5
+EDGE Mahamadou Diarra | Francisco Pavón | 2 | 41 | 2
+EDGE Mahamadou Diarra | Álvaro Mejía | 7 | 41 | 7
+EDGE Mahamadou Diarra | Raúl Bravo | 6 | 41 | 6
+EDGE Mahamadou Diarra | Javi García | 2 | 41 | 2
+EDGE Mahamadou Diarra | Ronaldo | 4 | 41 | 6
+EDGE Mahamadou Diarra | Gonzalo Higuaín | 14 | 41 | 17
+EDGE Mahamadou Diarra | Cicinho | 6 | 41 | 6
+EDGE Mahamadou Diarra | Rubén de la Red | 1 | 41 | 1
+EDGE Mahamadou Diarra | Miguel Ángel Nieto | 1 | 41 | 1
+EDGE Mahamadou Diarra | Marcelo | 1 | 41 | 1
+EDGE Fernando Gago | David Beckham | 6 | 17 | 19
+EDGE Fernando Gago | Robinho | 9 | 17 | 25
+EDGE Fernando Gago | Raúl | 11 | 17 | 39
+EDGE Fernando Gago | Ruud van Nistelrooy | 16 | 17 | 46
+EDGE Fernando Gago | Iván Helguera | 14 | 17 | 28
+EDGE Fernando Gago | Guti | 7 | 17 | 26
+EDGE Fernando Gago | Gonzalo Higuaín | 12 | 17 | 17
+EDGE Fernando Gago | José Antonio Reyes | 8 | 17 | 19
+EDGE Fernando Gago | Raúl Bravo | 2 | 17 | 6
+EDGE Fernando Gago | Míchel Salgado | 5 | 17 | 16
+EDGE Fernando Gago | Emerson | 5 | 17 | 33
+EDGE Fernando Gago | Diego López | 2 | 17 | 5
+EDGE David Beckham | Robinho | 8 | 19 | 25
+EDGE David Beckham | Raúl | 13 | 19 | 39
+EDGE David Beckham | Ruud van Nistelrooy | 17 | 19 | 46
+EDGE David Beckham | Míchel Salgado | 6 | 19 | 16
+EDGE David Beckham | Emerson | 12 | 19 | 33
+EDGE David Beckham | Antonio Cassano | 6 | 19 | 8
+EDGE David Beckham | Iván Helguera | 6 | 19 | 28
+EDGE David Beckham | Guti | 6 | 19 | 26
+EDGE David Beckham | Gonzalo Higuaín | 2 | 19 | 17
+EDGE David Beckham | José Antonio Reyes | 3 | 19 | 19
+EDGE David Beckham | Diego López | 3 | 19 | 5
+EDGE David Beckham | Francisco Pavón | 2 | 19 | 2
+EDGE David Beckham | Álvaro Mejía | 4 | 19 | 7
+EDGE David Beckham | Raúl Bravo | 4 | 19 | 6
+EDGE David Beckham | Javi García | 2 | 19 | 2
+EDGE David Beckham | Ronaldo | 5 | 19 | 6
+EDGE David Beckham | Cicinho | 3 | 19 | 6
+EDGE David Beckham | Rubén de la Red | 1 | 19 | 1
+EDGE David Beckham | Miguel Ángel Nieto | 1 | 19 | 1
+EDGE Robinho | Raúl | 19 | 25 | 39
+EDGE Robinho | Ruud van Nistelrooy | 24 | 25 | 46
+EDGE Robinho | Míchel Salgado | 5 | 25 | 16
+EDGE Robinho | Emerson | 17 | 25 | 33
+EDGE Robinho | José Antonio Reyes | 8 | 25 | 19
+EDGE Robinho | Iván Helguera | 16 | 25 | 28
+EDGE Robinho | Gonzalo Higuaín | 8 | 25 | 17
+EDGE Robinho | Guti | 9 | 25 | 26
+EDGE Robinho | Cicinho | 2 | 25 | 6
+EDGE Robinho | Ronaldo | 1 | 25 | 6
+EDGE Robinho | Marcelo | 1 | 25 | 1
+EDGE Robinho | Diego López | 2 | 25 | 5
+EDGE Robinho | Raúl Bravo | 1 | 25 | 6
+EDGE Robinho | Álvaro Mejía | 1 | 25 | 7
+EDGE Raúl | Ruud van Nistelrooy | 37 | 39 | 46
+EDGE Raúl | Míchel Salgado | 15 | 39 | 16
+EDGE Raúl | Emerson | 30 | 39 | 33
+EDGE Raúl | José Antonio Reyes | 11 | 39 | 19
+EDGE Raúl | Antonio Cassano | 4 | 39 | 8
+EDGE Raúl | Iván Helguera | 21 | 39 | 28
+EDGE Raúl | Guti | 23 | 39 | 26
+EDGE Raúl | Gonzalo Higuaín | 12 | 39 | 17
+EDGE Raúl | Raúl Bravo | 2 | 39 | 6
+EDGE Raúl | Cicinho | 5 | 39 | 6
+EDGE Raúl | Ronaldo | 3 | 39 | 6
+EDGE Raúl | Álvaro Mejía | 3 | 39 | 7
+EDGE Raúl | Marcelo | 1 | 39 | 1
+EDGE Ruud van Nistelrooy | Míchel Salgado | 14 | 46 | 16
+EDGE Ruud van Nistelrooy | Emerson | 31 | 46 | 33
+EDGE Ruud van Nistelrooy | José Antonio Reyes | 17 | 46 | 19
+EDGE Ruud van Nistelrooy | Antonio Cassano | 6 | 46 | 8
+EDGE Ruud van Nistelrooy | Iván Helguera | 26 | 46 | 28
+EDGE Ruud van Nistelrooy | Guti | 24 | 46 | 26
+EDGE Ruud van Nistelrooy | Gonzalo Higuaín | 16 | 46 | 17
+EDGE Ruud van Nistelrooy | Raúl Bravo | 5 | 46 | 6
+EDGE Ruud van Nistelrooy | Cicinho | 6 | 46 | 6
+EDGE Ruud van Nistelrooy | Ronaldo | 3 | 46 | 6
+EDGE Ruud van Nistelrooy | Álvaro Mejía | 5 | 46 | 7
+EDGE Ruud van Nistelrooy | Diego López | 3 | 46 | 5
+EDGE Ruud van Nistelrooy | Francisco Pavón | 1 | 46 | 2
+EDGE Ruud van Nistelrooy | Javi García | 1 | 46 | 2
+EDGE Ruud van Nistelrooy | Marcelo | 1 | 46 | 1
+EDGE Míchel Salgado | Emerson | 10 | 16 | 33
+EDGE Míchel Salgado | José Antonio Reyes | 6 | 16 | 19
+EDGE Míchel Salgado | Antonio Cassano | 4 | 16 | 8
+EDGE Míchel Salgado | Diego López | 1 | 16 | 5
+EDGE Míchel Salgado | Álvaro Mejía | 2 | 16 | 7
+EDGE Míchel Salgado | Rubén de la Red | 1 | 16 | 1
+EDGE Míchel Salgado | Miguel Ángel Nieto | 1 | 16 | 1
+EDGE Míchel Salgado | Ronaldo | 3 | 16 | 6
+EDGE Míchel Salgado | Guti | 9 | 16 | 26
+EDGE Míchel Salgado | Raúl Bravo | 1 | 16 | 6
+EDGE Míchel Salgado | Iván Helguera | 6 | 16 | 28
+EDGE Míchel Salgado | Gonzalo Higuaín | 6 | 16 | 17
+EDGE Emerson | José Antonio Reyes | 10 | 33 | 19
+EDGE Emerson | Antonio Cassano | 5 | 33 | 8
+EDGE Emerson | Iván Helguera | 17 | 33 | 28
+EDGE Emerson | Guti | 21 | 33 | 26
+EDGE Emerson | Cicinho | 6 | 33 | 6
+EDGE Emerson | Ronaldo | 3 | 33 | 6
+EDGE Emerson | Gonzalo Higuaín | 5 | 33 | 17
+EDGE Emerson | Raúl Bravo | 2 | 33 | 6
+EDGE Emerson | Álvaro Mejía | 4 | 33 | 7
+EDGE Emerson | Marcelo | 1 | 33 | 1
+EDGE José Antonio Reyes | Iván Helguera | 10 | 19 | 28
+EDGE José Antonio Reyes | Gonzalo Higuaín | 8 | 19 | 17
+EDGE José Antonio Reyes | Diego López | 4 | 19 | 5
+EDGE José Antonio Reyes | Francisco Pavón | 2 | 19 | 2
+EDGE José Antonio Reyes | Álvaro Mejía | 5 | 19 | 7
+EDGE José Antonio Reyes | Raúl Bravo | 4 | 19 | 6
+EDGE José Antonio Reyes | Javi García | 2 | 19 | 2
+EDGE José Antonio Reyes | Antonio Cassano | 2 | 19 | 8
+EDGE José Antonio Reyes | Ronaldo | 2 | 19 | 6
+EDGE José Antonio Reyes | Cicinho | 2 | 19 | 6
+EDGE José Antonio Reyes | Guti | 9 | 19 | 26
+EDGE Antonio Cassano | Diego López | 2 | 8 | 5
+EDGE Antonio Cassano | Francisco Pavón | 1 | 8 | 2
+EDGE Antonio Cassano | Álvaro Mejía | 3 | 8 | 7
+EDGE Antonio Cassano | Raúl Bravo | 3 | 8 | 6
+EDGE Antonio Cassano | Javi García | 1 | 8 | 2
+EDGE Antonio Cassano | Ronaldo | 2 | 8 | 6
+EDGE Antonio Cassano | Rubén de la Red | 1 | 8 | 1
+EDGE Antonio Cassano | Miguel Ángel Nieto | 1 | 8 | 1
+EDGE Antonio Cassano | Cicinho | 2 | 8 | 6
+EDGE Antonio Cassano | Guti | 3 | 8 | 26
+EDGE Antonio Cassano | Iván Helguera | 2 | 8 | 28
+EDGE Antonio Cassano | Gonzalo Higuaín | 1 | 8 | 17
+EDGE Iván Helguera | Guti | 18 | 28 | 26
+EDGE Iván Helguera | Gonzalo Higuaín | 15 | 28 | 17
+EDGE Iván Helguera | Raúl Bravo | 3 | 28 | 6
+EDGE Iván Helguera | Ronaldo | 1 | 28 | 6
+EDGE Iván Helguera | Marcelo | 1 | 28 | 1
+EDGE Iván Helguera | Diego López | 2 | 28 | 5
+EDGE Iván Helguera | Álvaro Mejía | 1 | 28 | 7
+EDGE Guti | Gonzalo Higuaín | 7 | 26 | 17
+EDGE Guti | Cicinho | 3 | 26 | 6
+EDGE Guti | Ronaldo | 3 | 26 | 6
+EDGE Guti | Álvaro Mejía | 3 | 26 | 7
+EDGE Guti | Raúl Bravo | 1 | 26 | 6
+EDGE Gonzalo Higuaín | Raúl Bravo | 2 | 17 | 6
+EDGE Gonzalo Higuaín | Marcelo | 1 | 17 | 1
+EDGE Gonzalo Higuaín | Diego López | 2 | 17 | 5
+EDGE Gonzalo Higuaín | Cicinho | 1 | 17 | 6
+EDGE Diego López | Francisco Pavón | 2 | 5 | 2
+EDGE Diego López | Álvaro Mejía | 3 | 5 | 7
+EDGE Diego López | Raúl Bravo | 3 | 5 | 6
+EDGE Diego López | Javi García | 2 | 5 | 2
+EDGE Diego López | Ronaldo | 3 | 5 | 6
+EDGE Diego López | Rubén de la Red | 1 | 5 | 1
+EDGE Diego López | Miguel Ángel Nieto | 1 | 5 | 1
+EDGE Francisco Pavón | Álvaro Mejía | 2 | 2 | 7
+EDGE Francisco Pavón | Raúl Bravo | 2 | 2 | 6
+EDGE Francisco Pavón | Javi García | 2 | 2 | 2
+EDGE Francisco Pavón | Ronaldo | 2 | 2 | 6
+EDGE Álvaro Mejía | Raúl Bravo | 3 | 7 | 6
+EDGE Álvaro Mejía | Javi García | 2 | 7 | 2
+EDGE Álvaro Mejía | Ronaldo | 3 | 7 | 6
+EDGE Álvaro Mejía | Rubén de la Red | 1 | 7 | 1
+EDGE Álvaro Mejía | Miguel Ángel Nieto | 1 | 7 | 1
+EDGE Raúl Bravo | Javi García | 2 | 6 | 2
+EDGE Raúl Bravo | Ronaldo | 2 | 6 | 6
+EDGE Javi García | Ronaldo | 2 | 2 | 6
+EDGE Ronaldo | Rubén de la Red | 1 | 6 | 1
+EDGE Ronaldo | Miguel Ángel Nieto | 1 | 6 | 1
+EDGE Rubén de la Red | Miguel Ángel Nieto | 1 | 1 | 1

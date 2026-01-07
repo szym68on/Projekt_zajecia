@@ -1,0 +1,136 @@
+# Team: Athletic Bilbao
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2341288 | pon., 07.04.2014 | Levante UD
+PLAYERS: Gorka Iraizoz, Xabi Etxeita, Mikel San José, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341130 | pt., 23.08.2013 | CA Osasuna
+PLAYERS: Iago Herrerín, Aymeric Laporte, Carlos Gurpegui, Enric Saborit, Andoni Iraola, Ander Iturraspe, Beñat Etxebarria, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341065 | niedz., 01.09.2013 | Real Madryt
+PLAYERS: Iago Herrerín, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Beñat Etxebarria, Mikel Rico, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341254 | niedz., 18.05.2014 | UD Almería
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Erik Morán, Beñat Etxebarria, Mikel Rico, Iker Muniain, Markel Susaeta, Guillermo Fernández
+
+MATCH: 2341169 | pon., 21.10.2013 | Villarreal CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Mikel Rico, Óscar de Marcos, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341188 | czw., 26.09.2013 | Real Betis Balompié
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Mikel San José, Aymeric Laporte, Andoni Iraola, Beñat Etxebarria, Mikel Rico, Ander Herrera, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341104 | niedz., 09.03.2014 | Valencia CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341223 | niedz., 22.12.2013 | Rayo Vallecano
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Mikel San José, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Markel Susaeta, Gaizka Toquero
+
+MATCH: 2341335 | pon., 14.04.2014 | Málaga CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Mikel San José, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Erik Morán, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341214 | niedz., 15.12.2013 | Sevilla FC
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Markel Susaeta, Gaizka Toquero
+
+MATCH: 2341240 | niedz., 01.12.2013 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Markel Susaeta, Gaizka Toquero
+
+MATCH: 2341308 | sob., 22.03.2014 | Getafe CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Markel Susaeta, Guillermo Fernández
+
+MATCH: 2341079 | pon., 16.09.2013 | Celta de Vigo
+PLAYERS: Iago Herrerín, Carlos Gurpegui, Mikel San José, Aymeric Laporte, Andoni Iraola, Erik Morán, Beñat Etxebarria, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2396427 | śr., 15.01.2014 | Real Betis Balompié
+PLAYERS: Iago Herrerín, Aymeric Laporte, Mikel San José, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Mikel Rico, Óscar de Marcos, Ander Herrera, Ibai Gómez, Aritz Aduriz
+
+MATCH: 2341244 | sob., 09.11.2013 | Levante UD
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Óscar de Marcos, Andoni Iraola, Ander Iturraspe, Beñat Etxebarria, Iker Muniain, Ibai Gómez, Markel Susaeta, Guillermo Fernández
+
+MATCH: 2341228 | pon., 25.11.2013 | Málaga CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Mikel San José, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Ibai Gómez, Guillermo Fernández
+
+MATCH: 2341300 | wt., 25.03.2014 | Elche CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Mikel San José, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Mikel Rico, Andoni Iraola, Ander Herrera, Iker Muniain, Aritz Aduriz
+
+MATCH: 2341050 | niedz., 05.01.2014 | Real Sociedad
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341163 | pon., 28.10.2013 | Getafe CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Mikel Rico, Óscar de Marcos, Ander Herrera, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341319 | pon., 17.03.2014 | Villarreal CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341203 | pon., 30.09.2013 | Granada CF
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Mikel San José, Aymeric Laporte, Andoni Iraola, Mikel Rico, Beñat Etxebarria, Ander Herrera, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341241 | niedz., 03.11.2013 | Atlético Madryt
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Andoni Iraola, Mikel San José, Beñat Etxebarria, Mikel Rico, Óscar de Marcos, Iker Muniain, Aritz Aduriz
+
+MATCH: 2341041 | pon., 20.01.2014 | Real Valladolid CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Beñat Etxebarria, Ander Herrera, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341039 | niedz., 26.01.2014 | CA Osasuna
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Mikel San José, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341286 | sob., 29.03.2014 | Atlético Madryt
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Mikel San José, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Mikel Rico, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2421863 | czw., 23.01.2014 | Atlético Madryt
+PLAYERS: Iago Herrerín, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Andoni Iraola, Mikel Rico, Ander Iturraspe, Ander Herrera, Ibai Gómez, Óscar de Marcos, Kike Sola
+
+MATCH: 2341339 | pt., 02.05.2014 | Rayo Vallecano
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Mikel San José, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Mikel Rico, Ander Herrera, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341146 | czw., 31.10.2013 | Elche CF
+PLAYERS: Iago Herrerín, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Markel Susaeta, Gaizka Toquero
+
+MATCH: 2341118 | niedz., 23.02.2014 | Real Betis Balompié
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Mikel San José, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Markel Susaeta, Kike Sola
+
+MATCH: 2421869 | śr., 29.01.2014 | Atlético Madryt
+PLAYERS: Iago Herrerín, Aymeric Laporte, Mikel San José, Mikel Balenziaga, Andoni Iraola, Mikel Rico, Ander Iturraspe, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2346409 | sob., 17.08.2013 | Real Valladolid CF
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Borja Ekiza, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Beñat Etxebarria, Ander Herrera, Iker Muniain, Markel Susaeta, Kike Sola
+
+MATCH: 2341011 | niedz., 16.02.2014 | RCD Espanyol
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Andoni Iraola, Mikel San José, Mikel Rico, Ander Herrera, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341333 | niedz., 27.04.2014 | Sevilla FC
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Mikel San José, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2382266 | czw., 19.12.2013 | Celta de Vigo
+PLAYERS: Iago Herrerín, Carlos Gurpegui, Mikel Balenziaga, Andoni Iraola, Mikel San José, Ander Iturraspe, Mikel Rico, Ibai Gómez, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341368 | niedz., 20.04.2014 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Mikel San José, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Erik Morán, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2388762 | śr., 08.01.2014 | Real Betis Balompié
+PLAYERS: Iago Herrerín, Carlos Gurpegui, Mikel San José, Mikel Balenziaga, Andoni Iraola, Erik Morán, Beñat Etxebarria, Mikel Rico, Ibai Gómez, Markel Susaeta, Kike Sola
+
+MATCH: 2341162 | niedz., 06.10.2013 | Valencia CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Enric Saborit, Andoni Iraola, Mikel Rico, Ander Herrera, Beñat Etxebarria, Iker Muniain, Markel Susaeta, Óscar de Marcos
+
+MATCH: 2341057 | sob., 11.01.2014 | UD Almería
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Mikel San José, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341080 | pon., 23.09.2013 | RCD Espanyol
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Mikel San José, Aymeric Laporte, Andoni Iraola, Ander Iturraspe, Beñat Etxebarria, Mikel Rico, Óscar de Marcos, Iker Muniain, Aritz Aduriz
+
+MATCH: 2341006 | pon., 10.02.2014 | Celta de Vigo
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341132 | pt., 28.02.2014 | Granada CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2341282 | niedz., 11.05.2014 | Real Sociedad
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Mikel San José, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Markel Susaeta, Gaizka Toquero
+
+MATCH: 2382243 | sob., 07.12.2013 | Celta de Vigo
+PLAYERS: Iago Herrerín, Carlos Gurpegui, Mikel San José, Mikel Balenziaga, Andoni Iraola, Ander Iturraspe, Ander Herrera, Mikel Rico, Iker Muniain, Markel Susaeta, Gaizka Toquero
+
+MATCH: 2341023 | niedz., 02.02.2014 | Real Madryt
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Mikel Rico, Ander Herrera, Iker Muniain, Markel Susaeta, Aritz Aduriz
+

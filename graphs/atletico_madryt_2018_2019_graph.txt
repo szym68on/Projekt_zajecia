@@ -1,0 +1,263 @@
+# Graph for Java/GraphStream
+# Nodes: 25
+# Edges: 257
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Jan Oblak | Stefan Savic | 19 | 46 | 21
+EDGE Jan Oblak | Lucas Hernández | 19 | 46 | 20
+EDGE Jan Oblak | Filipe Luís | 27 | 46 | 28
+EDGE Jan Oblak | Santiago Arias | 24 | 46 | 28
+EDGE Jan Oblak | Rodri | 38 | 46 | 41
+EDGE Jan Oblak | Saúl Ñíguez | 40 | 46 | 43
+EDGE Jan Oblak | Thomas Lemar | 27 | 46 | 31
+EDGE Jan Oblak | Ángel Correa | 22 | 46 | 25
+EDGE Jan Oblak | Gelson Martins | 2 | 46 | 4
+EDGE Jan Oblak | Antoine Griezmann | 45 | 46 | 47
+EDGE Jan Oblak | Diego Godín | 34 | 46 | 37
+EDGE Jan Oblak | Thomas Partey | 27 | 46 | 30
+EDGE Jan Oblak | Koke | 36 | 46 | 40
+EDGE Jan Oblak | Nikola Kalinić | 8 | 46 | 12
+EDGE Jan Oblak | José María Giménez | 24 | 46 | 26
+EDGE Jan Oblak | Diego Costa | 19 | 46 | 19
+EDGE Jan Oblak | Juanfran Torres | 23 | 46 | 26
+EDGE Jan Oblak | Javi Montero | 4 | 46 | 7
+EDGE Jan Oblak | Álvaro Morata | 14 | 46 | 14
+EDGE Jan Oblak | Andrés Solano | 1 | 46 | 1
+EDGE Jan Oblak | Vitolo | 5 | 46 | 7
+EDGE Jan Oblak | Carlos Isaac | 1 | 46 | 1
+EDGE Jan Oblak | Toni Moya | 1 | 46 | 2
+EDGE Stefan Savic | Lucas Hernández | 9 | 21 | 20
+EDGE Stefan Savic | Filipe Luís | 10 | 21 | 28
+EDGE Stefan Savic | Santiago Arias | 14 | 21 | 28
+EDGE Stefan Savic | Rodri | 17 | 21 | 41
+EDGE Stefan Savic | Saúl Ñíguez | 17 | 21 | 43
+EDGE Stefan Savic | Thomas Lemar | 14 | 21 | 31
+EDGE Stefan Savic | Ángel Correa | 13 | 21 | 25
+EDGE Stefan Savic | Gelson Martins | 3 | 21 | 4
+EDGE Stefan Savic | Antoine Griezmann | 19 | 21 | 47
+EDGE Stefan Savic | Diego Godín | 12 | 21 | 37
+EDGE Stefan Savic | Thomas Partey | 10 | 21 | 30
+EDGE Stefan Savic | Koke | 16 | 21 | 40
+EDGE Stefan Savic | Nikola Kalinić | 6 | 21 | 12
+EDGE Stefan Savic | José María Giménez | 3 | 21 | 26
+EDGE Stefan Savic | Álvaro Morata | 4 | 21 | 14
+EDGE Stefan Savic | Juanfran Torres | 8 | 21 | 26
+EDGE Stefan Savic | Diego Costa | 7 | 21 | 19
+EDGE Stefan Savic | Andrés Solano | 1 | 21 | 1
+EDGE Stefan Savic | Vitolo | 4 | 21 | 7
+EDGE Stefan Savic | Antonio Adán | 2 | 21 | 5
+EDGE Stefan Savic | Javi Montero | 1 | 21 | 7
+EDGE Stefan Savic | Toni Moya | 1 | 21 | 2
+EDGE Lucas Hernández | Filipe Luís | 8 | 20 | 28
+EDGE Lucas Hernández | Santiago Arias | 12 | 20 | 28
+EDGE Lucas Hernández | Rodri | 16 | 20 | 41
+EDGE Lucas Hernández | Saúl Ñíguez | 17 | 20 | 43
+EDGE Lucas Hernández | Thomas Lemar | 15 | 20 | 31
+EDGE Lucas Hernández | Ángel Correa | 11 | 20 | 25
+EDGE Lucas Hernández | Gelson Martins | 2 | 20 | 4
+EDGE Lucas Hernández | Antoine Griezmann | 19 | 20 | 47
+EDGE Lucas Hernández | Diego Godín | 10 | 20 | 37
+EDGE Lucas Hernández | José María Giménez | 9 | 20 | 26
+EDGE Lucas Hernández | Thomas Partey | 11 | 20 | 30
+EDGE Lucas Hernández | Koke | 13 | 20 | 40
+EDGE Lucas Hernández | Diego Costa | 9 | 20 | 19
+EDGE Lucas Hernández | Juanfran Torres | 9 | 20 | 26
+EDGE Lucas Hernández | Nikola Kalinić | 6 | 20 | 12
+EDGE Lucas Hernández | Álvaro Morata | 2 | 20 | 14
+EDGE Lucas Hernández | Antonio Adán | 1 | 20 | 5
+EDGE Lucas Hernández | Toni Moya | 1 | 20 | 2
+EDGE Lucas Hernández | Vitolo | 1 | 20 | 7
+EDGE Filipe Luís | Santiago Arias | 10 | 28 | 28
+EDGE Filipe Luís | Rodri | 22 | 28 | 41
+EDGE Filipe Luís | Saúl Ñíguez | 25 | 28 | 43
+EDGE Filipe Luís | Thomas Lemar | 16 | 28 | 31
+EDGE Filipe Luís | Ángel Correa | 11 | 28 | 25
+EDGE Filipe Luís | Gelson Martins | 1 | 28 | 4
+EDGE Filipe Luís | Antoine Griezmann | 28 | 28 | 47
+EDGE Filipe Luís | José María Giménez | 14 | 28 | 26
+EDGE Filipe Luís | Koke | 24 | 28 | 40
+EDGE Filipe Luís | Álvaro Morata | 9 | 28 | 14
+EDGE Filipe Luís | Diego Godín | 20 | 28 | 37
+EDGE Filipe Luís | Juanfran Torres | 16 | 28 | 26
+EDGE Filipe Luís | Diego Costa | 12 | 28 | 19
+EDGE Filipe Luís | Thomas Partey | 14 | 28 | 30
+EDGE Filipe Luís | Nikola Kalinić | 4 | 28 | 12
+EDGE Filipe Luís | Javi Montero | 4 | 28 | 7
+EDGE Filipe Luís | Carlos Isaac | 1 | 28 | 1
+EDGE Filipe Luís | Antonio Adán | 1 | 28 | 5
+EDGE Filipe Luís | Vitolo | 2 | 28 | 7
+EDGE Filipe Luís | Toni Moya | 1 | 28 | 2
+EDGE Santiago Arias | Rodri | 23 | 28 | 41
+EDGE Santiago Arias | Saúl Ñíguez | 22 | 28 | 43
+EDGE Santiago Arias | Thomas Lemar | 17 | 28 | 31
+EDGE Santiago Arias | Ángel Correa | 16 | 28 | 25
+EDGE Santiago Arias | Gelson Martins | 4 | 28 | 4
+EDGE Santiago Arias | Antoine Griezmann | 24 | 28 | 47
+EDGE Santiago Arias | Diego Godín | 18 | 28 | 37
+EDGE Santiago Arias | Thomas Partey | 19 | 28 | 30
+EDGE Santiago Arias | Koke | 19 | 28 | 40
+EDGE Santiago Arias | Nikola Kalinić | 9 | 28 | 12
+EDGE Santiago Arias | José María Giménez | 14 | 28 | 26
+EDGE Santiago Arias | Diego Costa | 6 | 28 | 19
+EDGE Santiago Arias | Antonio Adán | 4 | 28 | 5
+EDGE Santiago Arias | Juanfran Torres | 5 | 28 | 26
+EDGE Santiago Arias | Javi Montero | 4 | 28 | 7
+EDGE Santiago Arias | Álvaro Morata | 8 | 28 | 14
+EDGE Santiago Arias | Andrés Solano | 1 | 28 | 1
+EDGE Santiago Arias | Vitolo | 6 | 28 | 7
+EDGE Santiago Arias | Toni Moya | 1 | 28 | 2
+EDGE Rodri | Saúl Ñíguez | 34 | 41 | 43
+EDGE Rodri | Thomas Lemar | 24 | 41 | 31
+EDGE Rodri | Ángel Correa | 19 | 41 | 25
+EDGE Rodri | Gelson Martins | 3 | 41 | 4
+EDGE Rodri | Antoine Griezmann | 39 | 41 | 47
+EDGE Rodri | Diego Godín | 28 | 41 | 37
+EDGE Rodri | Thomas Partey | 22 | 41 | 30
+EDGE Rodri | Koke | 31 | 41 | 40
+EDGE Rodri | Nikola Kalinić | 10 | 41 | 12
+EDGE Rodri | José María Giménez | 20 | 41 | 26
+EDGE Rodri | Juanfran Torres | 22 | 41 | 26
+EDGE Rodri | Diego Costa | 13 | 41 | 19
+EDGE Rodri | Javi Montero | 7 | 41 | 7
+EDGE Rodri | Álvaro Morata | 11 | 41 | 14
+EDGE Rodri | Andrés Solano | 1 | 41 | 1
+EDGE Rodri | Vitolo | 6 | 41 | 7
+EDGE Rodri | Antonio Adán | 3 | 41 | 5
+EDGE Rodri | Toni Moya | 1 | 41 | 2
+EDGE Saúl Ñíguez | Thomas Lemar | 25 | 43 | 31
+EDGE Saúl Ñíguez | Ángel Correa | 18 | 43 | 25
+EDGE Saúl Ñíguez | Gelson Martins | 3 | 43 | 4
+EDGE Saúl Ñíguez | Antoine Griezmann | 40 | 43 | 47
+EDGE Saúl Ñíguez | Diego Godín | 33 | 43 | 37
+EDGE Saúl Ñíguez | Thomas Partey | 22 | 43 | 30
+EDGE Saúl Ñíguez | Koke | 35 | 43 | 40
+EDGE Saúl Ñíguez | Nikola Kalinić | 10 | 43 | 12
+EDGE Saúl Ñíguez | José María Giménez | 22 | 43 | 26
+EDGE Saúl Ñíguez | Diego Costa | 18 | 43 | 19
+EDGE Saúl Ñíguez | Antonio Adán | 3 | 43 | 5
+EDGE Saúl Ñíguez | Juanfran Torres | 22 | 43 | 26
+EDGE Saúl Ñíguez | Javi Montero | 5 | 43 | 7
+EDGE Saúl Ñíguez | Álvaro Morata | 13 | 43 | 14
+EDGE Saúl Ñíguez | Vitolo | 4 | 43 | 7
+EDGE Saúl Ñíguez | Toni Moya | 2 | 43 | 2
+EDGE Thomas Lemar | Ángel Correa | 12 | 31 | 25
+EDGE Thomas Lemar | Gelson Martins | 3 | 31 | 4
+EDGE Thomas Lemar | Antoine Griezmann | 29 | 31 | 47
+EDGE Thomas Lemar | Diego Godín | 22 | 31 | 37
+EDGE Thomas Lemar | José María Giménez | 14 | 31 | 26
+EDGE Thomas Lemar | Thomas Partey | 16 | 31 | 30
+EDGE Thomas Lemar | Koke | 24 | 31 | 40
+EDGE Thomas Lemar | Diego Costa | 11 | 31 | 19
+EDGE Thomas Lemar | Antonio Adán | 4 | 31 | 5
+EDGE Thomas Lemar | Juanfran Torres | 17 | 31 | 26
+EDGE Thomas Lemar | Nikola Kalinić | 6 | 31 | 12
+EDGE Thomas Lemar | Javi Montero | 4 | 31 | 7
+EDGE Thomas Lemar | Álvaro Morata | 8 | 31 | 14
+EDGE Thomas Lemar | Vitolo | 1 | 31 | 7
+EDGE Thomas Lemar | Carlos Isaac | 1 | 31 | 1
+EDGE Ángel Correa | Gelson Martins | 2 | 25 | 4
+EDGE Ángel Correa | Antoine Griezmann | 22 | 25 | 47
+EDGE Ángel Correa | Diego Godín | 17 | 25 | 37
+EDGE Ángel Correa | Thomas Partey | 16 | 25 | 30
+EDGE Ángel Correa | Koke | 16 | 25 | 40
+EDGE Ángel Correa | Nikola Kalinić | 7 | 25 | 12
+EDGE Ángel Correa | Antonio Adán | 3 | 25 | 5
+EDGE Ángel Correa | José María Giménez | 11 | 25 | 26
+EDGE Ángel Correa | Juanfran Torres | 10 | 25 | 26
+EDGE Ángel Correa | Diego Costa | 7 | 25 | 19
+EDGE Ángel Correa | Andrés Solano | 1 | 25 | 1
+EDGE Ángel Correa | Vitolo | 6 | 25 | 7
+EDGE Ángel Correa | Álvaro Morata | 4 | 25 | 14
+EDGE Ángel Correa | Carlos Isaac | 1 | 25 | 1
+EDGE Ángel Correa | Toni Moya | 2 | 25 | 2
+EDGE Ángel Correa | Javi Montero | 3 | 25 | 7
+EDGE Gelson Martins | Antoine Griezmann | 2 | 4 | 47
+EDGE Gelson Martins | Javi Montero | 2 | 4 | 7
+EDGE Gelson Martins | Diego Godín | 1 | 4 | 37
+EDGE Gelson Martins | Thomas Partey | 2 | 4 | 30
+EDGE Gelson Martins | Koke | 2 | 4 | 40
+EDGE Gelson Martins | Antonio Adán | 2 | 4 | 5
+EDGE Gelson Martins | Juanfran Torres | 1 | 4 | 26
+EDGE Gelson Martins | Vitolo | 2 | 4 | 7
+EDGE Gelson Martins | Nikola Kalinić | 2 | 4 | 12
+EDGE Gelson Martins | Toni Moya | 1 | 4 | 2
+EDGE Antoine Griezmann | Diego Godín | 35 | 47 | 37
+EDGE Antoine Griezmann | Thomas Partey | 27 | 47 | 30
+EDGE Antoine Griezmann | Koke | 37 | 47 | 40
+EDGE Antoine Griezmann | Nikola Kalinić | 9 | 47 | 12
+EDGE Antoine Griezmann | José María Giménez | 24 | 47 | 26
+EDGE Antoine Griezmann | Diego Costa | 19 | 47 | 19
+EDGE Antoine Griezmann | Juanfran Torres | 24 | 47 | 26
+EDGE Antoine Griezmann | Javi Montero | 6 | 47 | 7
+EDGE Antoine Griezmann | Álvaro Morata | 13 | 47 | 14
+EDGE Antoine Griezmann | Andrés Solano | 1 | 47 | 1
+EDGE Antoine Griezmann | Vitolo | 4 | 47 | 7
+EDGE Antoine Griezmann | Carlos Isaac | 1 | 47 | 1
+EDGE Antoine Griezmann | Antonio Adán | 2 | 47 | 5
+EDGE Antoine Griezmann | Toni Moya | 1 | 47 | 2
+EDGE Diego Godín | Thomas Partey | 22 | 37 | 30
+EDGE Diego Godín | Koke | 32 | 37 | 40
+EDGE Diego Godín | Nikola Kalinić | 6 | 37 | 12
+EDGE Diego Godín | José María Giménez | 20 | 37 | 26
+EDGE Diego Godín | Diego Costa | 16 | 37 | 19
+EDGE Diego Godín | Antonio Adán | 3 | 37 | 5
+EDGE Diego Godín | Juanfran Torres | 20 | 37 | 26
+EDGE Diego Godín | Javi Montero | 5 | 37 | 7
+EDGE Diego Godín | Álvaro Morata | 12 | 37 | 14
+EDGE Diego Godín | Vitolo | 3 | 37 | 7
+EDGE Diego Godín | Carlos Isaac | 1 | 37 | 1
+EDGE Thomas Partey | Koke | 22 | 30 | 40
+EDGE Thomas Partey | Nikola Kalinić | 8 | 30 | 12
+EDGE Thomas Partey | José María Giménez | 17 | 30 | 26
+EDGE Thomas Partey | Diego Costa | 10 | 30 | 19
+EDGE Thomas Partey | Antonio Adán | 3 | 30 | 5
+EDGE Thomas Partey | Juanfran Torres | 13 | 30 | 26
+EDGE Thomas Partey | Javi Montero | 5 | 30 | 7
+EDGE Thomas Partey | Andrés Solano | 1 | 30 | 1
+EDGE Thomas Partey | Vitolo | 4 | 30 | 7
+EDGE Thomas Partey | Álvaro Morata | 8 | 30 | 14
+EDGE Thomas Partey | Carlos Isaac | 1 | 30 | 1
+EDGE Koke | Nikola Kalinić | 7 | 40 | 12
+EDGE Koke | José María Giménez | 20 | 40 | 26
+EDGE Koke | Diego Costa | 17 | 40 | 19
+EDGE Koke | Antonio Adán | 4 | 40 | 5
+EDGE Koke | Juanfran Torres | 22 | 40 | 26
+EDGE Koke | Javi Montero | 5 | 40 | 7
+EDGE Koke | Álvaro Morata | 11 | 40 | 14
+EDGE Koke | Vitolo | 4 | 40 | 7
+EDGE Koke | Carlos Isaac | 1 | 40 | 1
+EDGE Koke | Toni Moya | 2 | 40 | 2
+EDGE Nikola Kalinić | Antonio Adán | 4 | 12 | 5
+EDGE Nikola Kalinić | José María Giménez | 6 | 12 | 26
+EDGE Nikola Kalinić | Juanfran Torres | 5 | 12 | 26
+EDGE Nikola Kalinić | Andrés Solano | 1 | 12 | 1
+EDGE Nikola Kalinić | Vitolo | 3 | 12 | 7
+EDGE Nikola Kalinić | Javi Montero | 2 | 12 | 7
+EDGE Nikola Kalinić | Toni Moya | 1 | 12 | 2
+EDGE José María Giménez | Diego Costa | 11 | 26 | 19
+EDGE José María Giménez | Antonio Adán | 2 | 26 | 5
+EDGE José María Giménez | Juanfran Torres | 13 | 26 | 26
+EDGE José María Giménez | Álvaro Morata | 10 | 26 | 14
+EDGE José María Giménez | Andrés Solano | 1 | 26 | 1
+EDGE José María Giménez | Vitolo | 3 | 26 | 7
+EDGE José María Giménez | Carlos Isaac | 1 | 26 | 1
+EDGE José María Giménez | Javi Montero | 1 | 26 | 7
+EDGE Diego Costa | Juanfran Torres | 11 | 19 | 26
+EDGE Diego Costa | Álvaro Morata | 2 | 19 | 14
+EDGE Diego Costa | Carlos Isaac | 1 | 19 | 1
+EDGE Diego Costa | Javi Montero | 1 | 19 | 7
+EDGE Antonio Adán | Juanfran Torres | 3 | 5 | 26
+EDGE Antonio Adán | Javi Montero | 3 | 5 | 7
+EDGE Antonio Adán | Vitolo | 2 | 5 | 7
+EDGE Antonio Adán | Toni Moya | 1 | 5 | 2
+EDGE Juanfran Torres | Álvaro Morata | 8 | 26 | 14
+EDGE Juanfran Torres | Javi Montero | 4 | 26 | 7
+EDGE Juanfran Torres | Vitolo | 3 | 26 | 7
+EDGE Juanfran Torres | Toni Moya | 1 | 26 | 2
+EDGE Javi Montero | Álvaro Morata | 1 | 7 | 14
+EDGE Javi Montero | Vitolo | 2 | 7 | 7
+EDGE Javi Montero | Toni Moya | 1 | 7 | 2
+EDGE Álvaro Morata | Vitolo | 2 | 14 | 7
+EDGE Andrés Solano | Vitolo | 1 | 1 | 7
+EDGE Vitolo | Toni Moya | 2 | 7 | 2

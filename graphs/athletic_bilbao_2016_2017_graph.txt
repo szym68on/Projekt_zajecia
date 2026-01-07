@@ -1,0 +1,262 @@
+# Graph for Java/GraphStream
+# Nodes: 24
+# Edges: 256
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Gorka Iraizoz | Aymeric Laporte | 18 | 22 | 43
+EDGE Gorka Iraizoz | Yeray Álvarez | 10 | 22 | 33
+EDGE Gorka Iraizoz | Mikel Balenziaga | 16 | 22 | 43
+EDGE Gorka Iraizoz | Óscar de Marcos | 12 | 22 | 29
+EDGE Gorka Iraizoz | Ander Iturraspe | 8 | 22 | 17
+EDGE Gorka Iraizoz | Beñat Etxebarria | 12 | 22 | 34
+EDGE Gorka Iraizoz | Raúl García | 18 | 22 | 44
+EDGE Gorka Iraizoz | Iker Muniain | 15 | 22 | 36
+EDGE Gorka Iraizoz | Iñaki Williams | 19 | 22 | 41
+EDGE Gorka Iraizoz | Aritz Aduriz | 11 | 22 | 35
+EDGE Gorka Iraizoz | Xabi Etxeita | 9 | 22 | 13
+EDGE Gorka Iraizoz | Eneko Bóveda | 11 | 22 | 21
+EDGE Gorka Iraizoz | Mikel San José | 18 | 22 | 37
+EDGE Gorka Iraizoz | Enric Saborit | 8 | 22 | 9
+EDGE Gorka Iraizoz | Iñigo Lekue | 12 | 22 | 21
+EDGE Gorka Iraizoz | Mikel Vesga | 2 | 22 | 5
+EDGE Gorka Iraizoz | Mikel Rico | 3 | 22 | 7
+EDGE Gorka Iraizoz | Javi Eraso | 6 | 22 | 7
+EDGE Gorka Iraizoz | Sabin Merino | 5 | 22 | 8
+EDGE Gorka Iraizoz | Markel Susaeta | 6 | 22 | 15
+EDGE Gorka Iraizoz | Gorka Elustondo | 1 | 22 | 2
+EDGE Aymeric Laporte | Yeray Álvarez | 26 | 43 | 33
+EDGE Aymeric Laporte | Mikel Balenziaga | 38 | 43 | 43
+EDGE Aymeric Laporte | Óscar de Marcos | 27 | 43 | 29
+EDGE Aymeric Laporte | Ander Iturraspe | 17 | 43 | 17
+EDGE Aymeric Laporte | Beñat Etxebarria | 29 | 43 | 34
+EDGE Aymeric Laporte | Raúl García | 40 | 43 | 44
+EDGE Aymeric Laporte | Iker Muniain | 30 | 43 | 36
+EDGE Aymeric Laporte | Iñaki Williams | 34 | 43 | 41
+EDGE Aymeric Laporte | Aritz Aduriz | 32 | 43 | 35
+EDGE Aymeric Laporte | Xabi Etxeita | 8 | 43 | 13
+EDGE Aymeric Laporte | Eneko Bóveda | 17 | 43 | 21
+EDGE Aymeric Laporte | Mikel San José | 33 | 43 | 37
+EDGE Aymeric Laporte | Enric Saborit | 6 | 43 | 9
+EDGE Aymeric Laporte | Kepa Arrizabalaga | 20 | 43 | 23
+EDGE Aymeric Laporte | Iñigo Lekue | 17 | 43 | 21
+EDGE Aymeric Laporte | Iago Herrerín | 5 | 43 | 5
+EDGE Aymeric Laporte | Mikel Rico | 5 | 43 | 7
+EDGE Aymeric Laporte | Markel Susaeta | 13 | 43 | 15
+EDGE Aymeric Laporte | Sabin Merino | 6 | 43 | 8
+EDGE Aymeric Laporte | Mikel Vesga | 2 | 43 | 5
+EDGE Aymeric Laporte | Javi Eraso | 5 | 43 | 7
+EDGE Aymeric Laporte | Gorka Elustondo | 2 | 43 | 2
+EDGE Yeray Álvarez | Mikel Balenziaga | 29 | 33 | 43
+EDGE Yeray Álvarez | Óscar de Marcos | 20 | 33 | 29
+EDGE Yeray Álvarez | Ander Iturraspe | 11 | 33 | 17
+EDGE Yeray Álvarez | Beñat Etxebarria | 24 | 33 | 34
+EDGE Yeray Álvarez | Raúl García | 29 | 33 | 44
+EDGE Yeray Álvarez | Iker Muniain | 26 | 33 | 36
+EDGE Yeray Álvarez | Iñaki Williams | 29 | 33 | 41
+EDGE Yeray Álvarez | Aritz Aduriz | 23 | 33 | 35
+EDGE Yeray Álvarez | Xabi Etxeita | 5 | 33 | 13
+EDGE Yeray Álvarez | Enric Saborit | 4 | 33 | 9
+EDGE Yeray Álvarez | Iñigo Lekue | 14 | 33 | 21
+EDGE Yeray Álvarez | Mikel Vesga | 4 | 33 | 5
+EDGE Yeray Álvarez | Mikel Rico | 4 | 33 | 7
+EDGE Yeray Álvarez | Javi Eraso | 2 | 33 | 7
+EDGE Yeray Álvarez | Sabin Merino | 5 | 33 | 8
+EDGE Yeray Álvarez | Kepa Arrizabalaga | 18 | 33 | 23
+EDGE Yeray Álvarez | Mikel San José | 24 | 33 | 37
+EDGE Yeray Álvarez | Iago Herrerín | 5 | 33 | 5
+EDGE Yeray Álvarez | Markel Susaeta | 9 | 33 | 15
+EDGE Yeray Álvarez | Eneko Bóveda | 9 | 33 | 21
+EDGE Mikel Balenziaga | Óscar de Marcos | 26 | 43 | 29
+EDGE Mikel Balenziaga | Ander Iturraspe | 14 | 43 | 17
+EDGE Mikel Balenziaga | Beñat Etxebarria | 32 | 43 | 34
+EDGE Mikel Balenziaga | Raúl García | 38 | 43 | 44
+EDGE Mikel Balenziaga | Iker Muniain | 31 | 43 | 36
+EDGE Mikel Balenziaga | Iñaki Williams | 37 | 43 | 41
+EDGE Mikel Balenziaga | Aritz Aduriz | 32 | 43 | 35
+EDGE Mikel Balenziaga | Xabi Etxeita | 9 | 43 | 13
+EDGE Mikel Balenziaga | Eneko Bóveda | 18 | 43 | 21
+EDGE Mikel Balenziaga | Mikel San José | 33 | 43 | 37
+EDGE Mikel Balenziaga | Enric Saborit | 3 | 43 | 9
+EDGE Mikel Balenziaga | Kepa Arrizabalaga | 22 | 43 | 23
+EDGE Mikel Balenziaga | Iñigo Lekue | 16 | 43 | 21
+EDGE Mikel Balenziaga | Iago Herrerín | 5 | 43 | 5
+EDGE Mikel Balenziaga | Mikel Rico | 5 | 43 | 7
+EDGE Mikel Balenziaga | Markel Susaeta | 13 | 43 | 15
+EDGE Mikel Balenziaga | Sabin Merino | 6 | 43 | 8
+EDGE Mikel Balenziaga | Mikel Vesga | 3 | 43 | 5
+EDGE Mikel Balenziaga | Javi Eraso | 3 | 43 | 7
+EDGE Mikel Balenziaga | Gorka Elustondo | 1 | 43 | 2
+EDGE Óscar de Marcos | Ander Iturraspe | 14 | 29 | 17
+EDGE Óscar de Marcos | Beñat Etxebarria | 22 | 29 | 34
+EDGE Óscar de Marcos | Raúl García | 28 | 29 | 44
+EDGE Óscar de Marcos | Iker Muniain | 21 | 29 | 36
+EDGE Óscar de Marcos | Iñaki Williams | 23 | 29 | 41
+EDGE Óscar de Marcos | Aritz Aduriz | 22 | 29 | 35
+EDGE Óscar de Marcos | Kepa Arrizabalaga | 14 | 29 | 23
+EDGE Óscar de Marcos | Mikel San José | 22 | 29 | 37
+EDGE Óscar de Marcos | Iñigo Lekue | 8 | 29 | 21
+EDGE Óscar de Marcos | Iago Herrerín | 3 | 29 | 5
+EDGE Óscar de Marcos | Mikel Rico | 1 | 29 | 7
+EDGE Óscar de Marcos | Markel Susaeta | 9 | 29 | 15
+EDGE Óscar de Marcos | Xabi Etxeita | 3 | 29 | 13
+EDGE Óscar de Marcos | Sabin Merino | 3 | 29 | 8
+EDGE Óscar de Marcos | Eneko Bóveda | 8 | 29 | 21
+EDGE Óscar de Marcos | Javi Eraso | 2 | 29 | 7
+EDGE Óscar de Marcos | Enric Saborit | 2 | 29 | 9
+EDGE Ander Iturraspe | Beñat Etxebarria | 7 | 17 | 34
+EDGE Ander Iturraspe | Raúl García | 16 | 17 | 44
+EDGE Ander Iturraspe | Iker Muniain | 12 | 17 | 36
+EDGE Ander Iturraspe | Iñaki Williams | 13 | 17 | 41
+EDGE Ander Iturraspe | Aritz Aduriz | 14 | 17 | 35
+EDGE Ander Iturraspe | Xabi Etxeita | 1 | 17 | 13
+EDGE Ander Iturraspe | Eneko Bóveda | 6 | 17 | 21
+EDGE Ander Iturraspe | Mikel San José | 10 | 17 | 37
+EDGE Ander Iturraspe | Enric Saborit | 3 | 17 | 9
+EDGE Ander Iturraspe | Iñigo Lekue | 7 | 17 | 21
+EDGE Ander Iturraspe | Iago Herrerín | 3 | 17 | 5
+EDGE Ander Iturraspe | Mikel Rico | 1 | 17 | 7
+EDGE Ander Iturraspe | Markel Susaeta | 5 | 17 | 15
+EDGE Ander Iturraspe | Kepa Arrizabalaga | 6 | 17 | 23
+EDGE Ander Iturraspe | Javi Eraso | 2 | 17 | 7
+EDGE Beñat Etxebarria | Raúl García | 30 | 34 | 44
+EDGE Beñat Etxebarria | Iker Muniain | 24 | 34 | 36
+EDGE Beñat Etxebarria | Iñaki Williams | 28 | 34 | 41
+EDGE Beñat Etxebarria | Aritz Aduriz | 24 | 34 | 35
+EDGE Beñat Etxebarria | Kepa Arrizabalaga | 19 | 34 | 23
+EDGE Beñat Etxebarria | Mikel San José | 26 | 34 | 37
+EDGE Beñat Etxebarria | Iñigo Lekue | 12 | 34 | 21
+EDGE Beñat Etxebarria | Iago Herrerín | 3 | 34 | 5
+EDGE Beñat Etxebarria | Xabi Etxeita | 7 | 34 | 13
+EDGE Beñat Etxebarria | Sabin Merino | 5 | 34 | 8
+EDGE Beñat Etxebarria | Markel Susaeta | 13 | 34 | 15
+EDGE Beñat Etxebarria | Eneko Bóveda | 14 | 34 | 21
+EDGE Beñat Etxebarria | Javi Eraso | 2 | 34 | 7
+EDGE Beñat Etxebarria | Enric Saborit | 4 | 34 | 9
+EDGE Beñat Etxebarria | Gorka Elustondo | 1 | 34 | 2
+EDGE Beñat Etxebarria | Mikel Rico | 1 | 34 | 7
+EDGE Beñat Etxebarria | Mikel Vesga | 1 | 34 | 5
+EDGE Raúl García | Iker Muniain | 33 | 44 | 36
+EDGE Raúl García | Iñaki Williams | 35 | 44 | 41
+EDGE Raúl García | Aritz Aduriz | 33 | 44 | 35
+EDGE Raúl García | Xabi Etxeita | 10 | 44 | 13
+EDGE Raúl García | Eneko Bóveda | 16 | 44 | 21
+EDGE Raúl García | Mikel San José | 34 | 44 | 37
+EDGE Raúl García | Enric Saborit | 6 | 44 | 9
+EDGE Raúl García | Kepa Arrizabalaga | 21 | 44 | 23
+EDGE Raúl García | Iñigo Lekue | 19 | 44 | 21
+EDGE Raúl García | Iago Herrerín | 5 | 44 | 5
+EDGE Raúl García | Mikel Rico | 5 | 44 | 7
+EDGE Raúl García | Markel Susaeta | 12 | 44 | 15
+EDGE Raúl García | Sabin Merino | 4 | 44 | 8
+EDGE Raúl García | Mikel Vesga | 3 | 44 | 5
+EDGE Raúl García | Gorka Elustondo | 2 | 44 | 2
+EDGE Raúl García | Javi Eraso | 3 | 44 | 7
+EDGE Iker Muniain | Iñaki Williams | 28 | 36 | 41
+EDGE Iker Muniain | Aritz Aduriz | 23 | 36 | 35
+EDGE Iker Muniain | Xabi Etxeita | 8 | 36 | 13
+EDGE Iker Muniain | Enric Saborit | 5 | 36 | 9
+EDGE Iker Muniain | Iñigo Lekue | 17 | 36 | 21
+EDGE Iker Muniain | Mikel Vesga | 3 | 36 | 5
+EDGE Iker Muniain | Mikel Rico | 5 | 36 | 7
+EDGE Iker Muniain | Javi Eraso | 2 | 36 | 7
+EDGE Iker Muniain | Sabin Merino | 4 | 36 | 8
+EDGE Iker Muniain | Iago Herrerín | 4 | 36 | 5
+EDGE Iker Muniain | Mikel San José | 29 | 36 | 37
+EDGE Iker Muniain | Markel Susaeta | 9 | 36 | 15
+EDGE Iker Muniain | Kepa Arrizabalaga | 17 | 36 | 23
+EDGE Iker Muniain | Eneko Bóveda | 13 | 36 | 21
+EDGE Iker Muniain | Gorka Elustondo | 1 | 36 | 2
+EDGE Iñaki Williams | Aritz Aduriz | 27 | 41 | 35
+EDGE Iñaki Williams | Xabi Etxeita | 10 | 41 | 13
+EDGE Iñaki Williams | Eneko Bóveda | 18 | 41 | 21
+EDGE Iñaki Williams | Mikel San José | 32 | 41 | 37
+EDGE Iñaki Williams | Enric Saborit | 6 | 41 | 9
+EDGE Iñaki Williams | Iñigo Lekue | 18 | 41 | 21
+EDGE Iñaki Williams | Mikel Vesga | 4 | 41 | 5
+EDGE Iñaki Williams | Mikel Rico | 5 | 41 | 7
+EDGE Iñaki Williams | Javi Eraso | 5 | 41 | 7
+EDGE Iñaki Williams | Sabin Merino | 8 | 41 | 8
+EDGE Iñaki Williams | Kepa Arrizabalaga | 18 | 41 | 23
+EDGE Iñaki Williams | Iago Herrerín | 4 | 41 | 5
+EDGE Iñaki Williams | Markel Susaeta | 9 | 41 | 15
+EDGE Aritz Aduriz | Xabi Etxeita | 7 | 35 | 13
+EDGE Aritz Aduriz | Eneko Bóveda | 14 | 35 | 21
+EDGE Aritz Aduriz | Mikel San José | 23 | 35 | 37
+EDGE Aritz Aduriz | Enric Saborit | 3 | 35 | 9
+EDGE Aritz Aduriz | Kepa Arrizabalaga | 20 | 35 | 23
+EDGE Aritz Aduriz | Iñigo Lekue | 11 | 35 | 21
+EDGE Aritz Aduriz | Iago Herrerín | 4 | 35 | 5
+EDGE Aritz Aduriz | Mikel Rico | 5 | 35 | 7
+EDGE Aritz Aduriz | Markel Susaeta | 11 | 35 | 15
+EDGE Aritz Aduriz | Mikel Vesga | 4 | 35 | 5
+EDGE Aritz Aduriz | Javi Eraso | 3 | 35 | 7
+EDGE Aritz Aduriz | Gorka Elustondo | 2 | 35 | 2
+EDGE Aritz Aduriz | Sabin Merino | 2 | 35 | 8
+EDGE Xabi Etxeita | Eneko Bóveda | 5 | 13 | 21
+EDGE Xabi Etxeita | Mikel San José | 9 | 13 | 37
+EDGE Xabi Etxeita | Enric Saborit | 6 | 13 | 9
+EDGE Xabi Etxeita | Iñigo Lekue | 5 | 13 | 21
+EDGE Xabi Etxeita | Mikel Vesga | 3 | 13 | 5
+EDGE Xabi Etxeita | Mikel Rico | 5 | 13 | 7
+EDGE Xabi Etxeita | Javi Eraso | 5 | 13 | 7
+EDGE Xabi Etxeita | Sabin Merino | 5 | 13 | 8
+EDGE Xabi Etxeita | Kepa Arrizabalaga | 4 | 13 | 23
+EDGE Xabi Etxeita | Markel Susaeta | 4 | 13 | 15
+EDGE Xabi Etxeita | Gorka Elustondo | 2 | 13 | 2
+EDGE Eneko Bóveda | Mikel San José | 15 | 21 | 37
+EDGE Eneko Bóveda | Enric Saborit | 6 | 21 | 9
+EDGE Eneko Bóveda | Kepa Arrizabalaga | 10 | 21 | 23
+EDGE Eneko Bóveda | Iñigo Lekue | 9 | 21 | 21
+EDGE Eneko Bóveda | Markel Susaeta | 6 | 21 | 15
+EDGE Eneko Bóveda | Mikel Vesga | 4 | 21 | 5
+EDGE Eneko Bóveda | Mikel Rico | 2 | 21 | 7
+EDGE Eneko Bóveda | Javi Eraso | 5 | 21 | 7
+EDGE Eneko Bóveda | Gorka Elustondo | 1 | 21 | 2
+EDGE Eneko Bóveda | Sabin Merino | 3 | 21 | 8
+EDGE Mikel San José | Enric Saborit | 6 | 37 | 9
+EDGE Mikel San José | Kepa Arrizabalaga | 16 | 37 | 23
+EDGE Mikel San José | Iñigo Lekue | 18 | 37 | 21
+EDGE Mikel San José | Iago Herrerín | 3 | 37 | 5
+EDGE Mikel San José | Sabin Merino | 6 | 37 | 8
+EDGE Mikel San José | Markel Susaeta | 8 | 37 | 15
+EDGE Mikel San José | Javi Eraso | 3 | 37 | 7
+EDGE Mikel San José | Mikel Rico | 2 | 37 | 7
+EDGE Enric Saborit | Iñigo Lekue | 5 | 9 | 21
+EDGE Enric Saborit | Mikel Vesga | 2 | 9 | 5
+EDGE Enric Saborit | Mikel Rico | 2 | 9 | 7
+EDGE Enric Saborit | Javi Eraso | 5 | 9 | 7
+EDGE Enric Saborit | Sabin Merino | 3 | 9 | 8
+EDGE Enric Saborit | Markel Susaeta | 3 | 9 | 15
+EDGE Enric Saborit | Gorka Elustondo | 1 | 9 | 2
+EDGE Enric Saborit | Kepa Arrizabalaga | 1 | 9 | 23
+EDGE Iñigo Lekue | Mikel Vesga | 2 | 21 | 5
+EDGE Iñigo Lekue | Mikel Rico | 3 | 21 | 7
+EDGE Iñigo Lekue | Javi Eraso | 3 | 21 | 7
+EDGE Iñigo Lekue | Sabin Merino | 2 | 21 | 8
+EDGE Iñigo Lekue | Kepa Arrizabalaga | 7 | 21 | 23
+EDGE Iñigo Lekue | Iago Herrerín | 2 | 21 | 5
+EDGE Iñigo Lekue | Markel Susaeta | 3 | 21 | 15
+EDGE Mikel Vesga | Mikel Rico | 3 | 5 | 7
+EDGE Mikel Vesga | Javi Eraso | 3 | 5 | 7
+EDGE Mikel Vesga | Sabin Merino | 2 | 5 | 8
+EDGE Mikel Vesga | Kepa Arrizabalaga | 3 | 5 | 23
+EDGE Mikel Vesga | Gorka Elustondo | 1 | 5 | 2
+EDGE Mikel Vesga | Markel Susaeta | 1 | 5 | 15
+EDGE Mikel Rico | Javi Eraso | 3 | 7 | 7
+EDGE Mikel Rico | Sabin Merino | 3 | 7 | 8
+EDGE Mikel Rico | Iago Herrerín | 1 | 7 | 5
+EDGE Mikel Rico | Markel Susaeta | 2 | 7 | 15
+EDGE Mikel Rico | Kepa Arrizabalaga | 3 | 7 | 23
+EDGE Mikel Rico | Gorka Elustondo | 1 | 7 | 2
+EDGE Javi Eraso | Sabin Merino | 4 | 7 | 8
+EDGE Javi Eraso | Markel Susaeta | 2 | 7 | 15
+EDGE Javi Eraso | Gorka Elustondo | 1 | 7 | 2
+EDGE Javi Eraso | Kepa Arrizabalaga | 1 | 7 | 23
+EDGE Sabin Merino | Iago Herrerín | 1 | 8 | 5
+EDGE Sabin Merino | Kepa Arrizabalaga | 2 | 8 | 23
+EDGE Sabin Merino | Markel Susaeta | 1 | 8 | 15
+EDGE Kepa Arrizabalaga | Markel Susaeta | 7 | 23 | 15
+EDGE Kepa Arrizabalaga | Gorka Elustondo | 1 | 23 | 2
+EDGE Iago Herrerín | Markel Susaeta | 2 | 5 | 15
+EDGE Markel Susaeta | Gorka Elustondo | 2 | 15 | 2

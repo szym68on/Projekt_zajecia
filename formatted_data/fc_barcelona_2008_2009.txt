@@ -1,0 +1,190 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 923733 | wt., 16.09.2008 | Sporting CP
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Carles Puyol, Dani Alves, Seydou Keita, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 920609 | niedz., 22.03.2009 | Málaga CF
+PLAYERS: Víctor Valdés, Martín Cáceres, Rafa Márquez, Sylvinho, Dani Alves, Yaya Touré, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 920391 | sob., 04.10.2008 | Atlético Madryt
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Éric Abidal, Carles Puyol, Sergio Busquets, Andrés Iniesta, Xavi, Samuel Eto'o, Lionel Messi, Eidur Gudjohnsen
+
+MATCH: 920448 | niedz., 23.11.2008 | Getafe CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Sylvinho, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Bojan Krkic, Aleksandr Hleb, Samuel Eto'o
+
+MATCH: 933247 | śr., 11.03.2009 | Olympique Lyon
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Sylvinho, Dani Alves, Yaya Touré, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 934387 | śr., 21.01.2009 | RCD Espanyol
+PLAYERS: José Manuel Pinto, Rafa Márquez, Carles Puyol, Sylvinho, Martín Cáceres, Sergio Busquets, Seydou Keita, Andrés Iniesta, Aleksandr Hleb, Bojan Krkic, Eidur Gudjohnsen
+
+MATCH: 923567 | wt., 26.08.2008 | Wisła Kraków
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Thierry Henry, Andrés Iniesta, Samuel Eto'o
+
+MATCH: 920667 | sob., 02.05.2009 | Real Madryt
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Yaya Touré, Andrés Iniesta, Xavi, Thierry Henry, Samuel Eto'o, Lionel Messi
+
+MATCH: 923916 | wt., 09.12.2008 | Szachtar Donieck
+PLAYERS: Albert Jorquera, Gerard Piqué, Sergio Busquets, Sylvinho, Martín Cáceres, Seydou Keita, Víctor Sánchez, Víctor Vázquez, Aleksandr Hleb, Pedro, Bojan Krkic
+
+MATCH: 934391 | czw., 29.01.2009 | RCD Espanyol
+PLAYERS: José Manuel Pinto, Gerard Piqué, Carles Puyol, Sylvinho, Dani Alves, Sergio Busquets, Xavi, Aleksandr Hleb, Bojan Krkic, Lionel Messi, Eidur Gudjohnsen
+
+MATCH: 920438 | niedz., 16.11.2008 | Recreativo Huelva
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Carles Puyol, Dani Alves, Yaya Touré, Sergio Busquets, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 935798 | śr., 04.03.2009 | RCD Mallorca
+PLAYERS: José Manuel Pinto, Gerard Piqué, Carles Puyol, Martín Cáceres, Dani Alves, Sergio Busquets, Seydou Keita, Yaya Touré, Andrés Iniesta, Aleksandr Hleb, Bojan Krkic
+
+MATCH: 920362 | niedz., 21.09.2008 | Sporting Gijón
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Andrés Iniesta, Lionel Messi, Samuel Eto'o
+
+MATCH: 920343 | niedz., 31.08.2008 | CD Numancia
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Éric Abidal, Dani Alves, Yaya Touré, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 920488 | niedz., 21.12.2008 | Villarreal CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 920400 | niedz., 19.10.2008 | Athletic Bilbao
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Éric Abidal, Dani Alves, Yaya Touré, Seydou Keita, Víctor Sánchez, Thierry Henry, Andrés Iniesta, Samuel Eto'o
+
+MATCH: 920571 | sob., 21.02.2009 | RCD Espanyol
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Éric Abidal, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 920509 | niedz., 11.01.2009 | CA Osasuna
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 920628 | sob., 11.04.2009 | Recreativo Huelva
+PLAYERS: Víctor Valdés, Martín Cáceres, Rafa Márquez, Sylvinho, Dani Alves, Sergio Busquets, Andrés Iniesta, Eidur Gudjohnsen, Thierry Henry, Lionel Messi, Bojan Krkic
+
+MATCH: 920657 | sob., 25.04.2009 | Valencia CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Andrés Iniesta, Lionel Messi, Samuel Eto'o
+
+MATCH: 946099 | śr., 27.05.2009 | Manchester United
+PLAYERS: Víctor Valdés, Gerard Piqué, Yaya Touré, Sylvinho, Carles Puyol, Sergio Busquets, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 920638 | sob., 18.04.2009 | Getafe CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Carles Puyol, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 920600 | niedz., 15.03.2009 | UD Almería
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Sylvinho, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Andrés Iniesta, Lionel Messi, Bojan Krkic
+
+MATCH: 926959 | wt., 28.10.2008 | Benidorm CD
+PLAYERS: José Manuel Pinto, Martín Cáceres, Gerard Piqué, Éric Abidal, Dani Alves, Sergio Busquets, Yaya Touré, Víctor Sánchez, Sylvinho, Aleksandr Hleb, Bojan Krkic
+
+MATCH: 923861 | śr., 01.10.2008 | Szachtar Donieck
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Carles Puyol, Dani Alves, Seydou Keita, Xavi, Yaya Touré, Thierry Henry, Andrés Iniesta, Samuel Eto'o
+
+MATCH: 920501 | sob., 03.01.2009 | RCD Mallorca
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Éric Abidal, Víctor Sánchez, Yaya Touré, Xavi, Eidur Gudjohnsen, Thierry Henry, Aleksandr Hleb, Samuel Eto'o
+
+MATCH: 920457 | sob., 29.11.2008 | Sevilla FC
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Carles Puyol, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 940387 | wt., 14.04.2009 | Bayern Monachium
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Andrés Iniesta, Lionel Messi, Samuel Eto'o
+
+MATCH: 940383 | śr., 08.04.2009 | Bayern Monachium
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Carles Puyol, Dani Alves, Yaya Touré, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 923876 | śr., 22.10.2008 | FC Basel 1893
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Dani Alves, Sergio Busquets, Xavi, Yaya Touré, Aleksandr Hleb, Bojan Krkic, Lionel Messi
+
+MATCH: 933239 | wt., 24.02.2009 | Olympique Lyon
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Carles Puyol, Dani Alves, Yaya Touré, Sergio Busquets, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 920429 | sob., 08.11.2008 | Real Valladolid CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Carles Puyol, Dani Alves, Yaya Touré, Xavi, Eidur Gudjohnsen, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 920581 | niedz., 01.03.2009 | Atlético Madryt
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Sylvinho, Dani Alves, Yaya Touré, Xavi, Eidur Gudjohnsen, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 923884 | wt., 04.11.2008 | FC Basel 1893
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Sylvinho, Carles Puyol, Sergio Busquets, Andrés Iniesta, Víctor Sánchez, Aleksandr Hleb, Bojan Krkic, Thierry Henry
+
+MATCH: 920477 | sob., 13.12.2008 | Real Madryt
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Éric Abidal, Dani Alves, Yaya Touré, Xavi, Eidur Gudjohnsen, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 923560 | śr., 13.08.2008 | Wisła Kraków
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Éric Abidal, Dani Alves, Seydou Keita, Andrés Iniesta, Xavi, Thierry Henry, Pedro, Samuel Eto'o
+
+MATCH: 920419 | sob., 01.11.2008 | Málaga CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Carles Puyol, Dani Alves, Yaya Touré, Sergio Busquets, Xavi, Andrés Iniesta, Lionel Messi, Samuel Eto'o
+
+MATCH: 920590 | sob., 07.03.2009 | Athletic Bilbao
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Sylvinho, Carles Puyol, Sergio Busquets, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 920709 | sob., 30.05.2009 | Deportivo de La Coruña
+PLAYERS: José Manuel Pinto, Gerard Piqué, Yaya Touré, Sylvinho, Martín Cáceres, Seydou Keita, Xavi, Eidur Gudjohnsen, Aleksandr Hleb, Bojan Krkic, Samuel Eto'o
+
+MATCH: 923908 | śr., 26.11.2008 | Sporting CP
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Martín Cáceres, Dani Alves, Sergio Busquets, Xavi, Aleksandr Hleb, Thierry Henry, Lionel Messi, Eidur Gudjohnsen
+
+MATCH: 945978 | śr., 06.05.2009 | Chelsea FC
+PLAYERS: Víctor Valdés, Gerard Piqué, Yaya Touré, Éric Abidal, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Andrés Iniesta, Lionel Messi, Samuel Eto'o
+
+MATCH: 931759 | wt., 06.01.2009 | Atlético Madryt
+PLAYERS: José Manuel Pinto, Martín Cáceres, Gerard Piqué, Sylvinho, Dani Alves, Sergio Busquets, Seydou Keita, Yaya Touré, Andrés Iniesta, Lionel Messi, Bojan Krkic
+
+MATCH: 920699 | sob., 23.05.2009 | CA Osasuna
+PLAYERS: José Manuel Pinto, Martín Cáceres, Éric Abidal, Sylvinho, Víctor Sánchez, Xavi Torres, Aleksandr Hleb, Eidur Gudjohnsen, Pedro, Bojan Krkic, Samuel Eto'o
+
+MATCH: 920619 | sob., 04.04.2009 | Real Valladolid CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Sylvinho, Carles Puyol, Sergio Busquets, Seydou Keita, Xavi, Andrés Iniesta, Pedro, Samuel Eto'o
+
+MATCH: 920519 | sob., 17.01.2009 | Deportivo de La Coruña
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 931767 | śr., 14.01.2009 | Atlético Madryt
+PLAYERS: José Manuel Pinto, Martín Cáceres, Rafa Márquez, Sylvinho, Dani Alves, Sergio Busquets, Andrés Iniesta, Yaya Touré, Aleksandr Hleb, Bojan Krkic, Eidur Gudjohnsen
+
+MATCH: 920562 | sob., 14.02.2009 | Real Betis Balompié
+PLAYERS: Víctor Valdés, Martín Cáceres, Gerard Piqué, Éric Abidal, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Andrés Iniesta, Aleksandr Hleb, Samuel Eto'o
+
+MATCH: 935796 | czw., 05.02.2009 | RCD Mallorca
+PLAYERS: José Manuel Pinto, Gerard Piqué, Rafa Márquez, Sylvinho, Dani Alves, Yaya Touré, Andrés Iniesta, Aleksandr Hleb, Thierry Henry, Bojan Krkic, Eidur Gudjohnsen
+
+MATCH: 938294 | śr., 13.05.2009 | Athletic Bilbao
+PLAYERS: José Manuel Pinto, Gerard Piqué, Yaya Touré, Carles Puyol, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Bojan Krkic, Lionel Messi, Samuel Eto'o
+
+MATCH: 920467 | sob., 06.12.2008 | Valencia CF
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Éric Abidal, Dani Alves, Yaya Touré, Xavi, Aleksandr Hleb, Thierry Henry, Lionel Messi, Eidur Gudjohnsen
+
+MATCH: 920372 | śr., 24.09.2008 | Real Betis Balompié
+PLAYERS: Víctor Valdés, Martín Cáceres, Rafa Márquez, Éric Abidal, Dani Alves, Seydou Keita, Xavi, Yaya Touré, Andrés Iniesta, Lionel Messi, Samuel Eto'o
+
+MATCH: 920353 | sob., 13.09.2008 | Racing Santander
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Aleksandr Hleb, Pedro, Samuel Eto'o
+
+MATCH: 920688 | niedz., 17.05.2009 | RCD Mallorca
+PLAYERS: Oier Olazábal, Martín Cáceres, Éric Abidal, Sylvinho, Dani Alves, Xavi Torres, Aleksandr Hleb, Eidur Gudjohnsen, Pedro, Bojan Krkic, Samuel Eto'o
+
+MATCH: 945359 | wt., 28.04.2009 | Chelsea FC
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Éric Abidal, Dani Alves, Yaya Touré, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 920543 | niedz., 01.02.2009 | Racing Santander
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Éric Abidal, Dani Alves, Yaya Touré, Sergio Busquets, Xavi, Andrés Iniesta, Samuel Eto'o, Thierry Henry
+
+MATCH: 920533 | sob., 24.01.2009 | CD Numancia
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Yaya Touré, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 920381 | sob., 27.09.2008 | RCD Espanyol
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Eidur Gudjohnsen
+
+MATCH: 920552 | niedz., 08.02.2009 | Sporting Gijón
+PLAYERS: Víctor Valdés, Martín Cáceres, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 920647 | śr., 22.04.2009 | Sevilla FC
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Éric Abidal, Dani Alves, Seydou Keita, Andrés Iniesta, Xavi, Yaya Touré, Thierry Henry, Samuel Eto'o
+
+MATCH: 920410 | sob., 25.10.2008 | UD Almería
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Éric Abidal, Dani Alves, Yaya Touré, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Samuel Eto'o
+
+MATCH: 920678 | niedz., 10.05.2009 | Villarreal CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Andrés Iniesta, Lionel Messi, Samuel Eto'o
+
+MATCH: 926975 | śr., 12.11.2008 | Benidorm CD
+PLAYERS: José Manuel Pinto, Martín Cáceres, Carles Puyol, Sylvinho, Dani Alves, Sergio Busquets, Seydou Keita, Aleksandr Hleb, Bojan Krkic, Lionel Messi, Eidur Gudjohnsen
+

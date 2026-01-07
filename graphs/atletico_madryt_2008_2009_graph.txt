@@ -1,0 +1,234 @@
+# Graph for Java/GraphStream
+# Nodes: 22
+# Edges: 228
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Leo Franco | Luis Amaranto Perea | 27 | 41 | 35
+EDGE Leo Franco | Pablo Ibáñez | 20 | 41 | 23
+EDGE Leo Franco | Mariano Pernía | 25 | 41 | 32
+EDGE Leo Franco | Tomas Ujfalusi | 33 | 41 | 40
+EDGE Leo Franco | Paulo Assunção | 36 | 41 | 41
+EDGE Leo Franco | Raúl García | 27 | 41 | 34
+EDGE Leo Franco | Simão | 35 | 41 | 42
+EDGE Leo Franco | Florent Sinama-Pongolle | 12 | 41 | 20
+EDGE Leo Franco | Diego Forlán | 38 | 41 | 42
+EDGE Leo Franco | Sergio Agüero | 34 | 41 | 42
+EDGE Leo Franco | Antonio López | 21 | 41 | 26
+EDGE Leo Franco | John Heitinga | 28 | 41 | 33
+EDGE Leo Franco | Maxi Rodríguez | 29 | 41 | 38
+EDGE Leo Franco | Maniche | 16 | 41 | 22
+EDGE Leo Franco | Luis García | 5 | 41 | 10
+EDGE Leo Franco | Éver Banega | 4 | 41 | 8
+EDGE Leo Franco | Álvaro Domínguez | 4 | 41 | 5
+EDGE Leo Franco | Georgios Seitaridis | 8 | 41 | 16
+EDGE Leo Franco | Ignacio Camacho | 5 | 41 | 7
+EDGE Leo Franco | Miguel de las Cuevas | 3 | 41 | 4
+EDGE Luis Amaranto Perea | Pablo Ibáñez | 12 | 35 | 23
+EDGE Luis Amaranto Perea | Mariano Pernía | 21 | 35 | 32
+EDGE Luis Amaranto Perea | Tomas Ujfalusi | 25 | 35 | 40
+EDGE Luis Amaranto Perea | Paulo Assunção | 28 | 35 | 41
+EDGE Luis Amaranto Perea | Raúl García | 25 | 35 | 34
+EDGE Luis Amaranto Perea | Simão | 27 | 35 | 42
+EDGE Luis Amaranto Perea | Florent Sinama-Pongolle | 17 | 35 | 20
+EDGE Luis Amaranto Perea | Diego Forlán | 26 | 35 | 42
+EDGE Luis Amaranto Perea | Sergio Agüero | 27 | 35 | 42
+EDGE Luis Amaranto Perea | John Heitinga | 22 | 35 | 33
+EDGE Luis Amaranto Perea | Antonio López | 20 | 35 | 26
+EDGE Luis Amaranto Perea | Maniche | 15 | 35 | 22
+EDGE Luis Amaranto Perea | Luis García | 8 | 35 | 10
+EDGE Luis Amaranto Perea | Éver Banega | 6 | 35 | 8
+EDGE Luis Amaranto Perea | Maxi Rodríguez | 23 | 35 | 38
+EDGE Luis Amaranto Perea | Grégory Coupet | 8 | 35 | 11
+EDGE Luis Amaranto Perea | Ignacio Camacho | 3 | 35 | 7
+EDGE Luis Amaranto Perea | Miguel de las Cuevas | 3 | 35 | 4
+EDGE Luis Amaranto Perea | Álvaro Domínguez | 1 | 35 | 5
+EDGE Luis Amaranto Perea | Georgios Seitaridis | 6 | 35 | 16
+EDGE Pablo Ibáñez | Mariano Pernía | 13 | 23 | 32
+EDGE Pablo Ibáñez | Tomas Ujfalusi | 16 | 23 | 40
+EDGE Pablo Ibáñez | Paulo Assunção | 18 | 23 | 41
+EDGE Pablo Ibáñez | Raúl García | 18 | 23 | 34
+EDGE Pablo Ibáñez | Simão | 18 | 23 | 42
+EDGE Pablo Ibáñez | Florent Sinama-Pongolle | 11 | 23 | 20
+EDGE Pablo Ibáñez | Diego Forlán | 19 | 23 | 42
+EDGE Pablo Ibáñez | Sergio Agüero | 20 | 23 | 42
+EDGE Pablo Ibáñez | Antonio López | 14 | 23 | 26
+EDGE Pablo Ibáñez | John Heitinga | 9 | 23 | 33
+EDGE Pablo Ibáñez | Maxi Rodríguez | 14 | 23 | 38
+EDGE Pablo Ibáñez | Grégory Coupet | 3 | 23 | 11
+EDGE Pablo Ibáñez | Álvaro Domínguez | 2 | 23 | 5
+EDGE Pablo Ibáñez | Georgios Seitaridis | 5 | 23 | 16
+EDGE Pablo Ibáñez | Ignacio Camacho | 5 | 23 | 7
+EDGE Pablo Ibáñez | Éver Banega | 4 | 23 | 8
+EDGE Pablo Ibáñez | Luis García | 4 | 23 | 10
+EDGE Pablo Ibáñez | Miguel de las Cuevas | 2 | 23 | 4
+EDGE Pablo Ibáñez | Maniche | 3 | 23 | 22
+EDGE Mariano Pernía | Tomas Ujfalusi | 23 | 32 | 40
+EDGE Mariano Pernía | Paulo Assunção | 27 | 32 | 41
+EDGE Mariano Pernía | Raúl García | 19 | 32 | 34
+EDGE Mariano Pernía | Simão | 25 | 32 | 42
+EDGE Mariano Pernía | Florent Sinama-Pongolle | 10 | 32 | 20
+EDGE Mariano Pernía | Diego Forlán | 27 | 32 | 42
+EDGE Mariano Pernía | Sergio Agüero | 24 | 32 | 42
+EDGE Mariano Pernía | John Heitinga | 22 | 32 | 33
+EDGE Mariano Pernía | Éver Banega | 5 | 32 | 8
+EDGE Mariano Pernía | Maniche | 18 | 32 | 22
+EDGE Mariano Pernía | Grégory Coupet | 7 | 32 | 11
+EDGE Mariano Pernía | Álvaro Domínguez | 3 | 32 | 5
+EDGE Mariano Pernía | Georgios Seitaridis | 10 | 32 | 16
+EDGE Mariano Pernía | Ignacio Camacho | 3 | 32 | 7
+EDGE Mariano Pernía | Luis García | 5 | 32 | 10
+EDGE Mariano Pernía | Miguel de las Cuevas | 4 | 32 | 4
+EDGE Mariano Pernía | Maxi Rodríguez | 23 | 32 | 38
+EDGE Mariano Pernía | Antonio López | 6 | 32 | 26
+EDGE Tomas Ujfalusi | Paulo Assunção | 34 | 40 | 41
+EDGE Tomas Ujfalusi | Raúl García | 28 | 40 | 34
+EDGE Tomas Ujfalusi | Simão | 33 | 40 | 42
+EDGE Tomas Ujfalusi | Florent Sinama-Pongolle | 14 | 40 | 20
+EDGE Tomas Ujfalusi | Diego Forlán | 32 | 40 | 42
+EDGE Tomas Ujfalusi | Sergio Agüero | 36 | 40 | 42
+EDGE Tomas Ujfalusi | Antonio López | 19 | 40 | 26
+EDGE Tomas Ujfalusi | John Heitinga | 26 | 40 | 33
+EDGE Tomas Ujfalusi | Maxi Rodríguez | 30 | 40 | 38
+EDGE Tomas Ujfalusi | Maniche | 16 | 40 | 22
+EDGE Tomas Ujfalusi | Luis García | 6 | 40 | 10
+EDGE Tomas Ujfalusi | Éver Banega | 4 | 40 | 8
+EDGE Tomas Ujfalusi | Álvaro Domínguez | 2 | 40 | 5
+EDGE Tomas Ujfalusi | Grégory Coupet | 7 | 40 | 11
+EDGE Tomas Ujfalusi | Georgios Seitaridis | 11 | 40 | 16
+EDGE Tomas Ujfalusi | Ignacio Camacho | 3 | 40 | 7
+EDGE Tomas Ujfalusi | Miguel de las Cuevas | 2 | 40 | 4
+EDGE Paulo Assunção | Raúl García | 26 | 41 | 34
+EDGE Paulo Assunção | Simão | 35 | 41 | 42
+EDGE Paulo Assunção | Florent Sinama-Pongolle | 13 | 41 | 20
+EDGE Paulo Assunção | Diego Forlán | 35 | 41 | 42
+EDGE Paulo Assunção | Sergio Agüero | 34 | 41 | 42
+EDGE Paulo Assunção | Antonio López | 18 | 41 | 26
+EDGE Paulo Assunção | John Heitinga | 30 | 41 | 33
+EDGE Paulo Assunção | Maxi Rodríguez | 31 | 41 | 38
+EDGE Paulo Assunção | Maniche | 17 | 41 | 22
+EDGE Paulo Assunção | Luis García | 5 | 41 | 10
+EDGE Paulo Assunção | Éver Banega | 4 | 41 | 8
+EDGE Paulo Assunção | Álvaro Domínguez | 2 | 41 | 5
+EDGE Paulo Assunção | Grégory Coupet | 5 | 41 | 11
+EDGE Paulo Assunção | Georgios Seitaridis | 9 | 41 | 16
+EDGE Paulo Assunção | Ignacio Camacho | 1 | 41 | 7
+EDGE Paulo Assunção | Miguel de las Cuevas | 2 | 41 | 4
+EDGE Raúl García | Simão | 25 | 34 | 42
+EDGE Raúl García | Florent Sinama-Pongolle | 14 | 34 | 20
+EDGE Raúl García | Diego Forlán | 26 | 34 | 42
+EDGE Raúl García | Sergio Agüero | 29 | 34 | 42
+EDGE Raúl García | Antonio López | 20 | 34 | 26
+EDGE Raúl García | John Heitinga | 21 | 34 | 33
+EDGE Raúl García | Maxi Rodríguez | 25 | 34 | 38
+EDGE Raúl García | Éver Banega | 5 | 34 | 8
+EDGE Raúl García | Maniche | 7 | 34 | 22
+EDGE Raúl García | Álvaro Domínguez | 1 | 34 | 5
+EDGE Raúl García | Luis García | 5 | 34 | 10
+EDGE Raúl García | Grégory Coupet | 7 | 34 | 11
+EDGE Raúl García | Georgios Seitaridis | 6 | 34 | 16
+EDGE Raúl García | Ignacio Camacho | 3 | 34 | 7
+EDGE Raúl García | Miguel de las Cuevas | 3 | 34 | 4
+EDGE Simão | Florent Sinama-Pongolle | 12 | 42 | 20
+EDGE Simão | Diego Forlán | 36 | 42 | 42
+EDGE Simão | Sergio Agüero | 35 | 42 | 42
+EDGE Simão | Antonio López | 21 | 42 | 26
+EDGE Simão | John Heitinga | 28 | 42 | 33
+EDGE Simão | Maxi Rodríguez | 32 | 42 | 38
+EDGE Simão | Maniche | 21 | 42 | 22
+EDGE Simão | Luis García | 5 | 42 | 10
+EDGE Simão | Álvaro Domínguez | 4 | 42 | 5
+EDGE Simão | Grégory Coupet | 7 | 42 | 11
+EDGE Simão | Georgios Seitaridis | 13 | 42 | 16
+EDGE Simão | Ignacio Camacho | 5 | 42 | 7
+EDGE Simão | Éver Banega | 3 | 42 | 8
+EDGE Florent Sinama-Pongolle | Diego Forlán | 11 | 20 | 42
+EDGE Florent Sinama-Pongolle | Sergio Agüero | 14 | 20 | 42
+EDGE Florent Sinama-Pongolle | Grégory Coupet | 8 | 20 | 11
+EDGE Florent Sinama-Pongolle | Álvaro Domínguez | 2 | 20 | 5
+EDGE Florent Sinama-Pongolle | Georgios Seitaridis | 8 | 20 | 16
+EDGE Florent Sinama-Pongolle | Ignacio Camacho | 4 | 20 | 7
+EDGE Florent Sinama-Pongolle | Éver Banega | 5 | 20 | 8
+EDGE Florent Sinama-Pongolle | Luis García | 8 | 20 | 10
+EDGE Florent Sinama-Pongolle | Miguel de las Cuevas | 3 | 20 | 4
+EDGE Florent Sinama-Pongolle | John Heitinga | 6 | 20 | 33
+EDGE Florent Sinama-Pongolle | Antonio López | 13 | 20 | 26
+EDGE Florent Sinama-Pongolle | Maxi Rodríguez | 10 | 20 | 38
+EDGE Florent Sinama-Pongolle | Maniche | 5 | 20 | 22
+EDGE Diego Forlán | Sergio Agüero | 33 | 42 | 42
+EDGE Diego Forlán | Antonio López | 20 | 42 | 26
+EDGE Diego Forlán | John Heitinga | 30 | 42 | 33
+EDGE Diego Forlán | Maxi Rodríguez | 30 | 42 | 38
+EDGE Diego Forlán | Maniche | 18 | 42 | 22
+EDGE Diego Forlán | Luis García | 5 | 42 | 10
+EDGE Diego Forlán | Éver Banega | 5 | 42 | 8
+EDGE Diego Forlán | Grégory Coupet | 4 | 42 | 11
+EDGE Diego Forlán | Álvaro Domínguez | 5 | 42 | 5
+EDGE Diego Forlán | Georgios Seitaridis | 11 | 42 | 16
+EDGE Diego Forlán | Ignacio Camacho | 6 | 42 | 7
+EDGE Diego Forlán | Miguel de las Cuevas | 3 | 42 | 4
+EDGE Sergio Agüero | Antonio López | 21 | 42 | 26
+EDGE Sergio Agüero | John Heitinga | 28 | 42 | 33
+EDGE Sergio Agüero | Maxi Rodríguez | 32 | 42 | 38
+EDGE Sergio Agüero | Maniche | 16 | 42 | 22
+EDGE Sergio Agüero | Luis García | 6 | 42 | 10
+EDGE Sergio Agüero | Éver Banega | 5 | 42 | 8
+EDGE Sergio Agüero | Álvaro Domínguez | 2 | 42 | 5
+EDGE Sergio Agüero | Grégory Coupet | 8 | 42 | 11
+EDGE Sergio Agüero | Georgios Seitaridis | 11 | 42 | 16
+EDGE Sergio Agüero | Ignacio Camacho | 4 | 42 | 7
+EDGE Sergio Agüero | Miguel de las Cuevas | 1 | 42 | 4
+EDGE Antonio López | John Heitinga | 13 | 26 | 33
+EDGE Antonio López | Maxi Rodríguez | 17 | 26 | 38
+EDGE Antonio López | Maniche | 7 | 26 | 22
+EDGE Antonio López | Luis García | 6 | 26 | 10
+EDGE Antonio López | Ignacio Camacho | 6 | 26 | 7
+EDGE Antonio López | Miguel de las Cuevas | 1 | 26 | 4
+EDGE Antonio López | Álvaro Domínguez | 2 | 26 | 5
+EDGE Antonio López | Georgios Seitaridis | 6 | 26 | 16
+EDGE Antonio López | Grégory Coupet | 5 | 26 | 11
+EDGE Antonio López | Éver Banega | 4 | 26 | 8
+EDGE John Heitinga | Maxi Rodríguez | 29 | 33 | 38
+EDGE John Heitinga | Maniche | 16 | 33 | 22
+EDGE John Heitinga | Luis García | 3 | 33 | 10
+EDGE John Heitinga | Éver Banega | 3 | 33 | 8
+EDGE John Heitinga | Grégory Coupet | 5 | 33 | 11
+EDGE John Heitinga | Álvaro Domínguez | 1 | 33 | 5
+EDGE John Heitinga | Georgios Seitaridis | 6 | 33 | 16
+EDGE John Heitinga | Ignacio Camacho | 2 | 33 | 7
+EDGE John Heitinga | Miguel de las Cuevas | 2 | 33 | 4
+EDGE Maxi Rodríguez | Maniche | 17 | 38 | 22
+EDGE Maxi Rodríguez | Álvaro Domínguez | 3 | 38 | 5
+EDGE Maxi Rodríguez | Grégory Coupet | 9 | 38 | 11
+EDGE Maxi Rodríguez | Georgios Seitaridis | 13 | 38 | 16
+EDGE Maxi Rodríguez | Luis García | 4 | 38 | 10
+EDGE Maxi Rodríguez | Éver Banega | 4 | 38 | 8
+EDGE Maxi Rodríguez | Ignacio Camacho | 3 | 38 | 7
+EDGE Maxi Rodríguez | Miguel de las Cuevas | 2 | 38 | 4
+EDGE Maniche | Luis García | 4 | 22 | 10
+EDGE Maniche | Éver Banega | 2 | 22 | 8
+EDGE Maniche | Grégory Coupet | 6 | 22 | 11
+EDGE Maniche | Álvaro Domínguez | 3 | 22 | 5
+EDGE Maniche | Georgios Seitaridis | 11 | 22 | 16
+EDGE Maniche | Ignacio Camacho | 2 | 22 | 7
+EDGE Luis García | Grégory Coupet | 5 | 10 | 11
+EDGE Luis García | Álvaro Domínguez | 2 | 10 | 5
+EDGE Luis García | Georgios Seitaridis | 6 | 10 | 16
+EDGE Luis García | Ignacio Camacho | 3 | 10 | 7
+EDGE Luis García | Éver Banega | 3 | 10 | 8
+EDGE Luis García | Miguel de las Cuevas | 2 | 10 | 4
+EDGE Éver Banega | Grégory Coupet | 4 | 8 | 11
+EDGE Éver Banega | Álvaro Domínguez | 2 | 8 | 5
+EDGE Éver Banega | Georgios Seitaridis | 4 | 8 | 16
+EDGE Éver Banega | Ignacio Camacho | 2 | 8 | 7
+EDGE Éver Banega | Miguel de las Cuevas | 2 | 8 | 4
+EDGE Grégory Coupet | Álvaro Domínguez | 1 | 11 | 5
+EDGE Grégory Coupet | Georgios Seitaridis | 8 | 11 | 16
+EDGE Grégory Coupet | Ignacio Camacho | 2 | 11 | 7
+EDGE Grégory Coupet | Miguel de las Cuevas | 1 | 11 | 4
+EDGE Álvaro Domínguez | Georgios Seitaridis | 4 | 5 | 16
+EDGE Álvaro Domínguez | Ignacio Camacho | 3 | 5 | 7
+EDGE Álvaro Domínguez | Miguel de las Cuevas | 1 | 5 | 4
+EDGE Georgios Seitaridis | Ignacio Camacho | 3 | 16 | 7
+EDGE Georgios Seitaridis | Miguel de las Cuevas | 1 | 16 | 4
+EDGE Ignacio Camacho | Miguel de las Cuevas | 2 | 7 | 4

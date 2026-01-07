@@ -1,0 +1,298 @@
+# Graph for Java/GraphStream
+# Nodes: 26
+# Edges: 292
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Sebastián Viera | Gonzalo Rodríguez | 6 | 30 | 7
+EDGE Sebastián Viera | Fabricio Fuentes | 23 | 30 | 35
+EDGE Sebastián Viera | José Enrique | 20 | 30 | 24
+EDGE Sebastián Viera | Javi Venta | 15 | 30 | 21
+EDGE Sebastián Viera | Alessio Tacchinardi | 12 | 30 | 16
+EDGE Sebastián Viera | Marcos Senna | 24 | 30 | 35
+EDGE Sebastián Viera | Robert Pirès | 9 | 30 | 10
+EDGE Sebastián Viera | Marquitos | 16 | 30 | 23
+EDGE Sebastián Viera | Cani | 20 | 30 | 32
+EDGE Sebastián Viera | Diego Forlán | 27 | 30 | 40
+EDGE Sebastián Viera | Pascal Cygan | 15 | 30 | 20
+EDGE Sebastián Viera | Josemi | 15 | 30 | 24
+EDGE Sebastián Viera | Josico | 14 | 30 | 25
+EDGE Sebastián Viera | Matías Fernández | 12 | 30 | 16
+EDGE Sebastián Viera | Quique Álvarez | 10 | 30 | 18
+EDGE Sebastián Viera | Leandro Somoza | 11 | 30 | 13
+EDGE Sebastián Viera | José Mari | 5 | 30 | 8
+EDGE Sebastián Viera | Juan Manuel Peña | 6 | 30 | 8
+EDGE Sebastián Viera | Rodolfo Arruabarrena | 9 | 30 | 17
+EDGE Sebastián Viera | Juan Román Riquelme | 9 | 30 | 13
+EDGE Sebastián Viera | Nihat Kahveci | 6 | 30 | 11
+EDGE Sebastián Viera | Jon Dahl Tomasson | 5 | 30 | 7
+EDGE Sebastián Viera | Guillermo Franco | 10 | 30 | 15
+EDGE Sebastián Viera | Carlos Alcántara | 1 | 30 | 2
+EDGE Gonzalo Rodríguez | Fabricio Fuentes | 5 | 7 | 35
+EDGE Gonzalo Rodríguez | José Enrique | 6 | 7 | 24
+EDGE Gonzalo Rodríguez | Javi Venta | 5 | 7 | 21
+EDGE Gonzalo Rodríguez | Alessio Tacchinardi | 6 | 7 | 16
+EDGE Gonzalo Rodríguez | Marcos Senna | 5 | 7 | 35
+EDGE Gonzalo Rodríguez | Robert Pirès | 6 | 7 | 10
+EDGE Gonzalo Rodríguez | Marquitos | 3 | 7 | 23
+EDGE Gonzalo Rodríguez | Cani | 6 | 7 | 32
+EDGE Gonzalo Rodríguez | Diego Forlán | 6 | 7 | 40
+EDGE Gonzalo Rodríguez | Pascal Cygan | 1 | 7 | 20
+EDGE Gonzalo Rodríguez | Josemi | 2 | 7 | 24
+EDGE Gonzalo Rodríguez | Leandro Somoza | 1 | 7 | 13
+EDGE Gonzalo Rodríguez | Matías Fernández | 1 | 7 | 16
+EDGE Gonzalo Rodríguez | Jon Dahl Tomasson | 1 | 7 | 7
+EDGE Gonzalo Rodríguez | Guillermo Franco | 4 | 7 | 15
+EDGE Gonzalo Rodríguez | Josico | 2 | 7 | 25
+EDGE Gonzalo Rodríguez | Mariano Barbosa | 1 | 7 | 14
+EDGE Gonzalo Rodríguez | Quique Álvarez | 1 | 7 | 18
+EDGE Gonzalo Rodríguez | Carlos Alcántara | 1 | 7 | 2
+EDGE Gonzalo Rodríguez | Nihat Kahveci | 1 | 7 | 11
+EDGE Fabricio Fuentes | José Enrique | 22 | 35 | 24
+EDGE Fabricio Fuentes | Javi Venta | 17 | 35 | 21
+EDGE Fabricio Fuentes | Alessio Tacchinardi | 10 | 35 | 16
+EDGE Fabricio Fuentes | Marcos Senna | 30 | 35 | 35
+EDGE Fabricio Fuentes | Robert Pirès | 8 | 35 | 10
+EDGE Fabricio Fuentes | Marquitos | 21 | 35 | 23
+EDGE Fabricio Fuentes | Cani | 25 | 35 | 32
+EDGE Fabricio Fuentes | Diego Forlán | 33 | 35 | 40
+EDGE Fabricio Fuentes | Pascal Cygan | 19 | 35 | 20
+EDGE Fabricio Fuentes | Josemi | 19 | 35 | 24
+EDGE Fabricio Fuentes | Josico | 22 | 35 | 25
+EDGE Fabricio Fuentes | Matías Fernández | 15 | 35 | 16
+EDGE Fabricio Fuentes | Quique Álvarez | 10 | 35 | 18
+EDGE Fabricio Fuentes | Leandro Somoza | 8 | 35 | 13
+EDGE Fabricio Fuentes | José Mari | 6 | 35 | 8
+EDGE Fabricio Fuentes | Rodolfo Arruabarrena | 12 | 35 | 17
+EDGE Fabricio Fuentes | Juan Román Riquelme | 8 | 35 | 13
+EDGE Fabricio Fuentes | Nihat Kahveci | 5 | 35 | 11
+EDGE Fabricio Fuentes | Mariano Barbosa | 12 | 35 | 14
+EDGE Fabricio Fuentes | Guillermo Franco | 13 | 35 | 15
+EDGE Fabricio Fuentes | Jon Dahl Tomasson | 6 | 35 | 7
+EDGE Fabricio Fuentes | Juan Manuel Peña | 1 | 35 | 8
+EDGE José Enrique | Javi Venta | 10 | 24 | 21
+EDGE José Enrique | Alessio Tacchinardi | 8 | 24 | 16
+EDGE José Enrique | Marcos Senna | 19 | 24 | 35
+EDGE José Enrique | Robert Pirès | 8 | 24 | 10
+EDGE José Enrique | Marquitos | 17 | 24 | 23
+EDGE José Enrique | Cani | 16 | 24 | 32
+EDGE José Enrique | Diego Forlán | 21 | 24 | 40
+EDGE José Enrique | Pascal Cygan | 15 | 24 | 20
+EDGE José Enrique | Josemi | 14 | 24 | 24
+EDGE José Enrique | Josico | 17 | 24 | 25
+EDGE José Enrique | Matías Fernández | 14 | 24 | 16
+EDGE José Enrique | Quique Álvarez | 4 | 24 | 18
+EDGE José Enrique | Leandro Somoza | 4 | 24 | 13
+EDGE José Enrique | José Mari | 3 | 24 | 8
+EDGE José Enrique | Mariano Barbosa | 4 | 24 | 14
+EDGE José Enrique | Juan Manuel Peña | 1 | 24 | 8
+EDGE José Enrique | Nihat Kahveci | 1 | 24 | 11
+EDGE José Enrique | Jon Dahl Tomasson | 7 | 24 | 7
+EDGE José Enrique | Guillermo Franco | 8 | 24 | 15
+EDGE José Enrique | Juan Román Riquelme | 1 | 24 | 13
+EDGE Javi Venta | Alessio Tacchinardi | 10 | 21 | 16
+EDGE Javi Venta | Marcos Senna | 18 | 21 | 35
+EDGE Javi Venta | Robert Pirès | 9 | 21 | 10
+EDGE Javi Venta | Marquitos | 10 | 21 | 23
+EDGE Javi Venta | Cani | 17 | 21 | 32
+EDGE Javi Venta | Diego Forlán | 18 | 21 | 40
+EDGE Javi Venta | Pascal Cygan | 7 | 21 | 20
+EDGE Javi Venta | Rodolfo Arruabarrena | 9 | 21 | 17
+EDGE Javi Venta | Leandro Somoza | 6 | 21 | 13
+EDGE Javi Venta | Juan Román Riquelme | 7 | 21 | 13
+EDGE Javi Venta | Nihat Kahveci | 9 | 21 | 11
+EDGE Javi Venta | Mariano Barbosa | 6 | 21 | 14
+EDGE Javi Venta | Josico | 9 | 21 | 25
+EDGE Javi Venta | Matías Fernández | 2 | 21 | 16
+EDGE Javi Venta | Jon Dahl Tomasson | 3 | 21 | 7
+EDGE Javi Venta | José Mari | 3 | 21 | 8
+EDGE Javi Venta | Quique Álvarez | 9 | 21 | 18
+EDGE Javi Venta | Guillermo Franco | 5 | 21 | 15
+EDGE Javi Venta | Juan Manuel Peña | 4 | 21 | 8
+EDGE Javi Venta | Josemi | 1 | 21 | 24
+EDGE Javi Venta | Carlos Alcántara | 1 | 21 | 2
+EDGE Alessio Tacchinardi | Marcos Senna | 9 | 16 | 35
+EDGE Alessio Tacchinardi | Robert Pirès | 8 | 16 | 10
+EDGE Alessio Tacchinardi | Marquitos | 7 | 16 | 23
+EDGE Alessio Tacchinardi | Cani | 13 | 16 | 32
+EDGE Alessio Tacchinardi | Diego Forlán | 15 | 16 | 40
+EDGE Alessio Tacchinardi | Quique Álvarez | 10 | 16 | 18
+EDGE Alessio Tacchinardi | Josemi | 7 | 16 | 24
+EDGE Alessio Tacchinardi | Leandro Somoza | 3 | 16 | 13
+EDGE Alessio Tacchinardi | Matías Fernández | 1 | 16 | 16
+EDGE Alessio Tacchinardi | José Mari | 4 | 16 | 8
+EDGE Alessio Tacchinardi | Juan Manuel Peña | 5 | 16 | 8
+EDGE Alessio Tacchinardi | Rodolfo Arruabarrena | 5 | 16 | 17
+EDGE Alessio Tacchinardi | Juan Román Riquelme | 5 | 16 | 13
+EDGE Alessio Tacchinardi | Mariano Barbosa | 4 | 16 | 14
+EDGE Alessio Tacchinardi | Josico | 5 | 16 | 25
+EDGE Alessio Tacchinardi | Nihat Kahveci | 5 | 16 | 11
+EDGE Alessio Tacchinardi | Guillermo Franco | 5 | 16 | 15
+EDGE Alessio Tacchinardi | Pascal Cygan | 1 | 16 | 20
+EDGE Alessio Tacchinardi | Carlos Alcántara | 2 | 16 | 2
+EDGE Marcos Senna | Robert Pirès | 6 | 35 | 10
+EDGE Marcos Senna | Marquitos | 19 | 35 | 23
+EDGE Marcos Senna | Cani | 25 | 35 | 32
+EDGE Marcos Senna | Diego Forlán | 31 | 35 | 40
+EDGE Marcos Senna | Pascal Cygan | 18 | 35 | 20
+EDGE Marcos Senna | Josemi | 18 | 35 | 24
+EDGE Marcos Senna | Josico | 18 | 35 | 25
+EDGE Marcos Senna | Matías Fernández | 14 | 35 | 16
+EDGE Marcos Senna | Rodolfo Arruabarrena | 15 | 35 | 17
+EDGE Marcos Senna | Leandro Somoza | 9 | 35 | 13
+EDGE Marcos Senna | Juan Román Riquelme | 11 | 35 | 13
+EDGE Marcos Senna | Nihat Kahveci | 8 | 35 | 11
+EDGE Marcos Senna | Mariano Barbosa | 11 | 35 | 14
+EDGE Marcos Senna | Quique Álvarez | 12 | 35 | 18
+EDGE Marcos Senna | Guillermo Franco | 13 | 35 | 15
+EDGE Marcos Senna | Jon Dahl Tomasson | 6 | 35 | 7
+EDGE Marcos Senna | José Mari | 6 | 35 | 8
+EDGE Marcos Senna | Juan Manuel Peña | 5 | 35 | 8
+EDGE Robert Pirès | Marquitos | 4 | 10 | 23
+EDGE Robert Pirès | Cani | 10 | 10 | 32
+EDGE Robert Pirès | Diego Forlán | 9 | 10 | 40
+EDGE Robert Pirès | Quique Álvarez | 3 | 10 | 18
+EDGE Robert Pirès | Josico | 6 | 10 | 25
+EDGE Robert Pirès | Guillermo Franco | 4 | 10 | 15
+EDGE Robert Pirès | Jon Dahl Tomasson | 1 | 10 | 7
+EDGE Robert Pirès | Pascal Cygan | 2 | 10 | 20
+EDGE Robert Pirès | Mariano Barbosa | 1 | 10 | 14
+EDGE Robert Pirès | Carlos Alcántara | 2 | 10 | 2
+EDGE Robert Pirès | Josemi | 1 | 10 | 24
+EDGE Robert Pirès | Nihat Kahveci | 2 | 10 | 11
+EDGE Robert Pirès | Juan Manuel Peña | 1 | 10 | 8
+EDGE Marquitos | Cani | 12 | 23 | 32
+EDGE Marquitos | Diego Forlán | 22 | 23 | 40
+EDGE Marquitos | Pascal Cygan | 16 | 23 | 20
+EDGE Marquitos | Josemi | 14 | 23 | 24
+EDGE Marquitos | Josico | 15 | 23 | 25
+EDGE Marquitos | Matías Fernández | 12 | 23 | 16
+EDGE Marquitos | Quique Álvarez | 5 | 23 | 18
+EDGE Marquitos | Leandro Somoza | 5 | 23 | 13
+EDGE Marquitos | José Mari | 2 | 23 | 8
+EDGE Marquitos | Mariano Barbosa | 7 | 23 | 14
+EDGE Marquitos | Juan Manuel Peña | 1 | 23 | 8
+EDGE Marquitos | Nihat Kahveci | 5 | 23 | 11
+EDGE Marquitos | Rodolfo Arruabarrena | 5 | 23 | 17
+EDGE Marquitos | Juan Román Riquelme | 3 | 23 | 13
+EDGE Marquitos | Guillermo Franco | 4 | 23 | 15
+EDGE Marquitos | Jon Dahl Tomasson | 5 | 23 | 7
+EDGE Cani | Diego Forlán | 30 | 32 | 40
+EDGE Cani | Pascal Cygan | 11 | 32 | 20
+EDGE Cani | Josemi | 16 | 32 | 24
+EDGE Cani | Josico | 19 | 32 | 25
+EDGE Cani | Matías Fernández | 8 | 32 | 16
+EDGE Cani | Quique Álvarez | 15 | 32 | 18
+EDGE Cani | Juan Manuel Peña | 7 | 32 | 8
+EDGE Cani | Rodolfo Arruabarrena | 13 | 32 | 17
+EDGE Cani | Leandro Somoza | 7 | 32 | 13
+EDGE Cani | Juan Román Riquelme | 9 | 32 | 13
+EDGE Cani | José Mari | 7 | 32 | 8
+EDGE Cani | Mariano Barbosa | 12 | 32 | 14
+EDGE Cani | Nihat Kahveci | 8 | 32 | 11
+EDGE Cani | Guillermo Franco | 10 | 32 | 15
+EDGE Cani | Jon Dahl Tomasson | 2 | 32 | 7
+EDGE Cani | Carlos Alcántara | 2 | 32 | 2
+EDGE Diego Forlán | Pascal Cygan | 19 | 40 | 20
+EDGE Diego Forlán | Josemi | 23 | 40 | 24
+EDGE Diego Forlán | Josico | 23 | 40 | 25
+EDGE Diego Forlán | Matías Fernández | 14 | 40 | 16
+EDGE Diego Forlán | Quique Álvarez | 15 | 40 | 18
+EDGE Diego Forlán | Leandro Somoza | 11 | 40 | 13
+EDGE Diego Forlán | José Mari | 7 | 40 | 8
+EDGE Diego Forlán | Juan Manuel Peña | 7 | 40 | 8
+EDGE Diego Forlán | Rodolfo Arruabarrena | 16 | 40 | 17
+EDGE Diego Forlán | Juan Román Riquelme | 12 | 40 | 13
+EDGE Diego Forlán | Mariano Barbosa | 13 | 40 | 14
+EDGE Diego Forlán | Nihat Kahveci | 10 | 40 | 11
+EDGE Diego Forlán | Guillermo Franco | 12 | 40 | 15
+EDGE Diego Forlán | Jon Dahl Tomasson | 4 | 40 | 7
+EDGE Diego Forlán | Carlos Alcántara | 2 | 40 | 2
+EDGE Pascal Cygan | Josemi | 13 | 20 | 24
+EDGE Pascal Cygan | Josico | 15 | 20 | 25
+EDGE Pascal Cygan | Matías Fernández | 12 | 20 | 16
+EDGE Pascal Cygan | Rodolfo Arruabarrena | 5 | 20 | 17
+EDGE Pascal Cygan | Leandro Somoza | 6 | 20 | 13
+EDGE Pascal Cygan | Juan Román Riquelme | 5 | 20 | 13
+EDGE Pascal Cygan | Nihat Kahveci | 3 | 20 | 11
+EDGE Pascal Cygan | Mariano Barbosa | 5 | 20 | 14
+EDGE Pascal Cygan | Jon Dahl Tomasson | 5 | 20 | 7
+EDGE Pascal Cygan | José Mari | 2 | 20 | 8
+EDGE Pascal Cygan | Guillermo Franco | 5 | 20 | 15
+EDGE Josemi | Josico | 16 | 24 | 25
+EDGE Josemi | Matías Fernández | 14 | 24 | 16
+EDGE Josemi | Quique Álvarez | 10 | 24 | 18
+EDGE Josemi | Leandro Somoza | 7 | 24 | 13
+EDGE Josemi | José Mari | 5 | 24 | 8
+EDGE Josemi | Juan Manuel Peña | 4 | 24 | 8
+EDGE Josemi | Rodolfo Arruabarrena | 8 | 24 | 17
+EDGE Josemi | Juan Román Riquelme | 6 | 24 | 13
+EDGE Josemi | Mariano Barbosa | 9 | 24 | 14
+EDGE Josemi | Nihat Kahveci | 3 | 24 | 11
+EDGE Josemi | Guillermo Franco | 10 | 24 | 15
+EDGE Josemi | Jon Dahl Tomasson | 4 | 24 | 7
+EDGE Josemi | Carlos Alcántara | 1 | 24 | 2
+EDGE Josico | Matías Fernández | 13 | 25 | 16
+EDGE Josico | Mariano Barbosa | 11 | 25 | 14
+EDGE Josico | Quique Álvarez | 8 | 25 | 18
+EDGE Josico | Juan Manuel Peña | 3 | 25 | 8
+EDGE Josico | Nihat Kahveci | 4 | 25 | 11
+EDGE Josico | Leandro Somoza | 2 | 25 | 13
+EDGE Josico | Jon Dahl Tomasson | 6 | 25 | 7
+EDGE Josico | Rodolfo Arruabarrena | 6 | 25 | 17
+EDGE Josico | José Mari | 3 | 25 | 8
+EDGE Josico | Guillermo Franco | 9 | 25 | 15
+EDGE Josico | Juan Román Riquelme | 2 | 25 | 13
+EDGE Josico | Carlos Alcántara | 2 | 25 | 2
+EDGE Matías Fernández | Quique Álvarez | 3 | 16 | 18
+EDGE Matías Fernández | Leandro Somoza | 4 | 16 | 13
+EDGE Matías Fernández | José Mari | 2 | 16 | 8
+EDGE Matías Fernández | Jon Dahl Tomasson | 6 | 16 | 7
+EDGE Matías Fernández | Mariano Barbosa | 4 | 16 | 14
+EDGE Matías Fernández | Guillermo Franco | 6 | 16 | 15
+EDGE Matías Fernández | Juan Manuel Peña | 1 | 16 | 8
+EDGE Matías Fernández | Rodolfo Arruabarrena | 2 | 16 | 17
+EDGE Quique Álvarez | Leandro Somoza | 7 | 18 | 13
+EDGE Quique Álvarez | José Mari | 6 | 18 | 8
+EDGE Quique Álvarez | Juan Manuel Peña | 7 | 18 | 8
+EDGE Quique Álvarez | Rodolfo Arruabarrena | 11 | 18 | 17
+EDGE Quique Álvarez | Juan Román Riquelme | 8 | 18 | 13
+EDGE Quique Álvarez | Mariano Barbosa | 8 | 18 | 14
+EDGE Quique Álvarez | Nihat Kahveci | 8 | 18 | 11
+EDGE Quique Álvarez | Guillermo Franco | 6 | 18 | 15
+EDGE Quique Álvarez | Jon Dahl Tomasson | 2 | 18 | 7
+EDGE Quique Álvarez | Carlos Alcántara | 2 | 18 | 2
+EDGE Leandro Somoza | José Mari | 3 | 13 | 8
+EDGE Leandro Somoza | Juan Manuel Peña | 4 | 13 | 8
+EDGE Leandro Somoza | Rodolfo Arruabarrena | 9 | 13 | 17
+EDGE Leandro Somoza | Juan Román Riquelme | 9 | 13 | 13
+EDGE Leandro Somoza | Nihat Kahveci | 6 | 13 | 11
+EDGE Leandro Somoza | Mariano Barbosa | 2 | 13 | 14
+EDGE Leandro Somoza | Jon Dahl Tomasson | 2 | 13 | 7
+EDGE Leandro Somoza | Guillermo Franco | 4 | 13 | 15
+EDGE José Mari | Juan Manuel Peña | 2 | 8 | 8
+EDGE José Mari | Rodolfo Arruabarrena | 5 | 8 | 17
+EDGE José Mari | Juan Román Riquelme | 4 | 8 | 13
+EDGE José Mari | Mariano Barbosa | 3 | 8 | 14
+EDGE José Mari | Guillermo Franco | 1 | 8 | 15
+EDGE José Mari | Jon Dahl Tomasson | 1 | 8 | 7
+EDGE Juan Manuel Peña | Rodolfo Arruabarrena | 6 | 8 | 17
+EDGE Juan Manuel Peña | Juan Román Riquelme | 5 | 8 | 13
+EDGE Juan Manuel Peña | Mariano Barbosa | 2 | 8 | 14
+EDGE Juan Manuel Peña | Nihat Kahveci | 5 | 8 | 11
+EDGE Juan Manuel Peña | Guillermo Franco | 2 | 8 | 15
+EDGE Juan Manuel Peña | Carlos Alcántara | 1 | 8 | 2
+EDGE Rodolfo Arruabarrena | Juan Román Riquelme | 12 | 17 | 13
+EDGE Rodolfo Arruabarrena | Nihat Kahveci | 7 | 17 | 11
+EDGE Rodolfo Arruabarrena | Mariano Barbosa | 8 | 17 | 14
+EDGE Rodolfo Arruabarrena | Guillermo Franco | 7 | 17 | 15
+EDGE Juan Román Riquelme | Nihat Kahveci | 6 | 13 | 11
+EDGE Juan Román Riquelme | Mariano Barbosa | 4 | 13 | 14
+EDGE Juan Román Riquelme | Guillermo Franco | 4 | 13 | 15
+EDGE Mariano Barbosa | Nihat Kahveci | 5 | 14 | 11
+EDGE Mariano Barbosa | Guillermo Franco | 5 | 14 | 15
+EDGE Mariano Barbosa | Jon Dahl Tomasson | 2 | 14 | 7
+EDGE Mariano Barbosa | Carlos Alcántara | 1 | 14 | 2
+EDGE Nihat Kahveci | Carlos Alcántara | 2 | 11 | 2
+EDGE Nihat Kahveci | Guillermo Franco | 1 | 11 | 15
+EDGE Guillermo Franco | Jon Dahl Tomasson | 2 | 15 | 7

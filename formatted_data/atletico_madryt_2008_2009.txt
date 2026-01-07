@@ -1,0 +1,160 @@
+# Team: Atlético Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 920623 | niedz., 05.04.2009 | CA Osasuna
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Mariano Pernía, Tomas Ujfalusi, Paulo Assunção, Raúl García, Simão, Florent Sinama-Pongolle, Diego Forlán, Sergio Agüero
+
+MATCH: 920581 | niedz., 01.03.2009 | FC Barcelona
+PLAYERS: Leo Franco, Tomas Ujfalusi, Pablo Ibáñez, Antonio López, John Heitinga, Paulo Assunção, Raúl García, Simão, Maxi Rodríguez, Diego Forlán, Sergio Agüero
+
+MATCH: 923735 | wt., 16.09.2008 | PSV Eindhoven
+PLAYERS: Leo Franco, John Heitinga, Tomas Ujfalusi, Antonio López, Luis Amaranto Perea, Paulo Assunção, Maniche, Simão, Luis García, Diego Forlán, Sergio Agüero
+
+MATCH: 920401 | sob., 18.10.2008 | Real Madryt
+PLAYERS: Leo Franco, Tomas Ujfalusi, Luis Amaranto Perea, Mariano Pernía, John Heitinga, Paulo Assunção, Éver Banega, Maniche, Raúl García, Diego Forlán, Sergio Agüero
+
+MATCH: 926976 | śr., 12.11.2008 | Orihuela CF
+PLAYERS: Grégory Coupet, Álvaro Domínguez, Pablo Ibáñez, Mariano Pernía, Georgios Seitaridis, Ignacio Camacho, Éver Banega, Luis García, Miguel de las Cuevas, Florent Sinama-Pongolle, Diego Forlán
+
+MATCH: 920443 | niedz., 16.11.2008 | Deportivo de La Coruña
+PLAYERS: Leo Franco, John Heitinga, Luis Amaranto Perea, Tomas Ujfalusi, Mariano Pernía, Paulo Assunção, Maniche, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 923309 | śr., 27.08.2008 | FC Schalke 04
+PLAYERS: Leo Franco, John Heitinga, Tomas Ujfalusi, Mariano Pernía, Luis Amaranto Perea, Maniche, Raúl García, Simão, Maxi Rodríguez, Diego Forlán, Sergio Agüero
+
+MATCH: 920696 | niedz., 17.05.2009 | Valencia CF
+PLAYERS: Leo Franco, Álvaro Domínguez, Pablo Ibáñez, Tomas Ujfalusi, Mariano Pernía, Paulo Assunção, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 920499 | sob., 03.01.2009 | Valencia CF
+PLAYERS: Leo Franco, John Heitinga, Luis Amaranto Perea, Tomas Ujfalusi, Mariano Pernía, Paulo Assunção, Raúl García, Simão, Luis García, Diego Forlán, Sergio Agüero
+
+MATCH: 920433 | niedz., 09.11.2008 | CA Osasuna
+PLAYERS: Grégory Coupet, John Heitinga, Luis Amaranto Perea, Tomas Ujfalusi, Mariano Pernía, Paulo Assunção, Maniche, Raúl García, Maxi Rodríguez, Simão, Sergio Agüero
+
+MATCH: 920528 | niedz., 25.01.2009 | Málaga CF
+PLAYERS: Leo Franco, John Heitinga, Luis Amaranto Perea, Tomas Ujfalusi, Antonio López, Paulo Assunção, Raúl García, Simão, Florent Sinama-Pongolle, Diego Forlán, Sergio Agüero
+
+MATCH: 920706 | sob., 23.05.2009 | Athletic Bilbao
+PLAYERS: Leo Franco, John Heitinga, Pablo Ibáñez, Tomas Ujfalusi, Mariano Pernía, Paulo Assunção, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 920602 | niedz., 15.03.2009 | Villarreal CF
+PLAYERS: Leo Franco, John Heitinga, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Paulo Assunção, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 920644 | sob., 18.04.2009 | CD Numancia
+PLAYERS: Leo Franco, John Heitinga, Tomas Ujfalusi, Luis Amaranto Perea, Antonio López, Paulo Assunção, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 920715 | sob., 30.05.2009 | UD Almería
+PLAYERS: Leo Franco, John Heitinga, Pablo Ibáñez, Tomas Ujfalusi, Mariano Pernía, Paulo Assunção, Raúl García, Maxi Rodríguez, Florent Sinama-Pongolle, Diego Forlán, Sergio Agüero
+
+MATCH: 920560 | niedz., 15.02.2009 | Getafe CF
+PLAYERS: Leo Franco, Pablo Ibáñez, Tomas Ujfalusi, Mariano Pernía, Georgios Seitaridis, Paulo Assunção, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 926960 | śr., 29.10.2008 | Orihuela CF
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Mariano Pernía, Ignacio Camacho, Raúl García, Luis García, Miguel de las Cuevas, Florent Sinama-Pongolle, Diego Forlán
+
+MATCH: 923879 | śr., 22.10.2008 | FC Liverpool
+PLAYERS: Leo Franco, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Georgios Seitaridis, Ignacio Camacho, Maniche, Simão, Luis García, Florent Sinama-Pongolle, Diego Forlán
+
+MATCH: 920454 | niedz., 23.11.2008 | CD Numancia
+PLAYERS: Leo Franco, John Heitinga, Luis Amaranto Perea, Tomas Ujfalusi, Mariano Pernía, Paulo Assunção, Maniche, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 920349 | sob., 13.09.2008 | Real Valladolid CF
+PLAYERS: Grégory Coupet, Luis Amaranto Perea, Tomas Ujfalusi, Mariano Pernía, Georgios Seitaridis, Paulo Assunção, Maniche, Maxi Rodríguez, Simão, Luis García, Florent Sinama-Pongolle
+
+MATCH: 920654 | czw., 23.04.2009 | Racing Santander
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Tomas Ujfalusi, Antonio López, Paulo Assunção, Raúl García, Simão, Florent Sinama-Pongolle, Diego Forlán, Sergio Agüero
+
+MATCH: 920412 | niedz., 26.10.2008 | Villarreal CF
+PLAYERS: Leo Franco, Álvaro Domínguez, John Heitinga, Mariano Pernía, Georgios Seitaridis, Paulo Assunção, Éver Banega, Maniche, Maxi Rodríguez, Simão, Diego Forlán
+
+MATCH: 920591 | sob., 07.03.2009 | Real Madryt
+PLAYERS: Leo Franco, John Heitinga, Pablo Ibáñez, Antonio López, Tomas Ujfalusi, Ignacio Camacho, Paulo Assunção, Simão, Maxi Rodríguez, Diego Forlán, Sergio Agüero
+
+MATCH: 920675 | niedz., 03.05.2009 | Real Betis Balompié
+PLAYERS: Leo Franco, John Heitinga, Luis Amaranto Perea, Tomas Ujfalusi, Mariano Pernía, Paulo Assunção, Éver Banega, Raúl García, Maxi Rodríguez, Miguel de las Cuevas, Diego Forlán
+
+MATCH: 920370 | śr., 24.09.2008 | Getafe CF
+PLAYERS: Leo Franco, Pablo Ibáñez, Tomas Ujfalusi, Mariano Pernía, Georgios Seitaridis, Paulo Assunção, Maniche, Simão, Luis García, Florent Sinama-Pongolle, Sergio Agüero
+
+MATCH: 920359 | sob., 20.09.2008 | Recreativo Huelva
+PLAYERS: Grégory Coupet, Luis Amaranto Perea, Tomas Ujfalusi, Antonio López, Georgios Seitaridis, Maniche, Raúl García, Maxi Rodríguez, Simão, Florent Sinama-Pongolle, Sergio Agüero
+
+MATCH: 920422 | sob., 01.11.2008 | RCD Mallorca
+PLAYERS: Leo Franco, John Heitinga, Luis Amaranto Perea, Antonio López, Mariano Pernía, Paulo Assunção, Maniche, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 920686 | niedz., 10.05.2009 | RCD Espanyol
+PLAYERS: Leo Franco, John Heitinga, Luis Amaranto Perea, Tomas Ujfalusi, Mariano Pernía, Paulo Assunção, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 923863 | śr., 01.10.2008 | Olympique Marseille
+PLAYERS: Leo Franco, John Heitinga, Tomas Ujfalusi, Mariano Pernía, Luis Amaranto Perea, Paulo Assunção, Raúl García, Miguel de las Cuevas, Maxi Rodríguez, Florent Sinama-Pongolle, Sergio Agüero
+
+MATCH: 923919 | wt., 09.12.2008 | Olympique Marseille
+PLAYERS: Grégory Coupet, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Georgios Seitaridis, Éver Banega, Raúl García, Maxi Rodríguez, Luis García, Florent Sinama-Pongolle, Sergio Agüero
+
+MATCH: 920391 | sob., 04.10.2008 | FC Barcelona
+PLAYERS: Grégory Coupet, John Heitinga, Tomas Ujfalusi, Antonio López, Luis Amaranto Perea, Paulo Assunção, Raúl García, Luis García, Maxi Rodríguez, Florent Sinama-Pongolle, Sergio Agüero
+
+MATCH: 920549 | niedz., 08.02.2009 | Recreativo Huelva
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Tomas Ujfalusi, Antonio López, Mariano Pernía, Paulo Assunção, Raúl García, Florent Sinama-Pongolle, Diego Forlán, Sergio Agüero
+
+MATCH: 920485 | niedz., 14.12.2008 | Real Betis Balompié
+PLAYERS: Leo Franco, John Heitinga, Luis Amaranto Perea, Tomas Ujfalusi, Mariano Pernía, Paulo Assunção, Maniche, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 920633 | niedz., 12.04.2009 | Deportivo de La Coruña
+PLAYERS: Leo Franco, John Heitinga, Pablo Ibáñez, Tomas Ujfalusi, Antonio López, Paulo Assunção, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 933238 | wt., 24.02.2009 | FC Porto
+PLAYERS: Leo Franco, Tomas Ujfalusi, Pablo Ibáñez, Antonio López, Georgios Seitaridis, Paulo Assunção, Raúl García, Simão, Maxi Rodríguez, Sergio Agüero, Diego Forlán
+
+MATCH: 920464 | niedz., 30.11.2008 | Racing Santander
+PLAYERS: Leo Franco, John Heitinga, Tomas Ujfalusi, Mariano Pernía, Georgios Seitaridis, Paulo Assunção, Maniche, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 933246 | śr., 11.03.2009 | FC Porto
+PLAYERS: Leo Franco, Tomas Ujfalusi, Pablo Ibáñez, Antonio López, Luis Amaranto Perea, Paulo Assunção, Raúl García, Simão, Maxi Rodríguez, Florent Sinama-Pongolle, Sergio Agüero
+
+MATCH: 931767 | śr., 14.01.2009 | FC Barcelona
+PLAYERS: Grégory Coupet, Luis Amaranto Perea, Pablo Ibáñez, Mariano Pernía, Antonio López, Ignacio Camacho, Raúl García, Éver Banega, Simão, Florent Sinama-Pongolle, Sergio Agüero
+
+MATCH: 920516 | niedz., 11.01.2009 | Athletic Bilbao
+PLAYERS: Leo Franco, Álvaro Domínguez, Tomas Ujfalusi, Antonio López, Georgios Seitaridis, Ignacio Camacho, Maniche, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 923223 | śr., 13.08.2008 | FC Schalke 04
+PLAYERS: Leo Franco, John Heitinga, Tomas Ujfalusi, Antonio López, Luis Amaranto Perea, Paulo Assunção, Raúl García, Simão, Maxi Rodríguez, Florent Sinama-Pongolle, Diego Forlán
+
+MATCH: 920475 | sob., 06.12.2008 | Sporting Gijón
+PLAYERS: Leo Franco, John Heitinga, Tomas Ujfalusi, Mariano Pernía, Georgios Seitaridis, Paulo Assunção, Maniche, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 920665 | niedz., 26.04.2009 | Sporting Gijón
+PLAYERS: Leo Franco, John Heitinga, Luis Amaranto Perea, Tomas Ujfalusi, Antonio López, Paulo Assunção, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 920380 | niedz., 28.09.2008 | Sevilla FC
+PLAYERS: Grégory Coupet, Luis Amaranto Perea, Tomas Ujfalusi, Antonio López, Georgios Seitaridis, Éver Banega, Raúl García, Maxi Rodríguez, Luis García, Florent Sinama-Pongolle, Sergio Agüero
+
+MATCH: 923886 | wt., 04.11.2008 | FC Liverpool
+PLAYERS: Leo Franco, John Heitinga, Mariano Pernía, Antonio López, Luis Amaranto Perea, Paulo Assunção, Maniche, Raúl García, Simão, Maxi Rodríguez, Diego Forlán
+
+MATCH: 920496 | sob., 20.12.2008 | RCD Espanyol
+PLAYERS: Leo Franco, John Heitinga, Luis Amaranto Perea, Pablo Ibáñez, Mariano Pernía, Paulo Assunção, Maniche, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 920338 | niedz., 31.08.2008 | Málaga CF
+PLAYERS: Grégory Coupet, John Heitinga, Tomas Ujfalusi, Mariano Pernía, Georgios Seitaridis, Paulo Assunção, Maniche, Simão, Maxi Rodríguez, Diego Forlán, Sergio Agüero
+
+MATCH: 923911 | śr., 26.11.2008 | PSV Eindhoven
+PLAYERS: Grégory Coupet, John Heitinga, Tomas Ujfalusi, Mariano Pernía, Georgios Seitaridis, Maniche, Raúl García, Simão, Maxi Rodríguez, Diego Forlán, Sergio Agüero
+
+MATCH: 931759 | wt., 06.01.2009 | FC Barcelona
+PLAYERS: Grégory Coupet, John Heitinga, Luis Amaranto Perea, Mariano Pernía, Georgios Seitaridis, Paulo Assunção, Maniche, Simão, Maxi Rodríguez, Diego Forlán, Florent Sinama-Pongolle
+
+MATCH: 920539 | niedz., 01.02.2009 | Real Valladolid CF
+PLAYERS: Leo Franco, John Heitinga, Luis Amaranto Perea, Pablo Ibáñez, Mariano Pernía, Paulo Assunção, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 920525 | niedz., 18.01.2009 | UD Almería
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Tomas Ujfalusi, Antonio López, Paulo Assunção, Éver Banega, Simão, Florent Sinama-Pongolle, Diego Forlán, Sergio Agüero
+
+MATCH: 920612 | niedz., 22.03.2009 | RCD Mallorca
+PLAYERS: Leo Franco, John Heitinga, Tomas Ujfalusi, Pablo Ibáñez, Antonio López, Ignacio Camacho, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 920570 | sob., 21.02.2009 | Sevilla FC
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Tomas Ujfalusi, Antonio López, Mariano Pernía, Paulo Assunção, Maniche, Raúl García, Simão, Diego Forlán
+

@@ -1,0 +1,253 @@
+# Graph for Java/GraphStream
+# Nodes: 23
+# Edges: 247
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Diego López | Diego Godín | 26 | 34 | 32
+EDGE Diego López | Fabricio Fuentes | 8 | 34 | 25
+EDGE Diego López | Joan Capdevila | 25 | 34 | 43
+EDGE Diego López | Ángel López | 17 | 34 | 26
+EDGE Diego López | Josico | 10 | 34 | 16
+EDGE Diego López | Marcos Senna | 23 | 34 | 41
+EDGE Diego López | Cani | 15 | 34 | 22
+EDGE Diego López | Matías Fernández | 15 | 34 | 19
+EDGE Diego López | Giuseppe Rossi | 18 | 34 | 29
+EDGE Diego López | Jon Dahl Tomasson | 14 | 34 | 19
+EDGE Diego López | Javi Venta | 21 | 34 | 30
+EDGE Diego López | Bruno Soriano | 13 | 34 | 22
+EDGE Diego López | Nihat Kahveci | 23 | 34 | 31
+EDGE Diego López | Pascal Cygan | 16 | 34 | 28
+EDGE Diego López | Josemi | 6 | 34 | 7
+EDGE Diego López | Rio Mavuba | 8 | 34 | 9
+EDGE Diego López | Santi Cazorla | 25 | 34 | 38
+EDGE Diego López | Robert Pirès | 16 | 34 | 31
+EDGE Diego López | Guillermo Franco | 10 | 34 | 19
+EDGE Diego López | Gonzalo Rodríguez | 18 | 34 | 19
+EDGE Diego López | Sebastián Eguren | 13 | 34 | 14
+EDGE Diego Godín | Fabricio Fuentes | 8 | 32 | 25
+EDGE Diego Godín | Joan Capdevila | 28 | 32 | 43
+EDGE Diego Godín | Ángel López | 17 | 32 | 26
+EDGE Diego Godín | Josico | 8 | 32 | 16
+EDGE Diego Godín | Marcos Senna | 26 | 32 | 41
+EDGE Diego Godín | Cani | 14 | 32 | 22
+EDGE Diego Godín | Matías Fernández | 12 | 32 | 19
+EDGE Diego Godín | Giuseppe Rossi | 17 | 32 | 29
+EDGE Diego Godín | Jon Dahl Tomasson | 12 | 32 | 19
+EDGE Diego Godín | Sebastián Viera | 6 | 32 | 18
+EDGE Diego Godín | Bruno Soriano | 13 | 32 | 22
+EDGE Diego Godín | Robert Pirès | 19 | 32 | 31
+EDGE Diego Godín | Guillermo Franco | 10 | 32 | 19
+EDGE Diego Godín | Javi Venta | 18 | 32 | 30
+EDGE Diego Godín | Nihat Kahveci | 23 | 32 | 31
+EDGE Diego Godín | Rio Mavuba | 5 | 32 | 9
+EDGE Diego Godín | Pascal Cygan | 8 | 32 | 28
+EDGE Diego Godín | Josemi | 2 | 32 | 7
+EDGE Diego Godín | Santi Cazorla | 21 | 32 | 38
+EDGE Diego Godín | Gonzalo Rodríguez | 16 | 32 | 19
+EDGE Diego Godín | Sebastián Eguren | 11 | 32 | 14
+EDGE Fabricio Fuentes | Joan Capdevila | 20 | 25 | 43
+EDGE Fabricio Fuentes | Ángel López | 14 | 25 | 26
+EDGE Fabricio Fuentes | Josico | 8 | 25 | 16
+EDGE Fabricio Fuentes | Marcos Senna | 21 | 25 | 41
+EDGE Fabricio Fuentes | Cani | 13 | 25 | 22
+EDGE Fabricio Fuentes | Matías Fernández | 10 | 25 | 19
+EDGE Fabricio Fuentes | Giuseppe Rossi | 14 | 25 | 29
+EDGE Fabricio Fuentes | Jon Dahl Tomasson | 10 | 25 | 19
+EDGE Fabricio Fuentes | Sebastián Viera | 17 | 25 | 18
+EDGE Fabricio Fuentes | Bruno Soriano | 13 | 25 | 22
+EDGE Fabricio Fuentes | Robert Pirès | 16 | 25 | 31
+EDGE Fabricio Fuentes | Guillermo Franco | 12 | 25 | 19
+EDGE Fabricio Fuentes | Javi Venta | 13 | 25 | 30
+EDGE Fabricio Fuentes | Nihat Kahveci | 9 | 25 | 31
+EDGE Fabricio Fuentes | Rio Mavuba | 6 | 25 | 9
+EDGE Fabricio Fuentes | Pascal Cygan | 17 | 25 | 28
+EDGE Fabricio Fuentes | Josemi | 5 | 25 | 7
+EDGE Fabricio Fuentes | Santi Cazorla | 16 | 25 | 38
+EDGE Joan Capdevila | Ángel López | 19 | 43 | 26
+EDGE Joan Capdevila | Josico | 14 | 43 | 16
+EDGE Joan Capdevila | Marcos Senna | 37 | 43 | 41
+EDGE Joan Capdevila | Cani | 18 | 43 | 22
+EDGE Joan Capdevila | Matías Fernández | 13 | 43 | 19
+EDGE Joan Capdevila | Giuseppe Rossi | 24 | 43 | 29
+EDGE Joan Capdevila | Jon Dahl Tomasson | 14 | 43 | 19
+EDGE Joan Capdevila | Sebastián Viera | 18 | 43 | 18
+EDGE Joan Capdevila | Bruno Soriano | 18 | 43 | 22
+EDGE Joan Capdevila | Robert Pirès | 29 | 43 | 31
+EDGE Joan Capdevila | Guillermo Franco | 18 | 43 | 19
+EDGE Joan Capdevila | Rio Mavuba | 3 | 43 | 9
+EDGE Joan Capdevila | Pascal Cygan | 21 | 43 | 28
+EDGE Joan Capdevila | Javi Venta | 23 | 43 | 30
+EDGE Joan Capdevila | Nihat Kahveci | 26 | 43 | 31
+EDGE Joan Capdevila | Santi Cazorla | 30 | 43 | 38
+EDGE Joan Capdevila | Josemi | 2 | 43 | 7
+EDGE Joan Capdevila | Gonzalo Rodríguez | 17 | 43 | 19
+EDGE Joan Capdevila | Sebastián Eguren | 13 | 43 | 14
+EDGE Ángel López | Josico | 9 | 26 | 16
+EDGE Ángel López | Marcos Senna | 20 | 26 | 41
+EDGE Ángel López | Cani | 10 | 26 | 22
+EDGE Ángel López | Matías Fernández | 12 | 26 | 19
+EDGE Ángel López | Giuseppe Rossi | 13 | 26 | 29
+EDGE Ángel López | Jon Dahl Tomasson | 8 | 26 | 19
+EDGE Ángel López | Sebastián Viera | 9 | 26 | 18
+EDGE Ángel López | Bruno Soriano | 12 | 26 | 22
+EDGE Ángel López | Robert Pirès | 14 | 26 | 31
+EDGE Ángel López | Guillermo Franco | 12 | 26 | 19
+EDGE Ángel López | Javi Venta | 6 | 26 | 30
+EDGE Ángel López | Nihat Kahveci | 16 | 26 | 31
+EDGE Ángel López | Rio Mavuba | 6 | 26 | 9
+EDGE Ángel López | Pascal Cygan | 14 | 26 | 28
+EDGE Ángel López | Josemi | 3 | 26 | 7
+EDGE Ángel López | Santi Cazorla | 18 | 26 | 38
+EDGE Ángel López | Gonzalo Rodríguez | 7 | 26 | 19
+EDGE Ángel López | Sebastián Eguren | 4 | 26 | 14
+EDGE Josico | Marcos Senna | 10 | 16 | 41
+EDGE Josico | Cani | 6 | 16 | 22
+EDGE Josico | Matías Fernández | 3 | 16 | 19
+EDGE Josico | Giuseppe Rossi | 12 | 16 | 29
+EDGE Josico | Jon Dahl Tomasson | 7 | 16 | 19
+EDGE Josico | Pascal Cygan | 11 | 16 | 28
+EDGE Josico | Josemi | 2 | 16 | 7
+EDGE Josico | Rio Mavuba | 1 | 16 | 9
+EDGE Josico | Santi Cazorla | 12 | 16 | 38
+EDGE Josico | Nihat Kahveci | 9 | 16 | 31
+EDGE Josico | Gonzalo Rodríguez | 5 | 16 | 19
+EDGE Josico | Robert Pirès | 11 | 16 | 31
+EDGE Josico | Bruno Soriano | 4 | 16 | 22
+EDGE Josico | Sebastián Viera | 6 | 16 | 18
+EDGE Josico | Javi Venta | 7 | 16 | 30
+EDGE Josico | Guillermo Franco | 4 | 16 | 19
+EDGE Josico | Sebastián Eguren | 1 | 16 | 14
+EDGE Marcos Senna | Cani | 18 | 41 | 22
+EDGE Marcos Senna | Matías Fernández | 14 | 41 | 19
+EDGE Marcos Senna | Giuseppe Rossi | 23 | 41 | 29
+EDGE Marcos Senna | Jon Dahl Tomasson | 14 | 41 | 19
+EDGE Marcos Senna | Sebastián Viera | 18 | 41 | 18
+EDGE Marcos Senna | Bruno Soriano | 14 | 41 | 22
+EDGE Marcos Senna | Robert Pirès | 27 | 41 | 31
+EDGE Marcos Senna | Guillermo Franco | 14 | 41 | 19
+EDGE Marcos Senna | Javi Venta | 24 | 41 | 30
+EDGE Marcos Senna | Nihat Kahveci | 26 | 41 | 31
+EDGE Marcos Senna | Rio Mavuba | 4 | 41 | 9
+EDGE Marcos Senna | Pascal Cygan | 21 | 41 | 28
+EDGE Marcos Senna | Santi Cazorla | 28 | 41 | 38
+EDGE Marcos Senna | Josemi | 2 | 41 | 7
+EDGE Marcos Senna | Gonzalo Rodríguez | 14 | 41 | 19
+EDGE Marcos Senna | Sebastián Eguren | 12 | 41 | 14
+EDGE Cani | Matías Fernández | 9 | 22 | 19
+EDGE Cani | Giuseppe Rossi | 11 | 22 | 29
+EDGE Cani | Jon Dahl Tomasson | 8 | 22 | 19
+EDGE Cani | Sebastián Viera | 7 | 22 | 18
+EDGE Cani | Bruno Soriano | 10 | 22 | 22
+EDGE Cani | Robert Pirès | 9 | 22 | 31
+EDGE Cani | Guillermo Franco | 9 | 22 | 19
+EDGE Cani | Javi Venta | 13 | 22 | 30
+EDGE Cani | Nihat Kahveci | 12 | 22 | 31
+EDGE Cani | Rio Mavuba | 5 | 22 | 9
+EDGE Cani | Pascal Cygan | 12 | 22 | 28
+EDGE Cani | Santi Cazorla | 9 | 22 | 38
+EDGE Cani | Josemi | 3 | 22 | 7
+EDGE Cani | Gonzalo Rodríguez | 5 | 22 | 19
+EDGE Cani | Sebastián Eguren | 4 | 22 | 14
+EDGE Matías Fernández | Giuseppe Rossi | 8 | 19 | 29
+EDGE Matías Fernández | Jon Dahl Tomasson | 12 | 19 | 19
+EDGE Matías Fernández | Javi Venta | 9 | 19 | 30
+EDGE Matías Fernández | Bruno Soriano | 6 | 19 | 22
+EDGE Matías Fernández | Nihat Kahveci | 9 | 19 | 31
+EDGE Matías Fernández | Sebastián Viera | 4 | 19 | 18
+EDGE Matías Fernández | Rio Mavuba | 7 | 19 | 9
+EDGE Matías Fernández | Robert Pirès | 3 | 19 | 31
+EDGE Matías Fernández | Pascal Cygan | 9 | 19 | 28
+EDGE Matías Fernández | Josemi | 4 | 19 | 7
+EDGE Matías Fernández | Santi Cazorla | 11 | 19 | 38
+EDGE Matías Fernández | Gonzalo Rodríguez | 7 | 19 | 19
+EDGE Matías Fernández | Sebastián Eguren | 7 | 19 | 14
+EDGE Matías Fernández | Guillermo Franco | 6 | 19 | 19
+EDGE Giuseppe Rossi | Jon Dahl Tomasson | 7 | 29 | 19
+EDGE Giuseppe Rossi | Sebastián Viera | 11 | 29 | 18
+EDGE Giuseppe Rossi | Bruno Soriano | 10 | 29 | 22
+EDGE Giuseppe Rossi | Robert Pirès | 19 | 29 | 31
+EDGE Giuseppe Rossi | Guillermo Franco | 5 | 29 | 19
+EDGE Giuseppe Rossi | Rio Mavuba | 4 | 29 | 9
+EDGE Giuseppe Rossi | Pascal Cygan | 16 | 29 | 28
+EDGE Giuseppe Rossi | Javi Venta | 18 | 29 | 30
+EDGE Giuseppe Rossi | Santi Cazorla | 23 | 29 | 38
+EDGE Giuseppe Rossi | Nihat Kahveci | 15 | 29 | 31
+EDGE Giuseppe Rossi | Josemi | 4 | 29 | 7
+EDGE Giuseppe Rossi | Gonzalo Rodríguez | 11 | 29 | 19
+EDGE Giuseppe Rossi | Sebastián Eguren | 7 | 29 | 14
+EDGE Jon Dahl Tomasson | Javi Venta | 13 | 19 | 30
+EDGE Jon Dahl Tomasson | Bruno Soriano | 6 | 19 | 22
+EDGE Jon Dahl Tomasson | Nihat Kahveci | 8 | 19 | 31
+EDGE Jon Dahl Tomasson | Pascal Cygan | 11 | 19 | 28
+EDGE Jon Dahl Tomasson | Josemi | 3 | 19 | 7
+EDGE Jon Dahl Tomasson | Rio Mavuba | 6 | 19 | 9
+EDGE Jon Dahl Tomasson | Santi Cazorla | 13 | 19 | 38
+EDGE Jon Dahl Tomasson | Gonzalo Rodríguez | 5 | 19 | 19
+EDGE Jon Dahl Tomasson | Robert Pirès | 7 | 19 | 31
+EDGE Jon Dahl Tomasson | Sebastián Viera | 5 | 19 | 18
+EDGE Jon Dahl Tomasson | Sebastián Eguren | 4 | 19 | 14
+EDGE Jon Dahl Tomasson | Guillermo Franco | 3 | 19 | 19
+EDGE Sebastián Viera | Bruno Soriano | 9 | 18 | 22
+EDGE Sebastián Viera | Robert Pirès | 15 | 18 | 31
+EDGE Sebastián Viera | Guillermo Franco | 9 | 18 | 19
+EDGE Sebastián Viera | Rio Mavuba | 1 | 18 | 9
+EDGE Sebastián Viera | Pascal Cygan | 12 | 18 | 28
+EDGE Sebastián Viera | Javi Venta | 9 | 18 | 30
+EDGE Sebastián Viera | Nihat Kahveci | 8 | 18 | 31
+EDGE Sebastián Viera | Josemi | 1 | 18 | 7
+EDGE Sebastián Viera | Santi Cazorla | 13 | 18 | 38
+EDGE Sebastián Viera | Gonzalo Rodríguez | 1 | 18 | 19
+EDGE Sebastián Viera | Sebastián Eguren | 1 | 18 | 14
+EDGE Bruno Soriano | Robert Pirès | 14 | 22 | 31
+EDGE Bruno Soriano | Guillermo Franco | 12 | 22 | 19
+EDGE Bruno Soriano | Javi Venta | 11 | 22 | 30
+EDGE Bruno Soriano | Nihat Kahveci | 13 | 22 | 31
+EDGE Bruno Soriano | Pascal Cygan | 13 | 22 | 28
+EDGE Bruno Soriano | Josemi | 4 | 22 | 7
+EDGE Bruno Soriano | Rio Mavuba | 3 | 22 | 9
+EDGE Bruno Soriano | Santi Cazorla | 16 | 22 | 38
+EDGE Bruno Soriano | Gonzalo Rodríguez | 5 | 22 | 19
+EDGE Bruno Soriano | Sebastián Eguren | 1 | 22 | 14
+EDGE Robert Pirès | Guillermo Franco | 12 | 31 | 19
+EDGE Robert Pirès | Rio Mavuba | 2 | 31 | 9
+EDGE Robert Pirès | Pascal Cygan | 16 | 31 | 28
+EDGE Robert Pirès | Josemi | 2 | 31 | 7
+EDGE Robert Pirès | Javi Venta | 19 | 31 | 30
+EDGE Robert Pirès | Santi Cazorla | 23 | 31 | 38
+EDGE Robert Pirès | Nihat Kahveci | 19 | 31 | 31
+EDGE Robert Pirès | Gonzalo Rodríguez | 11 | 31 | 19
+EDGE Robert Pirès | Sebastián Eguren | 7 | 31 | 14
+EDGE Guillermo Franco | Pascal Cygan | 10 | 19 | 28
+EDGE Guillermo Franco | Josemi | 2 | 19 | 7
+EDGE Guillermo Franco | Javi Venta | 8 | 19 | 30
+EDGE Guillermo Franco | Rio Mavuba | 2 | 19 | 9
+EDGE Guillermo Franco | Santi Cazorla | 13 | 19 | 38
+EDGE Guillermo Franco | Nihat Kahveci | 8 | 19 | 31
+EDGE Guillermo Franco | Gonzalo Rodríguez | 6 | 19 | 19
+EDGE Guillermo Franco | Sebastián Eguren | 5 | 19 | 14
+EDGE Javi Venta | Nihat Kahveci | 17 | 30 | 31
+EDGE Javi Venta | Pascal Cygan | 16 | 30 | 28
+EDGE Javi Venta | Josemi | 3 | 30 | 7
+EDGE Javi Venta | Rio Mavuba | 5 | 30 | 9
+EDGE Javi Venta | Santi Cazorla | 23 | 30 | 38
+EDGE Javi Venta | Gonzalo Rodríguez | 13 | 30 | 19
+EDGE Javi Venta | Sebastián Eguren | 11 | 30 | 14
+EDGE Nihat Kahveci | Pascal Cygan | 15 | 31 | 28
+EDGE Nihat Kahveci | Josemi | 3 | 31 | 7
+EDGE Nihat Kahveci | Rio Mavuba | 3 | 31 | 9
+EDGE Nihat Kahveci | Santi Cazorla | 22 | 31 | 38
+EDGE Nihat Kahveci | Gonzalo Rodríguez | 15 | 31 | 19
+EDGE Nihat Kahveci | Sebastián Eguren | 11 | 31 | 14
+EDGE Rio Mavuba | Pascal Cygan | 7 | 9 | 28
+EDGE Rio Mavuba | Josemi | 5 | 9 | 7
+EDGE Rio Mavuba | Santi Cazorla | 7 | 9 | 38
+EDGE Pascal Cygan | Josemi | 6 | 28 | 7
+EDGE Pascal Cygan | Santi Cazorla | 23 | 28 | 38
+EDGE Pascal Cygan | Gonzalo Rodríguez | 3 | 28 | 19
+EDGE Pascal Cygan | Sebastián Eguren | 3 | 28 | 14
+EDGE Josemi | Santi Cazorla | 7 | 7 | 38
+EDGE Josemi | Gonzalo Rodríguez | 1 | 7 | 19
+EDGE Santi Cazorla | Gonzalo Rodríguez | 16 | 38 | 19
+EDGE Santi Cazorla | Sebastián Eguren | 11 | 38 | 14
+EDGE Gonzalo Rodríguez | Sebastián Eguren | 14 | 19 | 14

@@ -1,0 +1,335 @@
+# Graph for Java/GraphStream
+# Nodes: 28
+# Edges: 329
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Andrés Fernández | Ramiro Funes Mori | 16 | 22 | 39
+EDGE Andrés Fernández | Álvaro González | 14 | 22 | 41
+EDGE Andrés Fernández | Jaume Costa | 10 | 22 | 26
+EDGE Andrés Fernández | Mario Gaspar | 14 | 22 | 39
+EDGE Andrés Fernández | Santiago Cáseres | 10 | 22 | 26
+EDGE Andrés Fernández | Manu Morlanes | 4 | 22 | 11
+EDGE Andrés Fernández | Pablo Fornals | 15 | 22 | 38
+EDGE Andrés Fernández | Manu Trigueros | 9 | 22 | 26
+EDGE Andrés Fernández | Karl Toko Ekambi | 11 | 22 | 31
+EDGE Andrés Fernández | Carlos Bacca | 11 | 22 | 19
+EDGE Andrés Fernández | Daniele Bonera | 6 | 22 | 10
+EDGE Andrés Fernández | Miguel Layún | 6 | 22 | 11
+EDGE Andrés Fernández | Alfonso Pedraza | 10 | 22 | 30
+EDGE Andrés Fernández | Dani Raba | 9 | 22 | 10
+EDGE Andrés Fernández | Víctor Ruiz | 11 | 22 | 33
+EDGE Andrés Fernández | Javi Fuego | 6 | 22 | 8
+EDGE Andrés Fernández | Samuel Chukwueze | 12 | 22 | 26
+EDGE Andrés Fernández | Gerard Moreno | 9 | 22 | 32
+EDGE Andrés Fernández | Vicente Iborra | 8 | 22 | 22
+EDGE Andrés Fernández | Miguel Llambrich | 6 | 22 | 11
+EDGE Andrés Fernández | Xavi Quintillà | 7 | 22 | 9
+EDGE Andrés Fernández | Santi Cazorla | 9 | 22 | 34
+EDGE Andrés Fernández | Nicola Sansone | 4 | 22 | 4
+EDGE Andrés Fernández | Pepe Castaño | 1 | 22 | 1
+EDGE Andrés Fernández | Manuel Iturra | 1 | 22 | 2
+EDGE Andrés Fernández | Andrei Rațiu | 1 | 22 | 1
+EDGE Ramiro Funes Mori | Álvaro González | 29 | 39 | 41
+EDGE Ramiro Funes Mori | Jaume Costa | 21 | 39 | 26
+EDGE Ramiro Funes Mori | Mario Gaspar | 27 | 39 | 39
+EDGE Ramiro Funes Mori | Santiago Cáseres | 15 | 39 | 26
+EDGE Ramiro Funes Mori | Manu Morlanes | 9 | 39 | 11
+EDGE Ramiro Funes Mori | Pablo Fornals | 30 | 39 | 38
+EDGE Ramiro Funes Mori | Manu Trigueros | 19 | 39 | 26
+EDGE Ramiro Funes Mori | Karl Toko Ekambi | 23 | 39 | 31
+EDGE Ramiro Funes Mori | Carlos Bacca | 16 | 39 | 19
+EDGE Ramiro Funes Mori | Sergio Asenjo | 23 | 39 | 32
+EDGE Ramiro Funes Mori | Samuel Chukwueze | 18 | 39 | 26
+EDGE Ramiro Funes Mori | Gerard Moreno | 23 | 39 | 32
+EDGE Ramiro Funes Mori | Miguel Llambrich | 9 | 39 | 11
+EDGE Ramiro Funes Mori | Víctor Ruiz | 20 | 39 | 33
+EDGE Ramiro Funes Mori | Alfonso Pedraza | 20 | 39 | 30
+EDGE Ramiro Funes Mori | Vicente Iborra | 18 | 39 | 22
+EDGE Ramiro Funes Mori | Santi Cazorla | 23 | 39 | 34
+EDGE Ramiro Funes Mori | Daniele Bonera | 6 | 39 | 10
+EDGE Ramiro Funes Mori | Javi Fuego | 5 | 39 | 8
+EDGE Ramiro Funes Mori | Dani Raba | 5 | 39 | 10
+EDGE Ramiro Funes Mori | Xavi Quintillà | 6 | 39 | 9
+EDGE Ramiro Funes Mori | Manuel Iturra | 1 | 39 | 2
+EDGE Ramiro Funes Mori | Nicola Sansone | 2 | 39 | 4
+EDGE Ramiro Funes Mori | Miguel Layún | 5 | 39 | 11
+EDGE Ramiro Funes Mori | Andrei Rațiu | 1 | 39 | 1
+EDGE Álvaro González | Jaume Costa | 22 | 41 | 26
+EDGE Álvaro González | Mario Gaspar | 30 | 41 | 39
+EDGE Álvaro González | Santiago Cáseres | 19 | 41 | 26
+EDGE Álvaro González | Manu Morlanes | 8 | 41 | 11
+EDGE Álvaro González | Pablo Fornals | 32 | 41 | 38
+EDGE Álvaro González | Manu Trigueros | 21 | 41 | 26
+EDGE Álvaro González | Karl Toko Ekambi | 26 | 41 | 31
+EDGE Álvaro González | Carlos Bacca | 16 | 41 | 19
+EDGE Álvaro González | Daniele Bonera | 4 | 41 | 10
+EDGE Álvaro González | Miguel Layún | 7 | 41 | 11
+EDGE Álvaro González | Alfonso Pedraza | 20 | 41 | 30
+EDGE Álvaro González | Dani Raba | 4 | 41 | 10
+EDGE Álvaro González | Sergio Asenjo | 27 | 41 | 32
+EDGE Álvaro González | Samuel Chukwueze | 19 | 41 | 26
+EDGE Álvaro González | Gerard Moreno | 25 | 41 | 32
+EDGE Álvaro González | Miguel Llambrich | 7 | 41 | 11
+EDGE Álvaro González | Víctor Ruiz | 22 | 41 | 33
+EDGE Álvaro González | Vicente Iborra | 19 | 41 | 22
+EDGE Álvaro González | Santi Cazorla | 26 | 41 | 34
+EDGE Álvaro González | Javi Fuego | 4 | 41 | 8
+EDGE Álvaro González | Xavi Quintillà | 8 | 41 | 9
+EDGE Álvaro González | Manuel Iturra | 1 | 41 | 2
+EDGE Jaume Costa | Mario Gaspar | 15 | 26 | 39
+EDGE Jaume Costa | Santiago Cáseres | 13 | 26 | 26
+EDGE Jaume Costa | Manu Morlanes | 6 | 26 | 11
+EDGE Jaume Costa | Pablo Fornals | 19 | 26 | 38
+EDGE Jaume Costa | Manu Trigueros | 18 | 26 | 26
+EDGE Jaume Costa | Karl Toko Ekambi | 14 | 26 | 31
+EDGE Jaume Costa | Carlos Bacca | 9 | 26 | 19
+EDGE Jaume Costa | Daniele Bonera | 2 | 26 | 10
+EDGE Jaume Costa | Miguel Layún | 8 | 26 | 11
+EDGE Jaume Costa | Alfonso Pedraza | 8 | 26 | 30
+EDGE Jaume Costa | Dani Raba | 6 | 26 | 10
+EDGE Jaume Costa | Sergio Asenjo | 16 | 26 | 32
+EDGE Jaume Costa | Samuel Chukwueze | 9 | 26 | 26
+EDGE Jaume Costa | Gerard Moreno | 19 | 26 | 32
+EDGE Jaume Costa | Miguel Llambrich | 5 | 26 | 11
+EDGE Jaume Costa | Víctor Ruiz | 14 | 26 | 33
+EDGE Jaume Costa | Javi Fuego | 4 | 26 | 8
+EDGE Jaume Costa | Vicente Iborra | 9 | 26 | 22
+EDGE Jaume Costa | Santi Cazorla | 10 | 26 | 34
+EDGE Jaume Costa | Manuel Iturra | 1 | 26 | 2
+EDGE Jaume Costa | Xavi Quintillà | 1 | 26 | 9
+EDGE Jaume Costa | Andrei Rațiu | 1 | 26 | 1
+EDGE Mario Gaspar | Santiago Cáseres | 19 | 39 | 26
+EDGE Mario Gaspar | Manu Morlanes | 7 | 39 | 11
+EDGE Mario Gaspar | Pablo Fornals | 29 | 39 | 38
+EDGE Mario Gaspar | Manu Trigueros | 18 | 39 | 26
+EDGE Mario Gaspar | Karl Toko Ekambi | 21 | 39 | 31
+EDGE Mario Gaspar | Carlos Bacca | 14 | 39 | 19
+EDGE Mario Gaspar | Sergio Asenjo | 25 | 39 | 32
+EDGE Mario Gaspar | Samuel Chukwueze | 20 | 39 | 26
+EDGE Mario Gaspar | Gerard Moreno | 24 | 39 | 32
+EDGE Mario Gaspar | Víctor Ruiz | 27 | 39 | 33
+EDGE Mario Gaspar | Alfonso Pedraza | 22 | 39 | 30
+EDGE Mario Gaspar | Vicente Iborra | 17 | 39 | 22
+EDGE Mario Gaspar | Santi Cazorla | 29 | 39 | 34
+EDGE Mario Gaspar | Javi Fuego | 4 | 39 | 8
+EDGE Mario Gaspar | Daniele Bonera | 4 | 39 | 10
+EDGE Mario Gaspar | Miguel Llambrich | 2 | 39 | 11
+EDGE Mario Gaspar | Dani Raba | 4 | 39 | 10
+EDGE Mario Gaspar | Miguel Layún | 5 | 39 | 11
+EDGE Mario Gaspar | Xavi Quintillà | 8 | 39 | 9
+EDGE Mario Gaspar | Manuel Iturra | 2 | 39 | 2
+EDGE Mario Gaspar | Nicola Sansone | 3 | 39 | 4
+EDGE Santiago Cáseres | Manu Morlanes | 3 | 26 | 11
+EDGE Santiago Cáseres | Pablo Fornals | 19 | 26 | 38
+EDGE Santiago Cáseres | Manu Trigueros | 13 | 26 | 26
+EDGE Santiago Cáseres | Karl Toko Ekambi | 13 | 26 | 31
+EDGE Santiago Cáseres | Carlos Bacca | 8 | 26 | 19
+EDGE Santiago Cáseres | Daniele Bonera | 4 | 26 | 10
+EDGE Santiago Cáseres | Miguel Layún | 5 | 26 | 11
+EDGE Santiago Cáseres | Alfonso Pedraza | 15 | 26 | 30
+EDGE Santiago Cáseres | Dani Raba | 5 | 26 | 10
+EDGE Santiago Cáseres | Sergio Asenjo | 16 | 26 | 32
+EDGE Santiago Cáseres | Samuel Chukwueze | 13 | 26 | 26
+EDGE Santiago Cáseres | Gerard Moreno | 19 | 26 | 32
+EDGE Santiago Cáseres | Miguel Llambrich | 4 | 26 | 11
+EDGE Santiago Cáseres | Víctor Ruiz | 16 | 26 | 33
+EDGE Santiago Cáseres | Javi Fuego | 4 | 26 | 8
+EDGE Santiago Cáseres | Vicente Iborra | 6 | 26 | 22
+EDGE Santiago Cáseres | Santi Cazorla | 16 | 26 | 34
+EDGE Santiago Cáseres | Xavi Quintillà | 2 | 26 | 9
+EDGE Santiago Cáseres | Pepe Castaño | 1 | 26 | 1
+EDGE Santiago Cáseres | Nicola Sansone | 1 | 26 | 4
+EDGE Santiago Cáseres | Andrei Rațiu | 1 | 26 | 1
+EDGE Manu Morlanes | Pablo Fornals | 3 | 11 | 38
+EDGE Manu Morlanes | Manu Trigueros | 4 | 11 | 26
+EDGE Manu Morlanes | Karl Toko Ekambi | 9 | 11 | 31
+EDGE Manu Morlanes | Carlos Bacca | 3 | 11 | 19
+EDGE Manu Morlanes | Sergio Asenjo | 7 | 11 | 32
+EDGE Manu Morlanes | Víctor Ruiz | 8 | 11 | 33
+EDGE Manu Morlanes | Alfonso Pedraza | 7 | 11 | 30
+EDGE Manu Morlanes | Vicente Iborra | 6 | 11 | 22
+EDGE Manu Morlanes | Santi Cazorla | 6 | 11 | 34
+EDGE Manu Morlanes | Daniele Bonera | 2 | 11 | 10
+EDGE Manu Morlanes | Samuel Chukwueze | 5 | 11 | 26
+EDGE Manu Morlanes | Miguel Layún | 2 | 11 | 11
+EDGE Manu Morlanes | Dani Raba | 3 | 11 | 10
+EDGE Manu Morlanes | Gerard Moreno | 4 | 11 | 32
+EDGE Manu Morlanes | Xavi Quintillà | 1 | 11 | 9
+EDGE Manu Morlanes | Miguel Llambrich | 1 | 11 | 11
+EDGE Manu Morlanes | Andrei Rațiu | 1 | 11 | 1
+EDGE Manu Morlanes | Javi Fuego | 1 | 11 | 8
+EDGE Pablo Fornals | Manu Trigueros | 21 | 38 | 26
+EDGE Pablo Fornals | Karl Toko Ekambi | 20 | 38 | 31
+EDGE Pablo Fornals | Carlos Bacca | 12 | 38 | 19
+EDGE Pablo Fornals | Sergio Asenjo | 23 | 38 | 32
+EDGE Pablo Fornals | Samuel Chukwueze | 20 | 38 | 26
+EDGE Pablo Fornals | Gerard Moreno | 28 | 38 | 32
+EDGE Pablo Fornals | Miguel Llambrich | 9 | 38 | 11
+EDGE Pablo Fornals | Daniele Bonera | 4 | 38 | 10
+EDGE Pablo Fornals | Vicente Iborra | 13 | 38 | 22
+EDGE Pablo Fornals | Santi Cazorla | 24 | 38 | 34
+EDGE Pablo Fornals | Alfonso Pedraza | 17 | 38 | 30
+EDGE Pablo Fornals | Víctor Ruiz | 21 | 38 | 33
+EDGE Pablo Fornals | Javi Fuego | 5 | 38 | 8
+EDGE Pablo Fornals | Dani Raba | 2 | 38 | 10
+EDGE Pablo Fornals | Xavi Quintillà | 6 | 38 | 9
+EDGE Pablo Fornals | Manuel Iturra | 1 | 38 | 2
+EDGE Pablo Fornals | Nicola Sansone | 2 | 38 | 4
+EDGE Pablo Fornals | Miguel Layún | 5 | 38 | 11
+EDGE Manu Trigueros | Karl Toko Ekambi | 13 | 26 | 31
+EDGE Manu Trigueros | Carlos Bacca | 9 | 26 | 19
+EDGE Manu Trigueros | Daniele Bonera | 3 | 26 | 10
+EDGE Manu Trigueros | Miguel Layún | 7 | 26 | 11
+EDGE Manu Trigueros | Alfonso Pedraza | 14 | 26 | 30
+EDGE Manu Trigueros | Dani Raba | 7 | 26 | 10
+EDGE Manu Trigueros | Sergio Asenjo | 17 | 26 | 32
+EDGE Manu Trigueros | Samuel Chukwueze | 8 | 26 | 26
+EDGE Manu Trigueros | Gerard Moreno | 18 | 26 | 32
+EDGE Manu Trigueros | Miguel Llambrich | 5 | 26 | 11
+EDGE Manu Trigueros | Víctor Ruiz | 15 | 26 | 33
+EDGE Manu Trigueros | Javi Fuego | 4 | 26 | 8
+EDGE Manu Trigueros | Santi Cazorla | 10 | 26 | 34
+EDGE Manu Trigueros | Manuel Iturra | 1 | 26 | 2
+EDGE Manu Trigueros | Vicente Iborra | 3 | 26 | 22
+EDGE Manu Trigueros | Xavi Quintillà | 1 | 26 | 9
+EDGE Manu Trigueros | Nicola Sansone | 1 | 26 | 4
+EDGE Manu Trigueros | Andrei Rațiu | 1 | 26 | 1
+EDGE Karl Toko Ekambi | Carlos Bacca | 11 | 31 | 19
+EDGE Karl Toko Ekambi | Daniele Bonera | 8 | 31 | 10
+EDGE Karl Toko Ekambi | Miguel Layún | 5 | 31 | 11
+EDGE Karl Toko Ekambi | Alfonso Pedraza | 17 | 31 | 30
+EDGE Karl Toko Ekambi | Dani Raba | 4 | 31 | 10
+EDGE Karl Toko Ekambi | Sergio Asenjo | 20 | 31 | 32
+EDGE Karl Toko Ekambi | Miguel Llambrich | 7 | 31 | 11
+EDGE Karl Toko Ekambi | Samuel Chukwueze | 13 | 31 | 26
+EDGE Karl Toko Ekambi | Gerard Moreno | 13 | 31 | 32
+EDGE Karl Toko Ekambi | Víctor Ruiz | 16 | 31 | 33
+EDGE Karl Toko Ekambi | Vicente Iborra | 16 | 31 | 22
+EDGE Karl Toko Ekambi | Santi Cazorla | 21 | 31 | 34
+EDGE Karl Toko Ekambi | Javi Fuego | 2 | 31 | 8
+EDGE Karl Toko Ekambi | Xavi Quintillà | 5 | 31 | 9
+EDGE Karl Toko Ekambi | Nicola Sansone | 2 | 31 | 4
+EDGE Carlos Bacca | Daniele Bonera | 5 | 19 | 10
+EDGE Carlos Bacca | Miguel Layún | 5 | 19 | 11
+EDGE Carlos Bacca | Alfonso Pedraza | 8 | 19 | 30
+EDGE Carlos Bacca | Dani Raba | 4 | 19 | 10
+EDGE Carlos Bacca | Sergio Asenjo | 8 | 19 | 32
+EDGE Carlos Bacca | Samuel Chukwueze | 7 | 19 | 26
+EDGE Carlos Bacca | Gerard Moreno | 5 | 19 | 32
+EDGE Carlos Bacca | Víctor Ruiz | 9 | 19 | 33
+EDGE Carlos Bacca | Vicente Iborra | 8 | 19 | 22
+EDGE Carlos Bacca | Santi Cazorla | 9 | 19 | 34
+EDGE Carlos Bacca | Javi Fuego | 4 | 19 | 8
+EDGE Carlos Bacca | Xavi Quintillà | 5 | 19 | 9
+EDGE Carlos Bacca | Pepe Castaño | 1 | 19 | 1
+EDGE Carlos Bacca | Miguel Llambrich | 2 | 19 | 11
+EDGE Carlos Bacca | Nicola Sansone | 1 | 19 | 4
+EDGE Daniele Bonera | Miguel Layún | 4 | 10 | 11
+EDGE Daniele Bonera | Alfonso Pedraza | 9 | 10 | 30
+EDGE Daniele Bonera | Dani Raba | 4 | 10 | 10
+EDGE Daniele Bonera | Sergio Asenjo | 4 | 10 | 32
+EDGE Daniele Bonera | Vicente Iborra | 4 | 10 | 22
+EDGE Daniele Bonera | Santi Cazorla | 6 | 10 | 34
+EDGE Daniele Bonera | Miguel Llambrich | 4 | 10 | 11
+EDGE Daniele Bonera | Gerard Moreno | 3 | 10 | 32
+EDGE Daniele Bonera | Víctor Ruiz | 5 | 10 | 33
+EDGE Daniele Bonera | Samuel Chukwueze | 3 | 10 | 26
+EDGE Daniele Bonera | Nicola Sansone | 3 | 10 | 4
+EDGE Daniele Bonera | Pepe Castaño | 1 | 10 | 1
+EDGE Daniele Bonera | Javi Fuego | 2 | 10 | 8
+EDGE Miguel Layún | Alfonso Pedraza | 3 | 11 | 30
+EDGE Miguel Layún | Dani Raba | 7 | 11 | 10
+EDGE Miguel Layún | Sergio Asenjo | 5 | 11 | 32
+EDGE Miguel Layún | Víctor Ruiz | 7 | 11 | 33
+EDGE Miguel Layún | Gerard Moreno | 6 | 11 | 32
+EDGE Miguel Layún | Miguel Llambrich | 4 | 11 | 11
+EDGE Miguel Layún | Pepe Castaño | 1 | 11 | 1
+EDGE Miguel Layún | Javi Fuego | 3 | 11 | 8
+EDGE Miguel Layún | Samuel Chukwueze | 3 | 11 | 26
+EDGE Miguel Layún | Xavi Quintillà | 1 | 11 | 9
+EDGE Miguel Layún | Manuel Iturra | 1 | 11 | 2
+EDGE Miguel Layún | Santi Cazorla | 3 | 11 | 34
+EDGE Miguel Layún | Nicola Sansone | 2 | 11 | 4
+EDGE Alfonso Pedraza | Dani Raba | 6 | 30 | 10
+EDGE Alfonso Pedraza | Sergio Asenjo | 20 | 30 | 32
+EDGE Alfonso Pedraza | Víctor Ruiz | 21 | 30 | 33
+EDGE Alfonso Pedraza | Vicente Iborra | 13 | 30 | 22
+EDGE Alfonso Pedraza | Santi Cazorla | 23 | 30 | 34
+EDGE Alfonso Pedraza | Miguel Llambrich | 5 | 30 | 11
+EDGE Alfonso Pedraza | Gerard Moreno | 16 | 30 | 32
+EDGE Alfonso Pedraza | Javi Fuego | 5 | 30 | 8
+EDGE Alfonso Pedraza | Samuel Chukwueze | 12 | 30 | 26
+EDGE Alfonso Pedraza | Xavi Quintillà | 3 | 30 | 9
+EDGE Alfonso Pedraza | Manuel Iturra | 1 | 30 | 2
+EDGE Alfonso Pedraza | Nicola Sansone | 3 | 30 | 4
+EDGE Alfonso Pedraza | Pepe Castaño | 1 | 30 | 1
+EDGE Alfonso Pedraza | Andrei Rațiu | 1 | 30 | 1
+EDGE Dani Raba | Víctor Ruiz | 5 | 10 | 33
+EDGE Dani Raba | Javi Fuego | 4 | 10 | 8
+EDGE Dani Raba | Miguel Llambrich | 4 | 10 | 11
+EDGE Dani Raba | Gerard Moreno | 4 | 10 | 32
+EDGE Dani Raba | Sergio Asenjo | 1 | 10 | 32
+EDGE Dani Raba | Xavi Quintillà | 2 | 10 | 9
+EDGE Dani Raba | Vicente Iborra | 1 | 10 | 22
+EDGE Dani Raba | Pepe Castaño | 1 | 10 | 1
+EDGE Dani Raba | Samuel Chukwueze | 2 | 10 | 26
+EDGE Dani Raba | Manuel Iturra | 1 | 10 | 2
+EDGE Dani Raba | Santi Cazorla | 2 | 10 | 34
+EDGE Dani Raba | Nicola Sansone | 2 | 10 | 4
+EDGE Dani Raba | Andrei Rațiu | 1 | 10 | 1
+EDGE Sergio Asenjo | Samuel Chukwueze | 14 | 32 | 26
+EDGE Sergio Asenjo | Gerard Moreno | 23 | 32 | 32
+EDGE Sergio Asenjo | Miguel Llambrich | 5 | 32 | 11
+EDGE Sergio Asenjo | Víctor Ruiz | 22 | 32 | 33
+EDGE Sergio Asenjo | Vicente Iborra | 14 | 32 | 22
+EDGE Sergio Asenjo | Santi Cazorla | 25 | 32 | 34
+EDGE Sergio Asenjo | Javi Fuego | 2 | 32 | 8
+EDGE Sergio Asenjo | Xavi Quintillà | 2 | 32 | 9
+EDGE Sergio Asenjo | Manuel Iturra | 1 | 32 | 2
+EDGE Samuel Chukwueze | Gerard Moreno | 14 | 26 | 32
+EDGE Samuel Chukwueze | Miguel Llambrich | 5 | 26 | 11
+EDGE Samuel Chukwueze | Víctor Ruiz | 16 | 26 | 33
+EDGE Samuel Chukwueze | Javi Fuego | 5 | 26 | 8
+EDGE Samuel Chukwueze | Santi Cazorla | 18 | 26 | 34
+EDGE Samuel Chukwueze | Vicente Iborra | 12 | 26 | 22
+EDGE Samuel Chukwueze | Xavi Quintillà | 8 | 26 | 9
+EDGE Samuel Chukwueze | Nicola Sansone | 2 | 26 | 4
+EDGE Samuel Chukwueze | Pepe Castaño | 1 | 26 | 1
+EDGE Samuel Chukwueze | Manuel Iturra | 1 | 26 | 2
+EDGE Gerard Moreno | Miguel Llambrich | 7 | 32 | 11
+EDGE Gerard Moreno | Vicente Iborra | 10 | 32 | 22
+EDGE Gerard Moreno | Santi Cazorla | 20 | 32 | 34
+EDGE Gerard Moreno | Víctor Ruiz | 21 | 32 | 33
+EDGE Gerard Moreno | Javi Fuego | 4 | 32 | 8
+EDGE Gerard Moreno | Xavi Quintillà | 2 | 32 | 9
+EDGE Gerard Moreno | Manuel Iturra | 1 | 32 | 2
+EDGE Gerard Moreno | Nicola Sansone | 1 | 32 | 4
+EDGE Gerard Moreno | Andrei Rațiu | 1 | 32 | 1
+EDGE Miguel Llambrich | Vicente Iborra | 3 | 11 | 22
+EDGE Miguel Llambrich | Santi Cazorla | 4 | 11 | 34
+EDGE Miguel Llambrich | Víctor Ruiz | 5 | 11 | 33
+EDGE Miguel Llambrich | Javi Fuego | 2 | 11 | 8
+EDGE Miguel Llambrich | Pepe Castaño | 1 | 11 | 1
+EDGE Miguel Llambrich | Nicola Sansone | 2 | 11 | 4
+EDGE Miguel Llambrich | Xavi Quintillà | 1 | 11 | 9
+EDGE Miguel Llambrich | Manuel Iturra | 1 | 11 | 2
+EDGE Víctor Ruiz | Vicente Iborra | 13 | 33 | 22
+EDGE Víctor Ruiz | Santi Cazorla | 22 | 33 | 34
+EDGE Víctor Ruiz | Javi Fuego | 5 | 33 | 8
+EDGE Víctor Ruiz | Nicola Sansone | 4 | 33 | 4
+EDGE Víctor Ruiz | Xavi Quintillà | 3 | 33 | 9
+EDGE Víctor Ruiz | Manuel Iturra | 1 | 33 | 2
+EDGE Víctor Ruiz | Andrei Rațiu | 1 | 33 | 1
+EDGE Vicente Iborra | Santi Cazorla | 19 | 22 | 34
+EDGE Vicente Iborra | Xavi Quintillà | 7 | 22 | 9
+EDGE Vicente Iborra | Javi Fuego | 1 | 22 | 8
+EDGE Santi Cazorla | Javi Fuego | 2 | 34 | 8
+EDGE Santi Cazorla | Xavi Quintillà | 8 | 34 | 9
+EDGE Santi Cazorla | Manuel Iturra | 2 | 34 | 2
+EDGE Santi Cazorla | Nicola Sansone | 3 | 34 | 4
+EDGE Javi Fuego | Xavi Quintillà | 1 | 8 | 9
+EDGE Javi Fuego | Pepe Castaño | 1 | 8 | 1
+EDGE Xavi Quintillà | Manuel Iturra | 1 | 9 | 2
+EDGE Xavi Quintillà | Nicola Sansone | 1 | 9 | 4
+EDGE Manuel Iturra | Nicola Sansone | 1 | 2 | 4

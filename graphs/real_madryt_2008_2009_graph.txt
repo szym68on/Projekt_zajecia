@@ -1,0 +1,302 @@
+# Graph for Java/GraphStream
+# Nodes: 27
+# Edges: 296
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Iker Casillas | Gabriel Heinze | 33 | 47 | 34
+EDGE Iker Casillas | Pepe | 32 | 47 | 32
+EDGE Iker Casillas | Marcelo | 27 | 47 | 30
+EDGE Iker Casillas | Sergio Ramos | 40 | 47 | 41
+EDGE Iker Casillas | Mahamadou Diarra | 11 | 47 | 12
+EDGE Iker Casillas | Rubén de la Red | 7 | 47 | 8
+EDGE Iker Casillas | Rafael van der Vaart | 20 | 47 | 22
+EDGE Iker Casillas | Raúl | 43 | 47 | 45
+EDGE Iker Casillas | Arjen Robben | 30 | 47 | 31
+EDGE Iker Casillas | Ruud van Nistelrooy | 12 | 47 | 12
+EDGE Iker Casillas | Fabio Cannavaro | 35 | 47 | 37
+EDGE Iker Casillas | Fernando Gago | 29 | 47 | 31
+EDGE Iker Casillas | Wesley Sneijder | 22 | 47 | 23
+EDGE Iker Casillas | Gonzalo Higuaín | 35 | 47 | 37
+EDGE Iker Casillas | Lassana Diarra | 21 | 47 | 21
+EDGE Iker Casillas | Klaas-Jan Huntelaar | 13 | 47 | 13
+EDGE Iker Casillas | Miguel Torres | 12 | 47 | 12
+EDGE Iker Casillas | Christoph Metzelder | 9 | 47 | 11
+EDGE Iker Casillas | Guti | 17 | 47 | 19
+EDGE Iker Casillas | Royston Drenthe | 7 | 47 | 9
+EDGE Iker Casillas | Javier Saviola | 2 | 47 | 4
+EDGE Iker Casillas | Javi García | 4 | 47 | 4
+EDGE Iker Casillas | Míchel Salgado | 7 | 47 | 10
+EDGE Iker Casillas | Gary Kagelmacher | 1 | 47 | 1
+EDGE Iker Casillas | Robinho | 1 | 47 | 1
+EDGE Gabriel Heinze | Pepe | 24 | 34 | 32
+EDGE Gabriel Heinze | Marcelo | 16 | 34 | 30
+EDGE Gabriel Heinze | Sergio Ramos | 30 | 34 | 41
+EDGE Gabriel Heinze | Mahamadou Diarra | 10 | 34 | 12
+EDGE Gabriel Heinze | Rubén de la Red | 6 | 34 | 8
+EDGE Gabriel Heinze | Rafael van der Vaart | 12 | 34 | 22
+EDGE Gabriel Heinze | Raúl | 31 | 34 | 45
+EDGE Gabriel Heinze | Arjen Robben | 23 | 34 | 31
+EDGE Gabriel Heinze | Ruud van Nistelrooy | 10 | 34 | 12
+EDGE Gabriel Heinze | Fabio Cannavaro | 26 | 34 | 37
+EDGE Gabriel Heinze | Fernando Gago | 19 | 34 | 31
+EDGE Gabriel Heinze | Wesley Sneijder | 17 | 34 | 23
+EDGE Gabriel Heinze | Gonzalo Higuaín | 23 | 34 | 37
+EDGE Gabriel Heinze | Miguel Torres | 5 | 34 | 12
+EDGE Gabriel Heinze | Guti | 10 | 34 | 19
+EDGE Gabriel Heinze | Royston Drenthe | 4 | 34 | 9
+EDGE Gabriel Heinze | Javier Saviola | 2 | 34 | 4
+EDGE Gabriel Heinze | Javi García | 4 | 34 | 4
+EDGE Gabriel Heinze | Christoph Metzelder | 4 | 34 | 11
+EDGE Gabriel Heinze | Lassana Diarra | 17 | 34 | 21
+EDGE Gabriel Heinze | Klaas-Jan Huntelaar | 9 | 34 | 13
+EDGE Gabriel Heinze | Míchel Salgado | 3 | 34 | 10
+EDGE Gabriel Heinze | Jerzy Dudek | 1 | 34 | 3
+EDGE Gabriel Heinze | Robinho | 1 | 34 | 1
+EDGE Pepe | Marcelo | 15 | 32 | 30
+EDGE Pepe | Sergio Ramos | 28 | 32 | 41
+EDGE Pepe | Mahamadou Diarra | 9 | 32 | 12
+EDGE Pepe | Rubén de la Red | 6 | 32 | 8
+EDGE Pepe | Rafael van der Vaart | 11 | 32 | 22
+EDGE Pepe | Raúl | 30 | 32 | 45
+EDGE Pepe | Arjen Robben | 21 | 32 | 31
+EDGE Pepe | Ruud van Nistelrooy | 9 | 32 | 12
+EDGE Pepe | Fabio Cannavaro | 22 | 32 | 37
+EDGE Pepe | Fernando Gago | 19 | 32 | 31
+EDGE Pepe | Wesley Sneijder | 19 | 32 | 23
+EDGE Pepe | Gonzalo Higuaín | 25 | 32 | 37
+EDGE Pepe | Lassana Diarra | 15 | 32 | 21
+EDGE Pepe | Klaas-Jan Huntelaar | 10 | 32 | 13
+EDGE Pepe | Miguel Torres | 7 | 32 | 12
+EDGE Pepe | Christoph Metzelder | 3 | 32 | 11
+EDGE Pepe | Guti | 8 | 32 | 19
+EDGE Pepe | Royston Drenthe | 3 | 32 | 9
+EDGE Pepe | Javier Saviola | 2 | 32 | 4
+EDGE Pepe | Míchel Salgado | 2 | 32 | 10
+EDGE Marcelo | Sergio Ramos | 23 | 30 | 41
+EDGE Marcelo | Mahamadou Diarra | 6 | 30 | 12
+EDGE Marcelo | Rubén de la Red | 4 | 30 | 8
+EDGE Marcelo | Rafael van der Vaart | 14 | 30 | 22
+EDGE Marcelo | Raúl | 26 | 30 | 45
+EDGE Marcelo | Arjen Robben | 18 | 30 | 31
+EDGE Marcelo | Ruud van Nistelrooy | 6 | 30 | 12
+EDGE Marcelo | Fabio Cannavaro | 21 | 30 | 37
+EDGE Marcelo | Lassana Diarra | 11 | 30 | 21
+EDGE Marcelo | Fernando Gago | 20 | 30 | 31
+EDGE Marcelo | Klaas-Jan Huntelaar | 8 | 30 | 13
+EDGE Marcelo | Gonzalo Higuaín | 22 | 30 | 37
+EDGE Marcelo | Miguel Torres | 6 | 30 | 12
+EDGE Marcelo | Guti | 15 | 30 | 19
+EDGE Marcelo | Wesley Sneijder | 9 | 30 | 23
+EDGE Marcelo | Royston Drenthe | 7 | 30 | 9
+EDGE Marcelo | Javier Saviola | 3 | 30 | 4
+EDGE Marcelo | Javi García | 2 | 30 | 4
+EDGE Marcelo | Christoph Metzelder | 9 | 30 | 11
+EDGE Marcelo | Míchel Salgado | 8 | 30 | 10
+EDGE Marcelo | Gary Kagelmacher | 1 | 30 | 1
+EDGE Marcelo | Jerzy Dudek | 3 | 30 | 3
+EDGE Sergio Ramos | Mahamadou Diarra | 8 | 41 | 12
+EDGE Sergio Ramos | Rubén de la Red | 5 | 41 | 8
+EDGE Sergio Ramos | Rafael van der Vaart | 15 | 41 | 22
+EDGE Sergio Ramos | Raúl | 39 | 41 | 45
+EDGE Sergio Ramos | Arjen Robben | 25 | 41 | 31
+EDGE Sergio Ramos | Ruud van Nistelrooy | 10 | 41 | 12
+EDGE Sergio Ramos | Fabio Cannavaro | 33 | 41 | 37
+EDGE Sergio Ramos | Fernando Gago | 28 | 41 | 31
+EDGE Sergio Ramos | Wesley Sneijder | 20 | 41 | 23
+EDGE Sergio Ramos | Gonzalo Higuaín | 30 | 41 | 37
+EDGE Sergio Ramos | Lassana Diarra | 19 | 41 | 21
+EDGE Sergio Ramos | Klaas-Jan Huntelaar | 12 | 41 | 13
+EDGE Sergio Ramos | Christoph Metzelder | 6 | 41 | 11
+EDGE Sergio Ramos | Miguel Torres | 8 | 41 | 12
+EDGE Sergio Ramos | Guti | 16 | 41 | 19
+EDGE Sergio Ramos | Royston Drenthe | 6 | 41 | 9
+EDGE Sergio Ramos | Javier Saviola | 2 | 41 | 4
+EDGE Sergio Ramos | Javi García | 3 | 41 | 4
+EDGE Sergio Ramos | Míchel Salgado | 3 | 41 | 10
+EDGE Sergio Ramos | Jerzy Dudek | 1 | 41 | 3
+EDGE Mahamadou Diarra | Rubén de la Red | 7 | 12 | 8
+EDGE Mahamadou Diarra | Rafael van der Vaart | 7 | 12 | 22
+EDGE Mahamadou Diarra | Raúl | 9 | 12 | 45
+EDGE Mahamadou Diarra | Arjen Robben | 7 | 12 | 31
+EDGE Mahamadou Diarra | Ruud van Nistelrooy | 9 | 12 | 12
+EDGE Mahamadou Diarra | Fabio Cannavaro | 6 | 12 | 37
+EDGE Mahamadou Diarra | Fernando Gago | 1 | 12 | 31
+EDGE Mahamadou Diarra | Wesley Sneijder | 2 | 12 | 23
+EDGE Mahamadou Diarra | Gonzalo Higuaín | 8 | 12 | 37
+EDGE Mahamadou Diarra | Miguel Torres | 3 | 12 | 12
+EDGE Mahamadou Diarra | Guti | 6 | 12 | 19
+EDGE Mahamadou Diarra | Jerzy Dudek | 1 | 12 | 3
+EDGE Mahamadou Diarra | Christoph Metzelder | 2 | 12 | 11
+EDGE Mahamadou Diarra | Míchel Salgado | 3 | 12 | 10
+EDGE Mahamadou Diarra | Royston Drenthe | 2 | 12 | 9
+EDGE Mahamadou Diarra | Javier Saviola | 1 | 12 | 4
+EDGE Mahamadou Diarra | Javi García | 1 | 12 | 4
+EDGE Mahamadou Diarra | Robinho | 1 | 12 | 1
+EDGE Rubén de la Red | Rafael van der Vaart | 5 | 8 | 22
+EDGE Rubén de la Red | Raúl | 6 | 8 | 45
+EDGE Rubén de la Red | Arjen Robben | 3 | 8 | 31
+EDGE Rubén de la Red | Ruud van Nistelrooy | 6 | 8 | 12
+EDGE Rubén de la Red | Fabio Cannavaro | 5 | 8 | 37
+EDGE Rubén de la Red | Miguel Torres | 2 | 8 | 12
+EDGE Rubén de la Red | Gonzalo Higuaín | 6 | 8 | 37
+EDGE Rubén de la Red | Fernando Gago | 1 | 8 | 31
+EDGE Rubén de la Red | Wesley Sneijder | 1 | 8 | 23
+EDGE Rubén de la Red | Guti | 2 | 8 | 19
+EDGE Rubén de la Red | Jerzy Dudek | 1 | 8 | 3
+EDGE Rubén de la Red | Christoph Metzelder | 1 | 8 | 11
+EDGE Rubén de la Red | Míchel Salgado | 2 | 8 | 10
+EDGE Rubén de la Red | Royston Drenthe | 1 | 8 | 9
+EDGE Rubén de la Red | Javier Saviola | 1 | 8 | 4
+EDGE Rubén de la Red | Javi García | 1 | 8 | 4
+EDGE Rubén de la Red | Robinho | 1 | 8 | 1
+EDGE Rafael van der Vaart | Raúl | 18 | 22 | 45
+EDGE Rafael van der Vaart | Arjen Robben | 14 | 22 | 31
+EDGE Rafael van der Vaart | Ruud van Nistelrooy | 8 | 22 | 12
+EDGE Rafael van der Vaart | Fabio Cannavaro | 15 | 22 | 37
+EDGE Rafael van der Vaart | Miguel Torres | 7 | 22 | 12
+EDGE Rafael van der Vaart | Gonzalo Higuaín | 16 | 22 | 37
+EDGE Rafael van der Vaart | Christoph Metzelder | 5 | 22 | 11
+EDGE Rafael van der Vaart | Fernando Gago | 11 | 22 | 31
+EDGE Rafael van der Vaart | Wesley Sneijder | 6 | 22 | 23
+EDGE Rafael van der Vaart | Klaas-Jan Huntelaar | 4 | 22 | 13
+EDGE Rafael van der Vaart | Guti | 9 | 22 | 19
+EDGE Rafael van der Vaart | Lassana Diarra | 4 | 22 | 21
+EDGE Rafael van der Vaart | Javi García | 3 | 22 | 4
+EDGE Rafael van der Vaart | Míchel Salgado | 8 | 22 | 10
+EDGE Rafael van der Vaart | Gary Kagelmacher | 1 | 22 | 1
+EDGE Rafael van der Vaart | Royston Drenthe | 3 | 22 | 9
+EDGE Rafael van der Vaart | Jerzy Dudek | 2 | 22 | 3
+EDGE Rafael van der Vaart | Robinho | 1 | 22 | 1
+EDGE Rafael van der Vaart | Javier Saviola | 1 | 22 | 4
+EDGE Raúl | Arjen Robben | 28 | 45 | 31
+EDGE Raúl | Ruud van Nistelrooy | 10 | 45 | 12
+EDGE Raúl | Fabio Cannavaro | 34 | 45 | 37
+EDGE Raúl | Fernando Gago | 29 | 45 | 31
+EDGE Raúl | Wesley Sneijder | 22 | 45 | 23
+EDGE Raúl | Gonzalo Higuaín | 32 | 45 | 37
+EDGE Raúl | Lassana Diarra | 21 | 45 | 21
+EDGE Raúl | Klaas-Jan Huntelaar | 13 | 45 | 13
+EDGE Raúl | Miguel Torres | 12 | 45 | 12
+EDGE Raúl | Christoph Metzelder | 8 | 45 | 11
+EDGE Raúl | Guti | 15 | 45 | 19
+EDGE Raúl | Royston Drenthe | 6 | 45 | 9
+EDGE Raúl | Javier Saviola | 3 | 45 | 4
+EDGE Raúl | Javi García | 4 | 45 | 4
+EDGE Raúl | Míchel Salgado | 7 | 45 | 10
+EDGE Raúl | Gary Kagelmacher | 1 | 45 | 1
+EDGE Raúl | Jerzy Dudek | 2 | 45 | 3
+EDGE Raúl | Robinho | 1 | 45 | 1
+EDGE Arjen Robben | Ruud van Nistelrooy | 6 | 31 | 12
+EDGE Arjen Robben | Fabio Cannavaro | 24 | 31 | 37
+EDGE Arjen Robben | Fernando Gago | 17 | 31 | 31
+EDGE Arjen Robben | Wesley Sneijder | 13 | 31 | 23
+EDGE Arjen Robben | Gonzalo Higuaín | 23 | 31 | 37
+EDGE Arjen Robben | Lassana Diarra | 18 | 31 | 21
+EDGE Arjen Robben | Klaas-Jan Huntelaar | 9 | 31 | 13
+EDGE Arjen Robben | Miguel Torres | 6 | 31 | 12
+EDGE Arjen Robben | Guti | 8 | 31 | 19
+EDGE Arjen Robben | Christoph Metzelder | 6 | 31 | 11
+EDGE Arjen Robben | Míchel Salgado | 6 | 31 | 10
+EDGE Arjen Robben | Gary Kagelmacher | 1 | 31 | 1
+EDGE Arjen Robben | Royston Drenthe | 1 | 31 | 9
+EDGE Arjen Robben | Javi García | 2 | 31 | 4
+EDGE Arjen Robben | Jerzy Dudek | 1 | 31 | 3
+EDGE Ruud van Nistelrooy | Fabio Cannavaro | 7 | 12 | 37
+EDGE Ruud van Nistelrooy | Gonzalo Higuaín | 7 | 12 | 37
+EDGE Ruud van Nistelrooy | Miguel Torres | 2 | 12 | 12
+EDGE Ruud van Nistelrooy | Guti | 6 | 12 | 19
+EDGE Ruud van Nistelrooy | Fernando Gago | 3 | 12 | 31
+EDGE Ruud van Nistelrooy | Wesley Sneijder | 3 | 12 | 23
+EDGE Ruud van Nistelrooy | Javi García | 1 | 12 | 4
+EDGE Ruud van Nistelrooy | Míchel Salgado | 2 | 12 | 10
+EDGE Ruud van Nistelrooy | Robinho | 1 | 12 | 1
+EDGE Ruud van Nistelrooy | Royston Drenthe | 1 | 12 | 9
+EDGE Ruud van Nistelrooy | Christoph Metzelder | 1 | 12 | 11
+EDGE Fabio Cannavaro | Fernando Gago | 26 | 37 | 31
+EDGE Fabio Cannavaro | Wesley Sneijder | 17 | 37 | 23
+EDGE Fabio Cannavaro | Gonzalo Higuaín | 30 | 37 | 37
+EDGE Fabio Cannavaro | Lassana Diarra | 19 | 37 | 21
+EDGE Fabio Cannavaro | Klaas-Jan Huntelaar | 11 | 37 | 13
+EDGE Fabio Cannavaro | Miguel Torres | 5 | 37 | 12
+EDGE Fabio Cannavaro | Javi García | 3 | 37 | 4
+EDGE Fabio Cannavaro | Guti | 12 | 37 | 19
+EDGE Fabio Cannavaro | Christoph Metzelder | 6 | 37 | 11
+EDGE Fabio Cannavaro | Míchel Salgado | 5 | 37 | 10
+EDGE Fabio Cannavaro | Royston Drenthe | 5 | 37 | 9
+EDGE Fabio Cannavaro | Jerzy Dudek | 2 | 37 | 3
+EDGE Fabio Cannavaro | Javier Saviola | 1 | 37 | 4
+EDGE Fernando Gago | Wesley Sneijder | 17 | 31 | 23
+EDGE Fernando Gago | Gonzalo Higuaín | 25 | 31 | 37
+EDGE Fernando Gago | Lassana Diarra | 13 | 31 | 21
+EDGE Fernando Gago | Klaas-Jan Huntelaar | 7 | 31 | 13
+EDGE Fernando Gago | Christoph Metzelder | 7 | 31 | 11
+EDGE Fernando Gago | Miguel Torres | 5 | 31 | 12
+EDGE Fernando Gago | Guti | 13 | 31 | 19
+EDGE Fernando Gago | Royston Drenthe | 7 | 31 | 9
+EDGE Fernando Gago | Javier Saviola | 3 | 31 | 4
+EDGE Fernando Gago | Javi García | 2 | 31 | 4
+EDGE Fernando Gago | Míchel Salgado | 6 | 31 | 10
+EDGE Fernando Gago | Jerzy Dudek | 2 | 31 | 3
+EDGE Wesley Sneijder | Gonzalo Higuaín | 16 | 23 | 37
+EDGE Wesley Sneijder | Christoph Metzelder | 4 | 23 | 11
+EDGE Wesley Sneijder | Miguel Torres | 5 | 23 | 12
+EDGE Wesley Sneijder | Klaas-Jan Huntelaar | 6 | 23 | 13
+EDGE Wesley Sneijder | Guti | 6 | 23 | 19
+EDGE Wesley Sneijder | Royston Drenthe | 7 | 23 | 9
+EDGE Wesley Sneijder | Javier Saviola | 3 | 23 | 4
+EDGE Wesley Sneijder | Lassana Diarra | 11 | 23 | 21
+EDGE Wesley Sneijder | Míchel Salgado | 3 | 23 | 10
+EDGE Wesley Sneijder | Jerzy Dudek | 1 | 23 | 3
+EDGE Gonzalo Higuaín | Lassana Diarra | 16 | 37 | 21
+EDGE Gonzalo Higuaín | Klaas-Jan Huntelaar | 8 | 37 | 13
+EDGE Gonzalo Higuaín | Miguel Torres | 7 | 37 | 12
+EDGE Gonzalo Higuaín | Christoph Metzelder | 9 | 37 | 11
+EDGE Gonzalo Higuaín | Javi García | 2 | 37 | 4
+EDGE Gonzalo Higuaín | Guti | 13 | 37 | 19
+EDGE Gonzalo Higuaín | Míchel Salgado | 8 | 37 | 10
+EDGE Gonzalo Higuaín | Royston Drenthe | 5 | 37 | 9
+EDGE Gonzalo Higuaín | Gary Kagelmacher | 1 | 37 | 1
+EDGE Gonzalo Higuaín | Jerzy Dudek | 2 | 37 | 3
+EDGE Gonzalo Higuaín | Javier Saviola | 1 | 37 | 4
+EDGE Lassana Diarra | Klaas-Jan Huntelaar | 11 | 21 | 13
+EDGE Lassana Diarra | Miguel Torres | 5 | 21 | 12
+EDGE Lassana Diarra | Christoph Metzelder | 4 | 21 | 11
+EDGE Lassana Diarra | Gary Kagelmacher | 1 | 21 | 1
+EDGE Lassana Diarra | Míchel Salgado | 1 | 21 | 10
+EDGE Lassana Diarra | Javi García | 1 | 21 | 4
+EDGE Lassana Diarra | Guti | 2 | 21 | 19
+EDGE Klaas-Jan Huntelaar | Christoph Metzelder | 2 | 13 | 11
+EDGE Klaas-Jan Huntelaar | Miguel Torres | 4 | 13 | 12
+EDGE Klaas-Jan Huntelaar | Guti | 2 | 13 | 19
+EDGE Klaas-Jan Huntelaar | Javi García | 1 | 13 | 4
+EDGE Miguel Torres | Christoph Metzelder | 3 | 12 | 11
+EDGE Miguel Torres | Guti | 5 | 12 | 19
+EDGE Miguel Torres | Royston Drenthe | 3 | 12 | 9
+EDGE Miguel Torres | Javier Saviola | 2 | 12 | 4
+EDGE Miguel Torres | Gary Kagelmacher | 1 | 12 | 1
+EDGE Miguel Torres | Míchel Salgado | 2 | 12 | 10
+EDGE Miguel Torres | Javi García | 2 | 12 | 4
+EDGE Miguel Torres | Robinho | 1 | 12 | 1
+EDGE Christoph Metzelder | Gary Kagelmacher | 1 | 11 | 1
+EDGE Christoph Metzelder | Míchel Salgado | 6 | 11 | 10
+EDGE Christoph Metzelder | Guti | 5 | 11 | 19
+EDGE Christoph Metzelder | Royston Drenthe | 4 | 11 | 9
+EDGE Christoph Metzelder | Jerzy Dudek | 2 | 11 | 3
+EDGE Christoph Metzelder | Javier Saviola | 2 | 11 | 4
+EDGE Christoph Metzelder | Javi García | 1 | 11 | 4
+EDGE Guti | Royston Drenthe | 8 | 19 | 9
+EDGE Guti | Javier Saviola | 3 | 19 | 4
+EDGE Guti | Javi García | 1 | 19 | 4
+EDGE Guti | Míchel Salgado | 6 | 19 | 10
+EDGE Guti | Jerzy Dudek | 2 | 19 | 3
+EDGE Royston Drenthe | Javier Saviola | 4 | 9 | 4
+EDGE Royston Drenthe | Míchel Salgado | 4 | 9 | 10
+EDGE Royston Drenthe | Jerzy Dudek | 2 | 9 | 3
+EDGE Javier Saviola | Jerzy Dudek | 2 | 4 | 3
+EDGE Javier Saviola | Míchel Salgado | 2 | 4 | 10
+EDGE Javi García | Míchel Salgado | 1 | 4 | 10
+EDGE Javi García | Robinho | 1 | 4 | 1
+EDGE Míchel Salgado | Gary Kagelmacher | 1 | 10 | 1
+EDGE Míchel Salgado | Jerzy Dudek | 3 | 10 | 3
+EDGE Míchel Salgado | Robinho | 1 | 10 | 1

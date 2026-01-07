@@ -1,0 +1,2845 @@
+====================================================================================================
+                        FOOTBALL TEAM - SEASON MATCHES REPORT
+====================================================================================================
+
+📅 Generated: 2025-12-10 13:39:17
+⚽ Total matches: 46
+👥 Total players tracked: 1450
+📊 Average players per match: 31.5
+
+🏆 Competitions breakdown:
+   • LALIGA: 38 matches
+   • Unknown: 8 matches
+
+====================================================================================================
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #01
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Valencia CF
+📅 DATE:  niedz., 29.10.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 11. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_valencia-cf/aufstellung/spielbericht/4113119
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       19. Imanol García de Albéniz
+       18. Óscar de Marcos
+       14. Dani García
+       16. Iñigo Ruiz de Galarreta
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+        6. Mikel Vesga
+       24. Beñat Prados
+        7. Álex Berenguer
+       10. Iker Muniain
+       20. Asier Villalibre
+
+✈️  VALENCIA CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Giorgi Mamardashvili
+        3. Cristhian Mosquera
+        5. Gabriel Paulista
+       14. José Gayà
+       12. Thierry Correia
+       18. Pepelu
+        8. Javi Guerra
+       19. Selim Amallah
+       23. Fran Pérez
+       16. Diego López
+        9. Hugo Duro
+
+   🔄 SUBSTITUTES IN (4):
+       20. Dimitri Foulquier
+        6. Hugo Guillamón
+        7. Sergi Canós
+       17. Roman Yaremchuk
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 29.10.2023|LALIGA|11. Kolejka|Athletic Bilbao|Valencia CF|Unai Simón|Dani Vivian|Aitor Paredes|Imanol García de Albéniz|Óscar de Marcos|Dani García|Iñigo Ruiz de Galarreta|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Mikel Vesga|Beñat Prados|Álex Berenguer|Iker Muniain|Asier Villalibre|Giorgi Mamardashvili|Cristhian Mosquera|Gabriel Paulista|José Gayà|Thierry Correia|Pepelu|Javi Guerra|Selim Amallah|Fran Pérez|Diego López|Hugo Duro|Dimitri Foulquier|Hugo Guillamón|Sergi Canós|Roman Yaremchuk
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #02
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Getafe CF
+📅 DATE:  śr., 27.09.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 7. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_getafe-cf/aufstellung/spielbericht/4113065
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+        6. Mikel Vesga
+       21. Ander Herrera
+        8. Oihan Sancet
+        7. Álex Berenguer
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+        5. Yeray Álvarez
+       14. Dani García
+       24. Beñat Prados
+       22. Raúl García
+       10. Iker Muniain
+
+✈️  GETAFE CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. David Soria
+        4. Gastón Álvarez
+        6. Domingos Duarte
+       16. Diego Rico
+        3. Fabrizio Angileri
+       21. Juan Iglesias
+        8. Mauro Arambarri
+       20. Nemanja Maksimovic
+       12. Mason Greenwood
+       11. Carles Aleñá
+       19. Borja Mayoral
+
+   🔄 SUBSTITUTES IN (5):
+        2. Dakonam Djené
+       18. José Ángel Carmona
+        9. Óscar Rodríguez
+       14. Juanmi Latasa
+        7. Jaime Mata
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 27.09.2023|LALIGA|7. Kolejka|Athletic Bilbao|Getafe CF|Unai Simón|Dani Vivian|Aitor Paredes|Yuri Berchiche|Óscar de Marcos|Mikel Vesga|Ander Herrera|Oihan Sancet|Álex Berenguer|Iñaki Williams|Gorka Guruzeta|Yeray Álvarez|Dani García|Beñat Prados|Raúl García|Iker Muniain|David Soria|Gastón Álvarez|Domingos Duarte|Diego Rico|Fabrizio Angileri|Juan Iglesias|Mauro Arambarri|Nemanja Maksimovic|Mason Greenwood|Carles Aleñá|Borja Mayoral|Dakonam Djené|José Ángel Carmona|Óscar Rodríguez|Juanmi Latasa|Jaime Mata
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #03
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  UD Almería
+📅 DATE:  pt., 06.10.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 9. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_ud-almería/aufstellung/spielbericht/4113060
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        5. Yeray Álvarez
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+       14. Dani García
+       21. Ander Herrera
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+        4. Aitor Paredes
+       24. Beñat Prados
+       30. Unai Gómez
+       10. Iker Muniain
+       20. Asier Villalibre
+
+✈️  UD ALMERÍA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Luís Maximiano
+        2. Kaiky
+       21. Chumi
+       15. Sergio Akieme
+       24. Houboulang Mendes
+        6. Dion Lopy
+        4. Iddrisu Baba
+        7. Largie Ramazani
+       10. Adrián Embarba
+       11. Gonzalo Melero
+       23. Ibrahima Koné
+
+   🔄 SUBSTITUTES IN (5):
+       17. Álex Pozo
+        8. Arnau Puigmal
+       19. Sergio Arribas
+       14. Lázaro
+       34. Marciano Sanca
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pt., 06.10.2023|LALIGA|9. Kolejka|Athletic Bilbao|UD Almería|Unai Simón|Dani Vivian|Yeray Álvarez|Yuri Berchiche|Óscar de Marcos|Dani García|Ander Herrera|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Aitor Paredes|Beñat Prados|Unai Gómez|Iker Muniain|Asier Villalibre|Luís Maximiano|Kaiky|Chumi|Sergio Akieme|Houboulang Mendes|Dion Lopy|Iddrisu Baba|Largie Ramazani|Adrián Embarba|Gonzalo Melero|Ibrahima Koné|Álex Pozo|Arnau Puigmal|Sergio Arribas|Lázaro|Marciano Sanca
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #04
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Celta de Vigo
+📅 DATE:  pt., 10.11.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 13. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_celta-de-vigo/aufstellung/spielbericht/4113088
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       15. Iñigo Lekue
+       18. Óscar de Marcos
+        6. Mikel Vesga
+       16. Iñigo Ruiz de Galarreta
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (4):
+       14. Dani García
+       30. Unai Gómez
+       22. Raúl García
+        7. Álex Berenguer
+
+✈️  CELTA DE VIGO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Vicente Guaita
+        2. Carl Starfelt
+        4. Unai Núñez
+       23. Manu Sánchez
+       20. Kevin Vázquez
+        6. Carlos Dotor
+        8. Fran Beltrán
+        3. Óscar Mingueza
+       17. Jonathan Bamba
+       10. Iago Aspas
+       18. Jørgen Strand Larsen
+
+   🔄 SUBSTITUTES IN (3):
+       14. Luca de la Torre
+       11. Franco Cervi
+       12. Anastasios Douvikas
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pt., 10.11.2023|LALIGA|13. Kolejka|Athletic Bilbao|Celta de Vigo|Unai Simón|Dani Vivian|Aitor Paredes|Iñigo Lekue|Óscar de Marcos|Mikel Vesga|Iñigo Ruiz de Galarreta|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Dani García|Unai Gómez|Raúl García|Álex Berenguer|Vicente Guaita|Carl Starfelt|Unai Núñez|Manu Sánchez|Kevin Vázquez|Carlos Dotor|Fran Beltrán|Óscar Mingueza|Jonathan Bamba|Iago Aspas|Jørgen Strand Larsen|Luca de la Torre|Franco Cervi|Anastasios Douvikas
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #05
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  RCD Mallorca
+📅 DATE:  pt., 02.02.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 23. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_rcd-mallorca/aufstellung/spielbericht/4113035
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        4. Aitor Paredes
+        5. Yeray Álvarez
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+       16. Iñigo Ruiz de Galarreta
+       24. Beñat Prados
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+       21. Ander Herrera
+       31. Mikel Jauregizar
+       22. Raúl García
+       10. Iker Muniain
+       23. Adu Ares
+
+✈️  RCD MALLORCA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Predrag Rajković
+        6. José Copete
+       21. Antonio Raíllo
+       24. Martin Valjent
+       11. Jaume Costa
+       20. Giovanni González
+        5. Omar Mascarell
+        8. Manu Morlanes
+       14. Dani Rodríguez
+       18. Antonio Sánchez
+       17. Cyle Larin
+
+   🔄 SUBSTITUTES IN (5):
+       22. Nacho Vidal
+       10. Sergi Darder
+       19. Javi Llabrés
+        7. Vedat Muriqi
+        9. Abdón Prats
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pt., 02.02.2024|LALIGA|23. Kolejka|Athletic Bilbao|RCD Mallorca|Unai Simón|Aitor Paredes|Yeray Álvarez|Yuri Berchiche|Óscar de Marcos|Iñigo Ruiz de Galarreta|Beñat Prados|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Ander Herrera|Mikel Jauregizar|Raúl García|Iker Muniain|Adu Ares|Predrag Rajković|José Copete|Antonio Raíllo|Martin Valjent|Jaume Costa|Giovanni González|Omar Mascarell|Manu Morlanes|Dani Rodríguez|Antonio Sánchez|Cyle Larin|Nacho Vidal|Sergi Darder|Javi Llabrés|Vedat Muriqi|Abdón Prats
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #06
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  UD Las Palmas
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 10.03.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 28. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/ud-las-palmas_athletic-bilbao/aufstellung/spielbericht/4113001
+
+----------------------------------------------------------------------------------------------------
+
+🏠 UD LAS PALMAS - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Álvaro Valles
+       15. Mika Mármol
+       23. Saúl Coco
+        3. Sergi Cardona
+       28. Julián Araujo
+       21. José Campaña
+        5. Javi Muñoz
+       20. Kirian Rodríguez
+       10. Alberto Moleiro
+       17. Munir El Haddadi
+        9. Sandro Ramírez
+
+   🔄 SUBSTITUTES IN (5):
+        2. Marvin Park
+       12. Enzo Loiodice
+       11. Benito Ramírez
+       24. Pejiño
+       19. Marc Cardona
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+       16. Iñigo Ruiz de Galarreta
+       24. Beñat Prados
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+        5. Yeray Álvarez
+       15. Iñigo Lekue
+       30. Unai Gómez
+       22. Raúl García
+        7. Álex Berenguer
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 10.03.2024|LALIGA|28. Kolejka|UD Las Palmas|Athletic Bilbao|Álvaro Valles|Mika Mármol|Saúl Coco|Sergi Cardona|Julián Araujo|José Campaña|Javi Muñoz|Kirian Rodríguez|Alberto Moleiro|Munir El Haddadi|Sandro Ramírez|Marvin Park|Enzo Loiodice|Benito Ramírez|Pejiño|Marc Cardona|Unai Simón|Dani Vivian|Aitor Paredes|Yuri Berchiche|Óscar de Marcos|Iñigo Ruiz de Galarreta|Beñat Prados|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Yeray Álvarez|Iñigo Lekue|Unai Gómez|Raúl García|Álex Berenguer
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #07
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Celta de Vigo
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  śr., 15.05.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 36. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/celta-de-vigo_athletic-bilbao/aufstellung/spielbericht/4112918
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CELTA DE VIGO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iván Villar
+       28. Carlos Domínguez
+        2. Carl Starfelt
+       22. Javier Manquillo
+       34. Damián Rodríguez
+        8. Fran Beltrán
+        7. Carles Pérez
+       23. Manu Sánchez
+       19. Williot Swedberg
+       17. Jonathan Bamba
+       18. Jørgen Strand Larsen
+
+   🔄 SUBSTITUTES IN (5):
+        3. Óscar Mingueza
+       11. Franco Cervi
+       33. Hugo Álvarez
+       10. Iago Aspas
+       12. Anastasios Douvikas
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        4. Aitor Paredes
+        5. Yeray Álvarez
+       19. Imanol García de Albéniz
+       15. Iñigo Lekue
+       14. Dani García
+       24. Beñat Prados
+       23. Adu Ares
+        7. Álex Berenguer
+       30. Unai Gómez
+       20. Asier Villalibre
+
+   🔄 SUBSTITUTES IN (5):
+       13. Julen Agirrezabala
+        6. Mikel Vesga
+       16. Iñigo Ruiz de Galarreta
+       22. Raúl García
+        9. Iñaki Williams
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 15.05.2024|LALIGA|36. Kolejka|Celta de Vigo|Athletic Bilbao|Iván Villar|Carlos Domínguez|Carl Starfelt|Javier Manquillo|Damián Rodríguez|Fran Beltrán|Carles Pérez|Manu Sánchez|Williot Swedberg|Jonathan Bamba|Jørgen Strand Larsen|Óscar Mingueza|Franco Cervi|Hugo Álvarez|Iago Aspas|Anastasios Douvikas|Unai Simón|Aitor Paredes|Yeray Álvarez|Imanol García de Albéniz|Iñigo Lekue|Dani García|Beñat Prados|Adu Ares|Álex Berenguer|Unai Gómez|Asier Villalibre|Julen Agirrezabala|Mikel Vesga|Iñigo Ruiz de Galarreta|Raúl García|Iñaki Williams
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #08
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Cádiz CF
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 28.01.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 22. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/cádiz-cf_athletic-bilbao/aufstellung/spielbericht/4112837
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CÁDIZ CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Conan Ledesma
+        5. Víctor Chust
+        3. Fali
+       33. Lucas Pires
+       20. Iza Carcelén
+        4. Rubén Alcaraz
+       17. Gonzalo Escalante
+       27. Robert Navarro
+       11. Iván Alejo
+        7. Rubén Sobrino
+       16. Chris Ramos
+
+   🔄 SUBSTITUTES IN (3):
+        8. Álex Fernández
+       10. Brian Ocampo
+       19. Sergi Guardiola
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        5. Yeray Álvarez
+       15. Iñigo Lekue
+       18. Óscar de Marcos
+        6. Mikel Vesga
+       21. Ander Herrera
+       30. Unai Gómez
+       29. Adu Ares
+        9. Iñaki Williams
+       20. Asier Villalibre
+
+   🔄 SUBSTITUTES IN (5):
+       17. Yuri Berchiche
+       31. Mikel Jauregizar
+        8. Oihan Sancet
+       11. Nico Williams
+       12. Gorka Guruzeta
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 28.01.2024|LALIGA|22. Kolejka|Cádiz CF|Athletic Bilbao|Conan Ledesma|Víctor Chust|Fali|Lucas Pires|Iza Carcelén|Rubén Alcaraz|Gonzalo Escalante|Robert Navarro|Iván Alejo|Rubén Sobrino|Chris Ramos|Álex Fernández|Brian Ocampo|Sergi Guardiola|Unai Simón|Dani Vivian|Yeray Álvarez|Iñigo Lekue|Óscar de Marcos|Mikel Vesga|Ander Herrera|Unai Gómez|Adu Ares|Iñaki Williams|Asier Villalibre|Yuri Berchiche|Mikel Jauregizar|Oihan Sancet|Nico Williams|Gorka Guruzeta
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #09
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 22.10.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 10. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_athletic-bilbao/aufstellung/spielbericht/4113120
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc-André ter Stegen
+        5. Iñigo Martínez
+       15. Andreas Christensen
+        3. Alejandro Balde
+        2. João Cancelo
+       18. Oriol Romeu
+        6. Gavi
+       22. İlkay Gündoğan
+       32. Fermín López
+        7. Ferran Torres
+       14. João Félix
+
+   🔄 SUBSTITUTES IN (4):
+       17. Marcos Alonso
+        4. Ronald Araujo
+       27. Lamine Yamal
+       38. Marc Guiu
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+       14. Dani García
+       16. Iñigo Ruiz de Galarreta
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+       15. Iñigo Lekue
+       24. Beñat Prados
+       30. Unai Gómez
+        7. Álex Berenguer
+       29. Adu Ares
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 22.10.2023|LALIGA|10. Kolejka|FC Barcelona|Athletic Bilbao|Marc-André ter Stegen|Iñigo Martínez|Andreas Christensen|Alejandro Balde|João Cancelo|Oriol Romeu|Gavi|İlkay Gündoğan|Fermín López|Ferran Torres|João Félix|Marcos Alonso|Ronald Araujo|Lamine Yamal|Marc Guiu|Unai Simón|Dani Vivian|Aitor Paredes|Yuri Berchiche|Óscar de Marcos|Dani García|Iñigo Ruiz de Galarreta|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Iñigo Lekue|Beñat Prados|Unai Gómez|Álex Berenguer|Adu Ares
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #10
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Deportivo Alavés
+📅 DATE:  sob., 16.03.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 29. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_deportivo-alavés/aufstellung/spielbericht/4112994
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        5. Yeray Álvarez
+       15. Iñigo Lekue
+       18. Óscar de Marcos
+       16. Iñigo Ruiz de Galarreta
+       24. Beñat Prados
+       30. Unai Gómez
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+        6. Mikel Vesga
+       14. Dani García
+       22. Raúl García
+        7. Álex Berenguer
+       10. Iker Muniain
+
+✈️  DEPORTIVO ALAVÉS - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Antonio Sivera
+        5. Abdel Abqar
+       16. Rafa Marín
+       27. Javi López
+        2. Andoni Gorosabel
+        8. Antonio Blanco
+        6. Ander Guevara
+       18. Jon Guridi
+       11. Luis Rioja
+       22. Carlos Vicente
+       32. Samu Aghehowa
+
+   🔄 SUBSTITUTES IN (5):
+       14. Nahuel Tenaglia
+       23. Carlos Protesoni
+       10. Ianis Hagi
+       20. Giuliano Simeone
+       15. Kike García
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 16.03.2024|LALIGA|29. Kolejka|Athletic Bilbao|Deportivo Alavés|Unai Simón|Dani Vivian|Yeray Álvarez|Iñigo Lekue|Óscar de Marcos|Iñigo Ruiz de Galarreta|Beñat Prados|Unai Gómez|Nico Williams|Iñaki Williams|Gorka Guruzeta|Mikel Vesga|Dani García|Raúl García|Álex Berenguer|Iker Muniain|Antonio Sivera|Abdel Abqar|Rafa Marín|Javi López|Andoni Gorosabel|Antonio Blanco|Ander Guevara|Jon Guridi|Luis Rioja|Carlos Vicente|Samu Aghehowa|Nahuel Tenaglia|Carlos Protesoni|Ianis Hagi|Giuliano Simeone|Kike García
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #11
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  CD Cayón
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  czw., 07.12.2023
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/cd-cayón_athletic-bilbao/aufstellung/spielbericht/4227821
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CD CAYÓN - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pablo Galnares
+        4. Álvaro Mier
+        2. Gabi Fernández
+        3. Álvaro Díez
+       15. Riki Fernández
+       14. Javier Turrado
+        6. David Sanz
+        7. Carlos Cagigas
+       10. Marcos Sáez
+       11. Chus Villar
+        9. Alejandro Cañizo
+
+   🔄 SUBSTITUTES IN (5):
+       19. Alberto Montiel
+       21. Fernando Resines
+        8. Chili
+       18. Héctor Alonso
+       20. Dani Salas
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Julen Agirrezabala
+       17. Yuri Berchiche
+       23. Peru Nolaskoain
+       19. Imanol García de Albéniz
+       24. Beñat Prados
+       30. Unai Gómez
+       22. Raúl García
+       10. Iker Muniain
+        7. Álex Berenguer
+       29. Adu Ares
+       20. Asier Villalibre
+
+   🔄 SUBSTITUTES IN (5):
+       16. Iñigo Ruiz de Galarreta
+       31. Mikel Jauregizar
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 07.12.2023|Unknown|Unknown|CD Cayón|Athletic Bilbao|Pablo Galnares|Álvaro Mier|Gabi Fernández|Álvaro Díez|Riki Fernández|Javier Turrado|David Sanz|Carlos Cagigas|Marcos Sáez|Chus Villar|Alejandro Cañizo|Alberto Montiel|Fernando Resines|Chili|Héctor Alonso|Dani Salas|Julen Agirrezabala|Yuri Berchiche|Peru Nolaskoain|Imanol García de Albéniz|Beñat Prados|Unai Gómez|Raúl García|Iker Muniain|Álex Berenguer|Adu Ares|Asier Villalibre|Iñigo Ruiz de Galarreta|Mikel Jauregizar|Oihan Sancet|Nico Williams|Iñaki Williams
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #12
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Deportivo Alavés
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  pt., 22.09.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 6. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/deportivo-alavés_athletic-bilbao/aufstellung/spielbericht/4113159
+
+----------------------------------------------------------------------------------------------------
+
+🏠 DEPORTIVO ALAVÉS - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Antonio Sivera
+        4. Aleksandar Sedlar
+        5. Abdel Abqar
+        3. Rubén Duarte
+        2. Andoni Gorosabel
+       23. Carlos Protesoni
+        6. Ander Guevara
+       10. Ianis Hagi
+       11. Luis Rioja
+        7. Álex Sola
+       15. Kike García
+
+   🔄 SUBSTITUTES IN (5):
+       27. Javi López
+       18. Jon Guridi
+       21. Abde Rebbach
+       17. Xeber Alkain
+       32. Samu Aghehowa
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+        6. Mikel Vesga
+       16. Iñigo Ruiz de Galarreta
+        8. Oihan Sancet
+        7. Álex Berenguer
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+        5. Yeray Álvarez
+       15. Iñigo Lekue
+       14. Dani García
+       10. Iker Muniain
+       20. Asier Villalibre
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pt., 22.09.2023|LALIGA|6. Kolejka|Deportivo Alavés|Athletic Bilbao|Antonio Sivera|Aleksandar Sedlar|Abdel Abqar|Rubén Duarte|Andoni Gorosabel|Carlos Protesoni|Ander Guevara|Ianis Hagi|Luis Rioja|Álex Sola|Kike García|Javi López|Jon Guridi|Abde Rebbach|Xeber Alkain|Samu Aghehowa|Unai Simón|Dani Vivian|Aitor Paredes|Yuri Berchiche|Óscar de Marcos|Mikel Vesga|Iñigo Ruiz de Galarreta|Oihan Sancet|Álex Berenguer|Iñaki Williams|Gorka Guruzeta|Yeray Álvarez|Iñigo Lekue|Dani García|Iker Muniain|Asier Villalibre
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #13
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Granada CF
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 10.12.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 16. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/granada-cf_athletic-bilbao/aufstellung/spielbericht/4112882
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GRANADA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. André Ferreira
+       14. Ignasi Miquel
+       28. Raúl Torrente
+       15. Carlos Neva
+       12. Ricard Sánchez
+       23. Gerard Gumbau
+       20. Sergio Ruiz
+       24. Gonzalo Villar
+       26. Bryan Zaragoza
+       11. Myrto Uzuni
+        7. Lucas Boyé
+
+   🔄 SUBSTITUTES IN (3):
+       18. Njegos Petrovic
+        9. José Callejón
+       10. Antonio Puertas
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       15. Iñigo Lekue
+       18. Óscar de Marcos
+       16. Iñigo Ruiz de Galarreta
+       24. Beñat Prados
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+       17. Yuri Berchiche
+       23. Peru Nolaskoain
+       21. Ander Herrera
+        7. Álex Berenguer
+       20. Asier Villalibre
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 10.12.2023|LALIGA|16. Kolejka|Granada CF|Athletic Bilbao|André Ferreira|Ignasi Miquel|Raúl Torrente|Carlos Neva|Ricard Sánchez|Gerard Gumbau|Sergio Ruiz|Gonzalo Villar|Bryan Zaragoza|Myrto Uzuni|Lucas Boyé|Njegos Petrovic|José Callejón|Antonio Puertas|Unai Simón|Dani Vivian|Aitor Paredes|Iñigo Lekue|Óscar de Marcos|Iñigo Ruiz de Galarreta|Beñat Prados|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Yuri Berchiche|Peru Nolaskoain|Ander Herrera|Álex Berenguer|Asier Villalibre
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #14
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Getafe CF
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  pt., 03.05.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 34. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/getafe-cf_athletic-bilbao/aufstellung/spielbericht/4112947
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GETAFE CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. David Soria
+       15. Omar Alderete
+        2. Dakonam Djené
+       16. Diego Rico
+       18. José Ángel Carmona
+        5. Luis Milla
+       20. Nemanja Maksimovic
+       24. Ilaix Moriba
+        9. Óscar Rodríguez
+       12. Mason Greenwood
+        7. Jaime Mata
+
+   🔄 SUBSTITUTES IN (4):
+        3. Fabrizio Angileri
+       11. Carles Aleñá
+       38. Jeremy Jorge
+       14. Juanmi Latasa
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        4. Aitor Paredes
+        5. Yeray Álvarez
+       15. Iñigo Lekue
+       18. Óscar de Marcos
+       21. Ander Herrera
+       24. Beñat Prados
+       30. Unai Gómez
+       11. Nico Williams
+        7. Álex Berenguer
+        9. Iñaki Williams
+
+   🔄 SUBSTITUTES IN (5):
+       19. Imanol García de Albéniz
+        6. Mikel Vesga
+       14. Dani García
+       31. Mikel Jauregizar
+       22. Raúl García
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pt., 03.05.2024|LALIGA|34. Kolejka|Getafe CF|Athletic Bilbao|David Soria|Omar Alderete|Dakonam Djené|Diego Rico|José Ángel Carmona|Luis Milla|Nemanja Maksimovic|Ilaix Moriba|Óscar Rodríguez|Mason Greenwood|Jaime Mata|Fabrizio Angileri|Carles Aleñá|Jeremy Jorge|Juanmi Latasa|Unai Simón|Aitor Paredes|Yeray Álvarez|Iñigo Lekue|Óscar de Marcos|Ander Herrera|Beñat Prados|Unai Gómez|Nico Williams|Álex Berenguer|Iñaki Williams|Imanol García de Albéniz|Mikel Vesga|Dani García|Mikel Jauregizar|Raúl García
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #15
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 31.03.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 30. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_athletic-bilbao/aufstellung/spielbericht/4112981
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Andriy Lunin
+        6. Nacho Fernández
+       22. Antonio Rüdiger
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       18. Aurélien Tchouaméni
+        8. Toni Kroos
+       15. Federico Valverde
+        5. Jude Bellingham
+       21. Brahim Díaz
+       11. Rodrygo
+
+   🔄 SUBSTITUTES IN (5):
+        3. Éder Militão
+       17. Lucas Vázquez
+       12. Eduardo Camavinga
+       10. Luka Modrić
+       14. Joselu
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Julen Agirrezabala
+        4. Aitor Paredes
+        5. Yeray Álvarez
+       15. Iñigo Lekue
+       18. Óscar de Marcos
+        6. Mikel Vesga
+       24. Beñat Prados
+        8. Oihan Sancet
+        7. Álex Berenguer
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+        3. Dani Vivian
+       17. Yuri Berchiche
+       16. Iñigo Ruiz de Galarreta
+       10. Iker Muniain
+       23. Adu Ares
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 31.03.2024|LALIGA|30. Kolejka|Real Madryt|Athletic Bilbao|Andriy Lunin|Nacho Fernández|Antonio Rüdiger|Ferland Mendy|Daniel Carvajal|Aurélien Tchouaméni|Toni Kroos|Federico Valverde|Jude Bellingham|Brahim Díaz|Rodrygo|Éder Militão|Lucas Vázquez|Eduardo Camavinga|Luka Modrić|Joselu|Julen Agirrezabala|Aitor Paredes|Yeray Álvarez|Iñigo Lekue|Óscar de Marcos|Mikel Vesga|Beñat Prados|Oihan Sancet|Álex Berenguer|Iñaki Williams|Gorka Guruzeta|Dani Vivian|Yuri Berchiche|Iñigo Ruiz de Galarreta|Iker Muniain|Adu Ares
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #16
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  FC Barcelona
+📅 DATE:  śr., 24.01.2024
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_fc-barcelona/aufstellung/spielbericht/4270168
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 17 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Julen Agirrezabala
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       15. Iñigo Lekue
+        6. Mikel Vesga
+       24. Beñat Prados
+        8. Oihan Sancet
+       11. Nico Williams
+       29. Adu Ares
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (6):
+       18. Óscar de Marcos
+       21. Ander Herrera
+       31. Mikel Jauregizar
+       30. Unai Gómez
+        9. Iñaki Williams
+       20. Asier Villalibre
+
+✈️  FC BARCELONA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iñaki Peña
+        4. Ronald Araujo
+       15. Andreas Christensen
+        3. Alejandro Balde
+       23. Jules Koundé
+       21. Frenkie de Jong
+        8. Pedri
+       22. İlkay Gündoğan
+        7. Ferran Torres
+       27. Lamine Yamal
+        9. Robert Lewandowski
+
+   🔄 SUBSTITUTES IN (5):
+       33. Pau Cubarsí
+       39. Héctor Fort
+       20. Sergi Roberto
+       14. João Félix
+       38. Marc Guiu
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 24.01.2024|Unknown|Unknown|Athletic Bilbao|FC Barcelona|Julen Agirrezabala|Dani Vivian|Aitor Paredes|Yuri Berchiche|Iñigo Lekue|Mikel Vesga|Beñat Prados|Oihan Sancet|Nico Williams|Adu Ares|Gorka Guruzeta|Óscar de Marcos|Ander Herrera|Mikel Jauregizar|Unai Gómez|Iñaki Williams|Asier Villalibre|Iñaki Peña|Ronald Araujo|Andreas Christensen|Alejandro Balde|Jules Koundé|Frenkie de Jong|Pedri|İlkay Gündoğan|Ferran Torres|Lamine Yamal|Robert Lewandowski|Pau Cubarsí|Héctor Fort|Sergi Roberto|João Félix|Marc Guiu
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #17
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Betis Balompié
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 25.02.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 26. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-betis-balompié_athletic-bilbao/aufstellung/spielbericht/4113034
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL BETIS BALOMPIÉ - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Rui Silva
+       28. Chadi Riad
+        6. Germán Pezzella
+       23. Youssouf Sabaly
+       24. Aitor Ruibal
+        4. Johnny Cardoso
+       27. Sergi Altimira
+        8. Nabil Fekir
+        9. Chimy Ávila
+       18. Pablo Fornals
+       12. Willian José
+
+   🔄 SUBSTITUTES IN (4):
+        2. Héctor Bellerín
+       14. William Carvalho
+       38. Assane Diao
+       17. Rodri Sánchez
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+       16. Iñigo Ruiz de Galarreta
+       24. Beñat Prados
+        8. Oihan Sancet
+       11. Nico Williams
+        7. Álex Berenguer
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+       19. Imanol García de Albéniz
+        6. Mikel Vesga
+       14. Dani García
+       30. Unai Gómez
+        9. Iñaki Williams
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 25.02.2024|LALIGA|26. Kolejka|Real Betis Balompié|Athletic Bilbao|Rui Silva|Chadi Riad|Germán Pezzella|Youssouf Sabaly|Aitor Ruibal|Johnny Cardoso|Sergi Altimira|Nabil Fekir|Chimy Ávila|Pablo Fornals|Willian José|Héctor Bellerín|William Carvalho|Assane Diao|Rodri Sánchez|Unai Simón|Dani Vivian|Aitor Paredes|Yuri Berchiche|Óscar de Marcos|Iñigo Ruiz de Galarreta|Beñat Prados|Oihan Sancet|Nico Williams|Álex Berenguer|Gorka Guruzeta|Imanol García de Albéniz|Mikel Vesga|Dani García|Unai Gómez|Iñaki Williams
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #18
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Deportivo Alavés
+📅 DATE:  wt., 16.01.2024
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_deportivo-alavés/aufstellung/spielbericht/4259186
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Julen Agirrezabala
+        3. Dani Vivian
+        4. Aitor Paredes
+       15. Iñigo Lekue
+       18. Óscar de Marcos
+       21. Ander Herrera
+       24. Beñat Prados
+        8. Oihan Sancet
+       10. Iker Muniain
+        7. Álex Berenguer
+       20. Asier Villalibre
+
+   🔄 SUBSTITUTES IN (5):
+       17. Yuri Berchiche
+       31. Mikel Jauregizar
+       30. Unai Gómez
+       11. Nico Williams
+       29. Adu Ares
+
+✈️  DEPORTIVO ALAVÉS - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Antonio Sivera
+        3. Rubén Duarte
+       14. Nahuel Tenaglia
+       44. Victor Parada
+        7. Álex Sola
+        8. Antonio Blanco
+       23. Carlos Protesoni
+       10. Ianis Hagi
+       20. Giuliano Simeone
+       17. Xeber Alkain
+       32. Samu Aghehowa
+
+   🔄 SUBSTITUTES IN (5):
+       16. Rafa Marín
+       19. Nikola Maras
+       18. Jon Guridi
+       35. Selu Diallo
+       37. José de León
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 16.01.2024|Unknown|Unknown|Athletic Bilbao|Deportivo Alavés|Julen Agirrezabala|Dani Vivian|Aitor Paredes|Iñigo Lekue|Óscar de Marcos|Ander Herrera|Beñat Prados|Oihan Sancet|Iker Muniain|Álex Berenguer|Asier Villalibre|Yuri Berchiche|Mikel Jauregizar|Unai Gómez|Nico Williams|Adu Ares|Antonio Sivera|Rubén Duarte|Nahuel Tenaglia|Victor Parada|Álex Sola|Antonio Blanco|Carlos Protesoni|Ianis Hagi|Giuliano Simeone|Xeber Alkain|Samu Aghehowa|Rafa Marín|Nikola Maras|Jon Guridi|Selu Diallo|José de León
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #19
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  CA Osasuna
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  sob., 19.08.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 2. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/ca-osasuna_athletic-bilbao/aufstellung/spielbericht/4113154
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CA OSASUNA - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Aitor Fernández
+        5. David García
+       24. Alejandro Catena
+       22. Johan Mojica
+       15. Rubén Peña
+        6. Lucas Torró
+        7. Jon Moncayola
+       10. Aimar Oroz
+       16. Moi Gómez
+       14. Rubén García
+       17. Ante Budimir
+
+   🔄 SUBSTITUTES IN (4):
+       19. Pablo Ibáñez
+       20. José Manuel Arnáiz
+        9. Chimy Ávila
+       23. Raúl García
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       19. Imanol García de Albéniz
+       18. Óscar de Marcos
+        6. Mikel Vesga
+       16. Iñigo Ruiz de Galarreta
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+       15. Iñigo Lekue
+       21. Ander Herrera
+       33. Beñat Prados
+       22. Raúl García
+        7. Álex Berenguer
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 19.08.2023|LALIGA|2. Kolejka|CA Osasuna|Athletic Bilbao|Aitor Fernández|David García|Alejandro Catena|Johan Mojica|Rubén Peña|Lucas Torró|Jon Moncayola|Aimar Oroz|Moi Gómez|Rubén García|Ante Budimir|Pablo Ibáñez|José Manuel Arnáiz|Chimy Ávila|Raúl García|Unai Simón|Dani Vivian|Aitor Paredes|Imanol García de Albéniz|Óscar de Marcos|Mikel Vesga|Iñigo Ruiz de Galarreta|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Iñigo Lekue|Ander Herrera|Beñat Prados|Raúl García|Álex Berenguer
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #20
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Sevilla FC
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  czw., 04.01.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 19. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/sevilla-fc_athletic-bilbao/aufstellung/spielbericht/4112858
+
+----------------------------------------------------------------------------------------------------
+
+🏠 SEVILLA FC - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marko Dmitrovic
+       27. Kike Salas
+        4. Sergio Ramos
+       22. Loïc Badé
+        3. Adrià Pedrosa
+       26. Juanlu Sánchez
+        6. Nemanja Gudelj
+       18. Djibril Sow
+        5. Lucas Ocampos
+        7. Suso
+        9. Rafa Mir
+
+   🔄 SUBSTITUTES IN (5):
+       23. Marcão
+       14. Tanguy Nianzou
+       10. Ivan Rakitic
+       21. Óliver Torres
+       25. Adnan Januzaj
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       15. Iñigo Lekue
+        6. Mikel Vesga
+       16. Iñigo Ruiz de Galarreta
+        8. Oihan Sancet
+       11. Nico Williams
+        7. Álex Berenguer
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+       21. Ander Herrera
+       24. Beñat Prados
+       30. Unai Gómez
+       22. Raúl García
+       29. Adu Ares
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 04.01.2024|LALIGA|19. Kolejka|Sevilla FC|Athletic Bilbao|Marko Dmitrovic|Kike Salas|Sergio Ramos|Loïc Badé|Adrià Pedrosa|Juanlu Sánchez|Nemanja Gudelj|Djibril Sow|Lucas Ocampos|Suso|Rafa Mir|Marcão|Tanguy Nianzou|Ivan Rakitic|Óliver Torres|Adnan Januzaj|Unai Simón|Dani Vivian|Aitor Paredes|Yuri Berchiche|Iñigo Lekue|Mikel Vesga|Iñigo Ruiz de Galarreta|Oihan Sancet|Nico Williams|Álex Berenguer|Gorka Guruzeta|Ander Herrera|Beñat Prados|Unai Gómez|Raúl García|Adu Ares
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #21
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Sociedad
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  sob., 30.09.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 8. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-sociedad_athletic-bilbao/aufstellung/spielbericht/4112974
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL SOCIEDAD - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Álex Remiro
+        5. Igor Zubeldia
+       24. Robin Le Normand
+       17. Kieran Tierney
+       18. Hamari Traoré
+        4. Martín Zubimendi
+        8. Mikel Merino
+        7. Ander Barrenetxea
+       14. Takefusa Kubo
+       23. Brais Méndez
+       19. Umar Sadiq
+
+   🔄 SUBSTITUTES IN (5):
+       20. Jon Pacheco
+        3. Aihen Muñoz
+       22. Beñat Turrientes
+       10. Mikel Oyarzabal
+       21. André Silva
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        5. Yeray Álvarez
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+       14. Dani García
+       21. Ander Herrera
+       10. Iker Muniain
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+        4. Aitor Paredes
+       24. Beñat Prados
+       22. Raúl García
+        7. Álex Berenguer
+       20. Asier Villalibre
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 30.09.2023|LALIGA|8. Kolejka|Real Sociedad|Athletic Bilbao|Álex Remiro|Igor Zubeldia|Robin Le Normand|Kieran Tierney|Hamari Traoré|Martín Zubimendi|Mikel Merino|Ander Barrenetxea|Takefusa Kubo|Brais Méndez|Umar Sadiq|Jon Pacheco|Aihen Muñoz|Beñat Turrientes|Mikel Oyarzabal|André Silva|Unai Simón|Dani Vivian|Yeray Álvarez|Yuri Berchiche|Óscar de Marcos|Dani García|Ander Herrera|Iker Muniain|Nico Williams|Iñaki Williams|Gorka Guruzeta|Aitor Paredes|Beñat Prados|Raúl García|Álex Berenguer|Asier Villalibre
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #22
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Real Sociedad
+📅 DATE:  sob., 13.01.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 20. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_real-sociedad/aufstellung/spielbericht/4112816
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       15. Iñigo Lekue
+        6. Mikel Vesga
+       16. Iñigo Ruiz de Galarreta
+        8. Oihan Sancet
+       11. Nico Williams
+        7. Álex Berenguer
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+       21. Ander Herrera
+       30. Unai Gómez
+       10. Iker Muniain
+       29. Adu Ares
+       20. Asier Villalibre
+
+✈️  REAL SOCIEDAD - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Unai Marrero
+        5. Igor Zubeldia
+       24. Robin Le Normand
+       17. Kieran Tierney
+        2. Álvaro Odriozola
+        4. Martín Zubimendi
+        8. Mikel Merino
+       23. Brais Méndez
+        7. Ander Barrenetxea
+       12. Arsen Zakharyan
+       10. Mikel Oyarzabal
+
+   🔄 SUBSTITUTES IN (5):
+        6. Aritz Elustondo
+        3. Aihen Muñoz
+       16. Jon Ander Olasagasti
+       28. Jon Magunazelaia
+       38. Alberto Dadie
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 13.01.2024|LALIGA|20. Kolejka|Athletic Bilbao|Real Sociedad|Unai Simón|Dani Vivian|Aitor Paredes|Yuri Berchiche|Iñigo Lekue|Mikel Vesga|Iñigo Ruiz de Galarreta|Oihan Sancet|Nico Williams|Álex Berenguer|Gorka Guruzeta|Ander Herrera|Unai Gómez|Iker Muniain|Adu Ares|Asier Villalibre|Unai Marrero|Igor Zubeldia|Robin Le Normand|Kieran Tierney|Álvaro Odriozola|Martín Zubimendi|Mikel Merino|Brais Méndez|Ander Barrenetxea|Arsen Zakharyan|Mikel Oyarzabal|Aritz Elustondo|Aihen Muñoz|Jon Ander Olasagasti|Jon Magunazelaia|Alberto Dadie
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #23
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Real Betis Balompié
+📅 DATE:  niedz., 27.08.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 3. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_real-betis-balompié/aufstellung/spielbericht/4113080
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       19. Imanol García de Albéniz
+       15. Iñigo Lekue
+        6. Mikel Vesga
+       16. Iñigo Ruiz de Galarreta
+       10. Iker Muniain
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+       17. Yuri Berchiche
+       14. Dani García
+       30. Unai Gómez
+        7. Álex Berenguer
+       20. Asier Villalibre
+
+✈️  REAL BETIS BALOMPIÉ - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Rui Silva
+        6. Germán Pezzella
+       19. Luiz Felipe
+       20. Abner
+       23. Youssouf Sabaly
+       21. Marc Roca
+        5. Guido Rodríguez
+       22. Isco
+       10. Ayoze Pérez
+       24. Aitor Ruibal
+       12. Willian José
+
+   🔄 SUBSTITUTES IN (5):
+        3. Juan Miranda
+        4. Paul Akouokou
+       18. Andrés Guardado
+       17. Rodri Sánchez
+        9. Borja Iglesias
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 27.08.2023|LALIGA|3. Kolejka|Athletic Bilbao|Real Betis Balompié|Unai Simón|Dani Vivian|Aitor Paredes|Imanol García de Albéniz|Iñigo Lekue|Mikel Vesga|Iñigo Ruiz de Galarreta|Iker Muniain|Nico Williams|Iñaki Williams|Gorka Guruzeta|Yuri Berchiche|Dani García|Unai Gómez|Álex Berenguer|Asier Villalibre|Rui Silva|Germán Pezzella|Luiz Felipe|Abner|Youssouf Sabaly|Marc Roca|Guido Rodríguez|Isco|Ayoze Pérez|Aitor Ruibal|Willian José|Juan Miranda|Paul Akouokou|Andrés Guardado|Rodri Sánchez|Borja Iglesias
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #24
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  RCD Mallorca
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 03.09.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 4. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rcd-mallorca_athletic-bilbao/aufstellung/spielbericht/4113051
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RCD MALLORCA - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Predrag Rajković
+        4. Siebe Van der Heyden
+       24. Martin Valjent
+       20. Giovanni González
+       12. Samú Costa
+       15. Pablo Maffeo
+        3. Toni Lato
+       10. Sergi Darder
+       14. Dani Rodríguez
+        7. Vedat Muriqi
+       17. Cyle Larin
+
+   🔄 SUBSTITUTES IN (4):
+       11. Jaume Costa
+        8. Manu Morlanes
+       19. Javi Llabrés
+        9. Abdón Prats
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       15. Iñigo Lekue
+        6. Mikel Vesga
+       16. Iñigo Ruiz de Galarreta
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+       14. Dani García
+       24. Beñat Prados
+       22. Raúl García
+        7. Álex Berenguer
+       10. Iker Muniain
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 03.09.2023|LALIGA|4. Kolejka|RCD Mallorca|Athletic Bilbao|Predrag Rajković|Siebe Van der Heyden|Martin Valjent|Giovanni González|Samú Costa|Pablo Maffeo|Toni Lato|Sergi Darder|Dani Rodríguez|Vedat Muriqi|Cyle Larin|Jaume Costa|Manu Morlanes|Javi Llabrés|Abdón Prats|Unai Simón|Dani Vivian|Aitor Paredes|Yuri Berchiche|Iñigo Lekue|Mikel Vesga|Iñigo Ruiz de Galarreta|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Dani García|Beñat Prados|Raúl García|Álex Berenguer|Iker Muniain
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #25
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  CA Osasuna
+📅 DATE:  sob., 11.05.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 35. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_ca-osasuna/aufstellung/spielbericht/4112955
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+       15. Iñigo Lekue
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+        6. Mikel Vesga
+       21. Ander Herrera
+       10. Iker Muniain
+        7. Álex Berenguer
+       11. Nico Williams
+        9. Iñaki Williams
+
+   🔄 SUBSTITUTES IN (5):
+       24. Beñat Prados
+       30. Unai Gómez
+       22. Raúl García
+       23. Adu Ares
+       20. Asier Villalibre
+
+✈️  CA OSASUNA - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Sergio Herrera
+       28. Jorge Herrando
+       24. Alejandro Catena
+       22. Johan Mojica
+       12. Jesús Areso
+       34. Iker Muñoz
+        6. Lucas Torró
+       19. Pablo Ibáñez
+       15. Rubén Peña
+       14. Rubén García
+       23. Raúl García
+
+   🔄 SUBSTITUTES IN (4):
+       45. Jorge Moreno
+        3. Juan Cruz
+       10. Aimar Oroz
+       20. José Manuel Arnáiz
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 11.05.2024|LALIGA|35. Kolejka|Athletic Bilbao|CA Osasuna|Unai Simón|Dani Vivian|Iñigo Lekue|Yuri Berchiche|Óscar de Marcos|Mikel Vesga|Ander Herrera|Iker Muniain|Álex Berenguer|Nico Williams|Iñaki Williams|Beñat Prados|Unai Gómez|Raúl García|Adu Ares|Asier Villalibre|Sergio Herrera|Jorge Herrando|Alejandro Catena|Johan Mojica|Jesús Areso|Iker Muñoz|Lucas Torró|Pablo Ibáñez|Rubén Peña|Rubén García|Raúl García|Jorge Moreno|Juan Cruz|Aimar Oroz|José Manuel Arnáiz
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #26
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Valencia CF
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  sob., 20.01.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 21. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/valencia-cf_athletic-bilbao/aufstellung/spielbericht/4112829
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VALENCIA CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Giorgi Mamardashvili
+        3. Cristhian Mosquera
+        5. Gabriel Paulista
+       14. José Gayà
+       20. Dimitri Foulquier
+        6. Hugo Guillamón
+       18. Pepelu
+        7. Sergi Canós
+       23. Fran Pérez
+       16. Diego López
+        9. Hugo Duro
+
+   🔄 SUBSTITUTES IN (4):
+       21. Jesús Vázquez
+       12. Thierry Correia
+        8. Javi Guerra
+       17. Roman Yaremchuk
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       15. Iñigo Lekue
+       21. Ander Herrera
+       24. Beñat Prados
+        8. Oihan Sancet
+       11. Nico Williams
+        7. Álex Berenguer
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+       16. Iñigo Ruiz de Galarreta
+       30. Unai Gómez
+       22. Raúl García
+       29. Adu Ares
+       20. Asier Villalibre
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 20.01.2024|LALIGA|21. Kolejka|Valencia CF|Athletic Bilbao|Giorgi Mamardashvili|Cristhian Mosquera|Gabriel Paulista|José Gayà|Dimitri Foulquier|Hugo Guillamón|Pepelu|Sergi Canós|Fran Pérez|Diego López|Hugo Duro|Jesús Vázquez|Thierry Correia|Javi Guerra|Roman Yaremchuk|Unai Simón|Dani Vivian|Aitor Paredes|Yuri Berchiche|Iñigo Lekue|Ander Herrera|Beñat Prados|Oihan Sancet|Nico Williams|Álex Berenguer|Gorka Guruzeta|Iñigo Ruiz de Galarreta|Unai Gómez|Raúl García|Adu Ares|Asier Villalibre
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #27
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  UD Las Palmas
+📅 DATE:  śr., 20.12.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 18. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_ud-las-palmas/aufstellung/spielbericht/4112865
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       15. Iñigo Lekue
+       21. Ander Herrera
+       24. Beñat Prados
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+        6. Mikel Vesga
+       31. Mikel Jauregizar
+       30. Unai Gómez
+       22. Raúl García
+        7. Álex Berenguer
+
+✈️  UD LAS PALMAS - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Álvaro Valles
+       15. Mika Mármol
+       23. Saúl Coco
+        3. Sergi Cardona
+       28. Julián Araujo
+        8. Máximo Perrone
+       12. Enzo Loiodice
+        5. Javi Muñoz
+       17. Munir El Haddadi
+        2. Marvin Park
+       16. Sory Kaba
+
+   🔄 SUBSTITUTES IN (3):
+        4. Álex Suárez
+       22. Nuke Mfulu
+        9. Sandro Ramírez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 20.12.2023|LALIGA|18. Kolejka|Athletic Bilbao|UD Las Palmas|Unai Simón|Dani Vivian|Aitor Paredes|Yuri Berchiche|Iñigo Lekue|Ander Herrera|Beñat Prados|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Mikel Vesga|Mikel Jauregizar|Unai Gómez|Raúl García|Álex Berenguer|Álvaro Valles|Mika Mármol|Saúl Coco|Sergi Cardona|Julián Araujo|Máximo Perrone|Enzo Loiodice|Javi Muñoz|Munir El Haddadi|Marvin Park|Sory Kaba|Álex Suárez|Nuke Mfulu|Sandro Ramírez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #28
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Villarreal CF
+📅 DATE:  niedz., 14.04.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 31. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_villarreal-cf/aufstellung/spielbericht/4113015
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+        6. Mikel Vesga
+       24. Beñat Prados
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+       14. Dani García
+       21. Ander Herrera
+        7. Álex Berenguer
+       10. Iker Muniain
+       20. Asier Villalibre
+
+✈️  VILLARREAL CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Filip Jørgensen
+        2. Yerson Mosquera
+        3. Raúl Albiol
+       18. Alberto Moreno
+       17. Kiko Femenía
+        4. Santi Comesaña
+       10. Dani Parejo
+       16. Álex Baena
+       25. Bertrand Traoré
+        7. Gerard Moreno
+       11. Alexander Sørloth
+
+   🔄 SUBSTITUTES IN (3):
+       24. Alfonso Pedraza
+        9. Gonçalo Guedes
+       27. Ilias Akhomach
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 14.04.2024|LALIGA|31. Kolejka|Athletic Bilbao|Villarreal CF|Unai Simón|Dani Vivian|Aitor Paredes|Yuri Berchiche|Óscar de Marcos|Mikel Vesga|Beñat Prados|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Dani García|Ander Herrera|Álex Berenguer|Iker Muniain|Asier Villalibre|Filip Jørgensen|Yerson Mosquera|Raúl Albiol|Alberto Moreno|Kiko Femenía|Santi Comesaña|Dani Parejo|Álex Baena|Bertrand Traoré|Gerard Moreno|Alexander Sørloth|Alfonso Pedraza|Gonçalo Guedes|Ilias Akhomach
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #29
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  UE Rubí
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  śr., 01.11.2023
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/ue-rubí_athletic-bilbao/aufstellung/spielbericht/4204002
+
+----------------------------------------------------------------------------------------------------
+
+🏠 UE RUBÍ - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Rafa Leva
+        4. Oriol Tenorio
+        5. David Picón
+       20. Alex Ruiz
+        2. Aitor Torres
+        3. Óscar Morell
+        8. Jordi Masip
+       10. Pau Albelda
+        9. Daniel Muela
+        7. Adrià Recort
+       11. Muñi
+
+   🔄 SUBSTITUTES IN (5):
+       17. Cristian Mulero
+       18. Marc Rodriguez
+       19. Abde
+       21. Sergio Mulero
+       14. Sergi Monsó
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Julen Agirrezabala
+       27. Unai Egiluz
+       23. Peru Nolaskoain
+       15. Iñigo Lekue
+       24. Beñat Prados
+        6. Mikel Vesga
+       30. Unai Gómez
+       10. Iker Muniain
+        7. Álex Berenguer
+       29. Adu Ares
+       22. Raúl García
+
+   🔄 SUBSTITUTES IN (5):
+        3. Dani Vivian
+       14. Dani García
+       16. Iñigo Ruiz de Galarreta
+        8. Oihan Sancet
+       20. Asier Villalibre
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 01.11.2023|Unknown|Unknown|UE Rubí|Athletic Bilbao|Rafa Leva|Oriol Tenorio|David Picón|Alex Ruiz|Aitor Torres|Óscar Morell|Jordi Masip|Pau Albelda|Daniel Muela|Adrià Recort|Muñi|Cristian Mulero|Marc Rodriguez|Abde|Sergio Mulero|Sergi Monsó|Julen Agirrezabala|Unai Egiluz|Peru Nolaskoain|Iñigo Lekue|Beñat Prados|Mikel Vesga|Unai Gómez|Iker Muniain|Álex Berenguer|Adu Ares|Raúl García|Dani Vivian|Dani García|Iñigo Ruiz de Galarreta|Oihan Sancet|Asier Villalibre
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #30
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Granada CF
+📅 DATE:  pt., 19.04.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 32. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_granada-cf/aufstellung/spielbericht/4112926
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+       16. Iñigo Ruiz de Galarreta
+       30. Unai Gómez
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+        5. Yeray Álvarez
+       15. Iñigo Lekue
+       21. Ander Herrera
+       22. Raúl García
+        7. Álex Berenguer
+
+✈️  GRANADA CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Augusto Batalla
+       14. Ignasi Miquel
+        4. Miguel Rubio
+       15. Carlos Neva
+        2. Bruno Méndez
+       23. Gerard Gumbau
+       20. Sergio Ruiz
+       24. Gonzalo Villar
+       18. Kamil Jozwiak
+       10. Antonio Puertas
+        7. Lucas Boyé
+
+   🔄 SUBSTITUTES IN (5):
+        3. Faitout Maouassa
+       12. Ricard Sánchez
+       11. Myrto Uzuni
+       17. Theo Corbeanu
+        8. Matías Arezo
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pt., 19.04.2024|LALIGA|32. Kolejka|Athletic Bilbao|Granada CF|Unai Simón|Dani Vivian|Aitor Paredes|Yuri Berchiche|Óscar de Marcos|Iñigo Ruiz de Galarreta|Unai Gómez|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Yeray Álvarez|Iñigo Lekue|Ander Herrera|Raúl García|Álex Berenguer|Augusto Batalla|Ignasi Miquel|Miguel Rubio|Carlos Neva|Bruno Méndez|Gerard Gumbau|Sergio Ruiz|Gonzalo Villar|Kamil Jozwiak|Antonio Puertas|Lucas Boyé|Faitout Maouassa|Ricard Sánchez|Myrto Uzuni|Theo Corbeanu|Matías Arezo
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #31
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Sevilla FC
+📅 DATE:  niedz., 19.05.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 37. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_sevilla-fc/aufstellung/spielbericht/4112905
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Julen Agirrezabala
+        3. Dani Vivian
+        5. Yeray Álvarez
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+       16. Iñigo Ruiz de Galarreta
+       24. Beñat Prados
+       10. Iker Muniain
+       11. Nico Williams
+        9. Iñaki Williams
+       22. Raúl García
+
+   🔄 SUBSTITUTES IN (5):
+       21. Ander Herrera
+       31. Mikel Jauregizar
+        7. Álex Berenguer
+       33. Aingeru Olabarrieta
+       20. Asier Villalibre
+
+✈️  SEVILLA FC - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Ørjan Nyland
+        2. Kike Salas
+        4. Sergio Ramos
+       22. Loïc Badé
+       42. Lucien Agoumé
+       28. Manu Bueno
+       16. Jesús Navas
+       19. Marcos Acuña
+        5. Lucas Ocampos
+       11. Dodi Lukébakio
+       15. Youssef En-Nesyri
+
+   🔄 SUBSTITUTES IN (5):
+        3. Adrià Pedrosa
+       26. Juanlu Sánchez
+       46. Hannibal
+       10. Alejo Veliz
+       12. Mariano Díaz
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 19.05.2024|LALIGA|37. Kolejka|Athletic Bilbao|Sevilla FC|Julen Agirrezabala|Dani Vivian|Yeray Álvarez|Yuri Berchiche|Óscar de Marcos|Iñigo Ruiz de Galarreta|Beñat Prados|Iker Muniain|Nico Williams|Iñaki Williams|Raúl García|Ander Herrera|Mikel Jauregizar|Álex Berenguer|Aingeru Olabarrieta|Asier Villalibre|Ørjan Nyland|Kike Salas|Sergio Ramos|Loïc Badé|Lucien Agoumé|Manu Bueno|Jesús Navas|Marcos Acuña|Lucas Ocampos|Dodi Lukébakio|Youssef En-Nesyri|Adrià Pedrosa|Juanlu Sánchez|Hannibal|Alejo Veliz|Mariano Díaz
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #32
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Girona FC
+📅 DATE:  pon., 19.02.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 25. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_girona-fc/aufstellung/spielbericht/4113175
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        5. Yeray Álvarez
+       17. Yuri Berchiche
+       15. Iñigo Lekue
+       16. Iñigo Ruiz de Galarreta
+       24. Beñat Prados
+       30. Unai Gómez
+        7. Álex Berenguer
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+        4. Aitor Paredes
+       18. Óscar de Marcos
+        6. Mikel Vesga
+        8. Oihan Sancet
+       11. Nico Williams
+
+✈️  GIRONA FC - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Paulo Gazzaniga
+       15. Juanpe
+       25. Eric García
+        3. Miguel Gutiérrez
+        4. Arnau Martínez
+       14. Aleix García
+       21. Yangel Herrera
+       23. Iván Martín
+       16. Savinho
+        8. Viktor Tsygankov
+        9. Artem Dovbyk
+
+   🔄 SUBSTITUTES IN (4):
+       22. Jhon Solís
+       11. Valery Fernández
+       24. Portu
+        7. Cristhian Stuani
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pon., 19.02.2024|LALIGA|25. Kolejka|Athletic Bilbao|Girona FC|Unai Simón|Dani Vivian|Yeray Álvarez|Yuri Berchiche|Iñigo Lekue|Iñigo Ruiz de Galarreta|Beñat Prados|Unai Gómez|Álex Berenguer|Iñaki Williams|Gorka Guruzeta|Aitor Paredes|Óscar de Marcos|Mikel Vesga|Oihan Sancet|Nico Williams|Paulo Gazzaniga|Juanpe|Eric García|Miguel Gutiérrez|Arnau Martínez|Aleix García|Yangel Herrera|Iván Martín|Savinho|Viktor Tsygankov|Artem Dovbyk|Jhon Solís|Valery Fernández|Portu|Cristhian Stuani
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #33
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 05.11.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 12. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_athletic-bilbao/aufstellung/spielbericht/4113111
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Filip Jørgensen
+        2. Matteo Gabbia
+        3. Raúl Albiol
+       37. Carlos Romero
+       26. Adrià Altimira
+        6. Étienne Capoue
+       10. Dani Parejo
+       16. Álex Baena
+       27. Ilias Akhomach
+        7. Gerard Moreno
+       11. Alexander Sørloth
+
+   🔄 SUBSTITUTES IN (5):
+       23. Aïssa Mandi
+       18. Alberto Moreno
+       17. Kiko Femenía
+       20. Ramón Terrats
+       30. Jorge Pascual
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       15. Iñigo Lekue
+       18. Óscar de Marcos
+        6. Mikel Vesga
+       16. Iñigo Ruiz de Galarreta
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+       14. Dani García
+       30. Unai Gómez
+        7. Álex Berenguer
+       10. Iker Muniain
+       20. Asier Villalibre
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 05.11.2023|LALIGA|12. Kolejka|Villarreal CF|Athletic Bilbao|Filip Jørgensen|Matteo Gabbia|Raúl Albiol|Carlos Romero|Adrià Altimira|Étienne Capoue|Dani Parejo|Álex Baena|Ilias Akhomach|Gerard Moreno|Alexander Sørloth|Aïssa Mandi|Alberto Moreno|Kiko Femenía|Ramón Terrats|Jorge Pascual|Unai Simón|Dani Vivian|Aitor Paredes|Iñigo Lekue|Óscar de Marcos|Mikel Vesga|Iñigo Ruiz de Galarreta|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Dani García|Unai Gómez|Álex Berenguer|Iker Muniain|Asier Villalibre
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #34
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  sob., 16.12.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 17. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_atlético-madryt/aufstellung/spielbericht/4112846
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       15. Iñigo Lekue
+       21. Ander Herrera
+       24. Beñat Prados
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (4):
+        6. Mikel Vesga
+       31. Mikel Jauregizar
+       30. Unai Gómez
+        7. Álex Berenguer
+
+✈️  ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+        4. Çağlar Söyüncü
+       20. Axel Witsel
+       14. Marcos Llorente
+        8. Saúl Ñíguez
+        6. Koke
+       16. Nahuel Molina
+       12. Samuel Lino
+        7. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+        2. José María Giménez
+        3. César Azpilicueta
+        5. Rodrigo De Paul
+       10. Ángel Correa
+        9. Memphis Depay
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 16.12.2023|LALIGA|17. Kolejka|Athletic Bilbao|Atlético Madryt|Unai Simón|Dani Vivian|Aitor Paredes|Yuri Berchiche|Iñigo Lekue|Ander Herrera|Beñat Prados|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Mikel Vesga|Mikel Jauregizar|Unai Gómez|Álex Berenguer|Jan Oblak|Mario Hermoso|Çağlar Söyüncü|Axel Witsel|Marcos Llorente|Saúl Ñíguez|Koke|Nahuel Molina|Samuel Lino|Antoine Griezmann|Álvaro Morata|José María Giménez|César Azpilicueta|Rodrigo De Paul|Ángel Correa|Memphis Depay
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #35
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  UD Almería
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  pon., 12.02.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 24. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/ud-almería_athletic-bilbao/aufstellung/spielbericht/4112885
+
+----------------------------------------------------------------------------------------------------
+
+🏠 UD ALMERÍA - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Luís Maximiano
+       16. Aleksandar Radovanovic
+        3. Edgar González
+       20. Álex Centelles
+       18. Marc Pubill
+        6. Dion Lopy
+        4. Iddrisu Baba
+        5. Lucas Robertone
+        7. Largie Ramazani
+       19. Sergio Arribas
+       15. Choco Lozano
+
+   🔄 SUBSTITUTES IN (4):
+       24. Bruno Langa
+       11. Gonzalo Melero
+       10. Adrián Embarba
+       29. Marko Milovanović
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        4. Aitor Paredes
+        5. Yeray Álvarez
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+        6. Mikel Vesga
+       16. Iñigo Ruiz de Galarreta
+       30. Unai Gómez
+        7. Álex Berenguer
+        9. Iñaki Williams
+       20. Asier Villalibre
+
+   🔄 SUBSTITUTES IN (5):
+       21. Ander Herrera
+        8. Oihan Sancet
+       22. Raúl García
+       10. Iker Muniain
+       23. Adu Ares
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pon., 12.02.2024|LALIGA|24. Kolejka|UD Almería|Athletic Bilbao|Luís Maximiano|Aleksandar Radovanovic|Edgar González|Álex Centelles|Marc Pubill|Dion Lopy|Iddrisu Baba|Lucas Robertone|Largie Ramazani|Sergio Arribas|Choco Lozano|Bruno Langa|Gonzalo Melero|Adrián Embarba|Marko Milovanović|Unai Simón|Aitor Paredes|Yeray Álvarez|Yuri Berchiche|Óscar de Marcos|Mikel Vesga|Iñigo Ruiz de Galarreta|Unai Gómez|Álex Berenguer|Iñaki Williams|Asier Villalibre|Ander Herrera|Oihan Sancet|Raúl García|Iker Muniain|Adu Ares
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #36
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Rayo Vallecano
+📅 DATE:  sob., 02.12.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 15. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_rayo-vallecano/aufstellung/spielbericht/4113130
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       15. Iñigo Lekue
+       18. Óscar de Marcos
+       16. Iñigo Ruiz de Galarreta
+       21. Ander Herrera
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+       17. Yuri Berchiche
+       23. Peru Nolaskoain
+       24. Beñat Prados
+        7. Álex Berenguer
+       10. Iker Muniain
+
+✈️  RAYO VALLECANO - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Stole Dimitrievski
+       16. Abdul Mumin
+       24. Florian Lejeune
+       12. Alfonso Espino
+       20. Iván Balliu
+       21. Pathé Ciss
+       23. Óscar Valentín
+       17. Unai López
+       18. Álvaro García
+        7. Isi Palazón
+       34. Sergio Camello
+
+   🔄 SUBSTITUTES IN (4):
+       14. Kike Pérez
+        8. Óscar Trejo
+       19. Jorge de Frutos
+        9. Radamel Falcao
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 02.12.2023|LALIGA|15. Kolejka|Athletic Bilbao|Rayo Vallecano|Unai Simón|Dani Vivian|Aitor Paredes|Iñigo Lekue|Óscar de Marcos|Iñigo Ruiz de Galarreta|Ander Herrera|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Yuri Berchiche|Peru Nolaskoain|Beñat Prados|Álex Berenguer|Iker Muniain|Stole Dimitrievski|Abdul Mumin|Florian Lejeune|Alfonso Espino|Iván Balliu|Pathé Ciss|Óscar Valentín|Unai López|Álvaro García|Isi Palazón|Sergio Camello|Kike Pérez|Óscar Trejo|Jorge de Frutos|Radamel Falcao
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #37
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Cádiz CF
+📅 DATE:  sob., 16.09.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 5. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_cádiz-cf/aufstellung/spielbericht/4113103
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+        6. Mikel Vesga
+       16. Iñigo Ruiz de Galarreta
+        8. Oihan Sancet
+        7. Álex Berenguer
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+        5. Yeray Álvarez
+       21. Ander Herrera
+       30. Unai Gómez
+       10. Iker Muniain
+       20. Asier Villalibre
+
+✈️  CÁDIZ CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Conan Ledesma
+        3. Fali
+       23. Luis Hernández
+       15. Javi Hernández
+       20. Iza Carcelén
+        4. Rubén Alcaraz
+       17. Gonzalo Escalante
+        7. Rubén Sobrino
+       11. Iván Alejo
+       16. Chris Ramos
+       21. Roger Martí
+
+   🔄 SUBSTITUTES IN (5):
+        8. Álex Fernández
+       18. Darwin Machís
+       27. Robert Navarro
+        9. Álvaro Negredo
+       25. Maxi Gómez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 16.09.2023|LALIGA|5. Kolejka|Athletic Bilbao|Cádiz CF|Unai Simón|Dani Vivian|Aitor Paredes|Yuri Berchiche|Óscar de Marcos|Mikel Vesga|Iñigo Ruiz de Galarreta|Oihan Sancet|Álex Berenguer|Iñaki Williams|Gorka Guruzeta|Yeray Álvarez|Ander Herrera|Unai Gómez|Iker Muniain|Asier Villalibre|Conan Ledesma|Fali|Luis Hernández|Javi Hernández|Iza Carcelén|Rubén Alcaraz|Gonzalo Escalante|Rubén Sobrino|Iván Alejo|Chris Ramos|Roger Martí|Álex Fernández|Darwin Machís|Robert Navarro|Álvaro Negredo|Maxi Gómez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #38
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Rayo Vallecano
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  sob., 25.05.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 38. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rayo-vallecano_athletic-bilbao/aufstellung/spielbericht/4112900
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RAYO VALLECANO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Dani Cárdenas
+        5. Aridane Hernández
+       24. Florian Lejeune
+        3. Pep Chavarría
+        2. Andrei Rațiu
+       17. Unai López
+       21. Pathé Ciss
+        8. Óscar Trejo
+       18. Álvaro García
+       19. Jorge de Frutos
+        9. Radamel Falcao
+
+   🔄 SUBSTITUTES IN (5):
+       14. Kike Pérez
+       15. Miguel Crespo
+       10. Bebé
+        7. Isi Palazón
+       22. Raúl de Tomás
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        4. Aitor Paredes
+        5. Yeray Álvarez
+       17. Yuri Berchiche
+       15. Iñigo Lekue
+       14. Dani García
+       16. Iñigo Ruiz de Galarreta
+       31. Mikel Jauregizar
+       11. Nico Williams
+        7. Álex Berenguer
+       20. Asier Villalibre
+
+   🔄 SUBSTITUTES IN (5):
+       13. Julen Agirrezabala
+        3. Dani Vivian
+       19. Imanol García de Albéniz
+       30. Unai Gómez
+       22. Raúl García
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 25.05.2024|LALIGA|38. Kolejka|Rayo Vallecano|Athletic Bilbao|Dani Cárdenas|Aridane Hernández|Florian Lejeune|Pep Chavarría|Andrei Rațiu|Unai López|Pathé Ciss|Óscar Trejo|Álvaro García|Jorge de Frutos|Radamel Falcao|Kike Pérez|Miguel Crespo|Bebé|Isi Palazón|Raúl de Tomás|Unai Simón|Aitor Paredes|Yeray Álvarez|Yuri Berchiche|Iñigo Lekue|Dani García|Iñigo Ruiz de Galarreta|Mikel Jauregizar|Nico Williams|Álex Berenguer|Asier Villalibre|Julen Agirrezabala|Dani Vivian|Imanol García de Albéniz|Unai Gómez|Raúl García
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #39
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  śr., 07.02.2024
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_athletic-bilbao/aufstellung/spielbericht/4275924
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       15. Stefan Savic
+       23. Reinildo Mandava
+       20. Axel Witsel
+        6. Koke
+        5. Rodrigo De Paul
+       24. Pablo Barrios
+       16. Nahuel Molina
+       12. Samuel Lino
+        7. Antoine Griezmann
+        9. Memphis Depay
+
+   🔄 SUBSTITUTES IN (5):
+       22. Mario Hermoso
+       14. Marcos Llorente
+       17. Rodrigo Riquelme
+       10. Ángel Correa
+       19. Álvaro Morata
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Julen Agirrezabala
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       15. Iñigo Lekue
+       16. Iñigo Ruiz de Galarreta
+       24. Beñat Prados
+        8. Oihan Sancet
+        7. Álex Berenguer
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+        5. Yeray Álvarez
+        6. Mikel Vesga
+       21. Ander Herrera
+       30. Unai Gómez
+       20. Asier Villalibre
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 07.02.2024|Unknown|Unknown|Atlético Madryt|Athletic Bilbao|Jan Oblak|Stefan Savic|Reinildo Mandava|Axel Witsel|Koke|Rodrigo De Paul|Pablo Barrios|Nahuel Molina|Samuel Lino|Antoine Griezmann|Memphis Depay|Mario Hermoso|Marcos Llorente|Rodrigo Riquelme|Ángel Correa|Álvaro Morata|Julen Agirrezabala|Dani Vivian|Aitor Paredes|Yuri Berchiche|Iñigo Lekue|Iñigo Ruiz de Galarreta|Beñat Prados|Oihan Sancet|Álex Berenguer|Iñaki Williams|Gorka Guruzeta|Yeray Álvarez|Mikel Vesga|Ander Herrera|Unai Gómez|Asier Villalibre
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #40
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  RCD Mallorca
+📅 DATE:  sob., 06.04.2024
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_rcd-mallorca/aufstellung/spielbericht/4308543
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 17 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Julen Agirrezabala
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+       16. Iñigo Ruiz de Galarreta
+       24. Beñat Prados
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (6):
+       15. Iñigo Lekue
+        6. Mikel Vesga
+       30. Unai Gómez
+       22. Raúl García
+        7. Álex Berenguer
+       10. Iker Muniain
+
+✈️  RCD MALLORCA - 17 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Dominik Greif
+        6. José Copete
+       21. Antonio Raíllo
+       24. Martin Valjent
+        3. Toni Lato
+       20. Giovanni González
+       12. Samú Costa
+       10. Sergi Darder
+       14. Dani Rodríguez
+        7. Vedat Muriqi
+       17. Cyle Larin
+
+   🔄 SUBSTITUTES IN (6):
+        2. Matija Nastasić
+        4. Siebe Van der Heyden
+       15. Pablo Maffeo
+        8. Manu Morlanes
+       18. Antonio Sánchez
+       23. Nemanja Radonjic
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 06.04.2024|Unknown|Unknown|Athletic Bilbao|RCD Mallorca|Julen Agirrezabala|Dani Vivian|Aitor Paredes|Yuri Berchiche|Óscar de Marcos|Iñigo Ruiz de Galarreta|Beñat Prados|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Iñigo Lekue|Mikel Vesga|Unai Gómez|Raúl García|Álex Berenguer|Iker Muniain|Dominik Greif|José Copete|Antonio Raíllo|Martin Valjent|Toni Lato|Giovanni González|Samú Costa|Sergi Darder|Dani Rodríguez|Vedat Muriqi|Cyle Larin|Matija Nastasić|Siebe Van der Heyden|Pablo Maffeo|Manu Morlanes|Antonio Sánchez|Nemanja Radonjic
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #41
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  sob., 27.04.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 33. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_athletic-bilbao/aufstellung/spielbericht/4112941
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+        2. José María Giménez
+       20. Axel Witsel
+        6. Koke
+       14. Marcos Llorente
+        5. Rodrigo De Paul
+       16. Nahuel Molina
+       12. Samuel Lino
+       10. Ángel Correa
+        7. Antoine Griezmann
+
+   🔄 SUBSTITUTES IN (4):
+        3. César Azpilicueta
+        8. Saúl Ñíguez
+       24. Pablo Barrios
+       17. Rodrigo Riquelme
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        4. Aitor Paredes
+        5. Yeray Álvarez
+       15. Iñigo Lekue
+        3. Dani Vivian
+       16. Iñigo Ruiz de Galarreta
+       24. Beñat Prados
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+        6. Mikel Vesga
+       21. Ander Herrera
+       22. Raúl García
+        7. Álex Berenguer
+       10. Iker Muniain
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 27.04.2024|LALIGA|33. Kolejka|Atlético Madryt|Athletic Bilbao|Jan Oblak|Mario Hermoso|José María Giménez|Axel Witsel|Koke|Marcos Llorente|Rodrigo De Paul|Nahuel Molina|Samuel Lino|Ángel Correa|Antoine Griezmann|César Azpilicueta|Saúl Ñíguez|Pablo Barrios|Rodrigo Riquelme|Unai Simón|Aitor Paredes|Yeray Álvarez|Iñigo Lekue|Dani Vivian|Iñigo Ruiz de Galarreta|Beñat Prados|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Mikel Vesga|Ander Herrera|Raúl García|Álex Berenguer|Iker Muniain
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #42
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  FC Barcelona
+📅 DATE:  niedz., 03.03.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 27. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_fc-barcelona/aufstellung/spielbericht/4113005
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        4. Aitor Paredes
+        5. Yeray Álvarez
+       19. Imanol García de Albéniz
+       24. Beñat Prados
+        6. Mikel Vesga
+       14. Dani García
+       30. Unai Gómez
+        7. Álex Berenguer
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+       18. Óscar de Marcos
+       16. Iñigo Ruiz de Galarreta
+        8. Oihan Sancet
+       23. Adu Ares
+       20. Asier Villalibre
+
+✈️  FC BARCELONA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc-André ter Stegen
+        4. Ronald Araujo
+       33. Pau Cubarsí
+        2. João Cancelo
+       23. Jules Koundé
+       15. Andreas Christensen
+       21. Frenkie de Jong
+       22. İlkay Gündoğan
+        8. Pedri
+       11. Raphinha
+        9. Robert Lewandowski
+
+   🔄 SUBSTITUTES IN (5):
+        5. Iñigo Martínez
+       18. Oriol Romeu
+       16. Fermín López
+       27. Lamine Yamal
+       14. João Félix
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 03.03.2024|LALIGA|27. Kolejka|Athletic Bilbao|FC Barcelona|Unai Simón|Aitor Paredes|Yeray Álvarez|Imanol García de Albéniz|Beñat Prados|Mikel Vesga|Dani García|Unai Gómez|Álex Berenguer|Iñaki Williams|Gorka Guruzeta|Óscar de Marcos|Iñigo Ruiz de Galarreta|Oihan Sancet|Adu Ares|Asier Villalibre|Marc-André ter Stegen|Ronald Araujo|Pau Cubarsí|João Cancelo|Jules Koundé|Andreas Christensen|Frenkie de Jong|İlkay Gündoğan|Pedri|Raphinha|Robert Lewandowski|Iñigo Martínez|Oriol Romeu|Fermín López|Lamine Yamal|João Félix
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #43
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  czw., 29.02.2024
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_atlético-madryt/aufstellung/spielbericht/4275926
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Julen Agirrezabala
+        3. Dani Vivian
+        4. Aitor Paredes
+       15. Iñigo Lekue
+       18. Óscar de Marcos
+       16. Iñigo Ruiz de Galarreta
+       24. Beñat Prados
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+        5. Yeray Álvarez
+       14. Dani García
+       30. Unai Gómez
+       22. Raúl García
+        7. Álex Berenguer
+
+✈️  ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+       15. Stefan Savic
+       20. Axel Witsel
+        6. Koke
+       14. Marcos Llorente
+        5. Rodrigo De Paul
+       16. Nahuel Molina
+       12. Samuel Lino
+       10. Ángel Correa
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+       23. Reinildo Mandava
+        8. Saúl Ñíguez
+       24. Pablo Barrios
+       17. Rodrigo Riquelme
+        9. Memphis Depay
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 29.02.2024|Unknown|Unknown|Athletic Bilbao|Atlético Madryt|Julen Agirrezabala|Dani Vivian|Aitor Paredes|Iñigo Lekue|Óscar de Marcos|Iñigo Ruiz de Galarreta|Beñat Prados|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Yeray Álvarez|Dani García|Unai Gómez|Raúl García|Álex Berenguer|Jan Oblak|Mario Hermoso|Stefan Savic|Axel Witsel|Koke|Marcos Llorente|Rodrigo De Paul|Nahuel Molina|Samuel Lino|Ángel Correa|Álvaro Morata|Reinildo Mandava|Saúl Ñíguez|Pablo Barrios|Rodrigo Riquelme|Memphis Depay
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #44
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Girona FC
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  pon., 27.11.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 14. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/girona-fc_athletic-bilbao/aufstellung/spielbericht/4113085
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GIRONA FC - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Paulo Gazzaniga
+       17. Daley Blind
+       25. Eric García
+        3. Miguel Gutiérrez
+        4. Arnau Martínez
+       21. Yangel Herrera
+       23. Iván Martín
+       14. Aleix García
+       16. Savinho
+        8. Viktor Tsygankov
+        7. Cristhian Stuani
+
+   🔄 SUBSTITUTES IN (5):
+        6. Ibrahima Kébé
+       20. Yan Couto
+       18. Pablo Torre
+       11. Valery Fernández
+       24. Portu
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       15. Iñigo Lekue
+       18. Óscar de Marcos
+        6. Mikel Vesga
+       16. Iñigo Ruiz de Galarreta
+        8. Oihan Sancet
+       11. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+       21. Ander Herrera
+       30. Unai Gómez
+       22. Raúl García
+        7. Álex Berenguer
+       29. Adu Ares
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pon., 27.11.2023|LALIGA|14. Kolejka|Girona FC|Athletic Bilbao|Paulo Gazzaniga|Daley Blind|Eric García|Miguel Gutiérrez|Arnau Martínez|Yangel Herrera|Iván Martín|Aleix García|Savinho|Viktor Tsygankov|Cristhian Stuani|Ibrahima Kébé|Yan Couto|Pablo Torre|Valery Fernández|Portu|Unai Simón|Dani Vivian|Aitor Paredes|Iñigo Lekue|Óscar de Marcos|Mikel Vesga|Iñigo Ruiz de Galarreta|Oihan Sancet|Nico Williams|Iñaki Williams|Gorka Guruzeta|Ander Herrera|Unai Gómez|Raúl García|Álex Berenguer|Adu Ares
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #45
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Real Madryt
+📅 DATE:  sob., 12.08.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 1. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_real-madryt/aufstellung/spielbericht/4112806
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       15. Iñigo Lekue
+       18. Óscar de Marcos
+        6. Mikel Vesga
+       16. Iñigo Ruiz de Galarreta
+       30. Unai Gómez
+       10. Iker Muniain
+       11. Nico Williams
+        9. Iñaki Williams
+
+   🔄 SUBSTITUTES IN (5):
+       19. Imanol García de Albéniz
+       21. Ander Herrera
+        8. Oihan Sancet
+        7. Álex Berenguer
+       12. Gorka Guruzeta
+
+✈️  REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Andriy Lunin
+        4. David Alaba
+        3. Éder Militão
+       20. Fran García
+        2. Daniel Carvajal
+       18. Aurélien Tchouaméni
+       12. Eduardo Camavinga
+       15. Federico Valverde
+        5. Jude Bellingham
+        7. Vinicius Junior
+       11. Rodrygo
+
+   🔄 SUBSTITUTES IN (4):
+       22. Antonio Rüdiger
+        8. Toni Kroos
+       10. Luka Modrić
+       14. Joselu
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 12.08.2023|LALIGA|1. Kolejka|Athletic Bilbao|Real Madryt|Unai Simón|Dani Vivian|Aitor Paredes|Iñigo Lekue|Óscar de Marcos|Mikel Vesga|Iñigo Ruiz de Galarreta|Unai Gómez|Iker Muniain|Nico Williams|Iñaki Williams|Imanol García de Albéniz|Ander Herrera|Oihan Sancet|Álex Berenguer|Gorka Guruzeta|Andriy Lunin|David Alaba|Éder Militão|Fran García|Daniel Carvajal|Aurélien Tchouaméni|Eduardo Camavinga|Federico Valverde|Jude Bellingham|Vinicius Junior|Rodrygo|Antonio Rüdiger|Toni Kroos|Luka Modrić|Joselu
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #46
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  SD Eibar
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 07.01.2024
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/sd-eibar_athletic-bilbao/aufstellung/spielbericht/4240842
+
+----------------------------------------------------------------------------------------------------
+
+🏠 SD EIBAR - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Yoel Rodríguez
+        5. Juan Berrocal
+       22. Stefan Simic
+       21. José Ríos Reina
+       15. Álvaro Tejero
+       12. Jorge Yriarte
+        8. Matheus Pereira
+       10. Ager Aketxe
+       27. Konrad de la Fuente
+       17. José Corpas
+       18. Jon Bautista
+
+   🔄 SUBSTITUTES IN (5):
+       23. Anaitz Arbilla
+       30. Mario Soriano
+       11. Yanis Rahmani
+       19. Stoichkov
+        7. Quique González
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Julen Agirrezabala
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+        6. Mikel Vesga
+       21. Ander Herrera
+        8. Oihan Sancet
+       11. Nico Williams
+       10. Iker Muniain
+       20. Asier Villalibre
+
+   🔄 SUBSTITUTES IN (5):
+       23. Peru Nolaskoain
+       16. Iñigo Ruiz de Galarreta
+       30. Unai Gómez
+       22. Raúl García
+       29. Adu Ares
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 07.01.2024|Unknown|Unknown|SD Eibar|Athletic Bilbao|Yoel Rodríguez|Juan Berrocal|Stefan Simic|José Ríos Reina|Álvaro Tejero|Jorge Yriarte|Matheus Pereira|Ager Aketxe|Konrad de la Fuente|José Corpas|Jon Bautista|Anaitz Arbilla|Mario Soriano|Yanis Rahmani|Stoichkov|Quique González|Julen Agirrezabala|Dani Vivian|Aitor Paredes|Yuri Berchiche|Óscar de Marcos|Mikel Vesga|Ander Herrera|Oihan Sancet|Nico Williams|Iker Muniain|Asier Villalibre|Peru Nolaskoain|Iñigo Ruiz de Galarreta|Unai Gómez|Raúl García|Adu Ares
+

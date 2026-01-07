@@ -1,0 +1,232 @@
+# Graph for Java/GraphStream
+# Nodes: 22
+# Edges: 226
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Víctor Valdés | Carles Puyol | 47 | 50 | 55
+EDGE Víctor Valdés | Lilian Thuram | 26 | 50 | 28
+EDGE Víctor Valdés | Giovanni van Bronckhorst | 26 | 50 | 31
+EDGE Víctor Valdés | Gianluca Zambrotta | 32 | 50 | 36
+EDGE Víctor Valdés | Xavi | 37 | 50 | 45
+EDGE Víctor Valdés | Andrés Iniesta | 35 | 50 | 41
+EDGE Víctor Valdés | Deco | 43 | 50 | 47
+EDGE Víctor Valdés | Eidur Gudjohnsen | 20 | 50 | 22
+EDGE Víctor Valdés | Lionel Messi | 28 | 50 | 31
+EDGE Víctor Valdés | Samuel Eto'o | 22 | 50 | 25
+EDGE Víctor Valdés | Oleguer | 14 | 50 | 20
+EDGE Víctor Valdés | Juliano Belletti | 12 | 50 | 15
+EDGE Víctor Valdés | Thiago Motta | 15 | 50 | 19
+EDGE Víctor Valdés | Ronaldinho | 44 | 50 | 49
+EDGE Víctor Valdés | Sylvinho | 15 | 50 | 19
+EDGE Víctor Valdés | Edmílson | 23 | 50 | 26
+EDGE Víctor Valdés | Ludovic Giuly | 22 | 50 | 27
+EDGE Víctor Valdés | Rafa Márquez | 30 | 50 | 36
+EDGE Víctor Valdés | Javier Saviola | 7 | 50 | 12
+EDGE Víctor Valdés | Santiago Ezquerro | 2 | 50 | 6
+EDGE Carles Puyol | Lilian Thuram | 24 | 55 | 28
+EDGE Carles Puyol | Giovanni van Bronckhorst | 29 | 55 | 31
+EDGE Carles Puyol | Gianluca Zambrotta | 34 | 55 | 36
+EDGE Carles Puyol | Xavi | 43 | 55 | 45
+EDGE Carles Puyol | Andrés Iniesta | 38 | 55 | 41
+EDGE Carles Puyol | Deco | 45 | 55 | 47
+EDGE Carles Puyol | Eidur Gudjohnsen | 21 | 55 | 22
+EDGE Carles Puyol | Lionel Messi | 28 | 55 | 31
+EDGE Carles Puyol | Samuel Eto'o | 24 | 55 | 25
+EDGE Carles Puyol | Oleguer | 19 | 55 | 20
+EDGE Carles Puyol | Juliano Belletti | 13 | 55 | 15
+EDGE Carles Puyol | Thiago Motta | 17 | 55 | 19
+EDGE Carles Puyol | Ronaldinho | 46 | 55 | 49
+EDGE Carles Puyol | Sylvinho | 16 | 55 | 19
+EDGE Carles Puyol | Edmílson | 24 | 55 | 26
+EDGE Carles Puyol | Ludovic Giuly | 26 | 55 | 27
+EDGE Carles Puyol | Rafa Márquez | 33 | 55 | 36
+EDGE Carles Puyol | Albert Jorquera | 8 | 55 | 9
+EDGE Carles Puyol | Santiago Ezquerro | 5 | 55 | 6
+EDGE Carles Puyol | Javier Saviola | 10 | 55 | 12
+EDGE Lilian Thuram | Giovanni van Bronckhorst | 14 | 28 | 31
+EDGE Lilian Thuram | Gianluca Zambrotta | 15 | 28 | 36
+EDGE Lilian Thuram | Xavi | 22 | 28 | 45
+EDGE Lilian Thuram | Andrés Iniesta | 23 | 28 | 41
+EDGE Lilian Thuram | Deco | 23 | 28 | 47
+EDGE Lilian Thuram | Eidur Gudjohnsen | 7 | 28 | 22
+EDGE Lilian Thuram | Lionel Messi | 19 | 28 | 31
+EDGE Lilian Thuram | Samuel Eto'o | 17 | 28 | 25
+EDGE Lilian Thuram | Oleguer | 9 | 28 | 20
+EDGE Lilian Thuram | Juliano Belletti | 7 | 28 | 15
+EDGE Lilian Thuram | Thiago Motta | 5 | 28 | 19
+EDGE Lilian Thuram | Ronaldinho | 24 | 28 | 49
+EDGE Lilian Thuram | Sylvinho | 9 | 28 | 19
+EDGE Lilian Thuram | Edmílson | 11 | 28 | 26
+EDGE Lilian Thuram | Ludovic Giuly | 11 | 28 | 27
+EDGE Lilian Thuram | Rafa Márquez | 8 | 28 | 36
+EDGE Lilian Thuram | Javier Saviola | 3 | 28 | 12
+EDGE Lilian Thuram | Albert Jorquera | 2 | 28 | 9
+EDGE Lilian Thuram | Santiago Ezquerro | 1 | 28 | 6
+EDGE Giovanni van Bronckhorst | Gianluca Zambrotta | 22 | 31 | 36
+EDGE Giovanni van Bronckhorst | Xavi | 20 | 31 | 45
+EDGE Giovanni van Bronckhorst | Andrés Iniesta | 22 | 31 | 41
+EDGE Giovanni van Bronckhorst | Deco | 23 | 31 | 47
+EDGE Giovanni van Bronckhorst | Eidur Gudjohnsen | 12 | 31 | 22
+EDGE Giovanni van Bronckhorst | Lionel Messi | 18 | 31 | 31
+EDGE Giovanni van Bronckhorst | Samuel Eto'o | 15 | 31 | 25
+EDGE Giovanni van Bronckhorst | Rafa Márquez | 17 | 31 | 36
+EDGE Giovanni van Bronckhorst | Thiago Motta | 12 | 31 | 19
+EDGE Giovanni van Bronckhorst | Ronaldinho | 25 | 31 | 49
+EDGE Giovanni van Bronckhorst | Ludovic Giuly | 14 | 31 | 27
+EDGE Giovanni van Bronckhorst | Juliano Belletti | 5 | 31 | 15
+EDGE Giovanni van Bronckhorst | Edmílson | 12 | 31 | 26
+EDGE Giovanni van Bronckhorst | Oleguer | 8 | 31 | 20
+EDGE Giovanni van Bronckhorst | Albert Jorquera | 5 | 31 | 9
+EDGE Giovanni van Bronckhorst | Javier Saviola | 6 | 31 | 12
+EDGE Giovanni van Bronckhorst | Sylvinho | 2 | 31 | 19
+EDGE Giovanni van Bronckhorst | Santiago Ezquerro | 3 | 31 | 6
+EDGE Gianluca Zambrotta | Xavi | 27 | 36 | 45
+EDGE Gianluca Zambrotta | Andrés Iniesta | 25 | 36 | 41
+EDGE Gianluca Zambrotta | Deco | 31 | 36 | 47
+EDGE Gianluca Zambrotta | Eidur Gudjohnsen | 14 | 36 | 22
+EDGE Gianluca Zambrotta | Lionel Messi | 23 | 36 | 31
+EDGE Gianluca Zambrotta | Samuel Eto'o | 16 | 36 | 25
+EDGE Gianluca Zambrotta | Rafa Márquez | 21 | 36 | 36
+EDGE Gianluca Zambrotta | Thiago Motta | 8 | 36 | 19
+EDGE Gianluca Zambrotta | Ronaldinho | 30 | 36 | 49
+EDGE Gianluca Zambrotta | Ludovic Giuly | 12 | 36 | 27
+EDGE Gianluca Zambrotta | Edmílson | 18 | 36 | 26
+EDGE Gianluca Zambrotta | Sylvinho | 8 | 36 | 19
+EDGE Gianluca Zambrotta | Oleguer | 8 | 36 | 20
+EDGE Gianluca Zambrotta | Javier Saviola | 8 | 36 | 12
+EDGE Gianluca Zambrotta | Juliano Belletti | 2 | 36 | 15
+EDGE Gianluca Zambrotta | Albert Jorquera | 4 | 36 | 9
+EDGE Gianluca Zambrotta | Santiago Ezquerro | 2 | 36 | 6
+EDGE Xavi | Andrés Iniesta | 27 | 45 | 41
+EDGE Xavi | Deco | 34 | 45 | 47
+EDGE Xavi | Eidur Gudjohnsen | 15 | 45 | 22
+EDGE Xavi | Lionel Messi | 27 | 45 | 31
+EDGE Xavi | Samuel Eto'o | 21 | 45 | 25
+EDGE Xavi | Oleguer | 16 | 45 | 20
+EDGE Xavi | Juliano Belletti | 13 | 45 | 15
+EDGE Xavi | Thiago Motta | 9 | 45 | 19
+EDGE Xavi | Ronaldinho | 38 | 45 | 49
+EDGE Xavi | Sylvinho | 15 | 45 | 19
+EDGE Xavi | Edmílson | 23 | 45 | 26
+EDGE Xavi | Ludovic Giuly | 15 | 45 | 27
+EDGE Xavi | Albert Jorquera | 8 | 45 | 9
+EDGE Xavi | Rafa Márquez | 26 | 45 | 36
+EDGE Xavi | Santiago Ezquerro | 5 | 45 | 6
+EDGE Xavi | Javier Saviola | 9 | 45 | 12
+EDGE Andrés Iniesta | Deco | 31 | 41 | 47
+EDGE Andrés Iniesta | Eidur Gudjohnsen | 16 | 41 | 22
+EDGE Andrés Iniesta | Lionel Messi | 20 | 41 | 31
+EDGE Andrés Iniesta | Samuel Eto'o | 17 | 41 | 25
+EDGE Andrés Iniesta | Oleguer | 15 | 41 | 20
+EDGE Andrés Iniesta | Juliano Belletti | 9 | 41 | 15
+EDGE Andrés Iniesta | Thiago Motta | 12 | 41 | 19
+EDGE Andrés Iniesta | Ronaldinho | 33 | 41 | 49
+EDGE Andrés Iniesta | Rafa Márquez | 23 | 41 | 36
+EDGE Andrés Iniesta | Ludovic Giuly | 21 | 41 | 27
+EDGE Andrés Iniesta | Albert Jorquera | 6 | 41 | 9
+EDGE Andrés Iniesta | Sylvinho | 12 | 41 | 19
+EDGE Andrés Iniesta | Edmílson | 15 | 41 | 26
+EDGE Andrés Iniesta | Santiago Ezquerro | 3 | 41 | 6
+EDGE Andrés Iniesta | Javier Saviola | 7 | 41 | 12
+EDGE Deco | Eidur Gudjohnsen | 18 | 47 | 22
+EDGE Deco | Lionel Messi | 27 | 47 | 31
+EDGE Deco | Samuel Eto'o | 21 | 47 | 25
+EDGE Deco | Oleguer | 14 | 47 | 20
+EDGE Deco | Juliano Belletti | 10 | 47 | 15
+EDGE Deco | Thiago Motta | 15 | 47 | 19
+EDGE Deco | Ronaldinho | 41 | 47 | 49
+EDGE Deco | Sylvinho | 13 | 47 | 19
+EDGE Deco | Edmílson | 19 | 47 | 26
+EDGE Deco | Ludovic Giuly | 19 | 47 | 27
+EDGE Deco | Rafa Márquez | 30 | 47 | 36
+EDGE Deco | Javier Saviola | 8 | 47 | 12
+EDGE Deco | Albert Jorquera | 4 | 47 | 9
+EDGE Deco | Santiago Ezquerro | 1 | 47 | 6
+EDGE Eidur Gudjohnsen | Lionel Messi | 8 | 22 | 31
+EDGE Eidur Gudjohnsen | Samuel Eto'o | 2 | 22 | 25
+EDGE Eidur Gudjohnsen | Oleguer | 4 | 22 | 20
+EDGE Eidur Gudjohnsen | Juliano Belletti | 7 | 22 | 15
+EDGE Eidur Gudjohnsen | Thiago Motta | 9 | 22 | 19
+EDGE Eidur Gudjohnsen | Ronaldinho | 17 | 22 | 49
+EDGE Eidur Gudjohnsen | Sylvinho | 8 | 22 | 19
+EDGE Eidur Gudjohnsen | Edmílson | 10 | 22 | 26
+EDGE Eidur Gudjohnsen | Ludovic Giuly | 12 | 22 | 27
+EDGE Eidur Gudjohnsen | Rafa Márquez | 15 | 22 | 36
+EDGE Eidur Gudjohnsen | Albert Jorquera | 2 | 22 | 9
+EDGE Eidur Gudjohnsen | Santiago Ezquerro | 2 | 22 | 6
+EDGE Eidur Gudjohnsen | Javier Saviola | 1 | 22 | 12
+EDGE Lionel Messi | Samuel Eto'o | 20 | 31 | 25
+EDGE Lionel Messi | Edmílson | 11 | 31 | 26
+EDGE Lionel Messi | Sylvinho | 8 | 31 | 19
+EDGE Lionel Messi | Rafa Márquez | 20 | 31 | 36
+EDGE Lionel Messi | Ronaldinho | 27 | 31 | 49
+EDGE Lionel Messi | Thiago Motta | 6 | 31 | 19
+EDGE Lionel Messi | Ludovic Giuly | 5 | 31 | 27
+EDGE Lionel Messi | Oleguer | 5 | 31 | 20
+EDGE Lionel Messi | Albert Jorquera | 3 | 31 | 9
+EDGE Lionel Messi | Juliano Belletti | 5 | 31 | 15
+EDGE Lionel Messi | Javier Saviola | 2 | 31 | 12
+EDGE Samuel Eto'o | Juliano Belletti | 4 | 25 | 15
+EDGE Samuel Eto'o | Thiago Motta | 6 | 25 | 19
+EDGE Samuel Eto'o | Ludovic Giuly | 7 | 25 | 27
+EDGE Samuel Eto'o | Ronaldinho | 21 | 25 | 49
+EDGE Samuel Eto'o | Rafa Márquez | 11 | 25 | 36
+EDGE Samuel Eto'o | Sylvinho | 8 | 25 | 19
+EDGE Samuel Eto'o | Oleguer | 6 | 25 | 20
+EDGE Samuel Eto'o | Edmílson | 9 | 25 | 26
+EDGE Samuel Eto'o | Albert Jorquera | 3 | 25 | 9
+EDGE Oleguer | Juliano Belletti | 2 | 20 | 15
+EDGE Oleguer | Thiago Motta | 8 | 20 | 19
+EDGE Oleguer | Ronaldinho | 17 | 20 | 49
+EDGE Oleguer | Rafa Márquez | 12 | 20 | 36
+EDGE Oleguer | Sylvinho | 5 | 20 | 19
+EDGE Oleguer | Ludovic Giuly | 13 | 20 | 27
+EDGE Oleguer | Edmílson | 7 | 20 | 26
+EDGE Oleguer | Javier Saviola | 8 | 20 | 12
+EDGE Oleguer | Albert Jorquera | 6 | 20 | 9
+EDGE Oleguer | Santiago Ezquerro | 4 | 20 | 6
+EDGE Juliano Belletti | Thiago Motta | 7 | 15 | 19
+EDGE Juliano Belletti | Ronaldinho | 11 | 15 | 49
+EDGE Juliano Belletti | Sylvinho | 8 | 15 | 19
+EDGE Juliano Belletti | Edmílson | 8 | 15 | 26
+EDGE Juliano Belletti | Ludovic Giuly | 8 | 15 | 27
+EDGE Juliano Belletti | Albert Jorquera | 3 | 15 | 9
+EDGE Juliano Belletti | Rafa Márquez | 9 | 15 | 36
+EDGE Juliano Belletti | Santiago Ezquerro | 3 | 15 | 6
+EDGE Juliano Belletti | Javier Saviola | 4 | 15 | 12
+EDGE Thiago Motta | Ronaldinho | 16 | 19 | 49
+EDGE Thiago Motta | Rafa Márquez | 14 | 19 | 36
+EDGE Thiago Motta | Ludovic Giuly | 12 | 19 | 27
+EDGE Thiago Motta | Sylvinho | 7 | 19 | 19
+EDGE Thiago Motta | Albert Jorquera | 4 | 19 | 9
+EDGE Thiago Motta | Santiago Ezquerro | 3 | 19 | 6
+EDGE Thiago Motta | Javier Saviola | 5 | 19 | 12
+EDGE Ronaldinho | Sylvinho | 15 | 49 | 19
+EDGE Ronaldinho | Edmílson | 22 | 49 | 26
+EDGE Ronaldinho | Ludovic Giuly | 19 | 49 | 27
+EDGE Ronaldinho | Rafa Márquez | 30 | 49 | 36
+EDGE Ronaldinho | Javier Saviola | 8 | 49 | 12
+EDGE Ronaldinho | Albert Jorquera | 5 | 49 | 9
+EDGE Ronaldinho | Santiago Ezquerro | 1 | 49 | 6
+EDGE Sylvinho | Edmílson | 9 | 19 | 26
+EDGE Sylvinho | Ludovic Giuly | 10 | 19 | 27
+EDGE Sylvinho | Albert Jorquera | 4 | 19 | 9
+EDGE Sylvinho | Rafa Márquez | 11 | 19 | 36
+EDGE Sylvinho | Santiago Ezquerro | 4 | 19 | 6
+EDGE Sylvinho | Javier Saviola | 3 | 19 | 12
+EDGE Edmílson | Ludovic Giuly | 11 | 26 | 27
+EDGE Edmílson | Albert Jorquera | 3 | 26 | 9
+EDGE Edmílson | Rafa Márquez | 15 | 26 | 36
+EDGE Edmílson | Santiago Ezquerro | 3 | 26 | 6
+EDGE Edmílson | Javier Saviola | 7 | 26 | 12
+EDGE Ludovic Giuly | Rafa Márquez | 17 | 27 | 36
+EDGE Ludovic Giuly | Albert Jorquera | 5 | 27 | 9
+EDGE Ludovic Giuly | Santiago Ezquerro | 5 | 27 | 6
+EDGE Ludovic Giuly | Javier Saviola | 6 | 27 | 12
+EDGE Rafa Márquez | Albert Jorquera | 6 | 36 | 9
+EDGE Rafa Márquez | Santiago Ezquerro | 4 | 36 | 6
+EDGE Rafa Márquez | Javier Saviola | 8 | 36 | 12
+EDGE Albert Jorquera | Santiago Ezquerro | 4 | 9 | 6
+EDGE Albert Jorquera | Javier Saviola | 5 | 9 | 12
+EDGE Santiago Ezquerro | Javier Saviola | 5 | 6 | 12

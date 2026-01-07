@@ -1,0 +1,133 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2243354 | niedz., 17.02.2013 | Hércules CF
+PLAYERS: Juan Carlos, Chechu Dorado, Mateo Musacchio, Joan Oriol, Mario Gaspar, Bruno Soriano, Javier Farinós, Cani, Moi Gómez, Jérémy Perbet, Jonathan Pereira
+
+MATCH: 2243298 | sob., 17.11.2012 | Racing Santander
+PLAYERS: Diego Mariño, Mateo Musacchio, Bruno Soriano, Joan Oriol, Javi Venta, Marcos Senna, Manu Trigueros, Jaume Costa, Cani, Moi Gómez, Ikechukwu Uche
+
+MATCH: 2243438 | niedz., 10.03.2013 | Sporting Gijón
+PLAYERS: Juan Carlos, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Javier Farinós, Moi Gómez, Javier Aquino, Ikechukwu Uche, Jonathan Pereira
+
+MATCH: 2243347 | niedz., 11.11.2012 | Real Murcia CF
+PLAYERS: Diego Mariño, Mateo Musacchio, Bruno Soriano, Joan Oriol, Javi Venta, Marcos Senna, Manu Trigueros, Moi Gómez, Cani, Hernán Pérez, Ikechukwu Uche
+
+MATCH: 2243203 | niedz., 16.09.2012 | Hércules CF
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Joan Oriol, Mario Gaspar, Bruno Soriano, Marcos Senna, Manu Trigueros, Cani, Hernán Pérez, Fernando Cavenaghi
+
+MATCH: 2243216 | sob., 29.09.2012 | Córdoba CF
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Joan Oriol, Mario Gaspar, Bruno Soriano, Jaume Costa, Cani, Gerard Bordas, Hernán Pérez, Fernando Cavenaghi
+
+MATCH: 2243250 | sob., 27.10.2012 | CD Mirandés
+PLAYERS: Diego Mariño, Mateo Musacchio, Olof Mellberg, Jaume Costa, Javi Venta, Bruno Soriano, Marcos Senna, Moi Gómez, Cani, Ikechukwu Uche, Walter Pandiani
+
+MATCH: 2243418 | niedz., 03.03.2013 | Córdoba CF
+PLAYERS: Juan Carlos, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Javier Farinós, Javier Aquino, Moi Gómez, Ikechukwu Uche, Jonathan Pereira
+
+MATCH: 2254440 | śr., 12.09.2012 | SD Ponferradina
+PLAYERS: Diego Mariño, Mateo Musacchio, Guillem Truyols, Joan Oriol, Javi Venta, Bruno Soriano, Dani Toribio, Jaume Costa, Moi Gómez, Fernando Cavenaghi, Walter Pandiani
+
+MATCH: 2243536 | sob., 18.05.2013 | Girona FC
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Jaume Costa, Mario Gaspar, Bruno Soriano, Héctor Canteros, Cani, Javier Aquino, Jérémy Perbet, Ikechukwu Uche
+
+MATCH: 2243555 | niedz., 14.04.2013 | Real Murcia CF
+PLAYERS: Juan Carlos, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Héctor Canteros, Cani, Javier Aquino, Gerard Moreno, Jérémy Perbet
+
+MATCH: 2243271 | niedz., 21.10.2012 | Recreativo Huelva
+PLAYERS: Diego Mariño, Mateo Musacchio, Florian Lejeune, Jaume Costa, Mario Gaspar, Marcos Senna, Dani Toribio, Manu Trigueros, Cani, Hernán Pérez, Fernando Cavenaghi
+
+MATCH: 2243468 | niedz., 31.03.2013 | CD Mirandés
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Chechu Dorado, Mario Gaspar, Bruno Soriano, Héctor Canteros, Cani, Javier Aquino, Gerard Moreno, Jérémy Perbet
+
+MATCH: 2250699 | sob., 25.08.2012 | CE Sabadell FC
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Joan Oriol, Javi Venta, Bruno Soriano, Marcos Senna, Jaume Costa, Cani, Hernán Pérez, Fernando Cavenaghi
+
+MATCH: 2243401 | pt., 25.01.2013 | CE Sabadell FC
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Joan Oriol, Mario Gaspar, Javier Farinós, Marcos Senna, Manu Trigueros, Cani, Gerard Moreno, Jonathan Pereira
+
+MATCH: 2243508 | sob., 08.06.2013 | UD Almería
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Jaume Costa, Mario Gaspar, Bruno Soriano, Héctor Canteros, Cani, Juanma, Jérémy Perbet, Jonathan Pereira
+
+MATCH: 2243333 | niedz., 07.10.2012 | Sporting Gijón
+PLAYERS: Juan Carlos, Olof Mellberg, Florian Lejeune, Jaume Costa, Mario Gaspar, Bruno Soriano, Marcos Senna, Manu Trigueros, Hernán Pérez, Cani, Fernando Cavenaghi
+
+MATCH: 2243357 | sob., 09.02.2013 | SD Ponferradina
+PLAYERS: Juan Carlos, Chechu Dorado, Mateo Musacchio, Joan Oriol, Mario Gaspar, Bruno Soriano, Marcos Senna, Moi Gómez, Cani, Jérémy Perbet, Jonathan Pereira
+
+MATCH: 2243510 | niedz., 21.04.2013 | Racing Santander
+PLAYERS: Juan Carlos, Mateo Musacchio, Pablo Iñiguez, Joan Oriol, Mario Gaspar, Bruno Soriano, Héctor Canteros, Cani, Moi Gómez, Gerard Moreno, Ikechukwu Uche
+
+MATCH: 2250733 | sob., 24.11.2012 | CD Lugo
+PLAYERS: Diego Mariño, Mateo Musacchio, Olof Mellberg, Joan Oriol, Javi Venta, Bruno Soriano, Marcos Senna, Manu Trigueros, Moi Gómez, Cani, Ikechukwu Uche
+
+MATCH: 2243227 | sob., 22.09.2012 | UD Las Palmas
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Joan Oriol, Mario Gaspar, Bruno Soriano, Marcos Senna, Manu Trigueros, Cani, Ikechukwu Uche, Fernando Cavenaghi
+
+MATCH: 2243433 | sob., 16.03.2013 | SD Huesca
+PLAYERS: Juan Carlos, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Javier Farinós, Moi Gómez, Javier Aquino, Jérémy Perbet, Ikechukwu Uche
+
+MATCH: 2250774 | sob., 27.04.2013 | CD Lugo
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Joan Oriol, Mario Gaspar, Bruno Soriano, Marcos Senna, Cani, Moi Gómez, Jérémy Perbet, Ikechukwu Uche
+
+MATCH: 2243253 | sob., 03.11.2012 | CD Numancia
+PLAYERS: Diego Mariño, Mateo Musacchio, Guillem Truyols, Jaume Costa, Javi Venta, Bruno Soriano, Marcos Senna, Moi Gómez, Cani, Ikechukwu Uche, Walter Pandiani
+
+MATCH: 2243445 | sob., 02.02.2013 | CD Guadalajara
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Chechu Dorado, Mario Gaspar, Javier Farinós, Marcos Senna, Manu Trigueros, Cani, Gerard Moreno, Jonathan Pereira
+
+MATCH: 2243291 | niedz., 02.12.2012 | Elche CF
+PLAYERS: Diego Mariño, Mateo Musacchio, Olof Mellberg, Joan Oriol, Javi Venta, Pablo Iñiguez, Marcos Senna, Jaume Costa, Manu Trigueros, Moi Gómez, Walter Pandiani
+
+MATCH: 2243472 | niedz., 12.05.2013 | AD Alcorcón
+PLAYERS: Juan Carlos, Olof Mellberg, Pablo Iñiguez, Jaume Costa, Mario Gaspar, Bruno Soriano, Héctor Canteros, Cani, Javier Aquino, Jérémy Perbet, Ikechukwu Uche
+
+MATCH: 2250687 | pt., 17.08.2012 | Real Madryt Kastylia
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Joan Oriol, Javi Venta, Marcos Senna, Dani Toribio, Manu Trigueros, Cani, Ikechukwu Uche, Fernando Cavenaghi
+
+MATCH: 2243476 | niedz., 07.04.2013 | CD Numancia
+PLAYERS: Juan Carlos, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Héctor Canteros, Cani, Javier Aquino, Gerard Moreno, Jérémy Perbet
+
+MATCH: 2243419 | sob., 05.01.2013 | FC Barcelona B
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Jaume Costa, Javi Venta, Bruno Soriano, Marcos Senna, Manu Trigueros, Cani, Ikechukwu Uche, Fernando Cavenaghi
+
+MATCH: 2243234 | sob., 01.09.2012 | CD Guadalajara
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Joan Oriol, Javi Venta, Bruno Soriano, Marcos Senna, Manu Trigueros, Cani, Ikechukwu Uche, Fernando Cavenaghi
+
+MATCH: 2243501 | niedz., 05.05.2013 | Elche CF
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Joan Oriol, Mario Gaspar, Bruno Soriano, Héctor Canteros, Cani, Javier Aquino, Gerard Moreno, Jérémy Perbet
+
+MATCH: 2243319 | sob., 13.10.2012 | SD Huesca
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Jaume Costa, Mario Gaspar, Marcos Senna, Héctor Canteros, Manu Trigueros, Cani, Gerard Bordas, Fernando Cavenaghi
+
+MATCH: 2243376 | niedz., 24.03.2013 | Recreativo Huelva
+PLAYERS: Juan Carlos, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Javier Farinós, Marcos Senna, Moi Gómez, Jonathan Pereira, Jérémy Perbet, Ikechukwu Uche
+
+MATCH: 2243314 | sob., 15.12.2012 | Girona FC
+PLAYERS: Diego Mariño, Mateo Musacchio, Olof Mellberg, Joan Oriol, Javi Venta, Bruno Soriano, Manu Trigueros, Hernán Pérez, Cani, Ikechukwu Uche, Fernando Cavenaghi
+
+MATCH: 2243350 | czw., 20.12.2012 | Xerez CD
+PLAYERS: Jorge Palatsí, Mateo Musacchio, Pablo Iñiguez, Joan Oriol, Javi Venta, Bruno Soriano, Marcos Senna, Manu Trigueros, Hernán Pérez, Ikechukwu Uche, Fernando Cavenaghi
+
+MATCH: 2243364 | niedz., 24.02.2013 | UD Las Palmas
+PLAYERS: Juan Carlos, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Javier Farinós, Moi Gómez, Cani, Jérémy Perbet, Ikechukwu Uche
+
+MATCH: 2243552 | pon., 27.05.2013 | Xerez CD
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Jaume Costa, Mario Gaspar, Bruno Soriano, Héctor Canteros, Javier Aquino, Cani, Jérémy Perbet, Ikechukwu Uche
+
+MATCH: 2250745 | sob., 19.01.2013 | Real Madryt Kastylia
+PLAYERS: Juan Carlos, Olof Mellberg, Pablo Iñiguez, Joan Oriol, Javi Venta, Bruno Soriano, Marcos Senna, Manu Trigueros, Jonathan Pereira, Cani, Gerard Moreno
+
+MATCH: 2243395 | sob., 12.01.2013 | UD Almería
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Jaume Costa, Javi Venta, Bruno Soriano, Marcos Senna, Manu Trigueros, Moi Gómez, Jonathan Pereira, Fernando Cavenaghi
+
+MATCH: 2243525 | niedz., 02.06.2013 | FC Barcelona B
+PLAYERS: Juan Carlos, Mateo Musacchio, Pablo Iñiguez, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Cani, Jonathan Pereira, Jérémy Perbet, Ikechukwu Uche
+
+MATCH: 2243254 | niedz., 09.12.2012 | AD Alcorcón
+PLAYERS: Diego Mariño, Mateo Musacchio, Olof Mellberg, Joan Oriol, Javi Venta, Bruno Soriano, Marcos Senna, Manu Trigueros, Cani, Ikechukwu Uche, Fernando Cavenaghi
+
+MATCH: 2243209 | sob., 08.09.2012 | SD Ponferradina
+PLAYERS: Juan Carlos, Mateo Musacchio, Olof Mellberg, Joan Oriol, Mario Gaspar, Bruno Soriano, Marcos Senna, Manu Trigueros, Jaume Costa, Cani, Fernando Cavenaghi
+

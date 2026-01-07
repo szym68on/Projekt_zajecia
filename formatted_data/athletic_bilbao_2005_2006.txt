@@ -1,0 +1,136 @@
+# Team: Athletic Bilbao
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 35847 | niedz., 18.09.2005 | Málaga CF
+PLAYERS: Daniel Aranzubia, Luis Prieto, Carlos Gurpegui, Unai Expósito, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Ibon Gutiérrez, Fran Yeste, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 35854 | niedz., 25.09.2005 | Racing Santander
+PLAYERS: Daniel Aranzubia, Luis Prieto, Carlos Gurpegui, Javi Casas, Unai Expósito, Mari Lacruz, Pablo Orbaiz, Tiko, Fran Yeste, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 2423085 | wt., 03.01.2006 | Real Madryt
+PLAYERS: Daniel Aranzubia, Carlos Gurpegui, Unai Expósito, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Tiko, Julen Guerrero, Mikel Dañobeitia, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 35901 | sob., 07.01.2006 | Deportivo de La Coruña
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Unai Expósito, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Tiko, Julen Guerrero, Mikel Dañobeitia, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 1069815 | sob., 09.07.2005 | CFR Ecomax Cluj
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Ustaritz, Javi Casas, Gontzal Rodríguez, David de Paula, Ibon Gutiérrez, Javi González, Julen Guerrero, Jonan García, Mikel Dañobeitia
+
+MATCH: 35880 | niedz., 20.11.2005 | Deportivo Alavés
+PLAYERS: Daniel Aranzubia, Ander Murillo, Luis Prieto, Carlos Gurpegui, Javi Casas, Mari Lacruz, Andoni Iraola, Javi González, Fran Yeste, Joseba Etxeberria, Ismael Urzaiz
+
+MATCH: 2666550 | śr., 19.10.2005 | Real Unión Club
+PLAYERS: Iñaki Lafuente, Carlos Gurpegui, Ander Murillo, Javi Casas, Unai Expósito, Mari Lacruz, Pablo Orbaiz, Tiko, Javi González, Fran Yeste, Joseba Etxeberria
+
+MATCH: 35906 | sob., 28.01.2006 | Getafe CF
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Ustaritz, Luis Prieto, Carlos Gurpegui, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Ismael Urzaiz, Aritz Aduriz
+
+MATCH: 37320 | niedz., 12.03.2006 | Cádiz CF
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Luis Prieto, Carlos Gurpegui, Ustaritz, Unai Expósito, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Ismael Urzaiz, Aritz Aduriz
+
+MATCH: 35937 | niedz., 09.04.2006 | RCD Mallorca
+PLAYERS: Iñaki Lafuente, Ustaritz, Luis Prieto, Carlos Gurpegui, Javi Casas, Unai Expósito, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 1069799 | sob., 02.07.2005 | CFR Ecomax Cluj
+PLAYERS: Iñaki Lafuente, Eder Martínez, Fernando Amorebieta, Javi Casas, Asier Ormazábal, Pablo Paredes, David de Paula, Ibon Gutiérrez, Aritz Solabarrieta, Julen Guerrero, Joseba Arriaga
+
+MATCH: 37236 | niedz., 02.10.2005 | Villarreal CF
+PLAYERS: Daniel Aranzubia, Luis Prieto, Carlos Gurpegui, Javi Casas, Mari Lacruz, Pablo Orbaiz, Ibon Gutiérrez, Andoni Iraola, Fran Yeste, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 35921 | niedz., 19.03.2006 | Celta de Vigo
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Ustaritz, Ander Murillo, Luis Prieto, Carlos Gurpegui, Unai Expósito, Andoni Iraola, Fran Yeste, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 35963 | niedz., 11.09.2005 | Getafe CF
+PLAYERS: Daniel Aranzubia, Luis Prieto, Carlos Gurpegui, Javi Casas, Unai Expósito, Andoni Iraola, Pablo Orbaiz, Ibon Gutiérrez, Fran Yeste, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 35934 | niedz., 02.04.2006 | Deportivo Alavés
+PLAYERS: Iñaki Lafuente, Ustaritz, Ander Murillo, Luis Prieto, Carlos Gurpegui, Javi Casas, Unai Expósito, Andoni Iraola, Pablo Orbaiz, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 35899 | sob., 17.12.2005 | Real Betis Balompié
+PLAYERS: Daniel Aranzubia, Luis Prieto, Carlos Gurpegui, Javi Casas, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Mikel Dañobeitia, Joseba Etxeberria, Ismael Urzaiz
+
+MATCH: 35916 | niedz., 26.02.2006 | Villarreal CF
+PLAYERS: Iñaki Lafuente, Ander Murillo, Ustaritz, Unai Expósito, Andoni Iraola, Carlos Gurpegui, Pablo Orbaiz, Fran Yeste, Joseba Etxeberria, Ismael Urzaiz, Aritz Aduriz
+
+MATCH: 2666563 | śr., 09.11.2005 | CE L'Hospitalet
+PLAYERS: Daniel Aranzubia, Luis Prieto, Ander Murillo, Javi Casas, Unai Expósito, Pablo Orbaiz, Tiko, Julen Guerrero, Andoni Iraola, Javi González, Fernando Llorente
+
+MATCH: 35979 | czw., 22.09.2005 | Real Madryt
+PLAYERS: Daniel Aranzubia, Luis Prieto, Mari Lacruz, Javi Casas, Unai Expósito, Pablo Orbaiz, Ibon Gutiérrez, Tiko, Carlos Gurpegui, Fran Yeste, Joseba Etxeberria
+
+MATCH: 36036 | sob., 04.02.2006 | Málaga CF
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Ustaritz, Luis Prieto, Carlos Gurpegui, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Fernando Llorente, Aritz Aduriz
+
+MATCH: 49099 | sob., 29.10.2005 | Celta de Vigo
+PLAYERS: Daniel Aranzubia, Luis Prieto, Carlos Gurpegui, Ander Murillo, Mari Lacruz, Unai Expósito, Pablo Orbaiz, Andoni Iraola, Fran Yeste, Mikel Dañobeitia, Ismael Urzaiz
+
+MATCH: 36074 | niedz., 07.05.2006 | Deportivo de La Coruña
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Ustaritz, Ander Murillo, Luis Prieto, Javi Casas, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Ismael Urzaiz
+
+MATCH: 35943 | niedz., 16.04.2006 | Atlético Madryt
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Ustaritz, Ander Murillo, Luis Prieto, Javi Casas, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Ismael Urzaiz
+
+MATCH: 37273 | sob., 10.12.2005 | Valencia CF
+PLAYERS: Daniel Aranzubia, Francisco Tarantino, Luis Prieto, Carlos Gurpegui, Unai Expósito, Mari Lacruz, Pablo Orbaiz, Endika Bordas, Fran Yeste, Mikel Dañobeitia, Joseba Etxeberria
+
+MATCH: 36045 | niedz., 19.02.2006 | Racing Santander
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Luis Prieto, Carlos Gurpegui, Ander Murillo, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Mikel Dañobeitia, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 36062 | niedz., 30.04.2006 | Real Betis Balompié
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Ustaritz, Ander Murillo, Luis Prieto, Javi Casas, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Ismael Urzaiz
+
+MATCH: 49117 | sob., 05.11.2005 | RCD Espanyol
+PLAYERS: Daniel Aranzubia, Ander Murillo, Luis Prieto, Carlos Gurpegui, Javi Casas, Unai Expósito, Andoni Iraola, Pablo Orbaiz, Javi González, Fran Yeste, Ismael Urzaiz
+
+MATCH: 35945 | niedz., 23.04.2006 | Valencia CF
+PLAYERS: Iñaki Lafuente, Ustaritz, Ander Murillo, Luis Prieto, Javi Casas, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Fernando Llorente, Ismael Urzaiz
+
+MATCH: 37316 | niedz., 05.03.2006 | Sevilla FC
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Ustaritz, Luis Prieto, Carlos Gurpegui, Javi Casas, Unai Expósito, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Aritz Aduriz
+
+MATCH: 35928 | śr., 22.03.2006 | RCD Espanyol
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Luis Prieto, Carlos Gurpegui, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Julen Guerrero, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 49088 | śr., 26.10.2005 | CA Osasuna
+PLAYERS: Daniel Aranzubia, Ander Murillo, Luis Prieto, Carlos Gurpegui, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Tiko, Fran Yeste, Mikel Dañobeitia, Ismael Urzaiz
+
+MATCH: 36005 | sob., 26.11.2005 | RCD Mallorca
+PLAYERS: Daniel Aranzubia, Ander Murillo, Luis Prieto, Carlos Gurpegui, Javi Casas, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 37250 | niedz., 23.10.2005 | Cádiz CF
+PLAYERS: Daniel Aranzubia, Luis Prieto, Carlos Gurpegui, Ander Murillo, Javi Casas, Unai Expósito, Andoni Iraola, Pablo Orbaiz, Javi González, Fran Yeste, Joseba Etxeberria
+
+MATCH: 35929 | niedz., 26.03.2006 | CA Osasuna
+PLAYERS: Iñaki Lafuente, Ustaritz, Ander Murillo, Luis Prieto, Javi Casas, Unai Expósito, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 35954 | śr., 03.05.2006 | Real Zaragoza
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Ustaritz, Ander Murillo, Luis Prieto, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Julen Guerrero, Ismael Urzaiz
+
+MATCH: 35960 | sob., 27.08.2005 | Real Sociedad
+PLAYERS: Daniel Aranzubia, Luis Prieto, Carlos Gurpegui, Javi Casas, Unai Expósito, Andoni Iraola, Pablo Orbaiz, Ibon Gutiérrez, Fran Yeste, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 37237 | niedz., 16.10.2005 | Sevilla FC
+PLAYERS: Daniel Aranzubia, Francisco Tarantino, Luis Prieto, Carlos Gurpegui, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Tiko, Fran Yeste, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 35890 | sob., 03.12.2005 | Atlético Madryt
+PLAYERS: Daniel Aranzubia, Ander Murillo, Luis Prieto, Carlos Gurpegui, Javi Casas, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Joseba Etxeberria, Ismael Urzaiz
+
+MATCH: 2423093 | śr., 11.01.2006 | Real Madryt
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Carlos Gurpegui, Unai Expósito, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Tiko, Endika Bordas, Mikel Dañobeitia, Aritz Aduriz
+
+MATCH: 36075 | sob., 20.05.2006 | FC Barcelona
+PLAYERS: Iñaki Lafuente, Luis Prieto, Ustaritz, Javi Casas, Mari Lacruz, Ander Murillo, Pablo Orbaiz, Andoni Iraola, Tiko, Fernando Llorente, Ismael Urzaiz
+
+MATCH: 37293 | niedz., 22.01.2006 | Real Sociedad
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Ustaritz, Luis Prieto, Carlos Gurpegui, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Julen Guerrero, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 36020 | niedz., 15.01.2006 | FC Barcelona
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Luis Prieto, Mari Lacruz, Unai Expósito, Ander Murillo, Carlos Gurpegui, Pablo Orbaiz, Fran Yeste, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 35912 | sob., 11.02.2006 | Real Madryt
+PLAYERS: Iñaki Lafuente, Luis Prieto, Ustaritz, Fernando Amorebieta, Mari Lacruz, Carlos Gurpegui, Pablo Orbaiz, Andoni Iraola, Mikel Dañobeitia, Ismael Urzaiz, Aritz Aduriz
+
+MATCH: 37284 | śr., 21.12.2005 | Real Zaragoza
+PLAYERS: Daniel Aranzubia, Luis Prieto, Carlos Gurpegui, Javi Casas, Unai Expósito, Mari Lacruz, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Mikel Dañobeitia, Joseba Etxeberria
+

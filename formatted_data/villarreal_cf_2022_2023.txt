@@ -1,0 +1,160 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3886594 | niedz., 19.03.2023 | CA Osasuna
+PLAYERS: Pepe Reina, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Dani Parejo, Ramón Terrats, Manu Trigueros, Yéremy Pino, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3949568 | sob., 12.11.2022 | CD Santa Amalia
+PLAYERS: Pepe Reina, Jorge Cuenca, Aïssa Mandi, Johan Mojica, Juan Foyth, Manu Morlanes, Francis Coquelin, Álex Baena, José Luis Morales, Samuel Chukwueze, Diego Collado
+
+MATCH: 3886330 | czw., 20.10.2022 | FC Barcelona
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Kiko Femenía, Manu Morlanes, Dani Parejo, Álex Baena, Yéremy Pino, Arnaut Danjuma, Nicolas Jackson
+
+MATCH: 3886509 | niedz., 22.01.2023 | Girona FC
+PLAYERS: Pepe Reina, Pau Torres, Jorge Cuenca, Johan Mojica, Aïssa Mandi, Dani Parejo, Étienne Capoue, Álex Baena, Yéremy Pino, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3886607 | niedz., 02.04.2023 | Real Sociedad
+PLAYERS: Pepe Reina, Pau Torres, Aïssa Mandi, Alfonso Pedraza, Juan Foyth, Dani Parejo, Ramón Terrats, Álex Baena, Yéremy Pino, Samuel Chukwueze, José Luis Morales
+
+MATCH: 3886672 | sob., 13.05.2023 | Athletic Bilbao
+PLAYERS: Pepe Reina, Pau Torres, Aïssa Mandi, Alfonso Pedraza, Juan Foyth, Dani Parejo, Étienne Capoue, Álex Baena, Yéremy Pino, Samuel Chukwueze, Nicolas Jackson
+
+MATCH: 3886285 | sob., 01.10.2022 | Cádiz CF
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Kiko Femenía, Étienne Capoue, Dani Parejo, Francis Coquelin, Giovani Lo Celso, Álex Baena, Nicolas Jackson
+
+MATCH: 3989545 | wt., 03.01.2023 | FC Cartagena
+PLAYERS: Pepe Reina, Jorge Cuenca, Aïssa Mandi, Johan Mojica, Kiko Femenía, Manu Morlanes, Manu Trigueros, Álex Baena, Arnaut Danjuma, José Luis Morales, Nicolas Jackson
+
+MATCH: 3844594 | niedz., 21.08.2022 | Atlético Madryt
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Giovani Lo Celso, Yéremy Pino, Gerard Moreno, Nicolas Jackson
+
+MATCH: 3886310 | niedz., 09.10.2022 | Real Sociedad
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Kiko Femenía, Étienne Capoue, Dani Parejo, Francis Coquelin, Giovani Lo Celso, Yéremy Pino, Arnaut Danjuma
+
+MATCH: 3844558 | niedz., 04.06.2023 | Atlético Madryt
+PLAYERS: Filip Jørgensen, Pau Torres, Aïssa Mandi, Alberto Moreno, Kiko Femenía, Étienne Capoue, Dani Parejo, Manu Trigueros, Yéremy Pino, Samuel Chukwueze, Nicolas Jackson
+
+MATCH: 3912667 | czw., 06.10.2022 | FK Austria Wiedeń
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Aïssa Mandi, Johan Mojica, Adrián Dela, Francis Coquelin, Manu Morlanes, Álex Baena, Samuel Chukwueze, Arnaut Danjuma, Nicolas Jackson
+
+MATCH: 3901610 | czw., 18.08.2022 | HNK Hajduk Split
+PLAYERS: Pepe Reina, Jorge Cuenca, Aïssa Mandi, Alfonso Pedraza, Adrián Dela, Francis Coquelin, Manu Morlanes, Álex Baena, Samuel Chukwueze, Gerard Moreno, José Luis Morales
+
+MATCH: 3886489 | sob., 07.01.2023 | Real Madryt
+PLAYERS: Pepe Reina, Pau Torres, Raúl Albiol, Alberto Moreno, Juan Foyth, Dani Parejo, Francis Coquelin, Álex Baena, Yéremy Pino, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3886302 | niedz., 11.09.2022 | Real Betis Balompié
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Kiko Femenía, Étienne Capoue, Dani Parejo, Giovani Lo Celso, Yéremy Pino, Gerard Moreno, Nicolas Jackson
+
+MATCH: 3886519 | pon., 30.01.2023 | Rayo Vallecano
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Raúl Albiol, Alberto Moreno, Juan Foyth, Dani Parejo, Étienne Capoue, Álex Baena, Yéremy Pino, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3886631 | niedz., 23.04.2023 | Sevilla FC
+PLAYERS: Pepe Reina, Pau Torres, Aïssa Mandi, Alfonso Pedraza, Juan Foyth, Ramón Terrats, Dani Parejo, Yéremy Pino, Samuel Chukwueze, Giovani Lo Celso, José Luis Morales
+
+MATCH: 3886657 | niedz., 30.04.2023 | Celta de Vigo
+PLAYERS: Pepe Reina, Pau Torres, Aïssa Mandi, Alberto Moreno, Juan Foyth, Étienne Capoue, Dani Parejo, Giovani Lo Celso, Yéremy Pino, Samuel Chukwueze, Nicolas Jackson
+
+MATCH: 3886663 | śr., 03.05.2023 | Valencia CF
+PLAYERS: Pepe Reina, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Dani Parejo, Ramón Terrats, Álex Baena, Yéremy Pino, Samuel Chukwueze, Nicolas Jackson
+
+MATCH: 3886697 | śr., 24.05.2023 | Cádiz CF
+PLAYERS: Pepe Reina, Pau Torres, Aïssa Mandi, Alberto Moreno, Kiko Femenía, Dani Parejo, Manu Trigueros, Giovani Lo Celso, Yéremy Pino, Gerard Moreno, Nicolas Jackson
+
+MATCH: 3912669 | czw., 15.09.2022 | Hapoel Beer Sheva
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Aïssa Mandi, Johan Mojica, Adrián Dela, Francis Coquelin, Manu Morlanes, Álex Baena, Samuel Chukwueze, Yéremy Pino, José Luis Morales
+
+MATCH: 3912666 | czw., 27.10.2022 | Hapoel Beer Sheva
+PLAYERS: Pepe Reina, Jorge Cuenca, Aïssa Mandi, Alberto Moreno, Kiko Femenía, Manu Trigueros, Manu Morlanes, Álex Baena, Samuel Chukwueze, Arnaut Danjuma, Yéremy Pino
+
+MATCH: 3964632 | wt., 20.12.2022 | CD Guijuelo
+PLAYERS: Pepe Reina, Pau Torres, Aïssa Mandi, Johan Mojica, Kiko Femenía, Manu Morlanes, Manu Trigueros, Álex Baena, Yéremy Pino, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3885860 | niedz., 04.09.2022 | Elche CF
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Kiko Femenía, Étienne Capoue, Dani Parejo, Giovani Lo Celso, Yéremy Pino, Gerard Moreno, Nicolas Jackson
+
+MATCH: 3886327 | pon., 17.10.2022 | CA Osasuna
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Aïssa Mandi, Manu Morlanes, Dani Parejo, Álex Baena, Yéremy Pino, Arnaut Danjuma, Nicolas Jackson
+
+MATCH: 3886612 | sob., 08.04.2023 | Real Madryt
+PLAYERS: Pepe Reina, Pau Torres, Aïssa Mandi, Alfonso Pedraza, Juan Foyth, Dani Parejo, Ramón Terrats, Álex Baena, Yéremy Pino, Samuel Chukwueze, Giovani Lo Celso
+
+MATCH: 3886490 | pt., 13.01.2023 | Celta de Vigo
+PLAYERS: Pepe Reina, Pau Torres, Aïssa Mandi, Johan Mojica, Juan Foyth, Dani Parejo, Francis Coquelin, Manu Trigueros, José Luis Morales, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3886624 | sob., 15.04.2023 | Real Valladolid CF
+PLAYERS: Pepe Reina, Pau Torres, Aïssa Mandi, Alfonso Pedraza, Kiko Femenía, Dani Parejo, Ramón Terrats, Giovani Lo Celso, Álex Baena, Samuel Chukwueze, José Luis Morales
+
+MATCH: 3886384 | niedz., 30.10.2022 | Athletic Bilbao
+PLAYERS: Gerónimo Rulli, Pau Torres, Aïssa Mandi, Alberto Moreno, Kiko Femenía, Dani Parejo, Francis Coquelin, Giovani Lo Celso, José Luis Morales, Samuel Chukwueze, Arnaut Danjuma
+
+MATCH: 3886536 | niedz., 12.02.2023 | FC Barcelona
+PLAYERS: Pepe Reina, Pau Torres, Raúl Albiol, Alberto Moreno, Juan Foyth, Étienne Capoue, Dani Parejo, Francis Coquelin, Álex Baena, Yéremy Pino, José Luis Morales
+
+MATCH: 3886415 | niedz., 06.11.2022 | RCD Mallorca
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alberto Moreno, Kiko Femenía, Étienne Capoue, Dani Parejo, Manu Trigueros, Álex Baena, Samuel Chukwueze, Arnaut Danjuma
+
+MATCH: 3886552 | sob., 18.02.2023 | RCD Mallorca
+PLAYERS: Pepe Reina, Pau Torres, Raúl Albiol, Johan Mojica, Juan Foyth, Dani Parejo, Étienne Capoue, Manu Trigueros, Yéremy Pino, Samuel Chukwueze, José Luis Morales
+
+MATCH: 3858326 | niedz., 18.09.2022 | Sevilla FC
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Kiko Femenía, Étienne Capoue, Dani Parejo, Francis Coquelin, Samuel Chukwueze, Giovani Lo Celso, Nicolas Jackson
+
+MATCH: 3912668 | czw., 08.09.2022 | Lech Poznań
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Aïssa Mandi, Johan Mojica, Adrián Dela, Francis Coquelin, Manu Morlanes, Manu Trigueros, Álex Baena, Samuel Chukwueze, José Luis Morales
+
+MATCH: 3886586 | niedz., 12.03.2023 | Real Betis Balompié
+PLAYERS: Pepe Reina, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Dani Parejo, Ramón Terrats, Manu Trigueros, Yéremy Pino, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 4031420 | czw., 16.03.2023 | RSC Anderlecht
+PLAYERS: Pepe Reina, Jorge Cuenca, Aïssa Mandi, Alberto Moreno, Juan Foyth, Dani Parejo, Ramón Terrats, Álex Baena, José Luis Morales, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3886524 | sob., 04.02.2023 | Elche CF
+PLAYERS: Pepe Reina, Jorge Cuenca, Raúl Albiol, Johan Mojica, Juan Foyth, Dani Parejo, Étienne Capoue, Álex Baena, Yéremy Pino, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3844096 | sob., 13.08.2022 | Real Valladolid CF
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Yéremy Pino, Francis Coquelin, Gerard Moreno, Nicolas Jackson
+
+MATCH: 3886369 | niedz., 23.10.2022 | UD Almería
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Johan Mojica, Aïssa Mandi, Francis Coquelin, Dani Parejo, Alberto Moreno, Álex Baena, Samuel Chukwueze, José Luis Morales
+
+MATCH: 3886566 | pon., 27.02.2023 | Getafe CF
+PLAYERS: Pepe Reina, Pau Torres, Raúl Albiol, Alberto Moreno, Juan Foyth, Dani Parejo, Étienne Capoue, Ramón Terrats, Yéremy Pino, Samuel Chukwueze, José Luis Morales
+
+MATCH: 3886705 | niedz., 28.05.2023 | Rayo Vallecano
+PLAYERS: Pepe Reina, Pau Torres, Aïssa Mandi, Alfonso Pedraza, Juan Foyth, Dani Parejo, Ramón Terrats, Álex Baena, Yéremy Pino, Samuel Chukwueze, Nicolas Jackson
+
+MATCH: 3912675 | czw., 03.11.2022 | Lech Poznań
+PLAYERS: Pepe Reina, Jorge Cuenca, Aïssa Mandi, Johan Mojica, Adrián Dela, Manu Morlanes, Francis Coquelin, Manu Trigueros, José Luis Morales, Yéremy Pino, Nicolas Jackson
+
+MATCH: 3997414 | czw., 19.01.2023 | Real Madryt
+PLAYERS: Filip Jørgensen, Pau Torres, Raúl Albiol, Alberto Moreno, Juan Foyth, Dani Parejo, Étienne Capoue, Álex Baena, Yéremy Pino, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3901646 | czw., 25.08.2022 | HNK Hajduk Split
+PLAYERS: Pepe Reina, Jorge Cuenca, Aïssa Mandi, Alfonso Pedraza, Kiko Femenía, Francis Coquelin, Dani Parejo, Álex Baena, Samuel Chukwueze, Giovani Lo Celso, Nicolas Jackson
+
+MATCH: 3912672 | czw., 13.10.2022 | FK Austria Wiedeń
+PLAYERS: Pepe Reina, Jorge Cuenca, Raúl Albiol, Aïssa Mandi, Francis Coquelin, Manu Morlanes, Giovani Lo Celso, Johan Mojica, Álex Baena, Samuel Chukwueze, Arnaut Danjuma
+
+MATCH: 4031428 | czw., 09.03.2023 | RSC Anderlecht
+PLAYERS: Pepe Reina, Jorge Cuenca, Aïssa Mandi, Johan Mojica, Juan Foyth, Dani Parejo, Manu Trigueros, Álex Baena, José Luis Morales, Samuel Chukwueze, Jorge Pascual
+
+MATCH: 3886448 | śr., 09.11.2022 | RCD Espanyol
+PLAYERS: Gerónimo Rulli, Jorge Cuenca, Raúl Albiol, Alberto Moreno, Kiko Femenía, Dani Parejo, Étienne Capoue, Manu Trigueros, Yéremy Pino, Samuel Chukwueze, Arnaut Danjuma
+
+MATCH: 3886685 | sob., 20.05.2023 | Girona FC
+PLAYERS: Pepe Reina, Jorge Cuenca, Aïssa Mandi, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Ramón Terrats, Álex Baena, Yéremy Pino, Samuel Chukwueze, Nicolas Jackson
+
+MATCH: 3886648 | czw., 27.04.2023 | RCD Espanyol
+PLAYERS: Pepe Reina, Pau Torres, Aïssa Mandi, Alberto Moreno, Juan Foyth, Étienne Capoue, Dani Parejo, Giovani Lo Celso, Yéremy Pino, Samuel Chukwueze, Nicolas Jackson
+
+MATCH: 3885847 | niedz., 28.08.2022 | Getafe CF
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Giovani Lo Celso, Yéremy Pino, Gerard Moreno, José Luis Morales
+
+MATCH: 3886573 | sob., 04.03.2023 | UD Almería
+PLAYERS: Pepe Reina, Pau Torres, Raúl Albiol, Alberto Moreno, Juan Foyth, Dani Parejo, Ramón Terrats, Álex Baena, Yéremy Pino, Samuel Chukwueze, José Luis Morales
+
+MATCH: 3886471 | sob., 31.12.2022 | Valencia CF
+PLAYERS: Pepe Reina, Pau Torres, Raúl Albiol, Alberto Moreno, Kiko Femenía, Dani Parejo, Étienne Capoue, Álex Baena, Yéremy Pino, Samuel Chukwueze, Gerard Moreno
+

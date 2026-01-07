@@ -1,0 +1,139 @@
+# Team: Athletic Bilbao
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3605061 | sob., 28.08.2021 | Celta de Vigo
+PLAYERS: Unai Simón, Iñigo Martínez, Dani Vivian, Mikel Balenziaga, Iñigo Lekue, Unai Vencedor, Dani García, Álex Berenguer, Oihan Sancet, Iker Muniain, Iñaki Williams
+
+MATCH: 3605294 | pt., 01.10.2021 | Deportivo Alavés
+PLAYERS: Unai Simón, Iñigo Martínez, Dani Vivian, Mikel Balenziaga, Iñigo Lekue, Dani García, Unai Vencedor, Álex Berenguer, Iker Muniain, Raúl García, Iñaki Williams
+
+MATCH: 3727226 | czw., 20.01.2022 | FC Barcelona
+PLAYERS: Julen Agirrezabala, Iñigo Martínez, Dani Vivian, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Dani García, Oihan Sancet, Iker Muniain, Nico Williams, Raúl García
+
+MATCH: 3748331 | czw., 10.02.2022 | Valencia CF
+PLAYERS: Julen Agirrezabala, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Iñigo Lekue, Mikel Vesga, Dani García, Iker Muniain, Álex Berenguer, Raúl García, Iñaki Williams
+
+MATCH: 3610432 | niedz., 13.03.2022 | Real Betis Balompié
+PLAYERS: Unai Simón, Yeray Álvarez, Dani Vivian, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Unai Vencedor, Álex Berenguer, Iker Muniain, Oihan Sancet, Iñaki Williams
+
+MATCH: 3607536 | niedz., 31.10.2021 | Real Sociedad
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Iñigo Lekue, Óscar de Marcos, Dani García, Unai Vencedor, Álex Berenguer, Iker Muniain, Raúl García, Iñaki Williams
+
+MATCH: 3611447 | sob., 09.04.2022 | Villarreal CF
+PLAYERS: Unai Simón, Yeray Álvarez, Dani Vivian, Mikel Balenziaga, Óscar de Marcos, Mikel Vesga, Unai Vencedor, Álex Berenguer, Iker Muniain, Raúl García, Iñaki Williams
+
+MATCH: 3716577 | czw., 06.01.2022 | Atlético Mancha Real
+PLAYERS: Julen Agirrezabala, Iñigo Martínez, Dani Vivian, Iñigo Lekue, Álex Petxarroman, Mikel Vesga, Peru Nolaskoain, Nico Serrano, Nico Williams, Raúl García, Álex Berenguer
+
+MATCH: 3605310 | śr., 01.12.2021 | Real Madryt
+PLAYERS: Unai Simón, Unai Núñez, Yeray Álvarez, Mikel Balenziaga, Iñigo Lekue, Dani García, Unai Vencedor, Oier Zarraga, Iker Muniain, Raúl García, Iñaki Williams
+
+MATCH: 3607542 | pt., 05.11.2021 | Cádiz CF
+PLAYERS: Unai Simón, Unai Núñez, Yeray Álvarez, Mikel Balenziaga, Iñigo Lekue, Mikel Vesga, Dani García, Oihan Sancet, Iker Muniain, Álex Berenguer, Iñaki Williams
+
+MATCH: 3605047 | pon., 16.08.2021 | Elche CF
+PLAYERS: Julen Agirrezabala, Iñigo Martínez, Dani Vivian, Mikel Balenziaga, Óscar de Marcos, Dani García, Unai Vencedor, Álex Berenguer, Iker Muniain, Oihan Sancet, Iñaki Williams
+
+MATCH: 3605284 | sob., 25.09.2021 | Valencia CF
+PLAYERS: Unai Simón, Iñigo Martínez, Dani Vivian, Mikel Balenziaga, Iñigo Lekue, Unai Vencedor, Dani García, Álex Berenguer, Iker Muniain, Raúl García, Iñaki Williams
+
+MATCH: 3607615 | pon., 03.01.2022 | CA Osasuna
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Dani García, Unai Vencedor, Oihan Sancet, Iker Muniain, Álex Berenguer, Iñaki Williams
+
+MATCH: 3607526 | wt., 26.10.2021 | RCD Espanyol
+PLAYERS: Unai Simón, Yeray Álvarez, Dani Vivian, Iñigo Lekue, Óscar de Marcos, Mikel Vesga, Unai Vencedor, Oihan Sancet, Iker Muniain, Nico Williams, Iñaki Williams
+
+MATCH: 3610568 | niedz., 03.04.2022 | Elche CF
+PLAYERS: Unai Simón, Unai Núñez, Dani Vivian, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Unai Vencedor, Álex Berenguer, Iker Muniain, Oihan Sancet, Iñaki Williams
+
+MATCH: 3611463 | czw., 21.04.2022 | Cádiz CF
+PLAYERS: Unai Simón, Iñigo Martínez, Dani Vivian, Mikel Balenziaga, Óscar de Marcos, Mikel Vesga, Dani García, Iker Muniain, Nico Williams, Raúl García, Iñaki Williams
+
+MATCH: 3607556 | pt., 19.11.2021 | Levante UD
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Mikel Balenziaga, Iñigo Lekue, Dani García, Unai Vencedor, Álex Berenguer, Iker Muniain, Raúl García, Iñaki Williams
+
+MATCH: 3748333 | śr., 02.03.2022 | Valencia CF
+PLAYERS: Julen Agirrezabala, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Iñigo Lekue, Mikel Vesga, Dani García, Iker Muniain, Álex Berenguer, Raúl García, Iñaki Williams
+
+MATCH: 3605214 | wt., 21.09.2021 | Rayo Vallecano
+PLAYERS: Unai Simón, Iñigo Martínez, Unai Núñez, Iñigo Lekue, Óscar de Marcos, Mikel Vesga, Oier Zarraga, Iker Muniain, Nico Williams, Raúl García, Asier Villalibre
+
+MATCH: 3607562 | pt., 26.11.2021 | Granada CF
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Mikel Balenziaga, Iñigo Lekue, Dani García, Unai Vencedor, Iker Muniain, Nico Williams, Oihan Sancet, Raúl García
+
+MATCH: 3611515 | niedz., 22.05.2022 | Sevilla FC
+PLAYERS: Unai Simón, Iñigo Martínez, Dani Vivian, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Unai Vencedor, Álex Berenguer, Iker Muniain, Raúl García, Iñaki Williams
+
+MATCH: 3610371 | niedz., 27.02.2022 | FC Barcelona
+PLAYERS: Unai Simón, Yeray Álvarez, Dani Vivian, Mikel Balenziaga, Iñigo Lekue, Mikel Vesga, Unai Vencedor, Oier Zarraga, Nico Serrano, Raúl García, Asier Villalibre
+
+MATCH: 3607619 | niedz., 09.01.2022 | Deportivo Alavés
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Dani García, Unai Vencedor, Oihan Sancet, Iker Muniain, Álex Berenguer, Iñaki Williams
+
+MATCH: 3605205 | sob., 18.09.2021 | Atlético Madryt
+PLAYERS: Unai Simón, Iñigo Martínez, Dani Vivian, Mikel Balenziaga, Iñigo Lekue, Dani García, Unai Vencedor, Álex Berenguer, Iker Muniain, Raúl García, Iñaki Williams
+
+MATCH: 3605049 | sob., 21.08.2021 | FC Barcelona
+PLAYERS: Julen Agirrezabala, Iñigo Martínez, Dani Vivian, Mikel Balenziaga, Iñigo Lekue, Dani García, Unai Vencedor, Oihan Sancet, Iker Muniain, Álex Berenguer, Iñaki Williams
+
+MATCH: 3610342 | pon., 14.02.2022 | RCD Mallorca
+PLAYERS: Unai Simón, Unai Núñez, Dani Vivian, Mikel Balenziaga, Iñigo Lekue, Mikel Vesga, Dani García, Oihan Sancet, Iker Muniain, Oier Zarraga, Raúl García
+
+MATCH: 3607574 | pon., 06.12.2021 | Getafe CF
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Iñigo Lekue, Óscar de Marcos, Dani García, Unai Vencedor, Oier Zarraga, Nico Williams, Raúl García, Iñaki Williams
+
+MATCH: 3610298 | niedz., 23.01.2022 | Rayo Vallecano
+PLAYERS: Unai Simón, Iñigo Martínez, Dani Vivian, Mikel Balenziaga, Iñigo Lekue, Dani García, Oier Zarraga, Álex Berenguer, Nico Serrano, Raúl García, Iñaki Williams
+
+MATCH: 3611450 | niedz., 17.04.2022 | Celta de Vigo
+PLAYERS: Unai Simón, Yeray Álvarez, Dani Vivian, Yuri Berchiche, Álex Petxarroman, Mikel Vesga, Unai Vencedor, Álex Berenguer, Iker Muniain, Oihan Sancet, Iñaki Williams
+
+MATCH: 3610320 | pon., 07.02.2022 | RCD Espanyol
+PLAYERS: Unai Simón, Iñigo Martínez, Dani Vivian, Mikel Balenziaga, Iñigo Lekue, Dani García, Oier Zarraga, Oihan Sancet, Álex Berenguer, Nico Serrano, Raúl García
+
+MATCH: 3611491 | wt., 10.05.2022 | Granada CF
+PLAYERS: Unai Simón, Iñigo Martínez, Dani Vivian, Yuri Berchiche, Iñigo Lekue, Dani García, Unai Vencedor, Iker Muniain, Nico Williams, Álex Berenguer, Asier Villalibre
+
+MATCH: 3610360 | niedz., 20.02.2022 | Real Sociedad
+PLAYERS: Unai Simón, Iñigo Martínez, Dani Vivian, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Dani García, Álex Berenguer, Iker Muniain, Raúl García, Iñaki Williams
+
+MATCH: 3611470 | sob., 30.04.2022 | Atlético Madryt
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Dani García, Iker Muniain, Nico Williams, Raúl García, Iñaki Williams
+
+MATCH: 3593341 | czw., 13.01.2022 | Atlético Madryt
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Dani García, Oier Zarraga, Oihan Sancet, Iker Muniain, Álex Berenguer, Iñaki Williams
+
+MATCH: 3611499 | niedz., 15.05.2022 | CA Osasuna
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Dani García, Unai Vencedor, Iker Muniain, Nico Williams, Raúl García, Iñaki Williams
+
+MATCH: 3735937 | czw., 03.02.2022 | Real Madryt
+PLAYERS: Julen Agirrezabala, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Dani García, Iker Muniain, Nico Williams, Raúl García, Iñaki Williams
+
+MATCH: 3730819 | niedz., 16.01.2022 | Real Madryt
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Dani García, Oier Zarraga, Oihan Sancet, Iker Muniain, Álex Berenguer, Iñaki Williams
+
+MATCH: 3605194 | sob., 11.09.2021 | RCD Mallorca
+PLAYERS: Unai Simón, Iñigo Martínez, Dani Vivian, Mikel Balenziaga, Iñigo Lekue, Dani García, Unai Vencedor, Álex Berenguer, Iker Muniain, Raúl García, Iñaki Williams
+
+MATCH: 3610270 | śr., 22.12.2021 | Real Madryt
+PLAYERS: Julen Agirrezabala, Unai Núñez, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Dani García, Unai Vencedor, Oihan Sancet, Iker Muniain, Oier Zarraga, Iñaki Williams
+
+MATCH: 3607590 | sob., 11.12.2021 | Sevilla FC
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Mikel Balenziaga, Iñigo Lekue, Dani García, Unai Vencedor, Iker Muniain, Nico Williams, Raúl García, Iñaki Williams
+
+MATCH: 3610559 | pt., 18.03.2022 | Getafe CF
+PLAYERS: Unai Simón, Yeray Álvarez, Dani Vivian, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Unai Vencedor, Álex Berenguer, Iker Muniain, Oihan Sancet, Iñaki Williams
+
+MATCH: 3605322 | sob., 23.10.2021 | Villarreal CF
+PLAYERS: Unai Simón, Iñigo Martínez, Dani Vivian, Mikel Balenziaga, Iñigo Lekue, Dani García, Unai Vencedor, Iker Muniain, Álex Berenguer, Raúl García, Iñaki Williams
+
+MATCH: 3611479 | sob., 07.05.2022 | Valencia CF
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Dani García, Iker Muniain, Nico Williams, Raúl García, Iñaki Williams
+
+MATCH: 3610401 | pon., 07.03.2022 | Levante UD
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Unai Vencedor, Álex Berenguer, Iker Muniain, Oihan Sancet, Iñaki Williams
+
+MATCH: 3607599 | niedz., 19.12.2021 | Real Betis Balompié
+PLAYERS: Julen Agirrezabala, Unai Núñez, Yeray Álvarez, Mikel Balenziaga, Iñigo Lekue, Mikel Vesga, Unai Vencedor, Iker Muniain, Nico Williams, Raúl García, Iñaki Williams
+

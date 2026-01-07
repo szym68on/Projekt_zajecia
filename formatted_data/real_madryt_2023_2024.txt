@@ -1,0 +1,163 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 4113117 | niedz., 24.09.2023 | Atlético Madryt
+PLAYERS: Kepa Arrizabalaga, David Alaba, Antonio Rüdiger, Fran García, Lucas Vázquez, Eduardo Camavinga, Toni Kroos, Federico Valverde, Luka Modrić, Jude Bellingham, Rodrygo
+
+MATCH: 4112972 | sob., 30.09.2023 | Girona FC
+PLAYERS: Kepa Arrizabalaga, Nacho Fernández, Antonio Rüdiger, Eduardo Camavinga, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Federico Valverde, Jude Bellingham, Vinicius Junior, Joselu
+
+MATCH: 4112930 | niedz., 21.04.2024 | FC Barcelona
+PLAYERS: Andriy Lunin, Antonio Rüdiger, Aurélien Tchouaméni, Eduardo Camavinga, Lucas Vázquez, Toni Kroos, Luka Modrić, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4112924 | wt., 14.05.2024 | Deportivo Alavés
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Ferland Mendy, Daniel Carvajal, Eduardo Camavinga, Toni Kroos, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4312027 | śr., 17.04.2024 | Manchester City
+PLAYERS: Andriy Lunin, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Eduardo Camavinga, Toni Kroos, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4112836 | sob., 27.01.2024 | UD Las Palmas
+PLAYERS: Andriy Lunin, Nacho Fernández, Antonio Rüdiger, Fran García, Daniel Carvajal, Eduardo Camavinga, Toni Kroos, Dani Ceballos, Brahim Díaz, Vinicius Junior, Rodrygo
+
+MATCH: 4112849 | niedz., 17.12.2023 | Villarreal CF
+PLAYERS: Andriy Lunin, David Alaba, Antonio Rüdiger, Ferland Mendy, Lucas Vázquez, Toni Kroos, Federico Valverde, Luka Modrić, Jude Bellingham, Brahim Díaz, Rodrygo
+
+MATCH: 4112987 | sob., 16.03.2024 | CA Osasuna
+PLAYERS: Andriy Lunin, Antonio Rüdiger, Aurélien Tchouaméni, Ferland Mendy, Daniel Carvajal, Eduardo Camavinga, Toni Kroos, Federico Valverde, Brahim Díaz, Vinicius Junior, Rodrygo
+
+MATCH: 4113161 | niedz., 17.09.2023 | Real Sociedad
+PLAYERS: Kepa Arrizabalaga, David Alaba, Antonio Rüdiger, Fran García, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Federico Valverde, Jude Bellingham, Rodrygo, Joselu
+
+MATCH: 4343512 | sob., 01.06.2024 | Borussia Dortmund
+PLAYERS: Thibaut Courtois, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Toni Kroos, Eduardo Camavinga, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4112981 | niedz., 31.03.2024 | Athletic Bilbao
+PLAYERS: Andriy Lunin, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Federico Valverde, Jude Bellingham, Brahim Díaz, Rodrygo
+
+MATCH: 4113053 | sob., 02.09.2023 | Getafe CF
+PLAYERS: Kepa Arrizabalaga, David Alaba, Antonio Rüdiger, Fran García, Daniel Carvajal, Aurélien Tchouaméni, Eduardo Camavinga, Luka Modrić, Jude Bellingham, Rodrygo, Joselu
+
+MATCH: 4113062 | sob., 07.10.2023 | CA Osasuna
+PLAYERS: Kepa Arrizabalaga, Antonio Rüdiger, Aurélien Tchouaméni, Ferland Mendy, Daniel Carvajal, Eduardo Camavinga, Luka Modrić, Federico Valverde, Jude Bellingham, Vinicius Junior, Joselu
+
+MATCH: 4171248 | wt., 03.10.2023 | SSC Napoli
+PLAYERS: Kepa Arrizabalaga, Nacho Fernández, Antonio Rüdiger, Eduardo Camavinga, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4113077 | niedz., 26.11.2023 | Cádiz CF
+PLAYERS: Andriy Lunin, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Toni Kroos, Luka Modrić, Federico Valverde, Jude Bellingham, Rodrygo, Joselu
+
+MATCH: 4112893 | sob., 10.02.2024 | Girona FC
+PLAYERS: Andriy Lunin, Daniel Carvajal, Aurélien Tchouaméni, Ferland Mendy, Lucas Vázquez, Toni Kroos, Eduardo Camavinga, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4113029 | niedz., 25.02.2024 | Sevilla FC
+PLAYERS: Andriy Lunin, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Lucas Vázquez, Aurélien Tchouaméni, Toni Kroos, Federico Valverde, Vinicius Junior, Brahim Díaz, Rodrygo
+
+MATCH: 4112914 | niedz., 19.05.2024 | Villarreal CF
+PLAYERS: Andriy Lunin, Éder Militão, Antonio Rüdiger, Fran García, Lucas Vázquez, Federico Valverde, Dani Ceballos, Luka Modrić, Brahim Díaz, Arda Güler, Joselu
+
+MATCH: 4171253 | śr., 20.09.2023 | 1.FC Union Berlin
+PLAYERS: Kepa Arrizabalaga, Nacho Fernández, Antonio Rüdiger, David Alaba, Lucas Vázquez, Aurélien Tchouaméni, Eduardo Camavinga, Luka Modrić, Jude Bellingham, Rodrygo, Joselu
+
+MATCH: 4171258 | wt., 12.12.2023 | 1.FC Union Berlin
+PLAYERS: Kepa Arrizabalaga, David Alaba, Nacho Fernández, Fran García, Lucas Vázquez, Luka Modrić, Federico Valverde, Dani Ceballos, Jude Bellingham, Rodrygo, Joselu
+
+MATCH: 4112903 | sob., 25.05.2024 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Eduardo Camavinga, Toni Kroos, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4113003 | niedz., 10.03.2024 | Celta de Vigo
+PLAYERS: Andriy Lunin, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Lucas Vázquez, Eduardo Camavinga, Luka Modrić, Federico Valverde, Brahim Díaz, Vinicius Junior, Rodrygo
+
+MATCH: 4113127 | sob., 19.08.2023 | UD Almería
+PLAYERS: Andriy Lunin, David Alaba, Antonio Rüdiger, Fran García, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4112821 | czw., 01.02.2024 | Getafe CF
+PLAYERS: Andriy Lunin, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Lucas Vázquez, Aurélien Tchouaméni, Luka Modrić, Federico Valverde, Jude Bellingham, Vinicius Junior, Joselu
+
+MATCH: 4113042 | niedz., 04.02.2024 | Atlético Madryt
+PLAYERS: Andriy Lunin, Nacho Fernández, Daniel Carvajal, Ferland Mendy, Lucas Vázquez, Toni Kroos, Eduardo Camavinga, Federico Valverde, Jude Bellingham, Brahim Díaz, Rodrygo
+
+MATCH: 4113178 | niedz., 18.02.2024 | Rayo Vallecano
+PLAYERS: Andriy Lunin, Nacho Fernández, Aurélien Tchouaméni, Fran García, Lucas Vázquez, Eduardo Camavinga, Luka Modrić, Federico Valverde, Vinicius Junior, Brahim Díaz, Joselu
+
+MATCH: 4312023 | wt., 09.04.2024 | Manchester City
+PLAYERS: Andriy Lunin, Antonio Rüdiger, Aurélien Tchouaméni, Ferland Mendy, Daniel Carvajal, Eduardo Camavinga, Toni Kroos, Jude Bellingham, Rodrygo, Federico Valverde, Vinicius Junior
+
+MATCH: 4112944 | pt., 26.04.2024 | Real Sociedad
+PLAYERS: Kepa Arrizabalaga, Éder Militão, Nacho Fernández, Fran García, Daniel Carvajal, Aurélien Tchouaméni, Luka Modrić, Dani Ceballos, Brahim Díaz, Arda Güler, Joselu
+
+MATCH: 4331177 | śr., 08.05.2024 | Bayern Monachium
+PLAYERS: Andriy Lunin, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Toni Kroos, Aurélien Tchouaméni, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4259187 | czw., 18.01.2024 | Atlético Madryt
+PLAYERS: Andriy Lunin, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Eduardo Camavinga, Luka Modrić, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4113169 | sob., 02.12.2023 | Granada CF
+PLAYERS: Andriy Lunin, David Alaba, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Toni Kroos, Federico Valverde, Jude Bellingham, Brahim Díaz, Rodrygo, Joselu
+
+MATCH: 4113011 | sob., 02.03.2024 | Valencia CF
+PLAYERS: Andriy Lunin, Antonio Rüdiger, Aurélien Tchouaméni, Ferland Mendy, Daniel Carvajal, Toni Kroos, Eduardo Camavinga, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4112863 | śr., 03.01.2024 | RCD Mallorca
+PLAYERS: Andriy Lunin, Antonio Rüdiger, Aurélien Tchouaméni, Fran García, Daniel Carvajal, Toni Kroos, Luka Modrić, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4113082 | pt., 25.08.2023 | Celta de Vigo
+PLAYERS: Kepa Arrizabalaga, David Alaba, Antonio Rüdiger, Fran García, Daniel Carvajal, Aurélien Tchouaméni, Eduardo Camavinga, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4171251 | śr., 29.11.2023 | SSC Napoli
+PLAYERS: Andriy Lunin, David Alaba, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Toni Kroos, Federico Valverde, Dani Ceballos, Jude Bellingham, Brahim Díaz, Rodrygo
+
+MATCH: 4112951 | sob., 04.05.2024 | Cádiz CF
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Fran García, Daniel Carvajal, Eduardo Camavinga, Luka Modrić, Dani Ceballos, Brahim Díaz, Arda Güler, Joselu
+
+MATCH: 4112959 | sob., 11.05.2024 | Granada CF
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Fran García, Lucas Vázquez, Eduardo Camavinga, Luka Modrić, Dani Ceballos, Brahim Díaz, Arda Güler, Joselu
+
+MATCH: 4113096 | sob., 11.11.2023 | Valencia CF
+PLAYERS: Andriy Lunin, David Alaba, Nacho Fernández, Ferland Mendy, Daniel Carvajal, Eduardo Camavinga, Toni Kroos, Federico Valverde, Brahim Díaz, Vinicius Junior, Rodrygo
+
+MATCH: 4112872 | czw., 21.12.2023 | Deportivo Alavés
+PLAYERS: Kepa Arrizabalaga, Nacho Fernández, Antonio Rüdiger, Fran García, Lucas Vázquez, Toni Kroos, Luka Modrić, Federico Valverde, Jude Bellingham, Brahim Díaz, Rodrygo
+
+MATCH: 4171252 | śr., 08.11.2023 | SC Braga
+PLAYERS: Andriy Lunin, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Lucas Vázquez, Eduardo Camavinga, Toni Kroos, Federico Valverde, Brahim Díaz, Vinicius Junior, Rodrygo
+
+MATCH: 4243695 | wt., 13.02.2024 | RB Leipzig
+PLAYERS: Andriy Lunin, Nacho Fernández, Aurélien Tchouaméni, Ferland Mendy, Daniel Carvajal, Toni Kroos, Eduardo Camavinga, Federico Valverde, Vinicius Junior, Brahim Díaz, Rodrygo
+
+MATCH: 4259012 | śr., 10.01.2024 | Atlético Madryt
+PLAYERS: Kepa Arrizabalaga, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Luka Modrić, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4113124 | sob., 28.10.2023 | FC Barcelona
+PLAYERS: Kepa Arrizabalaga, David Alaba, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4112876 | sob., 09.12.2023 | Real Betis Balompié
+PLAYERS: Andriy Lunin, David Alaba, Antonio Rüdiger, Ferland Mendy, Lucas Vázquez, Toni Kroos, Federico Valverde, Jude Bellingham, Luka Modrić, Brahim Díaz, Rodrygo
+
+MATCH: 4113143 | sob., 21.10.2023 | Sevilla FC
+PLAYERS: Kepa Arrizabalaga, David Alaba, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4112828 | niedz., 21.01.2024 | UD Almería
+PLAYERS: Kepa Arrizabalaga, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4112806 | sob., 12.08.2023 | Athletic Bilbao
+PLAYERS: Andriy Lunin, David Alaba, Éder Militão, Fran García, Daniel Carvajal, Aurélien Tchouaméni, Eduardo Camavinga, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4113018 | sob., 13.04.2024 | RCD Mallorca
+PLAYERS: Andriy Lunin, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Lucas Vázquez, Aurélien Tchouaméni, Luka Modrić, Federico Valverde, Jude Bellingham, Brahim Díaz, Joselu
+
+MATCH: 4113073 | śr., 27.09.2023 | UD Las Palmas
+PLAYERS: Kepa Arrizabalaga, David Alaba, Antonio Rüdiger, Ferland Mendy, Nacho Fernández, Aurélien Tchouaméni, Eduardo Camavinga, Federico Valverde, Brahim Díaz, Rodrygo, Joselu
+
+MATCH: 4243703 | śr., 06.03.2024 | RB Leipzig
+PLAYERS: Andriy Lunin, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Eduardo Camavinga, Toni Kroos, Vinicius Junior, Federico Valverde, Jude Bellingham
+
+MATCH: 4240829 | sob., 06.01.2024 | Arandina CF
+PLAYERS: Kepa Arrizabalaga, Nacho Fernández, Álvaro Carrillo, Fran García, Vinícius Tobias, Eduardo Camavinga, Dani Ceballos, Arda Güler, Brahim Díaz, Nico Paz, Joselu
+
+MATCH: 4171255 | wt., 24.10.2023 | SC Braga
+PLAYERS: Kepa Arrizabalaga, Nacho Fernández, Antonio Rüdiger, Fran García, Daniel Carvajal, Eduardo Camavinga, Luka Modrić, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4113162 | niedz., 05.11.2023 | Rayo Vallecano
+PLAYERS: Kepa Arrizabalaga, David Alaba, Antonio Rüdiger, Fran García, Daniel Carvajal, Eduardo Camavinga, Luka Modrić, Federico Valverde, Jude Bellingham, Vinicius Junior, Joselu
+

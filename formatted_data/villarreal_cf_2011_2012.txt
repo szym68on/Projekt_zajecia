@@ -1,0 +1,148 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 1125301 | sob., 15.10.2011 | Getafe CF
+PLAYERS: Diego López, Gonzalo Rodríguez, Carlos Marchena, José Manuel Catalá, Cristian Zapata, Bruno Soriano, Marcos Senna, Borja Valero, Jonathan de Guzmán, Cani, Giuseppe Rossi
+
+MATCH: 1125400 | niedz., 08.01.2012 | Valencia CF
+PLAYERS: Diego López, Gonzalo Rodríguez, Cristian Zapata, Joan Oriol, Ángel López, Bruno Soriano, Marcos Senna, Cani, Borja Valero, Nilmar, Marco Ruben
+
+MATCH: 1158628 | wt., 13.12.2011 | CD Mirandés
+PLAYERS: César Sánchez, Mateo Musacchio, Cristian Zapata, Jaume Costa, Mario Gaspar, Carlos Marchena, Bruno Soriano, Hernán Pérez, Javier Camuñas, Gonzalo Castellani, Joselu Moreno
+
+MATCH: 1125371 | sob., 03.12.2011 | Racing Santander
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Oriol, Mario Gaspar, Ángel López, Bruno Soriano, Borja Valero, Cani, Hernán Pérez, Marco Ruben
+
+MATCH: 1125235 | pon., 29.08.2011 | FC Barcelona
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Oriol, Cristian Zapata, Carlos Marchena, Bruno Soriano, Borja Valero, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 1125467 | niedz., 26.02.2012 | Athletic Bilbao
+PLAYERS: Diego López, Gonzalo Rodríguez, Cristian Zapata, Joan Oriol, Ángel López, Bruno Soriano, Marcos Senna, Cani, Borja Valero, Alejandro Martinuccio, Marco Ruben
+
+MATCH: 1125590 | sob., 05.05.2012 | Valencia CF
+PLAYERS: Diego López, Gonzalo Rodríguez, Cristian Zapata, Jaume Costa, Mario Gaspar, Mateo Musacchio, Bruno Soriano, Mubarak Wakaso, Borja Valero, Hernán Pérez, Marco Ruben
+
+MATCH: 1125549 | niedz., 25.03.2012 | Rayo Vallecano
+PLAYERS: Diego López, Mateo Musacchio, Cristian Zapata, Joan Oriol, Mario Gaspar, Marcos Senna, Bruno Soriano, Borja Valero, Cani, Nilmar, Marco Ruben
+
+MATCH: 1125287 | sob., 01.10.2011 | Real Zaragoza
+PLAYERS: Diego López, Mateo Musacchio, Cristian Zapata, José Manuel Catalá, Mario Gaspar, Bruno Soriano, Borja Valero, Cani, Jonathan de Guzmán, Javier Camuñas, Giuseppe Rossi
+
+MATCH: 1125064 | pon., 23.01.2012 | Sporting Gijón
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Oriol, Ángel López, Bruno Soriano, Marcos Senna, Cani, Borja Valero, Marco Ruben, Joselu Moreno
+
+MATCH: 1125329 | sob., 29.10.2011 | Rayo Vallecano
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, José Manuel Catalá, Cristian Zapata, Bruno Soriano, Marcos Senna, Borja Valero, Jonathan de Guzmán, Cani, Marco Ruben
+
+MATCH: 1125580 | sob., 28.04.2012 | CA Osasuna
+PLAYERS: Diego López, Mateo Musacchio, Cristian Zapata, Jaume Costa, Mario Gaspar, Bruno Soriano, Marcos Senna, Borja Valero, Cani, Hernán Pérez, Marco Ruben
+
+MATCH: 1141849 | śr., 14.09.2011 | Bayern Monachium
+PLAYERS: Diego López, Mateo Musacchio, Cristian Zapata, José Manuel Catalá, Mario Gaspar, Marcos Senna, Carlos Marchena, Bruno Soriano, Jonathan de Guzmán, Giuseppe Rossi, Nilmar
+
+MATCH: 1125319 | śr., 26.10.2011 | Real Madryt
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, José Manuel Catalá, Cristian Zapata, Bruno Soriano, Jonathan de Guzmán, Borja Valero, Cani, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1135766 | wt., 23.08.2011 | Odense Boldklub
+PLAYERS: Diego López, Mateo Musacchio, Cristian Zapata, Joan Oriol, Bruno Soriano, Marcos Senna, Cani, Borja Valero, Nilmar, Javier Camuñas, Giuseppe Rossi
+
+MATCH: 1125530 | sob., 07.04.2012 | Real Betis Balompié
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Oriol, Mario Gaspar, Bruno Soriano, Marcos Senna, Borja Valero, Cani, Ángel López, Marco Ruben
+
+MATCH: 1141935 | śr., 07.12.2011 | SSC Napoli
+PLAYERS: Diego López, Mateo Musacchio, Cristian Zapata, Joan Oriol, Ángel López, Bruno Soriano, Marcos Senna, Jonathan de Guzmán, Hernán Pérez, Nilmar, Marco Ruben
+
+MATCH: 1125599 | niedz., 13.05.2012 | Atlético Madryt
+PLAYERS: Diego López, Mateo Musacchio, Cristian Zapata, Jaume Costa, Mario Gaspar, Carlos Marchena, Bruno Soriano, Marcos Senna, Hernán Pérez, Borja Valero, Marco Ruben
+
+MATCH: 1125340 | niedz., 06.11.2011 | RCD Espanyol
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, José Manuel Catalá, Mario Gaspar, Bruno Soriano, Borja Valero, Joan Oriol, Jonathan de Guzmán, Hernán Pérez, Marco Ruben
+
+MATCH: 1125350 | sob., 19.11.2011 | Real Betis Balompié
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, José Manuel Catalá, Mario Gaspar, Bruno Soriano, Borja Valero, Joan Oriol, Jonathan de Guzmán, Hernán Pérez, Marco Ruben
+
+MATCH: 1125456 | niedz., 19.02.2012 | RCD Mallorca
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Oriol, Mario Gaspar, Bruno Soriano, Marcos Senna, Cani, Javier Camuñas, Borja Valero, Marco Ruben
+
+MATCH: 1125409 | niedz., 15.01.2012 | Atlético Madryt
+PLAYERS: Diego López, Gonzalo Rodríguez, Cristian Zapata, Joan Oriol, Ángel López, Bruno Soriano, Jonathan de Guzmán, Borja Valero, Cani, Hernán Pérez, Nilmar
+
+MATCH: 1141857 | wt., 27.09.2011 | SSC Napoli
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, José Manuel Catalá, Cristian Zapata, Marcos Senna, Bruno Soriano, Jonathan de Guzmán, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 1141911 | wt., 22.11.2011 | Bayern Monachium
+PLAYERS: Diego López, Mateo Musacchio, Carlos Marchena, Joan Oriol, Mario Gaspar, Ángel López, Bruno Soriano, Jonathan de Guzmán, Borja Valero, Hernán Pérez, Marco Ruben
+
+MATCH: 1125498 | niedz., 18.03.2012 | Levante UD
+PLAYERS: Diego López, Mateo Musacchio, Cristian Zapata, Joan Oriol, Mario Gaspar, Bruno Soriano, Marcos Senna, Gonzalo Castellani, Alejandro Martinuccio, Nilmar, Marco Ruben
+
+MATCH: 1125425 | sob., 28.01.2012 | FC Barcelona
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Oriol, Ángel López, Bruno Soriano, Marcos Senna, Borja Valero, Cani, Marco Ruben, Joselu Moreno
+
+MATCH: 1125435 | niedz., 05.02.2012 | Sevilla FC
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Oriol, Ángel López, Bruno Soriano, Marcos Senna, Borja Valero, Javier Camuñas, Cani, Joselu Moreno
+
+MATCH: 1158645 | śr., 21.12.2011 | CD Mirandés
+PLAYERS: César Sánchez, Mateo Musacchio, Cristian Zapata, Ángel López, Joan Oriol, Bruno Soriano, Marcos Senna, Borja Valero, Cani, Nilmar, Marco Ruben
+
+MATCH: 1125266 | wt., 20.09.2011 | RCD Mallorca
+PLAYERS: Diego López, Mateo Musacchio, Cristian Zapata, José Manuel Catalá, Mario Gaspar, Bruno Soriano, Borja Valero, Cani, Jonathan de Guzmán, Giuseppe Rossi, Nilmar
+
+MATCH: 1125561 | niedz., 15.04.2012 | Racing Santander
+PLAYERS: Diego López, Mateo Musacchio, Cristian Zapata, José Manuel Catalá, Ángel López, Carlos Marchena, Bruno Soriano, Borja Valero, Alejandro Martinuccio, Hernán Pérez, Nilmar
+
+MATCH: 1135765 | śr., 17.08.2011 | Odense Boldklub
+PLAYERS: Diego López, Mateo Musacchio, Cristian Zapata, Joan Oriol, Mario Gaspar, Carlos Marchena, Bruno Soriano, Borja Valero, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 1125509 | śr., 21.03.2012 | Real Madryt
+PLAYERS: Diego López, Mateo Musacchio, Cristian Zapata, Joan Oriol, Mario Gaspar, Marcos Senna, Ángel López, Bruno Soriano, Cani, Nilmar, Marco Ruben
+
+MATCH: 1125245 | sob., 10.09.2011 | Sevilla FC
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Oriol, Mario Gaspar, Carlos Marchena, Bruno Soriano, Borja Valero, Cani, Javier Camuñas, Giuseppe Rossi
+
+MATCH: 1141873 | wt., 18.10.2011 | Manchester City
+PLAYERS: Diego López, Gonzalo Rodríguez, Carlos Marchena, José Manuel Catalá, Cristian Zapata, Bruno Soriano, Borja Valero, Jonathan de Guzmán, Cani, Hernán Pérez, Giuseppe Rossi
+
+MATCH: 1125361 | pon., 28.11.2011 | Málaga CF
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Oriol, Mario Gaspar, Ángel López, Bruno Soriano, Jonathan de Guzmán, Borja Valero, Hernán Pérez, Marco Ruben
+
+MATCH: 1125308 | niedz., 23.10.2011 | Levante UD
+PLAYERS: Diego López, Gonzalo Rodríguez, Carlos Marchena, José Manuel Catalá, Cristian Zapata, Bruno Soriano, Borja Valero, Hernán Pérez, Cani, Jonathan de Guzmán, Giuseppe Rossi
+
+MATCH: 1141897 | śr., 02.11.2011 | Manchester City
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, José Manuel Catalá, Mario Gaspar, Carlos Marchena, Borja Valero, Jonathan de Guzmán, Mubarak Wakaso, Hernán Pérez, Joselu Moreno
+
+MATCH: 1125390 | niedz., 18.12.2011 | CA Osasuna
+PLAYERS: Diego López, Mateo Musacchio, Cristian Zapata, Joan Oriol, Mario Gaspar, Bruno Soriano, Marcos Senna, Cani, Javier Camuñas, Borja Valero, Marco Ruben
+
+MATCH: 1134015 | niedz., 01.04.2012 | RCD Espanyol
+PLAYERS: Diego López, Mateo Musacchio, Cristian Zapata, Joan Oriol, Mario Gaspar, Bruno Soriano, Marcos Senna, Borja Valero, Javier Camuñas, Cani, Marco Ruben
+
+MATCH: 1125415 | wt., 01.05.2012 | Sporting Gijón
+PLAYERS: Diego López, Mateo Musacchio, Cristian Zapata, Jaume Costa, Mario Gaspar, Carlos Marchena, Bruno Soriano, Marcos Senna, Hernán Pérez, Borja Valero, Marco Ruben
+
+MATCH: 1125571 | niedz., 22.04.2012 | Real Sociedad
+PLAYERS: Diego López, Mateo Musacchio, Cristian Zapata, José Manuel Catalá, Mario Gaspar, Bruno Soriano, Marcos Senna, Jonathan de Guzmán, Borja Valero, Hernán Pérez, Marco Ruben
+
+MATCH: 1125541 | czw., 12.04.2012 | Málaga CF
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, José Manuel Catalá, Cristian Zapata, Bruno Soriano, Marcos Senna, Borja Valero, Javier Camuñas, Alejandro Martinuccio, Marco Ruben
+
+MATCH: 1125477 | niedz., 04.03.2012 | Real Zaragoza
+PLAYERS: Diego López, Gonzalo Rodríguez, Cristian Zapata, Jaume Costa, Ángel López, Bruno Soriano, Marcos Senna, Borja Valero, Javier Camuñas, Alejandro Martinuccio, Nilmar
+
+MATCH: 1125491 | pon., 12.03.2012 | Getafe CF
+PLAYERS: Diego López, Gonzalo Rodríguez, Cristian Zapata, Jaume Costa, Ángel López, Bruno Soriano, Marcos Senna, Borja Valero, Javier Camuñas, Cani, Nilmar
+
+MATCH: 1125446 | niedz., 12.02.2012 | Granada CF
+PLAYERS: Diego López, Carlos Marchena, Cristian Zapata, Joan Oriol, Ángel López, Marcos Senna, Borja Valero, Cani, Javier Camuñas, Nilmar, Marco Ruben
+
+MATCH: 1125277 | sob., 24.09.2011 | Athletic Bilbao
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, José Manuel Catalá, Cristian Zapata, Marcos Senna, Bruno Soriano, Borja Valero, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 1125256 | sob., 17.09.2011 | Granada CF
+PLAYERS: César Sánchez, Mateo Musacchio, Cristian Zapata, José Manuel Catalá, Mario Gaspar, Carlos Marchena, Cani, Bruno Soriano, Borja Valero, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1125381 | niedz., 11.12.2011 | Real Sociedad
+PLAYERS: Diego López, Gonzalo Rodríguez, Cristian Zapata, Joan Oriol, Ángel López, Bruno Soriano, Marcos Senna, Borja Valero, Cani, Nilmar, Marco Ruben
+

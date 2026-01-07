@@ -1,0 +1,274 @@
+# Graph for Java/GraphStream
+# Nodes: 26
+# Edges: 268
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Thibaut Courtois | Álvaro Domínguez | 25 | 52 | 31
+EDGE Thibaut Courtois | Miranda | 37 | 52 | 40
+EDGE Thibaut Courtois | Filipe Luís | 47 | 52 | 52
+EDGE Thibaut Courtois | Luis Amaranto Perea | 19 | 52 | 23
+EDGE Thibaut Courtois | Mario Suárez | 35 | 52 | 37
+EDGE Thibaut Courtois | Gabi | 42 | 52 | 47
+EDGE Thibaut Courtois | Arda Turan | 33 | 52 | 34
+EDGE Thibaut Courtois | Diego | 36 | 52 | 39
+EDGE Thibaut Courtois | Adrián López | 40 | 52 | 46
+EDGE Thibaut Courtois | Radamel Falcao | 44 | 52 | 47
+EDGE Thibaut Courtois | Diego Godín | 38 | 52 | 40
+EDGE Thibaut Courtois | Juanfran Torres | 32 | 52 | 35
+EDGE Thibaut Courtois | Koke | 17 | 52 | 21
+EDGE Thibaut Courtois | Eduardo Salvio | 21 | 52 | 24
+EDGE Thibaut Courtois | Tiago Mendes | 25 | 52 | 27
+EDGE Thibaut Courtois | José Antonio Reyes | 8 | 52 | 12
+EDGE Thibaut Courtois | Sílvio | 9 | 52 | 12
+EDGE Thibaut Courtois | Paulo Assunção | 7 | 52 | 11
+EDGE Thibaut Courtois | Antonio López | 4 | 52 | 6
+EDGE Thibaut Courtois | Pizzi | 1 | 52 | 2
+EDGE Álvaro Domínguez | Miranda | 14 | 31 | 40
+EDGE Álvaro Domínguez | Filipe Luís | 26 | 31 | 52
+EDGE Álvaro Domínguez | Luis Amaranto Perea | 14 | 31 | 23
+EDGE Álvaro Domínguez | Mario Suárez | 17 | 31 | 37
+EDGE Álvaro Domínguez | Gabi | 24 | 31 | 47
+EDGE Álvaro Domínguez | Arda Turan | 17 | 31 | 34
+EDGE Álvaro Domínguez | Diego | 19 | 31 | 39
+EDGE Álvaro Domínguez | Adrián López | 23 | 31 | 46
+EDGE Álvaro Domínguez | Radamel Falcao | 22 | 31 | 47
+EDGE Álvaro Domínguez | Juanfran Torres | 15 | 31 | 35
+EDGE Álvaro Domínguez | Tiago Mendes | 15 | 31 | 27
+EDGE Álvaro Domínguez | José Antonio Reyes | 9 | 31 | 12
+EDGE Álvaro Domínguez | Diego Godín | 13 | 31 | 40
+EDGE Álvaro Domínguez | Paulo Assunção | 8 | 31 | 11
+EDGE Álvaro Domínguez | Koke | 9 | 31 | 21
+EDGE Álvaro Domínguez | Eduardo Salvio | 16 | 31 | 24
+EDGE Álvaro Domínguez | Antonio López | 4 | 31 | 6
+EDGE Álvaro Domínguez | Sílvio | 9 | 31 | 12
+EDGE Álvaro Domínguez | Sergio Asenjo | 3 | 31 | 4
+EDGE Álvaro Domínguez | Jorge Pulido | 1 | 31 | 1
+EDGE Álvaro Domínguez | Javier Manquillo | 1 | 31 | 1
+EDGE Álvaro Domínguez | Pizzi | 1 | 31 | 2
+EDGE Álvaro Domínguez | Joel Robles | 3 | 31 | 3
+EDGE Álvaro Domínguez | Diego Forlán | 2 | 31 | 2
+EDGE Miranda | Filipe Luís | 36 | 40 | 52
+EDGE Miranda | Luis Amaranto Perea | 11 | 40 | 23
+EDGE Miranda | Mario Suárez | 30 | 40 | 37
+EDGE Miranda | Gabi | 32 | 40 | 47
+EDGE Miranda | Arda Turan | 22 | 40 | 34
+EDGE Miranda | Diego | 26 | 40 | 39
+EDGE Miranda | Adrián López | 31 | 40 | 46
+EDGE Miranda | Radamel Falcao | 33 | 40 | 47
+EDGE Miranda | Diego Godín | 27 | 40 | 40
+EDGE Miranda | Juanfran Torres | 26 | 40 | 35
+EDGE Miranda | Koke | 17 | 40 | 21
+EDGE Miranda | Eduardo Salvio | 13 | 40 | 24
+EDGE Miranda | Tiago Mendes | 18 | 40 | 27
+EDGE Miranda | José Antonio Reyes | 8 | 40 | 12
+EDGE Miranda | Sílvio | 7 | 40 | 12
+EDGE Miranda | Paulo Assunção | 5 | 40 | 11
+EDGE Miranda | Antonio López | 2 | 40 | 6
+EDGE Miranda | Sergio Asenjo | 2 | 40 | 4
+EDGE Miranda | Joel Robles | 1 | 40 | 3
+EDGE Miranda | Diego Forlán | 1 | 40 | 2
+EDGE Miranda | Pizzi | 1 | 40 | 2
+EDGE Filipe Luís | Luis Amaranto Perea | 18 | 52 | 23
+EDGE Filipe Luís | Mario Suárez | 33 | 52 | 37
+EDGE Filipe Luís | Gabi | 41 | 52 | 47
+EDGE Filipe Luís | Arda Turan | 32 | 52 | 34
+EDGE Filipe Luís | Diego | 36 | 52 | 39
+EDGE Filipe Luís | Adrián López | 41 | 52 | 46
+EDGE Filipe Luís | Radamel Falcao | 43 | 52 | 47
+EDGE Filipe Luís | Diego Godín | 35 | 52 | 40
+EDGE Filipe Luís | Juanfran Torres | 32 | 52 | 35
+EDGE Filipe Luís | Koke | 17 | 52 | 21
+EDGE Filipe Luís | Eduardo Salvio | 20 | 52 | 24
+EDGE Filipe Luís | Tiago Mendes | 26 | 52 | 27
+EDGE Filipe Luís | José Antonio Reyes | 10 | 52 | 12
+EDGE Filipe Luís | Sílvio | 11 | 52 | 12
+EDGE Filipe Luís | Paulo Assunção | 8 | 52 | 11
+EDGE Filipe Luís | Sergio Asenjo | 3 | 52 | 4
+EDGE Filipe Luís | Joel Robles | 2 | 52 | 3
+EDGE Filipe Luís | Diego Forlán | 1 | 52 | 2
+EDGE Filipe Luís | Pizzi | 1 | 52 | 2
+EDGE Filipe Luís | Antonio López | 1 | 52 | 6
+EDGE Luis Amaranto Perea | Mario Suárez | 14 | 23 | 37
+EDGE Luis Amaranto Perea | Gabi | 19 | 23 | 47
+EDGE Luis Amaranto Perea | Arda Turan | 12 | 23 | 34
+EDGE Luis Amaranto Perea | Diego | 16 | 23 | 39
+EDGE Luis Amaranto Perea | Adrián López | 15 | 23 | 46
+EDGE Luis Amaranto Perea | Radamel Falcao | 16 | 23 | 47
+EDGE Luis Amaranto Perea | Diego Godín | 14 | 23 | 40
+EDGE Luis Amaranto Perea | Juanfran Torres | 7 | 23 | 35
+EDGE Luis Amaranto Perea | Koke | 7 | 23 | 21
+EDGE Luis Amaranto Perea | Eduardo Salvio | 12 | 23 | 24
+EDGE Luis Amaranto Perea | Tiago Mendes | 9 | 23 | 27
+EDGE Luis Amaranto Perea | Paulo Assunção | 6 | 23 | 11
+EDGE Luis Amaranto Perea | Antonio López | 4 | 23 | 6
+EDGE Luis Amaranto Perea | Sílvio | 4 | 23 | 12
+EDGE Luis Amaranto Perea | José Antonio Reyes | 7 | 23 | 12
+EDGE Luis Amaranto Perea | Joel Robles | 2 | 23 | 3
+EDGE Luis Amaranto Perea | Diego Forlán | 1 | 23 | 2
+EDGE Luis Amaranto Perea | Sergio Asenjo | 2 | 23 | 4
+EDGE Luis Amaranto Perea | Pizzi | 1 | 23 | 2
+EDGE Mario Suárez | Gabi | 28 | 37 | 47
+EDGE Mario Suárez | Arda Turan | 21 | 37 | 34
+EDGE Mario Suárez | Diego | 24 | 37 | 39
+EDGE Mario Suárez | Adrián López | 29 | 37 | 46
+EDGE Mario Suárez | Radamel Falcao | 30 | 37 | 47
+EDGE Mario Suárez | Diego Godín | 23 | 37 | 40
+EDGE Mario Suárez | Juanfran Torres | 20 | 37 | 35
+EDGE Mario Suárez | Koke | 14 | 37 | 21
+EDGE Mario Suárez | Eduardo Salvio | 14 | 37 | 24
+EDGE Mario Suárez | Tiago Mendes | 16 | 37 | 27
+EDGE Mario Suárez | José Antonio Reyes | 9 | 37 | 12
+EDGE Mario Suárez | Sílvio | 8 | 37 | 12
+EDGE Mario Suárez | Antonio López | 3 | 37 | 6
+EDGE Mario Suárez | Sergio Asenjo | 1 | 37 | 4
+EDGE Mario Suárez | Joel Robles | 1 | 37 | 3
+EDGE Gabi | Arda Turan | 26 | 47 | 34
+EDGE Gabi | Diego | 30 | 47 | 39
+EDGE Gabi | Adrián López | 36 | 47 | 46
+EDGE Gabi | Radamel Falcao | 37 | 47 | 47
+EDGE Gabi | Diego Godín | 32 | 47 | 40
+EDGE Gabi | Juanfran Torres | 30 | 47 | 35
+EDGE Gabi | Koke | 16 | 47 | 21
+EDGE Gabi | Eduardo Salvio | 19 | 47 | 24
+EDGE Gabi | Tiago Mendes | 18 | 47 | 27
+EDGE Gabi | José Antonio Reyes | 10 | 47 | 12
+EDGE Gabi | Paulo Assunção | 8 | 47 | 11
+EDGE Gabi | Antonio López | 5 | 47 | 6
+EDGE Gabi | Sílvio | 9 | 47 | 12
+EDGE Gabi | Joel Robles | 3 | 47 | 3
+EDGE Gabi | Diego Forlán | 2 | 47 | 2
+EDGE Gabi | Sergio Asenjo | 2 | 47 | 4
+EDGE Gabi | Pizzi | 1 | 47 | 2
+EDGE Arda Turan | Diego | 26 | 34 | 39
+EDGE Arda Turan | Adrián López | 26 | 34 | 46
+EDGE Arda Turan | Radamel Falcao | 30 | 34 | 47
+EDGE Arda Turan | Diego Godín | 26 | 34 | 40
+EDGE Arda Turan | Juanfran Torres | 18 | 34 | 35
+EDGE Arda Turan | Tiago Mendes | 13 | 34 | 27
+EDGE Arda Turan | Koke | 10 | 34 | 21
+EDGE Arda Turan | Sílvio | 6 | 34 | 12
+EDGE Arda Turan | Paulo Assunção | 6 | 34 | 11
+EDGE Arda Turan | Eduardo Salvio | 9 | 34 | 24
+EDGE Arda Turan | Antonio López | 3 | 34 | 6
+EDGE Arda Turan | José Antonio Reyes | 3 | 34 | 12
+EDGE Arda Turan | Sergio Asenjo | 1 | 34 | 4
+EDGE Diego | Adrián López | 27 | 39 | 46
+EDGE Diego | Radamel Falcao | 35 | 39 | 47
+EDGE Diego | Diego Godín | 30 | 39 | 40
+EDGE Diego | Juanfran Torres | 22 | 39 | 35
+EDGE Diego | Tiago Mendes | 19 | 39 | 27
+EDGE Diego | José Antonio Reyes | 6 | 39 | 12
+EDGE Diego | Sílvio | 5 | 39 | 12
+EDGE Diego | Antonio López | 4 | 39 | 6
+EDGE Diego | Koke | 7 | 39 | 21
+EDGE Diego | Paulo Assunção | 6 | 39 | 11
+EDGE Diego | Eduardo Salvio | 12 | 39 | 24
+EDGE Diego | Sergio Asenjo | 3 | 39 | 4
+EDGE Diego | Pizzi | 1 | 39 | 2
+EDGE Adrián López | Radamel Falcao | 34 | 46 | 47
+EDGE Adrián López | Diego Godín | 32 | 46 | 40
+EDGE Adrián López | Juanfran Torres | 30 | 46 | 35
+EDGE Adrián López | Koke | 18 | 46 | 21
+EDGE Adrián López | Eduardo Salvio | 19 | 46 | 24
+EDGE Adrián López | Tiago Mendes | 21 | 46 | 27
+EDGE Adrián López | Sílvio | 9 | 46 | 12
+EDGE Adrián López | Paulo Assunção | 8 | 46 | 11
+EDGE Adrián López | Antonio López | 4 | 46 | 6
+EDGE Adrián López | Sergio Asenjo | 3 | 46 | 4
+EDGE Adrián López | Jorge Pulido | 1 | 46 | 1
+EDGE Adrián López | Javier Manquillo | 1 | 46 | 1
+EDGE Adrián López | Pizzi | 1 | 46 | 2
+EDGE Adrián López | José Antonio Reyes | 6 | 46 | 12
+EDGE Adrián López | Joel Robles | 3 | 46 | 3
+EDGE Adrián López | Diego Forlán | 2 | 46 | 2
+EDGE Radamel Falcao | Diego Godín | 36 | 47 | 40
+EDGE Radamel Falcao | Juanfran Torres | 30 | 47 | 35
+EDGE Radamel Falcao | Koke | 18 | 47 | 21
+EDGE Radamel Falcao | Eduardo Salvio | 13 | 47 | 24
+EDGE Radamel Falcao | Tiago Mendes | 21 | 47 | 27
+EDGE Radamel Falcao | José Antonio Reyes | 7 | 47 | 12
+EDGE Radamel Falcao | Sílvio | 6 | 47 | 12
+EDGE Radamel Falcao | Paulo Assunção | 7 | 47 | 11
+EDGE Radamel Falcao | Antonio López | 4 | 47 | 6
+EDGE Radamel Falcao | Sergio Asenjo | 3 | 47 | 4
+EDGE Radamel Falcao | Pizzi | 1 | 47 | 2
+EDGE Diego Godín | Juanfran Torres | 26 | 40 | 35
+EDGE Diego Godín | Koke | 16 | 40 | 21
+EDGE Diego Godín | Eduardo Salvio | 14 | 40 | 24
+EDGE Diego Godín | Tiago Mendes | 16 | 40 | 27
+EDGE Diego Godín | Sílvio | 4 | 40 | 12
+EDGE Diego Godín | Paulo Assunção | 8 | 40 | 11
+EDGE Diego Godín | Antonio López | 4 | 40 | 6
+EDGE Diego Godín | José Antonio Reyes | 3 | 40 | 12
+EDGE Diego Godín | Sergio Asenjo | 2 | 40 | 4
+EDGE Diego Godín | Pizzi | 1 | 40 | 2
+EDGE Juanfran Torres | Koke | 15 | 35 | 21
+EDGE Juanfran Torres | Eduardo Salvio | 14 | 35 | 24
+EDGE Juanfran Torres | Tiago Mendes | 16 | 35 | 27
+EDGE Juanfran Torres | José Antonio Reyes | 2 | 35 | 12
+EDGE Juanfran Torres | Paulo Assunção | 5 | 35 | 11
+EDGE Juanfran Torres | Sergio Asenjo | 2 | 35 | 4
+EDGE Juanfran Torres | Jorge Pulido | 1 | 35 | 1
+EDGE Juanfran Torres | Antonio López | 1 | 35 | 6
+EDGE Juanfran Torres | Javier Manquillo | 1 | 35 | 1
+EDGE Juanfran Torres | Pizzi | 2 | 35 | 2
+EDGE Juanfran Torres | Joel Robles | 1 | 35 | 3
+EDGE Juanfran Torres | Sílvio | 1 | 35 | 12
+EDGE Juanfran Torres | Diego Forlán | 1 | 35 | 2
+EDGE Koke | Eduardo Salvio | 8 | 21 | 24
+EDGE Koke | Paulo Assunção | 6 | 21 | 11
+EDGE Koke | Sílvio | 1 | 21 | 12
+EDGE Koke | Sergio Asenjo | 4 | 21 | 4
+EDGE Koke | Jorge Pulido | 1 | 21 | 1
+EDGE Koke | Antonio López | 2 | 21 | 6
+EDGE Koke | Javier Manquillo | 1 | 21 | 1
+EDGE Koke | Pizzi | 1 | 21 | 2
+EDGE Koke | Tiago Mendes | 4 | 21 | 27
+EDGE Koke | José Antonio Reyes | 1 | 21 | 12
+EDGE Eduardo Salvio | Paulo Assunção | 6 | 24 | 11
+EDGE Eduardo Salvio | Sílvio | 6 | 24 | 12
+EDGE Eduardo Salvio | Sergio Asenjo | 1 | 24 | 4
+EDGE Eduardo Salvio | Jorge Pulido | 1 | 24 | 1
+EDGE Eduardo Salvio | Antonio López | 2 | 24 | 6
+EDGE Eduardo Salvio | Javier Manquillo | 1 | 24 | 1
+EDGE Eduardo Salvio | Pizzi | 1 | 24 | 2
+EDGE Eduardo Salvio | Tiago Mendes | 11 | 24 | 27
+EDGE Eduardo Salvio | José Antonio Reyes | 4 | 24 | 12
+EDGE Eduardo Salvio | Joel Robles | 2 | 24 | 3
+EDGE Eduardo Salvio | Diego Forlán | 1 | 24 | 2
+EDGE Tiago Mendes | José Antonio Reyes | 9 | 27 | 12
+EDGE Tiago Mendes | Sílvio | 8 | 27 | 12
+EDGE Tiago Mendes | Antonio López | 2 | 27 | 6
+EDGE Tiago Mendes | Joel Robles | 2 | 27 | 3
+EDGE Tiago Mendes | Diego Forlán | 1 | 27 | 2
+EDGE José Antonio Reyes | Sílvio | 8 | 12 | 12
+EDGE José Antonio Reyes | Paulo Assunção | 2 | 12 | 11
+EDGE José Antonio Reyes | Joel Robles | 3 | 12 | 3
+EDGE José Antonio Reyes | Antonio López | 2 | 12 | 6
+EDGE José Antonio Reyes | Diego Forlán | 2 | 12 | 2
+EDGE José Antonio Reyes | Sergio Asenjo | 1 | 12 | 4
+EDGE Sílvio | Paulo Assunção | 3 | 12 | 11
+EDGE Sílvio | Joel Robles | 3 | 12 | 3
+EDGE Sílvio | Antonio López | 1 | 12 | 6
+EDGE Sílvio | Diego Forlán | 2 | 12 | 2
+EDGE Paulo Assunção | Sergio Asenjo | 3 | 11 | 4
+EDGE Paulo Assunção | Jorge Pulido | 1 | 11 | 1
+EDGE Paulo Assunção | Antonio López | 2 | 11 | 6
+EDGE Paulo Assunção | Javier Manquillo | 1 | 11 | 1
+EDGE Paulo Assunção | Pizzi | 2 | 11 | 2
+EDGE Paulo Assunção | Joel Robles | 1 | 11 | 3
+EDGE Paulo Assunção | Diego Forlán | 1 | 11 | 2
+EDGE Antonio López | Sergio Asenjo | 1 | 6 | 4
+EDGE Antonio López | Jorge Pulido | 1 | 6 | 1
+EDGE Antonio López | Javier Manquillo | 1 | 6 | 1
+EDGE Antonio López | Pizzi | 1 | 6 | 2
+EDGE Antonio López | Joel Robles | 1 | 6 | 3
+EDGE Antonio López | Diego Forlán | 1 | 6 | 2
+EDGE Sergio Asenjo | Jorge Pulido | 1 | 4 | 1
+EDGE Sergio Asenjo | Javier Manquillo | 1 | 4 | 1
+EDGE Sergio Asenjo | Pizzi | 1 | 4 | 2
+EDGE Jorge Pulido | Javier Manquillo | 1 | 1 | 1
+EDGE Jorge Pulido | Pizzi | 1 | 1 | 2
+EDGE Javier Manquillo | Pizzi | 1 | 1 | 2
+EDGE Joel Robles | Diego Forlán | 2 | 3 | 2

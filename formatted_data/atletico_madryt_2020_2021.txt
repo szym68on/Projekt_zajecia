@@ -1,0 +1,148 @@
+# Team: Atlético Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3497870 | śr., 06.01.2021 | UE Cornellà
+PLAYERS: Miguel San Román, José María Giménez, Felipe, Renan Lodi, Ricard Sánchez, Geoffrey Kondogbia, Lucas Torreira, Saúl Ñíguez, Vitolo, João Félix, Ángel Correa
+
+MATCH: 3451056 | wt., 22.12.2020 | Real Sociedad
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Felipe, Marcos Llorente, Koke, Kieran Trippier, Yannick Carrasco, Thomas Lemar, Ángel Correa, Luis Suárez
+
+MATCH: 3461711 | śr., 21.10.2020 | Bayern Monachium
+PLAYERS: Jan Oblak, Stefan Savic, Felipe, Renan Lodi, Kieran Trippier, Héctor Herrera, Koke, Marcos Llorente, Yannick Carrasco, João Félix, Luis Suárez
+
+MATCH: 3487492 | śr., 16.12.2020 | CD Cardassar
+PLAYERS: Ivo Grbic, Mario Hermoso, Felipe, Renan Lodi, Ricard Sánchez, Geoffrey Kondogbia, Lucas Torreira, Saúl Ñíguez, Vitolo, Thomas Lemar, Ángel Correa
+
+MATCH: 3451398 | niedz., 11.04.2021 | Real Betis Balompié
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Saúl Ñíguez, Koke, Héctor Herrera, Kieran Trippier, Yannick Carrasco, João Félix, Ángel Correa
+
+MATCH: 3451070 | niedz., 03.01.2021 | Deportivo Alavés
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Felipe, Koke, Sime Vrsaljko, Yannick Carrasco, Marcos Llorente, Thomas Lemar, Ángel Correa, Luis Suárez
+
+MATCH: 3451481 | sob., 22.05.2021 | Real Valladolid CF
+PLAYERS: Jan Oblak, José María Giménez, Felipe, Mario Hermoso, Kieran Trippier, Koke, Marcos Llorente, Saúl Ñíguez, Yannick Carrasco, Ángel Correa, Luis Suárez
+
+MATCH: 3431939 | śr., 30.09.2020 | SD Huesca
+PLAYERS: Jan Oblak, Mario Hermoso, Felipe, Renan Lodi, Kieran Trippier, Thomas Partey, Saúl Ñíguez, Marcos Llorente, Vitolo, João Félix, Luis Suárez
+
+MATCH: 3431905 | wt., 12.01.2021 | Sevilla FC
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Koke, Marcos Llorente, Thomas Lemar, Kieran Trippier, Yannick Carrasco, Ángel Correa, Luis Suárez
+
+MATCH: 3451151 | sob., 13.02.2021 | Granada CF
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Felipe, Geoffrey Kondogbia, Marcos Llorente, Koke, Yannick Carrasco, Saúl Ñíguez, Ángel Correa, Luis Suárez
+
+MATCH: 3451392 | niedz., 04.04.2021 | Sevilla FC
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Felipe, Koke, Saúl Ñíguez, Kieran Trippier, Renan Lodi, Marcos Llorente, Thomas Lemar, Luis Suárez
+
+MATCH: 3451019 | sob., 28.11.2020 | Valencia CF
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Saúl Ñíguez, Koke, Kieran Trippier, Renan Lodi, Marcos Llorente, Thomas Lemar, Ángel Correa
+
+MATCH: 3451374 | niedz., 21.03.2021 | Deportivo Alavés
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Koke, Kieran Trippier, Yannick Carrasco, Marcos Llorente, Thomas Lemar, Ángel Correa, Luis Suárez
+
+MATCH: 3451041 | sob., 19.12.2020 | Elche CF
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Renan Lodi, Kieran Trippier, Marcos Llorente, Koke, Yannick Carrasco, Thomas Lemar, João Félix, Luis Suárez
+
+MATCH: 3451002 | sob., 21.11.2020 | FC Barcelona
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Saúl Ñíguez, Koke, Kieran Trippier, Yannick Carrasco, Marcos Llorente, João Félix, Ángel Correa
+
+MATCH: 3450990 | sob., 07.11.2020 | Cádiz CF
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Héctor Herrera, Koke, Kieran Trippier, Saúl Ñíguez, Marcos Llorente, João Félix, Luis Suárez
+
+MATCH: 3441589 | sob., 03.10.2020 | Villarreal CF
+PLAYERS: Jan Oblak, Stefan Savic, Felipe, Renan Lodi, Kieran Trippier, Thomas Partey, Koke, Saúl Ñíguez, Ángel Correa, João Félix, Luis Suárez
+
+MATCH: 3451157 | sob., 20.02.2021 | Levante UD
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Felipe, Geoffrey Kondogbia, Koke, Marcos Llorente, Renan Lodi, Ángel Correa, João Félix, Luis Suárez
+
+MATCH: 3450985 | sob., 31.10.2020 | CA Osasuna
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Mario Hermoso, Kieran Trippier, Héctor Herrera, Koke, Marcos Llorente, Vitolo, Ángel Correa, João Félix
+
+MATCH: 3451404 | czw., 22.04.2021 | SD Huesca
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Renan Lodi, Kieran Trippier, Koke, Héctor Herrera, Saúl Ñíguez, Yannick Carrasco, Marcos Llorente, Ángel Correa
+
+MATCH: 3451465 | niedz., 16.05.2021 | CA Osasuna
+PLAYERS: Jan Oblak, Stefan Savic, Felipe, Mario Hermoso, Kieran Trippier, Koke, Marcos Llorente, Saúl Ñíguez, Yannick Carrasco, Ángel Correa, Luis Suárez
+
+MATCH: 3461749 | wt., 03.11.2020 | Lokomotiw Moskwa
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Renan Lodi, Kieran Trippier, Héctor Herrera, Saúl Ñíguez, Marcos Llorente, João Félix, Ángel Correa, Luis Suárez
+
+MATCH: 3451425 | niedz., 18.04.2021 | SD Eibar
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Renan Lodi, Kieran Trippier, Koke, Héctor Herrera, Saúl Ñíguez, Yannick Carrasco, Marcos Llorente, Ángel Correa
+
+MATCH: 3496450 | wt., 23.02.2021 | Chelsea FC
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Felipe, Saúl Ñíguez, Koke, Marcos Llorente, Thomas Lemar, Ángel Correa, João Félix, Luis Suárez
+
+MATCH: 3431920 | śr., 17.02.2021 | Levante UD
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Koke, Saúl Ñíguez, Sime Vrsaljko, Yannick Carrasco, Marcos Llorente, Ángel Correa, Luis Suárez
+
+MATCH: 3451130 | pon., 08.02.2021 | Celta de Vigo
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Felipe, Geoffrey Kondogbia, Saúl Ñíguez, Koke, Marcos Llorente, Renan Lodi, Ángel Correa, Luis Suárez
+
+MATCH: 3451093 | czw., 21.01.2021 | SD Eibar
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Felipe, Saúl Ñíguez, Sime Vrsaljko, Yannick Carrasco, Marcos Llorente, Thomas Lemar, Ángel Correa, Luis Suárez
+
+MATCH: 3461734 | wt., 27.10.2020 | Red Bull Salzburg
+PLAYERS: Jan Oblak, Stefan Savic, Felipe, Renan Lodi, Kieran Trippier, Héctor Herrera, Koke, Marcos Llorente, João Félix, Ángel Correa, Luis Suárez
+
+MATCH: 3451022 | sob., 05.12.2020 | Real Valladolid CF
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Felipe, Saúl Ñíguez, Héctor Herrera, Kieran Trippier, Vitolo, Thomas Lemar, Ángel Correa, Luis Suárez
+
+MATCH: 3451453 | śr., 12.05.2021 | Real Sociedad
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Felipe, Koke, Marcos Llorente, Saúl Ñíguez, Kieran Trippier, Yannick Carrasco, Ángel Correa, Luis Suárez
+
+MATCH: 3461766 | śr., 25.11.2020 | Lokomotiw Moskwa
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Renan Lodi, Kieran Trippier, Saúl Ñíguez, Koke, Marcos Llorente, Yannick Carrasco, João Félix, Ángel Correa
+
+MATCH: 3450970 | sob., 24.10.2020 | Real Betis Balompié
+PLAYERS: Jan Oblak, Stefan Savic, Felipe, Mario Hermoso, Kieran Trippier, Lucas Torreira, Marcos Llorente, Koke, Thomas Lemar, Ángel Correa, Luis Suárez
+
+MATCH: 3451061 | śr., 30.12.2020 | Getafe CF
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Felipe, Koke, Sime Vrsaljko, Yannick Carrasco, Marcos Llorente, Thomas Lemar, João Félix, Luis Suárez
+
+MATCH: 3451102 | niedz., 24.01.2021 | Valencia CF
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Koke, Marcos Llorente, Thomas Lemar, Sime Vrsaljko, Yannick Carrasco, João Félix, Luis Suárez
+
+MATCH: 3461809 | śr., 09.12.2020 | Red Bull Salzburg
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Felipe, Saúl Ñíguez, Koke, Kieran Trippier, Yannick Carrasco, Marcos Llorente, João Félix, Luis Suárez
+
+MATCH: 3450962 | sob., 17.10.2020 | Celta de Vigo
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Manu Sánchez, Kieran Trippier, Lucas Torreira, Koke, Thomas Lemar, Ángel Correa, Luis Suárez, Diego Costa
+
+MATCH: 3451080 | śr., 10.03.2021 | Athletic Bilbao
+PLAYERS: Jan Oblak, Stefan Savic, Felipe, Mario Hermoso, Kieran Trippier, Koke, Marcos Llorente, Thomas Lemar, Yannick Carrasco, João Félix, Luis Suárez
+
+MATCH: 3451036 | sob., 12.12.2020 | Real Madryt
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Felipe, Héctor Herrera, Koke, Kieran Trippier, Yannick Carrasco, Marcos Llorente, João Félix, Luis Suárez
+
+MATCH: 3451111 | niedz., 31.01.2021 | Cádiz CF
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Felipe, Lucas Torreira, Koke, Marcos Llorente, Saúl Ñíguez, Thomas Lemar, João Félix, Luis Suárez
+
+MATCH: 3451413 | niedz., 25.04.2021 | Athletic Bilbao
+PLAYERS: Jan Oblak, Stefan Savic, Felipe, Renan Lodi, Kieran Trippier, Héctor Herrera, Saúl Ñíguez, Koke, Marcos Llorente, Yannick Carrasco, Ángel Correa
+
+MATCH: 3451208 | sob., 13.03.2021 | Getafe CF
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Mario Hermoso, Kieran Trippier, Koke, Marcos Llorente, Saúl Ñíguez, Yannick Carrasco, Ángel Correa, Luis Suárez
+
+MATCH: 3451445 | sob., 08.05.2021 | FC Barcelona
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Felipe, Koke, Marcos Llorente, Thomas Lemar, Kieran Trippier, Yannick Carrasco, Ángel Correa, Luis Suárez
+
+MATCH: 3431925 | niedz., 27.09.2020 | Granada CF
+PLAYERS: Jan Oblak, Stefan Savic, Felipe, Renan Lodi, Kieran Trippier, Saúl Ñíguez, Koke, Yannick Carrasco, Ángel Correa, João Félix, Diego Costa
+
+MATCH: 3461803 | wt., 01.12.2020 | Bayern Monachium
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Koke, Saúl Ñíguez, Kieran Trippier, Yannick Carrasco, Marcos Llorente, João Félix, Ángel Correa
+
+MATCH: 3451183 | niedz., 28.02.2021 | Villarreal CF
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Felipe, Koke, Sime Vrsaljko, Saúl Ñíguez, Marcos Llorente, Thomas Lemar, Ángel Correa, Luis Suárez
+
+MATCH: 3451193 | niedz., 07.03.2021 | Real Madryt
+PLAYERS: Jan Oblak, Stefan Savic, Felipe, Mario Hermoso, Kieran Trippier, Koke, Marcos Llorente, Thomas Lemar, Yannick Carrasco, Ángel Correa, Luis Suárez
+
+MATCH: 3451435 | sob., 01.05.2021 | Elche CF
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Geoffrey Kondogbia, Kieran Trippier, Yannick Carrasco, Marcos Llorente, Thomas Lemar, Ángel Correa, Luis Suárez
+
+MATCH: 3496458 | śr., 17.03.2021 | Chelsea FC
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Renan Lodi, Kieran Trippier, Saúl Ñíguez, Koke, Marcos Llorente, Yannick Carrasco, João Félix, Luis Suárez
+

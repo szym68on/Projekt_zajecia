@@ -1,0 +1,269 @@
+# Graph for Java/GraphStream
+# Nodes: 25
+# Edges: 263
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Gorka Iraizoz | Aymeric Laporte | 36 | 42 | 48
+EDGE Gorka Iraizoz | Xabi Etxeita | 21 | 42 | 32
+EDGE Gorka Iraizoz | Mikel Balenziaga | 38 | 42 | 48
+EDGE Gorka Iraizoz | Andoni Iraola | 16 | 42 | 25
+EDGE Gorka Iraizoz | Ander Iturraspe | 25 | 42 | 30
+EDGE Gorka Iraizoz | Mikel Rico | 37 | 42 | 48
+EDGE Gorka Iraizoz | Unai López | 11 | 42 | 12
+EDGE Gorka Iraizoz | Óscar de Marcos | 35 | 42 | 48
+EDGE Gorka Iraizoz | Borja Viguera | 9 | 42 | 14
+EDGE Gorka Iraizoz | Guillermo Fernández | 8 | 42 | 9
+EDGE Gorka Iraizoz | Carlos Gurpegui | 19 | 42 | 25
+EDGE Gorka Iraizoz | Mikel San José | 24 | 42 | 36
+EDGE Gorka Iraizoz | Beñat Etxebarria | 23 | 42 | 33
+EDGE Gorka Iraizoz | Ibai Gómez | 13 | 42 | 17
+EDGE Gorka Iraizoz | Markel Susaeta | 26 | 42 | 31
+EDGE Gorka Iraizoz | Iker Muniain | 30 | 42 | 38
+EDGE Gorka Iraizoz | Aritz Aduriz | 32 | 42 | 41
+EDGE Gorka Iraizoz | Jon Aurtenetxe | 3 | 42 | 6
+EDGE Gorka Iraizoz | Iñaki Williams | 11 | 42 | 20
+EDGE Gorka Iraizoz | Erik Morán | 1 | 42 | 2
+EDGE Gorka Iraizoz | Ager Aketxe | 2 | 42 | 4
+EDGE Aymeric Laporte | Xabi Etxeita | 23 | 48 | 32
+EDGE Aymeric Laporte | Mikel Balenziaga | 40 | 48 | 48
+EDGE Aymeric Laporte | Andoni Iraola | 21 | 48 | 25
+EDGE Aymeric Laporte | Ander Iturraspe | 27 | 48 | 30
+EDGE Aymeric Laporte | Mikel Rico | 41 | 48 | 48
+EDGE Aymeric Laporte | Unai López | 9 | 48 | 12
+EDGE Aymeric Laporte | Óscar de Marcos | 40 | 48 | 48
+EDGE Aymeric Laporte | Borja Viguera | 13 | 48 | 14
+EDGE Aymeric Laporte | Guillermo Fernández | 8 | 48 | 9
+EDGE Aymeric Laporte | Carlos Gurpegui | 18 | 48 | 25
+EDGE Aymeric Laporte | Mikel San José | 29 | 48 | 36
+EDGE Aymeric Laporte | Beñat Etxebarria | 29 | 48 | 33
+EDGE Aymeric Laporte | Ibai Gómez | 14 | 48 | 17
+EDGE Aymeric Laporte | Markel Susaeta | 27 | 48 | 31
+EDGE Aymeric Laporte | Iago Herrerín | 12 | 48 | 15
+EDGE Aymeric Laporte | Iñaki Williams | 15 | 48 | 20
+EDGE Aymeric Laporte | Aritz Aduriz | 35 | 48 | 41
+EDGE Aymeric Laporte | Iker Muniain | 30 | 48 | 38
+EDGE Aymeric Laporte | Ager Aketxe | 4 | 48 | 4
+EDGE Aymeric Laporte | Jon Aurtenetxe | 5 | 48 | 6
+EDGE Aymeric Laporte | Unai Bustinza | 2 | 48 | 2
+EDGE Aymeric Laporte | Kike Sola | 1 | 48 | 1
+EDGE Aymeric Laporte | Erik Morán | 1 | 48 | 2
+EDGE Xabi Etxeita | Mikel Balenziaga | 26 | 32 | 48
+EDGE Xabi Etxeita | Andoni Iraola | 16 | 32 | 25
+EDGE Xabi Etxeita | Ander Iturraspe | 10 | 32 | 30
+EDGE Xabi Etxeita | Mikel Rico | 25 | 32 | 48
+EDGE Xabi Etxeita | Unai López | 7 | 32 | 12
+EDGE Xabi Etxeita | Óscar de Marcos | 28 | 32 | 48
+EDGE Xabi Etxeita | Borja Viguera | 7 | 32 | 14
+EDGE Xabi Etxeita | Guillermo Fernández | 4 | 32 | 9
+EDGE Xabi Etxeita | Iago Herrerín | 11 | 32 | 15
+EDGE Xabi Etxeita | Mikel San José | 24 | 32 | 36
+EDGE Xabi Etxeita | Beñat Etxebarria | 16 | 32 | 33
+EDGE Xabi Etxeita | Iñaki Williams | 15 | 32 | 20
+EDGE Xabi Etxeita | Aritz Aduriz | 25 | 32 | 41
+EDGE Xabi Etxeita | Iker Muniain | 21 | 32 | 38
+EDGE Xabi Etxeita | Markel Susaeta | 15 | 32 | 31
+EDGE Xabi Etxeita | Ager Aketxe | 2 | 32 | 4
+EDGE Xabi Etxeita | Jon Aurtenetxe | 4 | 32 | 6
+EDGE Xabi Etxeita | Ibai Gómez | 8 | 32 | 17
+EDGE Xabi Etxeita | Carlos Gurpegui | 8 | 32 | 25
+EDGE Xabi Etxeita | Erik Morán | 1 | 32 | 2
+EDGE Xabi Etxeita | Unai Bustinza | 2 | 32 | 2
+EDGE Xabi Etxeita | Kike Sola | 1 | 32 | 1
+EDGE Mikel Balenziaga | Andoni Iraola | 19 | 48 | 25
+EDGE Mikel Balenziaga | Ander Iturraspe | 28 | 48 | 30
+EDGE Mikel Balenziaga | Mikel Rico | 42 | 48 | 48
+EDGE Mikel Balenziaga | Unai López | 12 | 48 | 12
+EDGE Mikel Balenziaga | Óscar de Marcos | 41 | 48 | 48
+EDGE Mikel Balenziaga | Borja Viguera | 9 | 48 | 14
+EDGE Mikel Balenziaga | Guillermo Fernández | 8 | 48 | 9
+EDGE Mikel Balenziaga | Carlos Gurpegui | 20 | 48 | 25
+EDGE Mikel Balenziaga | Mikel San José | 29 | 48 | 36
+EDGE Mikel Balenziaga | Beñat Etxebarria | 26 | 48 | 33
+EDGE Mikel Balenziaga | Ibai Gómez | 14 | 48 | 17
+EDGE Mikel Balenziaga | Markel Susaeta | 29 | 48 | 31
+EDGE Mikel Balenziaga | Iago Herrerín | 10 | 48 | 15
+EDGE Mikel Balenziaga | Iñaki Williams | 14 | 48 | 20
+EDGE Mikel Balenziaga | Aritz Aduriz | 37 | 48 | 41
+EDGE Mikel Balenziaga | Iker Muniain | 34 | 48 | 38
+EDGE Mikel Balenziaga | Ager Aketxe | 2 | 48 | 4
+EDGE Mikel Balenziaga | Erik Morán | 1 | 48 | 2
+EDGE Mikel Balenziaga | Unai Bustinza | 1 | 48 | 2
+EDGE Andoni Iraola | Ander Iturraspe | 11 | 25 | 30
+EDGE Andoni Iraola | Mikel Rico | 19 | 25 | 48
+EDGE Andoni Iraola | Unai López | 4 | 25 | 12
+EDGE Andoni Iraola | Óscar de Marcos | 16 | 25 | 48
+EDGE Andoni Iraola | Borja Viguera | 5 | 25 | 14
+EDGE Andoni Iraola | Guillermo Fernández | 3 | 25 | 9
+EDGE Andoni Iraola | Iker Muniain | 15 | 25 | 38
+EDGE Andoni Iraola | Markel Susaeta | 14 | 25 | 31
+EDGE Andoni Iraola | Aritz Aduriz | 20 | 25 | 41
+EDGE Andoni Iraola | Iago Herrerín | 9 | 25 | 15
+EDGE Andoni Iraola | Mikel San José | 16 | 25 | 36
+EDGE Andoni Iraola | Beñat Etxebarria | 11 | 25 | 33
+EDGE Andoni Iraola | Ager Aketxe | 3 | 25 | 4
+EDGE Andoni Iraola | Iñaki Williams | 8 | 25 | 20
+EDGE Andoni Iraola | Jon Aurtenetxe | 3 | 25 | 6
+EDGE Andoni Iraola | Ibai Gómez | 5 | 25 | 17
+EDGE Andoni Iraola | Erik Morán | 2 | 25 | 2
+EDGE Andoni Iraola | Carlos Gurpegui | 11 | 25 | 25
+EDGE Andoni Iraola | Unai Bustinza | 2 | 25 | 2
+EDGE Andoni Iraola | Kike Sola | 1 | 25 | 1
+EDGE Ander Iturraspe | Mikel Rico | 28 | 30 | 48
+EDGE Ander Iturraspe | Unai López | 7 | 30 | 12
+EDGE Ander Iturraspe | Óscar de Marcos | 26 | 30 | 48
+EDGE Ander Iturraspe | Borja Viguera | 8 | 30 | 14
+EDGE Ander Iturraspe | Guillermo Fernández | 5 | 30 | 9
+EDGE Ander Iturraspe | Iker Muniain | 23 | 30 | 38
+EDGE Ander Iturraspe | Markel Susaeta | 19 | 30 | 31
+EDGE Ander Iturraspe | Aritz Aduriz | 20 | 30 | 41
+EDGE Ander Iturraspe | Mikel San José | 12 | 30 | 36
+EDGE Ander Iturraspe | Beñat Etxebarria | 16 | 30 | 33
+EDGE Ander Iturraspe | Carlos Gurpegui | 13 | 30 | 25
+EDGE Ander Iturraspe | Iago Herrerín | 5 | 30 | 15
+EDGE Ander Iturraspe | Ibai Gómez | 8 | 30 | 17
+EDGE Ander Iturraspe | Iñaki Williams | 5 | 30 | 20
+EDGE Ander Iturraspe | Erik Morán | 1 | 30 | 2
+EDGE Ander Iturraspe | Unai Bustinza | 1 | 30 | 2
+EDGE Ander Iturraspe | Kike Sola | 1 | 30 | 1
+EDGE Ander Iturraspe | Jon Aurtenetxe | 1 | 30 | 6
+EDGE Mikel Rico | Unai López | 11 | 48 | 12
+EDGE Mikel Rico | Óscar de Marcos | 42 | 48 | 48
+EDGE Mikel Rico | Borja Viguera | 12 | 48 | 14
+EDGE Mikel Rico | Guillermo Fernández | 8 | 48 | 9
+EDGE Mikel Rico | Carlos Gurpegui | 23 | 48 | 25
+EDGE Mikel Rico | Mikel San José | 27 | 48 | 36
+EDGE Mikel Rico | Beñat Etxebarria | 25 | 48 | 33
+EDGE Mikel Rico | Ibai Gómez | 13 | 48 | 17
+EDGE Mikel Rico | Markel Susaeta | 26 | 48 | 31
+EDGE Mikel Rico | Iago Herrerín | 11 | 48 | 15
+EDGE Mikel Rico | Iñaki Williams | 15 | 48 | 20
+EDGE Mikel Rico | Aritz Aduriz | 33 | 48 | 41
+EDGE Mikel Rico | Iker Muniain | 34 | 48 | 38
+EDGE Mikel Rico | Unai Bustinza | 2 | 48 | 2
+EDGE Mikel Rico | Kike Sola | 1 | 48 | 1
+EDGE Mikel Rico | Jon Aurtenetxe | 3 | 48 | 6
+EDGE Mikel Rico | Erik Morán | 1 | 48 | 2
+EDGE Mikel Rico | Ager Aketxe | 1 | 48 | 4
+EDGE Unai López | Óscar de Marcos | 10 | 12 | 48
+EDGE Unai López | Borja Viguera | 3 | 12 | 14
+EDGE Unai López | Guillermo Fernández | 1 | 12 | 9
+EDGE Unai López | Mikel San José | 9 | 12 | 36
+EDGE Unai López | Iker Muniain | 8 | 12 | 38
+EDGE Unai López | Markel Susaeta | 7 | 12 | 31
+EDGE Unai López | Aritz Aduriz | 9 | 12 | 41
+EDGE Unai López | Iago Herrerín | 1 | 12 | 15
+EDGE Unai López | Carlos Gurpegui | 4 | 12 | 25
+EDGE Unai López | Ibai Gómez | 3 | 12 | 17
+EDGE Unai López | Iñaki Williams | 2 | 12 | 20
+EDGE Unai López | Erik Morán | 1 | 12 | 2
+EDGE Unai López | Beñat Etxebarria | 1 | 12 | 33
+EDGE Óscar de Marcos | Borja Viguera | 11 | 48 | 14
+EDGE Óscar de Marcos | Guillermo Fernández | 9 | 48 | 9
+EDGE Óscar de Marcos | Carlos Gurpegui | 21 | 48 | 25
+EDGE Óscar de Marcos | Mikel San José | 30 | 48 | 36
+EDGE Óscar de Marcos | Beñat Etxebarria | 28 | 48 | 33
+EDGE Óscar de Marcos | Ibai Gómez | 14 | 48 | 17
+EDGE Óscar de Marcos | Markel Susaeta | 25 | 48 | 31
+EDGE Óscar de Marcos | Iago Herrerín | 13 | 48 | 15
+EDGE Óscar de Marcos | Iñaki Williams | 17 | 48 | 20
+EDGE Óscar de Marcos | Aritz Aduriz | 33 | 48 | 41
+EDGE Óscar de Marcos | Iker Muniain | 33 | 48 | 38
+EDGE Óscar de Marcos | Ager Aketxe | 2 | 48 | 4
+EDGE Óscar de Marcos | Unai Bustinza | 1 | 48 | 2
+EDGE Óscar de Marcos | Kike Sola | 1 | 48 | 1
+EDGE Óscar de Marcos | Jon Aurtenetxe | 4 | 48 | 6
+EDGE Borja Viguera | Guillermo Fernández | 3 | 14 | 9
+EDGE Borja Viguera | Iago Herrerín | 5 | 14 | 15
+EDGE Borja Viguera | Mikel San José | 9 | 14 | 36
+EDGE Borja Viguera | Beñat Etxebarria | 8 | 14 | 33
+EDGE Borja Viguera | Iñaki Williams | 6 | 14 | 20
+EDGE Borja Viguera | Aritz Aduriz | 6 | 14 | 41
+EDGE Borja Viguera | Markel Susaeta | 7 | 14 | 31
+EDGE Borja Viguera | Iker Muniain | 5 | 14 | 38
+EDGE Borja Viguera | Jon Aurtenetxe | 4 | 14 | 6
+EDGE Borja Viguera | Ibai Gómez | 4 | 14 | 17
+EDGE Borja Viguera | Carlos Gurpegui | 4 | 14 | 25
+EDGE Borja Viguera | Erik Morán | 1 | 14 | 2
+EDGE Borja Viguera | Ager Aketxe | 1 | 14 | 4
+EDGE Guillermo Fernández | Carlos Gurpegui | 4 | 9 | 25
+EDGE Guillermo Fernández | Mikel San José | 6 | 9 | 36
+EDGE Guillermo Fernández | Beñat Etxebarria | 5 | 9 | 33
+EDGE Guillermo Fernández | Ibai Gómez | 5 | 9 | 17
+EDGE Guillermo Fernández | Markel Susaeta | 5 | 9 | 31
+EDGE Guillermo Fernández | Iago Herrerín | 1 | 9 | 15
+EDGE Guillermo Fernández | Iñaki Williams | 3 | 9 | 20
+EDGE Guillermo Fernández | Iker Muniain | 3 | 9 | 38
+EDGE Guillermo Fernández | Aritz Aduriz | 1 | 9 | 41
+EDGE Carlos Gurpegui | Mikel San José | 10 | 25 | 36
+EDGE Carlos Gurpegui | Beñat Etxebarria | 16 | 25 | 33
+EDGE Carlos Gurpegui | Ibai Gómez | 7 | 25 | 17
+EDGE Carlos Gurpegui | Markel Susaeta | 14 | 25 | 31
+EDGE Carlos Gurpegui | Iker Muniain | 20 | 25 | 38
+EDGE Carlos Gurpegui | Aritz Aduriz | 17 | 25 | 41
+EDGE Carlos Gurpegui | Iago Herrerín | 6 | 25 | 15
+EDGE Carlos Gurpegui | Iñaki Williams | 9 | 25 | 20
+EDGE Carlos Gurpegui | Jon Aurtenetxe | 3 | 25 | 6
+EDGE Carlos Gurpegui | Erik Morán | 1 | 25 | 2
+EDGE Carlos Gurpegui | Ager Aketxe | 2 | 25 | 4
+EDGE Mikel San José | Beñat Etxebarria | 21 | 36 | 33
+EDGE Mikel San José | Ibai Gómez | 12 | 36 | 17
+EDGE Mikel San José | Markel Susaeta | 18 | 36 | 31
+EDGE Mikel San José | Iago Herrerín | 12 | 36 | 15
+EDGE Mikel San José | Iñaki Williams | 15 | 36 | 20
+EDGE Mikel San José | Aritz Aduriz | 27 | 36 | 41
+EDGE Mikel San José | Ager Aketxe | 3 | 36 | 4
+EDGE Mikel San José | Iker Muniain | 19 | 36 | 38
+EDGE Mikel San José | Jon Aurtenetxe | 4 | 36 | 6
+EDGE Mikel San José | Erik Morán | 1 | 36 | 2
+EDGE Mikel San José | Unai Bustinza | 2 | 36 | 2
+EDGE Mikel San José | Kike Sola | 1 | 36 | 1
+EDGE Beñat Etxebarria | Ibai Gómez | 10 | 33 | 17
+EDGE Beñat Etxebarria | Markel Susaeta | 14 | 33 | 31
+EDGE Beñat Etxebarria | Iago Herrerín | 10 | 33 | 15
+EDGE Beñat Etxebarria | Iñaki Williams | 15 | 33 | 20
+EDGE Beñat Etxebarria | Aritz Aduriz | 24 | 33 | 41
+EDGE Beñat Etxebarria | Ager Aketxe | 3 | 33 | 4
+EDGE Beñat Etxebarria | Iker Muniain | 23 | 33 | 38
+EDGE Beñat Etxebarria | Jon Aurtenetxe | 5 | 33 | 6
+EDGE Beñat Etxebarria | Unai Bustinza | 1 | 33 | 2
+EDGE Ibai Gómez | Markel Susaeta | 6 | 17 | 31
+EDGE Ibai Gómez | Iago Herrerín | 4 | 17 | 15
+EDGE Ibai Gómez | Iker Muniain | 8 | 17 | 38
+EDGE Ibai Gómez | Iñaki Williams | 8 | 17 | 20
+EDGE Ibai Gómez | Jon Aurtenetxe | 3 | 17 | 6
+EDGE Ibai Gómez | Aritz Aduriz | 8 | 17 | 41
+EDGE Ibai Gómez | Erik Morán | 1 | 17 | 2
+EDGE Ibai Gómez | Ager Aketxe | 2 | 17 | 4
+EDGE Markel Susaeta | Iker Muniain | 22 | 31 | 38
+EDGE Markel Susaeta | Aritz Aduriz | 24 | 31 | 41
+EDGE Markel Susaeta | Iago Herrerín | 5 | 31 | 15
+EDGE Markel Susaeta | Erik Morán | 2 | 31 | 2
+EDGE Markel Susaeta | Jon Aurtenetxe | 2 | 31 | 6
+EDGE Markel Susaeta | Ager Aketxe | 2 | 31 | 4
+EDGE Markel Susaeta | Iñaki Williams | 1 | 31 | 20
+EDGE Iago Herrerín | Iñaki Williams | 9 | 15 | 20
+EDGE Iago Herrerín | Aritz Aduriz | 9 | 15 | 41
+EDGE Iago Herrerín | Ager Aketxe | 2 | 15 | 4
+EDGE Iago Herrerín | Iker Muniain | 8 | 15 | 38
+EDGE Iago Herrerín | Unai Bustinza | 2 | 15 | 2
+EDGE Iago Herrerín | Kike Sola | 1 | 15 | 1
+EDGE Iago Herrerín | Jon Aurtenetxe | 3 | 15 | 6
+EDGE Iago Herrerín | Erik Morán | 1 | 15 | 2
+EDGE Iñaki Williams | Aritz Aduriz | 12 | 20 | 41
+EDGE Iñaki Williams | Ager Aketxe | 3 | 20 | 4
+EDGE Iñaki Williams | Iker Muniain | 10 | 20 | 38
+EDGE Iñaki Williams | Jon Aurtenetxe | 4 | 20 | 6
+EDGE Iñaki Williams | Unai Bustinza | 2 | 20 | 2
+EDGE Iñaki Williams | Kike Sola | 1 | 20 | 1
+EDGE Aritz Aduriz | Iker Muniain | 30 | 41 | 38
+EDGE Aritz Aduriz | Ager Aketxe | 3 | 41 | 4
+EDGE Aritz Aduriz | Jon Aurtenetxe | 3 | 41 | 6
+EDGE Aritz Aduriz | Erik Morán | 1 | 41 | 2
+EDGE Aritz Aduriz | Unai Bustinza | 1 | 41 | 2
+EDGE Iker Muniain | Erik Morán | 1 | 38 | 2
+EDGE Iker Muniain | Jon Aurtenetxe | 3 | 38 | 6
+EDGE Ager Aketxe | Jon Aurtenetxe | 2 | 4 | 6
+EDGE Ager Aketxe | Erik Morán | 1 | 4 | 2
+EDGE Jon Aurtenetxe | Erik Morán | 1 | 6 | 2
+EDGE Unai Bustinza | Kike Sola | 1 | 2 | 1

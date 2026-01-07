@@ -1,0 +1,163 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 4112957 | pon., 13.05.2024 | Real Sociedad
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Pau Cubarsí, João Cancelo, Jules Koundé, Andreas Christensen, Pedri, İlkay Gündoğan, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4112930 | niedz., 21.04.2024 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Pau Cubarsí, João Cancelo, Jules Koundé, Andreas Christensen, Frenkie de Jong, İlkay Gündoğan, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4113089 | sob., 25.11.2023 | Rayo Vallecano
+PLAYERS: Iñaki Peña, Iñigo Martínez, Andreas Christensen, Alejandro Balde, João Cancelo, Oriol Romeu, Pedri, Frenkie de Jong, Ferran Torres, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4113131 | niedz., 20.08.2023 | Cádiz CF
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Jules Koundé, Frenkie de Jong, Oriol Romeu, İlkay Gündoğan, Gavi, Pedri, Alejandro Balde, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4112886 | niedz., 11.02.2024 | Granada CF
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Pau Cubarsí, João Cancelo, Jules Koundé, Andreas Christensen, Frenkie de Jong, İlkay Gündoğan, Pedri, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4113116 | niedz., 12.11.2023 | Deportivo Alavés
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Jules Koundé, João Cancelo, Ronald Araujo, İlkay Gündoğan, Pedri, Fermín López, João Félix, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4112907 | niedz., 19.05.2024 | Rayo Vallecano
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Pau Cubarsí, João Cancelo, Jules Koundé, Sergi Roberto, İlkay Gündoğan, Fermín López, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4312028 | wt., 16.04.2024 | FC Paris Saint-Germain
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Pau Cubarsí, João Cancelo, Jules Koundé, Frenkie de Jong, Pedri, İlkay Gündoğan, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4113106 | sob., 16.09.2023 | Real Betis Balompié
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Jules Koundé, Alejandro Balde, João Cancelo, Oriol Romeu, Gavi, Frenkie de Jong, João Félix, Ferran Torres, Robert Lewandowski
+
+MATCH: 4112843 | sob., 27.01.2024 | Villarreal CF
+PLAYERS: Iñaki Peña, Ronald Araujo, Andreas Christensen, Héctor Fort, Jules Koundé, Oriol Romeu, Frenkie de Jong, İlkay Gündoğan, João Félix, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4112949 | sob., 04.05.2024 | Girona FC
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Pau Cubarsí, João Cancelo, Jules Koundé, Andreas Christensen, Sergi Roberto, İlkay Gündoğan, Fermín López, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4243689 | śr., 21.02.2024 | SSC Napoli
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Ronald Araujo, João Cancelo, Jules Koundé, Andreas Christensen, Frenkie de Jong, İlkay Gündoğan, Pedri, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4112976 | sob., 30.03.2024 | UD Las Palmas
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Pau Cubarsí, João Cancelo, Jules Koundé, İlkay Gündoğan, Sergi Roberto, Fermín López, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4113180 | sob., 17.02.2024 | Celta de Vigo
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Pau Cubarsí, João Cancelo, Jules Koundé, Andreas Christensen, Pedri, Frenkie de Jong, Vitor Roque, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4113120 | niedz., 22.10.2023 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Andreas Christensen, Alejandro Balde, João Cancelo, Oriol Romeu, Gavi, İlkay Gündoğan, Fermín López, Ferran Torres, João Félix
+
+MATCH: 4243697 | wt., 12.03.2024 | SSC Napoli
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Pau Cubarsí, João Cancelo, Jules Koundé, Andreas Christensen, İlkay Gündoğan, Fermín López, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4113005 | niedz., 03.03.2024 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Pau Cubarsí, João Cancelo, Jules Koundé, Andreas Christensen, Frenkie de Jong, İlkay Gündoğan, Pedri, Raphinha, Robert Lewandowski
+
+MATCH: 4270168 | śr., 24.01.2024 | Athletic Bilbao
+PLAYERS: Iñaki Peña, Ronald Araujo, Andreas Christensen, Alejandro Balde, Jules Koundé, Frenkie de Jong, Pedri, İlkay Gündoğan, Ferran Torres, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4112850 | sob., 16.12.2023 | Valencia CF
+PLAYERS: Iñaki Peña, Ronald Araujo, Jules Koundé, Alejandro Balde, João Cancelo, Frenkie de Jong, Pedri, İlkay Gündoğan, João Félix, Raphinha, Robert Lewandowski
+
+MATCH: 4113040 | sob., 03.02.2024 | Deportivo Alavés
+PLAYERS: Iñaki Peña, Ronald Araujo, Pau Cubarsí, João Cancelo, Jules Koundé, Andreas Christensen, Frenkie de Jong, İlkay Gündoğan, Pedri, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4174055 | śr., 04.10.2023 | FC Porto
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Jules Koundé, Alejandro Balde, João Cancelo, Oriol Romeu, Gavi, İlkay Gündoğan, João Félix, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4259181 | czw., 18.01.2024 | Unionistas CF
+PLAYERS: Iñaki Peña, Andreas Christensen, Jules Koundé, Alejandro Balde, Sergi Roberto, Oriol Romeu, Frenkie de Jong, Fermín López, João Félix, Ferran Torres, Marc Guiu
+
+MATCH: 4259013 | czw., 11.01.2024 | CA Osasuna
+PLAYERS: Iñaki Peña, Ronald Araujo, Andreas Christensen, Alejandro Balde, Jules Koundé, Frenkie de Jong, Sergi Roberto, İlkay Gündoğan, Ferran Torres, Raphinha, Robert Lewandowski
+
+MATCH: 4174084 | śr., 13.12.2023 | Royal Antwerpia FC
+PLAYERS: Iñaki Peña, Andreas Christensen, Jules Koundé, Alejandro Balde, Héctor Fort, Oriol Romeu, Sergi Roberto, Fermín López, Ferran Torres, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4113069 | wt., 26.09.2023 | RCD Mallorca
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Ronald Araujo, Alejandro Balde, João Cancelo, Oriol Romeu, Gavi, İlkay Gündoğan, João Félix, Raphinha, Ferran Torres
+
+MATCH: 4113148 | niedz., 03.12.2023 | Atlético Madryt
+PLAYERS: Iñaki Peña, Ronald Araujo, Andreas Christensen, João Cancelo, Jules Koundé, İlkay Gündoğan, Pedri, Frenkie de Jong, João Félix, Raphinha, Robert Lewandowski
+
+MATCH: 4113118 | sob., 04.11.2023 | Real Sociedad
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Jules Koundé, Alejandro Balde, Ronald Araujo, Gavi, İlkay Gündoğan, João Cancelo, Fermín López, João Félix, Robert Lewandowski
+
+MATCH: 4112902 | niedz., 26.05.2024 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Pau Cubarsí, João Cancelo, Jules Koundé, Andreas Christensen, Pedri, İlkay Gündoğan, Fermín López, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4113122 | sob., 23.09.2023 | Celta de Vigo
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Jules Koundé, Marcos Alonso, João Cancelo, Oriol Romeu, Frenkie de Jong, İlkay Gündoğan, João Félix, Ferran Torres, Robert Lewandowski
+
+MATCH: 4112831 | niedz., 21.01.2024 | Real Betis Balompié
+PLAYERS: Iñaki Peña, Ronald Araujo, Pau Cubarsí, Alejandro Balde, Jules Koundé, İlkay Gündoğan, Pedri, Frenkie de Jong, Ferran Torres, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4260707 | niedz., 14.01.2024 | Real Madryt
+PLAYERS: Iñaki Peña, Andreas Christensen, Jules Koundé, Alejandro Balde, Ronald Araujo, Frenkie de Jong, İlkay Gündoğan, Sergi Roberto, Pedri, Ferran Torres, Robert Lewandowski
+
+MATCH: 4112873 | śr., 20.12.2023 | UD Almería
+PLAYERS: Iñaki Peña, Ronald Araujo, Andreas Christensen, Alejandro Balde, João Cancelo, İlkay Gündoğan, Sergi Roberto, Fermín López, João Félix, Raphinha, Robert Lewandowski
+
+MATCH: 4112818 | śr., 31.01.2024 | CA Osasuna
+PLAYERS: Iñaki Peña, Ronald Araujo, Pau Cubarsí, João Cancelo, Jules Koundé, Frenkie de Jong, Pedri, İlkay Gündoğan, Ferran Torres, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4112970 | pt., 29.09.2023 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Jules Koundé, Alejandro Balde, João Cancelo, İlkay Gündoğan, Gavi, Raphinha, João Félix, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4112875 | niedz., 10.12.2023 | Girona FC
+PLAYERS: Iñaki Peña, Ronald Araujo, Andreas Christensen, João Cancelo, Jules Koundé, İlkay Gündoğan, Pedri, Frenkie de Jong, João Félix, Raphinha, Robert Lewandowski
+
+MATCH: 4171316 | wt., 28.11.2023 | FC Porto
+PLAYERS: Iñaki Peña, Iñigo Martínez, Jules Koundé, João Cancelo, Ronald Araujo, İlkay Gündoğan, Pedri, Frenkie de Jong, João Félix, Raphinha, Robert Lewandowski
+
+MATCH: 4113026 | sob., 24.02.2024 | Getafe CF
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Pau Cubarsí, João Cancelo, Jules Koundé, Andreas Christensen, Frenkie de Jong, İlkay Gündoğan, João Félix, Raphinha, Robert Lewandowski
+
+MATCH: 4112811 | niedz., 13.08.2023 | Getafe CF
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Jules Koundé, Alejandro Balde, Ronald Araujo, Oriol Romeu, Frenkie de Jong, Pedri, İlkay Gündoğan, Raphinha, Robert Lewandowski
+
+MATCH: 4174054 | wt., 19.09.2023 | Royal Antwerpia FC
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Jules Koundé, Alejandro Balde, João Cancelo, Frenkie de Jong, Gavi, İlkay Gündoğan, João Félix, Raphinha, Robert Lewandowski
+
+MATCH: 4174067 | wt., 07.11.2023 | Szachtar Donieck
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Andreas Christensen, Marcos Alonso, João Cancelo, Oriol Romeu, Gavi, İlkay Gündoğan, Ferran Torres, Raphinha, Robert Lewandowski
+
+MATCH: 4112915 | czw., 16.05.2024 | UD Almería
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Pau Cubarsí, Héctor Fort, Jules Koundé, Sergi Roberto, Pedri, Fermín López, Ferran Torres, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4113091 | niedz., 27.08.2023 | Villarreal CF
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Jules Koundé, Marcos Alonso, Sergi Roberto, Oriol Romeu, Frenkie de Jong, İlkay Gündoğan, Gavi, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4174065 | śr., 25.10.2023 | Szachtar Donieck
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Ronald Araujo, Marcos Alonso, João Cancelo, Oriol Romeu, İlkay Gündoğan, Fermín López, João Félix, Lamine Yamal, Ferran Torres
+
+MATCH: 4113022 | sob., 13.04.2024 | Cádiz CF
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Pau Cubarsí, Marcos Alonso, Héctor Fort, Oriol Romeu, Sergi Roberto, Fermín López, João Félix, Ferran Torres, Vitor Roque
+
+MATCH: 4113052 | niedz., 03.09.2023 | CA Osasuna
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Jules Koundé, Alejandro Balde, Sergi Roberto, Oriol Romeu, Frenkie de Jong, İlkay Gündoğan, Gavi, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4112996 | pt., 08.03.2024 | RCD Mallorca
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Pau Cubarsí, João Cancelo, Jules Koundé, Andreas Christensen, İlkay Gündoğan, Raphinha, João Félix, Lamine Yamal, Marc Guiu
+
+MATCH: 4113124 | sob., 28.10.2023 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Andreas Christensen, Alejandro Balde, Ronald Araujo, İlkay Gündoğan, Gavi, Fermín López, João Félix, João Cancelo, Ferran Torres
+
+MATCH: 4112860 | czw., 04.01.2024 | UD Las Palmas
+PLAYERS: Iñaki Peña, Ronald Araujo, Jules Koundé, Alejandro Balde, João Cancelo, İlkay Gündoğan, Sergi Roberto, Frenkie de Jong, Ferran Torres, Raphinha, Robert Lewandowski
+
+MATCH: 4113061 | niedz., 08.10.2023 | Granada CF
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Jules Koundé, Alejandro Balde, João Cancelo, İlkay Gündoğan, Gavi, Fermín López, João Félix, Lamine Yamal, Ferran Torres
+
+MATCH: 4112985 | niedz., 17.03.2024 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Pau Cubarsí, Héctor Fort, Jules Koundé, İlkay Gündoğan, Sergi Roberto, Fermín López, João Félix, Raphinha, Robert Lewandowski
+
+MATCH: 4312024 | śr., 10.04.2024 | FC Paris Saint-Germain
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Pau Cubarsí, João Cancelo, Jules Koundé, Sergi Roberto, Frenkie de Jong, İlkay Gündoğan, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4112936 | pon., 29.04.2024 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Pau Cubarsí, João Cancelo, Jules Koundé, Andreas Christensen, İlkay Gündoğan, Fermín López, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4240828 | niedz., 07.01.2024 | UD Barbastro
+PLAYERS: Iñaki Peña, Ronald Araujo, Andreas Christensen, Héctor Fort, Jules Koundé, Oriol Romeu, Frenkie de Jong, Fermín López, João Félix, Raphinha, Ferran Torres
+

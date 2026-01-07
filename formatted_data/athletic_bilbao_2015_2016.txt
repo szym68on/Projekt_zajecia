@@ -1,0 +1,190 @@
+# Team: Athletic Bilbao
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2618796 | czw., 26.11.2015 | FC Augsburg
+PLAYERS: Iago Herrerín, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Eneko Bóveda, Mikel San José, Mikel Rico, Javi Eraso, Sabin Merino, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2594485 | niedz., 30.08.2015 | SD Eibar
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Iñigo Lekue, Eneko Bóveda, Gorka Elustondo, Beñat Etxebarria, Óscar de Marcos, Javi Eraso, Ibai Gómez, Aritz Aduriz
+
+MATCH: 2594610 | niedz., 06.12.2015 | Málaga CF
+PLAYERS: Gorka Iraizoz, Xabi Etxeita, Carlos Gurpegui, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2594828 | niedz., 01.05.2016 | Celta de Vigo
+PLAYERS: Gorka Iraizoz, Xabi Etxeita, Eneko Bóveda, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2604372 | czw., 06.08.2015 | FK Keshla
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Javi Eraso, Ager Aketxe, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2613603 | pon., 17.08.2015 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Eneko Bóveda, Carlos Gurpegui, Beñat Etxebarria, Óscar de Marcos, Javi Eraso, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2594527 | niedz., 27.09.2015 | Real Sociedad
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Sabin Merino, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2618794 | czw., 10.12.2015 | AZ Alkmaar
+PLAYERS: Iago Herrerín, Carlos Gurpegui, Gorka Elustondo, Enric Saborit, Eneko Bóveda, Mikel San José, Mikel Rico, Javi Eraso, Sabin Merino, Markel Susaeta, Kike Sola
+
+MATCH: 2594600 | niedz., 29.11.2015 | Rayo Vallecano
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Beñat Etxebarria, Iñigo Lekue, Raúl García, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2594638 | śr., 30.12.2015 | Celta de Vigo
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Sabin Merino, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2594738 | śr., 02.03.2016 | Deportivo de La Coruña
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Iñigo Lekue, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2668338 | czw., 10.03.2016 | Valencia CF
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2594685 | sob., 30.01.2016 | Getafe CF
+PLAYERS: Gorka Iraizoz, Xabi Etxeita, Carlos Gurpegui, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Javi Eraso, Sabin Merino, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2618768 | czw., 01.10.2015 | AZ Alkmaar
+PLAYERS: Iago Herrerín, Aymeric Laporte, Carlos Gurpegui, Iñigo Lekue, Eneko Bóveda, Ander Iturraspe, Javi Eraso, Mikel Rico, Ager Aketxe, Kike Sola, Borja Viguera
+
+MATCH: 2604371 | czw., 30.07.2015 | FK Keshla
+PLAYERS: Iago Herrerín, Xabi Etxeita, Carlos Gurpegui, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Beñat Etxebarria, Javi Eraso, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2618365 | czw., 27.08.2015 | MSK Zilina
+PLAYERS: Iago Herrerín, Aymeric Laporte, Carlos Gurpegui, Iñigo Lekue, Óscar de Marcos, Gorka Elustondo, Beñat Etxebarria, Javi Eraso, Borja Viguera, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2647666 | śr., 13.01.2016 | Villarreal CF
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Beñat Etxebarria, Javi Eraso, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2656747 | śr., 27.01.2016 | FC Barcelona
+PLAYERS: Iago Herrerín, Aymeric Laporte, Eneko Bóveda, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Mikel Rico, Javi Eraso, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2594506 | niedz., 20.09.2015 | Villarreal CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Mikel Rico, Javi Eraso, Ager Aketxe, Sabin Merino, Kike Sola
+
+MATCH: 2594537 | niedz., 04.10.2015 | Valencia CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iñaki Williams, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2594629 | niedz., 20.12.2015 | Levante UD
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2618798 | czw., 22.10.2015 | FK Partizan Belgrad
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iñaki Williams, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2618800 | czw., 05.11.2015 | FK Partizan Belgrad
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Eneko Bóveda, Mikel San José, Beñat Etxebarria, Raúl García, Iñaki Williams, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2675307 | czw., 14.04.2016 | Sevilla FC
+PLAYERS: Iago Herrerín, Xabi Etxeita, Eneko Bóveda, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Iñigo Lekue, Raúl García, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2594838 | niedz., 08.05.2016 | UD Las Palmas
+PLAYERS: Gorka Iraizoz, Eneko Bóveda, Gorka Elustondo, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2594590 | niedz., 22.11.2015 | Granada CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2594847 | sob., 14.05.2016 | Sevilla FC
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Eneko Bóveda, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Beñat Etxebarria, Raúl García, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2646028 | czw., 25.02.2016 | Olympique Marseille
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Ander Iturraspe, Iñigo Lekue, Raúl García, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2594661 | niedz., 17.01.2016 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Eneko Bóveda, Mikel San José, Beñat Etxebarria, Javi Eraso, Iker Muniain, Óscar de Marcos, Iñaki Williams
+
+MATCH: 2656743 | śr., 20.01.2016 | FC Barcelona
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Iñigo Lekue, Óscar de Marcos, Ander Iturraspe, Beñat Etxebarria, Javi Eraso, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2594800 | niedz., 17.04.2016 | Málaga CF
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Mikel San José, Mikel Balenziaga, Eneko Bóveda, Ander Iturraspe, Mikel Rico, Iñigo Lekue, Raúl García, Iker Muniain, Borja Viguera
+
+MATCH: 2594495 | niedz., 13.09.2015 | Getafe CF
+PLAYERS: Gorka Iraizoz, Xabi Etxeita, Carlos Gurpegui, Iñigo Lekue, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Ager Aketxe, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2594819 | niedz., 24.04.2016 | Levante UD
+PLAYERS: Gorka Iraizoz, Xabi Etxeita, Mikel San José, Mikel Balenziaga, Eneko Bóveda, Ander Iturraspe, Beñat Etxebarria, Raúl García, Iker Muniain, Iñaki Williams, Borja Viguera
+
+MATCH: 2594769 | niedz., 20.03.2016 | RCD Espanyol
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Eneko Bóveda, Ander Iturraspe, Mikel Rico, Óscar de Marcos, Iñigo Lekue, Javi Eraso, Aritz Aduriz
+
+MATCH: 2594809 | śr., 20.04.2016 | Atlético Madryt
+PLAYERS: Gorka Iraizoz, Xabi Etxeita, Eneko Bóveda, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Borja Viguera
+
+MATCH: 2594706 | sob., 13.02.2016 | Real Madryt
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Beñat Etxebarria, Iñigo Lekue, Javi Eraso, Sabin Merino, Aritz Aduriz
+
+MATCH: 2594759 | niedz., 13.03.2016 | Real Betis Balompié
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Iñigo Lekue, Eneko Bóveda, Mikel San José, Mikel Rico, Raúl García, Iker Muniain, Markel Susaeta, Sabin Merino
+
+MATCH: 2594516 | śr., 23.09.2015 | Real Madryt
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Sabin Merino, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2594471 | niedz., 23.08.2015 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Gorka Elustondo, Mikel Balenziaga, Óscar de Marcos, Beñat Etxebarria, Mikel Rico, Javi Eraso, Sabin Merino, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2594727 | niedz., 28.02.2016 | Valencia CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Eneko Bóveda, Gorka Elustondo, Beñat Etxebarria, Mikel Rico, Óscar de Marcos, Sabin Merino, Iker Muniain
+
+MATCH: 2594696 | sob., 06.02.2016 | Villarreal CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Eneko Bóveda, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Beñat Etxebarria, Javi Eraso, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2618744 | czw., 17.09.2015 | FC Augsburg
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Iñigo Lekue, Óscar de Marcos, Gorka Elustondo, Beñat Etxebarria, Raúl García, Ibai Gómez, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2594548 | niedz., 18.10.2015 | Deportivo de La Coruña
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2594648 | niedz., 03.01.2016 | UD Las Palmas
+PLAYERS: Gorka Iraizoz, Xabi Etxeita, Carlos Gurpegui, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Mikel Rico, Raúl García, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2594569 | niedz., 01.11.2015 | Real Betis Balompié
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Sabin Merino, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2615059 | czw., 20.08.2015 | MSK Zilina
+PLAYERS: Iago Herrerín, Aymeric Laporte, Gorka Elustondo, Iñigo Lekue, Eneko Bóveda, Carlos Gurpegui, Mikel Rico, Ager Aketxe, Ibai Gómez, Sabin Merino, Kike Sola
+
+MATCH: 2633814 | czw., 03.12.2015 | Real Balompédica Linense
+PLAYERS: Iago Herrerín, Aymeric Laporte, Gorka Elustondo, Iñigo Lekue, Eneko Bóveda, Ander Iturraspe, Mikel Rico, Javi Eraso, Borja Viguera, Sabin Merino, Kike Sola
+
+MATCH: 2594717 | niedz., 21.02.2016 | Real Sociedad
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Markel Susaeta, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2594619 | niedz., 13.12.2015 | Atlético Madryt
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Eneko Bóveda, Ander Iturraspe, Beñat Etxebarria, Óscar de Marcos, Raúl García, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2646013 | czw., 18.02.2016 | Olympique Marseille
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Javi Eraso, Beñat Etxebarria, Sabin Merino, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2594558 | pon., 26.10.2015 | Sporting Gijón
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2594748 | niedz., 06.03.2016 | Sporting Gijón
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2594790 | niedz., 10.04.2016 | Rayo Vallecano
+PLAYERS: Gorka Iraizoz, Xabi Etxeita, Eneko Bóveda, Iñigo Lekue, Óscar de Marcos, Ander Iturraspe, Mikel Rico, Raúl García, Iker Muniain, Markel Susaeta, Iñaki Williams
+
+MATCH: 2668346 | czw., 17.03.2016 | Valencia CF
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Sabin Merino, Aritz Aduriz
+
+MATCH: 2633845 | śr., 16.12.2015 | Real Balompédica Linense
+PLAYERS: Iago Herrerín, Xabi Etxeita, Carlos Gurpegui, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Javi Eraso, Raúl García, Sabin Merino, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2594675 | niedz., 24.01.2016 | SD Eibar
+PLAYERS: Iago Herrerín, Aymeric Laporte, Eneko Bóveda, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Iker Muniain, Sabin Merino, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2594780 | niedz., 03.04.2016 | Granada CF
+PLAYERS: Gorka Iraizoz, Xabi Etxeita, Carlos Gurpegui, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Sabin Merino, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2594657 | sob., 09.01.2016 | Sevilla FC
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Carlos Gurpegui, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Beñat Etxebarria, Óscar de Marcos, Iñaki Williams, Raúl García, Aritz Aduriz
+
+MATCH: 2675303 | czw., 07.04.2016 | Sevilla FC
+PLAYERS: Iago Herrerín, Xabi Etxeita, Eneko Bóveda, Mikel Balenziaga, Óscar de Marcos, Beñat Etxebarria, Mikel San José, Javi Eraso, Iñaki Williams, Iker Muniain, Aritz Aduriz
+
+MATCH: 2613602 | pt., 14.08.2015 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Javi Eraso, Sabin Merino, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2594579 | niedz., 08.11.2015 | RCD Espanyol
+PLAYERS: Gorka Iraizoz, Xabi Etxeita, Carlos Gurpegui, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Sabin Merino, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2647657 | śr., 06.01.2016 | Villarreal CF
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Iñigo Lekue, Óscar de Marcos, Ander Iturraspe, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Iñaki Williams
+

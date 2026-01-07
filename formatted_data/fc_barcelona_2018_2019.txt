@@ -1,0 +1,184 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3080794 | niedz., 10.02.2019 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Nélson Semedo, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Arturo Vidal, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 3079380 | niedz., 23.09.2018 | Girona FC
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Arthur Melo, Arturo Vidal, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3080893 | sob., 20.04.2019 | Real Sociedad
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Ivan Rakitic, Arthur Melo, Arturo Vidal, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3098014 | wt., 06.11.2018 | Inter Mediolan
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Arthur Melo, Ivan Rakitic, Philippe Coutinho, Ousmane Dembélé, Luis Suárez
+
+MATCH: 3153160 | śr., 27.02.2019 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Sergi Roberto, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3080835 | sob., 09.03.2019 | Rayo Vallecano
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Arthur Melo, Arturo Vidal, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 3081108 | sob., 04.05.2019 | Celta de Vigo
+PLAYERS: Jasper Cillessen, Samuel Umtiti, Jean-Clair Todibo, Thomas Vermaelen, Moussa Wagué, Arthur Melo, Carles Aleñá, Riqui Puig, Malcom, Ousmane Dembélé, Kevin-Prince Boateng
+
+MATCH: 3142959 | czw., 10.01.2019 | Levante UD
+PLAYERS: Jasper Cillessen, Jeison Murillo, Chumi, Juan Miranda, Nélson Semedo, Sergio Busquets, Carles Aleñá, Arturo Vidal, Philippe Coutinho, Malcom, Ousmane Dembélé
+
+MATCH: 3079472 | niedz., 02.12.2018 | Villarreal CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Arturo Vidal, Philippe Coutinho, Ousmane Dembélé, Lionel Messi
+
+MATCH: 3079447 | sob., 03.11.2018 | Rayo Vallecano
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Arthur Melo, Ivan Rakitic, Philippe Coutinho, Rafinha, Luis Suárez
+
+MATCH: 3153158 | śr., 06.02.2019 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Arthur Melo, Ivan Rakitic, Philippe Coutinho, Malcom, Luis Suárez
+
+MATCH: 3080868 | wt., 02.04.2019 | Villarreal CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Samuel Umtiti, Jordi Alba, Sergi Roberto, Sergio Busquets, Arthur Melo, Arturo Vidal, Philippe Coutinho, Malcom, Luis Suárez
+
+MATCH: 3080782 | sob., 02.02.2019 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Gerard Piqué, Sergi Roberto, Nélson Semedo, Ivan Rakitic, Carles Aleñá, Arturo Vidal, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 3079320 | sob., 25.08.2018 | Real Valladolid CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Philippe Coutinho, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3079393 | śr., 26.09.2018 | CD Leganés
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Thomas Vermaelen, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Philippe Coutinho, Ousmane Dembélé, Lionel Messi, Munir El Haddadi
+
+MATCH: 3135810 | śr., 13.03.2019 | Olympique Lyon
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Arthur Melo, Ivan Rakitic, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 3080877 | sob., 06.04.2019 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Arthur Melo, Ivan Rakitic, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 3097998 | śr., 24.10.2018 | Inter Mediolan
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Arthur Melo, Ivan Rakitic, Philippe Coutinho, Rafinha, Luis Suárez
+
+MATCH: 3081128 | niedz., 19.05.2019 | SD Eibar
+PLAYERS: Jasper Cillessen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Arturo Vidal, Malcom, Sergi Roberto, Lionel Messi
+
+MATCH: 3148385 | śr., 30.01.2019 | Sevilla FC
+PLAYERS: Jasper Cillessen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Arthur Melo, Ivan Rakitic, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 3080777 | niedz., 27.01.2019 | Girona FC
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Arturo Vidal, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 3148381 | śr., 23.01.2019 | Sevilla FC
+PLAYERS: Jasper Cillessen, Clément Lenglet, Gerard Piqué, Nélson Semedo, Sergi Roberto, Ivan Rakitic, Arthur Melo, Arturo Vidal, Carles Aleñá, Malcom, Kevin-Prince Boateng
+
+MATCH: 3098045 | wt., 11.12.2018 | Tottenham Hotspur
+PLAYERS: Jasper Cillessen, Clément Lenglet, Thomas Vermaelen, Juan Miranda, Nélson Semedo, Ivan Rakitic, Arthur Melo, Carles Aleñá, Philippe Coutinho, Ousmane Dembélé, Munir El Haddadi
+
+MATCH: 3040104 | niedz., 12.08.2018 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Arthur Melo, Rafinha, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3079431 | niedz., 28.10.2018 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Arthur Melo, Ivan Rakitic, Philippe Coutinho, Rafinha, Luis Suárez
+
+MATCH: 3167768 | wt., 16.04.2019 | Manchester United
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Arthur Melo, Ivan Rakitic, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 3080826 | sob., 02.03.2019 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Arthur Melo, Ivan Rakitic, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3080853 | sob., 30.03.2019 | RCD Espanyol
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Arthur Melo, Ivan Rakitic, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 3081092 | sob., 27.04.2019 | Levante UD
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Arturo Vidal, Arthur Melo, Ivan Rakitic, Philippe Coutinho, Ousmane Dembélé, Luis Suárez
+
+MATCH: 3079507 | sob., 22.12.2018 | Celta de Vigo
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Arturo Vidal, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3080802 | sob., 16.02.2019 | Real Valladolid CF
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Carles Aleñá, Arturo Vidal, Ousmane Dembélé, Lionel Messi, Kevin-Prince Boateng
+
+MATCH: 3081113 | niedz., 12.05.2019 | Getafe CF
+PLAYERS: Jasper Cillessen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Arturo Vidal, Philippe Coutinho, Malcom, Lionel Messi
+
+MATCH: 3118582 | śr., 31.10.2018 | Cultural Leonesa
+PLAYERS: Jasper Cillessen, Jorge Cuenca, Chumi, Juan Miranda, Nélson Semedo, Sergi Samper, Arturo Vidal, Denis Suárez, Ousmane Dembélé, Malcom, Munir El Haddadi
+
+MATCH: 3177022 | śr., 01.05.2019 | FC Liverpool
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Arturo Vidal, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 3079491 | sob., 08.12.2018 | RCD Espanyol
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Arturo Vidal, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3167767 | śr., 10.04.2019 | Manchester United
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Arthur Melo, Ivan Rakitic, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 3079376 | sob., 15.09.2018 | Real Sociedad
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Nélson Semedo, Ivan Rakitic, Sergi Roberto, Rafinha, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3097957 | wt., 18.09.2018 | PSV Eindhoven
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Philippe Coutinho, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3097981 | śr., 03.10.2018 | Tottenham Hotspur
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Arthur Melo, Ivan Rakitic, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 3081081 | wt., 23.04.2019 | Deportivo Alavés
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Nélson Semedo, Sergi Roberto, Sergio Busquets, Carles Aleñá, Arturo Vidal, Philippe Coutinho, Ousmane Dembélé, Luis Suárez
+
+MATCH: 3079324 | niedz., 02.09.2018 | SD Huesca
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Philippe Coutinho, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3098029 | śr., 28.11.2018 | PSV Eindhoven
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Arturo Vidal, Philippe Coutinho, Ousmane Dembélé, Lionel Messi
+
+MATCH: 3135805 | wt., 19.02.2019 | Olympique Lyon
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Sergi Roberto, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3118601 | śr., 05.12.2018 | Cultural Leonesa
+PLAYERS: Jasper Cillessen, Thomas Vermaelen, Chumi, Juan Miranda, Nélson Semedo, Uri Busquets, Carles Aleñá, Ivan Rakitic, Denis Suárez, Malcom, Munir El Haddadi
+
+MATCH: 3142975 | czw., 17.01.2019 | Levante UD
+PLAYERS: Jasper Cillessen, Clément Lenglet, Jeison Murillo, Jordi Alba, Nélson Semedo, Ivan Rakitic, Arthur Melo, Arturo Vidal, Philippe Coutinho, Ousmane Dembélé, Lionel Messi
+
+MATCH: 3080846 | niedz., 17.03.2019 | Real Betis Balompié
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Arthur Melo, Ivan Rakitic, Arturo Vidal, Lionel Messi, Luis Suárez
+
+MATCH: 3079416 | niedz., 07.10.2018 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Arthur Melo, Ivan Rakitic, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 3080887 | sob., 13.04.2019 | SD Huesca
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Jean-Clair Todibo, Jeison Murillo, Arturo Vidal, Carles Aleñá, Riqui Puig, Moussa Wagué, Malcom, Kevin-Prince Boateng, Ousmane Dembélé
+
+MATCH: 3079521 | niedz., 06.01.2019 | Getafe CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Ivan Rakitic, Arthur Melo, Arturo Vidal, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3079461 | sob., 24.11.2018 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Arthur Melo, Sergi Roberto, Arturo Vidal, Lionel Messi, Luis Suárez
+
+MATCH: 3079421 | sob., 20.10.2018 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Arthur Melo, Ivan Rakitic, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 3079452 | niedz., 11.11.2018 | Real Betis Balompié
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Arthur Melo, Ivan Rakitic, Malcom, Lionel Messi, Luis Suárez
+
+MATCH: 3079527 | niedz., 13.01.2019 | SD Eibar
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Arthur Melo, Ivan Rakitic, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 3162692 | sob., 25.05.2019 | Valencia CF
+PLAYERS: Jasper Cillessen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Arthur Melo, Ivan Rakitic, Philippe Coutinho, Sergi Roberto, Lionel Messi
+
+MATCH: 3079309 | sob., 18.08.2018 | Deportivo Alavés
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Sergi Roberto, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3080762 | niedz., 20.01.2019 | CD Leganés
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Arthur Melo, Carles Aleñá, Philippe Coutinho, Ousmane Dembélé, Luis Suárez
+
+MATCH: 3080820 | sob., 23.02.2019 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Arturo Vidal, Philippe Coutinho, Lionel Messi, Luis Suárez
+
+MATCH: 3079406 | sob., 29.09.2018 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergi Roberto, Ivan Rakitic, Arturo Vidal, Philippe Coutinho, Ousmane Dembélé, Luis Suárez
+
+MATCH: 3079501 | niedz., 16.12.2018 | Levante UD
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Thomas Vermaelen, Gerard Piqué, Sergio Busquets, Ivan Rakitic, Arturo Vidal, Jordi Alba, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3177025 | wt., 07.05.2019 | FC Liverpool
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Arturo Vidal, Philippe Coutinho, Lionel Messi, Luis Suárez
+

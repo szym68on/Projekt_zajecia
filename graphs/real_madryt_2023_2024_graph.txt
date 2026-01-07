@@ -1,0 +1,274 @@
+# Graph for Java/GraphStream
+# Nodes: 26
+# Edges: 268
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Kepa Arrizabalaga | David Alaba | 10 | 19 | 17
+EDGE Kepa Arrizabalaga | Antonio Rüdiger | 16 | 19 | 42
+EDGE Kepa Arrizabalaga | Fran García | 10 | 19 | 18
+EDGE Kepa Arrizabalaga | Lucas Vázquez | 4 | 19 | 17
+EDGE Kepa Arrizabalaga | Eduardo Camavinga | 11 | 19 | 32
+EDGE Kepa Arrizabalaga | Toni Kroos | 8 | 19 | 33
+EDGE Kepa Arrizabalaga | Federico Valverde | 15 | 19 | 46
+EDGE Kepa Arrizabalaga | Luka Modrić | 10 | 19 | 23
+EDGE Kepa Arrizabalaga | Jude Bellingham | 16 | 19 | 39
+EDGE Kepa Arrizabalaga | Rodrygo | 14 | 19 | 41
+EDGE Kepa Arrizabalaga | Nacho Fernández | 11 | 19 | 31
+EDGE Kepa Arrizabalaga | Daniel Carvajal | 13 | 19 | 36
+EDGE Kepa Arrizabalaga | Aurélien Tchouaméni | 13 | 19 | 29
+EDGE Kepa Arrizabalaga | Vinicius Junior | 10 | 19 | 33
+EDGE Kepa Arrizabalaga | Joselu | 10 | 19 | 18
+EDGE Kepa Arrizabalaga | Ferland Mendy | 6 | 19 | 31
+EDGE Kepa Arrizabalaga | Dani Ceballos | 3 | 19 | 8
+EDGE Kepa Arrizabalaga | Éder Militão | 1 | 19 | 6
+EDGE Kepa Arrizabalaga | Brahim Díaz | 4 | 19 | 22
+EDGE Kepa Arrizabalaga | Arda Güler | 2 | 19 | 5
+EDGE Kepa Arrizabalaga | Álvaro Carrillo | 1 | 19 | 1
+EDGE Kepa Arrizabalaga | Vinícius Tobias | 1 | 19 | 1
+EDGE Kepa Arrizabalaga | Nico Paz | 1 | 19 | 1
+EDGE David Alaba | Antonio Rüdiger | 14 | 17 | 42
+EDGE David Alaba | Fran García | 8 | 17 | 18
+EDGE David Alaba | Lucas Vázquez | 5 | 17 | 17
+EDGE David Alaba | Eduardo Camavinga | 8 | 17 | 32
+EDGE David Alaba | Toni Kroos | 10 | 17 | 33
+EDGE David Alaba | Federico Valverde | 15 | 17 | 46
+EDGE David Alaba | Luka Modrić | 7 | 17 | 23
+EDGE David Alaba | Jude Bellingham | 15 | 17 | 39
+EDGE David Alaba | Rodrygo | 16 | 17 | 41
+EDGE David Alaba | Andriy Lunin | 7 | 17 | 29
+EDGE David Alaba | Ferland Mendy | 8 | 17 | 31
+EDGE David Alaba | Brahim Díaz | 6 | 17 | 22
+EDGE David Alaba | Daniel Carvajal | 11 | 17 | 36
+EDGE David Alaba | Aurélien Tchouaméni | 9 | 17 | 29
+EDGE David Alaba | Joselu | 7 | 17 | 18
+EDGE David Alaba | Nacho Fernández | 4 | 17 | 31
+EDGE David Alaba | Dani Ceballos | 2 | 17 | 8
+EDGE David Alaba | Vinicius Junior | 7 | 17 | 33
+EDGE David Alaba | Éder Militão | 1 | 17 | 6
+EDGE Antonio Rüdiger | Fran García | 12 | 42 | 18
+EDGE Antonio Rüdiger | Lucas Vázquez | 13 | 42 | 17
+EDGE Antonio Rüdiger | Eduardo Camavinga | 23 | 42 | 32
+EDGE Antonio Rüdiger | Toni Kroos | 28 | 42 | 33
+EDGE Antonio Rüdiger | Federico Valverde | 38 | 42 | 46
+EDGE Antonio Rüdiger | Luka Modrić | 19 | 42 | 23
+EDGE Antonio Rüdiger | Jude Bellingham | 34 | 42 | 39
+EDGE Antonio Rüdiger | Rodrygo | 34 | 42 | 41
+EDGE Antonio Rüdiger | Nacho Fernández | 22 | 42 | 31
+EDGE Antonio Rüdiger | Daniel Carvajal | 28 | 42 | 36
+EDGE Antonio Rüdiger | Aurélien Tchouaméni | 24 | 42 | 29
+EDGE Antonio Rüdiger | Vinicius Junior | 27 | 42 | 33
+EDGE Antonio Rüdiger | Joselu | 13 | 42 | 18
+EDGE Antonio Rüdiger | Andriy Lunin | 23 | 42 | 29
+EDGE Antonio Rüdiger | Ferland Mendy | 26 | 42 | 31
+EDGE Antonio Rüdiger | Dani Ceballos | 4 | 42 | 8
+EDGE Antonio Rüdiger | Brahim Díaz | 15 | 42 | 22
+EDGE Antonio Rüdiger | Thibaut Courtois | 3 | 42 | 5
+EDGE Antonio Rüdiger | Éder Militão | 2 | 42 | 6
+EDGE Antonio Rüdiger | Arda Güler | 2 | 42 | 5
+EDGE Fran García | Lucas Vázquez | 6 | 18 | 17
+EDGE Fran García | Eduardo Camavinga | 11 | 18 | 32
+EDGE Fran García | Toni Kroos | 6 | 18 | 33
+EDGE Fran García | Federico Valverde | 12 | 18 | 46
+EDGE Fran García | Luka Modrić | 12 | 18 | 23
+EDGE Fran García | Jude Bellingham | 11 | 18 | 39
+EDGE Fran García | Rodrygo | 11 | 18 | 41
+EDGE Fran García | Andriy Lunin | 6 | 18 | 29
+EDGE Fran García | Nacho Fernández | 8 | 18 | 31
+EDGE Fran García | Daniel Carvajal | 11 | 18 | 36
+EDGE Fran García | Dani Ceballos | 7 | 18 | 8
+EDGE Fran García | Brahim Díaz | 8 | 18 | 22
+EDGE Fran García | Vinicius Junior | 8 | 18 | 33
+EDGE Fran García | Aurélien Tchouaméni | 8 | 18 | 29
+EDGE Fran García | Joselu | 10 | 18 | 18
+EDGE Fran García | Éder Militão | 5 | 18 | 6
+EDGE Fran García | Arda Güler | 5 | 18 | 5
+EDGE Fran García | Thibaut Courtois | 2 | 18 | 5
+EDGE Fran García | Álvaro Carrillo | 1 | 18 | 1
+EDGE Fran García | Vinícius Tobias | 1 | 18 | 1
+EDGE Fran García | Nico Paz | 1 | 18 | 1
+EDGE Lucas Vázquez | Eduardo Camavinga | 9 | 17 | 32
+EDGE Lucas Vázquez | Toni Kroos | 9 | 17 | 33
+EDGE Lucas Vázquez | Federico Valverde | 15 | 17 | 46
+EDGE Lucas Vázquez | Luka Modrić | 13 | 17 | 23
+EDGE Lucas Vázquez | Jude Bellingham | 11 | 17 | 39
+EDGE Lucas Vázquez | Rodrygo | 12 | 17 | 41
+EDGE Lucas Vázquez | Andriy Lunin | 12 | 17 | 29
+EDGE Lucas Vázquez | Aurélien Tchouaméni | 7 | 17 | 29
+EDGE Lucas Vázquez | Vinicius Junior | 7 | 17 | 33
+EDGE Lucas Vázquez | Ferland Mendy | 9 | 17 | 31
+EDGE Lucas Vázquez | Brahim Díaz | 11 | 17 | 22
+EDGE Lucas Vázquez | Daniel Carvajal | 2 | 17 | 36
+EDGE Lucas Vázquez | Nacho Fernández | 10 | 17 | 31
+EDGE Lucas Vázquez | Éder Militão | 2 | 17 | 6
+EDGE Lucas Vázquez | Dani Ceballos | 3 | 17 | 8
+EDGE Lucas Vázquez | Arda Güler | 2 | 17 | 5
+EDGE Lucas Vázquez | Joselu | 7 | 17 | 18
+EDGE Lucas Vázquez | Thibaut Courtois | 1 | 17 | 5
+EDGE Eduardo Camavinga | Toni Kroos | 18 | 32 | 33
+EDGE Eduardo Camavinga | Federico Valverde | 26 | 32 | 46
+EDGE Eduardo Camavinga | Luka Modrić | 12 | 32 | 23
+EDGE Eduardo Camavinga | Jude Bellingham | 21 | 32 | 39
+EDGE Eduardo Camavinga | Rodrygo | 24 | 32 | 41
+EDGE Eduardo Camavinga | Nacho Fernández | 20 | 32 | 31
+EDGE Eduardo Camavinga | Daniel Carvajal | 23 | 32 | 36
+EDGE Eduardo Camavinga | Aurélien Tchouaméni | 16 | 32 | 29
+EDGE Eduardo Camavinga | Vinicius Junior | 24 | 32 | 33
+EDGE Eduardo Camavinga | Joselu | 10 | 32 | 18
+EDGE Eduardo Camavinga | Andriy Lunin | 16 | 32 | 29
+EDGE Eduardo Camavinga | Thibaut Courtois | 5 | 32 | 5
+EDGE Eduardo Camavinga | Éder Militão | 4 | 32 | 6
+EDGE Eduardo Camavinga | Ferland Mendy | 17 | 32 | 31
+EDGE Eduardo Camavinga | Dani Ceballos | 4 | 32 | 8
+EDGE Eduardo Camavinga | Brahim Díaz | 12 | 32 | 22
+EDGE Eduardo Camavinga | Arda Güler | 3 | 32 | 5
+EDGE Eduardo Camavinga | Álvaro Carrillo | 1 | 32 | 1
+EDGE Eduardo Camavinga | Vinícius Tobias | 1 | 32 | 1
+EDGE Eduardo Camavinga | Nico Paz | 1 | 32 | 1
+EDGE Toni Kroos | Federico Valverde | 32 | 33 | 46
+EDGE Toni Kroos | Luka Modrić | 7 | 33 | 23
+EDGE Toni Kroos | Jude Bellingham | 27 | 33 | 39
+EDGE Toni Kroos | Rodrygo | 31 | 33 | 41
+EDGE Toni Kroos | Nacho Fernández | 18 | 33 | 31
+EDGE Toni Kroos | Daniel Carvajal | 26 | 33 | 36
+EDGE Toni Kroos | Aurélien Tchouaméni | 18 | 33 | 29
+EDGE Toni Kroos | Vinicius Junior | 23 | 33 | 33
+EDGE Toni Kroos | Joselu | 4 | 33 | 18
+EDGE Toni Kroos | Andriy Lunin | 22 | 33 | 29
+EDGE Toni Kroos | Thibaut Courtois | 3 | 33 | 5
+EDGE Toni Kroos | Éder Militão | 1 | 33 | 6
+EDGE Toni Kroos | Ferland Mendy | 24 | 33 | 31
+EDGE Toni Kroos | Dani Ceballos | 2 | 33 | 8
+EDGE Toni Kroos | Brahim Díaz | 13 | 33 | 22
+EDGE Federico Valverde | Luka Modrić | 18 | 46 | 23
+EDGE Federico Valverde | Jude Bellingham | 37 | 46 | 39
+EDGE Federico Valverde | Rodrygo | 38 | 46 | 41
+EDGE Federico Valverde | Nacho Fernández | 26 | 46 | 31
+EDGE Federico Valverde | Daniel Carvajal | 32 | 46 | 36
+EDGE Federico Valverde | Aurélien Tchouaméni | 26 | 46 | 29
+EDGE Federico Valverde | Vinicius Junior | 32 | 46 | 33
+EDGE Federico Valverde | Joselu | 12 | 46 | 18
+EDGE Federico Valverde | Andriy Lunin | 28 | 46 | 29
+EDGE Federico Valverde | Thibaut Courtois | 3 | 46 | 5
+EDGE Federico Valverde | Éder Militão | 3 | 46 | 6
+EDGE Federico Valverde | Ferland Mendy | 31 | 46 | 31
+EDGE Federico Valverde | Brahim Díaz | 17 | 46 | 22
+EDGE Federico Valverde | Dani Ceballos | 3 | 46 | 8
+EDGE Federico Valverde | Arda Güler | 1 | 46 | 5
+EDGE Luka Modrić | Jude Bellingham | 17 | 23 | 39
+EDGE Luka Modrić | Rodrygo | 14 | 23 | 41
+EDGE Luka Modrić | Andriy Lunin | 11 | 23 | 29
+EDGE Luka Modrić | Aurélien Tchouaméni | 10 | 23 | 29
+EDGE Luka Modrić | Vinicius Junior | 10 | 23 | 33
+EDGE Luka Modrić | Ferland Mendy | 9 | 23 | 31
+EDGE Luka Modrić | Brahim Díaz | 10 | 23 | 22
+EDGE Luka Modrić | Daniel Carvajal | 10 | 23 | 36
+EDGE Luka Modrić | Joselu | 13 | 23 | 18
+EDGE Luka Modrić | Nacho Fernández | 13 | 23 | 31
+EDGE Luka Modrić | Éder Militão | 4 | 23 | 6
+EDGE Luka Modrić | Dani Ceballos | 5 | 23 | 8
+EDGE Luka Modrić | Arda Güler | 4 | 23 | 5
+EDGE Luka Modrić | Thibaut Courtois | 2 | 23 | 5
+EDGE Jude Bellingham | Rodrygo | 33 | 39 | 41
+EDGE Jude Bellingham | Nacho Fernández | 20 | 39 | 31
+EDGE Jude Bellingham | Daniel Carvajal | 30 | 39 | 36
+EDGE Jude Bellingham | Aurélien Tchouaméni | 23 | 39 | 29
+EDGE Jude Bellingham | Vinicius Junior | 25 | 39 | 33
+EDGE Jude Bellingham | Joselu | 11 | 39 | 18
+EDGE Jude Bellingham | Andriy Lunin | 20 | 39 | 29
+EDGE Jude Bellingham | Thibaut Courtois | 3 | 39 | 5
+EDGE Jude Bellingham | Éder Militão | 2 | 39 | 6
+EDGE Jude Bellingham | Ferland Mendy | 24 | 39 | 31
+EDGE Jude Bellingham | Brahim Díaz | 8 | 39 | 22
+EDGE Jude Bellingham | Dani Ceballos | 2 | 39 | 8
+EDGE Rodrygo | Andriy Lunin | 24 | 41 | 29
+EDGE Rodrygo | Aurélien Tchouaméni | 22 | 41 | 29
+EDGE Rodrygo | Vinicius Junior | 27 | 41 | 33
+EDGE Rodrygo | Thibaut Courtois | 3 | 41 | 5
+EDGE Rodrygo | Éder Militão | 2 | 41 | 6
+EDGE Rodrygo | Nacho Fernández | 23 | 41 | 31
+EDGE Rodrygo | Ferland Mendy | 27 | 41 | 31
+EDGE Rodrygo | Daniel Carvajal | 30 | 41 | 36
+EDGE Rodrygo | Dani Ceballos | 3 | 41 | 8
+EDGE Rodrygo | Brahim Díaz | 15 | 41 | 22
+EDGE Rodrygo | Joselu | 7 | 41 | 18
+EDGE Nacho Fernández | Daniel Carvajal | 20 | 31 | 36
+EDGE Nacho Fernández | Aurélien Tchouaméni | 15 | 31 | 29
+EDGE Nacho Fernández | Vinicius Junior | 20 | 31 | 33
+EDGE Nacho Fernández | Joselu | 11 | 31 | 18
+EDGE Nacho Fernández | Thibaut Courtois | 4 | 31 | 5
+EDGE Nacho Fernández | Éder Militão | 3 | 31 | 6
+EDGE Nacho Fernández | Ferland Mendy | 20 | 31 | 31
+EDGE Nacho Fernández | Andriy Lunin | 16 | 31 | 29
+EDGE Nacho Fernández | Dani Ceballos | 5 | 31 | 8
+EDGE Nacho Fernández | Brahim Díaz | 15 | 31 | 22
+EDGE Nacho Fernández | Arda Güler | 3 | 31 | 5
+EDGE Nacho Fernández | Álvaro Carrillo | 1 | 31 | 1
+EDGE Nacho Fernández | Vinícius Tobias | 1 | 31 | 1
+EDGE Nacho Fernández | Nico Paz | 1 | 31 | 1
+EDGE Daniel Carvajal | Aurélien Tchouaméni | 22 | 36 | 29
+EDGE Daniel Carvajal | Vinicius Junior | 27 | 36 | 33
+EDGE Daniel Carvajal | Joselu | 9 | 36 | 18
+EDGE Daniel Carvajal | Thibaut Courtois | 4 | 36 | 5
+EDGE Daniel Carvajal | Éder Militão | 4 | 36 | 6
+EDGE Daniel Carvajal | Ferland Mendy | 23 | 36 | 31
+EDGE Daniel Carvajal | Andriy Lunin | 19 | 36 | 29
+EDGE Daniel Carvajal | Dani Ceballos | 4 | 36 | 8
+EDGE Daniel Carvajal | Brahim Díaz | 10 | 36 | 22
+EDGE Daniel Carvajal | Arda Güler | 2 | 36 | 5
+EDGE Aurélien Tchouaméni | Vinicius Junior | 22 | 29 | 33
+EDGE Aurélien Tchouaméni | Joselu | 10 | 29 | 18
+EDGE Aurélien Tchouaméni | Andriy Lunin | 16 | 29 | 29
+EDGE Aurélien Tchouaméni | Ferland Mendy | 17 | 29 | 31
+EDGE Aurélien Tchouaméni | Brahim Díaz | 8 | 29 | 22
+EDGE Aurélien Tchouaméni | Éder Militão | 2 | 29 | 6
+EDGE Aurélien Tchouaméni | Dani Ceballos | 1 | 29 | 8
+EDGE Aurélien Tchouaméni | Arda Güler | 1 | 29 | 5
+EDGE Vinicius Junior | Joselu | 5 | 33 | 18
+EDGE Vinicius Junior | Andriy Lunin | 20 | 33 | 29
+EDGE Vinicius Junior | Thibaut Courtois | 3 | 33 | 5
+EDGE Vinicius Junior | Éder Militão | 2 | 33 | 6
+EDGE Vinicius Junior | Ferland Mendy | 22 | 33 | 31
+EDGE Vinicius Junior | Dani Ceballos | 1 | 33 | 8
+EDGE Vinicius Junior | Brahim Díaz | 8 | 33 | 22
+EDGE Joselu | Ferland Mendy | 6 | 18 | 31
+EDGE Joselu | Andriy Lunin | 6 | 18 | 29
+EDGE Joselu | Éder Militão | 4 | 18 | 6
+EDGE Joselu | Dani Ceballos | 6 | 18 | 8
+EDGE Joselu | Brahim Díaz | 9 | 18 | 22
+EDGE Joselu | Arda Güler | 5 | 18 | 5
+EDGE Joselu | Thibaut Courtois | 2 | 18 | 5
+EDGE Joselu | Álvaro Carrillo | 1 | 18 | 1
+EDGE Joselu | Vinícius Tobias | 1 | 18 | 1
+EDGE Joselu | Nico Paz | 1 | 18 | 1
+EDGE Andriy Lunin | Ferland Mendy | 22 | 29 | 31
+EDGE Andriy Lunin | Dani Ceballos | 3 | 29 | 8
+EDGE Andriy Lunin | Brahim Díaz | 16 | 29 | 22
+EDGE Andriy Lunin | Éder Militão | 2 | 29 | 6
+EDGE Andriy Lunin | Arda Güler | 1 | 29 | 5
+EDGE Thibaut Courtois | Éder Militão | 3 | 5 | 6
+EDGE Thibaut Courtois | Ferland Mendy | 3 | 5 | 31
+EDGE Thibaut Courtois | Dani Ceballos | 2 | 5 | 8
+EDGE Thibaut Courtois | Brahim Díaz | 2 | 5 | 22
+EDGE Thibaut Courtois | Arda Güler | 2 | 5 | 5
+EDGE Éder Militão | Ferland Mendy | 1 | 6 | 31
+EDGE Éder Militão | Dani Ceballos | 4 | 6 | 8
+EDGE Éder Militão | Brahim Díaz | 4 | 6 | 22
+EDGE Éder Militão | Arda Güler | 4 | 6 | 5
+EDGE Ferland Mendy | Brahim Díaz | 14 | 31 | 22
+EDGE Ferland Mendy | Dani Ceballos | 1 | 31 | 8
+EDGE Dani Ceballos | Brahim Díaz | 7 | 8 | 22
+EDGE Dani Ceballos | Arda Güler | 5 | 8 | 5
+EDGE Dani Ceballos | Álvaro Carrillo | 1 | 8 | 1
+EDGE Dani Ceballos | Vinícius Tobias | 1 | 8 | 1
+EDGE Dani Ceballos | Nico Paz | 1 | 8 | 1
+EDGE Brahim Díaz | Arda Güler | 5 | 22 | 5
+EDGE Brahim Díaz | Álvaro Carrillo | 1 | 22 | 1
+EDGE Brahim Díaz | Vinícius Tobias | 1 | 22 | 1
+EDGE Brahim Díaz | Nico Paz | 1 | 22 | 1
+EDGE Arda Güler | Álvaro Carrillo | 1 | 5 | 1
+EDGE Arda Güler | Vinícius Tobias | 1 | 5 | 1
+EDGE Arda Güler | Nico Paz | 1 | 5 | 1
+EDGE Álvaro Carrillo | Vinícius Tobias | 1 | 1 | 1
+EDGE Álvaro Carrillo | Nico Paz | 1 | 1 | 1
+EDGE Vinícius Tobias | Nico Paz | 1 | 1 | 1

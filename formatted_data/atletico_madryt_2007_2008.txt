@@ -1,0 +1,172 @@
+# Team: Atlético Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 78866 | niedz., 28.10.2007 | Levante UD
+PLAYERS: Leo Franco, Zé Castro, Pablo Ibáñez, Antonio López, Luis Amaranto Perea, Maniche, Raúl García, Luis García, Sergio Agüero, Maxi Rodríguez, Diego Forlán
+
+MATCH: 87746 | czw., 29.11.2007 | Aberdeen FC
+PLAYERS: Christian Abbiati, Fabiano Eller, Pablo Ibáñez, Antonio López, Mariano Pernía, Thiago Motta, Cléber Santana, Maxi Rodríguez, Luis García, Diego Forlán, Sergio Agüero
+
+MATCH: 78884 | niedz., 04.11.2007 | Villarreal CF
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Mariano Pernía, Georgios Seitaridis, Maniche, Raúl García, Maxi Rodríguez, Simão, José Antonio Reyes, Sergio Agüero
+
+MATCH: 89324 | czw., 14.02.2008 | Bolton Wanderers
+PLAYERS: Christian Abbiati, Pablo Ibáñez, Mariano Pernía, Antonio López, Luis Amaranto Perea, Cléber Santana, Maxi Rodríguez, Simão, José Antonio Reyes, Mista, Diego Forlán
+
+MATCH: 88949 | czw., 21.02.2008 | Bolton Wanderers
+PLAYERS: Christian Abbiati, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Mariano Pernía, Cléber Santana, José Manuel Jurado, Maxi Rodríguez, José Antonio Reyes, Luis García, Diego Forlán
+
+MATCH: 88436 | śr., 16.01.2008 | Real Valladolid CF
+PLAYERS: Ismael Falcón, Pablo Ibáñez, Luis Amaranto Perea, Mariano Pernía, Juan Valera, Thiago Motta, Raúl García, José Antonio Reyes, Luis García, Diego Forlán, Sergio Agüero
+
+MATCH: 78941 | niedz., 16.12.2007 | Recreativo Huelva
+PLAYERS: Christian Abbiati, Fabiano Eller, Pablo Ibáñez, Mariano Pernía, Luis Amaranto Perea, Cléber Santana, Raúl García, Simão, Maxi Rodríguez, Diego Forlán, Sergio Agüero
+
+MATCH: 79053 | sob., 08.03.2008 | Real Zaragoza
+PLAYERS: Christian Abbiati, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Juan Valera, Cléber Santana, Raúl García, Simão, Maxi Rodríguez, Diego Forlán, Sergio Agüero
+
+MATCH: 79011 | niedz., 10.02.2008 | Racing Santander
+PLAYERS: Christian Abbiati, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Mariano Pernía, Cléber Santana, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 76212 | sob., 28.07.2007 | CF Gloria Bistrita (- 2015)
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Mariano Pernía, Georgios Seitaridis, Peter Luccin, Maniche, José Manuel Jurado, Maxi Rodríguez, Diego Forlán, Sergio Agüero
+
+MATCH: 78945 | niedz., 23.12.2007 | RCD Espanyol
+PLAYERS: Christian Abbiati, Fabiano Eller, Pablo Ibáñez, Luis Amaranto Perea, Mariano Pernía, Cléber Santana, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 79015 | niedz., 17.02.2008 | Athletic Bilbao
+PLAYERS: Christian Abbiati, Fabiano Eller, Pablo Ibáñez, Mariano Pernía, Antonio López, Raúl García, José Manuel Jurado, Maxi Rodríguez, Luis García, Diego Forlán, Sergio Agüero
+
+MATCH: 84314 | czw., 20.09.2007 | Kayseri Erciyesspor
+PLAYERS: Christian Abbiati, Fabiano Eller, Zé Castro, Antonio López, Luis Amaranto Perea, Cléber Santana, Maniche, José Manuel Jurado, Diego Forlán, Luis García, Mista
+
+MATCH: 79029 | niedz., 24.02.2008 | CA Osasuna
+PLAYERS: Christian Abbiati, Fabiano Eller, Luis Amaranto Perea, Antonio López, Mariano Pernía, Cléber Santana, José Manuel Jurado, Maxi Rodríguez, José Antonio Reyes, Luis García, Diego Forlán
+
+MATCH: 79035 | sob., 01.03.2008 | FC Barcelona
+PLAYERS: Christian Abbiati, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Juan Valera, Ignacio Camacho, Raúl García, Simão, Maxi Rodríguez, Diego Forlán, Sergio Agüero
+
+MATCH: 79084 | niedz., 06.04.2008 | UD Almería
+PLAYERS: Christian Abbiati, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Mariano Pernía, Ignacio Camacho, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 79103 | niedz., 13.04.2008 | Real Valladolid CF
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Mariano Pernía, Ignacio Camacho, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 78995 | niedz., 03.02.2008 | Real Murcia CF
+PLAYERS: Christian Abbiati, Fabiano Eller, Luis Amaranto Perea, Pablo Ibáñez, Mariano Pernía, Thiago Motta, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 78915 | niedz., 02.12.2007 | Real Betis Balompié
+PLAYERS: Leo Franco, Fabiano Eller, Pablo Ibáñez, Antonio López, Mariano Pernía, Maniche, Raúl García, Maxi Rodríguez, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 79136 | czw., 08.05.2008 | RCD Espanyol
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Mariano Pernía, Ignacio Camacho, Raúl García, Maxi Rodríguez, Luis García, Diego Forlán, Sergio Agüero
+
+MATCH: 84329 | czw., 04.10.2007 | Kayseri Erciyesspor
+PLAYERS: Christian Abbiati, Fabiano Eller, Zé Castro, Antonio López, Mariano Pernía, Cléber Santana, Raúl García, José Manuel Jurado, Maxi Rodríguez, Luis García, Sergio Agüero
+
+MATCH: 88489 | śr., 30.01.2008 | Valencia CF
+PLAYERS: Ismael Falcón, Fabiano Eller, Luis Amaranto Perea, Antonio López, Juan Valera, Cléber Santana, Luis García, José Antonio Reyes, Maxi Rodríguez, Diego Forlán, Sergio Agüero
+
+MATCH: 78808 | niedz., 16.09.2007 | Real Murcia CF
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Mariano Pernía, Georgios Seitaridis, Maniche, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 81209 | czw., 30.08.2007 | FK Vojvodina Novi Sad
+PLAYERS: Christian Abbiati, Fabiano Eller, Luis Amaranto Perea, Zé Castro, Antonio López, Cléber Santana, Raúl García, José Antonio Reyes, Luis García, Mista, Diego Forlán
+
+MATCH: 73481 | sob., 21.07.2007 | CF Gloria Bistrita (- 2015)
+PLAYERS: Leo Franco, Fabiano Eller, Luis Amaranto Perea, Antonio López, Georgios Seitaridis, Peter Luccin, Maniche, Raúl García, Martin Petrov, Maxi Rodríguez, Mista
+
+MATCH: 78795 | niedz., 02.09.2007 | RCD Mallorca
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Mariano Pernía, Georgios Seitaridis, Maniche, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 81145 | czw., 16.08.2007 | FK Vojvodina Novi Sad
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Mariano Pernía, Georgios Seitaridis, Maniche, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 88428 | czw., 10.01.2008 | Real Valladolid CF
+PLAYERS: Ismael Falcón, Fabiano Eller, Zé Castro, Mariano Pernía, Juan Valera, Cléber Santana, Raúl García, José Antonio Reyes, Luis García, Mista, Diego Forlán
+
+MATCH: 78904 | niedz., 25.11.2007 | Real Valladolid CF
+PLAYERS: Leo Franco, Pablo Ibáñez, Zé Castro, Mariano Pernía, Juan Valera, Maniche, Raúl García, Maxi Rodríguez, Simão, José Antonio Reyes, Sergio Agüero
+
+MATCH: 79055 | niedz., 16.03.2008 | Levante UD
+PLAYERS: Christian Abbiati, Luis Amaranto Perea, Pablo Ibáñez, Mariano Pernía, Antonio López, Cléber Santana, Raúl García, Luis García, Simão, Sergio Agüero, Diego Forlán
+
+MATCH: 78894 | niedz., 11.11.2007 | UD Almería
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, Georgios Seitaridis, Cléber Santana, Maniche, Maxi Rodríguez, Simão, José Antonio Reyes, Sergio Agüero
+
+MATCH: 78815 | niedz., 23.09.2007 | Racing Santander
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Mariano Pernía, Georgios Seitaridis, Maniche, Raúl García, Maxi Rodríguez, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 78925 | niedz., 09.12.2007 | Getafe CF
+PLAYERS: Christian Abbiati, Fabiano Eller, Luis Amaranto Perea, Antonio López, Mariano Pernía, Maniche, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 78824 | śr., 26.09.2007 | Athletic Bilbao
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Mariano Pernía, Georgios Seitaridis, Maniche, Raúl García, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 79072 | sob., 22.03.2008 | Sevilla FC
+PLAYERS: Christian Abbiati, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Mariano Pernía, Ignacio Camacho, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 88155 | śr., 05.12.2007 | FC Kopenhaga
+PLAYERS: Christian Abbiati, Fabiano Eller, Pablo Ibáñez, Mariano Pernía, Antonio López, Thiago Motta, Cléber Santana, Simão, Luis García, Diego Forlán, Sergio Agüero
+
+MATCH: 78845 | niedz., 07.10.2007 | FC Barcelona
+PLAYERS: Christian Abbiati, Zé Castro, Pablo Ibáñez, Mariano Pernía, Georgios Seitaridis, Maniche, Raúl García, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 78855 | niedz., 21.10.2007 | Real Zaragoza
+PLAYERS: Leo Franco, Zé Castro, Pablo Ibáñez, Mariano Pernía, Luis Amaranto Perea, Maniche, Raúl García, Luis García, Maxi Rodríguez, Diego Forlán, Sergio Agüero
+
+MATCH: 78987 | niedz., 27.01.2008 | RCD Mallorca
+PLAYERS: Christian Abbiati, Fabiano Eller, Pablo Ibáñez, Mariano Pernía, Juan Valera, Thiago Motta, Cléber Santana, José Antonio Reyes, Luis García, Mista, Diego Forlán
+
+MATCH: 85466 | czw., 25.10.2007 | Lokomotiv Moskau
+PLAYERS: Christian Abbiati, Fabiano Eller, Pablo Ibáñez, Mariano Pernía, Antonio López, Cléber Santana, José Manuel Jurado, Simão, Raúl García, Diego Forlán, Sergio Agüero
+
+MATCH: 88370 | czw., 20.12.2007 | Panathinaikos FC
+PLAYERS: Christian Abbiati, Fabiano Eller, Zé Castro, Antonio López, Luis Amaranto Perea, Cléber Santana, Raúl García, Maxi Rodríguez, Luis García, Sergio Agüero, Diego Forlán
+
+MATCH: 88485 | śr., 23.01.2008 | Valencia CF
+PLAYERS: Ismael Falcón, Luis Amaranto Perea, Pablo Ibáñez, Mariano Pernía, Juan Valera, Thiago Motta, Cléber Santana, Luis García, Maxi Rodríguez, Sergio Agüero, Mista
+
+MATCH: 78789 | sob., 25.08.2007 | Real Madryt
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Mariano Pernía, Georgios Seitaridis, Maniche, Raúl García, Simão, Maxi Rodríguez, Sergio Agüero, Diego Forlán
+
+MATCH: 79083 | sob., 29.03.2008 | Villarreal CF
+PLAYERS: Christian Abbiati, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Mariano Pernía, Ignacio Camacho, Raúl García, Maxi Rodríguez, Luis García, Diego Forlán, Sergio Agüero
+
+MATCH: 79145 | niedz., 11.05.2008 | Deportivo de La Coruña
+PLAYERS: Leo Franco, Fabiano Eller, Pablo Ibáñez, Antonio López, Mariano Pernía, Ignacio Camacho, Raúl García, Maxi Rodríguez, Luis García, Diego Forlán, Sergio Agüero
+
+MATCH: 78875 | śr., 31.10.2007 | Sevilla FC
+PLAYERS: Leo Franco, Luis Amaranto Perea, Zé Castro, Mariano Pernía, Georgios Seitaridis, Maniche, Raúl García, Maxi Rodríguez, Luis García, Diego Forlán, Sergio Agüero
+
+MATCH: 79130 | sob., 03.05.2008 | Recreativo Huelva
+PLAYERS: Leo Franco, Pablo Ibáñez, Ignacio Camacho, Mariano Pernía, Luis Amaranto Perea, Raúl García, Luis García, Antonio López, Maxi Rodríguez, Diego Forlán, Sergio Agüero
+
+MATCH: 79163 | niedz., 18.05.2008 | Valencia CF
+PLAYERS: Christian Abbiati, Fabiano Eller, Zé Castro, Georgios Seitaridis, Juan Valera, Cléber Santana, Raúl García, Simão, Miguel de las Cuevas, Mista, Diego Forlán
+
+MATCH: 78835 | niedz., 30.09.2007 | CA Osasuna
+PLAYERS: Christian Abbiati, Fabiano Eller, Pablo Ibáñez, Antonio López, Georgios Seitaridis, Maniche, Raúl García, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 86913 | śr., 12.12.2007 | Granada 74 CF
+PLAYERS: Ismael Falcón, Pablo Ibáñez, Zé Castro, Antonio López, Juan Valera, Cléber Santana, Raúl García, Simão, Luis García, Mista, Diego Forlán
+
+MATCH: 79104 | sob., 19.04.2008 | Real Betis Balompié
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Georgios Seitaridis, Cléber Santana, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 78975 | niedz., 20.01.2008 | Real Madryt
+PLAYERS: Christian Abbiati, Fabiano Eller, Pablo Ibáñez, Antonio López, Luis Amaranto Perea, Thiago Motta, Raúl García, Simão, Maxi Rodríguez, Sergio Agüero, Diego Forlán
+
+MATCH: 78954 | niedz., 06.01.2008 | Deportivo de La Coruña
+PLAYERS: Christian Abbiati, Fabiano Eller, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, José Manuel Jurado, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 78965 | niedz., 13.01.2008 | Valencia CF
+PLAYERS: Christian Abbiati, Fabiano Eller, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, Cléber Santana, Raúl García, Maxi Rodríguez, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 87619 | śr., 02.01.2008 | Granada 74 CF
+PLAYERS: Ismael Falcón, Luis Amaranto Perea, Zé Castro, Mariano Pernía, Juan Valera, Cléber Santana, José Manuel Jurado, José Antonio Reyes, Luis García, Miguel de las Cuevas, Mista
+
+MATCH: 79117 | niedz., 27.04.2008 | Getafe CF
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Mariano Pernía, Ignacio Camacho, Raúl García, Maxi Rodríguez, Luis García, Diego Forlán, Sergio Agüero
+

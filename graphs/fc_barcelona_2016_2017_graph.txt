@@ -1,0 +1,278 @@
+# Graph for Java/GraphStream
+# Nodes: 27
+# Edges: 272
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Jasper Cillessen | Samuel Umtiti | 9 | 10 | 42
+EDGE Jasper Cillessen | Gerard Piqué | 6 | 10 | 41
+EDGE Jasper Cillessen | Jordi Alba | 5 | 10 | 33
+EDGE Jasper Cillessen | Sergi Roberto | 5 | 10 | 40
+EDGE Jasper Cillessen | Javier Mascherano | 6 | 10 | 33
+EDGE Jasper Cillessen | Ivan Rakitic | 6 | 10 | 41
+EDGE Jasper Cillessen | André Gomes | 5 | 10 | 27
+EDGE Jasper Cillessen | Neymar | 6 | 10 | 45
+EDGE Jasper Cillessen | Lionel Messi | 7 | 10 | 50
+EDGE Jasper Cillessen | Luis Suárez | 5 | 10 | 50
+EDGE Jasper Cillessen | Lucas Digne | 5 | 10 | 20
+EDGE Jasper Cillessen | Aleix Vidal | 4 | 10 | 9
+EDGE Jasper Cillessen | Andrés Iniesta | 4 | 10 | 25
+EDGE Jasper Cillessen | Denis Suárez | 6 | 10 | 18
+EDGE Jasper Cillessen | Arda Turan | 5 | 10 | 20
+EDGE Jasper Cillessen | Paco Alcácer | 5 | 10 | 11
+EDGE Jasper Cillessen | Sergio Busquets | 4 | 10 | 47
+EDGE Jasper Cillessen | Rafinha | 3 | 10 | 18
+EDGE Jasper Cillessen | Jérémy Mathieu | 1 | 10 | 14
+EDGE Jasper Cillessen | Borja López | 1 | 10 | 1
+EDGE Jasper Cillessen | Àlex Carbonell | 1 | 10 | 1
+EDGE Jasper Cillessen | Carles Aleñá | 1 | 10 | 1
+EDGE Samuel Umtiti | Gerard Piqué | 26 | 42 | 41
+EDGE Samuel Umtiti | Jordi Alba | 24 | 42 | 33
+EDGE Samuel Umtiti | Sergi Roberto | 27 | 42 | 40
+EDGE Samuel Umtiti | Javier Mascherano | 19 | 42 | 33
+EDGE Samuel Umtiti | Ivan Rakitic | 30 | 42 | 41
+EDGE Samuel Umtiti | André Gomes | 18 | 42 | 27
+EDGE Samuel Umtiti | Neymar | 31 | 42 | 45
+EDGE Samuel Umtiti | Lionel Messi | 40 | 42 | 50
+EDGE Samuel Umtiti | Luis Suárez | 36 | 42 | 50
+EDGE Samuel Umtiti | Marc-André ter Stegen | 31 | 42 | 46
+EDGE Samuel Umtiti | Aleix Vidal | 7 | 42 | 9
+EDGE Samuel Umtiti | Sergio Busquets | 31 | 42 | 47
+EDGE Samuel Umtiti | Rafinha | 13 | 42 | 18
+EDGE Samuel Umtiti | Arda Turan | 11 | 42 | 20
+EDGE Samuel Umtiti | Claudio Bravo | 2 | 42 | 3
+EDGE Samuel Umtiti | Lucas Digne | 13 | 42 | 20
+EDGE Samuel Umtiti | Denis Suárez | 12 | 42 | 18
+EDGE Samuel Umtiti | Munir El Haddadi | 1 | 42 | 1
+EDGE Samuel Umtiti | Jérémy Mathieu | 7 | 42 | 14
+EDGE Samuel Umtiti | Marlon | 2 | 42 | 2
+EDGE Samuel Umtiti | Andrés Iniesta | 20 | 42 | 25
+EDGE Samuel Umtiti | Paco Alcácer | 7 | 42 | 11
+EDGE Samuel Umtiti | Borja López | 1 | 42 | 1
+EDGE Samuel Umtiti | Àlex Carbonell | 1 | 42 | 1
+EDGE Samuel Umtiti | Carles Aleñá | 1 | 42 | 1
+EDGE Gerard Piqué | Jordi Alba | 26 | 41 | 33
+EDGE Gerard Piqué | Sergi Roberto | 32 | 41 | 40
+EDGE Gerard Piqué | Javier Mascherano | 21 | 41 | 33
+EDGE Gerard Piqué | Ivan Rakitic | 29 | 41 | 41
+EDGE Gerard Piqué | André Gomes | 17 | 41 | 27
+EDGE Gerard Piqué | Neymar | 32 | 41 | 45
+EDGE Gerard Piqué | Lionel Messi | 36 | 41 | 50
+EDGE Gerard Piqué | Luis Suárez | 37 | 41 | 50
+EDGE Gerard Piqué | Marc-André ter Stegen | 33 | 41 | 46
+EDGE Gerard Piqué | Sergio Busquets | 34 | 41 | 47
+EDGE Gerard Piqué | Andrés Iniesta | 21 | 41 | 25
+EDGE Gerard Piqué | Lucas Digne | 8 | 41 | 20
+EDGE Gerard Piqué | Denis Suárez | 9 | 41 | 18
+EDGE Gerard Piqué | Arda Turan | 13 | 41 | 20
+EDGE Gerard Piqué | Paco Alcácer | 7 | 41 | 11
+EDGE Gerard Piqué | Rafinha | 11 | 41 | 18
+EDGE Gerard Piqué | Claudio Bravo | 2 | 41 | 3
+EDGE Gerard Piqué | Jérémy Mathieu | 8 | 41 | 14
+EDGE Gerard Piqué | Aleix Vidal | 2 | 41 | 9
+EDGE Jordi Alba | Sergi Roberto | 26 | 33 | 40
+EDGE Jordi Alba | Javier Mascherano | 16 | 33 | 33
+EDGE Jordi Alba | Ivan Rakitic | 24 | 33 | 41
+EDGE Jordi Alba | André Gomes | 16 | 33 | 27
+EDGE Jordi Alba | Neymar | 25 | 33 | 45
+EDGE Jordi Alba | Lionel Messi | 30 | 33 | 50
+EDGE Jordi Alba | Luis Suárez | 32 | 33 | 50
+EDGE Jordi Alba | Marc-André ter Stegen | 27 | 33 | 46
+EDGE Jordi Alba | Aleix Vidal | 1 | 33 | 9
+EDGE Jordi Alba | Sergio Busquets | 29 | 33 | 47
+EDGE Jordi Alba | Rafinha | 7 | 33 | 18
+EDGE Jordi Alba | Arda Turan | 8 | 33 | 20
+EDGE Jordi Alba | Andrés Iniesta | 14 | 33 | 25
+EDGE Jordi Alba | Jérémy Mathieu | 4 | 33 | 14
+EDGE Jordi Alba | Denis Suárez | 8 | 33 | 18
+EDGE Jordi Alba | Marlon | 2 | 33 | 2
+EDGE Jordi Alba | Lucas Digne | 1 | 33 | 20
+EDGE Jordi Alba | Paco Alcácer | 4 | 33 | 11
+EDGE Jordi Alba | Claudio Bravo | 1 | 33 | 3
+EDGE Sergi Roberto | Javier Mascherano | 19 | 40 | 33
+EDGE Sergi Roberto | Ivan Rakitic | 28 | 40 | 41
+EDGE Sergi Roberto | André Gomes | 19 | 40 | 27
+EDGE Sergi Roberto | Neymar | 32 | 40 | 45
+EDGE Sergi Roberto | Lionel Messi | 35 | 40 | 50
+EDGE Sergi Roberto | Luis Suárez | 39 | 40 | 50
+EDGE Sergi Roberto | Marc-André ter Stegen | 33 | 40 | 46
+EDGE Sergi Roberto | Sergio Busquets | 34 | 40 | 47
+EDGE Sergi Roberto | Andrés Iniesta | 18 | 40 | 25
+EDGE Sergi Roberto | Denis Suárez | 9 | 40 | 18
+EDGE Sergi Roberto | Arda Turan | 10 | 40 | 20
+EDGE Sergi Roberto | Lucas Digne | 10 | 40 | 20
+EDGE Sergi Roberto | Rafinha | 9 | 40 | 18
+EDGE Sergi Roberto | Paco Alcácer | 4 | 40 | 11
+EDGE Sergi Roberto | Jérémy Mathieu | 8 | 40 | 14
+EDGE Sergi Roberto | Claudio Bravo | 2 | 40 | 3
+EDGE Sergi Roberto | Marlon | 1 | 40 | 2
+EDGE Javier Mascherano | Ivan Rakitic | 23 | 33 | 41
+EDGE Javier Mascherano | André Gomes | 16 | 33 | 27
+EDGE Javier Mascherano | Neymar | 26 | 33 | 45
+EDGE Javier Mascherano | Lionel Messi | 27 | 33 | 50
+EDGE Javier Mascherano | Luis Suárez | 26 | 33 | 50
+EDGE Javier Mascherano | Marc-André ter Stegen | 25 | 33 | 46
+EDGE Javier Mascherano | Aleix Vidal | 5 | 33 | 9
+EDGE Javier Mascherano | Sergio Busquets | 26 | 33 | 47
+EDGE Javier Mascherano | Rafinha | 10 | 33 | 18
+EDGE Javier Mascherano | Arda Turan | 10 | 33 | 20
+EDGE Javier Mascherano | Andrés Iniesta | 14 | 33 | 25
+EDGE Javier Mascherano | Claudio Bravo | 2 | 33 | 3
+EDGE Javier Mascherano | Lucas Digne | 12 | 33 | 20
+EDGE Javier Mascherano | Denis Suárez | 13 | 33 | 18
+EDGE Javier Mascherano | Munir El Haddadi | 1 | 33 | 1
+EDGE Javier Mascherano | Paco Alcácer | 7 | 33 | 11
+EDGE Javier Mascherano | Jérémy Mathieu | 6 | 33 | 14
+EDGE Ivan Rakitic | André Gomes | 14 | 41 | 27
+EDGE Ivan Rakitic | Neymar | 33 | 41 | 45
+EDGE Ivan Rakitic | Lionel Messi | 36 | 41 | 50
+EDGE Ivan Rakitic | Luis Suárez | 37 | 41 | 50
+EDGE Ivan Rakitic | Marc-André ter Stegen | 33 | 41 | 46
+EDGE Ivan Rakitic | Sergio Busquets | 33 | 41 | 47
+EDGE Ivan Rakitic | Andrés Iniesta | 17 | 41 | 25
+EDGE Ivan Rakitic | Lucas Digne | 13 | 41 | 20
+EDGE Ivan Rakitic | Denis Suárez | 10 | 41 | 18
+EDGE Ivan Rakitic | Arda Turan | 10 | 41 | 20
+EDGE Ivan Rakitic | Paco Alcácer | 7 | 41 | 11
+EDGE Ivan Rakitic | Marlon | 2 | 41 | 2
+EDGE Ivan Rakitic | Rafinha | 10 | 41 | 18
+EDGE Ivan Rakitic | Jérémy Mathieu | 9 | 41 | 14
+EDGE Ivan Rakitic | Claudio Bravo | 2 | 41 | 3
+EDGE Ivan Rakitic | Aleix Vidal | 4 | 41 | 9
+EDGE André Gomes | Neymar | 18 | 27 | 45
+EDGE André Gomes | Lionel Messi | 23 | 27 | 50
+EDGE André Gomes | Luis Suárez | 22 | 27 | 50
+EDGE André Gomes | Marc-André ter Stegen | 21 | 27 | 46
+EDGE André Gomes | Aleix Vidal | 6 | 27 | 9
+EDGE André Gomes | Sergio Busquets | 20 | 27 | 47
+EDGE André Gomes | Rafinha | 7 | 27 | 18
+EDGE André Gomes | Arda Turan | 11 | 27 | 20
+EDGE André Gomes | Claudio Bravo | 1 | 27 | 3
+EDGE André Gomes | Lucas Digne | 10 | 27 | 20
+EDGE André Gomes | Denis Suárez | 8 | 27 | 18
+EDGE André Gomes | Munir El Haddadi | 1 | 27 | 1
+EDGE André Gomes | Paco Alcácer | 5 | 27 | 11
+EDGE André Gomes | Jérémy Mathieu | 7 | 27 | 14
+EDGE André Gomes | Andrés Iniesta | 5 | 27 | 25
+EDGE Neymar | Lionel Messi | 38 | 45 | 50
+EDGE Neymar | Luis Suárez | 41 | 45 | 50
+EDGE Neymar | Marc-André ter Stegen | 39 | 45 | 46
+EDGE Neymar | Sergio Busquets | 37 | 45 | 47
+EDGE Neymar | Andrés Iniesta | 21 | 45 | 25
+EDGE Neymar | Jérémy Mathieu | 13 | 45 | 14
+EDGE Neymar | Denis Suárez | 9 | 45 | 18
+EDGE Neymar | Marlon | 2 | 45 | 2
+EDGE Neymar | Lucas Digne | 15 | 45 | 20
+EDGE Neymar | Rafinha | 15 | 45 | 18
+EDGE Neymar | Arda Turan | 8 | 45 | 20
+EDGE Neymar | Paco Alcácer | 5 | 45 | 11
+EDGE Neymar | Aleix Vidal | 4 | 45 | 9
+EDGE Lionel Messi | Luis Suárez | 45 | 50 | 50
+EDGE Lionel Messi | Marc-André ter Stegen | 40 | 50 | 46
+EDGE Lionel Messi | Aleix Vidal | 6 | 50 | 9
+EDGE Lionel Messi | Sergio Busquets | 40 | 50 | 47
+EDGE Lionel Messi | Rafinha | 11 | 50 | 18
+EDGE Lionel Messi | Arda Turan | 13 | 50 | 20
+EDGE Lionel Messi | Andrés Iniesta | 24 | 50 | 25
+EDGE Lionel Messi | Claudio Bravo | 3 | 50 | 3
+EDGE Lionel Messi | Lucas Digne | 14 | 50 | 20
+EDGE Lionel Messi | Denis Suárez | 14 | 50 | 18
+EDGE Lionel Messi | Munir El Haddadi | 1 | 50 | 1
+EDGE Lionel Messi | Paco Alcácer | 6 | 50 | 11
+EDGE Lionel Messi | Jérémy Mathieu | 9 | 50 | 14
+EDGE Lionel Messi | Marlon | 2 | 50 | 2
+EDGE Luis Suárez | Marc-André ter Stegen | 43 | 50 | 46
+EDGE Luis Suárez | Aleix Vidal | 3 | 50 | 9
+EDGE Luis Suárez | Sergio Busquets | 42 | 50 | 47
+EDGE Luis Suárez | Rafinha | 14 | 50 | 18
+EDGE Luis Suárez | Arda Turan | 12 | 50 | 20
+EDGE Luis Suárez | Andrés Iniesta | 23 | 50 | 25
+EDGE Luis Suárez | Jérémy Mathieu | 12 | 50 | 14
+EDGE Luis Suárez | Denis Suárez | 11 | 50 | 18
+EDGE Luis Suárez | Marlon | 2 | 50 | 2
+EDGE Luis Suárez | Lucas Digne | 13 | 50 | 20
+EDGE Luis Suárez | Claudio Bravo | 2 | 50 | 3
+EDGE Luis Suárez | Paco Alcácer | 3 | 50 | 11
+EDGE Marc-André ter Stegen | Aleix Vidal | 4 | 46 | 9
+EDGE Marc-André ter Stegen | Sergio Busquets | 40 | 46 | 47
+EDGE Marc-André ter Stegen | Rafinha | 15 | 46 | 18
+EDGE Marc-André ter Stegen | Arda Turan | 12 | 46 | 20
+EDGE Marc-André ter Stegen | Andrés Iniesta | 20 | 46 | 25
+EDGE Marc-André ter Stegen | Lucas Digne | 14 | 46 | 20
+EDGE Marc-André ter Stegen | Denis Suárez | 10 | 46 | 18
+EDGE Marc-André ter Stegen | Paco Alcácer | 6 | 46 | 11
+EDGE Marc-André ter Stegen | Jérémy Mathieu | 12 | 46 | 14
+EDGE Marc-André ter Stegen | Marlon | 2 | 46 | 2
+EDGE Aleix Vidal | Sergio Busquets | 4 | 9 | 47
+EDGE Aleix Vidal | Rafinha | 4 | 9 | 18
+EDGE Aleix Vidal | Arda Turan | 8 | 9 | 20
+EDGE Aleix Vidal | Claudio Bravo | 1 | 9 | 3
+EDGE Aleix Vidal | Lucas Digne | 7 | 9 | 20
+EDGE Aleix Vidal | Denis Suárez | 6 | 9 | 18
+EDGE Aleix Vidal | Munir El Haddadi | 1 | 9 | 1
+EDGE Aleix Vidal | Andrés Iniesta | 1 | 9 | 25
+EDGE Aleix Vidal | Paco Alcácer | 5 | 9 | 11
+EDGE Aleix Vidal | Jérémy Mathieu | 4 | 9 | 14
+EDGE Aleix Vidal | Borja López | 1 | 9 | 1
+EDGE Aleix Vidal | Àlex Carbonell | 1 | 9 | 1
+EDGE Aleix Vidal | Carles Aleñá | 1 | 9 | 1
+EDGE Sergio Busquets | Rafinha | 12 | 47 | 18
+EDGE Sergio Busquets | Arda Turan | 14 | 47 | 20
+EDGE Sergio Busquets | Andrés Iniesta | 22 | 47 | 25
+EDGE Sergio Busquets | Claudio Bravo | 3 | 47 | 3
+EDGE Sergio Busquets | Lucas Digne | 14 | 47 | 20
+EDGE Sergio Busquets | Denis Suárez | 11 | 47 | 18
+EDGE Sergio Busquets | Munir El Haddadi | 1 | 47 | 1
+EDGE Sergio Busquets | Paco Alcácer | 7 | 47 | 11
+EDGE Sergio Busquets | Jérémy Mathieu | 10 | 47 | 14
+EDGE Sergio Busquets | Marlon | 2 | 47 | 2
+EDGE Rafinha | Arda Turan | 8 | 18 | 20
+EDGE Rafinha | Andrés Iniesta | 5 | 18 | 25
+EDGE Rafinha | Lucas Digne | 7 | 18 | 20
+EDGE Rafinha | Denis Suárez | 5 | 18 | 18
+EDGE Rafinha | Paco Alcácer | 4 | 18 | 11
+EDGE Rafinha | Jérémy Mathieu | 7 | 18 | 14
+EDGE Rafinha | Borja López | 1 | 18 | 1
+EDGE Rafinha | Àlex Carbonell | 1 | 18 | 1
+EDGE Rafinha | Carles Aleñá | 1 | 18 | 1
+EDGE Arda Turan | Claudio Bravo | 3 | 20 | 3
+EDGE Arda Turan | Lucas Digne | 10 | 20 | 20
+EDGE Arda Turan | Denis Suárez | 12 | 20 | 18
+EDGE Arda Turan | Munir El Haddadi | 1 | 20 | 1
+EDGE Arda Turan | Paco Alcácer | 7 | 20 | 11
+EDGE Arda Turan | Andrés Iniesta | 3 | 20 | 25
+EDGE Arda Turan | Jérémy Mathieu | 8 | 20 | 14
+EDGE Arda Turan | Borja López | 1 | 20 | 1
+EDGE Arda Turan | Àlex Carbonell | 1 | 20 | 1
+EDGE Arda Turan | Carles Aleñá | 1 | 20 | 1
+EDGE Andrés Iniesta | Marlon | 2 | 25 | 2
+EDGE Andrés Iniesta | Lucas Digne | 6 | 25 | 20
+EDGE Andrés Iniesta | Denis Suárez | 2 | 25 | 18
+EDGE Andrés Iniesta | Paco Alcácer | 4 | 25 | 11
+EDGE Andrés Iniesta | Claudio Bravo | 1 | 25 | 3
+EDGE Andrés Iniesta | Jérémy Mathieu | 3 | 25 | 14
+EDGE Claudio Bravo | Lucas Digne | 1 | 3 | 20
+EDGE Claudio Bravo | Denis Suárez | 2 | 3 | 18
+EDGE Claudio Bravo | Munir El Haddadi | 1 | 3 | 1
+EDGE Claudio Bravo | Jérémy Mathieu | 1 | 3 | 14
+EDGE Lucas Digne | Denis Suárez | 10 | 20 | 18
+EDGE Lucas Digne | Munir El Haddadi | 1 | 20 | 1
+EDGE Lucas Digne | Paco Alcácer | 6 | 20 | 11
+EDGE Lucas Digne | Marlon | 1 | 20 | 2
+EDGE Lucas Digne | Jérémy Mathieu | 6 | 20 | 14
+EDGE Lucas Digne | Borja López | 1 | 20 | 1
+EDGE Lucas Digne | Àlex Carbonell | 1 | 20 | 1
+EDGE Lucas Digne | Carles Aleñá | 1 | 20 | 1
+EDGE Denis Suárez | Munir El Haddadi | 1 | 18 | 1
+EDGE Denis Suárez | Paco Alcácer | 6 | 18 | 11
+EDGE Denis Suárez | Jérémy Mathieu | 3 | 18 | 14
+EDGE Denis Suárez | Borja López | 1 | 18 | 1
+EDGE Denis Suárez | Àlex Carbonell | 1 | 18 | 1
+EDGE Denis Suárez | Carles Aleñá | 1 | 18 | 1
+EDGE Paco Alcácer | Jérémy Mathieu | 2 | 11 | 14
+EDGE Paco Alcácer | Borja López | 1 | 11 | 1
+EDGE Paco Alcácer | Àlex Carbonell | 1 | 11 | 1
+EDGE Paco Alcácer | Carles Aleñá | 1 | 11 | 1
+EDGE Borja López | Àlex Carbonell | 1 | 1 | 1
+EDGE Borja López | Carles Aleñá | 1 | 1 | 1
+EDGE Àlex Carbonell | Carles Aleñá | 1 | 1 | 1

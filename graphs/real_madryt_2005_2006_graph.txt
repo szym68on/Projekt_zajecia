@@ -1,0 +1,258 @@
+# Graph for Java/GraphStream
+# Nodes: 25
+# Edges: 252
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Iker Casillas | Sergio Ramos | 40 | 47 | 45
+EDGE Iker Casillas | Iván Helguera | 24 | 47 | 25
+EDGE Iker Casillas | Roberto Carlos | 44 | 47 | 45
+EDGE Iker Casillas | Míchel Salgado | 30 | 47 | 33
+EDGE Iker Casillas | Pablo García | 20 | 47 | 21
+EDGE Iker Casillas | David Beckham | 39 | 47 | 42
+EDGE Iker Casillas | Guti | 33 | 47 | 37
+EDGE Iker Casillas | Júlio Baptista | 31 | 47 | 35
+EDGE Iker Casillas | Robinho | 39 | 47 | 44
+EDGE Iker Casillas | Raúl | 24 | 47 | 25
+EDGE Iker Casillas | Francisco Pavón | 11 | 47 | 12
+EDGE Iker Casillas | Carlos Diogo | 10 | 47 | 12
+EDGE Iker Casillas | Zinédine Zidane | 30 | 47 | 30
+EDGE Iker Casillas | Ronaldo | 25 | 47 | 25
+EDGE Iker Casillas | Jonathan Woodgate | 11 | 47 | 11
+EDGE Iker Casillas | Thomas Gravesen | 16 | 47 | 20
+EDGE Iker Casillas | Cicinho | 18 | 47 | 19
+EDGE Iker Casillas | Álvaro Mejía | 12 | 47 | 15
+EDGE Iker Casillas | Antonio Cassano | 4 | 47 | 4
+EDGE Iker Casillas | Raúl Bravo | 9 | 47 | 13
+EDGE Sergio Ramos | Iván Helguera | 20 | 45 | 25
+EDGE Sergio Ramos | Roberto Carlos | 38 | 45 | 45
+EDGE Sergio Ramos | Míchel Salgado | 28 | 45 | 33
+EDGE Sergio Ramos | Pablo García | 18 | 45 | 21
+EDGE Sergio Ramos | David Beckham | 35 | 45 | 42
+EDGE Sergio Ramos | Guti | 33 | 45 | 37
+EDGE Sergio Ramos | Júlio Baptista | 31 | 45 | 35
+EDGE Sergio Ramos | Robinho | 39 | 45 | 44
+EDGE Sergio Ramos | Raúl | 22 | 45 | 25
+EDGE Sergio Ramos | Francisco Pavón | 8 | 45 | 12
+EDGE Sergio Ramos | Carlos Diogo | 11 | 45 | 12
+EDGE Sergio Ramos | Zinédine Zidane | 25 | 45 | 30
+EDGE Sergio Ramos | Ronaldo | 20 | 45 | 25
+EDGE Sergio Ramos | Jonathan Woodgate | 8 | 45 | 11
+EDGE Sergio Ramos | Cicinho | 18 | 45 | 19
+EDGE Sergio Ramos | Álvaro Mejía | 14 | 45 | 15
+EDGE Sergio Ramos | Antonio Cassano | 3 | 45 | 4
+EDGE Sergio Ramos | Thomas Gravesen | 15 | 45 | 20
+EDGE Sergio Ramos | Raúl Bravo | 12 | 45 | 13
+EDGE Sergio Ramos | Diego López | 5 | 45 | 5
+EDGE Sergio Ramos | Roberto Soldado | 5 | 45 | 5
+EDGE Sergio Ramos | Rubén de la Red | 1 | 45 | 1
+EDGE Sergio Ramos | Javier Balboa | 1 | 45 | 1
+EDGE Iván Helguera | Roberto Carlos | 24 | 25 | 45
+EDGE Iván Helguera | Míchel Salgado | 17 | 25 | 33
+EDGE Iván Helguera | Pablo García | 15 | 25 | 21
+EDGE Iván Helguera | David Beckham | 21 | 25 | 42
+EDGE Iván Helguera | Guti | 17 | 25 | 37
+EDGE Iván Helguera | Júlio Baptista | 17 | 25 | 35
+EDGE Iván Helguera | Robinho | 20 | 25 | 44
+EDGE Iván Helguera | Raúl | 12 | 25 | 25
+EDGE Iván Helguera | Francisco Pavón | 8 | 25 | 12
+EDGE Iván Helguera | Carlos Diogo | 7 | 25 | 12
+EDGE Iván Helguera | Zinédine Zidane | 14 | 25 | 30
+EDGE Iván Helguera | Ronaldo | 13 | 25 | 25
+EDGE Iván Helguera | Thomas Gravesen | 8 | 25 | 20
+EDGE Iván Helguera | Cicinho | 3 | 25 | 19
+EDGE Iván Helguera | Raúl Bravo | 2 | 25 | 13
+EDGE Iván Helguera | Antonio Cassano | 2 | 25 | 4
+EDGE Iván Helguera | Diego López | 1 | 25 | 5
+EDGE Iván Helguera | Roberto Soldado | 1 | 25 | 5
+EDGE Iván Helguera | Jonathan Woodgate | 4 | 25 | 11
+EDGE Roberto Carlos | Míchel Salgado | 29 | 45 | 33
+EDGE Roberto Carlos | Pablo García | 21 | 45 | 21
+EDGE Roberto Carlos | David Beckham | 39 | 45 | 42
+EDGE Roberto Carlos | Guti | 31 | 45 | 37
+EDGE Roberto Carlos | Júlio Baptista | 28 | 45 | 35
+EDGE Roberto Carlos | Robinho | 38 | 45 | 44
+EDGE Roberto Carlos | Raúl | 23 | 45 | 25
+EDGE Roberto Carlos | Francisco Pavón | 11 | 45 | 12
+EDGE Roberto Carlos | Carlos Diogo | 8 | 45 | 12
+EDGE Roberto Carlos | Zinédine Zidane | 28 | 45 | 30
+EDGE Roberto Carlos | Ronaldo | 23 | 45 | 25
+EDGE Roberto Carlos | Jonathan Woodgate | 11 | 45 | 11
+EDGE Roberto Carlos | Thomas Gravesen | 16 | 45 | 20
+EDGE Roberto Carlos | Cicinho | 16 | 45 | 19
+EDGE Roberto Carlos | Álvaro Mejía | 10 | 45 | 15
+EDGE Roberto Carlos | Antonio Cassano | 4 | 45 | 4
+EDGE Roberto Carlos | Diego López | 1 | 45 | 5
+EDGE Roberto Carlos | Roberto Soldado | 1 | 45 | 5
+EDGE Roberto Carlos | Raúl Bravo | 6 | 45 | 13
+EDGE Míchel Salgado | Pablo García | 16 | 33 | 21
+EDGE Míchel Salgado | David Beckham | 26 | 33 | 42
+EDGE Míchel Salgado | Guti | 24 | 33 | 37
+EDGE Míchel Salgado | Júlio Baptista | 22 | 33 | 35
+EDGE Míchel Salgado | Robinho | 25 | 33 | 44
+EDGE Míchel Salgado | Raúl | 20 | 33 | 25
+EDGE Míchel Salgado | Jonathan Woodgate | 6 | 33 | 11
+EDGE Míchel Salgado | Francisco Pavón | 9 | 33 | 12
+EDGE Míchel Salgado | Carlos Diogo | 5 | 33 | 12
+EDGE Míchel Salgado | Thomas Gravesen | 10 | 33 | 20
+EDGE Míchel Salgado | Zinédine Zidane | 15 | 33 | 30
+EDGE Míchel Salgado | Ronaldo | 17 | 33 | 25
+EDGE Míchel Salgado | Cicinho | 6 | 33 | 19
+EDGE Míchel Salgado | Álvaro Mejía | 10 | 33 | 15
+EDGE Míchel Salgado | Raúl Bravo | 7 | 33 | 13
+EDGE Míchel Salgado | Diego López | 3 | 33 | 5
+EDGE Míchel Salgado | Roberto Soldado | 3 | 33 | 5
+EDGE Míchel Salgado | Antonio Cassano | 2 | 33 | 4
+EDGE Pablo García | David Beckham | 18 | 21 | 42
+EDGE Pablo García | Guti | 12 | 21 | 37
+EDGE Pablo García | Júlio Baptista | 10 | 21 | 35
+EDGE Pablo García | Robinho | 18 | 21 | 44
+EDGE Pablo García | Raúl | 16 | 21 | 25
+EDGE Pablo García | Francisco Pavón | 5 | 21 | 12
+EDGE Pablo García | Carlos Diogo | 6 | 21 | 12
+EDGE Pablo García | Zinédine Zidane | 11 | 21 | 30
+EDGE Pablo García | Ronaldo | 9 | 21 | 25
+EDGE Pablo García | Jonathan Woodgate | 5 | 21 | 11
+EDGE Pablo García | Cicinho | 2 | 21 | 19
+EDGE Pablo García | Álvaro Mejía | 4 | 21 | 15
+EDGE Pablo García | Diego López | 1 | 21 | 5
+EDGE Pablo García | Roberto Soldado | 1 | 21 | 5
+EDGE Pablo García | Thomas Gravesen | 2 | 21 | 20
+EDGE David Beckham | Guti | 29 | 42 | 37
+EDGE David Beckham | Júlio Baptista | 28 | 42 | 35
+EDGE David Beckham | Robinho | 35 | 42 | 44
+EDGE David Beckham | Raúl | 20 | 42 | 25
+EDGE David Beckham | Francisco Pavón | 10 | 42 | 12
+EDGE David Beckham | Carlos Diogo | 8 | 42 | 12
+EDGE David Beckham | Zinédine Zidane | 23 | 42 | 30
+EDGE David Beckham | Ronaldo | 21 | 42 | 25
+EDGE David Beckham | Jonathan Woodgate | 8 | 42 | 11
+EDGE David Beckham | Thomas Gravesen | 18 | 42 | 20
+EDGE David Beckham | Álvaro Mejía | 12 | 42 | 15
+EDGE David Beckham | Cicinho | 13 | 42 | 19
+EDGE David Beckham | Antonio Cassano | 3 | 42 | 4
+EDGE David Beckham | Diego López | 3 | 42 | 5
+EDGE David Beckham | Roberto Soldado | 3 | 42 | 5
+EDGE David Beckham | Raúl Bravo | 8 | 42 | 13
+EDGE Guti | Júlio Baptista | 23 | 37 | 35
+EDGE Guti | Robinho | 31 | 37 | 44
+EDGE Guti | Raúl | 16 | 37 | 25
+EDGE Guti | Jonathan Woodgate | 8 | 37 | 11
+EDGE Guti | Francisco Pavón | 8 | 37 | 12
+EDGE Guti | Carlos Diogo | 9 | 37 | 12
+EDGE Guti | Cicinho | 14 | 37 | 19
+EDGE Guti | Zinédine Zidane | 20 | 37 | 30
+EDGE Guti | Ronaldo | 16 | 37 | 25
+EDGE Guti | Álvaro Mejía | 12 | 37 | 15
+EDGE Guti | Antonio Cassano | 3 | 37 | 4
+EDGE Guti | Thomas Gravesen | 12 | 37 | 20
+EDGE Guti | Raúl Bravo | 11 | 37 | 13
+EDGE Guti | Diego López | 4 | 37 | 5
+EDGE Guti | Roberto Soldado | 4 | 37 | 5
+EDGE Júlio Baptista | Robinho | 28 | 35 | 44
+EDGE Júlio Baptista | Raúl | 15 | 35 | 25
+EDGE Júlio Baptista | Francisco Pavón | 5 | 35 | 12
+EDGE Júlio Baptista | Thomas Gravesen | 16 | 35 | 20
+EDGE Júlio Baptista | Zinédine Zidane | 19 | 35 | 30
+EDGE Júlio Baptista | Ronaldo | 17 | 35 | 25
+EDGE Júlio Baptista | Álvaro Mejía | 13 | 35 | 15
+EDGE Júlio Baptista | Cicinho | 15 | 35 | 19
+EDGE Júlio Baptista | Antonio Cassano | 3 | 35 | 4
+EDGE Júlio Baptista | Carlos Diogo | 5 | 35 | 12
+EDGE Júlio Baptista | Raúl Bravo | 11 | 35 | 13
+EDGE Júlio Baptista | Jonathan Woodgate | 3 | 35 | 11
+EDGE Júlio Baptista | Diego López | 4 | 35 | 5
+EDGE Júlio Baptista | Roberto Soldado | 4 | 35 | 5
+EDGE Júlio Baptista | Rubén de la Red | 1 | 35 | 1
+EDGE Júlio Baptista | Javier Balboa | 1 | 35 | 1
+EDGE Robinho | Raúl | 18 | 44 | 25
+EDGE Robinho | Francisco Pavón | 11 | 44 | 12
+EDGE Robinho | Carlos Diogo | 11 | 44 | 12
+EDGE Robinho | Zinédine Zidane | 24 | 44 | 30
+EDGE Robinho | Ronaldo | 20 | 44 | 25
+EDGE Robinho | Jonathan Woodgate | 11 | 44 | 11
+EDGE Robinho | Cicinho | 17 | 44 | 19
+EDGE Robinho | Álvaro Mejía | 13 | 44 | 15
+EDGE Robinho | Antonio Cassano | 3 | 44 | 4
+EDGE Robinho | Thomas Gravesen | 17 | 44 | 20
+EDGE Robinho | Diego López | 5 | 44 | 5
+EDGE Robinho | Roberto Soldado | 5 | 44 | 5
+EDGE Robinho | Raúl Bravo | 10 | 44 | 13
+EDGE Robinho | Rubén de la Red | 1 | 44 | 1
+EDGE Robinho | Javier Balboa | 1 | 44 | 1
+EDGE Raúl | Jonathan Woodgate | 6 | 25 | 11
+EDGE Raúl | Francisco Pavón | 4 | 25 | 12
+EDGE Raúl | Carlos Diogo | 7 | 25 | 12
+EDGE Raúl | Thomas Gravesen | 4 | 25 | 20
+EDGE Raúl | Zinédine Zidane | 12 | 25 | 30
+EDGE Raúl | Ronaldo | 9 | 25 | 25
+EDGE Raúl | Álvaro Mejía | 8 | 25 | 15
+EDGE Raúl | Cicinho | 6 | 25 | 19
+EDGE Raúl | Antonio Cassano | 2 | 25 | 4
+EDGE Raúl | Raúl Bravo | 4 | 25 | 13
+EDGE Raúl | Diego López | 1 | 25 | 5
+EDGE Raúl | Roberto Soldado | 1 | 25 | 5
+EDGE Francisco Pavón | Carlos Diogo | 5 | 12 | 12
+EDGE Francisco Pavón | Zinédine Zidane | 6 | 12 | 30
+EDGE Francisco Pavón | Ronaldo | 7 | 12 | 25
+EDGE Francisco Pavón | Jonathan Woodgate | 3 | 12 | 11
+EDGE Francisco Pavón | Thomas Gravesen | 4 | 12 | 20
+EDGE Francisco Pavón | Diego López | 1 | 12 | 5
+EDGE Francisco Pavón | Raúl Bravo | 1 | 12 | 13
+EDGE Francisco Pavón | Rubén de la Red | 1 | 12 | 1
+EDGE Francisco Pavón | Javier Balboa | 1 | 12 | 1
+EDGE Francisco Pavón | Roberto Soldado | 1 | 12 | 5
+EDGE Carlos Diogo | Zinédine Zidane | 5 | 12 | 30
+EDGE Carlos Diogo | Ronaldo | 2 | 12 | 25
+EDGE Carlos Diogo | Jonathan Woodgate | 5 | 12 | 11
+EDGE Carlos Diogo | Álvaro Mejía | 2 | 12 | 15
+EDGE Carlos Diogo | Raúl Bravo | 4 | 12 | 13
+EDGE Carlos Diogo | Cicinho | 2 | 12 | 19
+EDGE Carlos Diogo | Diego López | 2 | 12 | 5
+EDGE Carlos Diogo | Thomas Gravesen | 2 | 12 | 20
+EDGE Carlos Diogo | Roberto Soldado | 2 | 12 | 5
+EDGE Carlos Diogo | Rubén de la Red | 1 | 12 | 1
+EDGE Carlos Diogo | Javier Balboa | 1 | 12 | 1
+EDGE Zinédine Zidane | Ronaldo | 16 | 30 | 25
+EDGE Zinédine Zidane | Thomas Gravesen | 11 | 30 | 20
+EDGE Zinédine Zidane | Jonathan Woodgate | 6 | 30 | 11
+EDGE Zinédine Zidane | Cicinho | 16 | 30 | 19
+EDGE Zinédine Zidane | Álvaro Mejía | 8 | 30 | 15
+EDGE Zinédine Zidane | Raúl Bravo | 8 | 30 | 13
+EDGE Zinédine Zidane | Antonio Cassano | 3 | 30 | 4
+EDGE Ronaldo | Thomas Gravesen | 10 | 25 | 20
+EDGE Ronaldo | Jonathan Woodgate | 6 | 25 | 11
+EDGE Ronaldo | Cicinho | 9 | 25 | 19
+EDGE Ronaldo | Álvaro Mejía | 4 | 25 | 15
+EDGE Ronaldo | Raúl Bravo | 6 | 25 | 13
+EDGE Jonathan Woodgate | Cicinho | 4 | 11 | 19
+EDGE Jonathan Woodgate | Álvaro Mejía | 1 | 11 | 15
+EDGE Jonathan Woodgate | Thomas Gravesen | 4 | 11 | 20
+EDGE Thomas Gravesen | Cicinho | 10 | 20 | 19
+EDGE Thomas Gravesen | Álvaro Mejía | 6 | 20 | 15
+EDGE Thomas Gravesen | Raúl Bravo | 7 | 20 | 13
+EDGE Thomas Gravesen | Antonio Cassano | 2 | 20 | 4
+EDGE Thomas Gravesen | Diego López | 4 | 20 | 5
+EDGE Thomas Gravesen | Roberto Soldado | 4 | 20 | 5
+EDGE Thomas Gravesen | Rubén de la Red | 1 | 20 | 1
+EDGE Thomas Gravesen | Javier Balboa | 1 | 20 | 1
+EDGE Cicinho | Álvaro Mejía | 9 | 19 | 15
+EDGE Cicinho | Antonio Cassano | 3 | 19 | 4
+EDGE Cicinho | Raúl Bravo | 7 | 19 | 13
+EDGE Cicinho | Diego López | 1 | 19 | 5
+EDGE Cicinho | Roberto Soldado | 1 | 19 | 5
+EDGE Álvaro Mejía | Antonio Cassano | 1 | 15 | 4
+EDGE Álvaro Mejía | Raúl Bravo | 5 | 15 | 13
+EDGE Álvaro Mejía | Diego López | 3 | 15 | 5
+EDGE Álvaro Mejía | Roberto Soldado | 3 | 15 | 5
+EDGE Antonio Cassano | Raúl Bravo | 2 | 4 | 13
+EDGE Raúl Bravo | Diego López | 4 | 13 | 5
+EDGE Raúl Bravo | Roberto Soldado | 4 | 13 | 5
+EDGE Raúl Bravo | Rubén de la Red | 1 | 13 | 1
+EDGE Raúl Bravo | Javier Balboa | 1 | 13 | 1
+EDGE Diego López | Roberto Soldado | 5 | 5 | 5
+EDGE Diego López | Rubén de la Red | 1 | 5 | 1
+EDGE Diego López | Javier Balboa | 1 | 5 | 1
+EDGE Roberto Soldado | Rubén de la Red | 1 | 5 | 1
+EDGE Roberto Soldado | Javier Balboa | 1 | 5 | 1
+EDGE Rubén de la Red | Javier Balboa | 1 | 1 | 1

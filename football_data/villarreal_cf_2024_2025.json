@@ -1,0 +1,8076 @@
+[
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_real-madryt/aufstellung/spielbericht/4407531",
+    "match_id": "4407531",
+    "date": "sob., 15.03.2025",
+    "competition": "LALIGA",
+    "matchday": "28. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "Real Madryt",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Tajon Buchanan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Alfonso Pedraza",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Thibaut Courtois",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "35",
+        "name": "Raúl Asencio",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Aurélien Tchouaméni",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Fran García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Lucas Vázquez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Eduardo Camavinga",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Federico Valverde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Jude Bellingham",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Rodrygo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Brahim Díaz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Kylian Mbappé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Antonio Rüdiger",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Luka Modrić",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Arda Güler",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Vinicius Junior",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_valencia-cf/aufstellung/spielbericht/4407761",
+    "match_id": "4407761",
+    "date": "sob., 15.02.2025",
+    "competition": "LALIGA",
+    "matchday": "24. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "Valencia CF",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Tajon Buchanan",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "25",
+        "name": "Giorgi Mamardashvili",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Cristhian Mosquera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "César Tárrega",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "José Gayà",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Dimitri Foulquier",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pepelu",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Javi Guerra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "André Almeida",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Luis Rioja",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Diego López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Hugo Duro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Iván Jaime",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Fran Pérez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Rafa Mir",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "12",
+        "name": "Umar Sadiq",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/ud-poblense_villarreal-cf/aufstellung/spielbericht/4472358",
+    "match_id": "4472358",
+    "date": "wt., 29.10.2024",
+    "competition": "Unknown",
+    "matchday": "Unknown",
+    "home_team": "UD Poblense",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Vicente Sabater",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Pep Payeras",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Joan Salvá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Pep Vidal",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juan Suasi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Juan Cifré",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Gori López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Miguel Soler",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Dieguito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Aitor Pons",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Alberto Fernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Dani Rigo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Miki Capellà",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "27",
+        "name": "Ayoub El Mkadmi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Marco Alarcón",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Miquel Llabrés",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Juan Bernat",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Ramón Terrats",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "33",
+        "name": "Pau Cabanes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "37",
+        "name": "Jean Ives Valou",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Ilias Akhomach",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/pontevedra-cf_villarreal-cf/aufstellung/spielbericht/4500190",
+    "match_id": "4500190",
+    "date": "śr., 04.12.2024",
+    "competition": "Unknown",
+    "matchday": "Unknown",
+    "home_team": "Pontevedra CF",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Manu Vizoso",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Mario Gómez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Benjamín Garay",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Héctor Hernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Javi Fontán",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Samu Mayo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Yelko Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Iago Novo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Chiqui",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Xabi Dominguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Carlos López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Rareș Mezdrea",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Dalisson de Almeida",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Álex González",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Rufo Sánchez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Juan Bernat",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "32",
+        "name": "Alassane Diatta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "33",
+        "name": "Pau Cabanes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_real-sociedad/aufstellung/spielbericht/4407641",
+    "match_id": "4407641",
+    "date": "niedz., 20.04.2025",
+    "competition": "LALIGA",
+    "matchday": "32. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "Real Sociedad",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Alfonso Pedraza",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "36",
+        "name": "Karl Etta Eyong",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Álex Remiro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Aritz Elustondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "31",
+        "name": "Jon Martín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Aihen Muñoz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Hamari Traoré",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Beñat Turrientes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Luka Sucic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "28",
+        "name": "Pablo Marín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Sergio Gómez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Takefusa Kubo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Mikel Oyarzabal",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Jon Pacheco",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "12",
+        "name": "Javi López",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Jon Aramburu",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "16",
+        "name": "Jon Ander Olasagasti",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Brais Méndez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/ca-osasuna_villarreal-cf/aufstellung/spielbericht/4407646",
+    "match_id": "4407646",
+    "date": "niedz., 24.11.2024",
+    "competition": "LALIGA",
+    "matchday": "14. Kolejka",
+    "home_team": "CA Osasuna",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Sergio Herrera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Enzo Boyomo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Alejandro Catena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Juan Cruz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Jesús Areso",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Lucas Torró",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Jon Moncayola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Aimar Oroz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Bryan Zaragoza",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Rubén García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Ante Budimir",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Abel Bretones",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Rubén Peña",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Iker Muñoz",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "16",
+        "name": "Moi Gómez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Ramón Terrats",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Juan Bernat",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "33",
+        "name": "Pau Cabanes",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_rayo-vallecano/aufstellung/spielbericht/4407700",
+    "match_id": "4407700",
+    "date": "śr., 18.12.2024",
+    "competition": "LALIGA",
+    "matchday": "12. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "Rayo Vallecano",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "12",
+        "name": "Juan Bernat",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "38",
+        "name": "Thiago Ojeda",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "33",
+        "name": "Pau Cabanes",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Augusto Batalla",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Abdul Mumin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Florian Lejeune",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Alfonso Espino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Iván Balliu",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Pedro Díaz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Óscar Valentín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Óscar Trejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Álvaro García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Jorge de Frutos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Sergio Camello",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Pep Chavarría",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "2",
+        "name": "Andrei Rațiu",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Pathé Ciss",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Randy Nteka",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Isi Palazón",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/real-valladolid-cf_villarreal-cf/aufstellung/spielbericht/4407522",
+    "match_id": "4407522",
+    "date": "sob., 26.10.2024",
+    "competition": "LALIGA",
+    "matchday": "11. Kolejka",
+    "home_team": "Real Valladolid CF",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Karl Hein",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "David Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Javi Sánchez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Lucas Rosa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Luis Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Eray Cömert",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Mario Martín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Selim Amallah",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Raúl Moro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Anuar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Mamadou Sylla",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Kike Pérez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "4",
+        "name": "Víctor Meseguer",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "24",
+        "name": "Kenedy",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Iván Sánchez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Juanmi Latasa",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Ilias Akhomach",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Juan Bernat",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Ramón Terrats",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_villarreal-cf/aufstellung/spielbericht/4407745",
+    "match_id": "4407745",
+    "date": "sob., 25.01.2025",
+    "competition": "LALIGA",
+    "matchday": "21. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Jan Oblak",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Robin Le Normand",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Axel Witsel",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Reinildo Mandava",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Nahuel Molina",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Pablo Barrios",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Conor Gallagher",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Giuliano Simeone",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Ángel Correa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Julián Alvarez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "César Azpilicueta",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Marcos Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "5",
+        "name": "Rodrigo De Paul",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "12",
+        "name": "Samuel Lino",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "33",
+        "name": "Pau Cabanes",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/getafe-cf_villarreal-cf/aufstellung/spielbericht/4407558",
+    "match_id": "4407558",
+    "date": "niedz., 30.03.2025",
+    "competition": "LALIGA",
+    "matchday": "29. Kolejka",
+    "home_team": "Getafe CF",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "David Soria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Omar Alderete",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Domingos Duarte",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Diego Rico",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Juan Iglesias",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Dakonam Djené",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Luis Milla",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Mauro Arambarri",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "29",
+        "name": "Coba da Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Carles Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Juanmi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Juan Bernat",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "12",
+        "name": "Allan Nyom",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Peter Federico",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Álvaro Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Borja Mayoral",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Tajon Buchanan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "24",
+        "name": "Alfonso Pedraza",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_rcd-espanyol/aufstellung/spielbericht/4407743",
+    "match_id": "4407743",
+    "date": "niedz., 27.04.2025",
+    "competition": "LALIGA",
+    "matchday": "26. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "RCD Espanyol",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Alfonso Pedraza",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Tajon Buchanan",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Joan García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Leandro Cabrera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Marash Kumbulla",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Carlos Romero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Omar El Hilali",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Urko González de Zárate",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Alex Král",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Edu Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Javi Puado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "31",
+        "name": "Antoniu Roca",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Roberto Fernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "42",
+        "name": "Roger Hinojo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Pol Lozano",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Álvaro Aguado",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "17",
+        "name": "Jofre Carreras",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Alejo Veliz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/celta-de-vigo_villarreal-cf/aufstellung/spielbericht/4407618",
+    "match_id": "4407618",
+    "date": "śr., 23.04.2025",
+    "competition": "LALIGA",
+    "matchday": "33. Kolejka",
+    "home_team": "Celta de Vigo",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Vicente Guaita",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Marcos Alonso",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Carlos Domínguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "29",
+        "name": "Yoel Lago",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Óscar Mingueza",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Hugo Álvarez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "25",
+        "name": "Damián Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Fran Beltrán",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Alfon González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "28",
+        "name": "Fer López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Borja Iglesias",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "32",
+        "name": "Javi Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "5",
+        "name": "Sergio Carreira",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Ilaix Moriba",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Iker Losada",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Iago Aspas",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Eric Bailly",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Alfonso Pedraza",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Tajon Buchanan",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/sevilla-fc_villarreal-cf/aufstellung/spielbericht/4361558",
+    "match_id": "4361558",
+    "date": "pt., 23.08.2024",
+    "competition": "LALIGA",
+    "matchday": "2. Kolejka",
+    "home_team": "Sevilla FC",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Ørjan Nyland",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Kike Salas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Loïc Badé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Adrià Pedrosa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "32",
+        "name": "José Ángel Carmona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Lucien Agoumé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Juanlu Sánchez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Saúl Ñíguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Lucas Ocampos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Dodi Lukébakio",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Isaac Romero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Marcão",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Djibril Sow",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "16",
+        "name": "Jesús Navas",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Chidera Ejuke",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Kelechi Iheanacho",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Eric Bailly",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Ilias Akhomach",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Arnaut Danjuma",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/real-betis-balompié_villarreal-cf/aufstellung/spielbericht/4407626",
+    "match_id": "4407626",
+    "date": "niedz., 13.04.2025",
+    "competition": "LALIGA",
+    "matchday": "31. Kolejka",
+    "home_team": "Real Betis Balompié",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Adrián",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Diego Llorente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Marc Bartra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Romain Perraud",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Aitor Ruibal",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Johnny Cardoso",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pablo Fornals",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Isco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "36",
+        "name": "Jesús Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antony",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Cucho Hernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Natan",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "William Carvalho",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "16",
+        "name": "Sergi Altimira",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Giovani Lo Celso",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Cédric Bakambu",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Alfonso Pedraza",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Eric Bailly",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "27",
+        "name": "Arnau Solà",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_atlético-madryt/aufstellung/spielbericht/4361549",
+    "match_id": "4361549",
+    "date": "pon., 19.08.2024",
+    "competition": "LALIGA",
+    "matchday": "1. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Eric Bailly",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Arnaut Danjuma",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Ramón Terrats",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Ilias Akhomach",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Jan Oblak",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "César Azpilicueta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Robin Le Normand",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Axel Witsel",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Pablo Barrios",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Marcos Llorente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Reinildo Mandava",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Samuel Lino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Alexander Sørloth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "José María Giménez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "16",
+        "name": "Nahuel Molina",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "5",
+        "name": "Rodrigo De Paul",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Ángel Correa",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Julián Alvarez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_cd-leganés/aufstellung/spielbericht/4407583",
+    "match_id": "4407583",
+    "date": "śr., 14.05.2025",
+    "competition": "LALIGA",
+    "matchday": "36. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "CD Leganés",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Alfonso Pedraza",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Tajon Buchanan",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "36",
+        "name": "Karl Etta Eyong",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Marko Dmitrovic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Jorge Sáenz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Javi Hernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Valentin Rosier",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Renato Tapia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Yvan Neyou",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Adrià Altimira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "30",
+        "name": "Yan Diomande",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Seydouba Cissé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Raba",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Diego García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Sergio González",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Darko Brasanac",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Munir El Haddadi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Óscar Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Miguel de la Fuente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/girona-fc_villarreal-cf/aufstellung/spielbericht/4407598",
+    "match_id": "4407598",
+    "date": "sob., 10.05.2025",
+    "competition": "LALIGA",
+    "matchday": "35. Kolejka",
+    "home_team": "Girona FC",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Paulo Gazzaniga",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Ladislav Krejci",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "David López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Daley Blind",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Arnau Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Arthur Melo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yangel Herrera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Iván Martín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Portu",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Viktor Tsygankov",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Cristhian Stuani",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Alejandro Francés",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Jhon Solís",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Yáser Asprilla",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Bojan Miovski",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Abel Ruiz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "24",
+        "name": "Alfonso Pedraza",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "36",
+        "name": "Karl Etta Eyong",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/cd-leganés_villarreal-cf/aufstellung/spielbericht/4407679",
+    "match_id": "4407679",
+    "date": "niedz., 22.12.2024",
+    "competition": "LALIGA",
+    "matchday": "18. Kolejka",
+    "home_team": "CD Leganés",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Marko Dmitrovic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Matija Nastasić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Jorge Sáenz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Sergio González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Javi Hernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Adrià Altimira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Yvan Neyou",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Seydouba Cissé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Óscar Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Raba",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Miguel de la Fuente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Valentin Rosier",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Darko Brasanac",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Juan Cruz",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Diego García",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "33",
+        "name": "Pau Cabanes",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/ud-las-palmas_villarreal-cf/aufstellung/spielbericht/4407767",
+    "match_id": "4407767",
+    "date": "sob., 08.02.2025",
+    "competition": "LALIGA",
+    "matchday": "23. Kolejka",
+    "home_team": "UD Las Palmas",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Jasper Cillessen",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Scott McKenna",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Álex Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Mika Mármol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Andy Pelmard",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Stefan Bajcetic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Enzo Loiodice",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Javi Muñoz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Alberto Moleiro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Sandro Ramírez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Oli McBurnie",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "28",
+        "name": "Juanma Herzog",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "2",
+        "name": "Marvin Park",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Viti Rozada",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Benito Ramírez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Manu Fuster",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "4",
+        "name": "Eric Bailly",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Tajon Buchanan",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_athletic-bilbao/aufstellung/spielbericht/4407548",
+    "match_id": "4407548",
+    "date": "niedz., 06.04.2025",
+    "competition": "LALIGA",
+    "matchday": "30. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "Athletic Bilbao",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Tajon Buchanan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "24",
+        "name": "Alfonso Pedraza",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Unai Simón",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Dani Vivian",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Aitor Paredes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Yuri Berchiche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Andoni Gorosabel",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Mikel Jauregizar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Beñat Prados",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Unai Gómez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Nico Williams",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Iñaki Williams",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Gorka Guruzeta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Unai Núñez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "32",
+        "name": "Adama Boiro",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "8",
+        "name": "Oihan Sancet",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Álex Berenguer",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Maroan Sannadi",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/rcd-espanyol_villarreal-cf/aufstellung/spielbericht/4405343",
+    "match_id": "4405343",
+    "date": "czw., 26.09.2024",
+    "competition": "LALIGA",
+    "matchday": "7. Kolejka",
+    "home_team": "RCD Espanyol",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Joan García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Leandro Cabrera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Marash Kumbulla",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Brian Oliván",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Omar El Hilali",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Pol Lozano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Alex Král",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Jofre Carreras",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Álvaro Tejero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Javi Puado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Alejo Veliz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Sergi Gómez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Carlos Romero",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "José Gragera",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "37",
+        "name": "Naci Ünüvar",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "16",
+        "name": "Walid Cheddira",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "24",
+        "name": "Irvin Cardona",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Ilias Akhomach",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Eric Bailly",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Ramón Terrats",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/rcd-mallorca_villarreal-cf/aufstellung/spielbericht/4405322",
+    "match_id": "4405322",
+    "date": "sob., 14.09.2024",
+    "competition": "LALIGA",
+    "matchday": "5. Kolejka",
+    "home_team": "RCD Mallorca",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Dominik Greif",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Antonio Raíllo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Martin Valjent",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Toni Lato",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Antonio Sánchez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Samú Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Manu Morlanes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Dani Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "30",
+        "name": "Marc Domènech",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Takuma Asano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Vedat Muriqi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "José Copete",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Johan Mojica",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Sergi Darder",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "16",
+        "name": "Valery Fernández",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "27",
+        "name": "Robert Navarro",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Ilias Akhomach",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Juan Bernat",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Ramón Terrats",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/rayo-vallecano_villarreal-cf/aufstellung/spielbericht/4407536",
+    "match_id": "4407536",
+    "date": "sob., 22.02.2025",
+    "competition": "LALIGA",
+    "matchday": "25. Kolejka",
+    "home_team": "Rayo Vallecano",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Augusto Batalla",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Abdul Mumin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Florian Lejeune",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Pep Chavarría",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Andrei Rațiu",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Pedro Díaz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Pathé Ciss",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Isi Palazón",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Álvaro García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Jorge de Frutos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Randy Nteka",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Gerard Gumbau",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "8",
+        "name": "Óscar Trejo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Adrián Embarba",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "12",
+        "name": "Sergi Guardiola",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "28",
+        "name": "Etienne Eto'o",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Alfonso Pedraza",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Tajon Buchanan",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/real-madryt_villarreal-cf/aufstellung/spielbericht/4405360",
+    "match_id": "4405360",
+    "date": "sob., 05.10.2024",
+    "competition": "LALIGA",
+    "matchday": "9. Kolejka",
+    "home_team": "Real Madryt",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Andriy Lunin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Antonio Rüdiger",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Aurélien Tchouaméni",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Ferland Mendy",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Daniel Carvajal",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Eduardo Camavinga",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Federico Valverde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Luka Modrić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Jude Bellingham",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Vinicius Junior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Kylian Mbappé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Éder Militão",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "17",
+        "name": "Lucas Vázquez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Arda Güler",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Rodrygo",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Eric Bailly",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "12",
+        "name": "Juan Bernat",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Ramón Terrats",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Ilias Akhomach",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/real-sociedad_villarreal-cf/aufstellung/spielbericht/4407716",
+    "match_id": "4407716",
+    "date": "pon., 13.01.2025",
+    "competition": "LALIGA",
+    "matchday": "19. Kolejka",
+    "home_team": "Real Sociedad",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Álex Remiro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Nayef Aguerd",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Aritz Elustondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Aihen Muñoz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "27",
+        "name": "Jon Aramburu",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Martín Zubimendi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Luka Sucic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Brais Méndez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Sergio Gómez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Takefusa Kubo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Mikel Oyarzabal",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Jon Pacheco",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "16",
+        "name": "Jon Ander Olasagasti",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "28",
+        "name": "Pablo Marín",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Ander Barrenetxea",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Orri Óskarsson",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "33",
+        "name": "Pau Cabanes",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_getafe-cf/aufstellung/spielbericht/4405376",
+    "match_id": "4405376",
+    "date": "niedz., 20.10.2024",
+    "competition": "LALIGA",
+    "matchday": "10. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "Getafe CF",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Eric Bailly",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Ilias Akhomach",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Ramón Terrats",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "David Soria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Omar Alderete",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Dakonam Djené",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Diego Rico",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Juan Iglesias",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Luis Milla",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Mauro Arambarri",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Christantus Uche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Álex Sola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Carles Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Bertuğ Yıldırım",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "27",
+        "name": "Nabil Aberdin",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "12",
+        "name": "Allan Nyom",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Peter Federico",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Álvaro Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_real-betis-balompié/aufstellung/spielbericht/4407709",
+    "match_id": "4407709",
+    "date": "niedz., 15.12.2024",
+    "competition": "LALIGA",
+    "matchday": "17. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "Real Betis Balompié",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Eric Bailly",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Juan Bernat",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "33",
+        "name": "Pau Cabanes",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "25",
+        "name": "Fran Vieites",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Diego Llorente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Marc Bartra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Romain Perraud",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Youssouf Sabaly",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Johnny Cardoso",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Sergi Altimira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Giovani Lo Celso",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Abde Ezzalzouli",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Chimy Ávila",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Vitor Roque",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Natan",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Isco",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "38",
+        "name": "Assane Diao",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "24",
+        "name": "Aitor Ruibal",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_rcd-mallorca/aufstellung/spielbericht/4407730",
+    "match_id": "4407730",
+    "date": "pon., 20.01.2025",
+    "competition": "LALIGA",
+    "matchday": "20. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "RCD Mallorca",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Ramón Terrats",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "33",
+        "name": "Pau Cabanes",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Dominik Greif",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Antonio Raíllo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Martin Valjent",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Johan Mojica",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Pablo Maffeo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Samú Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Omar Mascarell",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Dani Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Sergi Darder",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Vedat Muriqi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Cyle Larin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "José Copete",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "2",
+        "name": "Mateu Morey",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Antonio Sánchez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Takuma Asano",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "16",
+        "name": "Valery Fernández",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "27",
+        "name": "Robert Navarro",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/fc-barcelona_villarreal-cf/aufstellung/spielbericht/4407585",
+    "match_id": "4407585",
+    "date": "niedz., 18.05.2025",
+    "competition": "LALIGA",
+    "matchday": "37. Kolejka",
+    "home_team": "FC Barcelona",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Marc-André ter Stegen",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Iñigo Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Pau Cubarsí",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "35",
+        "name": "Gerard Martín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Eric García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Gavi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Pedri",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Fermín López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Raphinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Lamine Yamal",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Robert Lewandowski",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Alejandro Balde",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "32",
+        "name": "Héctor Fort",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Frenkie de Jong",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Dani Olmo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Pau Víctor",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Tajon Buchanan",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_ud-las-palmas/aufstellung/spielbericht/4405355",
+    "match_id": "4405355",
+    "date": "pon., 30.09.2024",
+    "competition": "LALIGA",
+    "matchday": "8. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "UD Las Palmas",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Eric Bailly",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Ilias Akhomach",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Juan Bernat",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Ramón Terrats",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "33",
+        "name": "Pau Cabanes",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Dinko Horkas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "28",
+        "name": "Juanma Herzog",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Álex Muñoz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Benito Ramírez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Álex Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "29",
+        "name": "Dário Essugo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Kirian Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Alberto Moleiro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Adnan Januzaj",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Oli McBurnie",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "37",
+        "name": "Fábio Silva",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Viti Rozada",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "12",
+        "name": "Enzo Loiodice",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "5",
+        "name": "Javi Muñoz",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Manu Fuster",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "17",
+        "name": "Jaime Mata",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/deportivo-alavés_villarreal-cf/aufstellung/spielbericht/4407790",
+    "match_id": "4407790",
+    "date": "sob., 08.03.2025",
+    "competition": "LALIGA",
+    "matchday": "27. Kolejka",
+    "home_team": "Deportivo Alavés",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Antonio Sivera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Abdel Abqar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Santiago Mouriño",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Manu Sánchez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Nahuel Tenaglia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Antonio Blanco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Joan Jordán",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Carles Aleñá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Pau Cabanes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Carlos Martín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kike García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "31",
+        "name": "Adrián Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Moussa Diarra",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "2",
+        "name": "Facundo Garcés",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Carlos Vicente",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Asier Villalibre",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Alfonso Pedraza",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Tajon Buchanan",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_fc-barcelona/aufstellung/spielbericht/4405334",
+    "match_id": "4405334",
+    "date": "niedz., 22.09.2024",
+    "competition": "LALIGA",
+    "matchday": "6. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "FC Barcelona",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Eric Bailly",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Ramón Terrats",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Ilias Akhomach",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Marc-André ter Stegen",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Iñigo Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "36",
+        "name": "Sergi Domínguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "35",
+        "name": "Gerard Martín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Jules Koundé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Eric García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Pedri",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Pablo Torre",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Raphinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Lamine Yamal",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Robert Lewandowski",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "13",
+        "name": "Iñaki Peña",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "2",
+        "name": "Pau Cubarsí",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "32",
+        "name": "Héctor Fort",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "17",
+        "name": "Marc Casadó",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Pau Víctor",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_girona-fc/aufstellung/spielbericht/4407662",
+    "match_id": "4407662",
+    "date": "niedz., 01.12.2024",
+    "competition": "LALIGA",
+    "matchday": "15. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "Girona FC",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "33",
+        "name": "Pau Cabanes",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Paulo Gazzaniga",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Ladislav Krejci",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "David López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Miguel Gutiérrez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Arnau Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Oriol Romeu",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Donny van de Beek",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Iván Martín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Arnaut Danjuma",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Bryan Gil",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Bojan Miovski",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Daley Blind",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Jhon Solís",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "24",
+        "name": "Portu",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Cristhian Stuani",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Abel Ruiz",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_sevilla-fc/aufstellung/spielbericht/4407573",
+    "match_id": "4407573",
+    "date": "niedz., 25.05.2025",
+    "competition": "LALIGA",
+    "matchday": "38. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "Sevilla FC",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Alfonso Pedraza",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Tajon Buchanan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "30",
+        "name": "Dani Requena",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "36",
+        "name": "Karl Etta Eyong",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Álvaro Fernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Kike Salas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Marcão",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Adrià Pedrosa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "José Ángel Carmona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Nemanja Gudelj",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Lucien Agoumé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Suso",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Djibril Sow",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Juanlu Sánchez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "42",
+        "name": "Álvaro García Pascual",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "35",
+        "name": "Ramón Martínez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "28",
+        "name": "Manu Bueno",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Chidera Ejuke",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Dodi Lukébakio",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Peque Fernández",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_villarreal-cf/aufstellung/spielbericht/4407684",
+    "match_id": "4407684",
+    "date": "niedz., 08.12.2024",
+    "competition": "LALIGA",
+    "matchday": "16. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Julen Agirrezabala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Dani Vivian",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Aitor Paredes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Yuri Berchiche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Óscar de Marcos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Iñigo Ruiz de Galarreta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Beñat Prados",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Oihan Sancet",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Álex Berenguer",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Iñaki Williams",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Gorka Guruzeta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Mikel Vesga",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Mikel Jauregizar",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Unai Gómez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Nico Serrano",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Nico Williams",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Juan Bernat",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "33",
+        "name": "Pau Cabanes",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_real-valladolid-cf/aufstellung/spielbericht/4407778",
+    "match_id": "4407778",
+    "date": "sob., 01.02.2025",
+    "competition": "LALIGA",
+    "matchday": "22. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "Real Valladolid CF",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Karl Hein",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "David Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Javi Sánchez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Lucas Rosa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Luis Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Stanko Juric",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "28",
+        "name": "Chuki",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Selim Amallah",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Mamadou Sylla",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Anuar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Marcos André",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Tamás Nikitscher",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Iván Sánchez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Juanmi Latasa",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_celta-de-vigo/aufstellung/spielbericht/4361569",
+    "match_id": "4361569",
+    "date": "pon., 26.08.2024",
+    "competition": "LALIGA",
+    "matchday": "3. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "Celta de Vigo",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Eric Bailly",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Arnaut Danjuma",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Gerard Moreno",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Iván Villar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Carl Starfelt",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Javier Manquillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Jailson",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "25",
+        "name": "Damián Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Ilaix Moriba",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Óscar Mingueza",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Sergio Carreira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Jonathan Bamba",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Alfon González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Borja Iglesias",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Fran Beltrán",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Williot Swedberg",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "30",
+        "name": "Hugo Álvarez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Iago Aspas",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Anastasios Douvikas",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_ca-osasuna/aufstellung/spielbericht/4407612",
+    "match_id": "4407612",
+    "date": "sob., 03.05.2025",
+    "competition": "LALIGA",
+    "matchday": "34. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "CA Osasuna",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Luiz Júnior",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Juan Foyth",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Willy Kambwala",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Tajon Buchanan",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Sergio Herrera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Jorge Herrando",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Unai García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Enzo Boyomo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Abel Bretones",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Jesús Areso",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Lucas Torró",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Aimar Oroz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Moi Gómez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Rubén García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Ante Budimir",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Rubén Peña",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Iker Muñoz",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Bryan Zaragoza",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Kike Barja",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/valencia-cf_villarreal-cf/aufstellung/spielbericht/4364908",
+    "match_id": "4364908",
+    "date": "sob., 31.08.2024",
+    "competition": "LALIGA",
+    "matchday": "4. Kolejka",
+    "home_team": "Valencia CF",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "25",
+        "name": "Giorgi Mamardashvili",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Cristhian Mosquera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "César Tárrega",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Jesús Vázquez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Thierry Correia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Hugo Guillamón",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pepelu",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "André Almeida",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Luis Rioja",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Diego López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Hugo Duro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Dimitri Foulquier",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "8",
+        "name": "Javi Guerra",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Sergi Canós",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Rafa Mir",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Juan Bernat",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Ramón Terrats",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Ilias Akhomach",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_deportivo-alavés/aufstellung/spielbericht/4407673",
+    "match_id": "4407673",
+    "date": "sob., 09.11.2024",
+    "competition": "LALIGA",
+    "matchday": "13. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "Deportivo Alavés",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Diego Conde",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Logan Costa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergi Cardona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kiko Femenía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Pape Gueye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Dani Parejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Álex Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Ilias Akhomach",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Nicolas Pépé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Ayoze Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Juan Bernat",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "26",
+        "name": "Pau Navarro",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Santi Comesaña",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Yéremy Pino",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Thierno Barry",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Antonio Sivera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Abdel Abqar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "36",
+        "name": "Adrián Pica",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Manu Sánchez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Nahuel Tenaglia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Ander Guevara",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Antonio Blanco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Jon Guridi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Abde Rebbach",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Carlos Vicente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Kike García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Joan Jordán",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Tomás Conechny",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Carlos Martín",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Stoichkov",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Toni Martínez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  }
+]

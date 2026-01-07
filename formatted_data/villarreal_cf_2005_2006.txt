@@ -1,0 +1,166 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 37363 | śr., 03.05.2006 | Málaga CF
+PLAYERS: Mariano Barbosa, César Arzo, Juan Manuel Peña, Josemi, Javi Venta, Josico, Alessio Tacchinardi, José Mari, Juan Román Riquelme, Diego Forlán, Guillermo Franco
+
+MATCH: 37272 | sob., 10.12.2005 | Real Sociedad
+PLAYERS: Sebastián Viera, Juan Manuel Peña, Gonzalo Rodríguez, Carlos Alcántara, Javi Venta, Josico, Marcos Senna, Héctor Font, Juan Román Riquelme, Antonio Guayre, Diego Forlán
+
+MATCH: 37226 | śr., 21.09.2005 | Celta de Vigo
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Alessio Tacchinardi, Marcos Senna, Juan Román Riquelme, Santi Cazorla, Diego Forlán, José Mari
+
+MATCH: 37303 | niedz., 12.02.2006 | Celta de Vigo
+PLAYERS: Sebastián Viera, Quique Álvarez, Gonzalo Rodríguez, Rodolfo Arruabarrena, Javi Venta, Josico, Marcos Senna, Roger García, Javier Calleja, Antonio Guayre, Diego Forlán
+
+MATCH: 2423098 | śr., 11.01.2006 | Valencia CF
+PLAYERS: Javier López Vallejo, Gonzalo Rodríguez, César Arzo, Quique Álvarez, Carlos Alcántara, Josemi, Javi Rubio, Roger García, Juan Román Riquelme, Diego Forlán, Luciano Figueroa
+
+MATCH: 43272 | wt., 09.08.2005 | FC Everton
+PLAYERS: Mariano Barbosa, Gonzalo Rodríguez, Quique Álvarez, Rodolfo Arruabarrena, Javi Venta, Josico, Marcos Senna, Juan Román Riquelme, Juan Pablo Sorín, Diego Forlán, Luciano Figueroa
+
+MATCH: 53456 | śr., 19.04.2006 | FC Arsenal
+PLAYERS: Mariano Barbosa, César Arzo, Quique Álvarez, Rodolfo Arruabarrena, Javi Venta, Alessio Tacchinardi, Marcos Senna, Juan Pablo Sorín, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 35626 | śr., 02.11.2005 | Benfika Lizbona
+PLAYERS: Mariano Barbosa, Gonzalo Rodríguez, Quique Álvarez, Rodolfo Arruabarrena, Javi Venta, Josico, Juan Pablo Sorín, Marcos Senna, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 37265 | niedz., 04.12.2005 | FC Barcelona
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Josico, Marcos Senna, Juan Pablo Sorín, José Mari, Juan Román Riquelme, Luciano Figueroa
+
+MATCH: 35627 | wt., 22.11.2005 | Manchester United
+PLAYERS: Mariano Barbosa, Gonzalo Rodríguez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Juan Pablo Sorín, Alessio Tacchinardi, Marcos Senna, Roger García, José Mari, Luciano Figueroa
+
+MATCH: 37318 | niedz., 05.03.2006 | Deportivo Alavés
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Quique Álvarez, Rodolfo Arruabarrena, Javi Venta, Josico, Alessio Tacchinardi, Marcos Senna, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 35624 | wt., 18.10.2005 | Benfika Lizbona
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, César Arzo, Rodolfo Arruabarrena, Jan Kromkamp, Alessio Tacchinardi, Juan Pablo Sorín, Santi Cazorla, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 37341 | niedz., 26.03.2006 | Real Betis Balompié
+PLAYERS: Sebastián Viera, Quique Álvarez, Josemi, Gonzalo Rodríguez, Rodolfo Arruabarrena, Josico, Marcos Senna, Santi Cazorla, Juan Román Riquelme, Diego Forlán, Guillermo Franco
+
+MATCH: 49855 | wt., 07.03.2006 | Glasgow Rangers
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Alessio Tacchinardi, Josico, Marcos Senna, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 36058 | niedz., 16.04.2006 | FC Barcelona
+PLAYERS: Mariano Barbosa, Gonzalo Rodríguez, Juan Manuel Peña, Rodolfo Arruabarrena, Josemi, César Arzo, Josico, Santi Cazorla, Roger García, Guillermo Franco, José Mari
+
+MATCH: 53458 | wt., 25.04.2006 | FC Arsenal
+PLAYERS: Mariano Barbosa, Quique Álvarez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Josico, Marcos Senna, Juan Pablo Sorín, Juan Román Riquelme, Diego Forlán, Guillermo Franco
+
+MATCH: 37279 | śr., 21.12.2005 | Málaga CF
+PLAYERS: Sebastián Viera, Juan Manuel Peña, Gonzalo Rodríguez, Carlos Alcántara, Jan Kromkamp, Josico, Marcos Senna, Santi Cazorla, Juan Román Riquelme, Antonio Guayre, Diego Forlán
+
+MATCH: 35629 | śr., 07.12.2005 | LOSC Lille
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Juan Manuel Peña, Rodolfo Arruabarrena, Jan Kromkamp, Josico, Marcos Senna, Juan Román Riquelme, Juan Pablo Sorín, Diego Forlán, José Mari
+
+MATCH: 37276 | niedz., 18.12.2005 | Getafe CF
+PLAYERS: Sebastián Viera, Juan Manuel Peña, Gonzalo Rodríguez, Rodolfo Arruabarrena, Jan Kromkamp, Josico, Marcos Senna, Héctor Font, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 37229 | sob., 24.09.2005 | RCD Espanyol
+PLAYERS: Sebastián Viera, Quique Álvarez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Josico, Marcos Senna, Juan Román Riquelme, Juan Pablo Sorín, Diego Forlán, José Mari
+
+MATCH: 35916 | niedz., 26.02.2006 | Athletic Bilbao
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Alessio Tacchinardi, Marcos Senna, Roger García, Juan Pablo Sorín, Diego Forlán, José Mari
+
+MATCH: 37214 | niedz., 28.08.2005 | CA Osasuna
+PLAYERS: Mariano Barbosa, Gonzalo Rodríguez, Quique Álvarez, Rodolfo Arruabarrena, Jan Kromkamp, Josico, Marcos Senna, Juan Román Riquelme, Juan Pablo Sorín, Diego Forlán, Luciano Figueroa
+
+MATCH: 2423090 | śr., 04.01.2006 | Valencia CF
+PLAYERS: Mariano Barbosa, César Arzo, Quique Álvarez, Juan Manuel Peña, Carlos Alcántara, Javi Venta, Marcos Senna, Héctor Font, Roger García, Antonio Guayre, Luciano Figueroa
+
+MATCH: 35866 | sob., 15.10.2005 | Deportivo Alavés
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, César Arzo, Rodolfo Arruabarrena, Javi Venta, Josico, Marcos Senna, Roger García, Juan Pablo Sorín, Luciano Figueroa, José Mari
+
+MATCH: 37358 | niedz., 23.04.2006 | Real Sociedad
+PLAYERS: Sebastián Viera, Oscar López, César Arzo, Josemi, Carlos Alcántara, Héctor Font, Roger García, Javier Calleja, Javi Rubio, Antonio Guayre, Guillermo Franco
+
+MATCH: 37248 | niedz., 23.10.2005 | RCD Mallorca
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Quique Álvarez, Juan Pablo Sorín, Javi Venta, Josico, Alessio Tacchinardi, Santi Cazorla, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 37288 | niedz., 15.01.2006 | Racing Santander
+PLAYERS: Sebastián Viera, Quique Álvarez, Juan Manuel Peña, Rodolfo Arruabarrena, Juan Pablo Sorín, Javi Venta, Josico, Marcos Senna, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 37325 | niedz., 12.03.2006 | RCD Mallorca
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Quique Álvarez, Rodolfo Arruabarrena, Josemi, Josico, Alessio Tacchinardi, Héctor Font, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 37294 | niedz., 22.01.2006 | CA Osasuna
+PLAYERS: Sebastián Viera, Quique Álvarez, Gonzalo Rodríguez, Rodolfo Arruabarrena, Juan Pablo Sorín, Javi Venta, Marcos Senna, Santi Cazorla, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 37263 | niedz., 27.11.2005 | Deportivo de La Coruña
+PLAYERS: Sebastián Viera, Juan Manuel Peña, Gonzalo Rodríguez, Rodolfo Arruabarrena, Juan Pablo Sorín, Javi Venta, Josico, Marcos Senna, Juan Román Riquelme, Luciano Figueroa, José Mari
+
+MATCH: 37348 | niedz., 02.04.2006 | Real Zaragoza
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Quique Álvarez, Rodolfo Arruabarrena, Josemi, Josico, Alessio Tacchinardi, Roger García, Santi Cazorla, Antonio Guayre, Diego Forlán
+
+MATCH: 36063 | niedz., 30.04.2006 | Getafe CF
+PLAYERS: Mariano Barbosa, Quique Álvarez, César Arzo, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Marcos Senna, Héctor Font, Antonio Guayre, Diego Forlán, Guillermo Franco
+
+MATCH: 35622 | wt., 27.09.2005 | LOSC Lille
+PLAYERS: Sebastián Viera, Quique Álvarez, Juan Manuel Peña, Rodolfo Arruabarrena, Jan Kromkamp, Josico, Alessio Tacchinardi, Juan Román Riquelme, Juan Pablo Sorín, Diego Forlán, Luciano Figueroa
+
+MATCH: 49090 | śr., 26.10.2005 | Real Betis Balompié
+PLAYERS: Sebastián Viera, Quique Álvarez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Josico, Alessio Tacchinardi, Juan Pablo Sorín, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 37236 | niedz., 02.10.2005 | Athletic Bilbao
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Josico, Marcos Senna, Juan Román Riquelme, Juan Pablo Sorín, Diego Forlán, José Mari
+
+MATCH: 35581 | śr., 14.09.2005 | Manchester United
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Quique Álvarez, Rodolfo Arruabarrena, Jan Kromkamp, Josico, Marcos Senna, Héctor Font, Juan Pablo Sorín, Antonio Guayre, Diego Forlán
+
+MATCH: 37350 | niedz., 09.04.2006 | Deportivo de La Coruña
+PLAYERS: Mariano Barbosa, Gonzalo Rodríguez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Alessio Tacchinardi, Marcos Senna, Juan Pablo Sorín, Juan Román Riquelme, Diego Forlán, Guillermo Franco
+
+MATCH: 37300 | niedz., 05.02.2006 | Cádiz CF
+PLAYERS: Sebastián Viera, Quique Álvarez, Gonzalo Rodríguez, Rodolfo Arruabarrena, Juan Pablo Sorín, Javi Venta, Marcos Senna, Santi Cazorla, Héctor Font, Antonio Guayre, Diego Forlán
+
+MATCH: 37338 | śr., 22.03.2006 | Valencia CF
+PLAYERS: Sebastián Viera, Quique Álvarez, Josemi, Gonzalo Rodríguez, Rodolfo Arruabarrena, Josico, Marcos Senna, Alessio Tacchinardi, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 37286 | niedz., 08.01.2006 | Real Madryt
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Marcos Senna, Santi Cazorla, Juan Pablo Sorín, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 35971 | niedz., 18.09.2005 | Cádiz CF
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Quique Álvarez, Rodolfo Arruabarrena, Javi Venta, Josico, Marcos Senna, Antonio Valencia, Héctor Font, Luciano Figueroa, José Mari
+
+MATCH: 53419 | śr., 29.03.2006 | Inter Mediolan
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Juan Manuel Peña, Juan Pablo Sorín, Javi Venta, César Arzo, Marcos Senna, Javier Calleja, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 37296 | niedz., 29.01.2006 | Sevilla FC
+PLAYERS: Sebastián Viera, Juan Manuel Peña, Gonzalo Rodríguez, Rodolfo Arruabarrena, Juan Pablo Sorín, Javi Venta, Josico, Marcos Senna, Santi Cazorla, Diego Forlán, José Mari
+
+MATCH: 49847 | śr., 22.02.2006 | Glasgow Rangers
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Josico, Alessio Tacchinardi, Marcos Senna, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 49109 | sob., 05.11.2005 | Valencia CF
+PLAYERS: Mariano Barbosa, Quique Álvarez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Alessio Tacchinardi, Marcos Senna, Santi Cazorla, Juan Román Riquelme, Luciano Figueroa, José Mari
+
+MATCH: 49107 | niedz., 30.10.2005 | Atlético Madryt
+PLAYERS: Sebastián Viera, Quique Álvarez, Gonzalo Rodríguez, Rodolfo Arruabarrena, Juan Pablo Sorín, Jan Kromkamp, Josico, Alessio Tacchinardi, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 37365 | niedz., 07.05.2006 | Real Madryt
+PLAYERS: Mariano Barbosa, Quique Álvarez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Alessio Tacchinardi, Marcos Senna, José Mari, Juan Román Riquelme, Diego Forlán, Guillermo Franco
+
+MATCH: 53423 | wt., 04.04.2006 | Inter Mediolan
+PLAYERS: Sebastián Viera, Quique Álvarez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Marcos Senna, Alessio Tacchinardi, Juan Pablo Sorín, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 37331 | niedz., 19.03.2006 | Atlético Madryt
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Juan Manuel Peña, Rodolfo Arruabarrena, Josemi, Alessio Tacchinardi, Marcos Senna, Héctor Font, José Mari, Diego Forlán, Guillermo Franco
+
+MATCH: 43300 | śr., 24.08.2005 | FC Everton
+PLAYERS: Mariano Barbosa, Gonzalo Rodríguez, Quique Álvarez, Rodolfo Arruabarrena, Javi Venta, Josico, Marcos Senna, Juan Román Riquelme, Juan Pablo Sorín, Diego Forlán, Luciano Figueroa
+
+MATCH: 37220 | niedz., 11.09.2005 | Sevilla FC
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Quique Álvarez, Rodolfo Arruabarrena, Jan Kromkamp, Josico, Alessio Tacchinardi, Juan Román Riquelme, Santi Cazorla, Diego Forlán, José Mari
+
+MATCH: 37261 | sob., 19.11.2005 | Real Zaragoza
+PLAYERS: Mariano Barbosa, Juan Manuel Peña, Gonzalo Rodríguez, Rodolfo Arruabarrena, Jan Kromkamp, Josico, Marcos Senna, Santi Cazorla, Roger García, Luciano Figueroa, José Mari
+
+MATCH: 37371 | sob., 13.05.2006 | Racing Santander
+PLAYERS: Mariano Barbosa, Quique Álvarez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Alessio Tacchinardi, Marcos Senna, Santi Cazorla, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 37310 | sob., 18.02.2006 | RCD Espanyol
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Alessio Tacchinardi, Josico, Marcos Senna, Roger García, Diego Forlán, José Mari
+

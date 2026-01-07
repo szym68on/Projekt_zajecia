@@ -1,0 +1,124 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 4407531 | sob., 15.03.2025 | Real Madryt
+PLAYERS: Diego Conde, Logan Costa, Willy Kambwala, Sergi Cardona, Juan Foyth, Pape Gueye, Santi Comesaña, Álex Baena, Tajon Buchanan, Nicolas Pépé, Ayoze Pérez
+
+MATCH: 4407761 | sob., 15.02.2025 | Valencia CF
+PLAYERS: Diego Conde, Logan Costa, Juan Foyth, Sergi Cardona, Pau Navarro, Pape Gueye, Dani Parejo, Álex Baena, Yéremy Pino, Nicolas Pépé, Ayoze Pérez
+
+MATCH: 4472358 | wt., 29.10.2024 | UD Poblense
+PLAYERS: Luiz Júnior, Logan Costa, Willy Kambwala, Juan Bernat, Pau Navarro, Dani Parejo, Pape Gueye, Ramón Terrats, Ayoze Pérez, Yéremy Pino, Pau Cabanes
+
+MATCH: 4500190 | śr., 04.12.2024 | Pontevedra CF
+PLAYERS: Luiz Júnior, Logan Costa, Willy Kambwala, Juan Bernat, Pau Navarro, Alassane Diatta, Dani Parejo, Denis Suárez, Pau Cabanes, Gerard Moreno, Thierno Barry
+
+MATCH: 4407641 | niedz., 20.04.2025 | Real Sociedad
+PLAYERS: Luiz Júnior, Logan Costa, Juan Foyth, Sergi Cardona, Kiko Femenía, Santi Comesaña, Dani Parejo, Denis Suárez, Yéremy Pino, Thierno Barry, Ayoze Pérez
+
+MATCH: 4407646 | niedz., 24.11.2024 | CA Osasuna
+PLAYERS: Diego Conde, Logan Costa, Raúl Albiol, Sergi Cardona, Pau Navarro, Santi Comesaña, Dani Parejo, Ramón Terrats, Álex Baena, Yéremy Pino, Thierno Barry
+
+MATCH: 4407700 | śr., 18.12.2024 | Rayo Vallecano
+PLAYERS: Luiz Júnior, Logan Costa, Willy Kambwala, Sergi Cardona, Pau Navarro, Pape Gueye, Santi Comesaña, Denis Suárez, Yéremy Pino, Thierno Barry, Ayoze Pérez
+
+MATCH: 4407522 | sob., 26.10.2024 | Real Valladolid CF
+PLAYERS: Diego Conde, Logan Costa, Raúl Albiol, Sergi Cardona, Kiko Femenía, Santi Comesaña, Dani Parejo, Álex Baena, Ilias Akhomach, Nicolas Pépé, Thierno Barry
+
+MATCH: 4407745 | sob., 25.01.2025 | Atlético Madryt
+PLAYERS: Luiz Júnior, Logan Costa, Willy Kambwala, Sergi Cardona, Kiko Femenía, Pape Gueye, Santi Comesaña, Álex Baena, Yéremy Pino, Gerard Moreno, Thierno Barry
+
+MATCH: 4407558 | niedz., 30.03.2025 | Getafe CF
+PLAYERS: Luiz Júnior, Willy Kambwala, Juan Foyth, Sergi Cardona, Pau Navarro, Santi Comesaña, Dani Parejo, Álex Baena, Tajon Buchanan, Thierno Barry, Ayoze Pérez
+
+MATCH: 4407743 | niedz., 27.04.2025 | RCD Espanyol
+PLAYERS: Luiz Júnior, Logan Costa, Juan Foyth, Sergi Cardona, Kiko Femenía, Santi Comesaña, Dani Parejo, Yéremy Pino, Nicolas Pépé, Thierno Barry, Ayoze Pérez
+
+MATCH: 4407618 | śr., 23.04.2025 | Celta de Vigo
+PLAYERS: Luiz Júnior, Eric Bailly, Willy Kambwala, Alfonso Pedraza, Kiko Femenía, Pape Gueye, Santi Comesaña, Denis Suárez, Yéremy Pino, Nicolas Pépé, Thierno Barry
+
+MATCH: 4361558 | pt., 23.08.2024 | Sevilla FC
+PLAYERS: Diego Conde, Eric Bailly, Willy Kambwala, Sergi Cardona, Kiko Femenía, Pape Gueye, Santi Comesaña, Álex Baena, Ilias Akhomach, Arnaut Danjuma, Nicolas Pépé
+
+MATCH: 4407626 | niedz., 13.04.2025 | Real Betis Balompié
+PLAYERS: Luiz Júnior, Logan Costa, Juan Foyth, Sergi Cardona, Kiko Femenía, Santi Comesaña, Dani Parejo, Alfonso Pedraza, Yéremy Pino, Thierno Barry, Ayoze Pérez
+
+MATCH: 4361549 | pon., 19.08.2024 | Atlético Madryt
+PLAYERS: Diego Conde, Raúl Albiol, Eric Bailly, Sergi Cardona, Kiko Femenía, Santi Comesaña, Dani Parejo, Álex Baena, Yéremy Pino, Arnaut Danjuma, Gerard Moreno
+
+MATCH: 4407583 | śr., 14.05.2025 | CD Leganés
+PLAYERS: Luiz Júnior, Logan Costa, Juan Foyth, Alfonso Pedraza, Pau Navarro, Pape Gueye, Dani Parejo, Álex Baena, Yéremy Pino, Nicolas Pépé, Ayoze Pérez
+
+MATCH: 4407598 | sob., 10.05.2025 | Girona FC
+PLAYERS: Luiz Júnior, Logan Costa, Juan Foyth, Sergi Cardona, Pau Navarro, Pape Gueye, Santi Comesaña, Álex Baena, Yéremy Pino, Nicolas Pépé, Ayoze Pérez
+
+MATCH: 4407679 | niedz., 22.12.2024 | CD Leganés
+PLAYERS: Luiz Júnior, Logan Costa, Raúl Albiol, Sergi Cardona, Kiko Femenía, Pape Gueye, Santi Comesaña, Denis Suárez, Álex Baena, Yéremy Pino, Thierno Barry
+
+MATCH: 4407767 | sob., 08.02.2025 | UD Las Palmas
+PLAYERS: Diego Conde, Willy Kambwala, Juan Foyth, Sergi Cardona, Kiko Femenía, Pape Gueye, Santi Comesaña, Álex Baena, Yéremy Pino, Thierno Barry, Ayoze Pérez
+
+MATCH: 4407548 | niedz., 06.04.2025 | Athletic Bilbao
+PLAYERS: Luiz Júnior, Logan Costa, Juan Foyth, Sergi Cardona, Kiko Femenía, Santi Comesaña, Dani Parejo, Álex Baena, Tajon Buchanan, Thierno Barry, Ayoze Pérez
+
+MATCH: 4405343 | czw., 26.09.2024 | RCD Espanyol
+PLAYERS: Diego Conde, Logan Costa, Raúl Albiol, Sergi Cardona, Kiko Femenía, Pape Gueye, Santi Comesaña, Álex Baena, Ilias Akhomach, Ayoze Pérez, Thierno Barry
+
+MATCH: 4405322 | sob., 14.09.2024 | RCD Mallorca
+PLAYERS: Diego Conde, Logan Costa, Raúl Albiol, Sergi Cardona, Kiko Femenía, Santi Comesaña, Dani Parejo, Álex Baena, Ilias Akhomach, Thierno Barry, Ayoze Pérez
+
+MATCH: 4407536 | sob., 22.02.2025 | Rayo Vallecano
+PLAYERS: Diego Conde, Logan Costa, Willy Kambwala, Sergi Cardona, Juan Foyth, Pape Gueye, Santi Comesaña, Álex Baena, Yéremy Pino, Thierno Barry, Ayoze Pérez
+
+MATCH: 4405360 | sob., 05.10.2024 | Real Madryt
+PLAYERS: Diego Conde, Logan Costa, Raúl Albiol, Sergi Cardona, Kiko Femenía, Dani Parejo, Pape Gueye, Santi Comesaña, Álex Baena, Nicolas Pépé, Thierno Barry
+
+MATCH: 4407716 | pon., 13.01.2025 | Real Sociedad
+PLAYERS: Luiz Júnior, Willy Kambwala, Juan Foyth, Sergi Cardona, Kiko Femenía, Santi Comesaña, Dani Parejo, Álex Baena, Denis Suárez, Pape Gueye, Thierno Barry
+
+MATCH: 4405376 | niedz., 20.10.2024 | Getafe CF
+PLAYERS: Diego Conde, Raúl Albiol, Eric Bailly, Sergi Cardona, Kiko Femenía, Santi Comesaña, Dani Parejo, Pape Gueye, Álex Baena, Ilias Akhomach, Thierno Barry
+
+MATCH: 4407709 | niedz., 15.12.2024 | Real Betis Balompié
+PLAYERS: Luiz Júnior, Raúl Albiol, Eric Bailly, Sergi Cardona, Kiko Femenía, Pape Gueye, Dani Parejo, Álex Baena, Yéremy Pino, Gerard Moreno, Ayoze Pérez
+
+MATCH: 4407730 | pon., 20.01.2025 | RCD Mallorca
+PLAYERS: Luiz Júnior, Logan Costa, Juan Foyth, Sergi Cardona, Kiko Femenía, Pape Gueye, Dani Parejo, Álex Baena, Yéremy Pino, Gerard Moreno, Thierno Barry
+
+MATCH: 4407585 | niedz., 18.05.2025 | FC Barcelona
+PLAYERS: Luiz Júnior, Logan Costa, Juan Foyth, Sergi Cardona, Pau Navarro, Santi Comesaña, Dani Parejo, Yéremy Pino, Nicolas Pépé, Álex Baena, Ayoze Pérez
+
+MATCH: 4405355 | pon., 30.09.2024 | UD Las Palmas
+PLAYERS: Diego Conde, Logan Costa, Eric Bailly, Sergi Cardona, Kiko Femenía, Pape Gueye, Dani Parejo, Denis Suárez, Ilias Akhomach, Nicolas Pépé, Thierno Barry
+
+MATCH: 4407790 | sob., 08.03.2025 | Deportivo Alavés
+PLAYERS: Diego Conde, Logan Costa, Willy Kambwala, Sergi Cardona, Juan Foyth, Pape Gueye, Dani Parejo, Álex Baena, Yéremy Pino, Nicolas Pépé, Ayoze Pérez
+
+MATCH: 4405334 | niedz., 22.09.2024 | FC Barcelona
+PLAYERS: Diego Conde, Logan Costa, Eric Bailly, Sergi Cardona, Kiko Femenía, Santi Comesaña, Dani Parejo, Álex Baena, Yéremy Pino, Nicolas Pépé, Ayoze Pérez
+
+MATCH: 4407662 | niedz., 01.12.2024 | Girona FC
+PLAYERS: Diego Conde, Logan Costa, Raúl Albiol, Sergi Cardona, Kiko Femenía, Santi Comesaña, Dani Parejo, Pape Gueye, Álex Baena, Yéremy Pino, Thierno Barry
+
+MATCH: 4407573 | niedz., 25.05.2025 | Sevilla FC
+PLAYERS: Diego Conde, Logan Costa, Willy Kambwala, Alfonso Pedraza, Pau Navarro, Pape Gueye, Denis Suárez, Yéremy Pino, Tajon Buchanan, Álex Baena, Thierno Barry
+
+MATCH: 4407684 | niedz., 08.12.2024 | Athletic Bilbao
+PLAYERS: Diego Conde, Logan Costa, Raúl Albiol, Juan Bernat, Kiko Femenía, Santi Comesaña, Dani Parejo, Álex Baena, Yéremy Pino, Pape Gueye, Thierno Barry
+
+MATCH: 4407778 | sob., 01.02.2025 | Real Valladolid CF
+PLAYERS: Diego Conde, Willy Kambwala, Juan Foyth, Sergi Cardona, Kiko Femenía, Pape Gueye, Santi Comesaña, Álex Baena, Yéremy Pino, Gerard Moreno, Ayoze Pérez
+
+MATCH: 4361569 | pon., 26.08.2024 | Celta de Vigo
+PLAYERS: Diego Conde, Raúl Albiol, Eric Bailly, Sergi Cardona, Kiko Femenía, Santi Comesaña, Dani Parejo, Álex Baena, Yéremy Pino, Arnaut Danjuma, Gerard Moreno
+
+MATCH: 4407612 | sob., 03.05.2025 | CA Osasuna
+PLAYERS: Luiz Júnior, Logan Costa, Juan Foyth, Sergi Cardona, Kiko Femenía, Santi Comesaña, Dani Parejo, Pape Gueye, Nicolas Pépé, Thierno Barry, Ayoze Pérez
+
+MATCH: 4364908 | sob., 31.08.2024 | Valencia CF
+PLAYERS: Diego Conde, Logan Costa, Raúl Albiol, Sergi Cardona, Kiko Femenía, Pape Gueye, Dani Parejo, Santi Comesaña, Yéremy Pino, Ayoze Pérez, Thierno Barry
+
+MATCH: 4407673 | sob., 09.11.2024 | Deportivo Alavés
+PLAYERS: Diego Conde, Logan Costa, Raúl Albiol, Sergi Cardona, Kiko Femenía, Pape Gueye, Dani Parejo, Álex Baena, Ilias Akhomach, Nicolas Pépé, Ayoze Pérez
+

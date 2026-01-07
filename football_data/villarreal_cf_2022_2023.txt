@@ -1,0 +1,3194 @@
+====================================================================================================
+                        FOOTBALL TEAM - SEASON MATCHES REPORT
+====================================================================================================
+
+📅 Generated: 2025-12-10 12:17:02
+⚽ Total matches: 52
+👥 Total players tracked: 1619
+📊 Average players per match: 31.1
+
+🏆 Competitions breakdown:
+   • LALIGA: 38 matches
+   • Unknown: 14 matches
+
+====================================================================================================
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #01
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  CA Osasuna
+✈️  AWAY:  Villarreal CF
+📅 DATE:  niedz., 19.03.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 26. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/ca-osasuna_villarreal-cf/aufstellung/spielbericht/3886594
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CA OSASUNA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Aitor Fernández
+        5. David García
+       23. Aridane Hernández
+       20. Manu Sánchez
+        2. Nacho Vidal
+        6. Lucas Torró
+        7. Jon Moncayola
+       16. Moi Gómez
+       12. Abde Ezzalzouli
+       11. Kike Barja
+        9. Chimy Ávila
+
+   🔄 SUBSTITUTES IN (5):
+        8. Darko Brasanac
+       19. Pablo Ibáñez
+       14. Rubén García
+       17. Ante Budimir
+       18. Kike García
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+        3. Raúl Albiol
+       24. Alfonso Pedraza
+        8. Juan Foyth
+       10. Dani Parejo
+       39. Ramón Terrats
+       14. Manu Trigueros
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+        7. Gerard Moreno
+
+   🔄 SUBSTITUTES IN (5):
+       23. Aïssa Mandi
+       12. Johan Mojica
+        2. Kiko Femenía
+       17. Giovani Lo Celso
+       22. José Luis Morales
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 19.03.2023|LALIGA|26. Kolejka|CA Osasuna|Villarreal CF|Aitor Fernández|David García|Aridane Hernández|Manu Sánchez|Nacho Vidal|Lucas Torró|Jon Moncayola|Moi Gómez|Abde Ezzalzouli|Kike Barja|Chimy Ávila|Darko Brasanac|Pablo Ibáñez|Rubén García|Ante Budimir|Kike García|Pepe Reina|Pau Torres|Raúl Albiol|Alfonso Pedraza|Juan Foyth|Dani Parejo|Ramón Terrats|Manu Trigueros|Yéremy Pino|Samuel Chukwueze|Gerard Moreno|Aïssa Mandi|Johan Mojica|Kiko Femenía|Giovani Lo Celso|José Luis Morales
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #02
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  CD Santa Amalia
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 12.11.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/cd-santa-amalia_villarreal-cf/aufstellung/spielbericht/3949568
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CD SANTA AMALIA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Rubén Gómez
+        5. Tomás Suárez
+        3. Carlos Gómez
+       22. Manu García
+       20. José Antonio García
+        8. Roberto Rico
+       18. Loren Ruiz
+       14. Jesús Rubio
+       10. Sergio Cordero
+       21. Antonio José González
+        9. Javi Martín
+
+   🔄 SUBSTITUTES IN (5):
+        4. Santi Gil
+       17. Jesús Guinda
+       19. Carlinos
+       23. José Miranda
+       11. Samuel Cidoncha
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        5. Jorge Cuenca
+       23. Aïssa Mandi
+       12. Johan Mojica
+        8. Juan Foyth
+       20. Manu Morlanes
+       19. Francis Coquelin
+       16. Álex Baena
+       22. José Luis Morales
+       11. Samuel Chukwueze
+       27. Diego Collado
+
+   🔄 SUBSTITUTES IN (5):
+       33. Mamadou Mbacke
+        6. Étienne Capoue
+       10. Dani Parejo
+       14. Manu Trigueros
+        7. Gerard Moreno
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 12.11.2022|Unknown|Unknown|CD Santa Amalia|Villarreal CF|Rubén Gómez|Tomás Suárez|Carlos Gómez|Manu García|José Antonio García|Roberto Rico|Loren Ruiz|Jesús Rubio|Sergio Cordero|Antonio José González|Javi Martín|Santi Gil|Jesús Guinda|Carlinos|José Miranda|Samuel Cidoncha|Pepe Reina|Jorge Cuenca|Aïssa Mandi|Johan Mojica|Juan Foyth|Manu Morlanes|Francis Coquelin|Álex Baena|José Luis Morales|Samuel Chukwueze|Diego Collado|Mamadou Mbacke|Étienne Capoue|Dani Parejo|Manu Trigueros|Gerard Moreno
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #03
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Villarreal CF
+📅 DATE:  czw., 20.10.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 10. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_villarreal-cf/aufstellung/spielbericht/3886330
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc-André ter Stegen
+       17. Marcos Alonso
+       23. Jules Koundé
+       18. Jordi Alba
+       20. Sergi Roberto
+       21. Frenkie de Jong
+        8. Pedri
+       30. Gavi
+       10. Ansu Fati
+       11. Ferran Torres
+        9. Robert Lewandowski
+
+   🔄 SUBSTITUTES IN (5):
+        3. Gerard Piqué
+        2. Héctor Bellerín
+        5. Sergio Busquets
+       22. Raphinha
+        7. Ousmane Dembélé
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Gerónimo Rulli
+        4. Pau Torres
+        3. Raúl Albiol
+       24. Alfonso Pedraza
+        2. Kiko Femenía
+       20. Manu Morlanes
+       10. Dani Parejo
+       16. Álex Baena
+       21. Yéremy Pino
+        9. Arnaut Danjuma
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (5):
+       23. Aïssa Mandi
+       12. Johan Mojica
+       18. Alberto Moreno
+       14. Manu Trigueros
+       22. José Luis Morales
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 20.10.2022|LALIGA|10. Kolejka|FC Barcelona|Villarreal CF|Marc-André ter Stegen|Marcos Alonso|Jules Koundé|Jordi Alba|Sergi Roberto|Frenkie de Jong|Pedri|Gavi|Ansu Fati|Ferran Torres|Robert Lewandowski|Gerard Piqué|Héctor Bellerín|Sergio Busquets|Raphinha|Ousmane Dembélé|Gerónimo Rulli|Pau Torres|Raúl Albiol|Alfonso Pedraza|Kiko Femenía|Manu Morlanes|Dani Parejo|Álex Baena|Yéremy Pino|Arnaut Danjuma|Nicolas Jackson|Aïssa Mandi|Johan Mojica|Alberto Moreno|Manu Trigueros|José Luis Morales
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #04
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Girona FC
+📅 DATE:  niedz., 22.01.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 18. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_girona-fc/aufstellung/spielbericht/3886509
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+        5. Jorge Cuenca
+       12. Johan Mojica
+       23. Aïssa Mandi
+       10. Dani Parejo
+        6. Étienne Capoue
+       16. Álex Baena
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+        7. Gerard Moreno
+
+   🔄 SUBSTITUTES IN (5):
+       33. Mamadou Mbacke
+       18. Alberto Moreno
+       14. Manu Trigueros
+       27. Diego Collado
+       22. José Luis Morales
+
+✈️  GIRONA FC - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Paulo Gazzaniga
+        2. Bernardo Espinosa
+       22. Santiago Bueno
+        3. Miguel Gutiérrez
+        4. Arnau Martínez
+       18. Oriol Romeu
+       14. Aleix García
+       23. Iván Martín
+       17. Rodrigo Riquelme
+       12. Toni Villa
+        7. Cristhian Stuani
+
+   🔄 SUBSTITUTES IN (5):
+       15. Juanpe
+       21. Yangel Herrera
+       24. Borja García
+       11. Valery Fernández
+        9. Taty Castellanos
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 22.01.2023|LALIGA|18. Kolejka|Villarreal CF|Girona FC|Pepe Reina|Pau Torres|Jorge Cuenca|Johan Mojica|Aïssa Mandi|Dani Parejo|Étienne Capoue|Álex Baena|Yéremy Pino|Samuel Chukwueze|Gerard Moreno|Mamadou Mbacke|Alberto Moreno|Manu Trigueros|Diego Collado|José Luis Morales|Paulo Gazzaniga|Bernardo Espinosa|Santiago Bueno|Miguel Gutiérrez|Arnau Martínez|Oriol Romeu|Aleix García|Iván Martín|Rodrigo Riquelme|Toni Villa|Cristhian Stuani|Juanpe|Yangel Herrera|Borja García|Valery Fernández|Taty Castellanos
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #05
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Real Sociedad
+📅 DATE:  niedz., 02.04.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 27. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_real-sociedad/aufstellung/spielbericht/3886607
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+       23. Aïssa Mandi
+       24. Alfonso Pedraza
+        8. Juan Foyth
+       10. Dani Parejo
+       39. Ramón Terrats
+       16. Álex Baena
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+       22. José Luis Morales
+
+   🔄 SUBSTITUTES IN (5):
+        5. Jorge Cuenca
+       18. Alberto Moreno
+       14. Manu Trigueros
+       17. Giovani Lo Celso
+       15. Nicolas Jackson
+
+✈️  REAL SOCIEDAD - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Álex Remiro
+        5. Igor Zubeldia
+       24. Robin Le Normand
+       12. Aihen Muñoz
+       18. Andoni Gorosabel
+        3. Martín Zubimendi
+        8. Mikel Merino
+       23. Brais Méndez
+       21. David Silva
+       14. Takefusa Kubo
+       19. Alexander Sørloth
+
+   🔄 SUBSTITUTES IN (5):
+        4. Asier Illarramendi
+        7. Ander Barrenetxea
+       11. Mohamed-Ali Cho
+        2. Álex Sola
+       10. Mikel Oyarzabal
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 02.04.2023|LALIGA|27. Kolejka|Villarreal CF|Real Sociedad|Pepe Reina|Pau Torres|Aïssa Mandi|Alfonso Pedraza|Juan Foyth|Dani Parejo|Ramón Terrats|Álex Baena|Yéremy Pino|Samuel Chukwueze|José Luis Morales|Jorge Cuenca|Alberto Moreno|Manu Trigueros|Giovani Lo Celso|Nicolas Jackson|Álex Remiro|Igor Zubeldia|Robin Le Normand|Aihen Muñoz|Andoni Gorosabel|Martín Zubimendi|Mikel Merino|Brais Méndez|David Silva|Takefusa Kubo|Alexander Sørloth|Asier Illarramendi|Ander Barrenetxea|Mohamed-Ali Cho|Álex Sola|Mikel Oyarzabal
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #06
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  sob., 13.05.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 34. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_athletic-bilbao/aufstellung/spielbericht/3886672
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+       23. Aïssa Mandi
+       24. Alfonso Pedraza
+        8. Juan Foyth
+       10. Dani Parejo
+        6. Étienne Capoue
+       16. Álex Baena
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (5):
+       18. Alberto Moreno
+       39. Ramón Terrats
+       14. Manu Trigueros
+       17. Giovani Lo Celso
+        7. Gerard Moreno
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        5. Yeray Álvarez
+       31. Aitor Paredes
+       17. Yuri Berchiche
+       15. Iñigo Lekue
+       14. Dani García
+       23. Ander Herrera
+        8. Oihan Sancet
+        7. Álex Berenguer
+       11. Nico Williams
+        9. Iñaki Williams
+
+   🔄 SUBSTITUTES IN (5):
+       18. Óscar de Marcos
+        6. Mikel Vesga
+       10. Iker Muniain
+       29. Adu Ares
+       12. Gorka Guruzeta
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 13.05.2023|LALIGA|34. Kolejka|Villarreal CF|Athletic Bilbao|Pepe Reina|Pau Torres|Aïssa Mandi|Alfonso Pedraza|Juan Foyth|Dani Parejo|Étienne Capoue|Álex Baena|Yéremy Pino|Samuel Chukwueze|Nicolas Jackson|Alberto Moreno|Ramón Terrats|Manu Trigueros|Giovani Lo Celso|Gerard Moreno|Unai Simón|Yeray Álvarez|Aitor Paredes|Yuri Berchiche|Iñigo Lekue|Dani García|Ander Herrera|Oihan Sancet|Álex Berenguer|Nico Williams|Iñaki Williams|Óscar de Marcos|Mikel Vesga|Iker Muniain|Adu Ares|Gorka Guruzeta
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #07
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Cádiz CF
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 01.10.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 7. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/cádiz-cf_villarreal-cf/aufstellung/spielbericht/3886285
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CÁDIZ CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Conan Ledesma
+       32. Víctor Chust
+       23. Luis Hernández
+       22. Alfonso Espino
+       20. Iza Carcelén
+        4. Rubén Alcaraz
+       24. Fede San Emeterio
+       10. Théo Bongonda
+       11. Iván Alejo
+       18. Álvaro Negredo
+        7. Rubén Sobrino
+
+   🔄 SUBSTITUTES IN (5):
+        2. Joseba Zaldua
+        6. José Mari
+        8. Álex Fernández
+       15. Lucas Pérez
+        9. Choco Lozano
+
+✈️  VILLARREAL CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Gerónimo Rulli
+        4. Pau Torres
+        3. Raúl Albiol
+       24. Alfonso Pedraza
+        2. Kiko Femenía
+        6. Étienne Capoue
+       10. Dani Parejo
+       19. Francis Coquelin
+       17. Giovani Lo Celso
+       16. Álex Baena
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (3):
+        9. Arnaut Danjuma
+       11. Samuel Chukwueze
+       22. José Luis Morales
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 01.10.2022|LALIGA|7. Kolejka|Cádiz CF|Villarreal CF|Conan Ledesma|Víctor Chust|Luis Hernández|Alfonso Espino|Iza Carcelén|Rubén Alcaraz|Fede San Emeterio|Théo Bongonda|Iván Alejo|Álvaro Negredo|Rubén Sobrino|Joseba Zaldua|José Mari|Álex Fernández|Lucas Pérez|Choco Lozano|Gerónimo Rulli|Pau Torres|Raúl Albiol|Alfonso Pedraza|Kiko Femenía|Étienne Capoue|Dani Parejo|Francis Coquelin|Giovani Lo Celso|Álex Baena|Nicolas Jackson|Arnaut Danjuma|Samuel Chukwueze|José Luis Morales
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #08
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Cartagena
+✈️  AWAY:  Villarreal CF
+📅 DATE:  wt., 03.01.2023
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-cartagena_villarreal-cf/aufstellung/spielbericht/3989545
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC CARTAGENA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc Martínez
+        4. Pedro Alcalá
+        5. Pablo Vázquez
+        6. Toni Datkovic
+       16. Iván Calero
+       18. Damián Musto
+       17. Mikel Rico
+       15. Luca Sangalli
+       24. Isak Jansson
+        7. David Ferreiro
+       19. Armando Sadiku
+
+   🔄 SUBSTITUTES IN (5):
+       20. Jairo Izquierdo
+       36. Djakaría Barro
+        8. Pablo de Blasis
+       14. Franchu
+        9. Alfredo Ortuño
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        5. Jorge Cuenca
+       23. Aïssa Mandi
+       12. Johan Mojica
+        2. Kiko Femenía
+       20. Manu Morlanes
+       14. Manu Trigueros
+       16. Álex Baena
+        9. Arnaut Danjuma
+       22. José Luis Morales
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (5):
+        8. Juan Foyth
+       24. Alfonso Pedraza
+        6. Étienne Capoue
+       10. Dani Parejo
+       11. Samuel Chukwueze
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 03.01.2023|Unknown|Unknown|FC Cartagena|Villarreal CF|Marc Martínez|Pedro Alcalá|Pablo Vázquez|Toni Datkovic|Iván Calero|Damián Musto|Mikel Rico|Luca Sangalli|Isak Jansson|David Ferreiro|Armando Sadiku|Jairo Izquierdo|Djakaría Barro|Pablo de Blasis|Franchu|Alfredo Ortuño|Pepe Reina|Jorge Cuenca|Aïssa Mandi|Johan Mojica|Kiko Femenía|Manu Morlanes|Manu Trigueros|Álex Baena|Arnaut Danjuma|José Luis Morales|Nicolas Jackson|Juan Foyth|Alfonso Pedraza|Étienne Capoue|Dani Parejo|Samuel Chukwueze
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #09
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Villarreal CF
+📅 DATE:  niedz., 21.08.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 2. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_villarreal-cf/aufstellung/spielbericht/3844594
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       15. Stefan Savic
+       23. Reinildo Mandava
+       20. Axel Witsel
+        6. Koke
+       16. Nahuel Molina
+       21. Yannick Carrasco
+       14. Marcos Llorente
+       11. Thomas Lemar
+        7. João Félix
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+        2. José María Giménez
+        5. Rodrigo De Paul
+       10. Ángel Correa
+        8. Antoine Griezmann
+        9. Matheus Cunha
+
+✈️  VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Gerónimo Rulli
+        4. Pau Torres
+        3. Raúl Albiol
+       24. Alfonso Pedraza
+        8. Juan Foyth
+        6. Étienne Capoue
+       10. Dani Parejo
+       17. Giovani Lo Celso
+       21. Yéremy Pino
+        7. Gerard Moreno
+       26. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (4):
+       19. Francis Coquelin
+       30. Álex Baena
+       11. Samuel Chukwueze
+       22. José Luis Morales
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 21.08.2022|LALIGA|2. Kolejka|Atlético Madryt|Villarreal CF|Jan Oblak|Stefan Savic|Reinildo Mandava|Axel Witsel|Koke|Nahuel Molina|Yannick Carrasco|Marcos Llorente|Thomas Lemar|João Félix|Álvaro Morata|José María Giménez|Rodrigo De Paul|Ángel Correa|Antoine Griezmann|Matheus Cunha|Gerónimo Rulli|Pau Torres|Raúl Albiol|Alfonso Pedraza|Juan Foyth|Étienne Capoue|Dani Parejo|Giovani Lo Celso|Yéremy Pino|Gerard Moreno|Nicolas Jackson|Francis Coquelin|Álex Baena|Samuel Chukwueze|José Luis Morales
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #10
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Sociedad
+✈️  AWAY:  Villarreal CF
+📅 DATE:  niedz., 09.10.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 8. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-sociedad_villarreal-cf/aufstellung/spielbericht/3886310
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL SOCIEDAD - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Álex Remiro
+       20. Jon Pacheco
+        6. Aritz Elustondo
+       12. Aihen Muñoz
+        2. Álex Sola
+        3. Martín Zubimendi
+        8. Mikel Merino
+       23. Brais Méndez
+       21. David Silva
+       14. Takefusa Kubo
+       19. Alexander Sørloth
+
+   🔄 SUBSTITUTES IN (5):
+       24. Robin Le Normand
+       22. Beñat Turrientes
+       11. Mohamed-Ali Cho
+       17. Robert Navarro
+        9. Carlos Fernández
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Gerónimo Rulli
+        4. Pau Torres
+        3. Raúl Albiol
+       24. Alfonso Pedraza
+        2. Kiko Femenía
+        6. Étienne Capoue
+       10. Dani Parejo
+       19. Francis Coquelin
+       17. Giovani Lo Celso
+       21. Yéremy Pino
+        9. Arnaut Danjuma
+
+   🔄 SUBSTITUTES IN (5):
+       23. Aïssa Mandi
+       16. Álex Baena
+       11. Samuel Chukwueze
+       15. Nicolas Jackson
+       22. José Luis Morales
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 09.10.2022|LALIGA|8. Kolejka|Real Sociedad|Villarreal CF|Álex Remiro|Jon Pacheco|Aritz Elustondo|Aihen Muñoz|Álex Sola|Martín Zubimendi|Mikel Merino|Brais Méndez|David Silva|Takefusa Kubo|Alexander Sørloth|Robin Le Normand|Beñat Turrientes|Mohamed-Ali Cho|Robert Navarro|Carlos Fernández|Gerónimo Rulli|Pau Torres|Raúl Albiol|Alfonso Pedraza|Kiko Femenía|Étienne Capoue|Dani Parejo|Francis Coquelin|Giovani Lo Celso|Yéremy Pino|Arnaut Danjuma|Aïssa Mandi|Álex Baena|Samuel Chukwueze|Nicolas Jackson|José Luis Morales
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #11
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 04.06.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 38. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_atlético-madryt/aufstellung/spielbericht/3844558
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       35. Filip Jørgensen
+        4. Pau Torres
+       23. Aïssa Mandi
+       18. Alberto Moreno
+        2. Kiko Femenía
+        6. Étienne Capoue
+       10. Dani Parejo
+       14. Manu Trigueros
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (5):
+        5. Jorge Cuenca
+       12. Johan Mojica
+       17. Giovani Lo Celso
+       16. Álex Baena
+       43. Jorge Pascual
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Ivo Grbic
+       22. Mario Hermoso
+       15. Stefan Savic
+       20. Axel Witsel
+        3. Sergio Reguilón
+       16. Nahuel Molina
+        6. Koke
+       24. Pablo Barrios
+       17. Saúl Ñíguez
+       10. Ángel Correa
+        8. Antoine Griezmann
+
+   🔄 SUBSTITUTES IN (3):
+       31. Antonio Gomis
+       11. Thomas Lemar
+       19. Álvaro Morata
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 04.06.2023|LALIGA|38. Kolejka|Villarreal CF|Atlético Madryt|Filip Jørgensen|Pau Torres|Aïssa Mandi|Alberto Moreno|Kiko Femenía|Étienne Capoue|Dani Parejo|Manu Trigueros|Yéremy Pino|Samuel Chukwueze|Nicolas Jackson|Jorge Cuenca|Johan Mojica|Giovani Lo Celso|Álex Baena|Jorge Pascual|Ivo Grbic|Mario Hermoso|Stefan Savic|Axel Witsel|Sergio Reguilón|Nahuel Molina|Koke|Pablo Barrios|Saúl Ñíguez|Ángel Correa|Antoine Griezmann|Antonio Gomis|Thomas Lemar|Álvaro Morata
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #12
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  FK Austria Wiedeń
+📅 DATE:  czw., 06.10.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_fk-austria-wiedeń/aufstellung/spielbericht/3912667
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       35. Filip Jørgensen
+        5. Jorge Cuenca
+       23. Aïssa Mandi
+       12. Johan Mojica
+       37. Adrián Dela
+       19. Francis Coquelin
+       20. Manu Morlanes
+       16. Álex Baena
+       11. Samuel Chukwueze
+        9. Arnaut Danjuma
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (5):
+        6. Étienne Capoue
+       10. Dani Parejo
+       17. Giovani Lo Celso
+       21. Yéremy Pino
+       22. José Luis Morales
+
+✈️  FK AUSTRIA WIEDEŃ - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Christian Früchtl
+        3. Lucas Galvão
+       20. Lukas Mühl
+       47. Dario Kreiker
+       26. Reinhold Ranftl
+        8. James Holland
+       23. Matthias Braunöder
+       30. Manfred Fischer
+       77. Aleksandar Jukic
+       36. Dominik Fitz
+        9. Muharem Huskovic
+
+   🔄 SUBSTITUTES IN (5):
+       39. Georg Teigl
+       11. Manuel Polster
+        7. Can Keleş
+       25. Haris Tabakovic
+       27. Romeo Vucic
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 06.10.2022|Unknown|Unknown|Villarreal CF|FK Austria Wiedeń|Filip Jørgensen|Jorge Cuenca|Aïssa Mandi|Johan Mojica|Adrián Dela|Francis Coquelin|Manu Morlanes|Álex Baena|Samuel Chukwueze|Arnaut Danjuma|Nicolas Jackson|Étienne Capoue|Dani Parejo|Giovani Lo Celso|Yéremy Pino|José Luis Morales|Christian Früchtl|Lucas Galvão|Lukas Mühl|Dario Kreiker|Reinhold Ranftl|James Holland|Matthias Braunöder|Manfred Fischer|Aleksandar Jukic|Dominik Fitz|Muharem Huskovic|Georg Teigl|Manuel Polster|Can Keleş|Haris Tabakovic|Romeo Vucic
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #13
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  HNK Hajduk Split
+📅 DATE:  czw., 18.08.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_hnk-hajduk-split/aufstellung/spielbericht/3901610
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        5. Jorge Cuenca
+       23. Aïssa Mandi
+       24. Alfonso Pedraza
+       37. Adrián Dela
+       19. Francis Coquelin
+       20. Manu Morlanes
+       30. Álex Baena
+       11. Samuel Chukwueze
+        7. Gerard Moreno
+       22. José Luis Morales
+
+   🔄 SUBSTITUTES IN (5):
+        4. Pau Torres
+        2. Kiko Femenía
+       10. Dani Parejo
+       18. Giovani Lo Celso
+       26. Nicolas Jackson
+
+✈️  HNK HAJDUK SPLIT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       91. Lovre Kalinic
+        5. Toni Borevković
+       19. Josip Elez
+       17. Dario Melnjak
+       24. Dino Mikanovic
+       25. Chidozie Awaziem
+       14. Lukas Grgic
+       23. Filip Krovinovic
+       27. Stipe Biuk
+       77. Emir Sahiti
+       10. Marko Livaja
+
+   🔄 SUBSTITUTES IN (5):
+       26. Gergő Lovrencsics
+        6. Marco Fossati
+       20. Jani Atanasov
+       29. Jan Mlakar
+        9. Nikola Kalinić
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 18.08.2022|Unknown|Unknown|Villarreal CF|HNK Hajduk Split|Pepe Reina|Jorge Cuenca|Aïssa Mandi|Alfonso Pedraza|Adrián Dela|Francis Coquelin|Manu Morlanes|Álex Baena|Samuel Chukwueze|Gerard Moreno|José Luis Morales|Pau Torres|Kiko Femenía|Dani Parejo|Giovani Lo Celso|Nicolas Jackson|Lovre Kalinic|Toni Borevković|Josip Elez|Dario Melnjak|Dino Mikanovic|Chidozie Awaziem|Lukas Grgic|Filip Krovinovic|Stipe Biuk|Emir Sahiti|Marko Livaja|Gergő Lovrencsics|Marco Fossati|Jani Atanasov|Jan Mlakar|Nikola Kalinić
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #14
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Real Madryt
+📅 DATE:  sob., 07.01.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 16. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_real-madryt/aufstellung/spielbericht/3886489
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+        3. Raúl Albiol
+       18. Alberto Moreno
+        8. Juan Foyth
+       10. Dani Parejo
+       19. Francis Coquelin
+       16. Álex Baena
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+        7. Gerard Moreno
+
+   🔄 SUBSTITUTES IN (4):
+       24. Alfonso Pedraza
+       14. Manu Trigueros
+        9. Arnaut Danjuma
+       22. José Luis Morales
+
+✈️  REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+       22. Antonio Rüdiger
+       23. Ferland Mendy
+        3. Éder Militão
+       18. Aurélien Tchouaméni
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       15. Federico Valverde
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+       17. Lucas Vázquez
+       12. Eduardo Camavinga
+       11. Marco Asensio
+       21. Rodrygo
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 07.01.2023|LALIGA|16. Kolejka|Villarreal CF|Real Madryt|Pepe Reina|Pau Torres|Raúl Albiol|Alberto Moreno|Juan Foyth|Dani Parejo|Francis Coquelin|Álex Baena|Yéremy Pino|Samuel Chukwueze|Gerard Moreno|Alfonso Pedraza|Manu Trigueros|Arnaut Danjuma|José Luis Morales|Thibaut Courtois|David Alaba|Antonio Rüdiger|Ferland Mendy|Éder Militão|Aurélien Tchouaméni|Toni Kroos|Luka Modrić|Vinicius Junior|Federico Valverde|Karim Benzema|Lucas Vázquez|Eduardo Camavinga|Marco Asensio|Rodrygo
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #15
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Betis Balompié
+✈️  AWAY:  Villarreal CF
+📅 DATE:  niedz., 11.09.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 5. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-betis-balompié_villarreal-cf/aufstellung/spielbericht/3886302
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL BETIS BALOMPIÉ - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Rui Silva
+       16. Germán Pezzella
+       19. Luiz Felipe
+       15. Álex Moreno
+       23. Youssouf Sabaly
+        5. Guido Rodríguez
+       14. William Carvalho
+       10. Sergio Canales
+       28. Rodri Sánchez
+       11. Luiz Henrique
+        9. Borja Iglesias
+
+   🔄 SUBSTITUTES IN (3):
+       18. Andrés Guardado
+       24. Aitor Ruibal
+       12. Willian José
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Gerónimo Rulli
+        4. Pau Torres
+        3. Raúl Albiol
+       24. Alfonso Pedraza
+        2. Kiko Femenía
+        6. Étienne Capoue
+       10. Dani Parejo
+       17. Giovani Lo Celso
+       21. Yéremy Pino
+        7. Gerard Moreno
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (5):
+       12. Johan Mojica
+       19. Francis Coquelin
+       16. Álex Baena
+       11. Samuel Chukwueze
+       22. José Luis Morales
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 11.09.2022|LALIGA|5. Kolejka|Real Betis Balompié|Villarreal CF|Rui Silva|Germán Pezzella|Luiz Felipe|Álex Moreno|Youssouf Sabaly|Guido Rodríguez|William Carvalho|Sergio Canales|Rodri Sánchez|Luiz Henrique|Borja Iglesias|Andrés Guardado|Aitor Ruibal|Willian José|Gerónimo Rulli|Pau Torres|Raúl Albiol|Alfonso Pedraza|Kiko Femenía|Étienne Capoue|Dani Parejo|Giovani Lo Celso|Yéremy Pino|Gerard Moreno|Nicolas Jackson|Johan Mojica|Francis Coquelin|Álex Baena|Samuel Chukwueze|José Luis Morales
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #16
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Rayo Vallecano
+📅 DATE:  pon., 30.01.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 19. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_rayo-vallecano/aufstellung/spielbericht/3886519
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       35. Filip Jørgensen
+        5. Jorge Cuenca
+        3. Raúl Albiol
+       18. Alberto Moreno
+        8. Juan Foyth
+       10. Dani Parejo
+        6. Étienne Capoue
+       16. Álex Baena
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+        7. Gerard Moreno
+
+   🔄 SUBSTITUTES IN (4):
+       12. Johan Mojica
+        2. Kiko Femenía
+       19. Francis Coquelin
+       22. José Luis Morales
+
+✈️  RAYO VALLECANO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Stole Dimitrievski
+        5. Alejandro Catena
+       19. Florian Lejeune
+        3. Fran García
+       20. Iván Balliu
+        6. Santi Comesaña
+       21. Pathé Ciss
+        8. Óscar Trejo
+       12. Andrés Martín
+        7. Isi Palazón
+       34. Sergio Camello
+
+   🔄 SUBSTITUTES IN (5):
+       15. Pep Chavarría
+        2. Mario Hernández
+       17. Unai López
+       11. Randy Nteka
+        9. Radamel Falcao
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pon., 30.01.2023|LALIGA|19. Kolejka|Villarreal CF|Rayo Vallecano|Filip Jørgensen|Jorge Cuenca|Raúl Albiol|Alberto Moreno|Juan Foyth|Dani Parejo|Étienne Capoue|Álex Baena|Yéremy Pino|Samuel Chukwueze|Gerard Moreno|Johan Mojica|Kiko Femenía|Francis Coquelin|José Luis Morales|Stole Dimitrievski|Alejandro Catena|Florian Lejeune|Fran García|Iván Balliu|Santi Comesaña|Pathé Ciss|Óscar Trejo|Andrés Martín|Isi Palazón|Sergio Camello|Pep Chavarría|Mario Hernández|Unai López|Randy Nteka|Radamel Falcao
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #17
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Sevilla FC
+✈️  AWAY:  Villarreal CF
+📅 DATE:  niedz., 23.04.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 30. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/sevilla-fc_villarreal-cf/aufstellung/spielbericht/3886631
+
+----------------------------------------------------------------------------------------------------
+
+🏠 SEVILLA FC - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marko Dmitrovic
+       14. Tanguy Nianzou
+       22. Loïc Badé
+        3. Alex Telles
+        2. Gonzalo Montiel
+       18. Pape Gueye
+       10. Ivan Rakitic
+       21. Óliver Torres
+       25. Bryan Gil
+        7. Suso
+       12. Rafa Mir
+
+   🔄 SUBSTITUTES IN (5):
+       20. Fernando
+       16. Jesús Navas
+        5. Lucas Ocampos
+       17. Erik Lamela
+       15. Youssef En-Nesyri
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+       23. Aïssa Mandi
+       24. Alfonso Pedraza
+        8. Juan Foyth
+       39. Ramón Terrats
+       10. Dani Parejo
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+       17. Giovani Lo Celso
+       22. José Luis Morales
+
+   🔄 SUBSTITUTES IN (5):
+        5. Jorge Cuenca
+       18. Alberto Moreno
+        6. Étienne Capoue
+       16. Álex Baena
+       15. Nicolas Jackson
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 23.04.2023|LALIGA|30. Kolejka|Sevilla FC|Villarreal CF|Marko Dmitrovic|Tanguy Nianzou|Loïc Badé|Alex Telles|Gonzalo Montiel|Pape Gueye|Ivan Rakitic|Óliver Torres|Bryan Gil|Suso|Rafa Mir|Fernando|Jesús Navas|Lucas Ocampos|Erik Lamela|Youssef En-Nesyri|Pepe Reina|Pau Torres|Aïssa Mandi|Alfonso Pedraza|Juan Foyth|Ramón Terrats|Dani Parejo|Yéremy Pino|Samuel Chukwueze|Giovani Lo Celso|José Luis Morales|Jorge Cuenca|Alberto Moreno|Étienne Capoue|Álex Baena|Nicolas Jackson
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #18
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Celta de Vigo
+📅 DATE:  niedz., 30.04.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 32. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_celta-de-vigo/aufstellung/spielbericht/3886657
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+       23. Aïssa Mandi
+       18. Alberto Moreno
+        8. Juan Foyth
+        6. Étienne Capoue
+       10. Dani Parejo
+       17. Giovani Lo Celso
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (5):
+       24. Alfonso Pedraza
+       39. Ramón Terrats
+       14. Manu Trigueros
+       16. Álex Baena
+       40. Haissem Hassan
+
+✈️  CELTA DE VIGO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iván Villar
+        4. Unai Núñez
+       15. Joseph Aidoo
+       17. Javi Galán
+       20. Kevin Vázquez
+       14. Renato Tapia
+        5. Óscar Rodríguez
+       23. Luca de la Torre
+       11. Franco Cervi
+       22. Haris Seferovic
+       18. Jørgen Strand Larsen
+
+   🔄 SUBSTITUTES IN (5):
+        8. Fran Beltrán
+       24. Gabri Veiga
+       29. Miguel Rodríguez
+       10. Iago Aspas
+        9. Gonçalo Paciência
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 30.04.2023|LALIGA|32. Kolejka|Villarreal CF|Celta de Vigo|Pepe Reina|Pau Torres|Aïssa Mandi|Alberto Moreno|Juan Foyth|Étienne Capoue|Dani Parejo|Giovani Lo Celso|Yéremy Pino|Samuel Chukwueze|Nicolas Jackson|Alfonso Pedraza|Ramón Terrats|Manu Trigueros|Álex Baena|Haissem Hassan|Iván Villar|Unai Núñez|Joseph Aidoo|Javi Galán|Kevin Vázquez|Renato Tapia|Óscar Rodríguez|Luca de la Torre|Franco Cervi|Haris Seferovic|Jørgen Strand Larsen|Fran Beltrán|Gabri Veiga|Miguel Rodríguez|Iago Aspas|Gonçalo Paciência
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #19
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Valencia CF
+✈️  AWAY:  Villarreal CF
+📅 DATE:  śr., 03.05.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 33. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/valencia-cf_villarreal-cf/aufstellung/spielbericht/3886663
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VALENCIA CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Giorgi Mamardashvili
+        5. Gabriel Paulista
+       12. Mouctar Diakhaby
+       14. José Gayà
+        2. Thierry Correia
+       17. Nico González
+       36. Javi Guerra
+       18. André Almeida
+       16. Samuel Lino
+        4. Yunus Musah
+        7. Edinson Cavani
+
+   🔄 SUBSTITUTES IN (5):
+        3. Toni Lato
+        8. Ilaix Moriba
+       40. Diego López
+       19. Hugo Duro
+       46. Alberto Marí
+
+✈️  VILLARREAL CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+        3. Raúl Albiol
+       24. Alfonso Pedraza
+        8. Juan Foyth
+       10. Dani Parejo
+       39. Ramón Terrats
+       16. Álex Baena
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (3):
+        6. Étienne Capoue
+       14. Manu Trigueros
+        7. Gerard Moreno
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 03.05.2023|LALIGA|33. Kolejka|Valencia CF|Villarreal CF|Giorgi Mamardashvili|Gabriel Paulista|Mouctar Diakhaby|José Gayà|Thierry Correia|Nico González|Javi Guerra|André Almeida|Samuel Lino|Yunus Musah|Edinson Cavani|Toni Lato|Ilaix Moriba|Diego López|Hugo Duro|Alberto Marí|Pepe Reina|Pau Torres|Raúl Albiol|Alfonso Pedraza|Juan Foyth|Dani Parejo|Ramón Terrats|Álex Baena|Yéremy Pino|Samuel Chukwueze|Nicolas Jackson|Étienne Capoue|Manu Trigueros|Gerard Moreno
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #20
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Cádiz CF
+📅 DATE:  śr., 24.05.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 36. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_cádiz-cf/aufstellung/spielbericht/3886697
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+       23. Aïssa Mandi
+       18. Alberto Moreno
+        2. Kiko Femenía
+       10. Dani Parejo
+       14. Manu Trigueros
+       17. Giovani Lo Celso
+       21. Yéremy Pino
+        7. Gerard Moreno
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (5):
+       12. Johan Mojica
+       39. Ramón Terrats
+       16. Álex Baena
+       11. Samuel Chukwueze
+       43. Jorge Pascual
+
+✈️  CÁDIZ CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Conan Ledesma
+       23. Luis Hernández
+       25. Jorge Meré
+       22. Alfonso Espino
+       20. Iza Carcelén
+       17. Gonzalo Escalante
+       24. Fede San Emeterio
+       11. Iván Alejo
+        7. Rubén Sobrino
+       10. Théo Bongonda
+       19. Sergi Guardiola
+
+   🔄 SUBSTITUTES IN (5):
+        6. José Mari
+        4. Rubén Alcaraz
+       42. José Antonio de la Rosa
+       18. Álvaro Negredo
+       41. Francisco Mwepu
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 24.05.2023|LALIGA|36. Kolejka|Villarreal CF|Cádiz CF|Pepe Reina|Pau Torres|Aïssa Mandi|Alberto Moreno|Kiko Femenía|Dani Parejo|Manu Trigueros|Giovani Lo Celso|Yéremy Pino|Gerard Moreno|Nicolas Jackson|Johan Mojica|Ramón Terrats|Álex Baena|Samuel Chukwueze|Jorge Pascual|Conan Ledesma|Luis Hernández|Jorge Meré|Alfonso Espino|Iza Carcelén|Gonzalo Escalante|Fede San Emeterio|Iván Alejo|Rubén Sobrino|Théo Bongonda|Sergi Guardiola|José Mari|Rubén Alcaraz|José Antonio de la Rosa|Álvaro Negredo|Francisco Mwepu
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #21
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Hapoel Beer Sheva
+✈️  AWAY:  Villarreal CF
+📅 DATE:  czw., 15.09.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/hapoel-beer-sheva_villarreal-cf/aufstellung/spielbericht/3912669
+
+----------------------------------------------------------------------------------------------------
+
+🏠 HAPOEL BEER SHEVA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       55. Omri Glazer
+        4. Miguel Vítor
+        5. Iyad Abu Abaid
+       18. Eitan Tibi
+       22. Hélder Lopes
+       30. Or Dadia
+       35. Mariano Bareiro
+       20. Eden Shamir
+       13. Eugene Ansah
+        7. Ramzi Safuri
+       21. Astrit Selmani
+
+   🔄 SUBSTITUTES IN (5):
+       11. Sagiv Jehezkel
+       10. Dor Micha
+       77. Rotem Hatuel
+       93. Shapi Suleymanov
+       17. Tomer Hemed
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       35. Filip Jørgensen
+        5. Jorge Cuenca
+       23. Aïssa Mandi
+       12. Johan Mojica
+       37. Adrián Dela
+       19. Francis Coquelin
+       20. Manu Morlanes
+       16. Álex Baena
+       11. Samuel Chukwueze
+       21. Yéremy Pino
+       22. José Luis Morales
+
+   🔄 SUBSTITUTES IN (5):
+        2. Kiko Femenía
+        6. Étienne Capoue
+       10. Dani Parejo
+        9. Arnaut Danjuma
+       15. Nicolas Jackson
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 15.09.2022|Unknown|Unknown|Hapoel Beer Sheva|Villarreal CF|Omri Glazer|Miguel Vítor|Iyad Abu Abaid|Eitan Tibi|Hélder Lopes|Or Dadia|Mariano Bareiro|Eden Shamir|Eugene Ansah|Ramzi Safuri|Astrit Selmani|Sagiv Jehezkel|Dor Micha|Rotem Hatuel|Shapi Suleymanov|Tomer Hemed|Filip Jørgensen|Jorge Cuenca|Aïssa Mandi|Johan Mojica|Adrián Dela|Francis Coquelin|Manu Morlanes|Álex Baena|Samuel Chukwueze|Yéremy Pino|José Luis Morales|Kiko Femenía|Étienne Capoue|Dani Parejo|Arnaut Danjuma|Nicolas Jackson
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #22
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Hapoel Beer Sheva
+📅 DATE:  czw., 27.10.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_hapoel-beer-sheva/aufstellung/spielbericht/3912666
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        5. Jorge Cuenca
+       23. Aïssa Mandi
+       18. Alberto Moreno
+        2. Kiko Femenía
+       14. Manu Trigueros
+       20. Manu Morlanes
+       16. Álex Baena
+       11. Samuel Chukwueze
+        9. Arnaut Danjuma
+       21. Yéremy Pino
+
+   🔄 SUBSTITUTES IN (5):
+       12. Johan Mojica
+       10. Dani Parejo
+       17. Giovani Lo Celso
+       15. Nicolas Jackson
+       22. José Luis Morales
+
+✈️  HAPOEL BEER SHEVA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       55. Omri Glazer
+        4. Miguel Vítor
+        5. Iyad Abu Abaid
+       22. Hélder Lopes
+       11. Sagiv Jehezkel
+       19. Shai Elias
+       20. Eden Shamir
+       10. Dor Micha
+       15. Tomer Yosefi
+       13. Eugene Ansah
+       17. Tomer Hemed
+
+   🔄 SUBSTITUTES IN (5):
+       16. Roi Maman
+        7. Ramzi Safuri
+       77. Rotem Hatuel
+       93. Shapi Suleymanov
+       21. Astrit Selmani
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 27.10.2022|Unknown|Unknown|Villarreal CF|Hapoel Beer Sheva|Pepe Reina|Jorge Cuenca|Aïssa Mandi|Alberto Moreno|Kiko Femenía|Manu Trigueros|Manu Morlanes|Álex Baena|Samuel Chukwueze|Arnaut Danjuma|Yéremy Pino|Johan Mojica|Dani Parejo|Giovani Lo Celso|Nicolas Jackson|José Luis Morales|Omri Glazer|Miguel Vítor|Iyad Abu Abaid|Hélder Lopes|Sagiv Jehezkel|Shai Elias|Eden Shamir|Dor Micha|Tomer Yosefi|Eugene Ansah|Tomer Hemed|Roi Maman|Ramzi Safuri|Rotem Hatuel|Shapi Suleymanov|Astrit Selmani
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #23
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  CD Guijuelo
+✈️  AWAY:  Villarreal CF
+📅 DATE:  wt., 20.12.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/cd-guijuelo_villarreal-cf/aufstellung/spielbericht/3964632
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CD GUIJUELO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Roberto Gutiérrez
+        4. Alberto Trapero
+        5. Isma Aizpiri
+       22. Álvaro Coque
+        2. David Lorenzo
+       16. Willy Ibáñez
+       10. Cristóbal Gil
+        8. Pepe Carmona
+       14. Sergio Garban
+       11. Álex Caramelo
+       20. Toti
+
+   🔄 SUBSTITUTES IN (5):
+       18. Santiago Perea
+        3. Rodri Flórez
+        7. Piojo
+       21. Álex Lorenzo
+        9. Álvaro Montero
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+       23. Aïssa Mandi
+       12. Johan Mojica
+        2. Kiko Femenía
+       20. Manu Morlanes
+       14. Manu Trigueros
+       16. Álex Baena
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+        7. Gerard Moreno
+
+   🔄 SUBSTITUTES IN (5):
+        6. Étienne Capoue
+       19. Francis Coquelin
+       10. Dani Parejo
+        9. Arnaut Danjuma
+       15. Nicolas Jackson
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 20.12.2022|Unknown|Unknown|CD Guijuelo|Villarreal CF|Roberto Gutiérrez|Alberto Trapero|Isma Aizpiri|Álvaro Coque|David Lorenzo|Willy Ibáñez|Cristóbal Gil|Pepe Carmona|Sergio Garban|Álex Caramelo|Toti|Santiago Perea|Rodri Flórez|Piojo|Álex Lorenzo|Álvaro Montero|Pepe Reina|Pau Torres|Aïssa Mandi|Johan Mojica|Kiko Femenía|Manu Morlanes|Manu Trigueros|Álex Baena|Yéremy Pino|Samuel Chukwueze|Gerard Moreno|Étienne Capoue|Francis Coquelin|Dani Parejo|Arnaut Danjuma|Nicolas Jackson
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #24
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Elche CF
+📅 DATE:  niedz., 04.09.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 4. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_elche-cf/aufstellung/spielbericht/3885860
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Gerónimo Rulli
+        4. Pau Torres
+        3. Raúl Albiol
+       24. Alfonso Pedraza
+        2. Kiko Femenía
+        6. Étienne Capoue
+       10. Dani Parejo
+       17. Giovani Lo Celso
+       21. Yéremy Pino
+        7. Gerard Moreno
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (5):
+       23. Aïssa Mandi
+       19. Francis Coquelin
+       16. Álex Baena
+       11. Samuel Chukwueze
+       22. José Luis Morales
+
+✈️  ELCHE CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Edgar Badia
+        6. Pedro Bigas
+        3. Enzo Roco
+       23. Carlos Clerc
+       14. Helibelton Palacios
+       21. Omar Mascarell
+        8. Raúl Guti
+       15. Álex Collado
+       11. Tete Morente
+        9. Lucas Boyé
+       19. Ezequiel Ponce
+
+   🔄 SUBSTITUTES IN (5):
+       20. Gerard Gumbau
+       12. Domingos Quina
+       10. Pere Milla
+       17. Josan
+       18. Roger Martí
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 04.09.2022|LALIGA|4. Kolejka|Villarreal CF|Elche CF|Gerónimo Rulli|Pau Torres|Raúl Albiol|Alfonso Pedraza|Kiko Femenía|Étienne Capoue|Dani Parejo|Giovani Lo Celso|Yéremy Pino|Gerard Moreno|Nicolas Jackson|Aïssa Mandi|Francis Coquelin|Álex Baena|Samuel Chukwueze|José Luis Morales|Edgar Badia|Pedro Bigas|Enzo Roco|Carlos Clerc|Helibelton Palacios|Omar Mascarell|Raúl Guti|Álex Collado|Tete Morente|Lucas Boyé|Ezequiel Ponce|Gerard Gumbau|Domingos Quina|Pere Milla|Josan|Roger Martí
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #25
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  CA Osasuna
+📅 DATE:  pon., 17.10.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 9. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_ca-osasuna/aufstellung/spielbericht/3886327
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Gerónimo Rulli
+        4. Pau Torres
+        3. Raúl Albiol
+       24. Alfonso Pedraza
+       23. Aïssa Mandi
+       20. Manu Morlanes
+       10. Dani Parejo
+       16. Álex Baena
+       21. Yéremy Pino
+        9. Arnaut Danjuma
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (4):
+       18. Alberto Moreno
+       14. Manu Trigueros
+       11. Samuel Chukwueze
+       22. José Luis Morales
+
+✈️  CA OSASUNA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Sergio Herrera
+        5. David García
+       23. Aridane Hernández
+        3. Juan Cruz
+        2. Nacho Vidal
+        6. Lucas Torró
+        7. Jon Moncayola
+        8. Darko Brasanac
+       16. Moi Gómez
+        9. Chimy Ávila
+       18. Kike García
+
+   🔄 SUBSTITUTES IN (5):
+       20. Manu Sánchez
+       22. Aimar Oroz
+       12. Abde Ezzalzouli
+       14. Rubén García
+       17. Ante Budimir
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pon., 17.10.2022|LALIGA|9. Kolejka|Villarreal CF|CA Osasuna|Gerónimo Rulli|Pau Torres|Raúl Albiol|Alfonso Pedraza|Aïssa Mandi|Manu Morlanes|Dani Parejo|Álex Baena|Yéremy Pino|Arnaut Danjuma|Nicolas Jackson|Alberto Moreno|Manu Trigueros|Samuel Chukwueze|José Luis Morales|Sergio Herrera|David García|Aridane Hernández|Juan Cruz|Nacho Vidal|Lucas Torró|Jon Moncayola|Darko Brasanac|Moi Gómez|Chimy Ávila|Kike García|Manu Sánchez|Aimar Oroz|Abde Ezzalzouli|Rubén García|Ante Budimir
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #26
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 08.04.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 28. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_villarreal-cf/aufstellung/spielbericht/3886612
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+       22. Antonio Rüdiger
+        6. Nacho Fernández
+       17. Lucas Vázquez
+       18. Aurélien Tchouaméni
+       19. Dani Ceballos
+       11. Marco Asensio
+       20. Vinicius Junior
+       21. Rodrygo
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+        3. Éder Militão
+       12. Eduardo Camavinga
+       10. Luka Modrić
+       15. Federico Valverde
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+       23. Aïssa Mandi
+       24. Alfonso Pedraza
+        8. Juan Foyth
+       10. Dani Parejo
+       39. Ramón Terrats
+       16. Álex Baena
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+       17. Giovani Lo Celso
+
+   🔄 SUBSTITUTES IN (5):
+       12. Johan Mojica
+       18. Alberto Moreno
+        2. Kiko Femenía
+       14. Manu Trigueros
+       22. José Luis Morales
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 08.04.2023|LALIGA|28. Kolejka|Real Madryt|Villarreal CF|Thibaut Courtois|David Alaba|Antonio Rüdiger|Nacho Fernández|Lucas Vázquez|Aurélien Tchouaméni|Dani Ceballos|Marco Asensio|Vinicius Junior|Rodrygo|Karim Benzema|Éder Militão|Eduardo Camavinga|Luka Modrić|Federico Valverde|Pepe Reina|Pau Torres|Aïssa Mandi|Alfonso Pedraza|Juan Foyth|Dani Parejo|Ramón Terrats|Álex Baena|Yéremy Pino|Samuel Chukwueze|Giovani Lo Celso|Johan Mojica|Alberto Moreno|Kiko Femenía|Manu Trigueros|José Luis Morales
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #27
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Celta de Vigo
+✈️  AWAY:  Villarreal CF
+📅 DATE:  pt., 13.01.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 17. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/celta-de-vigo_villarreal-cf/aufstellung/spielbericht/3886490
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CELTA DE VIGO - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Agustín Marchesín
+        4. Unai Núñez
+       15. Joseph Aidoo
+        3. Óscar Mingueza
+        8. Fran Beltrán
+       24. Gabri Veiga
+        2. Hugo Mallo
+       17. Javi Galán
+        5. Óscar Rodríguez
+       11. Franco Cervi
+       10. Iago Aspas
+
+   🔄 SUBSTITUTES IN (4):
+       14. Renato Tapia
+       23. Luca de la Torre
+        7. Carles Pérez
+       18. Jørgen Strand Larsen
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+       23. Aïssa Mandi
+       12. Johan Mojica
+        8. Juan Foyth
+       10. Dani Parejo
+       19. Francis Coquelin
+       14. Manu Trigueros
+       22. José Luis Morales
+       11. Samuel Chukwueze
+        7. Gerard Moreno
+
+   🔄 SUBSTITUTES IN (5):
+        5. Jorge Cuenca
+        2. Kiko Femenía
+        6. Étienne Capoue
+       20. Manu Morlanes
+       21. Yéremy Pino
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pt., 13.01.2023|LALIGA|17. Kolejka|Celta de Vigo|Villarreal CF|Agustín Marchesín|Unai Núñez|Joseph Aidoo|Óscar Mingueza|Fran Beltrán|Gabri Veiga|Hugo Mallo|Javi Galán|Óscar Rodríguez|Franco Cervi|Iago Aspas|Renato Tapia|Luca de la Torre|Carles Pérez|Jørgen Strand Larsen|Pepe Reina|Pau Torres|Aïssa Mandi|Johan Mojica|Juan Foyth|Dani Parejo|Francis Coquelin|Manu Trigueros|José Luis Morales|Samuel Chukwueze|Gerard Moreno|Jorge Cuenca|Kiko Femenía|Étienne Capoue|Manu Morlanes|Yéremy Pino
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #28
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Real Valladolid CF
+📅 DATE:  sob., 15.04.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 29. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_real-valladolid-cf/aufstellung/spielbericht/3886624
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+       23. Aïssa Mandi
+       24. Alfonso Pedraza
+        2. Kiko Femenía
+       10. Dani Parejo
+       39. Ramón Terrats
+       17. Giovani Lo Celso
+       16. Álex Baena
+       11. Samuel Chukwueze
+       22. José Luis Morales
+
+   🔄 SUBSTITUTES IN (4):
+        3. Raúl Albiol
+       18. Alberto Moreno
+        6. Étienne Capoue
+       15. Nicolas Jackson
+
+✈️  REAL VALLADOLID CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Jordi Masip
+       15. Jawad El Yamiq
+       24. Joaquín Fernández
+       20. Martin Hongla
+        4. Kike Pérez
+        8. Monchu
+        2. Luis Pérez
+       27. Iván Fresneda
+        9. Selim Amallah
+       11. Gonzalo Plata
+       25. Cyle Larin
+
+   🔄 SUBSTITUTES IN (5):
+        5. Javi Sánchez
+        6. Álvaro Aguado
+       17. Roque Mesa
+       19. Kenedy
+        7. Sergio León
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 15.04.2023|LALIGA|29. Kolejka|Villarreal CF|Real Valladolid CF|Pepe Reina|Pau Torres|Aïssa Mandi|Alfonso Pedraza|Kiko Femenía|Dani Parejo|Ramón Terrats|Giovani Lo Celso|Álex Baena|Samuel Chukwueze|José Luis Morales|Raúl Albiol|Alberto Moreno|Étienne Capoue|Nicolas Jackson|Jordi Masip|Jawad El Yamiq|Joaquín Fernández|Martin Hongla|Kike Pérez|Monchu|Luis Pérez|Iván Fresneda|Selim Amallah|Gonzalo Plata|Cyle Larin|Javi Sánchez|Álvaro Aguado|Roque Mesa|Kenedy|Sergio León
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #29
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Villarreal CF
+📅 DATE:  niedz., 30.10.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 12. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_villarreal-cf/aufstellung/spielbericht/3886384
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        4. Iñigo Martínez
+        5. Yeray Álvarez
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+        6. Mikel Vesga
+        8. Oihan Sancet
+       22. Raúl García
+        7. Álex Berenguer
+       11. Nico Williams
+        9. Iñaki Williams
+
+   🔄 SUBSTITUTES IN (4):
+       15. Iñigo Lekue
+       16. Unai Vencedor
+        2. Jon Morcillo
+       12. Gorka Guruzeta
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Gerónimo Rulli
+        4. Pau Torres
+       23. Aïssa Mandi
+       18. Alberto Moreno
+        2. Kiko Femenía
+       10. Dani Parejo
+       19. Francis Coquelin
+       17. Giovani Lo Celso
+       22. José Luis Morales
+       11. Samuel Chukwueze
+        9. Arnaut Danjuma
+
+   🔄 SUBSTITUTES IN (5):
+        5. Jorge Cuenca
+       14. Manu Trigueros
+       26. Alberto del Moral
+       21. Yéremy Pino
+       15. Nicolas Jackson
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 30.10.2022|LALIGA|12. Kolejka|Athletic Bilbao|Villarreal CF|Unai Simón|Iñigo Martínez|Yeray Álvarez|Yuri Berchiche|Óscar de Marcos|Mikel Vesga|Oihan Sancet|Raúl García|Álex Berenguer|Nico Williams|Iñaki Williams|Iñigo Lekue|Unai Vencedor|Jon Morcillo|Gorka Guruzeta|Gerónimo Rulli|Pau Torres|Aïssa Mandi|Alberto Moreno|Kiko Femenía|Dani Parejo|Francis Coquelin|Giovani Lo Celso|José Luis Morales|Samuel Chukwueze|Arnaut Danjuma|Jorge Cuenca|Manu Trigueros|Alberto del Moral|Yéremy Pino|Nicolas Jackson
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #30
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  FC Barcelona
+📅 DATE:  niedz., 12.02.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 21. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_fc-barcelona/aufstellung/spielbericht/3886536
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+        3. Raúl Albiol
+       18. Alberto Moreno
+        8. Juan Foyth
+        6. Étienne Capoue
+       10. Dani Parejo
+       19. Francis Coquelin
+       16. Álex Baena
+       21. Yéremy Pino
+       22. José Luis Morales
+
+   🔄 SUBSTITUTES IN (4):
+       12. Johan Mojica
+       14. Manu Trigueros
+       11. Samuel Chukwueze
+       34. Fer Niño
+
+✈️  FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc-André ter Stegen
+        4. Ronald Araujo
+       15. Andreas Christensen
+       28. Alejandro Balde
+       23. Jules Koundé
+       21. Frenkie de Jong
+        8. Pedri
+       19. Franck Kessié
+        6. Gavi
+       22. Raphinha
+        9. Robert Lewandowski
+
+   🔄 SUBSTITUTES IN (2):
+       18. Jordi Alba
+       11. Ferran Torres
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 12.02.2023|LALIGA|21. Kolejka|Villarreal CF|FC Barcelona|Pepe Reina|Pau Torres|Raúl Albiol|Alberto Moreno|Juan Foyth|Étienne Capoue|Dani Parejo|Francis Coquelin|Álex Baena|Yéremy Pino|José Luis Morales|Johan Mojica|Manu Trigueros|Samuel Chukwueze|Fer Niño|Marc-André ter Stegen|Ronald Araujo|Andreas Christensen|Alejandro Balde|Jules Koundé|Frenkie de Jong|Pedri|Franck Kessié|Gavi|Raphinha|Robert Lewandowski|Jordi Alba|Ferran Torres
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #31
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  RCD Mallorca
+📅 DATE:  niedz., 06.11.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 13. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_rcd-mallorca/aufstellung/spielbericht/3886415
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Gerónimo Rulli
+        4. Pau Torres
+        3. Raúl Albiol
+       18. Alberto Moreno
+        2. Kiko Femenía
+        6. Étienne Capoue
+       10. Dani Parejo
+       14. Manu Trigueros
+       16. Álex Baena
+       11. Samuel Chukwueze
+        9. Arnaut Danjuma
+
+   🔄 SUBSTITUTES IN (4):
+       12. Johan Mojica
+       21. Yéremy Pino
+       15. Nicolas Jackson
+       22. José Luis Morales
+
+✈️  RCD MALLORCA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Predrag Rajković
+        2. Matija Nastasić
+        6. José Copete
+       24. Martin Valjent
+       18. Jaume Costa
+       20. Giovanni González
+        4. Iñigo Ruiz de Galarreta
+       12. Iddrisu Baba
+       19. Kang-in Lee
+       14. Dani Rodríguez
+        7. Vedat Muriqi
+
+   🔄 SUBSTITUTES IN (5):
+       16. Rodrigo Battaglia
+        8. Clément Grenier
+       10. Antonio Sánchez
+       23. Amath Ndiaye
+        9. Abdón Prats
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 06.11.2022|LALIGA|13. Kolejka|Villarreal CF|RCD Mallorca|Gerónimo Rulli|Pau Torres|Raúl Albiol|Alberto Moreno|Kiko Femenía|Étienne Capoue|Dani Parejo|Manu Trigueros|Álex Baena|Samuel Chukwueze|Arnaut Danjuma|Johan Mojica|Yéremy Pino|Nicolas Jackson|José Luis Morales|Predrag Rajković|Matija Nastasić|José Copete|Martin Valjent|Jaume Costa|Giovanni González|Iñigo Ruiz de Galarreta|Iddrisu Baba|Kang-in Lee|Dani Rodríguez|Vedat Muriqi|Rodrigo Battaglia|Clément Grenier|Antonio Sánchez|Amath Ndiaye|Abdón Prats
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #32
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  RCD Mallorca
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 18.02.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 22. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rcd-mallorca_villarreal-cf/aufstellung/spielbericht/3886552
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RCD MALLORCA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Predrag Rajković
+        6. José Copete
+       21. Antonio Raíllo
+       20. Giovanni González
+       18. Jaume Costa
+       15. Pablo Maffeo
+        4. Iñigo Ruiz de Galarreta
+       14. Dani Rodríguez
+       19. Kang-in Lee
+       17. Tino Kadewere
+        7. Vedat Muriqi
+
+   🔄 SUBSTITUTES IN (5):
+        2. Matija Nastasić
+       16. Rodrigo Battaglia
+        8. Clément Grenier
+        9. Abdón Prats
+       22. Ángel Rodríguez
+
+✈️  VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+        3. Raúl Albiol
+       12. Johan Mojica
+        8. Juan Foyth
+       10. Dani Parejo
+        6. Étienne Capoue
+       14. Manu Trigueros
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+       22. José Luis Morales
+
+   🔄 SUBSTITUTES IN (4):
+       39. Ramón Terrats
+       16. Álex Baena
+       40. Haissem Hassan
+       34. Fer Niño
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 18.02.2023|LALIGA|22. Kolejka|RCD Mallorca|Villarreal CF|Predrag Rajković|José Copete|Antonio Raíllo|Giovanni González|Jaume Costa|Pablo Maffeo|Iñigo Ruiz de Galarreta|Dani Rodríguez|Kang-in Lee|Tino Kadewere|Vedat Muriqi|Matija Nastasić|Rodrigo Battaglia|Clément Grenier|Abdón Prats|Ángel Rodríguez|Pepe Reina|Pau Torres|Raúl Albiol|Johan Mojica|Juan Foyth|Dani Parejo|Étienne Capoue|Manu Trigueros|Yéremy Pino|Samuel Chukwueze|José Luis Morales|Ramón Terrats|Álex Baena|Haissem Hassan|Fer Niño
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #33
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Sevilla FC
+📅 DATE:  niedz., 18.09.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 6. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_sevilla-fc/aufstellung/spielbericht/3858326
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Gerónimo Rulli
+        4. Pau Torres
+        3. Raúl Albiol
+       24. Alfonso Pedraza
+        2. Kiko Femenía
+        6. Étienne Capoue
+       10. Dani Parejo
+       19. Francis Coquelin
+       11. Samuel Chukwueze
+       17. Giovani Lo Celso
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (5):
+       12. Johan Mojica
+        9. Arnaut Danjuma
+       16. Álex Baena
+       21. Yéremy Pino
+       22. José Luis Morales
+
+✈️  SEVILLA FC - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Yassine Bounou
+       29. Kike Salas
+        6. Nemanja Gudelj
+       19. Marcos Acuña
+       30. José Ángel Carmona
+       20. Fernando
+        8. Joan Jordán
+       22. Isco
+       21. Óliver Torres
+       16. Jesús Navas
+       12. Rafa Mir
+
+   🔄 SUBSTITUTES IN (5):
+        1. Marko Dmitrovic
+       14. Tanguy Nianzou
+        3. Alex Telles
+       24. Papu Gómez
+        7. Suso
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 18.09.2022|LALIGA|6. Kolejka|Villarreal CF|Sevilla FC|Gerónimo Rulli|Pau Torres|Raúl Albiol|Alfonso Pedraza|Kiko Femenía|Étienne Capoue|Dani Parejo|Francis Coquelin|Samuel Chukwueze|Giovani Lo Celso|Nicolas Jackson|Johan Mojica|Arnaut Danjuma|Álex Baena|Yéremy Pino|José Luis Morales|Yassine Bounou|Kike Salas|Nemanja Gudelj|Marcos Acuña|José Ángel Carmona|Fernando|Joan Jordán|Isco|Óliver Torres|Jesús Navas|Rafa Mir|Marko Dmitrovic|Tanguy Nianzou|Alex Telles|Papu Gómez|Suso
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #34
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Lech Poznań
+📅 DATE:  czw., 08.09.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_lech-poznań/aufstellung/spielbericht/3912668
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       35. Filip Jørgensen
+        5. Jorge Cuenca
+       23. Aïssa Mandi
+       12. Johan Mojica
+       37. Adrián Dela
+       19. Francis Coquelin
+       20. Manu Morlanes
+       14. Manu Trigueros
+       16. Álex Baena
+       11. Samuel Chukwueze
+       22. José Luis Morales
+
+   🔄 SUBSTITUTES IN (5):
+        2. Kiko Femenía
+       10. Dani Parejo
+       21. Yéremy Pino
+        7. Gerard Moreno
+       15. Nicolas Jackson
+
+✈️  LECH POZNAŃ - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       35. Filip Bednarek
+       16. Antonio Milic
+       25. Filip Dagerstal
+        5. Pedro Rebocho
+        2. Joel Pereira
+        6. Jesper Karlström
+       30. Nika Kvekveskiri
+       22. Radoslaw Murawski
+       24. João Amaral
+       21. Michal Skoras
+        9. Mikael Ishak
+
+   🔄 SUBSTITUTES IN (4):
+        7. Afonso Sousa
+       23. Kristoffer Velde
+       14. Giorgi Tsitaishvili
+       17. Filip Szymczak
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 08.09.2022|Unknown|Unknown|Villarreal CF|Lech Poznań|Filip Jørgensen|Jorge Cuenca|Aïssa Mandi|Johan Mojica|Adrián Dela|Francis Coquelin|Manu Morlanes|Manu Trigueros|Álex Baena|Samuel Chukwueze|José Luis Morales|Kiko Femenía|Dani Parejo|Yéremy Pino|Gerard Moreno|Nicolas Jackson|Filip Bednarek|Antonio Milic|Filip Dagerstal|Pedro Rebocho|Joel Pereira|Jesper Karlström|Nika Kvekveskiri|Radoslaw Murawski|João Amaral|Michal Skoras|Mikael Ishak|Afonso Sousa|Kristoffer Velde|Giorgi Tsitaishvili|Filip Szymczak
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #35
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Real Betis Balompié
+📅 DATE:  niedz., 12.03.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 25. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_real-betis-balompié/aufstellung/spielbericht/3886586
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+        3. Raúl Albiol
+       24. Alfonso Pedraza
+        8. Juan Foyth
+       10. Dani Parejo
+       39. Ramón Terrats
+       14. Manu Trigueros
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+        7. Gerard Moreno
+
+   🔄 SUBSTITUTES IN (5):
+       18. Alberto Moreno
+       17. Giovani Lo Celso
+       16. Álex Baena
+       15. Nicolas Jackson
+       22. José Luis Morales
+
+✈️  REAL BETIS BALOMPIÉ - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Rui Silva
+        6. Víctor Ruiz
+       16. Germán Pezzella
+       33. Juan Miranda
+       24. Aitor Ruibal
+        5. Guido Rodríguez
+       18. Andrés Guardado
+       21. Ayoze Pérez
+       28. Rodri Sánchez
+       10. Sergio Canales
+        9. Borja Iglesias
+
+   🔄 SUBSTITUTES IN (5):
+       23. Youssouf Sabaly
+        4. Paul Akouokou
+        7. Juanmi
+       11. Luiz Henrique
+       12. Willian José
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 12.03.2023|LALIGA|25. Kolejka|Villarreal CF|Real Betis Balompié|Pepe Reina|Pau Torres|Raúl Albiol|Alfonso Pedraza|Juan Foyth|Dani Parejo|Ramón Terrats|Manu Trigueros|Yéremy Pino|Samuel Chukwueze|Gerard Moreno|Alberto Moreno|Giovani Lo Celso|Álex Baena|Nicolas Jackson|José Luis Morales|Rui Silva|Víctor Ruiz|Germán Pezzella|Juan Miranda|Aitor Ruibal|Guido Rodríguez|Andrés Guardado|Ayoze Pérez|Rodri Sánchez|Sergio Canales|Borja Iglesias|Youssouf Sabaly|Paul Akouokou|Juanmi|Luiz Henrique|Willian José
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #36
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  RSC Anderlecht
+📅 DATE:  czw., 16.03.2023
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_rsc-anderlecht/aufstellung/spielbericht/4031420
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        5. Jorge Cuenca
+       23. Aïssa Mandi
+       18. Alberto Moreno
+        8. Juan Foyth
+       10. Dani Parejo
+       39. Ramón Terrats
+       16. Álex Baena
+       22. José Luis Morales
+       11. Samuel Chukwueze
+        7. Gerard Moreno
+
+   🔄 SUBSTITUTES IN (3):
+       17. Giovani Lo Celso
+       21. Yéremy Pino
+       15. Nicolas Jackson
+
+✈️  RSC ANDERLECHT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       16. Bart Verbruggen
+       14. Jan Vertonghen
+       56. Zeno Debast
+        5. Moussa N'Diaye
+       62. Amir Murillo
+       21. Amadou Diawara
+       10. Yari Verschaeren
+       11. Lior Refaelov
+        7. Francis Amuzu
+       36. Anders Dreyer
+        9. Benito Raman
+
+   🔄 SUBSTITUTES IN (4):
+       18. Majeed Ashimeru
+       29. Mario Stroeykens
+       61. Kristian Arnstad
+       13. Islam Slimani
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 16.03.2023|Unknown|Unknown|Villarreal CF|RSC Anderlecht|Pepe Reina|Jorge Cuenca|Aïssa Mandi|Alberto Moreno|Juan Foyth|Dani Parejo|Ramón Terrats|Álex Baena|José Luis Morales|Samuel Chukwueze|Gerard Moreno|Giovani Lo Celso|Yéremy Pino|Nicolas Jackson|Bart Verbruggen|Jan Vertonghen|Zeno Debast|Moussa N'Diaye|Amir Murillo|Amadou Diawara|Yari Verschaeren|Lior Refaelov|Francis Amuzu|Anders Dreyer|Benito Raman|Majeed Ashimeru|Mario Stroeykens|Kristian Arnstad|Islam Slimani
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #37
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Elche CF
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 04.02.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 20. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/elche-cf_villarreal-cf/aufstellung/spielbericht/3886524
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ELCHE CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Edgar Badia
+        3. Enzo Roco
+        7. Lisandro Magallán
+       14. Helibelton Palacios
+       20. Gerard Gumbau
+       21. Omar Mascarell
+       40. José Ángel Carmona
+       23. Carlos Clerc
+       10. Pere Milla
+       19. Ezequiel Ponce
+        9. Lucas Boyé
+
+   🔄 SUBSTITUTES IN (5):
+        4. Diego González
+        5. Gonzalo Verdú
+        2. Lautaro Blanco
+       18. Randy Nteka
+       16. Fidel
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        5. Jorge Cuenca
+        3. Raúl Albiol
+       12. Johan Mojica
+        8. Juan Foyth
+       10. Dani Parejo
+        6. Étienne Capoue
+       16. Álex Baena
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+        7. Gerard Moreno
+
+   🔄 SUBSTITUTES IN (5):
+       19. Francis Coquelin
+       14. Manu Trigueros
+       27. Diego Collado
+       22. José Luis Morales
+       34. Fer Niño
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 04.02.2023|LALIGA|20. Kolejka|Elche CF|Villarreal CF|Edgar Badia|Enzo Roco|Lisandro Magallán|Helibelton Palacios|Gerard Gumbau|Omar Mascarell|José Ángel Carmona|Carlos Clerc|Pere Milla|Ezequiel Ponce|Lucas Boyé|Diego González|Gonzalo Verdú|Lautaro Blanco|Randy Nteka|Fidel|Pepe Reina|Jorge Cuenca|Raúl Albiol|Johan Mojica|Juan Foyth|Dani Parejo|Étienne Capoue|Álex Baena|Yéremy Pino|Samuel Chukwueze|Gerard Moreno|Francis Coquelin|Manu Trigueros|Diego Collado|José Luis Morales|Fer Niño
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #38
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Valladolid CF
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 13.08.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 1. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-valladolid-cf_villarreal-cf/aufstellung/spielbericht/3844096
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL VALLADOLID CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Sergio Asenjo
+       15. Jawad El Yamiq
+       24. Joaquín Fernández
+       18. Sergio Escudero
+        2. Luis Pérez
+        8. Monchu
+        6. Álvaro Aguado
+       17. Roque Mesa
+       19. Toni Villa
+       11. Gonzalo Plata
+        7. Sergio León
+
+   🔄 SUBSTITUTES IN (5):
+       12. Lucas Olaza
+        4. Kike Pérez
+       21. Iván Sánchez
+       10. Óscar Plano
+       22. Sekou Gassama
+
+✈️  VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Gerónimo Rulli
+        4. Pau Torres
+        3. Raúl Albiol
+       24. Alfonso Pedraza
+        8. Juan Foyth
+        6. Étienne Capoue
+       10. Dani Parejo
+       21. Yéremy Pino
+       19. Francis Coquelin
+        7. Gerard Moreno
+       26. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (4):
+       23. Aïssa Mandi
+       30. Álex Baena
+       11. Samuel Chukwueze
+       22. José Luis Morales
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 13.08.2022|LALIGA|1. Kolejka|Real Valladolid CF|Villarreal CF|Sergio Asenjo|Jawad El Yamiq|Joaquín Fernández|Sergio Escudero|Luis Pérez|Monchu|Álvaro Aguado|Roque Mesa|Toni Villa|Gonzalo Plata|Sergio León|Lucas Olaza|Kike Pérez|Iván Sánchez|Óscar Plano|Sekou Gassama|Gerónimo Rulli|Pau Torres|Raúl Albiol|Alfonso Pedraza|Juan Foyth|Étienne Capoue|Dani Parejo|Yéremy Pino|Francis Coquelin|Gerard Moreno|Nicolas Jackson|Aïssa Mandi|Álex Baena|Samuel Chukwueze|José Luis Morales
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #39
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  UD Almería
+📅 DATE:  niedz., 23.10.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 11. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_ud-almería/aufstellung/spielbericht/3886369
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Gerónimo Rulli
+        4. Pau Torres
+        3. Raúl Albiol
+       12. Johan Mojica
+       23. Aïssa Mandi
+       19. Francis Coquelin
+       10. Dani Parejo
+       18. Alberto Moreno
+       16. Álex Baena
+       11. Samuel Chukwueze
+       22. José Luis Morales
+
+   🔄 SUBSTITUTES IN (5):
+        2. Kiko Femenía
+       14. Manu Trigueros
+        9. Arnaut Danjuma
+       21. Yéremy Pino
+       15. Nicolas Jackson
+
+✈️  UD ALMERÍA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Fernando Pacheco
+        2. Kaiky
+       19. Rodrigo Ely
+       21. Chumi
+       15. Sergio Akieme
+       17. Álex Pozo
+        4. Iñigo Eguaras
+        5. Lucas Robertone
+        3. Gonzalo Melero
+       12. Léo Baptistão
+        9. El Bilal Touré
+
+   🔄 SUBSTITUTES IN (5):
+        6. César de la Hoz
+       18. Arnau Puigmal
+        7. Largie Ramazani
+       14. Lázaro
+       10. Adrián Embarba
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 23.10.2022|LALIGA|11. Kolejka|Villarreal CF|UD Almería|Gerónimo Rulli|Pau Torres|Raúl Albiol|Johan Mojica|Aïssa Mandi|Francis Coquelin|Dani Parejo|Alberto Moreno|Álex Baena|Samuel Chukwueze|José Luis Morales|Kiko Femenía|Manu Trigueros|Arnaut Danjuma|Yéremy Pino|Nicolas Jackson|Fernando Pacheco|Kaiky|Rodrigo Ely|Chumi|Sergio Akieme|Álex Pozo|Iñigo Eguaras|Lucas Robertone|Gonzalo Melero|Léo Baptistão|El Bilal Touré|César de la Hoz|Arnau Puigmal|Largie Ramazani|Lázaro|Adrián Embarba
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #40
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Getafe CF
+📅 DATE:  pon., 27.02.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 23. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_getafe-cf/aufstellung/spielbericht/3886566
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+        3. Raúl Albiol
+       18. Alberto Moreno
+        8. Juan Foyth
+       10. Dani Parejo
+        6. Étienne Capoue
+       39. Ramón Terrats
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+       22. José Luis Morales
+
+   🔄 SUBSTITUTES IN (4):
+       12. Johan Mojica
+       24. Alfonso Pedraza
+       16. Álex Baena
+        7. Gerard Moreno
+
+✈️  GETAFE CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. David Soria
+       15. Omar Alderete
+        6. Domingos Duarte
+        4. Gastón Álvarez
+        2. Dakonam Djené
+        5. Luis Milla
+       18. Mauro Arambarri
+       20. Nemanja Maksimovic
+       19. Borja Mayoral
+        9. Portu
+       10. Enes Ünal
+
+   🔄 SUBSTITUTES IN (5):
+       21. Juan Iglesias
+       16. Ángel Algobia
+       11. Carles Aleñá
+       24. Gonzalo Villar
+       17. Munir El Haddadi
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pon., 27.02.2023|LALIGA|23. Kolejka|Villarreal CF|Getafe CF|Pepe Reina|Pau Torres|Raúl Albiol|Alberto Moreno|Juan Foyth|Dani Parejo|Étienne Capoue|Ramón Terrats|Yéremy Pino|Samuel Chukwueze|José Luis Morales|Johan Mojica|Alfonso Pedraza|Álex Baena|Gerard Moreno|David Soria|Omar Alderete|Domingos Duarte|Gastón Álvarez|Dakonam Djené|Luis Milla|Mauro Arambarri|Nemanja Maksimovic|Borja Mayoral|Portu|Enes Ünal|Juan Iglesias|Ángel Algobia|Carles Aleñá|Gonzalo Villar|Munir El Haddadi
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #41
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Rayo Vallecano
+✈️  AWAY:  Villarreal CF
+📅 DATE:  niedz., 28.05.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 37. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rayo-vallecano_villarreal-cf/aufstellung/spielbericht/3886705
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RAYO VALLECANO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Stole Dimitrievski
+        5. Alejandro Catena
+       16. Abdul Mumin
+        3. Fran García
+       20. Iván Balliu
+        6. Santi Comesaña
+       23. Óscar Valentín
+       15. Pep Chavarría
+        7. Isi Palazón
+       18. Álvaro García
+       25. Raúl de Tomás
+
+   🔄 SUBSTITUTES IN (5):
+       17. Unai López
+       21. Pathé Ciss
+       14. Salvi Sánchez
+        9. Radamel Falcao
+       34. Sergio Camello
+
+✈️  VILLARREAL CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+       23. Aïssa Mandi
+       24. Alfonso Pedraza
+        8. Juan Foyth
+       10. Dani Parejo
+       39. Ramón Terrats
+       16. Álex Baena
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (3):
+        6. Étienne Capoue
+       17. Giovani Lo Celso
+        7. Gerard Moreno
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 28.05.2023|LALIGA|37. Kolejka|Rayo Vallecano|Villarreal CF|Stole Dimitrievski|Alejandro Catena|Abdul Mumin|Fran García|Iván Balliu|Santi Comesaña|Óscar Valentín|Pep Chavarría|Isi Palazón|Álvaro García|Raúl de Tomás|Unai López|Pathé Ciss|Salvi Sánchez|Radamel Falcao|Sergio Camello|Pepe Reina|Pau Torres|Aïssa Mandi|Alfonso Pedraza|Juan Foyth|Dani Parejo|Ramón Terrats|Álex Baena|Yéremy Pino|Samuel Chukwueze|Nicolas Jackson|Étienne Capoue|Giovani Lo Celso|Gerard Moreno
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #42
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Lech Poznań
+✈️  AWAY:  Villarreal CF
+📅 DATE:  czw., 03.11.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/lech-poznań_villarreal-cf/aufstellung/spielbericht/3912675
+
+----------------------------------------------------------------------------------------------------
+
+🏠 LECH POZNAŃ - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       35. Filip Bednarek
+       16. Antonio Milic
+       37. Lubomir Satka
+        5. Pedro Rebocho
+        2. Joel Pereira
+       30. Nika Kvekveskiri
+       22. Radoslaw Murawski
+       11. Filip Marchwinski
+       21. Michal Skoras
+       23. Kristoffer Velde
+        9. Mikael Ishak
+
+   🔄 SUBSTITUTES IN (4):
+       18. Bartosz Salamon
+       25. Filip Dagerstal
+       44. Alan Czerwinski
+       17. Filip Szymczak
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        5. Jorge Cuenca
+       23. Aïssa Mandi
+       12. Johan Mojica
+       37. Adrián Dela
+       20. Manu Morlanes
+       19. Francis Coquelin
+       14. Manu Trigueros
+       22. José Luis Morales
+       21. Yéremy Pino
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (5):
+       18. Alberto Moreno
+        2. Kiko Femenía
+        6. Étienne Capoue
+       10. Dani Parejo
+        9. Arnaut Danjuma
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 03.11.2022|Unknown|Unknown|Lech Poznań|Villarreal CF|Filip Bednarek|Antonio Milic|Lubomir Satka|Pedro Rebocho|Joel Pereira|Nika Kvekveskiri|Radoslaw Murawski|Filip Marchwinski|Michal Skoras|Kristoffer Velde|Mikael Ishak|Bartosz Salamon|Filip Dagerstal|Alan Czerwinski|Filip Szymczak|Pepe Reina|Jorge Cuenca|Aïssa Mandi|Johan Mojica|Adrián Dela|Manu Morlanes|Francis Coquelin|Manu Trigueros|José Luis Morales|Yéremy Pino|Nicolas Jackson|Alberto Moreno|Kiko Femenía|Étienne Capoue|Dani Parejo|Arnaut Danjuma
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #43
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Real Madryt
+📅 DATE:  czw., 19.01.2023
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_real-madryt/aufstellung/spielbericht/3997414
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       35. Filip Jørgensen
+        4. Pau Torres
+        3. Raúl Albiol
+       18. Alberto Moreno
+        8. Juan Foyth
+       10. Dani Parejo
+        6. Étienne Capoue
+       16. Álex Baena
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+        7. Gerard Moreno
+
+   🔄 SUBSTITUTES IN (3):
+        5. Jorge Cuenca
+       23. Aïssa Mandi
+       22. José Luis Morales
+
+✈️  REAL MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        6. Nacho Fernández
+       22. Antonio Rüdiger
+       23. Ferland Mendy
+        3. Éder Militão
+        8. Toni Kroos
+       12. Eduardo Camavinga
+       15. Federico Valverde
+       20. Vinicius Junior
+       21. Rodrygo
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (2):
+       19. Dani Ceballos
+       11. Marco Asensio
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 19.01.2023|Unknown|Unknown|Villarreal CF|Real Madryt|Filip Jørgensen|Pau Torres|Raúl Albiol|Alberto Moreno|Juan Foyth|Dani Parejo|Étienne Capoue|Álex Baena|Yéremy Pino|Samuel Chukwueze|Gerard Moreno|Jorge Cuenca|Aïssa Mandi|José Luis Morales|Thibaut Courtois|Nacho Fernández|Antonio Rüdiger|Ferland Mendy|Éder Militão|Toni Kroos|Eduardo Camavinga|Federico Valverde|Vinicius Junior|Rodrygo|Karim Benzema|Dani Ceballos|Marco Asensio
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #44
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  HNK Hajduk Split
+✈️  AWAY:  Villarreal CF
+📅 DATE:  czw., 25.08.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/hnk-hajduk-split_villarreal-cf/aufstellung/spielbericht/3901646
+
+----------------------------------------------------------------------------------------------------
+
+🏠 HNK HAJDUK SPLIT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       91. Lovre Kalinic
+       19. Josip Elez
+       25. Chidozie Awaziem
+       17. Dario Melnjak
+       24. Dino Mikanovic
+       14. Lukas Grgic
+        6. Marco Fossati
+       23. Filip Krovinovic
+       27. Stipe Biuk
+       77. Emir Sahiti
+       10. Marko Livaja
+
+   🔄 SUBSTITUTES IN (5):
+        8. Stefan Simic
+        3. David Colina
+       26. Gergő Lovrencsics
+        4. Josip Vukovic
+       29. Jan Mlakar
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        5. Jorge Cuenca
+       23. Aïssa Mandi
+       24. Alfonso Pedraza
+        2. Kiko Femenía
+       19. Francis Coquelin
+       10. Dani Parejo
+       30. Álex Baena
+       11. Samuel Chukwueze
+       17. Giovani Lo Celso
+       26. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (5):
+        4. Pau Torres
+        8. Juan Foyth
+        6. Étienne Capoue
+        7. Gerard Moreno
+       22. José Luis Morales
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 25.08.2022|Unknown|Unknown|HNK Hajduk Split|Villarreal CF|Lovre Kalinic|Josip Elez|Chidozie Awaziem|Dario Melnjak|Dino Mikanovic|Lukas Grgic|Marco Fossati|Filip Krovinovic|Stipe Biuk|Emir Sahiti|Marko Livaja|Stefan Simic|David Colina|Gergő Lovrencsics|Josip Vukovic|Jan Mlakar|Pepe Reina|Jorge Cuenca|Aïssa Mandi|Alfonso Pedraza|Kiko Femenía|Francis Coquelin|Dani Parejo|Álex Baena|Samuel Chukwueze|Giovani Lo Celso|Nicolas Jackson|Pau Torres|Juan Foyth|Étienne Capoue|Gerard Moreno|José Luis Morales
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #45
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FK Austria Wiedeń
+✈️  AWAY:  Villarreal CF
+📅 DATE:  czw., 13.10.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fk-austria-wiedeń_villarreal-cf/aufstellung/spielbericht/3912672
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FK AUSTRIA WIEDEŃ - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Christian Früchtl
+        3. Lucas Galvão
+       40. Matteo Meisl
+       26. Reinhold Ranftl
+       11. Manuel Polster
+       39. Georg Teigl
+       23. Matthias Braunöder
+       30. Manfred Fischer
+       77. Aleksandar Jukic
+       17. Andreas Gruber
+       36. Dominik Fitz
+
+   🔄 SUBSTITUTES IN (4):
+        8. James Holland
+       44. Ibrahima Dramé
+        7. Can Keleş
+       25. Haris Tabakovic
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        5. Jorge Cuenca
+        3. Raúl Albiol
+       23. Aïssa Mandi
+       19. Francis Coquelin
+       20. Manu Morlanes
+       17. Giovani Lo Celso
+       12. Johan Mojica
+       16. Álex Baena
+       11. Samuel Chukwueze
+        9. Arnaut Danjuma
+
+   🔄 SUBSTITUTES IN (5):
+        4. Pau Torres
+        6. Étienne Capoue
+       21. Yéremy Pino
+       15. Nicolas Jackson
+       22. José Luis Morales
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 13.10.2022|Unknown|Unknown|FK Austria Wiedeń|Villarreal CF|Christian Früchtl|Lucas Galvão|Matteo Meisl|Reinhold Ranftl|Manuel Polster|Georg Teigl|Matthias Braunöder|Manfred Fischer|Aleksandar Jukic|Andreas Gruber|Dominik Fitz|James Holland|Ibrahima Dramé|Can Keleş|Haris Tabakovic|Pepe Reina|Jorge Cuenca|Raúl Albiol|Aïssa Mandi|Francis Coquelin|Manu Morlanes|Giovani Lo Celso|Johan Mojica|Álex Baena|Samuel Chukwueze|Arnaut Danjuma|Pau Torres|Étienne Capoue|Yéremy Pino|Nicolas Jackson|José Luis Morales
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #46
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  RSC Anderlecht
+✈️  AWAY:  Villarreal CF
+📅 DATE:  czw., 09.03.2023
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/rsc-anderlecht_villarreal-cf/aufstellung/spielbericht/4031428
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RSC ANDERLECHT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       16. Bart Verbruggen
+       14. Jan Vertonghen
+       56. Zeno Debast
+        5. Moussa N'Diaye
+       62. Amir Murillo
+       21. Amadou Diawara
+       10. Yari Verschaeren
+       11. Lior Refaelov
+        7. Francis Amuzu
+       36. Anders Dreyer
+        9. Benito Raman
+
+   🔄 SUBSTITUTES IN (5):
+       54. Killian Sardella
+       18. Majeed Ashimeru
+       29. Mario Stroeykens
+       32. Nilson Angulo
+       13. Islam Slimani
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        5. Jorge Cuenca
+       23. Aïssa Mandi
+       12. Johan Mojica
+        8. Juan Foyth
+       10. Dani Parejo
+       14. Manu Trigueros
+       16. Álex Baena
+       22. José Luis Morales
+       11. Samuel Chukwueze
+       43. Jorge Pascual
+
+   🔄 SUBSTITUTES IN (5):
+       39. Ramón Terrats
+       17. Giovani Lo Celso
+       21. Yéremy Pino
+        7. Gerard Moreno
+       15. Nicolas Jackson
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 09.03.2023|Unknown|Unknown|RSC Anderlecht|Villarreal CF|Bart Verbruggen|Jan Vertonghen|Zeno Debast|Moussa N'Diaye|Amir Murillo|Amadou Diawara|Yari Verschaeren|Lior Refaelov|Francis Amuzu|Anders Dreyer|Benito Raman|Killian Sardella|Majeed Ashimeru|Mario Stroeykens|Nilson Angulo|Islam Slimani|Pepe Reina|Jorge Cuenca|Aïssa Mandi|Johan Mojica|Juan Foyth|Dani Parejo|Manu Trigueros|Álex Baena|José Luis Morales|Samuel Chukwueze|Jorge Pascual|Ramón Terrats|Giovani Lo Celso|Yéremy Pino|Gerard Moreno|Nicolas Jackson
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #47
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  RCD Espanyol
+✈️  AWAY:  Villarreal CF
+📅 DATE:  śr., 09.11.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 14. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rcd-espanyol_villarreal-cf/aufstellung/spielbericht/3886448
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RCD ESPANYOL - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Benjamin Lecomte
+        5. Fernando Calero
+       24. Sergi Gómez
+       14. Brian Oliván
+        2. Óscar Gil
+       12. Vini Souza
+        8. Keidi Bare
+       10. Sergi Darder
+        7. Javi Puado
+       17. Martin Braithwaite
+        9. Joselu
+
+   🔄 SUBSTITUTES IN (5):
+       20. Edu Expósito
+       21. Nico Melamed
+       16. José Carlos Lazo
+       22. Aleix Vidal
+       19. Dani Gómez
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Gerónimo Rulli
+        5. Jorge Cuenca
+        3. Raúl Albiol
+       18. Alberto Moreno
+        2. Kiko Femenía
+       10. Dani Parejo
+        6. Étienne Capoue
+       14. Manu Trigueros
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+        9. Arnaut Danjuma
+
+   🔄 SUBSTITUTES IN (5):
+        8. Juan Foyth
+       19. Francis Coquelin
+       20. Manu Morlanes
+       16. Álex Baena
+        7. Gerard Moreno
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 09.11.2022|LALIGA|14. Kolejka|RCD Espanyol|Villarreal CF|Benjamin Lecomte|Fernando Calero|Sergi Gómez|Brian Oliván|Óscar Gil|Vini Souza|Keidi Bare|Sergi Darder|Javi Puado|Martin Braithwaite|Joselu|Edu Expósito|Nico Melamed|José Carlos Lazo|Aleix Vidal|Dani Gómez|Gerónimo Rulli|Jorge Cuenca|Raúl Albiol|Alberto Moreno|Kiko Femenía|Dani Parejo|Étienne Capoue|Manu Trigueros|Yéremy Pino|Samuel Chukwueze|Arnaut Danjuma|Juan Foyth|Francis Coquelin|Manu Morlanes|Álex Baena|Gerard Moreno
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #48
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Girona FC
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 20.05.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 35. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/girona-fc_villarreal-cf/aufstellung/spielbericht/3886685
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GIRONA FC - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Paulo Gazzaniga
+       15. Juanpe
+       22. Santiago Bueno
+        3. Miguel Gutiérrez
+        4. Arnau Martínez
+        5. David López
+       23. Iván Martín
+        8. Viktor Tsygankov
+       17. Rodrigo Riquelme
+       20. Yan Couto
+        9. Taty Castellanos
+
+   🔄 SUBSTITUTES IN (4):
+       16. Javi Hernández
+       21. Yangel Herrera
+       19. Reinier
+        7. Cristhian Stuani
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        5. Jorge Cuenca
+       23. Aïssa Mandi
+       24. Alfonso Pedraza
+        8. Juan Foyth
+        6. Étienne Capoue
+       39. Ramón Terrats
+       16. Álex Baena
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (5):
+       18. Alberto Moreno
+        2. Kiko Femenía
+       14. Manu Trigueros
+       17. Giovani Lo Celso
+        7. Gerard Moreno
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 20.05.2023|LALIGA|35. Kolejka|Girona FC|Villarreal CF|Paulo Gazzaniga|Juanpe|Santiago Bueno|Miguel Gutiérrez|Arnau Martínez|David López|Iván Martín|Viktor Tsygankov|Rodrigo Riquelme|Yan Couto|Taty Castellanos|Javi Hernández|Yangel Herrera|Reinier|Cristhian Stuani|Pepe Reina|Jorge Cuenca|Aïssa Mandi|Alfonso Pedraza|Juan Foyth|Étienne Capoue|Ramón Terrats|Álex Baena|Yéremy Pino|Samuel Chukwueze|Nicolas Jackson|Alberto Moreno|Kiko Femenía|Manu Trigueros|Giovani Lo Celso|Gerard Moreno
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #49
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  RCD Espanyol
+📅 DATE:  czw., 27.04.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 31. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_rcd-espanyol/aufstellung/spielbericht/3886648
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+       23. Aïssa Mandi
+       18. Alberto Moreno
+        8. Juan Foyth
+        6. Étienne Capoue
+       10. Dani Parejo
+       17. Giovani Lo Celso
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (3):
+       24. Alfonso Pedraza
+       39. Ramón Terrats
+       16. Álex Baena
+
+✈️  RCD ESPANYOL - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Fernando Pacheco
+       23. César Montes
+       24. Sergi Gómez
+        2. Óscar Gil
+        5. Fernando Calero
+       12. Vini Souza
+        8. Keidi Bare
+       10. Sergi Darder
+        7. Javi Puado
+       17. Martin Braithwaite
+        9. Joselu
+
+   🔄 SUBSTITUTES IN (4):
+       28. Simo Keddari
+        3. Adrià Pedrosa
+       20. Edu Expósito
+       21. Nico Melamed
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 27.04.2023|LALIGA|31. Kolejka|Villarreal CF|RCD Espanyol|Pepe Reina|Pau Torres|Aïssa Mandi|Alberto Moreno|Juan Foyth|Étienne Capoue|Dani Parejo|Giovani Lo Celso|Yéremy Pino|Samuel Chukwueze|Nicolas Jackson|Alfonso Pedraza|Ramón Terrats|Álex Baena|Fernando Pacheco|César Montes|Sergi Gómez|Óscar Gil|Fernando Calero|Vini Souza|Keidi Bare|Sergi Darder|Javi Puado|Martin Braithwaite|Joselu|Simo Keddari|Adrià Pedrosa|Edu Expósito|Nico Melamed
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #50
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Getafe CF
+✈️  AWAY:  Villarreal CF
+📅 DATE:  niedz., 28.08.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 3. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/getafe-cf_villarreal-cf/aufstellung/spielbericht/3885847
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GETAFE CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. David Soria
+        2. Dakonam Djené
+        6. Domingos Duarte
+        4. Gastón Álvarez
+       21. Juan Iglesias
+        8. Jaime Seoane
+       18. Mauro Arambarri
+        9. Portu
+       11. Carles Aleñá
+       10. Enes Ünal
+       19. Borja Mayoral
+
+   🔄 SUBSTITUTES IN (3):
+       20. Nemanja Maksimovic
+       14. Juanmi Latasa
+        7. Jaime Mata
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Gerónimo Rulli
+        4. Pau Torres
+        3. Raúl Albiol
+       24. Alfonso Pedraza
+        8. Juan Foyth
+        6. Étienne Capoue
+       10. Dani Parejo
+       17. Giovani Lo Celso
+       21. Yéremy Pino
+        7. Gerard Moreno
+       22. José Luis Morales
+
+   🔄 SUBSTITUTES IN (5):
+        2. Kiko Femenía
+       19. Francis Coquelin
+       16. Álex Baena
+       11. Samuel Chukwueze
+       15. Nicolas Jackson
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 28.08.2022|LALIGA|3. Kolejka|Getafe CF|Villarreal CF|David Soria|Dakonam Djené|Domingos Duarte|Gastón Álvarez|Juan Iglesias|Jaime Seoane|Mauro Arambarri|Portu|Carles Aleñá|Enes Ünal|Borja Mayoral|Nemanja Maksimovic|Juanmi Latasa|Jaime Mata|Gerónimo Rulli|Pau Torres|Raúl Albiol|Alfonso Pedraza|Juan Foyth|Étienne Capoue|Dani Parejo|Giovani Lo Celso|Yéremy Pino|Gerard Moreno|José Luis Morales|Kiko Femenía|Francis Coquelin|Álex Baena|Samuel Chukwueze|Nicolas Jackson
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #51
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  UD Almería
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 04.03.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 24. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/ud-almería_villarreal-cf/aufstellung/spielbericht/3886573
+
+----------------------------------------------------------------------------------------------------
+
+🏠 UD ALMERÍA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Fernando Martínez
+       22. Srdjan Babic
+       19. Rodrigo Ely
+       15. Sergio Akieme
+       21. Chumi
+        6. César de la Hoz
+        5. Lucas Robertone
+       12. Léo Baptistão
+       10. Adrián Embarba
+        9. El Bilal Touré
+       16. Luis Suárez
+
+   🔄 SUBSTITUTES IN (5):
+        1. Diego Mariño
+       20. Álex Centelles
+       23. Samú Costa
+        7. Largie Ramazani
+       14. Lázaro
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+        3. Raúl Albiol
+       18. Alberto Moreno
+        8. Juan Foyth
+       10. Dani Parejo
+       39. Ramón Terrats
+       16. Álex Baena
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+       22. José Luis Morales
+
+   🔄 SUBSTITUTES IN (5):
+       12. Johan Mojica
+       24. Alfonso Pedraza
+        6. Étienne Capoue
+       17. Giovani Lo Celso
+        7. Gerard Moreno
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 04.03.2023|LALIGA|24. Kolejka|UD Almería|Villarreal CF|Fernando Martínez|Srdjan Babic|Rodrigo Ely|Sergio Akieme|Chumi|César de la Hoz|Lucas Robertone|Léo Baptistão|Adrián Embarba|El Bilal Touré|Luis Suárez|Diego Mariño|Álex Centelles|Samú Costa|Largie Ramazani|Lázaro|Pepe Reina|Pau Torres|Raúl Albiol|Alberto Moreno|Juan Foyth|Dani Parejo|Ramón Terrats|Álex Baena|Yéremy Pino|Samuel Chukwueze|José Luis Morales|Johan Mojica|Alfonso Pedraza|Étienne Capoue|Giovani Lo Celso|Gerard Moreno
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #52
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Valencia CF
+📅 DATE:  sob., 31.12.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 15. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_valencia-cf/aufstellung/spielbericht/3886471
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Pepe Reina
+        4. Pau Torres
+        3. Raúl Albiol
+       18. Alberto Moreno
+        2. Kiko Femenía
+       10. Dani Parejo
+        6. Étienne Capoue
+       16. Álex Baena
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+        7. Gerard Moreno
+
+   🔄 SUBSTITUTES IN (5):
+        8. Juan Foyth
+       24. Alfonso Pedraza
+       14. Manu Trigueros
+       15. Nicolas Jackson
+       22. José Luis Morales
+
+✈️  VALENCIA CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Giorgi Mamardashvili
+       12. Mouctar Diakhaby
+       24. Eray Cömert
+       14. José Gayà
+        2. Thierry Correia
+       17. Nico González
+        4. Yunus Musah
+       18. André Almeida
+       16. Samuel Lino
+       11. Samu Castillejo
+        7. Edinson Cavani
+
+   🔄 SUBSTITUTES IN (4):
+        6. Hugo Guillamón
+        8. Ilaix Moriba
+        9. Justin Kluivert
+       19. Hugo Duro
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 31.12.2022|LALIGA|15. Kolejka|Villarreal CF|Valencia CF|Pepe Reina|Pau Torres|Raúl Albiol|Alberto Moreno|Kiko Femenía|Dani Parejo|Étienne Capoue|Álex Baena|Yéremy Pino|Samuel Chukwueze|Gerard Moreno|Juan Foyth|Alfonso Pedraza|Manu Trigueros|Nicolas Jackson|José Luis Morales|Giorgi Mamardashvili|Mouctar Diakhaby|Eray Cömert|José Gayà|Thierry Correia|Nico González|Yunus Musah|André Almeida|Samuel Lino|Samu Castillejo|Edinson Cavani|Hugo Guillamón|Ilaix Moriba|Justin Kluivert|Hugo Duro
+

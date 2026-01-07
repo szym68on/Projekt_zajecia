@@ -1,0 +1,275 @@
+# Graph for Java/GraphStream
+# Nodes: 25
+# Edges: 269
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Diego López | Gonzalo Rodríguez | 27 | 45 | 27
+EDGE Diego López | Carlos Marchena | 13 | 45 | 15
+EDGE Diego López | José Manuel Catalá | 16 | 45 | 17
+EDGE Diego López | Cristian Zapata | 33 | 45 | 36
+EDGE Diego López | Bruno Soriano | 43 | 45 | 46
+EDGE Diego López | Marcos Senna | 28 | 45 | 29
+EDGE Diego López | Borja Valero | 40 | 45 | 42
+EDGE Diego López | Jonathan de Guzmán | 17 | 45 | 17
+EDGE Diego López | Cani | 30 | 45 | 32
+EDGE Diego López | Giuseppe Rossi | 13 | 45 | 14
+EDGE Diego López | Joan Oriol | 25 | 45 | 26
+EDGE Diego López | Ángel López | 17 | 45 | 18
+EDGE Diego López | Nilmar | 18 | 45 | 19
+EDGE Diego López | Marco Ruben | 27 | 45 | 29
+EDGE Diego López | Mateo Musacchio | 35 | 45 | 38
+EDGE Diego López | Mario Gaspar | 23 | 45 | 25
+EDGE Diego López | Hernán Pérez | 16 | 45 | 17
+EDGE Diego López | Alejandro Martinuccio | 5 | 45 | 5
+EDGE Diego López | Jaume Costa | 6 | 45 | 7
+EDGE Diego López | Mubarak Wakaso | 2 | 45 | 2
+EDGE Diego López | Javier Camuñas | 11 | 45 | 12
+EDGE Diego López | Joselu Moreno | 4 | 45 | 5
+EDGE Diego López | Gonzalo Castellani | 1 | 45 | 2
+EDGE Gonzalo Rodríguez | Carlos Marchena | 6 | 27 | 15
+EDGE Gonzalo Rodríguez | José Manuel Catalá | 11 | 27 | 17
+EDGE Gonzalo Rodríguez | Cristian Zapata | 16 | 27 | 36
+EDGE Gonzalo Rodríguez | Bruno Soriano | 26 | 27 | 46
+EDGE Gonzalo Rodríguez | Marcos Senna | 15 | 27 | 29
+EDGE Gonzalo Rodríguez | Borja Valero | 26 | 27 | 42
+EDGE Gonzalo Rodríguez | Jonathan de Guzmán | 11 | 27 | 17
+EDGE Gonzalo Rodríguez | Cani | 20 | 27 | 32
+EDGE Gonzalo Rodríguez | Giuseppe Rossi | 8 | 27 | 14
+EDGE Gonzalo Rodríguez | Joan Oriol | 15 | 27 | 26
+EDGE Gonzalo Rodríguez | Ángel López | 12 | 27 | 18
+EDGE Gonzalo Rodríguez | Nilmar | 8 | 27 | 19
+EDGE Gonzalo Rodríguez | Marco Ruben | 15 | 27 | 29
+EDGE Gonzalo Rodríguez | Mateo Musacchio | 18 | 27 | 38
+EDGE Gonzalo Rodríguez | Mario Gaspar | 9 | 27 | 25
+EDGE Gonzalo Rodríguez | Hernán Pérez | 9 | 27 | 17
+EDGE Gonzalo Rodríguez | Alejandro Martinuccio | 3 | 27 | 5
+EDGE Gonzalo Rodríguez | Jaume Costa | 3 | 27 | 7
+EDGE Gonzalo Rodríguez | Mubarak Wakaso | 2 | 27 | 2
+EDGE Gonzalo Rodríguez | Joselu Moreno | 4 | 27 | 5
+EDGE Gonzalo Rodríguez | Javier Camuñas | 6 | 27 | 12
+EDGE Carlos Marchena | José Manuel Catalá | 7 | 15 | 17
+EDGE Carlos Marchena | Cristian Zapata | 12 | 15 | 36
+EDGE Carlos Marchena | Bruno Soriano | 13 | 15 | 46
+EDGE Carlos Marchena | Marcos Senna | 5 | 15 | 29
+EDGE Carlos Marchena | Borja Valero | 13 | 15 | 42
+EDGE Carlos Marchena | Jonathan de Guzmán | 6 | 15 | 17
+EDGE Carlos Marchena | Cani | 8 | 15 | 32
+EDGE Carlos Marchena | Giuseppe Rossi | 8 | 15 | 14
+EDGE Carlos Marchena | César Sánchez | 2 | 15 | 3
+EDGE Carlos Marchena | Mateo Musacchio | 11 | 15 | 38
+EDGE Carlos Marchena | Jaume Costa | 3 | 15 | 7
+EDGE Carlos Marchena | Mario Gaspar | 9 | 15 | 25
+EDGE Carlos Marchena | Hernán Pérez | 8 | 15 | 17
+EDGE Carlos Marchena | Javier Camuñas | 3 | 15 | 12
+EDGE Carlos Marchena | Gonzalo Castellani | 1 | 15 | 2
+EDGE Carlos Marchena | Joselu Moreno | 2 | 15 | 5
+EDGE Carlos Marchena | Joan Oriol | 5 | 15 | 26
+EDGE Carlos Marchena | Nilmar | 5 | 15 | 19
+EDGE Carlos Marchena | Marco Ruben | 5 | 15 | 29
+EDGE Carlos Marchena | Ángel López | 3 | 15 | 18
+EDGE Carlos Marchena | Alejandro Martinuccio | 1 | 15 | 5
+EDGE Carlos Marchena | Mubarak Wakaso | 1 | 15 | 2
+EDGE José Manuel Catalá | Cristian Zapata | 14 | 17 | 36
+EDGE José Manuel Catalá | Bruno Soriano | 16 | 17 | 46
+EDGE José Manuel Catalá | Marcos Senna | 7 | 17 | 29
+EDGE José Manuel Catalá | Borja Valero | 15 | 17 | 42
+EDGE José Manuel Catalá | Jonathan de Guzmán | 13 | 17 | 17
+EDGE José Manuel Catalá | Cani | 10 | 17 | 32
+EDGE José Manuel Catalá | Giuseppe Rossi | 10 | 17 | 14
+EDGE José Manuel Catalá | Mateo Musacchio | 14 | 17 | 38
+EDGE José Manuel Catalá | Mario Gaspar | 8 | 17 | 25
+EDGE José Manuel Catalá | Javier Camuñas | 2 | 17 | 12
+EDGE José Manuel Catalá | Marco Ruben | 7 | 17 | 29
+EDGE José Manuel Catalá | Nilmar | 5 | 17 | 19
+EDGE José Manuel Catalá | Joan Oriol | 2 | 17 | 26
+EDGE José Manuel Catalá | Hernán Pérez | 7 | 17 | 17
+EDGE José Manuel Catalá | Ángel López | 1 | 17 | 18
+EDGE José Manuel Catalá | Alejandro Martinuccio | 2 | 17 | 5
+EDGE José Manuel Catalá | Mubarak Wakaso | 1 | 17 | 2
+EDGE José Manuel Catalá | Joselu Moreno | 1 | 17 | 5
+EDGE José Manuel Catalá | César Sánchez | 1 | 17 | 3
+EDGE Cristian Zapata | Bruno Soriano | 35 | 36 | 46
+EDGE Cristian Zapata | Marcos Senna | 24 | 36 | 29
+EDGE Cristian Zapata | Borja Valero | 30 | 36 | 42
+EDGE Cristian Zapata | Jonathan de Guzmán | 12 | 36 | 17
+EDGE Cristian Zapata | Cani | 25 | 36 | 32
+EDGE Cristian Zapata | Giuseppe Rossi | 13 | 36 | 14
+EDGE Cristian Zapata | Joan Oriol | 15 | 36 | 26
+EDGE Cristian Zapata | Ángel López | 11 | 36 | 18
+EDGE Cristian Zapata | Nilmar | 19 | 36 | 19
+EDGE Cristian Zapata | Marco Ruben | 20 | 36 | 29
+EDGE Cristian Zapata | César Sánchez | 3 | 36 | 3
+EDGE Cristian Zapata | Mateo Musacchio | 26 | 36 | 38
+EDGE Cristian Zapata | Jaume Costa | 7 | 36 | 7
+EDGE Cristian Zapata | Mario Gaspar | 16 | 36 | 25
+EDGE Cristian Zapata | Hernán Pérez | 11 | 36 | 17
+EDGE Cristian Zapata | Javier Camuñas | 9 | 36 | 12
+EDGE Cristian Zapata | Gonzalo Castellani | 2 | 36 | 2
+EDGE Cristian Zapata | Joselu Moreno | 1 | 36 | 5
+EDGE Cristian Zapata | Alejandro Martinuccio | 5 | 36 | 5
+EDGE Cristian Zapata | Mubarak Wakaso | 1 | 36 | 2
+EDGE Bruno Soriano | Marcos Senna | 28 | 46 | 29
+EDGE Bruno Soriano | Borja Valero | 40 | 46 | 42
+EDGE Bruno Soriano | Jonathan de Guzmán | 16 | 46 | 17
+EDGE Bruno Soriano | Cani | 31 | 46 | 32
+EDGE Bruno Soriano | Giuseppe Rossi | 14 | 46 | 14
+EDGE Bruno Soriano | Joan Oriol | 25 | 46 | 26
+EDGE Bruno Soriano | Ángel López | 17 | 46 | 18
+EDGE Bruno Soriano | Nilmar | 18 | 46 | 19
+EDGE Bruno Soriano | Marco Ruben | 28 | 46 | 29
+EDGE Bruno Soriano | César Sánchez | 3 | 46 | 3
+EDGE Bruno Soriano | Mateo Musacchio | 37 | 46 | 38
+EDGE Bruno Soriano | Jaume Costa | 7 | 46 | 7
+EDGE Bruno Soriano | Mario Gaspar | 24 | 46 | 25
+EDGE Bruno Soriano | Hernán Pérez | 16 | 46 | 17
+EDGE Bruno Soriano | Javier Camuñas | 11 | 46 | 12
+EDGE Bruno Soriano | Gonzalo Castellani | 2 | 46 | 2
+EDGE Bruno Soriano | Joselu Moreno | 4 | 46 | 5
+EDGE Bruno Soriano | Alejandro Martinuccio | 5 | 46 | 5
+EDGE Bruno Soriano | Mubarak Wakaso | 1 | 46 | 2
+EDGE Marcos Senna | Borja Valero | 24 | 29 | 42
+EDGE Marcos Senna | Jonathan de Guzmán | 6 | 29 | 17
+EDGE Marcos Senna | Cani | 21 | 29 | 32
+EDGE Marcos Senna | Giuseppe Rossi | 5 | 29 | 14
+EDGE Marcos Senna | Joan Oriol | 17 | 29 | 26
+EDGE Marcos Senna | Ángel López | 13 | 29 | 18
+EDGE Marcos Senna | Nilmar | 14 | 29 | 19
+EDGE Marcos Senna | Marco Ruben | 21 | 29 | 29
+EDGE Marcos Senna | Alejandro Martinuccio | 4 | 29 | 5
+EDGE Marcos Senna | Mateo Musacchio | 22 | 29 | 38
+EDGE Marcos Senna | Mario Gaspar | 12 | 29 | 25
+EDGE Marcos Senna | Joselu Moreno | 3 | 29 | 5
+EDGE Marcos Senna | Jaume Costa | 5 | 29 | 7
+EDGE Marcos Senna | Hernán Pérez | 5 | 29 | 17
+EDGE Marcos Senna | Javier Camuñas | 9 | 29 | 12
+EDGE Marcos Senna | Gonzalo Castellani | 1 | 29 | 2
+EDGE Marcos Senna | César Sánchez | 1 | 29 | 3
+EDGE Borja Valero | Jonathan de Guzmán | 14 | 42 | 17
+EDGE Borja Valero | Cani | 30 | 42 | 32
+EDGE Borja Valero | Giuseppe Rossi | 12 | 42 | 14
+EDGE Borja Valero | Joan Oriol | 23 | 42 | 26
+EDGE Borja Valero | Ángel López | 16 | 42 | 18
+EDGE Borja Valero | Nilmar | 14 | 42 | 19
+EDGE Borja Valero | Marco Ruben | 26 | 42 | 29
+EDGE Borja Valero | Mateo Musacchio | 32 | 42 | 38
+EDGE Borja Valero | Mario Gaspar | 21 | 42 | 25
+EDGE Borja Valero | Hernán Pérez | 15 | 42 | 17
+EDGE Borja Valero | Alejandro Martinuccio | 4 | 42 | 5
+EDGE Borja Valero | Jaume Costa | 6 | 42 | 7
+EDGE Borja Valero | Mubarak Wakaso | 2 | 42 | 2
+EDGE Borja Valero | Javier Camuñas | 11 | 42 | 12
+EDGE Borja Valero | Joselu Moreno | 4 | 42 | 5
+EDGE Borja Valero | César Sánchez | 2 | 42 | 3
+EDGE Jonathan de Guzmán | Cani | 9 | 17 | 32
+EDGE Jonathan de Guzmán | Giuseppe Rossi | 8 | 17 | 14
+EDGE Jonathan de Guzmán | Mateo Musacchio | 13 | 17 | 38
+EDGE Jonathan de Guzmán | Mario Gaspar | 9 | 17 | 25
+EDGE Jonathan de Guzmán | Javier Camuñas | 1 | 17 | 12
+EDGE Jonathan de Guzmán | Marco Ruben | 8 | 17 | 29
+EDGE Jonathan de Guzmán | Nilmar | 5 | 17 | 19
+EDGE Jonathan de Guzmán | Joan Oriol | 6 | 17 | 26
+EDGE Jonathan de Guzmán | Ángel López | 4 | 17 | 18
+EDGE Jonathan de Guzmán | Hernán Pérez | 10 | 17 | 17
+EDGE Jonathan de Guzmán | Mubarak Wakaso | 1 | 17 | 2
+EDGE Jonathan de Guzmán | Joselu Moreno | 1 | 17 | 5
+EDGE Cani | Giuseppe Rossi | 13 | 32 | 14
+EDGE Cani | Joan Oriol | 20 | 32 | 26
+EDGE Cani | Ángel López | 13 | 32 | 18
+EDGE Cani | Nilmar | 14 | 32 | 19
+EDGE Cani | Marco Ruben | 18 | 32 | 29
+EDGE Cani | Mateo Musacchio | 23 | 32 | 38
+EDGE Cani | Mario Gaspar | 13 | 32 | 25
+EDGE Cani | Hernán Pérez | 5 | 32 | 17
+EDGE Cani | Alejandro Martinuccio | 1 | 32 | 5
+EDGE Cani | Javier Camuñas | 9 | 32 | 12
+EDGE Cani | Joselu Moreno | 3 | 32 | 5
+EDGE Cani | Jaume Costa | 2 | 32 | 7
+EDGE Cani | César Sánchez | 2 | 32 | 3
+EDGE Giuseppe Rossi | Mateo Musacchio | 11 | 14 | 38
+EDGE Giuseppe Rossi | Joan Oriol | 4 | 14 | 26
+EDGE Giuseppe Rossi | Nilmar | 7 | 14 | 19
+EDGE Giuseppe Rossi | Mario Gaspar | 6 | 14 | 25
+EDGE Giuseppe Rossi | Javier Camuñas | 3 | 14 | 12
+EDGE Giuseppe Rossi | Marco Ruben | 2 | 14 | 29
+EDGE Giuseppe Rossi | Hernán Pérez | 2 | 14 | 17
+EDGE Giuseppe Rossi | César Sánchez | 1 | 14 | 3
+EDGE Joan Oriol | Ángel López | 15 | 26 | 18
+EDGE Joan Oriol | Nilmar | 12 | 26 | 19
+EDGE Joan Oriol | Marco Ruben | 20 | 26 | 29
+EDGE Joan Oriol | Mateo Musacchio | 21 | 26 | 38
+EDGE Joan Oriol | Mario Gaspar | 14 | 26 | 25
+EDGE Joan Oriol | Hernán Pérez | 7 | 26 | 17
+EDGE Joan Oriol | Alejandro Martinuccio | 2 | 26 | 5
+EDGE Joan Oriol | Joselu Moreno | 3 | 26 | 5
+EDGE Joan Oriol | Javier Camuñas | 7 | 26 | 12
+EDGE Joan Oriol | Gonzalo Castellani | 1 | 26 | 2
+EDGE Joan Oriol | César Sánchez | 1 | 26 | 3
+EDGE Ángel López | Nilmar | 10 | 18 | 19
+EDGE Ángel López | Marco Ruben | 13 | 18 | 29
+EDGE Ángel López | Mateo Musacchio | 11 | 18 | 38
+EDGE Ángel López | Mario Gaspar | 5 | 18 | 25
+EDGE Ángel López | Hernán Pérez | 6 | 18 | 17
+EDGE Ángel López | Alejandro Martinuccio | 3 | 18 | 5
+EDGE Ángel López | Joselu Moreno | 3 | 18 | 5
+EDGE Ángel López | Javier Camuñas | 4 | 18 | 12
+EDGE Ángel López | César Sánchez | 1 | 18 | 3
+EDGE Ángel López | Jaume Costa | 2 | 18 | 7
+EDGE Nilmar | Marco Ruben | 8 | 19 | 29
+EDGE Nilmar | Mateo Musacchio | 13 | 19 | 38
+EDGE Nilmar | Mario Gaspar | 6 | 19 | 25
+EDGE Nilmar | Javier Camuñas | 4 | 19 | 12
+EDGE Nilmar | Hernán Pérez | 3 | 19 | 17
+EDGE Nilmar | Gonzalo Castellani | 1 | 19 | 2
+EDGE Nilmar | Alejandro Martinuccio | 3 | 19 | 5
+EDGE Nilmar | César Sánchez | 1 | 19 | 3
+EDGE Nilmar | Jaume Costa | 2 | 19 | 7
+EDGE Marco Ruben | Mateo Musacchio | 25 | 29 | 38
+EDGE Marco Ruben | Mario Gaspar | 18 | 29 | 25
+EDGE Marco Ruben | Hernán Pérez | 11 | 29 | 17
+EDGE Marco Ruben | Alejandro Martinuccio | 3 | 29 | 5
+EDGE Marco Ruben | Jaume Costa | 4 | 29 | 7
+EDGE Marco Ruben | Mubarak Wakaso | 1 | 29 | 2
+EDGE Marco Ruben | Joselu Moreno | 2 | 29 | 5
+EDGE Marco Ruben | Javier Camuñas | 5 | 29 | 12
+EDGE Marco Ruben | Gonzalo Castellani | 1 | 29 | 2
+EDGE Marco Ruben | César Sánchez | 2 | 29 | 3
+EDGE César Sánchez | Mateo Musacchio | 3 | 3 | 38
+EDGE César Sánchez | Jaume Costa | 1 | 3 | 7
+EDGE César Sánchez | Mario Gaspar | 2 | 3 | 25
+EDGE César Sánchez | Hernán Pérez | 1 | 3 | 17
+EDGE César Sánchez | Javier Camuñas | 1 | 3 | 12
+EDGE César Sánchez | Gonzalo Castellani | 1 | 3 | 2
+EDGE César Sánchez | Joselu Moreno | 1 | 3 | 5
+EDGE Mateo Musacchio | Jaume Costa | 5 | 38 | 7
+EDGE Mateo Musacchio | Mario Gaspar | 25 | 38 | 25
+EDGE Mateo Musacchio | Hernán Pérez | 14 | 38 | 17
+EDGE Mateo Musacchio | Javier Camuñas | 9 | 38 | 12
+EDGE Mateo Musacchio | Gonzalo Castellani | 2 | 38 | 2
+EDGE Mateo Musacchio | Joselu Moreno | 5 | 38 | 5
+EDGE Mateo Musacchio | Mubarak Wakaso | 2 | 38 | 2
+EDGE Mateo Musacchio | Alejandro Martinuccio | 3 | 38 | 5
+EDGE Jaume Costa | Mario Gaspar | 5 | 7 | 25
+EDGE Jaume Costa | Hernán Pérez | 5 | 7 | 17
+EDGE Jaume Costa | Javier Camuñas | 3 | 7 | 12
+EDGE Jaume Costa | Gonzalo Castellani | 1 | 7 | 2
+EDGE Jaume Costa | Joselu Moreno | 1 | 7 | 5
+EDGE Jaume Costa | Mubarak Wakaso | 1 | 7 | 2
+EDGE Jaume Costa | Alejandro Martinuccio | 1 | 7 | 5
+EDGE Mario Gaspar | Hernán Pérez | 12 | 25 | 17
+EDGE Mario Gaspar | Javier Camuñas | 6 | 25 | 12
+EDGE Mario Gaspar | Gonzalo Castellani | 2 | 25 | 2
+EDGE Mario Gaspar | Joselu Moreno | 2 | 25 | 5
+EDGE Mario Gaspar | Mubarak Wakaso | 2 | 25 | 2
+EDGE Mario Gaspar | Alejandro Martinuccio | 1 | 25 | 5
+EDGE Hernán Pérez | Javier Camuñas | 1 | 17 | 12
+EDGE Hernán Pérez | Gonzalo Castellani | 1 | 17 | 2
+EDGE Hernán Pérez | Joselu Moreno | 2 | 17 | 5
+EDGE Hernán Pérez | Mubarak Wakaso | 2 | 17 | 2
+EDGE Hernán Pérez | Alejandro Martinuccio | 1 | 17 | 5
+EDGE Javier Camuñas | Gonzalo Castellani | 1 | 12 | 2
+EDGE Javier Camuñas | Joselu Moreno | 2 | 12 | 5
+EDGE Javier Camuñas | Alejandro Martinuccio | 2 | 12 | 5
+EDGE Gonzalo Castellani | Joselu Moreno | 1 | 2 | 5
+EDGE Gonzalo Castellani | Alejandro Martinuccio | 1 | 2 | 5
+EDGE Joselu Moreno | Mubarak Wakaso | 1 | 5 | 2

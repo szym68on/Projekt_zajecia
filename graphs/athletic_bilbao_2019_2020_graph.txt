@@ -1,0 +1,284 @@
+# Graph for Java/GraphStream
+# Nodes: 26
+# Edges: 278
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Iago Herrerín | Iñigo Martínez | 8 | 8 | 41
+EDGE Iago Herrerín | Unai Núñez | 6 | 8 | 22
+EDGE Iago Herrerín | Mikel Balenziaga | 3 | 8 | 8
+EDGE Iago Herrerín | Ander Capa | 6 | 8 | 37
+EDGE Iago Herrerín | Mikel Vesga | 4 | 8 | 18
+EDGE Iago Herrerín | Beñat Etxebarria | 4 | 8 | 6
+EDGE Iago Herrerín | Iñigo Lekue | 4 | 8 | 9
+EDGE Iago Herrerín | Raúl García | 7 | 8 | 41
+EDGE Iago Herrerín | Iñigo Córdoba | 3 | 8 | 22
+EDGE Iago Herrerín | Iñaki Williams | 6 | 8 | 41
+EDGE Iago Herrerín | Yeray Álvarez | 4 | 8 | 38
+EDGE Iago Herrerín | Yuri Berchiche | 5 | 8 | 38
+EDGE Iago Herrerín | Dani García | 6 | 8 | 38
+EDGE Iago Herrerín | Iker Muniain | 3 | 8 | 31
+EDGE Iago Herrerín | Asier Villalibre | 4 | 8 | 7
+EDGE Iago Herrerín | Gaizka Larrazabal | 2 | 8 | 3
+EDGE Iago Herrerín | Unai López | 2 | 8 | 25
+EDGE Iago Herrerín | Ibai Gómez | 3 | 8 | 8
+EDGE Iñigo Martínez | Unai Núñez | 17 | 41 | 22
+EDGE Iñigo Martínez | Mikel Balenziaga | 6 | 41 | 8
+EDGE Iñigo Martínez | Ander Capa | 34 | 41 | 37
+EDGE Iñigo Martínez | Mikel Vesga | 16 | 41 | 18
+EDGE Iñigo Martínez | Beñat Etxebarria | 4 | 41 | 6
+EDGE Iñigo Martínez | Iñigo Lekue | 7 | 41 | 9
+EDGE Iñigo Martínez | Raúl García | 38 | 41 | 41
+EDGE Iñigo Martínez | Iñigo Córdoba | 21 | 41 | 22
+EDGE Iñigo Martínez | Iñaki Williams | 37 | 41 | 41
+EDGE Iñigo Martínez | Unai Simón | 33 | 41 | 38
+EDGE Iñigo Martínez | Yeray Álvarez | 33 | 41 | 38
+EDGE Iñigo Martínez | Yuri Berchiche | 35 | 41 | 38
+EDGE Iñigo Martínez | Mikel San José | 3 | 41 | 4
+EDGE Iñigo Martínez | Dani García | 36 | 41 | 38
+EDGE Iñigo Martínez | Unai López | 22 | 41 | 25
+EDGE Iñigo Martínez | Iker Muniain | 28 | 41 | 31
+EDGE Iñigo Martínez | Ibai Gómez | 7 | 41 | 8
+EDGE Iñigo Martínez | Asier Villalibre | 6 | 41 | 7
+EDGE Iñigo Martínez | Oihan Sancet | 7 | 41 | 9
+EDGE Iñigo Martínez | Gaizka Larrazabal | 3 | 41 | 3
+EDGE Iñigo Martínez | Óscar de Marcos | 3 | 41 | 7
+EDGE Iñigo Martínez | Kenan Kodro | 3 | 41 | 4
+EDGE Iñigo Martínez | Unai Vencedor | 2 | 41 | 2
+EDGE Iñigo Martínez | Álex Berenguer | 1 | 41 | 1
+EDGE Unai Núñez | Mikel Balenziaga | 6 | 22 | 8
+EDGE Unai Núñez | Ander Capa | 16 | 22 | 37
+EDGE Unai Núñez | Mikel Vesga | 15 | 22 | 18
+EDGE Unai Núñez | Beñat Etxebarria | 5 | 22 | 6
+EDGE Unai Núñez | Iñigo Lekue | 7 | 22 | 9
+EDGE Unai Núñez | Raúl García | 18 | 22 | 41
+EDGE Unai Núñez | Iñigo Córdoba | 7 | 22 | 22
+EDGE Unai Núñez | Iñaki Williams | 19 | 22 | 41
+EDGE Unai Núñez | Unai Simón | 16 | 22 | 38
+EDGE Unai Núñez | Yeray Álvarez | 14 | 22 | 38
+EDGE Unai Núñez | Óscar de Marcos | 5 | 22 | 7
+EDGE Unai Núñez | Unai López | 7 | 22 | 25
+EDGE Unai Núñez | Oihan Sancet | 4 | 22 | 9
+EDGE Unai Núñez | Yuri Berchiche | 16 | 22 | 38
+EDGE Unai Núñez | Dani García | 14 | 22 | 38
+EDGE Unai Núñez | Iker Muniain | 13 | 22 | 31
+EDGE Unai Núñez | Asier Villalibre | 5 | 22 | 7
+EDGE Unai Núñez | Kenan Kodro | 3 | 22 | 4
+EDGE Unai Núñez | Gaizka Larrazabal | 2 | 22 | 3
+EDGE Unai Núñez | Mikel San José | 2 | 22 | 4
+EDGE Unai Núñez | Ibai Gómez | 2 | 22 | 8
+EDGE Unai Núñez | Unai Vencedor | 1 | 22 | 2
+EDGE Mikel Balenziaga | Ander Capa | 5 | 8 | 37
+EDGE Mikel Balenziaga | Mikel Vesga | 6 | 8 | 18
+EDGE Mikel Balenziaga | Beñat Etxebarria | 3 | 8 | 6
+EDGE Mikel Balenziaga | Iñigo Lekue | 5 | 8 | 9
+EDGE Mikel Balenziaga | Raúl García | 6 | 8 | 41
+EDGE Mikel Balenziaga | Iñigo Córdoba | 4 | 8 | 22
+EDGE Mikel Balenziaga | Iñaki Williams | 5 | 8 | 41
+EDGE Mikel Balenziaga | Unai Simón | 5 | 8 | 38
+EDGE Mikel Balenziaga | Yeray Álvarez | 4 | 8 | 38
+EDGE Mikel Balenziaga | Óscar de Marcos | 3 | 8 | 7
+EDGE Mikel Balenziaga | Unai López | 3 | 8 | 25
+EDGE Mikel Balenziaga | Oihan Sancet | 2 | 8 | 9
+EDGE Mikel Balenziaga | Dani García | 3 | 8 | 38
+EDGE Mikel Balenziaga | Asier Villalibre | 3 | 8 | 7
+EDGE Mikel Balenziaga | Iker Muniain | 3 | 8 | 31
+EDGE Mikel Balenziaga | Mikel San José | 1 | 8 | 4
+EDGE Mikel Balenziaga | Ibai Gómez | 2 | 8 | 8
+EDGE Mikel Balenziaga | Kenan Kodro | 1 | 8 | 4
+EDGE Mikel Balenziaga | Gaizka Larrazabal | 1 | 8 | 3
+EDGE Ander Capa | Mikel Vesga | 13 | 37 | 18
+EDGE Ander Capa | Beñat Etxebarria | 5 | 37 | 6
+EDGE Ander Capa | Iñigo Lekue | 3 | 37 | 9
+EDGE Ander Capa | Raúl García | 33 | 37 | 41
+EDGE Ander Capa | Iñigo Córdoba | 20 | 37 | 22
+EDGE Ander Capa | Iñaki Williams | 33 | 37 | 41
+EDGE Ander Capa | Unai Simón | 31 | 37 | 38
+EDGE Ander Capa | Yeray Álvarez | 31 | 37 | 38
+EDGE Ander Capa | Yuri Berchiche | 32 | 37 | 38
+EDGE Ander Capa | Mikel San José | 4 | 37 | 4
+EDGE Ander Capa | Dani García | 33 | 37 | 38
+EDGE Ander Capa | Unai López | 19 | 37 | 25
+EDGE Ander Capa | Iker Muniain | 26 | 37 | 31
+EDGE Ander Capa | Ibai Gómez | 7 | 37 | 8
+EDGE Ander Capa | Asier Villalibre | 5 | 37 | 7
+EDGE Ander Capa | Oihan Sancet | 5 | 37 | 9
+EDGE Ander Capa | Gaizka Larrazabal | 2 | 37 | 3
+EDGE Ander Capa | Kenan Kodro | 3 | 37 | 4
+EDGE Ander Capa | Óscar de Marcos | 3 | 37 | 7
+EDGE Ander Capa | Unai Vencedor | 1 | 37 | 2
+EDGE Mikel Vesga | Beñat Etxebarria | 2 | 18 | 6
+EDGE Mikel Vesga | Iñigo Lekue | 5 | 18 | 9
+EDGE Mikel Vesga | Raúl García | 15 | 18 | 41
+EDGE Mikel Vesga | Iñigo Córdoba | 6 | 18 | 22
+EDGE Mikel Vesga | Iñaki Williams | 14 | 18 | 41
+EDGE Mikel Vesga | Unai Simón | 14 | 18 | 38
+EDGE Mikel Vesga | Yeray Álvarez | 13 | 18 | 38
+EDGE Mikel Vesga | Óscar de Marcos | 4 | 18 | 7
+EDGE Mikel Vesga | Unai López | 3 | 18 | 25
+EDGE Mikel Vesga | Oihan Sancet | 4 | 18 | 9
+EDGE Mikel Vesga | Yuri Berchiche | 12 | 18 | 38
+EDGE Mikel Vesga | Dani García | 11 | 18 | 38
+EDGE Mikel Vesga | Iker Muniain | 11 | 18 | 31
+EDGE Mikel Vesga | Asier Villalibre | 4 | 18 | 7
+EDGE Mikel Vesga | Gaizka Larrazabal | 2 | 18 | 3
+EDGE Mikel Vesga | Ibai Gómez | 2 | 18 | 8
+EDGE Mikel Vesga | Kenan Kodro | 2 | 18 | 4
+EDGE Mikel Vesga | Mikel San José | 1 | 18 | 4
+EDGE Mikel Vesga | Unai Vencedor | 1 | 18 | 2
+EDGE Beñat Etxebarria | Iñigo Lekue | 3 | 6 | 9
+EDGE Beñat Etxebarria | Raúl García | 5 | 6 | 41
+EDGE Beñat Etxebarria | Iñigo Córdoba | 2 | 6 | 22
+EDGE Beñat Etxebarria | Iñaki Williams | 4 | 6 | 41
+EDGE Beñat Etxebarria | Yuri Berchiche | 3 | 6 | 38
+EDGE Beñat Etxebarria | Dani García | 3 | 6 | 38
+EDGE Beñat Etxebarria | Gaizka Larrazabal | 2 | 6 | 3
+EDGE Beñat Etxebarria | Unai Simón | 2 | 6 | 38
+EDGE Beñat Etxebarria | Yeray Álvarez | 3 | 6 | 38
+EDGE Beñat Etxebarria | Óscar de Marcos | 1 | 6 | 7
+EDGE Beñat Etxebarria | Iker Muniain | 1 | 6 | 31
+EDGE Beñat Etxebarria | Mikel San José | 1 | 6 | 4
+EDGE Beñat Etxebarria | Ibai Gómez | 3 | 6 | 8
+EDGE Beñat Etxebarria | Asier Villalibre | 3 | 6 | 7
+EDGE Beñat Etxebarria | Kenan Kodro | 1 | 6 | 4
+EDGE Iñigo Lekue | Raúl García | 7 | 9 | 41
+EDGE Iñigo Lekue | Iñigo Córdoba | 4 | 9 | 22
+EDGE Iñigo Lekue | Iñaki Williams | 6 | 9 | 41
+EDGE Iñigo Lekue | Unai Simón | 5 | 9 | 38
+EDGE Iñigo Lekue | Yeray Álvarez | 6 | 9 | 38
+EDGE Iñigo Lekue | Óscar de Marcos | 1 | 9 | 7
+EDGE Iñigo Lekue | Unai López | 4 | 9 | 25
+EDGE Iñigo Lekue | Oihan Sancet | 2 | 9 | 9
+EDGE Iñigo Lekue | Dani García | 5 | 9 | 38
+EDGE Iñigo Lekue | Asier Villalibre | 4 | 9 | 7
+EDGE Iñigo Lekue | Yuri Berchiche | 4 | 9 | 38
+EDGE Iñigo Lekue | Iker Muniain | 2 | 9 | 31
+EDGE Iñigo Lekue | Kenan Kodro | 2 | 9 | 4
+EDGE Iñigo Lekue | Mikel San José | 1 | 9 | 4
+EDGE Iñigo Lekue | Ibai Gómez | 2 | 9 | 8
+EDGE Iñigo Lekue | Gaizka Larrazabal | 1 | 9 | 3
+EDGE Raúl García | Iñigo Córdoba | 19 | 41 | 22
+EDGE Raúl García | Iñaki Williams | 37 | 41 | 41
+EDGE Raúl García | Unai Simón | 34 | 41 | 38
+EDGE Raúl García | Yeray Álvarez | 34 | 41 | 38
+EDGE Raúl García | Yuri Berchiche | 35 | 41 | 38
+EDGE Raúl García | Mikel San José | 3 | 41 | 4
+EDGE Raúl García | Dani García | 35 | 41 | 38
+EDGE Raúl García | Unai López | 23 | 41 | 25
+EDGE Raúl García | Iker Muniain | 29 | 41 | 31
+EDGE Raúl García | Ibai Gómez | 7 | 41 | 8
+EDGE Raúl García | Oihan Sancet | 6 | 41 | 9
+EDGE Raúl García | Asier Villalibre | 5 | 41 | 7
+EDGE Raúl García | Gaizka Larrazabal | 3 | 41 | 3
+EDGE Raúl García | Óscar de Marcos | 6 | 41 | 7
+EDGE Raúl García | Kenan Kodro | 2 | 41 | 4
+EDGE Raúl García | Unai Vencedor | 2 | 41 | 2
+EDGE Raúl García | Álex Berenguer | 1 | 41 | 1
+EDGE Iñigo Córdoba | Iñaki Williams | 19 | 22 | 41
+EDGE Iñigo Córdoba | Unai Simón | 19 | 22 | 38
+EDGE Iñigo Córdoba | Yeray Álvarez | 16 | 22 | 38
+EDGE Iñigo Córdoba | Óscar de Marcos | 1 | 22 | 7
+EDGE Iñigo Córdoba | Unai López | 16 | 22 | 25
+EDGE Iñigo Córdoba | Oihan Sancet | 6 | 22 | 9
+EDGE Iñigo Córdoba | Yuri Berchiche | 18 | 22 | 38
+EDGE Iñigo Córdoba | Mikel San José | 1 | 22 | 4
+EDGE Iñigo Córdoba | Dani García | 20 | 22 | 38
+EDGE Iñigo Córdoba | Iker Muniain | 13 | 22 | 31
+EDGE Iñigo Córdoba | Asier Villalibre | 1 | 22 | 7
+EDGE Iñigo Córdoba | Gaizka Larrazabal | 2 | 22 | 3
+EDGE Iñigo Córdoba | Ibai Gómez | 1 | 22 | 8
+EDGE Iñigo Córdoba | Kenan Kodro | 1 | 22 | 4
+EDGE Iñaki Williams | Unai Simón | 35 | 41 | 38
+EDGE Iñaki Williams | Yeray Álvarez | 35 | 41 | 38
+EDGE Iñaki Williams | Óscar de Marcos | 7 | 41 | 7
+EDGE Iñaki Williams | Unai López | 25 | 41 | 25
+EDGE Iñaki Williams | Oihan Sancet | 9 | 41 | 9
+EDGE Iñaki Williams | Yuri Berchiche | 36 | 41 | 38
+EDGE Iñaki Williams | Mikel San José | 3 | 41 | 4
+EDGE Iñaki Williams | Dani García | 35 | 41 | 38
+EDGE Iñaki Williams | Iker Muniain | 29 | 41 | 31
+EDGE Iñaki Williams | Ibai Gómez | 5 | 41 | 8
+EDGE Iñaki Williams | Asier Villalibre | 4 | 41 | 7
+EDGE Iñaki Williams | Kenan Kodro | 3 | 41 | 4
+EDGE Iñaki Williams | Gaizka Larrazabal | 1 | 41 | 3
+EDGE Iñaki Williams | Unai Vencedor | 2 | 41 | 2
+EDGE Iñaki Williams | Álex Berenguer | 1 | 41 | 1
+EDGE Unai Simón | Yeray Álvarez | 34 | 38 | 38
+EDGE Unai Simón | Óscar de Marcos | 7 | 38 | 7
+EDGE Unai Simón | Unai López | 23 | 38 | 25
+EDGE Unai Simón | Oihan Sancet | 9 | 38 | 9
+EDGE Unai Simón | Yuri Berchiche | 33 | 38 | 38
+EDGE Unai Simón | Mikel San José | 4 | 38 | 4
+EDGE Unai Simón | Dani García | 32 | 38 | 38
+EDGE Unai Simón | Iker Muniain | 28 | 38 | 31
+EDGE Unai Simón | Ibai Gómez | 5 | 38 | 8
+EDGE Unai Simón | Gaizka Larrazabal | 1 | 38 | 3
+EDGE Unai Simón | Kenan Kodro | 4 | 38 | 4
+EDGE Unai Simón | Asier Villalibre | 3 | 38 | 7
+EDGE Unai Simón | Unai Vencedor | 2 | 38 | 2
+EDGE Unai Simón | Álex Berenguer | 1 | 38 | 1
+EDGE Yeray Álvarez | Óscar de Marcos | 6 | 38 | 7
+EDGE Yeray Álvarez | Unai López | 22 | 38 | 25
+EDGE Yeray Álvarez | Oihan Sancet | 7 | 38 | 9
+EDGE Yeray Álvarez | Yuri Berchiche | 34 | 38 | 38
+EDGE Yeray Álvarez | Mikel San José | 4 | 38 | 4
+EDGE Yeray Álvarez | Dani García | 33 | 38 | 38
+EDGE Yeray Álvarez | Iker Muniain | 27 | 38 | 31
+EDGE Yeray Álvarez | Ibai Gómez | 7 | 38 | 8
+EDGE Yeray Álvarez | Asier Villalibre | 5 | 38 | 7
+EDGE Yeray Álvarez | Gaizka Larrazabal | 1 | 38 | 3
+EDGE Yeray Álvarez | Kenan Kodro | 4 | 38 | 4
+EDGE Yeray Álvarez | Unai Vencedor | 2 | 38 | 2
+EDGE Yeray Álvarez | Álex Berenguer | 1 | 38 | 1
+EDGE Óscar de Marcos | Unai López | 4 | 7 | 25
+EDGE Óscar de Marcos | Oihan Sancet | 3 | 7 | 9
+EDGE Óscar de Marcos | Iker Muniain | 6 | 7 | 31
+EDGE Óscar de Marcos | Yuri Berchiche | 4 | 7 | 38
+EDGE Óscar de Marcos | Dani García | 4 | 7 | 38
+EDGE Óscar de Marcos | Unai Vencedor | 1 | 7 | 2
+EDGE Óscar de Marcos | Álex Berenguer | 1 | 7 | 1
+EDGE Unai López | Oihan Sancet | 8 | 25 | 9
+EDGE Unai López | Yuri Berchiche | 22 | 25 | 38
+EDGE Unai López | Mikel San José | 1 | 25 | 4
+EDGE Unai López | Dani García | 22 | 25 | 38
+EDGE Unai López | Iker Muniain | 19 | 25 | 31
+EDGE Unai López | Ibai Gómez | 3 | 25 | 8
+EDGE Unai López | Asier Villalibre | 1 | 25 | 7
+EDGE Unai López | Kenan Kodro | 1 | 25 | 4
+EDGE Oihan Sancet | Yuri Berchiche | 7 | 9 | 38
+EDGE Oihan Sancet | Dani García | 6 | 9 | 38
+EDGE Oihan Sancet | Iker Muniain | 4 | 9 | 31
+EDGE Oihan Sancet | Kenan Kodro | 1 | 9 | 4
+EDGE Yuri Berchiche | Mikel San José | 3 | 38 | 4
+EDGE Yuri Berchiche | Dani García | 35 | 38 | 38
+EDGE Yuri Berchiche | Iker Muniain | 28 | 38 | 31
+EDGE Yuri Berchiche | Ibai Gómez | 6 | 38 | 8
+EDGE Yuri Berchiche | Asier Villalibre | 4 | 38 | 7
+EDGE Yuri Berchiche | Gaizka Larrazabal | 2 | 38 | 3
+EDGE Yuri Berchiche | Kenan Kodro | 3 | 38 | 4
+EDGE Yuri Berchiche | Unai Vencedor | 2 | 38 | 2
+EDGE Yuri Berchiche | Álex Berenguer | 1 | 38 | 1
+EDGE Mikel San José | Dani García | 2 | 4 | 38
+EDGE Mikel San José | Iker Muniain | 2 | 4 | 31
+EDGE Mikel San José | Ibai Gómez | 2 | 4 | 8
+EDGE Mikel San José | Asier Villalibre | 1 | 4 | 7
+EDGE Mikel San José | Kenan Kodro | 1 | 4 | 4
+EDGE Dani García | Iker Muniain | 28 | 38 | 31
+EDGE Dani García | Ibai Gómez | 6 | 38 | 8
+EDGE Dani García | Asier Villalibre | 4 | 38 | 7
+EDGE Dani García | Gaizka Larrazabal | 2 | 38 | 3
+EDGE Dani García | Kenan Kodro | 3 | 38 | 4
+EDGE Dani García | Unai Vencedor | 1 | 38 | 2
+EDGE Dani García | Álex Berenguer | 1 | 38 | 1
+EDGE Iker Muniain | Ibai Gómez | 5 | 31 | 8
+EDGE Iker Muniain | Asier Villalibre | 2 | 31 | 7
+EDGE Iker Muniain | Gaizka Larrazabal | 1 | 31 | 3
+EDGE Iker Muniain | Unai Vencedor | 1 | 31 | 2
+EDGE Iker Muniain | Álex Berenguer | 1 | 31 | 1
+EDGE Ibai Gómez | Asier Villalibre | 3 | 8 | 7
+EDGE Ibai Gómez | Kenan Kodro | 1 | 8 | 4
+EDGE Ibai Gómez | Gaizka Larrazabal | 1 | 8 | 3
+EDGE Asier Villalibre | Kenan Kodro | 1 | 7 | 4
+EDGE Asier Villalibre | Unai Vencedor | 1 | 7 | 2
+EDGE Asier Villalibre | Gaizka Larrazabal | 1 | 7 | 3
+EDGE Unai Vencedor | Álex Berenguer | 1 | 2 | 1

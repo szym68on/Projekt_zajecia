@@ -1,0 +1,187 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 4060797 | śr., 17.05.2023 | Manchester City
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Eduardo Camavinga, Daniel Carvajal, Toni Kroos, Luka Modrić, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 4041607 | wt., 18.04.2023 | Chelsea FC
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Eduardo Camavinga, Daniel Carvajal, Toni Kroos, Luka Modrić, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 4020740 | śr., 08.02.2023 | Al Ahly FC
+PLAYERS: Andriy Lunin, David Alaba, Antonio Rüdiger, Eduardo Camavinga, Nacho Fernández, Aurélien Tchouaméni, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Rodrygo
+
+MATCH: 4041600 | śr., 12.04.2023 | Chelsea FC
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Eduardo Camavinga, Daniel Carvajal, Toni Kroos, Luka Modrić, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3886454 | czw., 10.11.2022 | Cádiz CF
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Lucas Vázquez, Aurélien Tchouaméni, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Rodrygo
+
+MATCH: 3886470 | pt., 30.12.2022 | Real Valladolid CF
+PLAYERS: Thibaut Courtois, David Alaba, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Toni Kroos, Federico Valverde, Dani Ceballos, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3886623 | sob., 15.04.2023 | Cádiz CF
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Nacho Fernández, Lucas Vázquez, Aurélien Tchouaméni, Federico Valverde, Dani Ceballos, Rodrygo, Marco Asensio, Karim Benzema
+
+MATCH: 3886587 | sob., 11.03.2023 | RCD Espanyol
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Eduardo Camavinga, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Rodrygo
+
+MATCH: 4001330 | niedz., 15.01.2023 | FC Barcelona
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Eduardo Camavinga, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Karim Benzema
+
+MATCH: 3886307 | sob., 08.10.2022 | Getafe CF
+PLAYERS: Andriy Lunin, Éder Militão, Antonio Rüdiger, David Alaba, Daniel Carvajal, Aurélien Tchouaméni, Eduardo Camavinga, Luka Modrić, Vinicius Junior, Federico Valverde, Rodrygo
+
+MATCH: 3956686 | śr., 15.03.2023 | FC Liverpool
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Nacho Fernández, Daniel Carvajal, Eduardo Camavinga, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Karim Benzema
+
+MATCH: 3886298 | niedz., 11.09.2022 | RCD Mallorca
+PLAYERS: Thibaut Courtois, David Alaba, Antonio Rüdiger, Ferland Mendy, Lucas Vázquez, Toni Kroos, Federico Valverde, Dani Ceballos, Vinicius Junior, Rodrygo, Eden Hazard
+
+MATCH: 3886511 | niedz., 29.01.2023 | Real Sociedad
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Eduardo Camavinga, Nacho Fernández, Toni Kroos, Federico Valverde, Dani Ceballos, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3844552 | niedz., 04.06.2023 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Antonio Rüdiger, Daniel Carvajal, Toni Kroos, Eduardo Camavinga, Dani Ceballos, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 4022149 | sob., 11.02.2023 | Al-Hilal SFC
+PLAYERS: Andriy Lunin, David Alaba, Antonio Rüdiger, Eduardo Camavinga, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Karim Benzema
+
+MATCH: 3886554 | sob., 18.02.2023 | CA Osasuna
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, David Alaba, Nacho Fernández, Eduardo Camavinga, Luka Modrić, Dani Ceballos, Vinicius Junior, Federico Valverde, Rodrygo
+
+MATCH: 3885855 | sob., 03.09.2022 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Eduardo Camavinga, Luka Modrić, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3886525 | niedz., 05.02.2023 | RCD Mallorca
+PLAYERS: Andriy Lunin, Nacho Fernández, Antonio Rüdiger, Eduardo Camavinga, Daniel Carvajal, Aurélien Tchouaméni, Federico Valverde, Dani Ceballos, Vinicius Junior, Marco Asensio, Rodrygo
+
+MATCH: 3911830 | śr., 02.11.2022 | Celtic Glasgow
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Toni Kroos, Luka Modrić, Federico Valverde, Vinicius Junior, Marco Asensio, Rodrygo
+
+MATCH: 4017422 | śr., 05.04.2023 | FC Barcelona
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Eduardo Camavinga, Daniel Carvajal, Toni Kroos, Luka Modrić, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3911829 | śr., 14.09.2022 | RB Leipzig
+PLAYERS: Thibaut Courtois, Nacho Fernández, Antonio Rüdiger, David Alaba, Daniel Carvajal, Aurélien Tchouaméni, Eduardo Camavinga, Luka Modrić, Vinicius Junior, Federico Valverde, Rodrygo
+
+MATCH: 3886591 | niedz., 19.03.2023 | FC Barcelona
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Nacho Fernández, Daniel Carvajal, Eduardo Camavinga, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Karim Benzema
+
+MATCH: 3886323 | niedz., 16.10.2022 | FC Barcelona
+PLAYERS: Andriy Lunin, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Karim Benzema
+
+MATCH: 3886500 | niedz., 22.01.2023 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Ferland Mendy, Nacho Fernández, Eduardo Camavinga, Federico Valverde, Dani Ceballos, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3825466 | śr., 10.08.2022 | Eintracht Frankfurt
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Karim Benzema
+
+MATCH: 3886412 | pon., 07.11.2022 | Rayo Vallecano
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Luka Modrić, Federico Valverde, Vinicius Junior, Marco Asensio, Rodrygo
+
+MATCH: 3885849 | niedz., 28.08.2022 | RCD Espanyol
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, David Alaba, Lucas Vázquez, Aurélien Tchouaméni, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Karim Benzema
+
+MATCH: 3989533 | wt., 03.01.2023 | CP Cacereño
+PLAYERS: Andriy Lunin, Éder Militão, Nacho Fernández, Álvaro Odriozola, Lucas Vázquez, Aurélien Tchouaméni, Eduardo Camavinga, Dani Ceballos, Eden Hazard, Marco Asensio, Rodrygo
+
+MATCH: 3886331 | śr., 19.10.2022 | Elche CF
+PLAYERS: Andriy Lunin, Éder Militão, Antonio Rüdiger, David Alaba, Daniel Carvajal, Toni Kroos, Luka Modrić, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3997414 | czw., 19.01.2023 | Villarreal CF
+PLAYERS: Thibaut Courtois, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Éder Militão, Toni Kroos, Eduardo Camavinga, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3912632 | wt., 25.10.2022 | RB Leipzig
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Nacho Fernández, Lucas Vázquez, Aurélien Tchouaméni, Eduardo Camavinga, Toni Kroos, Vinicius Junior, Marco Asensio, Rodrygo
+
+MATCH: 3886492 | czw., 02.02.2023 | Valencia CF
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Eduardo Camavinga, Nacho Fernández, Toni Kroos, Luka Modrić, Dani Ceballos, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3886698 | śr., 24.05.2023 | Rayo Vallecano
+PLAYERS: Thibaut Courtois, David Alaba, Nacho Fernández, Antonio Rüdiger, Daniel Carvajal, Eduardo Camavinga, Toni Kroos, Luka Modrić, Rodrygo, Federico Valverde, Karim Benzema
+
+MATCH: 4060794 | wt., 09.05.2023 | Manchester City
+PLAYERS: Thibaut Courtois, David Alaba, Antonio Rüdiger, Eduardo Camavinga, Daniel Carvajal, Toni Kroos, Luka Modrić, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3911826 | wt., 06.09.2022 | Celtic Glasgow
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Karim Benzema
+
+MATCH: 3844094 | niedz., 14.08.2022 | UD Almería
+PLAYERS: Thibaut Courtois, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Lucas Vázquez, Aurélien Tchouaméni, Eduardo Camavinga, Toni Kroos, Vinicius Junior, Federico Valverde, Karim Benzema
+
+MATCH: 3886564 | sob., 25.02.2023 | Atlético Madryt
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Nacho Fernández, Daniel Carvajal, Toni Kroos, Federico Valverde, Dani Ceballos, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3886361 | sob., 22.10.2022 | Sevilla FC
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Rodrygo
+
+MATCH: 4070772 | sob., 06.05.2023 | CA Osasuna
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Eduardo Camavinga, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3911823 | wt., 11.10.2022 | Szachtar Donieck
+PLAYERS: Andriy Lunin, Nacho Fernández, Antonio Rüdiger, Ferland Mendy, Lucas Vázquez, Aurélien Tchouaméni, Toni Kroos, Federico Valverde, Eden Hazard, Rodrygo, Karim Benzema
+
+MATCH: 3998376 | śr., 11.01.2023 | Valencia CF
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Nacho Fernández, Lucas Vázquez, Toni Kroos, Eduardo Camavinga, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3844595 | sob., 20.08.2022 | Celta de Vigo
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Eduardo Camavinga, Luka Modrić, Vinicius Junior, Federico Valverde, Karim Benzema
+
+MATCH: 3886612 | sob., 08.04.2023 | Villarreal CF
+PLAYERS: Thibaut Courtois, David Alaba, Antonio Rüdiger, Nacho Fernández, Lucas Vázquez, Aurélien Tchouaméni, Dani Ceballos, Marco Asensio, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3911819 | śr., 05.10.2022 | Szachtar Donieck
+PLAYERS: Andriy Lunin, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3886689 | niedz., 21.05.2023 | Valencia CF
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Ferland Mendy, Lucas Vázquez, Aurélien Tchouaméni, Eduardo Camavinga, Dani Ceballos, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3886675 | sob., 13.05.2023 | Getafe CF
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Ferland Mendy, Lucas Vázquez, Aurélien Tchouaméni, Eduardo Camavinga, Dani Ceballos, Eden Hazard, Federico Valverde, Marco Asensio
+
+MATCH: 3886393 | niedz., 30.10.2022 | Girona FC
+PLAYERS: Thibaut Courtois, David Alaba, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Eduardo Camavinga, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Rodrygo
+
+MATCH: 3858320 | niedz., 18.09.2022 | Atlético Madryt
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Rodrygo
+
+MATCH: 3886658 | sob., 29.04.2023 | UD Almería
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Eduardo Camavinga, Lucas Vázquez, Aurélien Tchouaméni, Toni Kroos, Dani Ceballos, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 4004789 | czw., 26.01.2023 | Atlético Madryt
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Ferland Mendy, Nacho Fernández, Eduardo Camavinga, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Karim Benzema
+
+MATCH: 3886489 | sob., 07.01.2023 | Villarreal CF
+PLAYERS: Thibaut Courtois, David Alaba, Antonio Rüdiger, Ferland Mendy, Éder Militão, Aurélien Tchouaméni, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Karim Benzema
+
+MATCH: 3886537 | śr., 15.02.2023 | Elche CF
+PLAYERS: Andriy Lunin, Éder Militão, Nacho Fernández, David Alaba, Daniel Carvajal, Eduardo Camavinga, Federico Valverde, Dani Ceballos, Rodrygo, Marco Asensio, Karim Benzema
+
+MATCH: 3886635 | sob., 22.04.2023 | Celta de Vigo
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Eduardo Camavinga, Nacho Fernández, Aurélien Tchouaméni, Federico Valverde, Dani Ceballos, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 4017421 | czw., 02.03.2023 | FC Barcelona
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Nacho Fernández, Daniel Carvajal, Eduardo Camavinga, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Karim Benzema
+
+MATCH: 3886709 | sob., 27.05.2023 | Sevilla FC
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Ferland Mendy, Lucas Vázquez, Aurélien Tchouaméni, Toni Kroos, Luka Modrić, Dani Ceballos, Federico Valverde, Rodrygo
+
+MATCH: 3886646 | wt., 25.04.2023 | Girona FC
+PLAYERS: Andriy Lunin, Éder Militão, Antonio Rüdiger, Nacho Fernández, Daniel Carvajal, Toni Kroos, Luka Modrić, Federico Valverde, Vinicius Junior, Marco Asensio, Rodrygo
+
+MATCH: 3886571 | niedz., 05.03.2023 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Eduardo Camavinga, Lucas Vázquez, Aurélien Tchouaméni, Toni Kroos, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3956694 | wt., 21.02.2023 | FC Liverpool
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, David Alaba, Daniel Carvajal, Eduardo Camavinga, Luka Modrić, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3886604 | niedz., 02.04.2023 | Real Valladolid CF
+PLAYERS: Thibaut Courtois, David Alaba, Éder Militão, Eduardo Camavinga, Lucas Vázquez, Aurélien Tchouaméni, Toni Kroos, Marco Asensio, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3886292 | niedz., 02.10.2022 | CA Osasuna
+PLAYERS: Andriy Lunin, David Alaba, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Dani Ceballos, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3886669 | wt., 02.05.2023 | Real Sociedad
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Nacho Fernández, Daniel Carvajal, Aurélien Tchouaméni, Toni Kroos, Dani Ceballos, Rodrygo, Marco Asensio, Mariano Díaz
+

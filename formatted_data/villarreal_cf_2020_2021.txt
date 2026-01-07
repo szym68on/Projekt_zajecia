@@ -1,0 +1,175 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3441589 | sob., 03.10.2020 | Atlético Madryt
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Pervis Estupiñán, Mario Gaspar, Vicente Iborra, Dani Parejo, Manu Trigueros, Moi Gómez, Gerard Moreno, Paco Alcácer
+
+MATCH: 3563783 | śr., 26.05.2021 | Manchester United
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Yéremy Pino, Gerard Moreno, Carlos Bacca
+
+MATCH: 3462334 | czw., 26.11.2020 | Maccabi Tel Aviv
+PLAYERS: Gerónimo Rulli, Ramiro Funes Mori, Juan Foyth, Alfonso Pedraza, Rubén Peña, Francis Coquelin, Manu Trigueros, Álex Baena, Takefusa Kubo, Samuel Chukwueze, Carlos Bacca
+
+MATCH: 3508597 | wt., 26.01.2021 | Girona FC
+PLAYERS: Gerónimo Rulli, Pau Torres, Ramiro Funes Mori, Pervis Estupiñán, Rubén Peña, Étienne Capoue, Francis Coquelin, Manu Trigueros, Yéremy Pino, Álex Baena, Fer Niño
+
+MATCH: 3451059 | wt., 22.12.2020 | Athletic Bilbao
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Mario Gaspar, Juan Foyth, Dani Parejo, Manu Trigueros, Moi Gómez, Gerard Moreno, Fer Niño
+
+MATCH: 3538206 | czw., 08.04.2021 | GNK Dinamo Zagrzeb
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Carlos Bacca, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3462273 | czw., 22.10.2020 | Sivasspor
+PLAYERS: Gerónimo Rulli, Raúl Albiol, Juan Foyth, Jaume Costa, Rubén Peña, Francis Coquelin, Manu Trigueros, Takefusa Kubo, Álex Baena, Samuel Chukwueze, Carlos Bacca
+
+MATCH: 3451387 | sob., 03.04.2021 | Granada CF
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Mario Gaspar, Étienne Capoue, Dani Parejo, Rubén Peña, Manu Trigueros, Gerard Moreno, Carlos Bacca
+
+MATCH: 3462357 | czw., 03.12.2020 | Sivasspor
+PLAYERS: Gerónimo Rulli, Ramiro Funes Mori, Juan Foyth, Jaume Costa, Rubén Peña, Vicente Iborra, Francis Coquelin, Álex Baena, Takefusa Kubo, Samuel Chukwueze, Fer Niño
+
+MATCH: 3462285 | czw., 29.10.2020 | Qarabağ FK
+PLAYERS: Gerónimo Rulli, Pau Torres, Juan Foyth, Alfonso Pedraza, Rubén Peña, Vicente Iborra, Jaume Costa, Manu Trigueros, Takefusa Kubo, Samuel Chukwueze, Carlos Bacca
+
+MATCH: 3450972 | niedz., 25.10.2020 | Cádiz CF
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Mario Gaspar, Vicente Iborra, Francis Coquelin, Manu Trigueros, Moi Gómez, Takefusa Kubo, Paco Alcácer
+
+MATCH: 3431943 | śr., 30.09.2020 | Deportivo Alavés
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Pervis Estupiñán, Mario Gaspar, Vicente Iborra, Dani Parejo, Manu Trigueros, Moi Gómez, Gerard Moreno, Paco Alcácer
+
+MATCH: 3462322 | czw., 05.11.2020 | Maccabi Tel Aviv
+PLAYERS: Gerónimo Rulli, Ramiro Funes Mori, Raúl Albiol, Jaume Costa, Rubén Peña, Vicente Iborra, Dani Parejo, Álex Baena, Yéremy Pino, Takefusa Kubo, Carlos Bacca
+
+MATCH: 3451119 | sob., 30.01.2021 | Real Sociedad
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Rubén Peña, Étienne Capoue, Francis Coquelin, Dani Parejo, Manu Trigueros, Moi Gómez, Paco Alcácer
+
+MATCH: 3451155 | niedz., 14.02.2021 | Real Betis Balompié
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Rubén Peña, Juan Foyth, Dani Parejo, Álex Baena, Moi Gómez, Gerard Moreno, Paco Alcácer
+
+MATCH: 3553252 | czw., 06.05.2021 | FC Arsenal
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Mario Gaspar, Francis Coquelin, Dani Parejo, Manu Trigueros, Samuel Chukwueze, Gerard Moreno, Paco Alcácer
+
+MATCH: 3431926 | niedz., 27.09.2020 | FC Barcelona
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Pervis Estupiñán, Mario Gaspar, Francis Coquelin, Dani Parejo, Moi Gómez, Samuel Chukwueze, Gerard Moreno, Paco Alcácer
+
+MATCH: 3450993 | niedz., 08.11.2020 | Getafe CF
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Mario Gaspar, Vicente Iborra, Dani Parejo, Manu Trigueros, Moi Gómez, Gerard Moreno, Paco Alcácer
+
+MATCH: 3451105 | sob., 23.01.2021 | SD Huesca
+PLAYERS: Sergio Asenjo, Pau Torres, Ramiro Funes Mori, Raúl Albiol, Étienne Capoue, Dani Parejo, Manu Trigueros, Moi Gómez, Alfonso Pedraza, Rubén Peña, Carlos Bacca
+
+MATCH: 3553250 | czw., 29.04.2021 | FC Arsenal
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Samuel Chukwueze, Gerard Moreno, Paco Alcácer
+
+MATCH: 3450969 | niedz., 18.10.2020 | Valencia CF
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Mario Gaspar, Vicente Iborra, Dani Parejo, Manu Trigueros, Moi Gómez, Samuel Chukwueze, Paco Alcácer
+
+MATCH: 3451183 | niedz., 28.02.2021 | Atlético Madryt
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Moi Gómez, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3496490 | czw., 25.02.2021 | Red Bull Salzburg
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Jaume Costa, Étienne Capoue, Dani Parejo, Manu Trigueros, Alfonso Pedraza, Gerard Moreno, Paco Alcácer
+
+MATCH: 3450989 | pon., 02.11.2020 | Real Valladolid CF
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Mario Gaspar, Vicente Iborra, Manu Trigueros, Moi Gómez, Samuel Chukwueze, Gerard Moreno, Paco Alcácer
+
+MATCH: 3512438 | śr., 03.02.2021 | Levante UD
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Francis Coquelin, Dani Parejo, Manu Trigueros, Moi Gómez, Rubén Peña, Paco Alcácer
+
+MATCH: 3451461 | czw., 13.05.2021 | Real Valladolid CF
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Rubén Peña, Étienne Capoue, Dani Parejo, Manu Trigueros, Moi Gómez, Gerard Moreno, Paco Alcácer
+
+MATCH: 3451442 | niedz., 02.05.2021 | Getafe CF
+PLAYERS: Sergio Asenjo, Pau Torres, Ramiro Funes Mori, Pervis Estupiñán, Mario Gaspar, Étienne Capoue, Dani Parejo, Dani Raba, Moi Gómez, Samuel Chukwueze, Paco Alcácer
+
+MATCH: 3451069 | wt., 29.12.2020 | Sevilla FC
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Rubén Peña, Juan Foyth, Dani Parejo, Manu Trigueros, Moi Gómez, Gerard Moreno, Fer Niño
+
+MATCH: 3451099 | śr., 20.01.2021 | Granada CF
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Moi Gómez, Rubén Peña, Fer Niño
+
+MATCH: 3451207 | niedz., 14.03.2021 | SD Eibar
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Juan Foyth, Pervis Estupiñán, Jaume Costa, Étienne Capoue, Dani Parejo, Manu Trigueros, Moi Gómez, Gerard Moreno, Carlos Bacca
+
+MATCH: 3451452 | niedz., 09.05.2021 | Celta de Vigo
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Raúl Albiol, Pervis Estupiñán, Rubén Peña, Étienne Capoue, Dani Parejo, Manu Trigueros, Moi Gómez, Yéremy Pino, Fer Niño
+
+MATCH: 3451382 | niedz., 21.03.2021 | Cádiz CF
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Raúl Albiol, Pervis Estupiñán, Mario Gaspar, Juan Foyth, Dani Parejo, Manu Trigueros, Samuel Chukwueze, Gerard Moreno, Carlos Bacca
+
+MATCH: 3528464 | czw., 11.03.2021 | Dynamo Kijów
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Gerard Moreno, Samuel Chukwueze, Paco Alcácer
+
+MATCH: 3451079 | sob., 02.01.2021 | Levante UD
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Rubén Peña, Dani Parejo, Manu Trigueros, Moi Gómez, Yéremy Pino, Gerard Moreno, Fer Niño
+
+MATCH: 3451048 | sob., 19.12.2020 | CA Osasuna
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Pervis Estupiñán, Mario Gaspar, Juan Foyth, Dani Parejo, Manu Trigueros, Yéremy Pino, Gerard Moreno, Fer Niño
+
+MATCH: 3496475 | czw., 18.02.2021 | Red Bull Salzburg
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Rubén Peña, Étienne Capoue, Dani Parejo, Moi Gómez, Manu Trigueros, Gerard Moreno, Paco Alcácer
+
+MATCH: 3528472 | czw., 18.03.2021 | Dynamo Kijów
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Samuel Chukwueze, Gerard Moreno, Carlos Bacca
+
+MATCH: 3451422 | niedz., 25.04.2021 | FC Barcelona
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alberto Moreno, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Samuel Chukwueze, Gerard Moreno, Paco Alcácer
+
+MATCH: 3451402 | niedz., 11.04.2021 | CA Osasuna
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Mario Gaspar, Raúl Albiol, Juan Foyth, Dani Parejo, Rubén Peña, Jaume Costa, Moi Gómez, Yéremy Pino, Paco Alcácer
+
+MATCH: 3451480 | sob., 22.05.2021 | Real Madryt
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Mario Gaspar, Étienne Capoue, Dani Parejo, Manu Trigueros, Yéremy Pino, Gerard Moreno, Carlos Bacca
+
+MATCH: 3538210 | czw., 15.04.2021 | GNK Dinamo Zagrzeb
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Samuel Chukwueze, Gerard Moreno, Paco Alcácer
+
+MATCH: 3451029 | niedz., 06.12.2020 | Elche CF
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Pervis Estupiñán, Mario Gaspar, Vicente Iborra, Dani Parejo, Manu Trigueros, Álex Baena, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3451081 | pt., 08.01.2021 | Celta de Vigo
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Rubén Peña, Étienne Capoue, Dani Parejo, Manu Trigueros, Moi Gómez, Gerard Moreno, Fer Niño
+
+MATCH: 3451035 | niedz., 13.12.2020 | Real Betis Balompié
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Pervis Estupiñán, Mario Gaspar, Vicente Iborra, Dani Parejo, Manu Trigueros, Takefusa Kubo, Gerard Moreno, Fer Niño
+
+MATCH: 3451403 | śr., 21.04.2021 | Deportivo Alavés
+PLAYERS: Gerónimo Rulli, Ramiro Funes Mori, Raúl Albiol, Alfonso Pedraza, Mario Gaspar, Étienne Capoue, Dani Parejo, Manu Trigueros, Samuel Chukwueze, Gerard Moreno, Paco Alcácer
+
+MATCH: 3451429 | niedz., 18.04.2021 | Levante UD
+PLAYERS: Sergio Asenjo, Pau Torres, Juan Foyth, Alfonso Pedraza, Mario Gaspar, Francis Coquelin, Dani Parejo, Moi Gómez, Samuel Chukwueze, Gerard Moreno, Carlos Bacca
+
+MATCH: 3451201 | pt., 05.03.2021 | Valencia CF
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Pervis Estupiñán, Juan Foyth, Étienne Capoue, Dani Parejo, Moi Gómez, Samuel Chukwueze, Gerard Moreno, Paco Alcácer
+
+MATCH: 3451009 | sob., 21.11.2020 | Real Madryt
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Mario Gaspar, Vicente Iborra, Dani Parejo, Manu Trigueros, Moi Gómez, Gerard Moreno, Carlos Bacca
+
+MATCH: 3503938 | niedz., 17.01.2021 | CD Tenerife
+PLAYERS: Gerónimo Rulli, Ramiro Funes Mori, Juan Foyth, Pervis Estupiñán, Jaume Costa, Francis Coquelin, Manu Trigueros, Álex Baena, Yéremy Pino, Dani Raba, Carlos Bacca
+
+MATCH: 3451017 | niedz., 29.11.2020 | Real Sociedad
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Pervis Estupiñán, Mario Gaspar, Vicente Iborra, Dani Parejo, Manu Trigueros, Alfonso Pedraza, Gerard Moreno, Carlos Bacca
+
+MATCH: 3487500 | śr., 16.12.2020 | SD Leioa
+PLAYERS: Gerónimo Rulli, Juan Foyth, Soufiane Chakla, Alfonso Pedraza, Mario Gaspar, Ramiro Funes Mori, Jaume Costa, Álex Baena, Yéremy Pino, Dani Raba, Fer Niño
+
+MATCH: 3431923 | sob., 19.09.2020 | SD Eibar
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Mario Gaspar, Francis Coquelin, Dani Parejo, Moi Gómez, Samuel Chukwueze, Gerard Moreno, Paco Alcácer
+
+MATCH: 3431913 | niedz., 13.09.2020 | SD Huesca
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Rubén Peña, Francis Coquelin, Dani Parejo, Moi Gómez, Samuel Chukwueze, Gerard Moreno, Paco Alcácer
+
+MATCH: 3451131 | sob., 06.02.2021 | Elche CF
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Jaume Costa, Francis Coquelin, Dani Parejo, Manu Trigueros, Moi Gómez, Gerard Moreno, Paco Alcácer
+
+MATCH: 3451472 | niedz., 16.05.2021 | Sevilla FC
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alberto Moreno, Ramiro Funes Mori, Dani Parejo, Manu Trigueros, Yéremy Pino, Moi Gómez, Gerard Moreno, Carlos Bacca
+
+MATCH: 3498907 | wt., 05.01.2021 | Zamora CF
+PLAYERS: Gerónimo Rulli, Ramiro Funes Mori, Juan Foyth, Pervis Estupiñán, Soufiane Chakla, Étienne Capoue, Jaume Costa, Álex Baena, Yéremy Pino, Samuel Chukwueze, Carlos Bacca
+
+MATCH: 3451156 | niedz., 21.02.2021 | Athletic Bilbao
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Moi Gómez, Gerard Moreno, Paco Alcácer
+

@@ -1,0 +1,190 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2647663 | śr., 13.01.2016 | RCD Espanyol
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Javier Mascherano, Jérémy Mathieu, Dani Alves, Sergi Roberto, Ivan Rakitic, Arda Turan, Munir El Haddadi, Aleix Vidal, Lionel Messi
+
+MATCH: 2594561 | sob., 31.10.2015 | Getafe CF
+PLAYERS: Claudio Bravo, Gerard Piqué, Jérémy Mathieu, Jordi Alba, Dani Alves, Sergio Busquets, Ivan Rakitic, Sergi Roberto, Neymar, Munir El Haddadi, Luis Suárez
+
+MATCH: 2594484 | sob., 29.08.2015 | Málaga CF
+PLAYERS: Claudio Bravo, Thomas Vermaelen, Javier Mascherano, Jordi Alba, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594773 | sob., 02.04.2016 | Real Madryt
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2613602 | pt., 14.08.2015 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Marc Bartra, Adriano, Dani Alves, Javier Mascherano, Sergi Roberto, Rafinha, Pedro, Lionel Messi, Luis Suárez
+
+MATCH: 2594625 | śr., 17.02.2016 | Sporting Gijón
+PLAYERS: Claudio Bravo, Gerard Piqué, Jérémy Mathieu, Adriano, Aleix Vidal, Sergio Busquets, Ivan Rakitic, Arda Turan, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594583 | sob., 21.11.2015 | Real Madryt
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Sergi Roberto, Luis Suárez
+
+MATCH: 2594646 | sob., 02.01.2016 | RCD Espanyol
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594712 | sob., 20.02.2016 | UD Las Palmas
+PLAYERS: Claudio Bravo, Jérémy Mathieu, Javier Mascherano, Jordi Alba, Dani Alves, Sergi Roberto, Andrés Iniesta, Arda Turan, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594593 | sob., 28.11.2015 | Real Sociedad
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jérémy Mathieu, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594656 | sob., 09.01.2016 | Granada CF
+PLAYERS: Claudio Bravo, Thomas Vermaelen, Gerard Piqué, Jordi Alba, Aleix Vidal, Sergi Roberto, Ivan Rakitic, Arda Turan, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594836 | niedz., 08.05.2016 | RCD Espanyol
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2633809 | śr., 28.10.2015 | CF Villanovense
+PLAYERS: Jordi Masip, Thomas Vermaelen, Marc Bartra, Jérémy Mathieu, Douglas, Gerard Gumbau, Sergi Samper, Wilfrid Kaptoum, Adriano, Munir El Haddadi, Sandro Ramírez
+
+MATCH: 2594825 | sob., 30.04.2016 | Real Betis Balompié
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594721 | niedz., 28.02.2016 | Sevilla FC
+PLAYERS: Claudio Bravo, Gerard Piqué, Jérémy Mathieu, Jordi Alba, Aleix Vidal, Sergio Busquets, Sergi Roberto, Arda Turan, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2675299 | śr., 13.04.2016 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2618634 | śr., 09.12.2015 | Bayer 04 Leverkusen
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Marc Bartra, Jordi Alba, Adriano, Sergi Samper, Ivan Rakitic, Wilfrid Kaptoum, Munir El Haddadi, Lionel Messi, Sandro Ramírez
+
+MATCH: 2594693 | niedz., 07.02.2016 | Levante UD
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergi Roberto, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594522 | sob., 26.09.2015 | UD Las Palmas
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Marc Bartra, Adriano, Sergi Roberto, Javier Mascherano, Sergio Busquets, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2658836 | śr., 03.02.2016 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Jérémy Mathieu, Jordi Alba, Aleix Vidal, Sergio Busquets, Andrés Iniesta, Arda Turan, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2618578 | wt., 20.10.2015 | BATE Borysów
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Marc Bartra, Jordi Alba, Dani Alves, Javier Mascherano, Sergio Busquets, Sergi Roberto, Neymar, Munir El Haddadi, Luis Suárez
+
+MATCH: 2646884 | niedz., 20.12.2015 | CA River Plate
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2613603 | pon., 17.08.2015 | Athletic Bilbao
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jérémy Mathieu, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Pedro, Lionel Messi, Luis Suárez
+
+MATCH: 2618619 | wt., 24.11.2015 | AS Roma
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Gerard Piqué, Jordi Alba, Dani Alves, Sergio Busquets, Ivan Rakitic, Sergi Roberto, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594512 | śr., 23.09.2015 | Celta de Vigo
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jérémy Mathieu, Dani Alves, Sergio Busquets, Andrés Iniesta, Sergi Roberto, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2618556 | wt., 29.09.2015 | Bayer 04 Leverkusen
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jérémy Mathieu, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Sandro Ramírez, Luis Suárez
+
+MATCH: 2611042 | wt., 11.08.2015 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jérémy Mathieu, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Rafinha, Lionel Messi, Luis Suárez
+
+MATCH: 2656747 | śr., 27.01.2016 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Gerard Piqué, Jérémy Mathieu, Dani Alves, Javier Mascherano, Ivan Rakitic, Sergi Roberto, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2666000 | niedz., 22.05.2016 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594815 | sob., 23.04.2016 | Sporting Gijón
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jordi Alba, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594741 | niedz., 06.03.2016 | SD Eibar
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Ivan Rakitic, Arda Turan, Munir El Haddadi, Lionel Messi, Luis Suárez
+
+MATCH: 2594503 | niedz., 20.09.2015 | Levante UD
+PLAYERS: Marc-André ter Stegen, Marc Bartra, Javier Mascherano, Adriano, Dani Alves, Sergio Busquets, Ivan Rakitic, Neymar, Munir El Haddadi, Lionel Messi, Sandro Ramírez
+
+MATCH: 2594804 | śr., 20.04.2016 | Deportivo de La Coruña
+PLAYERS: Claudio Bravo, Marc Bartra, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594661 | niedz., 17.01.2016 | Athletic Bilbao
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jordi Alba, Aleix Vidal, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594794 | niedz., 17.04.2016 | Valencia CF
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jordi Alba, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2675295 | wt., 05.04.2016 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594702 | niedz., 14.02.2016 | Celta de Vigo
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Sergi Roberto, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2618602 | śr., 04.11.2015 | BATE Borysów
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Javier Mascherano, Adriano, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Sergi Roberto, Luis Suárez
+
+MATCH: 2594846 | sob., 14.05.2016 | Granada CF
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594541 | sob., 17.10.2015 | Rayo Vallecano
+PLAYERS: Claudio Bravo, Gerard Piqué, Jérémy Mathieu, Jordi Alba, Dani Alves, Sergio Busquets, Ivan Rakitic, Sergi Roberto, Neymar, Sandro Ramírez, Luis Suárez
+
+MATCH: 2594783 | sob., 09.04.2016 | Real Sociedad
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Sergi Roberto, Dani Alves, Sergio Busquets, Rafinha, Arda Turan, Neymar, Lionel Messi, Munir El Haddadi
+
+MATCH: 2658838 | śr., 10.02.2016 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Marc Bartra, Jérémy Mathieu, Aleix Vidal, Sergi Samper, Ivan Rakitic, Sergi Roberto, Adriano, Munir El Haddadi, Sandro Ramírez
+
+MATCH: 2594731 | czw., 03.03.2016 | Rayo Vallecano
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jérémy Mathieu, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2618544 | śr., 16.09.2015 | AS Roma
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Jérémy Mathieu, Jordi Alba, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594604 | sob., 05.12.2015 | Valencia CF
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594531 | sob., 03.10.2015 | Sevilla FC
+PLAYERS: Claudio Bravo, Gerard Piqué, Jérémy Mathieu, Jordi Alba, Sergi Roberto, Javier Mascherano, Sergio Busquets, Ivan Rakitic, Neymar, Munir El Haddadi, Luis Suárez
+
+MATCH: 2594674 | sob., 23.01.2016 | Málaga CF
+PLAYERS: Claudio Bravo, Thomas Vermaelen, Javier Mascherano, Adriano, Aleix Vidal, Sergio Busquets, Andrés Iniesta, Arda Turan, Munir El Haddadi, Lionel Messi, Luis Suárez
+
+MATCH: 2594683 | sob., 30.01.2016 | Atlético Madryt
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594752 | sob., 12.03.2016 | Getafe CF
+PLAYERS: Claudio Bravo, Gerard Piqué, Jérémy Mathieu, Jordi Alba, Aleix Vidal, Sergi Roberto, Andrés Iniesta, Arda Turan, Neymar, Munir El Haddadi, Lionel Messi
+
+MATCH: 2594493 | sob., 12.09.2015 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Thomas Vermaelen, Javier Mascherano, Jordi Alba, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Rafinha, Luis Suárez
+
+MATCH: 2645809 | wt., 23.02.2016 | FC Arsenal
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594471 | niedz., 23.08.2015 | Athletic Bilbao
+PLAYERS: Claudio Bravo, Thomas Vermaelen, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Rafinha, Lionel Messi, Luis Suárez
+
+MATCH: 2656743 | śr., 20.01.2016 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Sergi Roberto, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Arda Turan, Munir El Haddadi
+
+MATCH: 2594572 | niedz., 08.11.2015 | Villarreal CF
+PLAYERS: Claudio Bravo, Gerard Piqué, Jérémy Mathieu, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Sergi Roberto, Neymar, Munir El Haddadi, Luis Suárez
+
+MATCH: 2594762 | niedz., 20.03.2016 | Villarreal CF
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Arda Turan, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2633840 | śr., 02.12.2015 | CF Villanovense
+PLAYERS: Jordi Masip, Thomas Vermaelen, Marc Bartra, Jérémy Mathieu, Dani Alves, Javier Mascherano, Adriano, Sergi Samper, Aitor Cantalapiedra, Munir El Haddadi, Sandro Ramírez
+
+MATCH: 2594635 | śr., 30.12.2015 | Real Betis Balompié
+PLAYERS: Claudio Bravo, Thomas Vermaelen, Javier Mascherano, Jérémy Mathieu, Dani Alves, Sergio Busquets, Ivan Rakitic, Sergi Roberto, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2647652 | śr., 06.01.2016 | RCD Espanyol
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Arda Turan, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594551 | niedz., 25.10.2015 | SD Eibar
+PLAYERS: Claudio Bravo, Gerard Piqué, Marc Bartra, Jordi Alba, Dani Alves, Javier Mascherano, Sergio Busquets, Ivan Rakitic, Neymar, Sandro Ramírez, Luis Suárez
+
+MATCH: 2645721 | czw., 17.12.2015 | Guangzhou Evergrande Taobao
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Ivan Rakitic, Sergi Roberto, Andrés Iniesta, Munir El Haddadi, Luis Suárez
+
+MATCH: 2645817 | śr., 16.03.2016 | FC Arsenal
+PLAYERS: Marc-André ter Stegen, Jérémy Mathieu, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2594614 | sob., 12.12.2015 | Deportivo de La Coruña
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Sandro Ramírez, Lionel Messi, Luis Suárez
+

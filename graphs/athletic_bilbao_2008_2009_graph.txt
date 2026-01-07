@@ -1,0 +1,290 @@
+# Graph for Java/GraphStream
+# Nodes: 28
+# Edges: 284
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Gorka Iraizoz | Fernando Amorebieta | 34 | 45 | 35
+EDGE Gorka Iraizoz | Aitor Ocio | 37 | 45 | 37
+EDGE Gorka Iraizoz | Javi Martínez | 39 | 45 | 39
+EDGE Gorka Iraizoz | Koikili | 26 | 45 | 26
+EDGE Gorka Iraizoz | Andoni Iraola | 41 | 45 | 41
+EDGE Gorka Iraizoz | Pablo Orbaiz | 33 | 45 | 33
+EDGE Gorka Iraizoz | David López | 30 | 45 | 31
+EDGE Gorka Iraizoz | Fran Yeste | 27 | 45 | 27
+EDGE Gorka Iraizoz | Fernando Llorente | 43 | 45 | 43
+EDGE Gorka Iraizoz | Ion Vélez | 21 | 45 | 23
+EDGE Gorka Iraizoz | Xabi Etxeita | 6 | 45 | 8
+EDGE Gorka Iraizoz | Markel Susaeta | 28 | 45 | 29
+EDGE Gorka Iraizoz | Gaizka Toquero | 11 | 45 | 12
+EDGE Gorka Iraizoz | Ustaritz | 10 | 45 | 12
+EDGE Gorka Iraizoz | Mikel Balenziaga | 20 | 45 | 22
+EDGE Gorka Iraizoz | Igor Gabilondo | 15 | 45 | 16
+EDGE Gorka Iraizoz | Joseba Etxeberria | 6 | 45 | 7
+EDGE Gorka Iraizoz | Carlos Gurpegui | 11 | 45 | 13
+EDGE Gorka Iraizoz | Ander Iturraspe | 2 | 45 | 2
+EDGE Gorka Iraizoz | Joseba Garmendia | 5 | 45 | 6
+EDGE Gorka Iraizoz | Joseba del Olmo | 2 | 45 | 2
+EDGE Gorka Iraizoz | Javi Casas | 1 | 45 | 1
+EDGE Gorka Iraizoz | Adrien Goñi | 1 | 45 | 1
+EDGE Gorka Iraizoz | Ander Murillo | 1 | 45 | 1
+EDGE Fernando Amorebieta | Aitor Ocio | 28 | 35 | 37
+EDGE Fernando Amorebieta | Javi Martínez | 29 | 35 | 39
+EDGE Fernando Amorebieta | Koikili | 19 | 35 | 26
+EDGE Fernando Amorebieta | Andoni Iraola | 32 | 35 | 41
+EDGE Fernando Amorebieta | Pablo Orbaiz | 27 | 35 | 33
+EDGE Fernando Amorebieta | David López | 24 | 35 | 31
+EDGE Fernando Amorebieta | Fran Yeste | 21 | 35 | 27
+EDGE Fernando Amorebieta | Fernando Llorente | 33 | 35 | 43
+EDGE Fernando Amorebieta | Ion Vélez | 18 | 35 | 23
+EDGE Fernando Amorebieta | Xabi Etxeita | 3 | 35 | 8
+EDGE Fernando Amorebieta | Markel Susaeta | 21 | 35 | 29
+EDGE Fernando Amorebieta | Gaizka Toquero | 10 | 35 | 12
+EDGE Fernando Amorebieta | Igor Gabilondo | 13 | 35 | 16
+EDGE Fernando Amorebieta | Carlos Gurpegui | 8 | 35 | 13
+EDGE Fernando Amorebieta | Mikel Balenziaga | 17 | 35 | 22
+EDGE Fernando Amorebieta | Ander Iturraspe | 1 | 35 | 2
+EDGE Fernando Amorebieta | Joseba Etxeberria | 3 | 35 | 7
+EDGE Fernando Amorebieta | Armando Ribeiro | 1 | 35 | 2
+EDGE Fernando Amorebieta | Ustaritz | 2 | 35 | 12
+EDGE Fernando Amorebieta | Iñaki Muñoz | 1 | 35 | 2
+EDGE Fernando Amorebieta | Joseba Garmendia | 2 | 35 | 6
+EDGE Fernando Amorebieta | Adrien Goñi | 1 | 35 | 1
+EDGE Fernando Amorebieta | Joseba del Olmo | 1 | 35 | 2
+EDGE Fernando Amorebieta | Ander Murillo | 1 | 35 | 1
+EDGE Aitor Ocio | Javi Martínez | 33 | 37 | 39
+EDGE Aitor Ocio | Koikili | 19 | 37 | 26
+EDGE Aitor Ocio | Andoni Iraola | 35 | 37 | 41
+EDGE Aitor Ocio | Pablo Orbaiz | 26 | 37 | 33
+EDGE Aitor Ocio | David López | 25 | 37 | 31
+EDGE Aitor Ocio | Fran Yeste | 21 | 37 | 27
+EDGE Aitor Ocio | Fernando Llorente | 36 | 37 | 43
+EDGE Aitor Ocio | Ion Vélez | 19 | 37 | 23
+EDGE Aitor Ocio | Ustaritz | 7 | 37 | 12
+EDGE Aitor Ocio | Mikel Balenziaga | 17 | 37 | 22
+EDGE Aitor Ocio | Igor Gabilondo | 14 | 37 | 16
+EDGE Aitor Ocio | Joseba Etxeberria | 5 | 37 | 7
+EDGE Aitor Ocio | Carlos Gurpegui | 6 | 37 | 13
+EDGE Aitor Ocio | Ander Iturraspe | 2 | 37 | 2
+EDGE Aitor Ocio | Joseba Garmendia | 5 | 37 | 6
+EDGE Aitor Ocio | Markel Susaeta | 22 | 37 | 29
+EDGE Aitor Ocio | Gaizka Toquero | 7 | 37 | 12
+EDGE Aitor Ocio | Xabi Etxeita | 2 | 37 | 8
+EDGE Aitor Ocio | Javi Casas | 1 | 37 | 1
+EDGE Aitor Ocio | Adrien Goñi | 1 | 37 | 1
+EDGE Aitor Ocio | Joseba del Olmo | 1 | 37 | 2
+EDGE Aitor Ocio | Ander Murillo | 1 | 37 | 1
+EDGE Javi Martínez | Koikili | 24 | 39 | 26
+EDGE Javi Martínez | Andoni Iraola | 36 | 39 | 41
+EDGE Javi Martínez | Pablo Orbaiz | 28 | 39 | 33
+EDGE Javi Martínez | David López | 25 | 39 | 31
+EDGE Javi Martínez | Fran Yeste | 21 | 39 | 27
+EDGE Javi Martínez | Fernando Llorente | 38 | 39 | 43
+EDGE Javi Martínez | Ion Vélez | 20 | 39 | 23
+EDGE Javi Martínez | Ustaritz | 9 | 39 | 12
+EDGE Javi Martínez | Mikel Balenziaga | 15 | 39 | 22
+EDGE Javi Martínez | Igor Gabilondo | 11 | 39 | 16
+EDGE Javi Martínez | Joseba Etxeberria | 3 | 39 | 7
+EDGE Javi Martínez | Carlos Gurpegui | 10 | 39 | 13
+EDGE Javi Martínez | Ander Iturraspe | 2 | 39 | 2
+EDGE Javi Martínez | Joseba Garmendia | 4 | 39 | 6
+EDGE Javi Martínez | Markel Susaeta | 26 | 39 | 29
+EDGE Javi Martínez | Gaizka Toquero | 9 | 39 | 12
+EDGE Javi Martínez | Xabi Etxeita | 4 | 39 | 8
+EDGE Javi Martínez | Javi Casas | 1 | 39 | 1
+EDGE Javi Martínez | Adrien Goñi | 1 | 39 | 1
+EDGE Javi Martínez | Joseba del Olmo | 1 | 39 | 2
+EDGE Javi Martínez | Ander Murillo | 1 | 39 | 1
+EDGE Koikili | Andoni Iraola | 23 | 26 | 41
+EDGE Koikili | Pablo Orbaiz | 21 | 26 | 33
+EDGE Koikili | David López | 14 | 26 | 31
+EDGE Koikili | Fran Yeste | 15 | 26 | 27
+EDGE Koikili | Fernando Llorente | 25 | 26 | 43
+EDGE Koikili | Ion Vélez | 13 | 26 | 23
+EDGE Koikili | Xabi Etxeita | 5 | 26 | 8
+EDGE Koikili | Markel Susaeta | 17 | 26 | 29
+EDGE Koikili | Gaizka Toquero | 11 | 26 | 12
+EDGE Koikili | Carlos Gurpegui | 6 | 26 | 13
+EDGE Koikili | Ustaritz | 7 | 26 | 12
+EDGE Koikili | Ander Iturraspe | 1 | 26 | 2
+EDGE Koikili | Joseba Garmendia | 1 | 26 | 6
+EDGE Koikili | Igor Gabilondo | 7 | 26 | 16
+EDGE Koikili | Mikel Balenziaga | 2 | 26 | 22
+EDGE Koikili | Joseba del Olmo | 2 | 26 | 2
+EDGE Koikili | Joseba Etxeberria | 1 | 26 | 7
+EDGE Koikili | Adrien Goñi | 1 | 26 | 1
+EDGE Andoni Iraola | Pablo Orbaiz | 31 | 41 | 33
+EDGE Andoni Iraola | David López | 28 | 41 | 31
+EDGE Andoni Iraola | Fran Yeste | 25 | 41 | 27
+EDGE Andoni Iraola | Fernando Llorente | 40 | 41 | 43
+EDGE Andoni Iraola | Ion Vélez | 20 | 41 | 23
+EDGE Andoni Iraola | Xabi Etxeita | 4 | 41 | 8
+EDGE Andoni Iraola | Markel Susaeta | 25 | 41 | 29
+EDGE Andoni Iraola | Gaizka Toquero | 9 | 41 | 12
+EDGE Andoni Iraola | Ustaritz | 8 | 41 | 12
+EDGE Andoni Iraola | Mikel Balenziaga | 18 | 41 | 22
+EDGE Andoni Iraola | Igor Gabilondo | 14 | 41 | 16
+EDGE Andoni Iraola | Joseba Etxeberria | 5 | 41 | 7
+EDGE Andoni Iraola | Carlos Gurpegui | 8 | 41 | 13
+EDGE Andoni Iraola | Ander Iturraspe | 1 | 41 | 2
+EDGE Andoni Iraola | Joseba Garmendia | 4 | 41 | 6
+EDGE Andoni Iraola | Javi Casas | 1 | 41 | 1
+EDGE Andoni Iraola | Adrien Goñi | 1 | 41 | 1
+EDGE Andoni Iraola | Joseba del Olmo | 1 | 41 | 2
+EDGE Pablo Orbaiz | David López | 23 | 33 | 31
+EDGE Pablo Orbaiz | Fran Yeste | 21 | 33 | 27
+EDGE Pablo Orbaiz | Fernando Llorente | 32 | 33 | 43
+EDGE Pablo Orbaiz | Ion Vélez | 16 | 33 | 23
+EDGE Pablo Orbaiz | Xabi Etxeita | 4 | 33 | 8
+EDGE Pablo Orbaiz | Markel Susaeta | 16 | 33 | 29
+EDGE Pablo Orbaiz | Gaizka Toquero | 8 | 33 | 12
+EDGE Pablo Orbaiz | Ustaritz | 6 | 33 | 12
+EDGE Pablo Orbaiz | Mikel Balenziaga | 13 | 33 | 22
+EDGE Pablo Orbaiz | Igor Gabilondo | 13 | 33 | 16
+EDGE Pablo Orbaiz | Joseba Etxeberria | 4 | 33 | 7
+EDGE Pablo Orbaiz | Carlos Gurpegui | 4 | 33 | 13
+EDGE Pablo Orbaiz | Joseba Garmendia | 3 | 33 | 6
+EDGE Pablo Orbaiz | Ander Murillo | 1 | 33 | 1
+EDGE David López | Fran Yeste | 19 | 31 | 27
+EDGE David López | Fernando Llorente | 29 | 31 | 43
+EDGE David López | Ion Vélez | 14 | 31 | 23
+EDGE David López | Xabi Etxeita | 5 | 31 | 8
+EDGE David López | Markel Susaeta | 13 | 31 | 29
+EDGE David López | Gaizka Toquero | 7 | 31 | 12
+EDGE David López | Ustaritz | 7 | 31 | 12
+EDGE David López | Mikel Balenziaga | 17 | 31 | 22
+EDGE David López | Igor Gabilondo | 9 | 31 | 16
+EDGE David López | Joseba Etxeberria | 5 | 31 | 7
+EDGE David López | Carlos Gurpegui | 6 | 31 | 13
+EDGE David López | Ander Iturraspe | 1 | 31 | 2
+EDGE David López | Joseba Garmendia | 5 | 31 | 6
+EDGE David López | Armando Ribeiro | 1 | 31 | 2
+EDGE David López | Eneko Bóveda | 1 | 31 | 1
+EDGE David López | Iñaki Muñoz | 1 | 31 | 2
+EDGE David López | Ander Murillo | 1 | 31 | 1
+EDGE Fran Yeste | Fernando Llorente | 26 | 27 | 43
+EDGE Fran Yeste | Ion Vélez | 10 | 27 | 23
+EDGE Fran Yeste | Xabi Etxeita | 5 | 27 | 8
+EDGE Fran Yeste | Markel Susaeta | 14 | 27 | 29
+EDGE Fran Yeste | Gaizka Toquero | 8 | 27 | 12
+EDGE Fran Yeste | Mikel Balenziaga | 12 | 27 | 22
+EDGE Fran Yeste | Ander Iturraspe | 1 | 27 | 2
+EDGE Fran Yeste | Carlos Gurpegui | 4 | 27 | 13
+EDGE Fran Yeste | Igor Gabilondo | 6 | 27 | 16
+EDGE Fran Yeste | Joseba Etxeberria | 4 | 27 | 7
+EDGE Fran Yeste | Ustaritz | 5 | 27 | 12
+EDGE Fran Yeste | Joseba del Olmo | 1 | 27 | 2
+EDGE Fran Yeste | Javi Casas | 1 | 27 | 1
+EDGE Fran Yeste | Joseba Garmendia | 2 | 27 | 6
+EDGE Fran Yeste | Ander Murillo | 1 | 27 | 1
+EDGE Fernando Llorente | Ion Vélez | 20 | 43 | 23
+EDGE Fernando Llorente | Xabi Etxeita | 5 | 43 | 8
+EDGE Fernando Llorente | Markel Susaeta | 27 | 43 | 29
+EDGE Fernando Llorente | Gaizka Toquero | 10 | 43 | 12
+EDGE Fernando Llorente | Ustaritz | 9 | 43 | 12
+EDGE Fernando Llorente | Mikel Balenziaga | 18 | 43 | 22
+EDGE Fernando Llorente | Igor Gabilondo | 14 | 43 | 16
+EDGE Fernando Llorente | Joseba Etxeberria | 4 | 43 | 7
+EDGE Fernando Llorente | Carlos Gurpegui | 10 | 43 | 13
+EDGE Fernando Llorente | Ander Iturraspe | 2 | 43 | 2
+EDGE Fernando Llorente | Joseba Garmendia | 5 | 43 | 6
+EDGE Fernando Llorente | Javi Casas | 1 | 43 | 1
+EDGE Fernando Llorente | Adrien Goñi | 1 | 43 | 1
+EDGE Fernando Llorente | Joseba del Olmo | 1 | 43 | 2
+EDGE Fernando Llorente | Ander Murillo | 1 | 43 | 1
+EDGE Ion Vélez | Igor Gabilondo | 8 | 23 | 16
+EDGE Ion Vélez | Ustaritz | 6 | 23 | 12
+EDGE Ion Vélez | Carlos Gurpegui | 7 | 23 | 13
+EDGE Ion Vélez | Markel Susaeta | 14 | 23 | 29
+EDGE Ion Vélez | Mikel Balenziaga | 11 | 23 | 22
+EDGE Ion Vélez | Xabi Etxeita | 3 | 23 | 8
+EDGE Ion Vélez | Armando Ribeiro | 2 | 23 | 2
+EDGE Ion Vélez | Iñaki Muñoz | 2 | 23 | 2
+EDGE Ion Vélez | Gaizka Toquero | 1 | 23 | 12
+EDGE Ion Vélez | Eneko Bóveda | 1 | 23 | 1
+EDGE Ion Vélez | Joseba Garmendia | 1 | 23 | 6
+EDGE Ion Vélez | Joseba Etxeberria | 2 | 23 | 7
+EDGE Ion Vélez | Ander Murillo | 1 | 23 | 1
+EDGE Xabi Etxeita | Markel Susaeta | 6 | 8 | 29
+EDGE Xabi Etxeita | Gaizka Toquero | 5 | 8 | 12
+EDGE Xabi Etxeita | Carlos Gurpegui | 4 | 8 | 13
+EDGE Xabi Etxeita | Armando Ribeiro | 2 | 8 | 2
+EDGE Xabi Etxeita | Ustaritz | 4 | 8 | 12
+EDGE Xabi Etxeita | Mikel Balenziaga | 4 | 8 | 22
+EDGE Xabi Etxeita | Iñaki Muñoz | 2 | 8 | 2
+EDGE Xabi Etxeita | Igor Gabilondo | 1 | 8 | 16
+EDGE Xabi Etxeita | Joseba del Olmo | 1 | 8 | 2
+EDGE Xabi Etxeita | Joseba Etxeberria | 2 | 8 | 7
+EDGE Xabi Etxeita | Eneko Bóveda | 1 | 8 | 1
+EDGE Xabi Etxeita | Joseba Garmendia | 2 | 8 | 6
+EDGE Markel Susaeta | Gaizka Toquero | 8 | 29 | 12
+EDGE Markel Susaeta | Carlos Gurpegui | 12 | 29 | 13
+EDGE Markel Susaeta | Ustaritz | 7 | 29 | 12
+EDGE Markel Susaeta | Ander Iturraspe | 2 | 29 | 2
+EDGE Markel Susaeta | Joseba Garmendia | 4 | 29 | 6
+EDGE Markel Susaeta | Igor Gabilondo | 7 | 29 | 16
+EDGE Markel Susaeta | Mikel Balenziaga | 13 | 29 | 22
+EDGE Markel Susaeta | Armando Ribeiro | 1 | 29 | 2
+EDGE Markel Susaeta | Iñaki Muñoz | 1 | 29 | 2
+EDGE Markel Susaeta | Joseba del Olmo | 2 | 29 | 2
+EDGE Markel Susaeta | Joseba Etxeberria | 2 | 29 | 7
+EDGE Markel Susaeta | Javi Casas | 1 | 29 | 1
+EDGE Markel Susaeta | Adrien Goñi | 1 | 29 | 1
+EDGE Gaizka Toquero | Carlos Gurpegui | 3 | 12 | 13
+EDGE Gaizka Toquero | Armando Ribeiro | 1 | 12 | 2
+EDGE Gaizka Toquero | Ustaritz | 3 | 12 | 12
+EDGE Gaizka Toquero | Mikel Balenziaga | 2 | 12 | 22
+EDGE Gaizka Toquero | Iñaki Muñoz | 1 | 12 | 2
+EDGE Gaizka Toquero | Igor Gabilondo | 2 | 12 | 16
+EDGE Gaizka Toquero | Joseba del Olmo | 2 | 12 | 2
+EDGE Gaizka Toquero | Joseba Etxeberria | 1 | 12 | 7
+EDGE Gaizka Toquero | Adrien Goñi | 1 | 12 | 1
+EDGE Ustaritz | Mikel Balenziaga | 5 | 12 | 22
+EDGE Ustaritz | Igor Gabilondo | 4 | 12 | 16
+EDGE Ustaritz | Joseba Etxeberria | 4 | 12 | 7
+EDGE Ustaritz | Carlos Gurpegui | 6 | 12 | 13
+EDGE Ustaritz | Ander Iturraspe | 1 | 12 | 2
+EDGE Ustaritz | Joseba Garmendia | 3 | 12 | 6
+EDGE Ustaritz | Armando Ribeiro | 2 | 12 | 2
+EDGE Ustaritz | Iñaki Muñoz | 2 | 12 | 2
+EDGE Ustaritz | Joseba del Olmo | 1 | 12 | 2
+EDGE Ustaritz | Eneko Bóveda | 1 | 12 | 1
+EDGE Ustaritz | Javi Casas | 1 | 12 | 1
+EDGE Mikel Balenziaga | Igor Gabilondo | 9 | 22 | 16
+EDGE Mikel Balenziaga | Joseba Etxeberria | 6 | 22 | 7
+EDGE Mikel Balenziaga | Carlos Gurpegui | 8 | 22 | 13
+EDGE Mikel Balenziaga | Ander Iturraspe | 1 | 22 | 2
+EDGE Mikel Balenziaga | Joseba Garmendia | 5 | 22 | 6
+EDGE Mikel Balenziaga | Armando Ribeiro | 2 | 22 | 2
+EDGE Mikel Balenziaga | Iñaki Muñoz | 2 | 22 | 2
+EDGE Mikel Balenziaga | Joseba del Olmo | 1 | 22 | 2
+EDGE Mikel Balenziaga | Eneko Bóveda | 1 | 22 | 1
+EDGE Mikel Balenziaga | Ander Murillo | 1 | 22 | 1
+EDGE Igor Gabilondo | Joseba Etxeberria | 4 | 16 | 7
+EDGE Igor Gabilondo | Carlos Gurpegui | 4 | 16 | 13
+EDGE Igor Gabilondo | Ander Iturraspe | 1 | 16 | 2
+EDGE Igor Gabilondo | Joseba Garmendia | 2 | 16 | 6
+EDGE Igor Gabilondo | Armando Ribeiro | 1 | 16 | 2
+EDGE Igor Gabilondo | Iñaki Muñoz | 1 | 16 | 2
+EDGE Joseba Etxeberria | Carlos Gurpegui | 3 | 7 | 13
+EDGE Joseba Etxeberria | Joseba del Olmo | 1 | 7 | 2
+EDGE Joseba Etxeberria | Armando Ribeiro | 1 | 7 | 2
+EDGE Joseba Etxeberria | Eneko Bóveda | 1 | 7 | 1
+EDGE Joseba Etxeberria | Iñaki Muñoz | 1 | 7 | 2
+EDGE Joseba Etxeberria | Joseba Garmendia | 1 | 7 | 6
+EDGE Joseba Etxeberria | Javi Casas | 1 | 7 | 1
+EDGE Carlos Gurpegui | Ander Iturraspe | 1 | 13 | 2
+EDGE Carlos Gurpegui | Joseba Garmendia | 2 | 13 | 6
+EDGE Carlos Gurpegui | Armando Ribeiro | 2 | 13 | 2
+EDGE Carlos Gurpegui | Iñaki Muñoz | 2 | 13 | 2
+EDGE Carlos Gurpegui | Joseba del Olmo | 1 | 13 | 2
+EDGE Carlos Gurpegui | Eneko Bóveda | 1 | 13 | 1
+EDGE Carlos Gurpegui | Javi Casas | 1 | 13 | 1
+EDGE Ander Iturraspe | Joseba Garmendia | 1 | 2 | 6
+EDGE Joseba Garmendia | Armando Ribeiro | 1 | 6 | 2
+EDGE Joseba Garmendia | Eneko Bóveda | 1 | 6 | 1
+EDGE Joseba Garmendia | Iñaki Muñoz | 1 | 6 | 2
+EDGE Armando Ribeiro | Iñaki Muñoz | 2 | 2 | 2
+EDGE Armando Ribeiro | Eneko Bóveda | 1 | 2 | 1
+EDGE Iñaki Muñoz | Eneko Bóveda | 1 | 2 | 1
+EDGE Joseba del Olmo | Adrien Goñi | 1 | 2 | 1

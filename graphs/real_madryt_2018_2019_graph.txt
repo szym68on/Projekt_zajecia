@@ -1,0 +1,302 @@
+# Graph for Java/GraphStream
+# Nodes: 26
+# Edges: 296
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Keylor Navas | Sergio Ramos | 13 | 21 | 42
+EDGE Keylor Navas | Javi Sánchez | 2 | 21 | 3
+EDGE Keylor Navas | Sergio Reguilón | 8 | 21 | 21
+EDGE Keylor Navas | Álvaro Odriozola | 7 | 21 | 21
+EDGE Keylor Navas | Marcos Llorente | 5 | 21 | 14
+EDGE Keylor Navas | Dani Ceballos | 5 | 21 | 19
+EDGE Keylor Navas | Marco Asensio | 11 | 21 | 24
+EDGE Keylor Navas | Vinicius Junior | 9 | 21 | 20
+EDGE Keylor Navas | Lucas Vázquez | 10 | 21 | 29
+EDGE Keylor Navas | Karim Benzema | 19 | 21 | 52
+EDGE Keylor Navas | Raphaël Varane | 15 | 21 | 42
+EDGE Keylor Navas | Nacho Fernández | 11 | 21 | 27
+EDGE Keylor Navas | Federico Valverde | 8 | 21 | 10
+EDGE Keylor Navas | Luka Modrić | 11 | 21 | 41
+EDGE Keylor Navas | Isco | 11 | 21 | 17
+EDGE Keylor Navas | Gareth Bale | 8 | 21 | 29
+EDGE Keylor Navas | Marcelo | 13 | 21 | 32
+EDGE Keylor Navas | Casemiro | 13 | 21 | 38
+EDGE Keylor Navas | Toni Kroos | 12 | 21 | 39
+EDGE Keylor Navas | Daniel Carvajal | 14 | 21 | 35
+EDGE Keylor Navas | Brahim Díaz | 2 | 21 | 5
+EDGE Keylor Navas | Jesús Vallejo | 2 | 21 | 6
+EDGE Keylor Navas | Mariano Díaz | 1 | 21 | 4
+EDGE Sergio Ramos | Javi Sánchez | 1 | 42 | 3
+EDGE Sergio Ramos | Sergio Reguilón | 14 | 42 | 21
+EDGE Sergio Ramos | Álvaro Odriozola | 16 | 42 | 21
+EDGE Sergio Ramos | Marcos Llorente | 10 | 42 | 14
+EDGE Sergio Ramos | Dani Ceballos | 16 | 42 | 19
+EDGE Sergio Ramos | Marco Asensio | 16 | 42 | 24
+EDGE Sergio Ramos | Vinicius Junior | 14 | 42 | 20
+EDGE Sergio Ramos | Lucas Vázquez | 23 | 42 | 29
+EDGE Sergio Ramos | Karim Benzema | 41 | 42 | 52
+EDGE Sergio Ramos | Thibaut Courtois | 28 | 42 | 35
+EDGE Sergio Ramos | Nacho Fernández | 17 | 42 | 27
+EDGE Sergio Ramos | Casemiro | 28 | 42 | 38
+EDGE Sergio Ramos | Toni Kroos | 31 | 42 | 39
+EDGE Sergio Ramos | Luka Modrić | 33 | 42 | 41
+EDGE Sergio Ramos | Gareth Bale | 26 | 42 | 29
+EDGE Sergio Ramos | Raphaël Varane | 30 | 42 | 42
+EDGE Sergio Ramos | Marcelo | 24 | 42 | 32
+EDGE Sergio Ramos | Daniel Carvajal | 24 | 42 | 35
+EDGE Sergio Ramos | Isco | 10 | 42 | 17
+EDGE Sergio Ramos | Mariano Díaz | 1 | 42 | 4
+EDGE Sergio Ramos | Federico Valverde | 2 | 42 | 10
+EDGE Sergio Ramos | Luca Zidane | 1 | 42 | 1
+EDGE Sergio Ramos | Brahim Díaz | 1 | 42 | 5
+EDGE Javi Sánchez | Sergio Reguilón | 1 | 3 | 21
+EDGE Javi Sánchez | Álvaro Odriozola | 3 | 3 | 21
+EDGE Javi Sánchez | Marcos Llorente | 3 | 3 | 14
+EDGE Javi Sánchez | Dani Ceballos | 1 | 3 | 19
+EDGE Javi Sánchez | Marco Asensio | 3 | 3 | 24
+EDGE Javi Sánchez | Vinicius Junior | 3 | 3 | 20
+EDGE Javi Sánchez | Lucas Vázquez | 1 | 3 | 29
+EDGE Javi Sánchez | Karim Benzema | 2 | 3 | 52
+EDGE Javi Sánchez | Thibaut Courtois | 1 | 3 | 35
+EDGE Javi Sánchez | Jesús Vallejo | 2 | 3 | 6
+EDGE Javi Sánchez | Marcelo | 1 | 3 | 32
+EDGE Javi Sánchez | Federico Valverde | 2 | 3 | 10
+EDGE Javi Sánchez | Isco | 2 | 3 | 17
+EDGE Javi Sánchez | Daniel Carvajal | 1 | 3 | 35
+EDGE Javi Sánchez | Mariano Díaz | 1 | 3 | 4
+EDGE Sergio Reguilón | Álvaro Odriozola | 9 | 21 | 21
+EDGE Sergio Reguilón | Marcos Llorente | 2 | 21 | 14
+EDGE Sergio Reguilón | Dani Ceballos | 8 | 21 | 19
+EDGE Sergio Reguilón | Marco Asensio | 5 | 21 | 24
+EDGE Sergio Reguilón | Vinicius Junior | 13 | 21 | 20
+EDGE Sergio Reguilón | Lucas Vázquez | 13 | 21 | 29
+EDGE Sergio Reguilón | Karim Benzema | 20 | 21 | 52
+EDGE Sergio Reguilón | Thibaut Courtois | 13 | 21 | 35
+EDGE Sergio Reguilón | Nacho Fernández | 14 | 21 | 27
+EDGE Sergio Reguilón | Casemiro | 18 | 21 | 38
+EDGE Sergio Reguilón | Toni Kroos | 12 | 21 | 39
+EDGE Sergio Reguilón | Luka Modrić | 15 | 21 | 41
+EDGE Sergio Reguilón | Gareth Bale | 9 | 21 | 29
+EDGE Sergio Reguilón | Raphaël Varane | 14 | 21 | 42
+EDGE Sergio Reguilón | Federico Valverde | 5 | 21 | 10
+EDGE Sergio Reguilón | Isco | 3 | 21 | 17
+EDGE Sergio Reguilón | Daniel Carvajal | 12 | 21 | 35
+EDGE Sergio Reguilón | Brahim Díaz | 1 | 21 | 5
+EDGE Sergio Reguilón | Marcelo | 1 | 21 | 32
+EDGE Álvaro Odriozola | Marcos Llorente | 5 | 21 | 14
+EDGE Álvaro Odriozola | Dani Ceballos | 12 | 21 | 19
+EDGE Álvaro Odriozola | Marco Asensio | 12 | 21 | 24
+EDGE Álvaro Odriozola | Vinicius Junior | 7 | 21 | 20
+EDGE Álvaro Odriozola | Lucas Vázquez | 10 | 21 | 29
+EDGE Álvaro Odriozola | Karim Benzema | 18 | 21 | 52
+EDGE Álvaro Odriozola | Thibaut Courtois | 13 | 21 | 35
+EDGE Álvaro Odriozola | Nacho Fernández | 12 | 21 | 27
+EDGE Álvaro Odriozola | Casemiro | 13 | 21 | 38
+EDGE Álvaro Odriozola | Toni Kroos | 9 | 21 | 39
+EDGE Álvaro Odriozola | Luka Modrić | 13 | 21 | 41
+EDGE Álvaro Odriozola | Gareth Bale | 10 | 21 | 29
+EDGE Álvaro Odriozola | Raphaël Varane | 11 | 21 | 42
+EDGE Álvaro Odriozola | Marcelo | 9 | 21 | 32
+EDGE Álvaro Odriozola | Isco | 8 | 21 | 17
+EDGE Álvaro Odriozola | Mariano Díaz | 2 | 21 | 4
+EDGE Álvaro Odriozola | Federico Valverde | 5 | 21 | 10
+EDGE Álvaro Odriozola | Jesús Vallejo | 2 | 21 | 6
+EDGE Álvaro Odriozola | Daniel Carvajal | 2 | 21 | 35
+EDGE Álvaro Odriozola | Luca Zidane | 1 | 21 | 1
+EDGE Álvaro Odriozola | Brahim Díaz | 1 | 21 | 5
+EDGE Marcos Llorente | Dani Ceballos | 6 | 14 | 19
+EDGE Marcos Llorente | Marco Asensio | 4 | 14 | 24
+EDGE Marcos Llorente | Vinicius Junior | 6 | 14 | 20
+EDGE Marcos Llorente | Lucas Vázquez | 9 | 14 | 29
+EDGE Marcos Llorente | Karim Benzema | 12 | 14 | 52
+EDGE Marcos Llorente | Raphaël Varane | 10 | 14 | 42
+EDGE Marcos Llorente | Marcelo | 10 | 14 | 32
+EDGE Marcos Llorente | Daniel Carvajal | 11 | 14 | 35
+EDGE Marcos Llorente | Toni Kroos | 7 | 14 | 39
+EDGE Marcos Llorente | Luka Modrić | 9 | 14 | 41
+EDGE Marcos Llorente | Thibaut Courtois | 8 | 14 | 35
+EDGE Marcos Llorente | Jesús Vallejo | 3 | 14 | 6
+EDGE Marcos Llorente | Gareth Bale | 7 | 14 | 29
+EDGE Marcos Llorente | Mariano Díaz | 2 | 14 | 4
+EDGE Marcos Llorente | Federico Valverde | 3 | 14 | 10
+EDGE Marcos Llorente | Isco | 3 | 14 | 17
+EDGE Marcos Llorente | Nacho Fernández | 2 | 14 | 27
+EDGE Marcos Llorente | Brahim Díaz | 2 | 14 | 5
+EDGE Marcos Llorente | Luca Zidane | 1 | 14 | 1
+EDGE Dani Ceballos | Marco Asensio | 8 | 19 | 24
+EDGE Dani Ceballos | Vinicius Junior | 6 | 19 | 20
+EDGE Dani Ceballos | Lucas Vázquez | 10 | 19 | 29
+EDGE Dani Ceballos | Karim Benzema | 18 | 19 | 52
+EDGE Dani Ceballos | Thibaut Courtois | 13 | 19 | 35
+EDGE Dani Ceballos | Raphaël Varane | 12 | 19 | 42
+EDGE Dani Ceballos | Marcelo | 8 | 19 | 32
+EDGE Dani Ceballos | Casemiro | 10 | 19 | 38
+EDGE Dani Ceballos | Toni Kroos | 10 | 19 | 39
+EDGE Dani Ceballos | Nacho Fernández | 10 | 19 | 27
+EDGE Dani Ceballos | Luka Modrić | 11 | 19 | 41
+EDGE Dani Ceballos | Isco | 3 | 19 | 17
+EDGE Dani Ceballos | Daniel Carvajal | 8 | 19 | 35
+EDGE Dani Ceballos | Gareth Bale | 10 | 19 | 29
+EDGE Dani Ceballos | Jesús Vallejo | 1 | 19 | 6
+EDGE Dani Ceballos | Mariano Díaz | 1 | 19 | 4
+EDGE Dani Ceballos | Federico Valverde | 1 | 19 | 10
+EDGE Dani Ceballos | Luca Zidane | 1 | 19 | 1
+EDGE Dani Ceballos | Brahim Díaz | 1 | 19 | 5
+EDGE Marco Asensio | Vinicius Junior | 3 | 24 | 20
+EDGE Marco Asensio | Lucas Vázquez | 7 | 24 | 29
+EDGE Marco Asensio | Karim Benzema | 22 | 24 | 52
+EDGE Marco Asensio | Thibaut Courtois | 13 | 24 | 35
+EDGE Marco Asensio | Nacho Fernández | 11 | 24 | 27
+EDGE Marco Asensio | Casemiro | 15 | 24 | 38
+EDGE Marco Asensio | Toni Kroos | 17 | 24 | 39
+EDGE Marco Asensio | Luka Modrić | 15 | 24 | 41
+EDGE Marco Asensio | Gareth Bale | 11 | 24 | 29
+EDGE Marco Asensio | Raphaël Varane | 17 | 24 | 42
+EDGE Marco Asensio | Marcelo | 16 | 24 | 32
+EDGE Marco Asensio | Isco | 11 | 24 | 17
+EDGE Marco Asensio | Mariano Díaz | 2 | 24 | 4
+EDGE Marco Asensio | Daniel Carvajal | 12 | 24 | 35
+EDGE Marco Asensio | Federico Valverde | 4 | 24 | 10
+EDGE Marco Asensio | Jesús Vallejo | 4 | 24 | 6
+EDGE Marco Asensio | Brahim Díaz | 1 | 24 | 5
+EDGE Vinicius Junior | Lucas Vázquez | 13 | 20 | 29
+EDGE Vinicius Junior | Karim Benzema | 18 | 20 | 52
+EDGE Vinicius Junior | Thibaut Courtois | 11 | 20 | 35
+EDGE Vinicius Junior | Raphaël Varane | 13 | 20 | 42
+EDGE Vinicius Junior | Marcelo | 7 | 20 | 32
+EDGE Vinicius Junior | Daniel Carvajal | 14 | 20 | 35
+EDGE Vinicius Junior | Casemiro | 14 | 20 | 38
+EDGE Vinicius Junior | Toni Kroos | 10 | 20 | 39
+EDGE Vinicius Junior | Luka Modrić | 14 | 20 | 41
+EDGE Vinicius Junior | Nacho Fernández | 9 | 20 | 27
+EDGE Vinicius Junior | Federico Valverde | 6 | 20 | 10
+EDGE Vinicius Junior | Gareth Bale | 3 | 20 | 29
+EDGE Vinicius Junior | Jesús Vallejo | 2 | 20 | 6
+EDGE Vinicius Junior | Isco | 3 | 20 | 17
+EDGE Vinicius Junior | Mariano Díaz | 1 | 20 | 4
+EDGE Vinicius Junior | Brahim Díaz | 1 | 20 | 5
+EDGE Lucas Vázquez | Karim Benzema | 26 | 29 | 52
+EDGE Lucas Vázquez | Thibaut Courtois | 19 | 29 | 35
+EDGE Lucas Vázquez | Raphaël Varane | 23 | 29 | 42
+EDGE Lucas Vázquez | Marcelo | 16 | 29 | 32
+EDGE Lucas Vázquez | Daniel Carvajal | 19 | 29 | 35
+EDGE Lucas Vázquez | Casemiro | 20 | 29 | 38
+EDGE Lucas Vázquez | Toni Kroos | 21 | 29 | 39
+EDGE Lucas Vázquez | Luka Modrić | 21 | 29 | 41
+EDGE Lucas Vázquez | Isco | 3 | 29 | 17
+EDGE Lucas Vázquez | Mariano Díaz | 2 | 29 | 4
+EDGE Lucas Vázquez | Nacho Fernández | 9 | 29 | 27
+EDGE Lucas Vázquez | Gareth Bale | 9 | 29 | 29
+EDGE Lucas Vázquez | Jesús Vallejo | 2 | 29 | 6
+EDGE Lucas Vázquez | Federico Valverde | 3 | 29 | 10
+EDGE Lucas Vázquez | Brahim Díaz | 1 | 29 | 5
+EDGE Karim Benzema | Thibaut Courtois | 32 | 52 | 35
+EDGE Karim Benzema | Nacho Fernández | 26 | 52 | 27
+EDGE Karim Benzema | Casemiro | 35 | 52 | 38
+EDGE Karim Benzema | Toni Kroos | 37 | 52 | 39
+EDGE Karim Benzema | Luka Modrić | 39 | 52 | 41
+EDGE Karim Benzema | Gareth Bale | 28 | 52 | 29
+EDGE Karim Benzema | Raphaël Varane | 38 | 52 | 42
+EDGE Karim Benzema | Marcelo | 28 | 52 | 32
+EDGE Karim Benzema | Daniel Carvajal | 32 | 52 | 35
+EDGE Karim Benzema | Federico Valverde | 7 | 52 | 10
+EDGE Karim Benzema | Isco | 14 | 52 | 17
+EDGE Karim Benzema | Brahim Díaz | 4 | 52 | 5
+EDGE Karim Benzema | Jesús Vallejo | 3 | 52 | 6
+EDGE Karim Benzema | Luca Zidane | 1 | 52 | 1
+EDGE Thibaut Courtois | Nacho Fernández | 15 | 35 | 27
+EDGE Thibaut Courtois | Casemiro | 25 | 35 | 38
+EDGE Thibaut Courtois | Toni Kroos | 27 | 35 | 39
+EDGE Thibaut Courtois | Luka Modrić | 30 | 35 | 41
+EDGE Thibaut Courtois | Gareth Bale | 20 | 35 | 29
+EDGE Thibaut Courtois | Raphaël Varane | 27 | 35 | 42
+EDGE Thibaut Courtois | Marcelo | 18 | 35 | 32
+EDGE Thibaut Courtois | Daniel Carvajal | 21 | 35 | 35
+EDGE Thibaut Courtois | Isco | 5 | 35 | 17
+EDGE Thibaut Courtois | Mariano Díaz | 3 | 35 | 4
+EDGE Thibaut Courtois | Jesús Vallejo | 4 | 35 | 6
+EDGE Thibaut Courtois | Federico Valverde | 2 | 35 | 10
+EDGE Thibaut Courtois | Brahim Díaz | 2 | 35 | 5
+EDGE Nacho Fernández | Casemiro | 23 | 27 | 38
+EDGE Nacho Fernández | Toni Kroos | 16 | 27 | 39
+EDGE Nacho Fernández | Luka Modrić | 18 | 27 | 41
+EDGE Nacho Fernández | Gareth Bale | 15 | 27 | 29
+EDGE Nacho Fernández | Raphaël Varane | 15 | 27 | 42
+EDGE Nacho Fernández | Daniel Carvajal | 12 | 27 | 35
+EDGE Nacho Fernández | Federico Valverde | 7 | 27 | 10
+EDGE Nacho Fernández | Isco | 11 | 27 | 17
+EDGE Nacho Fernández | Marcelo | 11 | 27 | 32
+EDGE Nacho Fernández | Brahim Díaz | 4 | 27 | 5
+EDGE Nacho Fernández | Jesús Vallejo | 1 | 27 | 6
+EDGE Nacho Fernández | Luca Zidane | 1 | 27 | 1
+EDGE Casemiro | Toni Kroos | 28 | 38 | 39
+EDGE Casemiro | Luka Modrić | 28 | 38 | 41
+EDGE Casemiro | Gareth Bale | 17 | 38 | 29
+EDGE Casemiro | Raphaël Varane | 28 | 38 | 42
+EDGE Casemiro | Marcelo | 18 | 38 | 32
+EDGE Casemiro | Daniel Carvajal | 22 | 38 | 35
+EDGE Casemiro | Isco | 11 | 38 | 17
+EDGE Casemiro | Mariano Díaz | 2 | 38 | 4
+EDGE Casemiro | Federico Valverde | 6 | 38 | 10
+EDGE Casemiro | Brahim Díaz | 3 | 38 | 5
+EDGE Casemiro | Jesús Vallejo | 3 | 38 | 6
+EDGE Toni Kroos | Luka Modrić | 30 | 39 | 41
+EDGE Toni Kroos | Gareth Bale | 23 | 39 | 29
+EDGE Toni Kroos | Raphaël Varane | 31 | 39 | 42
+EDGE Toni Kroos | Marcelo | 25 | 39 | 32
+EDGE Toni Kroos | Daniel Carvajal | 27 | 39 | 35
+EDGE Toni Kroos | Isco | 8 | 39 | 17
+EDGE Toni Kroos | Jesús Vallejo | 4 | 39 | 6
+EDGE Toni Kroos | Mariano Díaz | 2 | 39 | 4
+EDGE Toni Kroos | Federico Valverde | 1 | 39 | 10
+EDGE Toni Kroos | Brahim Díaz | 2 | 39 | 5
+EDGE Luka Modrić | Gareth Bale | 23 | 41 | 29
+EDGE Luka Modrić | Raphaël Varane | 35 | 41 | 42
+EDGE Luka Modrić | Marcelo | 22 | 41 | 32
+EDGE Luka Modrić | Daniel Carvajal | 26 | 41 | 35
+EDGE Luka Modrić | Isco | 8 | 41 | 17
+EDGE Luka Modrić | Mariano Díaz | 2 | 41 | 4
+EDGE Luka Modrić | Federico Valverde | 4 | 41 | 10
+EDGE Luka Modrić | Jesús Vallejo | 2 | 41 | 6
+EDGE Luka Modrić | Brahim Díaz | 1 | 41 | 5
+EDGE Gareth Bale | Raphaël Varane | 20 | 29 | 42
+EDGE Gareth Bale | Daniel Carvajal | 17 | 29 | 35
+EDGE Gareth Bale | Federico Valverde | 2 | 29 | 10
+EDGE Gareth Bale | Isco | 10 | 29 | 17
+EDGE Gareth Bale | Marcelo | 17 | 29 | 32
+EDGE Gareth Bale | Brahim Díaz | 2 | 29 | 5
+EDGE Gareth Bale | Jesús Vallejo | 1 | 29 | 6
+EDGE Gareth Bale | Mariano Díaz | 1 | 29 | 4
+EDGE Gareth Bale | Luca Zidane | 1 | 29 | 1
+EDGE Raphaël Varane | Marcelo | 25 | 42 | 32
+EDGE Raphaël Varane | Daniel Carvajal | 30 | 42 | 35
+EDGE Raphaël Varane | Isco | 10 | 42 | 17
+EDGE Raphaël Varane | Mariano Díaz | 3 | 42 | 4
+EDGE Raphaël Varane | Federico Valverde | 7 | 42 | 10
+EDGE Raphaël Varane | Brahim Díaz | 3 | 42 | 5
+EDGE Raphaël Varane | Jesús Vallejo | 3 | 42 | 6
+EDGE Marcelo | Daniel Carvajal | 20 | 32 | 35
+EDGE Marcelo | Isco | 13 | 32 | 17
+EDGE Marcelo | Mariano Díaz | 3 | 32 | 4
+EDGE Marcelo | Federico Valverde | 5 | 32 | 10
+EDGE Marcelo | Jesús Vallejo | 5 | 32 | 6
+EDGE Marcelo | Brahim Díaz | 4 | 32 | 5
+EDGE Marcelo | Luca Zidane | 1 | 32 | 1
+EDGE Daniel Carvajal | Isco | 8 | 35 | 17
+EDGE Daniel Carvajal | Federico Valverde | 6 | 35 | 10
+EDGE Daniel Carvajal | Brahim Díaz | 4 | 35 | 5
+EDGE Daniel Carvajal | Jesús Vallejo | 5 | 35 | 6
+EDGE Daniel Carvajal | Mariano Díaz | 3 | 35 | 4
+EDGE Isco | Mariano Díaz | 2 | 17 | 4
+EDGE Isco | Federico Valverde | 6 | 17 | 10
+EDGE Isco | Brahim Díaz | 3 | 17 | 5
+EDGE Isco | Jesús Vallejo | 3 | 17 | 6
+EDGE Isco | Luca Zidane | 1 | 17 | 1
+EDGE Mariano Díaz | Jesús Vallejo | 3 | 4 | 6
+EDGE Mariano Díaz | Federico Valverde | 2 | 4 | 10
+EDGE Mariano Díaz | Brahim Díaz | 1 | 4 | 5
+EDGE Federico Valverde | Brahim Díaz | 3 | 10 | 5
+EDGE Federico Valverde | Jesús Vallejo | 3 | 10 | 6
+EDGE Brahim Díaz | Jesús Vallejo | 2 | 5 | 6
+EDGE Brahim Díaz | Luca Zidane | 1 | 5 | 1

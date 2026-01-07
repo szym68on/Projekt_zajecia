@@ -1,0 +1,253 @@
+# Graph for Java/GraphStream
+# Nodes: 24
+# Edges: 247
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Unai Simón | Iñigo Martínez | 26 | 36 | 33
+EDGE Unai Simón | Dani Vivian | 20 | 36 | 24
+EDGE Unai Simón | Mikel Balenziaga | 21 | 36 | 25
+EDGE Unai Simón | Iñigo Lekue | 20 | 36 | 25
+EDGE Unai Simón | Unai Vencedor | 25 | 36 | 29
+EDGE Unai Simón | Dani García | 26 | 36 | 33
+EDGE Unai Simón | Álex Berenguer | 24 | 36 | 29
+EDGE Unai Simón | Oihan Sancet | 15 | 36 | 19
+EDGE Unai Simón | Iker Muniain | 32 | 36 | 40
+EDGE Unai Simón | Iñaki Williams | 30 | 36 | 37
+EDGE Unai Simón | Raúl García | 23 | 36 | 29
+EDGE Unai Simón | Yeray Álvarez | 21 | 36 | 26
+EDGE Unai Simón | Yuri Berchiche | 11 | 36 | 15
+EDGE Unai Simón | Óscar de Marcos | 19 | 36 | 23
+EDGE Unai Simón | Mikel Vesga | 16 | 36 | 22
+EDGE Unai Simón | Unai Núñez | 5 | 36 | 7
+EDGE Unai Simón | Oier Zarraga | 9 | 36 | 10
+EDGE Unai Simón | Nico Williams | 10 | 36 | 14
+EDGE Unai Simón | Asier Villalibre | 3 | 36 | 3
+EDGE Unai Simón | Nico Serrano | 3 | 36 | 4
+EDGE Unai Simón | Álex Petxarroman | 1 | 36 | 2
+EDGE Iñigo Martínez | Dani Vivian | 16 | 33 | 24
+EDGE Iñigo Martínez | Mikel Balenziaga | 18 | 33 | 25
+EDGE Iñigo Martínez | Iñigo Lekue | 19 | 33 | 25
+EDGE Iñigo Martínez | Unai Vencedor | 19 | 33 | 29
+EDGE Iñigo Martínez | Dani García | 29 | 33 | 33
+EDGE Iñigo Martínez | Álex Berenguer | 23 | 33 | 29
+EDGE Iñigo Martínez | Oihan Sancet | 11 | 33 | 19
+EDGE Iñigo Martínez | Iker Muniain | 29 | 33 | 40
+EDGE Iñigo Martínez | Iñaki Williams | 27 | 33 | 37
+EDGE Iñigo Martínez | Raúl García | 24 | 33 | 29
+EDGE Iñigo Martínez | Julen Agirrezabala | 7 | 33 | 9
+EDGE Iñigo Martínez | Yuri Berchiche | 11 | 33 | 15
+EDGE Iñigo Martínez | Óscar de Marcos | 17 | 33 | 23
+EDGE Iñigo Martínez | Mikel Vesga | 12 | 33 | 22
+EDGE Iñigo Martínez | Nico Williams | 12 | 33 | 14
+EDGE Iñigo Martínez | Yeray Álvarez | 16 | 33 | 26
+EDGE Iñigo Martínez | Álex Petxarroman | 1 | 33 | 2
+EDGE Iñigo Martínez | Peru Nolaskoain | 1 | 33 | 1
+EDGE Iñigo Martínez | Nico Serrano | 3 | 33 | 4
+EDGE Iñigo Martínez | Unai Núñez | 1 | 33 | 7
+EDGE Iñigo Martínez | Oier Zarraga | 6 | 33 | 10
+EDGE Iñigo Martínez | Asier Villalibre | 2 | 33 | 3
+EDGE Dani Vivian | Mikel Balenziaga | 14 | 24 | 25
+EDGE Dani Vivian | Iñigo Lekue | 14 | 24 | 25
+EDGE Dani Vivian | Unai Vencedor | 17 | 24 | 29
+EDGE Dani Vivian | Dani García | 15 | 24 | 33
+EDGE Dani Vivian | Álex Berenguer | 19 | 24 | 29
+EDGE Dani Vivian | Oihan Sancet | 11 | 24 | 19
+EDGE Dani Vivian | Iker Muniain | 20 | 24 | 40
+EDGE Dani Vivian | Iñaki Williams | 18 | 24 | 37
+EDGE Dani Vivian | Raúl García | 15 | 24 | 29
+EDGE Dani Vivian | Julen Agirrezabala | 4 | 24 | 9
+EDGE Dani Vivian | Yuri Berchiche | 8 | 24 | 15
+EDGE Dani Vivian | Óscar de Marcos | 10 | 24 | 23
+EDGE Dani Vivian | Mikel Vesga | 13 | 24 | 22
+EDGE Dani Vivian | Nico Williams | 5 | 24 | 14
+EDGE Dani Vivian | Yeray Álvarez | 6 | 24 | 26
+EDGE Dani Vivian | Álex Petxarroman | 2 | 24 | 2
+EDGE Dani Vivian | Peru Nolaskoain | 1 | 24 | 1
+EDGE Dani Vivian | Nico Serrano | 4 | 24 | 4
+EDGE Dani Vivian | Unai Núñez | 2 | 24 | 7
+EDGE Dani Vivian | Oier Zarraga | 4 | 24 | 10
+EDGE Dani Vivian | Asier Villalibre | 2 | 24 | 3
+EDGE Mikel Balenziaga | Iñigo Lekue | 17 | 25 | 25
+EDGE Mikel Balenziaga | Unai Vencedor | 18 | 25 | 29
+EDGE Mikel Balenziaga | Dani García | 22 | 25 | 33
+EDGE Mikel Balenziaga | Álex Berenguer | 17 | 25 | 29
+EDGE Mikel Balenziaga | Oihan Sancet | 12 | 25 | 19
+EDGE Mikel Balenziaga | Iker Muniain | 22 | 25 | 40
+EDGE Mikel Balenziaga | Iñaki Williams | 21 | 25 | 37
+EDGE Mikel Balenziaga | Raúl García | 16 | 25 | 29
+EDGE Mikel Balenziaga | Yeray Álvarez | 13 | 25 | 26
+EDGE Mikel Balenziaga | Óscar de Marcos | 8 | 25 | 23
+EDGE Mikel Balenziaga | Mikel Vesga | 6 | 25 | 22
+EDGE Mikel Balenziaga | Unai Núñez | 5 | 25 | 7
+EDGE Mikel Balenziaga | Oier Zarraga | 8 | 25 | 10
+EDGE Mikel Balenziaga | Julen Agirrezabala | 4 | 25 | 9
+EDGE Mikel Balenziaga | Nico Williams | 4 | 25 | 14
+EDGE Mikel Balenziaga | Nico Serrano | 3 | 25 | 4
+EDGE Mikel Balenziaga | Asier Villalibre | 1 | 25 | 3
+EDGE Iñigo Lekue | Unai Vencedor | 17 | 25 | 29
+EDGE Iñigo Lekue | Dani García | 20 | 25 | 33
+EDGE Iñigo Lekue | Álex Berenguer | 16 | 25 | 29
+EDGE Iñigo Lekue | Oihan Sancet | 7 | 25 | 19
+EDGE Iñigo Lekue | Iker Muniain | 20 | 25 | 40
+EDGE Iñigo Lekue | Iñaki Williams | 18 | 25 | 37
+EDGE Iñigo Lekue | Raúl García | 20 | 25 | 29
+EDGE Iñigo Lekue | Julen Agirrezabala | 5 | 25 | 9
+EDGE Iñigo Lekue | Yeray Álvarez | 12 | 25 | 26
+EDGE Iñigo Lekue | Yuri Berchiche | 3 | 25 | 15
+EDGE Iñigo Lekue | Mikel Vesga | 9 | 25 | 22
+EDGE Iñigo Lekue | Óscar de Marcos | 4 | 25 | 23
+EDGE Iñigo Lekue | Álex Petxarroman | 1 | 25 | 2
+EDGE Iñigo Lekue | Peru Nolaskoain | 1 | 25 | 1
+EDGE Iñigo Lekue | Nico Serrano | 4 | 25 | 4
+EDGE Iñigo Lekue | Nico Williams | 8 | 25 | 14
+EDGE Iñigo Lekue | Unai Núñez | 5 | 25 | 7
+EDGE Iñigo Lekue | Oier Zarraga | 7 | 25 | 10
+EDGE Iñigo Lekue | Asier Villalibre | 3 | 25 | 3
+EDGE Unai Vencedor | Dani García | 19 | 29 | 33
+EDGE Unai Vencedor | Álex Berenguer | 20 | 29 | 29
+EDGE Unai Vencedor | Oihan Sancet | 13 | 29 | 19
+EDGE Unai Vencedor | Iker Muniain | 27 | 29 | 40
+EDGE Unai Vencedor | Iñaki Williams | 26 | 29 | 37
+EDGE Unai Vencedor | Raúl García | 16 | 29 | 29
+EDGE Unai Vencedor | Yeray Álvarez | 18 | 29 | 26
+EDGE Unai Vencedor | Yuri Berchiche | 8 | 29 | 15
+EDGE Unai Vencedor | Óscar de Marcos | 14 | 29 | 23
+EDGE Unai Vencedor | Mikel Vesga | 10 | 29 | 22
+EDGE Unai Vencedor | Unai Núñez | 4 | 29 | 7
+EDGE Unai Vencedor | Oier Zarraga | 4 | 29 | 10
+EDGE Unai Vencedor | Julen Agirrezabala | 4 | 29 | 9
+EDGE Unai Vencedor | Nico Williams | 7 | 29 | 14
+EDGE Unai Vencedor | Nico Serrano | 1 | 29 | 4
+EDGE Unai Vencedor | Asier Villalibre | 2 | 29 | 3
+EDGE Unai Vencedor | Álex Petxarroman | 1 | 29 | 2
+EDGE Dani García | Álex Berenguer | 21 | 33 | 29
+EDGE Dani García | Oihan Sancet | 13 | 33 | 19
+EDGE Dani García | Iker Muniain | 30 | 33 | 40
+EDGE Dani García | Iñaki Williams | 28 | 33 | 37
+EDGE Dani García | Raúl García | 23 | 33 | 29
+EDGE Dani García | Julen Agirrezabala | 7 | 33 | 9
+EDGE Dani García | Yuri Berchiche | 9 | 33 | 15
+EDGE Dani García | Óscar de Marcos | 15 | 33 | 23
+EDGE Dani García | Mikel Vesga | 10 | 33 | 22
+EDGE Dani García | Nico Williams | 10 | 33 | 14
+EDGE Dani García | Yeray Álvarez | 18 | 33 | 26
+EDGE Dani García | Unai Núñez | 4 | 33 | 7
+EDGE Dani García | Oier Zarraga | 8 | 33 | 10
+EDGE Dani García | Nico Serrano | 2 | 33 | 4
+EDGE Dani García | Asier Villalibre | 1 | 33 | 3
+EDGE Álex Berenguer | Oihan Sancet | 14 | 29 | 19
+EDGE Álex Berenguer | Iker Muniain | 26 | 29 | 40
+EDGE Álex Berenguer | Iñaki Williams | 26 | 29 | 37
+EDGE Álex Berenguer | Raúl García | 15 | 29 | 29
+EDGE Álex Berenguer | Julen Agirrezabala | 5 | 29 | 9
+EDGE Álex Berenguer | Yeray Álvarez | 14 | 29 | 26
+EDGE Álex Berenguer | Yuri Berchiche | 10 | 29 | 15
+EDGE Álex Berenguer | Mikel Vesga | 12 | 29 | 22
+EDGE Álex Berenguer | Óscar de Marcos | 13 | 29 | 23
+EDGE Álex Berenguer | Álex Petxarroman | 2 | 29 | 2
+EDGE Álex Berenguer | Peru Nolaskoain | 1 | 29 | 1
+EDGE Álex Berenguer | Nico Serrano | 3 | 29 | 4
+EDGE Álex Berenguer | Nico Williams | 2 | 29 | 14
+EDGE Álex Berenguer | Unai Núñez | 2 | 29 | 7
+EDGE Álex Berenguer | Oier Zarraga | 4 | 29 | 10
+EDGE Álex Berenguer | Asier Villalibre | 1 | 29 | 3
+EDGE Oihan Sancet | Iker Muniain | 18 | 19 | 40
+EDGE Oihan Sancet | Iñaki Williams | 15 | 19 | 37
+EDGE Oihan Sancet | Julen Agirrezabala | 4 | 19 | 9
+EDGE Oihan Sancet | Yuri Berchiche | 6 | 19 | 15
+EDGE Oihan Sancet | Óscar de Marcos | 12 | 19 | 23
+EDGE Oihan Sancet | Mikel Vesga | 9 | 19 | 22
+EDGE Oihan Sancet | Nico Williams | 3 | 19 | 14
+EDGE Oihan Sancet | Raúl García | 4 | 19 | 29
+EDGE Oihan Sancet | Yeray Álvarez | 12 | 19 | 26
+EDGE Oihan Sancet | Unai Núñez | 4 | 19 | 7
+EDGE Oihan Sancet | Oier Zarraga | 5 | 19 | 10
+EDGE Oihan Sancet | Álex Petxarroman | 1 | 19 | 2
+EDGE Oihan Sancet | Nico Serrano | 1 | 19 | 4
+EDGE Iker Muniain | Iñaki Williams | 35 | 40 | 37
+EDGE Iker Muniain | Raúl García | 24 | 40 | 29
+EDGE Iker Muniain | Julen Agirrezabala | 8 | 40 | 9
+EDGE Iker Muniain | Yuri Berchiche | 15 | 40 | 15
+EDGE Iker Muniain | Óscar de Marcos | 22 | 40 | 23
+EDGE Iker Muniain | Mikel Vesga | 20 | 40 | 22
+EDGE Iker Muniain | Nico Williams | 12 | 40 | 14
+EDGE Iker Muniain | Yeray Álvarez | 24 | 40 | 26
+EDGE Iker Muniain | Unai Núñez | 7 | 40 | 7
+EDGE Iker Muniain | Oier Zarraga | 6 | 40 | 10
+EDGE Iker Muniain | Asier Villalibre | 2 | 40 | 3
+EDGE Iker Muniain | Álex Petxarroman | 1 | 40 | 2
+EDGE Iñaki Williams | Raúl García | 22 | 37 | 29
+EDGE Iñaki Williams | Julen Agirrezabala | 7 | 37 | 9
+EDGE Iñaki Williams | Yeray Álvarez | 24 | 37 | 26
+EDGE Iñaki Williams | Yuri Berchiche | 13 | 37 | 15
+EDGE Iñaki Williams | Mikel Vesga | 17 | 37 | 22
+EDGE Iñaki Williams | Óscar de Marcos | 21 | 37 | 23
+EDGE Iñaki Williams | Unai Núñez | 5 | 37 | 7
+EDGE Iñaki Williams | Oier Zarraga | 6 | 37 | 10
+EDGE Iñaki Williams | Nico Williams | 9 | 37 | 14
+EDGE Iñaki Williams | Nico Serrano | 1 | 37 | 4
+EDGE Iñaki Williams | Álex Petxarroman | 1 | 37 | 2
+EDGE Raúl García | Julen Agirrezabala | 6 | 29 | 9
+EDGE Raúl García | Yuri Berchiche | 9 | 29 | 15
+EDGE Raúl García | Óscar de Marcos | 12 | 29 | 23
+EDGE Raúl García | Mikel Vesga | 15 | 29 | 22
+EDGE Raúl García | Nico Williams | 12 | 29 | 14
+EDGE Raúl García | Yeray Álvarez | 15 | 29 | 26
+EDGE Raúl García | Álex Petxarroman | 1 | 29 | 2
+EDGE Raúl García | Peru Nolaskoain | 1 | 29 | 1
+EDGE Raúl García | Nico Serrano | 4 | 29 | 4
+EDGE Raúl García | Unai Núñez | 4 | 29 | 7
+EDGE Raúl García | Oier Zarraga | 7 | 29 | 10
+EDGE Raúl García | Asier Villalibre | 2 | 29 | 3
+EDGE Julen Agirrezabala | Yuri Berchiche | 4 | 9 | 15
+EDGE Julen Agirrezabala | Óscar de Marcos | 4 | 9 | 23
+EDGE Julen Agirrezabala | Mikel Vesga | 6 | 9 | 22
+EDGE Julen Agirrezabala | Nico Williams | 4 | 9 | 14
+EDGE Julen Agirrezabala | Yeray Álvarez | 5 | 9 | 26
+EDGE Julen Agirrezabala | Álex Petxarroman | 1 | 9 | 2
+EDGE Julen Agirrezabala | Peru Nolaskoain | 1 | 9 | 1
+EDGE Julen Agirrezabala | Nico Serrano | 1 | 9 | 4
+EDGE Julen Agirrezabala | Unai Núñez | 2 | 9 | 7
+EDGE Julen Agirrezabala | Oier Zarraga | 1 | 9 | 10
+EDGE Yuri Berchiche | Óscar de Marcos | 11 | 15 | 23
+EDGE Yuri Berchiche | Mikel Vesga | 13 | 15 | 22
+EDGE Yuri Berchiche | Nico Williams | 6 | 15 | 14
+EDGE Yuri Berchiche | Yeray Álvarez | 10 | 15 | 26
+EDGE Yuri Berchiche | Unai Núñez | 1 | 15 | 7
+EDGE Yuri Berchiche | Álex Petxarroman | 1 | 15 | 2
+EDGE Yuri Berchiche | Asier Villalibre | 1 | 15 | 3
+EDGE Óscar de Marcos | Mikel Vesga | 14 | 23 | 22
+EDGE Óscar de Marcos | Nico Williams | 9 | 23 | 14
+EDGE Óscar de Marcos | Yeray Álvarez | 16 | 23 | 26
+EDGE Óscar de Marcos | Unai Núñez | 3 | 23 | 7
+EDGE Óscar de Marcos | Oier Zarraga | 5 | 23 | 10
+EDGE Óscar de Marcos | Asier Villalibre | 1 | 23 | 3
+EDGE Mikel Vesga | Nico Williams | 9 | 22 | 14
+EDGE Mikel Vesga | Yeray Álvarez | 14 | 22 | 26
+EDGE Mikel Vesga | Álex Petxarroman | 2 | 22 | 2
+EDGE Mikel Vesga | Peru Nolaskoain | 1 | 22 | 1
+EDGE Mikel Vesga | Nico Serrano | 2 | 22 | 4
+EDGE Mikel Vesga | Unai Núñez | 5 | 22 | 7
+EDGE Mikel Vesga | Oier Zarraga | 3 | 22 | 10
+EDGE Mikel Vesga | Asier Villalibre | 2 | 22 | 3
+EDGE Nico Williams | Álex Petxarroman | 1 | 14 | 2
+EDGE Nico Williams | Peru Nolaskoain | 1 | 14 | 1
+EDGE Nico Williams | Nico Serrano | 1 | 14 | 4
+EDGE Nico Williams | Yeray Álvarez | 9 | 14 | 26
+EDGE Nico Williams | Unai Núñez | 2 | 14 | 7
+EDGE Nico Williams | Oier Zarraga | 2 | 14 | 10
+EDGE Nico Williams | Asier Villalibre | 2 | 14 | 3
+EDGE Yeray Álvarez | Unai Núñez | 4 | 26 | 7
+EDGE Yeray Álvarez | Oier Zarraga | 6 | 26 | 10
+EDGE Yeray Álvarez | Nico Serrano | 1 | 26 | 4
+EDGE Yeray Álvarez | Asier Villalibre | 1 | 26 | 3
+EDGE Yeray Álvarez | Álex Petxarroman | 1 | 26 | 2
+EDGE Álex Petxarroman | Peru Nolaskoain | 1 | 2 | 1
+EDGE Álex Petxarroman | Nico Serrano | 1 | 2 | 4
+EDGE Peru Nolaskoain | Nico Serrano | 1 | 1 | 4
+EDGE Nico Serrano | Oier Zarraga | 3 | 4 | 10
+EDGE Nico Serrano | Asier Villalibre | 1 | 4 | 3
+EDGE Unai Núñez | Oier Zarraga | 4 | 7 | 10
+EDGE Unai Núñez | Asier Villalibre | 1 | 7 | 3
+EDGE Oier Zarraga | Asier Villalibre | 2 | 10 | 3

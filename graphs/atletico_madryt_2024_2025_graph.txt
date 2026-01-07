@@ -1,0 +1,254 @@
+# Graph for Java/GraphStream
+# Nodes: 24
+# Edges: 248
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Jan Oblak | Clément Lenglet | 31 | 49 | 34
+EDGE Jan Oblak | José María Giménez | 28 | 49 | 32
+EDGE Jan Oblak | Javi Galán | 30 | 49 | 34
+EDGE Jan Oblak | Nahuel Molina | 19 | 49 | 23
+EDGE Jan Oblak | Koke | 23 | 49 | 28
+EDGE Jan Oblak | Pablo Barrios | 36 | 49 | 40
+EDGE Jan Oblak | Samuel Lino | 24 | 49 | 29
+EDGE Jan Oblak | Giuliano Simeone | 36 | 49 | 41
+EDGE Jan Oblak | Antoine Griezmann | 37 | 49 | 43
+EDGE Jan Oblak | Julián Alvarez | 41 | 49 | 47
+EDGE Jan Oblak | César Azpilicueta | 10 | 49 | 14
+EDGE Jan Oblak | Robin Le Normand | 28 | 49 | 34
+EDGE Jan Oblak | Conor Gallagher | 23 | 49 | 28
+EDGE Jan Oblak | Rodrigo De Paul | 35 | 49 | 41
+EDGE Jan Oblak | Marcos Llorente | 37 | 49 | 42
+EDGE Jan Oblak | Alexander Sørloth | 19 | 49 | 22
+EDGE Jan Oblak | Axel Witsel | 11 | 49 | 15
+EDGE Jan Oblak | Rodrigo Riquelme | 5 | 49 | 8
+EDGE Jan Oblak | Ángel Correa | 5 | 49 | 8
+EDGE Jan Oblak | Reinildo Mandava | 12 | 49 | 15
+EDGE Clément Lenglet | José María Giménez | 15 | 34 | 32
+EDGE Clément Lenglet | Javi Galán | 25 | 34 | 34
+EDGE Clément Lenglet | Nahuel Molina | 13 | 34 | 23
+EDGE Clément Lenglet | Koke | 10 | 34 | 28
+EDGE Clément Lenglet | Pablo Barrios | 30 | 34 | 40
+EDGE Clément Lenglet | Samuel Lino | 15 | 34 | 29
+EDGE Clément Lenglet | Giuliano Simeone | 30 | 34 | 41
+EDGE Clément Lenglet | Antoine Griezmann | 29 | 34 | 43
+EDGE Clément Lenglet | Julián Alvarez | 30 | 34 | 47
+EDGE Clément Lenglet | Marcos Llorente | 25 | 34 | 42
+EDGE Clément Lenglet | Rodrigo De Paul | 25 | 34 | 41
+EDGE Clément Lenglet | Conor Gallagher | 17 | 34 | 28
+EDGE Clément Lenglet | Axel Witsel | 5 | 34 | 15
+EDGE Clément Lenglet | Rodrigo Riquelme | 2 | 34 | 8
+EDGE Clément Lenglet | Ángel Correa | 2 | 34 | 8
+EDGE Clément Lenglet | Alexander Sørloth | 8 | 34 | 22
+EDGE Clément Lenglet | Robin Le Normand | 15 | 34 | 34
+EDGE Clément Lenglet | César Azpilicueta | 6 | 34 | 14
+EDGE Clément Lenglet | Reinildo Mandava | 4 | 34 | 15
+EDGE Clément Lenglet | Juan Musso | 3 | 34 | 9
+EDGE José María Giménez | Javi Galán | 21 | 32 | 34
+EDGE José María Giménez | Nahuel Molina | 10 | 32 | 23
+EDGE José María Giménez | Koke | 16 | 32 | 28
+EDGE José María Giménez | Pablo Barrios | 23 | 32 | 40
+EDGE José María Giménez | Samuel Lino | 14 | 32 | 29
+EDGE José María Giménez | Giuliano Simeone | 23 | 32 | 41
+EDGE José María Giménez | Antoine Griezmann | 27 | 32 | 43
+EDGE José María Giménez | Julián Alvarez | 29 | 32 | 47
+EDGE José María Giménez | César Azpilicueta | 3 | 32 | 14
+EDGE José María Giménez | Robin Le Normand | 14 | 32 | 34
+EDGE José María Giménez | Conor Gallagher | 15 | 32 | 28
+EDGE José María Giménez | Rodrigo De Paul | 25 | 32 | 41
+EDGE José María Giménez | Marcos Llorente | 26 | 32 | 42
+EDGE José María Giménez | Alexander Sørloth | 9 | 32 | 22
+EDGE José María Giménez | Juan Musso | 4 | 32 | 9
+EDGE José María Giménez | Reinildo Mandava | 9 | 32 | 15
+EDGE José María Giménez | Axel Witsel | 4 | 32 | 15
+EDGE José María Giménez | Rodrigo Riquelme | 3 | 32 | 8
+EDGE José María Giménez | Ángel Correa | 2 | 32 | 8
+EDGE Javi Galán | Nahuel Molina | 12 | 34 | 23
+EDGE Javi Galán | Koke | 13 | 34 | 28
+EDGE Javi Galán | Pablo Barrios | 29 | 34 | 40
+EDGE Javi Galán | Samuel Lino | 14 | 34 | 29
+EDGE Javi Galán | Giuliano Simeone | 29 | 34 | 41
+EDGE Javi Galán | Antoine Griezmann | 25 | 34 | 43
+EDGE Javi Galán | Julián Alvarez | 29 | 34 | 47
+EDGE Javi Galán | Robin Le Normand | 17 | 34 | 34
+EDGE Javi Galán | Marcos Llorente | 23 | 34 | 42
+EDGE Javi Galán | Conor Gallagher | 16 | 34 | 28
+EDGE Javi Galán | Alexander Sørloth | 12 | 34 | 22
+EDGE Javi Galán | Rodrigo De Paul | 28 | 34 | 41
+EDGE Javi Galán | Axel Witsel | 6 | 34 | 15
+EDGE Javi Galán | Rodrigo Riquelme | 2 | 34 | 8
+EDGE Javi Galán | Ángel Correa | 3 | 34 | 8
+EDGE Javi Galán | Juan Musso | 4 | 34 | 9
+EDGE Javi Galán | César Azpilicueta | 2 | 34 | 14
+EDGE Nahuel Molina | Koke | 12 | 23 | 28
+EDGE Nahuel Molina | Pablo Barrios | 12 | 23 | 40
+EDGE Nahuel Molina | Samuel Lino | 9 | 23 | 29
+EDGE Nahuel Molina | Giuliano Simeone | 15 | 23 | 41
+EDGE Nahuel Molina | Antoine Griezmann | 19 | 23 | 43
+EDGE Nahuel Molina | Julián Alvarez | 19 | 23 | 47
+EDGE Nahuel Molina | Robin Le Normand | 12 | 23 | 34
+EDGE Nahuel Molina | Marcos Llorente | 8 | 23 | 42
+EDGE Nahuel Molina | Rodrigo De Paul | 14 | 23 | 41
+EDGE Nahuel Molina | Axel Witsel | 10 | 23 | 15
+EDGE Nahuel Molina | Rodrigo Riquelme | 4 | 23 | 8
+EDGE Nahuel Molina | Ángel Correa | 3 | 23 | 8
+EDGE Nahuel Molina | Alexander Sørloth | 8 | 23 | 22
+EDGE Nahuel Molina | César Azpilicueta | 5 | 23 | 14
+EDGE Nahuel Molina | Conor Gallagher | 13 | 23 | 28
+EDGE Nahuel Molina | Reinildo Mandava | 7 | 23 | 15
+EDGE Nahuel Molina | Juan Musso | 4 | 23 | 9
+EDGE Nahuel Molina | Ilias Kostis | 1 | 23 | 1
+EDGE Nahuel Molina | Javi Serrano | 1 | 23 | 1
+EDGE Koke | Pablo Barrios | 14 | 28 | 40
+EDGE Koke | Samuel Lino | 17 | 28 | 29
+EDGE Koke | Giuliano Simeone | 13 | 28 | 41
+EDGE Koke | Antoine Griezmann | 17 | 28 | 43
+EDGE Koke | Julián Alvarez | 20 | 28 | 47
+EDGE Koke | César Azpilicueta | 9 | 28 | 14
+EDGE Koke | Robin Le Normand | 17 | 28 | 34
+EDGE Koke | Conor Gallagher | 11 | 28 | 28
+EDGE Koke | Rodrigo De Paul | 14 | 28 | 41
+EDGE Koke | Marcos Llorente | 18 | 28 | 42
+EDGE Koke | Alexander Sørloth | 15 | 28 | 22
+EDGE Koke | Axel Witsel | 13 | 28 | 15
+EDGE Koke | Rodrigo Riquelme | 6 | 28 | 8
+EDGE Koke | Ángel Correa | 7 | 28 | 8
+EDGE Koke | Reinildo Mandava | 10 | 28 | 15
+EDGE Koke | Juan Musso | 5 | 28 | 9
+EDGE Pablo Barrios | Samuel Lino | 16 | 40 | 29
+EDGE Pablo Barrios | Giuliano Simeone | 34 | 40 | 41
+EDGE Pablo Barrios | Antoine Griezmann | 31 | 40 | 43
+EDGE Pablo Barrios | Julián Alvarez | 34 | 40 | 47
+EDGE Pablo Barrios | Juan Musso | 4 | 40 | 9
+EDGE Pablo Barrios | Robin Le Normand | 22 | 40 | 34
+EDGE Pablo Barrios | Reinildo Mandava | 8 | 40 | 15
+EDGE Pablo Barrios | César Azpilicueta | 6 | 40 | 14
+EDGE Pablo Barrios | Rodrigo De Paul | 27 | 40 | 41
+EDGE Pablo Barrios | Marcos Llorente | 30 | 40 | 42
+EDGE Pablo Barrios | Conor Gallagher | 20 | 40 | 28
+EDGE Pablo Barrios | Alexander Sørloth | 12 | 40 | 22
+EDGE Pablo Barrios | Axel Witsel | 6 | 40 | 15
+EDGE Pablo Barrios | Rodrigo Riquelme | 3 | 40 | 8
+EDGE Pablo Barrios | Ángel Correa | 3 | 40 | 8
+EDGE Samuel Lino | Giuliano Simeone | 17 | 29 | 41
+EDGE Samuel Lino | Antoine Griezmann | 22 | 29 | 43
+EDGE Samuel Lino | Julián Alvarez | 21 | 29 | 47
+EDGE Samuel Lino | César Azpilicueta | 12 | 29 | 14
+EDGE Samuel Lino | Robin Le Normand | 19 | 29 | 34
+EDGE Samuel Lino | Conor Gallagher | 6 | 29 | 28
+EDGE Samuel Lino | Rodrigo De Paul | 21 | 29 | 41
+EDGE Samuel Lino | Marcos Llorente | 23 | 29 | 42
+EDGE Samuel Lino | Alexander Sørloth | 11 | 29 | 22
+EDGE Samuel Lino | Reinildo Mandava | 7 | 29 | 15
+EDGE Samuel Lino | Axel Witsel | 9 | 29 | 15
+EDGE Samuel Lino | Rodrigo Riquelme | 4 | 29 | 8
+EDGE Samuel Lino | Juan Musso | 5 | 29 | 9
+EDGE Samuel Lino | Ángel Correa | 4 | 29 | 8
+EDGE Giuliano Simeone | Antoine Griezmann | 30 | 41 | 43
+EDGE Giuliano Simeone | Julián Alvarez | 36 | 41 | 47
+EDGE Giuliano Simeone | Juan Musso | 5 | 41 | 9
+EDGE Giuliano Simeone | Robin Le Normand | 25 | 41 | 34
+EDGE Giuliano Simeone | Reinildo Mandava | 8 | 41 | 15
+EDGE Giuliano Simeone | César Azpilicueta | 5 | 41 | 14
+EDGE Giuliano Simeone | Rodrigo De Paul | 31 | 41 | 41
+EDGE Giuliano Simeone | Marcos Llorente | 31 | 41 | 42
+EDGE Giuliano Simeone | Conor Gallagher | 20 | 41 | 28
+EDGE Giuliano Simeone | Alexander Sørloth | 13 | 41 | 22
+EDGE Giuliano Simeone | Ilias Kostis | 1 | 41 | 1
+EDGE Giuliano Simeone | Axel Witsel | 3 | 41 | 15
+EDGE Giuliano Simeone | Javi Serrano | 1 | 41 | 1
+EDGE Giuliano Simeone | Rodrigo Riquelme | 2 | 41 | 8
+EDGE Giuliano Simeone | Ángel Correa | 2 | 41 | 8
+EDGE Antoine Griezmann | Julián Alvarez | 36 | 43 | 47
+EDGE Antoine Griezmann | César Azpilicueta | 10 | 43 | 14
+EDGE Antoine Griezmann | Robin Le Normand | 22 | 43 | 34
+EDGE Antoine Griezmann | Conor Gallagher | 20 | 43 | 28
+EDGE Antoine Griezmann | Rodrigo De Paul | 32 | 43 | 41
+EDGE Antoine Griezmann | Marcos Llorente | 31 | 43 | 42
+EDGE Antoine Griezmann | Alexander Sørloth | 8 | 43 | 22
+EDGE Antoine Griezmann | Juan Musso | 6 | 43 | 9
+EDGE Antoine Griezmann | Reinildo Mandava | 11 | 43 | 15
+EDGE Antoine Griezmann | Axel Witsel | 9 | 43 | 15
+EDGE Antoine Griezmann | Rodrigo Riquelme | 4 | 43 | 8
+EDGE Antoine Griezmann | Ángel Correa | 4 | 43 | 8
+EDGE Julián Alvarez | Juan Musso | 6 | 47 | 9
+EDGE Julián Alvarez | Robin Le Normand | 26 | 47 | 34
+EDGE Julián Alvarez | Reinildo Mandava | 12 | 47 | 15
+EDGE Julián Alvarez | César Azpilicueta | 8 | 47 | 14
+EDGE Julián Alvarez | Rodrigo De Paul | 37 | 47 | 41
+EDGE Julián Alvarez | Marcos Llorente | 35 | 47 | 42
+EDGE Julián Alvarez | Conor Gallagher | 23 | 47 | 28
+EDGE Julián Alvarez | Alexander Sørloth | 12 | 47 | 22
+EDGE Julián Alvarez | Axel Witsel | 9 | 47 | 15
+EDGE Julián Alvarez | Rodrigo Riquelme | 4 | 47 | 8
+EDGE Julián Alvarez | Ángel Correa | 3 | 47 | 8
+EDGE César Azpilicueta | Robin Le Normand | 11 | 14 | 34
+EDGE César Azpilicueta | Conor Gallagher | 5 | 14 | 28
+EDGE César Azpilicueta | Rodrigo De Paul | 8 | 14 | 41
+EDGE César Azpilicueta | Marcos Llorente | 12 | 14 | 42
+EDGE César Azpilicueta | Alexander Sørloth | 7 | 14 | 22
+EDGE César Azpilicueta | Juan Musso | 4 | 14 | 9
+EDGE César Azpilicueta | Reinildo Mandava | 3 | 14 | 15
+EDGE César Azpilicueta | Axel Witsel | 7 | 14 | 15
+EDGE César Azpilicueta | Rodrigo Riquelme | 4 | 14 | 8
+EDGE César Azpilicueta | Ángel Correa | 3 | 14 | 8
+EDGE Robin Le Normand | Conor Gallagher | 15 | 34 | 28
+EDGE Robin Le Normand | Rodrigo De Paul | 25 | 34 | 41
+EDGE Robin Le Normand | Marcos Llorente | 26 | 34 | 42
+EDGE Robin Le Normand | Alexander Sørloth | 17 | 34 | 22
+EDGE Robin Le Normand | Juan Musso | 6 | 34 | 9
+EDGE Robin Le Normand | Reinildo Mandava | 9 | 34 | 15
+EDGE Robin Le Normand | Axel Witsel | 5 | 34 | 15
+EDGE Robin Le Normand | Rodrigo Riquelme | 5 | 34 | 8
+EDGE Robin Le Normand | Ángel Correa | 4 | 34 | 8
+EDGE Conor Gallagher | Rodrigo De Paul | 17 | 28 | 41
+EDGE Conor Gallagher | Marcos Llorente | 19 | 28 | 42
+EDGE Conor Gallagher | Alexander Sørloth | 12 | 28 | 22
+EDGE Conor Gallagher | Reinildo Mandava | 8 | 28 | 15
+EDGE Conor Gallagher | Juan Musso | 5 | 28 | 9
+EDGE Conor Gallagher | Axel Witsel | 8 | 28 | 15
+EDGE Conor Gallagher | Rodrigo Riquelme | 2 | 28 | 8
+EDGE Conor Gallagher | Ángel Correa | 3 | 28 | 8
+EDGE Conor Gallagher | Ilias Kostis | 1 | 28 | 1
+EDGE Conor Gallagher | Javi Serrano | 1 | 28 | 1
+EDGE Rodrigo De Paul | Marcos Llorente | 31 | 41 | 42
+EDGE Rodrigo De Paul | Alexander Sørloth | 13 | 41 | 22
+EDGE Rodrigo De Paul | Juan Musso | 6 | 41 | 9
+EDGE Rodrigo De Paul | Reinildo Mandava | 7 | 41 | 15
+EDGE Rodrigo De Paul | Axel Witsel | 7 | 41 | 15
+EDGE Rodrigo De Paul | Rodrigo Riquelme | 4 | 41 | 8
+EDGE Rodrigo De Paul | Ángel Correa | 3 | 41 | 8
+EDGE Marcos Llorente | Alexander Sørloth | 16 | 42 | 22
+EDGE Marcos Llorente | Juan Musso | 5 | 42 | 9
+EDGE Marcos Llorente | Reinildo Mandava | 11 | 42 | 15
+EDGE Marcos Llorente | Axel Witsel | 6 | 42 | 15
+EDGE Marcos Llorente | Rodrigo Riquelme | 3 | 42 | 8
+EDGE Marcos Llorente | Ángel Correa | 4 | 42 | 8
+EDGE Alexander Sørloth | Axel Witsel | 8 | 22 | 15
+EDGE Alexander Sørloth | Rodrigo Riquelme | 5 | 22 | 8
+EDGE Alexander Sørloth | Ángel Correa | 4 | 22 | 8
+EDGE Alexander Sørloth | Reinildo Mandava | 6 | 22 | 15
+EDGE Alexander Sørloth | Juan Musso | 3 | 22 | 9
+EDGE Alexander Sørloth | Ilias Kostis | 1 | 22 | 1
+EDGE Alexander Sørloth | Javi Serrano | 1 | 22 | 1
+EDGE Juan Musso | Reinildo Mandava | 3 | 9 | 15
+EDGE Juan Musso | Axel Witsel | 4 | 9 | 15
+EDGE Juan Musso | Rodrigo Riquelme | 3 | 9 | 8
+EDGE Juan Musso | Ángel Correa | 3 | 9 | 8
+EDGE Juan Musso | Ilias Kostis | 1 | 9 | 1
+EDGE Juan Musso | Javi Serrano | 1 | 9 | 1
+EDGE Reinildo Mandava | Axel Witsel | 6 | 15 | 15
+EDGE Reinildo Mandava | Rodrigo Riquelme | 3 | 15 | 8
+EDGE Reinildo Mandava | Ángel Correa | 4 | 15 | 8
+EDGE Reinildo Mandava | Ilias Kostis | 1 | 15 | 1
+EDGE Reinildo Mandava | Javi Serrano | 1 | 15 | 1
+EDGE Axel Witsel | Rodrigo Riquelme | 5 | 15 | 8
+EDGE Axel Witsel | Ángel Correa | 7 | 15 | 8
+EDGE Axel Witsel | Ilias Kostis | 1 | 15 | 1
+EDGE Axel Witsel | Javi Serrano | 1 | 15 | 1
+EDGE Rodrigo Riquelme | Ángel Correa | 5 | 8 | 8
+EDGE Rodrigo Riquelme | Ilias Kostis | 1 | 8 | 1
+EDGE Rodrigo Riquelme | Javi Serrano | 1 | 8 | 1
+EDGE Ángel Correa | Ilias Kostis | 1 | 8 | 1
+EDGE Ángel Correa | Javi Serrano | 1 | 8 | 1
+EDGE Ilias Kostis | Javi Serrano | 1 | 1 | 1

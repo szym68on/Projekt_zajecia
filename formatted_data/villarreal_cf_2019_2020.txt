@@ -1,0 +1,133 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3208791 | sob., 30.11.2019 | Valencia CF
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Xavi Quintillà, Mario Gaspar, Frank Anguissa, Manu Trigueros, Manu Morlanes, Moi Gómez, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3209967 | sob., 15.02.2020 | Levante UD
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Raúl Albiol, Rubén Peña, Mario Gaspar, Vicente Iborra, Manu Trigueros, Santi Cazorla, Moi Gómez, Gerard Moreno, Paco Alcácer
+
+MATCH: 3210059 | pt., 19.06.2020 | Granada CF
+PLAYERS: Sergio Asenjo, Raúl Albiol, Soufiane Chakla, Alberto Moreno, Rubén Peña, Vicente Iborra, Manu Morlanes, Moi Gómez, Javi Ontiveros, Gerard Moreno, Carlos Bacca
+
+MATCH: 3210118 | śr., 08.07.2020 | Getafe CF
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alberto Moreno, Rubén Peña, Vicente Iborra, Frank Anguissa, Santi Cazorla, Javi Ontiveros, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3208760 | niedz., 03.11.2019 | Athletic Bilbao
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Xavi Quintillà, Rubén Peña, Vicente Iborra, Santi Cazorla, Frank Anguissa, Moi Gómez, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3208841 | niedz., 19.01.2020 | RCD Espanyol
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alberto Moreno, Mario Gaspar, Vicente Iborra, Manu Trigueros, Frank Anguissa, Santi Cazorla, Samuel Chukwueze, Carlos Bacca
+
+MATCH: 3208708 | sob., 05.10.2019 | CA Osasuna
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Xavi Quintillà, Rubén Peña, Frank Anguissa, Vicente Iborra, Santi Cazorla, Karl Toko Ekambi, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3208731 | pt., 25.10.2019 | Deportivo Alavés
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alberto Moreno, Mario Gaspar, Vicente Iborra, Santi Cazorla, Frank Anguissa, Moi Gómez, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3294628 | sob., 11.01.2020 | Orihuela CF
+PLAYERS: Andrés Fernández, Ramiro Funes Mori, Raúl Albiol, Alberto Moreno, Mario Gaspar, Manu Trigueros, Manu Morlanes, Santi Cazorla, Javi Ontiveros, Samuel Chukwueze, Carlos Bacca
+
+MATCH: 3310293 | śr., 29.01.2020 | Rayo Vallecano
+PLAYERS: Andrés Fernández, Ramiro Funes Mori, Raúl Albiol, Xavi Quintillà, Rubén Peña, Manu Morlanes, Manu Trigueros, Frank Anguissa, Javi Ontiveros, Moi Gómez, Carlos Bacca
+
+MATCH: 3208820 | sob., 21.12.2019 | Getafe CF
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Xavi Quintillà, Mario Gaspar, Frank Anguissa, Vicente Iborra, Manu Trigueros, Moi Gómez, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3208645 | pt., 23.08.2019 | Levante UD
+PLAYERS: Andrés Fernández, Pau Torres, Raúl Albiol, Alberto Moreno, Mario Gaspar, Vicente Iborra, Santi Cazorla, Moi Gómez, Samuel Chukwueze, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3208634 | niedz., 19.07.2020 | SD Eibar
+PLAYERS: Andrés Fernández, Pau Torres, Raúl Albiol, Alberto Moreno, Rubén Peña, Bruno Soriano, Frank Anguissa, Vicente Iborra, Santi Cazorla, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3208800 | pt., 06.12.2019 | Atlético Madryt
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Xavi Quintillà, Mario Gaspar, Vicente Iborra, Manu Trigueros, Frank Anguissa, Moi Gómez, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3209969 | niedz., 23.02.2020 | Atlético Madryt
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alberto Moreno, Rubén Peña, Vicente Iborra, Santi Cazorla, Manu Trigueros, Moi Gómez, Gerard Moreno, Paco Alcácer
+
+MATCH: 3208746 | czw., 31.10.2019 | SD Eibar
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Xavi Quintillà, Mario Gaspar, Frank Anguissa, Vicente Iborra, Manu Trigueros, Javi Ontiveros, Samuel Chukwueze, Karl Toko Ekambi
+
+MATCH: 3209978 | niedz., 01.03.2020 | Athletic Bilbao
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alberto Moreno, Rubén Peña, Vicente Iborra, Manu Trigueros, Santi Cazorla, Javi Ontiveros, Gerard Moreno, Paco Alcácer
+
+MATCH: 3208678 | sob., 21.09.2019 | Real Valladolid CF
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Xavi Quintillà, Rubén Peña, Frank Anguissa, Vicente Iborra, Santi Cazorla, Moi Gómez, Gerard Moreno, Carlos Bacca
+
+MATCH: 3208810 | niedz., 15.12.2019 | Sevilla FC
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Xavi Quintillà, Mario Gaspar, Vicente Iborra, Manu Trigueros, Frank Anguissa, Moi Gómez, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3210005 | niedz., 08.03.2020 | CD Leganés
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alberto Moreno, Rubén Peña, Vicente Iborra, Santi Cazorla, Manu Trigueros, Moi Gómez, Gerard Moreno, Paco Alcácer
+
+MATCH: 3210140 | czw., 16.07.2020 | Real Madryt
+PLAYERS: Sergio Asenjo, Pau Torres, Soufiane Chakla, Xavi Quintillà, Mario Gaspar, Manu Morlanes, Frank Anguissa, Rubén Peña, Moi Gómez, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3209801 | niedz., 02.02.2020 | CA Osasuna
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Raúl Albiol, Mario Gaspar, Rubén Peña, Vicente Iborra, Santi Cazorla, Manu Trigueros, Moi Gómez, Gerard Moreno, Paco Alcácer
+
+MATCH: 3208701 | pt., 27.09.2019 | Real Betis Balompié
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Xavi Quintillà, Rubén Peña, Frank Anguissa, Vicente Iborra, Santi Cazorla, Moi Gómez, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3208628 | sob., 17.08.2019 | Granada CF
+PLAYERS: Andrés Fernández, Pau Torres, Raúl Albiol, Xavi Quintillà, Rubén Peña, Frank Anguissa, Vicente Iborra, Santi Cazorla, Moi Gómez, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3208679 | wt., 24.09.2019 | FC Barcelona
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Xavi Quintillà, Rubén Peña, Frank Anguissa, Vicente Iborra, Santi Cazorla, Javi Ontiveros, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3210081 | pon., 22.06.2020 | Sevilla FC
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alberto Moreno, Mario Gaspar, Vicente Iborra, Frank Anguissa, Santi Cazorla, Samuel Chukwueze, Gerard Moreno, Paco Alcácer
+
+MATCH: 3208828 | niedz., 05.01.2020 | Real Sociedad
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Xavi Quintillà, Mario Gaspar, Vicente Iborra, Manu Trigueros, Frank Anguissa, Moi Gómez, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3210111 | niedz., 05.07.2020 | FC Barcelona
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alberto Moreno, Mario Gaspar, Vicente Iborra, Frank Anguissa, Santi Cazorla, Samuel Chukwueze, Gerard Moreno, Paco Alcácer
+
+MATCH: 3208664 | sob., 14.09.2019 | CD Leganés
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Xavi Quintillà, Mario Gaspar, Frank Anguissa, Vicente Iborra, Santi Cazorla, Moi Gómez, Gerard Moreno, Carlos Bacca
+
+MATCH: 3210095 | śr., 01.07.2020 | Real Betis Balompié
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alberto Moreno, Rubén Peña, Frank Anguissa, Manu Trigueros, Moi Gómez, Javi Ontiveros, Gerard Moreno, Carlos Bacca
+
+MATCH: 3281958 | śr., 18.12.2019 | Comillas CF
+PLAYERS: Andrés Fernández, Pau Torres, Ramiro Funes Mori, Miguel Leal, Rubén Peña, Sergio Lozano, Manu Morlanes, Javi Ontiveros, Leo Suárez, Carlos Bacca, Karl Toko Ekambi
+
+MATCH: 3208780 | niedz., 24.11.2019 | Celta de Vigo
+PLAYERS: Sergio Asenjo, Pau Torres, Ramiro Funes Mori, Xavi Quintillà, Rubén Peña, Vicente Iborra, Santi Cazorla, Frank Anguissa, Samuel Chukwueze, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3209811 | sob., 08.02.2020 | Real Valladolid CF
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Raúl Albiol, Rubén Peña, Mario Gaspar, Vicente Iborra, Santi Cazorla, Manu Trigueros, Moi Gómez, Gerard Moreno, Paco Alcácer
+
+MATCH: 3210092 | niedz., 28.06.2020 | Valencia CF
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Xavi Quintillà, Mario Gaspar, Vicente Iborra, Frank Anguissa, Santi Cazorla, Samuel Chukwueze, Gerard Moreno, Paco Alcácer
+
+MATCH: 3210043 | wt., 16.06.2020 | RCD Mallorca
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alberto Moreno, Mario Gaspar, Frank Anguissa, Santi Cazorla, Manu Trigueros, Paco Alcácer, Samuel Chukwueze, Carlos Bacca
+
+MATCH: 3210131 | pon., 13.07.2020 | Real Sociedad
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alberto Moreno, Rubén Peña, Frank Anguissa, Manu Trigueros, Santi Cazorla, Javi Ontiveros, Moi Gómez, Fer Niño
+
+MATCH: 3208842 | sob., 25.01.2020 | Deportivo Alavés
+PLAYERS: Sergio Asenjo, Ramiro Funes Mori, Raúl Albiol, Alberto Moreno, Mario Gaspar, Vicente Iborra, Santi Cazorla, Manu Trigueros, Moi Gómez, Samuel Chukwueze, Carlos Bacca
+
+MATCH: 3312785 | śr., 05.02.2020 | CD Mirandés
+PLAYERS: Andrés Fernández, Ramiro Funes Mori, Soufiane Chakla, Xavi Quintillà, Mario Gaspar, Vicente Iborra, Santi Cazorla, Frank Anguissa, Javi Ontiveros, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3208658 | niedz., 01.09.2019 | Real Madryt
+PLAYERS: Andrés Fernández, Pau Torres, Raúl Albiol, Xavi Quintillà, Mario Gaspar, Vicente Iborra, Santi Cazorla, Moi Gómez, Samuel Chukwueze, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3210017 | sob., 13.06.2020 | Celta de Vigo
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alberto Moreno, Mario Gaspar, Vicente Iborra, Santi Cazorla, Frank Anguissa, Moi Gómez, Gerard Moreno, Paco Alcácer
+
+MATCH: 3208717 | niedz., 20.10.2019 | RCD Espanyol
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alberto Moreno, Rubén Peña, Frank Anguissa, Vicente Iborra, Santi Cazorla, Moi Gómez, Gerard Moreno, Karl Toko Ekambi
+
+MATCH: 3305366 | śr., 22.01.2020 | Girona FC
+PLAYERS: Andrés Fernández, Pau Torres, Ramiro Funes Mori, Xavi Quintillà, Rubén Peña, Manu Morlanes, Santi Cazorla, Frank Anguissa, Moi Gómez, Javi Ontiveros, Carlos Bacca
+
+MATCH: 3208769 | niedz., 10.11.2019 | RCD Mallorca
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Rubén Peña, Mario Gaspar, Vicente Iborra, Santi Cazorla, Frank Anguissa, Moi Gómez, Gerard Moreno, Karl Toko Ekambi
+

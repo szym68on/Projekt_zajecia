@@ -1,0 +1,181 @@
+# Team: Atlético Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2899585 | sob., 16.09.2017 | Málaga CF
+PLAYERS: Jan Oblak, Diego Godín, Lucas Hernández, Filipe Luís, Juanfran Torres, Thomas Partey, Gabi, Saúl Ñíguez, Koke, Ángel Correa, Antoine Griezmann
+
+MATCH: 2899928 | sob., 25.11.2017 | Levante UD
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Thomas Partey, Gabi, Koke, Saúl Ñíguez, Ángel Correa, Antoine Griezmann, Kévin Gameiro
+
+MATCH: 2899567 | sob., 19.08.2017 | Girona FC
+PLAYERS: Jan Oblak, Stefan Savic, José María Giménez, Lucas Hernández, Juanfran Torres, Gabi, Koke, Saúl Ñíguez, Yannick Carrasco, Antoine Griezmann, Fernando Torres
+
+MATCH: 3009815 | czw., 08.03.2018 | Lokomotiw Moskwa
+PLAYERS: Axel Werner, José María Giménez, Lucas Hernández, Filipe Luís, Juanfran Torres, Thomas Partey, Saúl Ñíguez, Koke, Ángel Correa, Antoine Griezmann, Diego Costa
+
+MATCH: 2899799 | śr., 28.02.2018 | CD Leganés
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Thomas Partey, Saúl Ñíguez, Koke, Ángel Correa, Antoine Griezmann, Diego Costa
+
+MATCH: 3030589 | czw., 26.04.2018 | FC Arsenal
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Lucas Hernández, Sime Vrsaljko, Thomas Partey, Saúl Ñíguez, Koke, Ángel Correa, Antoine Griezmann, Kévin Gameiro
+
+MATCH: 2899731 | sob., 13.01.2018 | SD Eibar
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Lucas Hernández, Sime Vrsaljko, Thomas Partey, Saúl Ñíguez, Koke, Ángel Correa, Antoine Griezmann, Kévin Gameiro
+
+MATCH: 3038918 | śr., 16.05.2018 | Olympique Marseille
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Lucas Hernández, Sime Vrsaljko, Gabi, Saúl Ñíguez, Koke, Ángel Correa, Antoine Griezmann, Diego Costa
+
+MATCH: 2899757 | niedz., 28.01.2018 | UD Las Palmas
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Lucas Hernández, Juanfran Torres, Gabi, Saúl Ñíguez, Koke, Ángel Correa, Antoine Griezmann, Fernando Torres
+
+MATCH: 2899610 | sob., 23.09.2017 | Sevilla FC
+PLAYERS: Jan Oblak, Stefan Savic, Lucas Hernández, Filipe Luís, Sime Vrsaljko, Gabi, Koke, Saúl Ñíguez, Yannick Carrasco, Antoine Griezmann, Luciano Vietto
+
+MATCH: 2899912 | sob., 12.05.2018 | Getafe CF
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Juanfran Torres, Thomas Partey, Gabi, Saúl Ñíguez, Koke, Antoine Griezmann, Diego Costa
+
+MATCH: 2899904 | niedz., 15.04.2018 | Levante UD
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Lucas Hernández, Sime Vrsaljko, Saúl Ñíguez, Koke, Vitolo, Ángel Correa, Antoine Griezmann, Kévin Gameiro
+
+MATCH: 2899866 | niedz., 29.04.2018 | Deportivo Alavés
+PLAYERS: Axel Werner, Stefan Savic, Lucas Hernández, Sime Vrsaljko, Thomas Partey, Gabi, Koke, Vitolo, Ángel Correa, Fernando Torres, Diego Costa
+
+MATCH: 3009823 | czw., 15.03.2018 | Lokomotiw Moskwa
+PLAYERS: Axel Werner, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Thomas Partey, Gabi, Saúl Ñíguez, Koke, Ángel Correa, Fernando Torres
+
+MATCH: 2899638 | niedz., 22.10.2017 | Celta de Vigo
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Lucas Hernández, Juanfran Torres, Thomas Partey, Gabi, Saúl Ñíguez, Ángel Correa, Antoine Griezmann, Kévin Gameiro
+
+MATCH: 2899652 | sob., 04.11.2017 | Deportivo de La Coruña
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Lucas Hernández, Juanfran Torres, Thomas Partey, Gabi, Augusto Fernández, Saúl Ñíguez, Ángel Correa, Antoine Griezmann
+
+MATCH: 3018981 | czw., 05.04.2018 | Sporting CP
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Lucas Hernández, Juanfran Torres, Gabi, Saúl Ñíguez, Koke, Ángel Correa, Antoine Griezmann, Diego Costa
+
+MATCH: 2917393 | śr., 18.10.2017 | Qarabağ FK
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Sime Vrsaljko, Gabi, Saúl Ñíguez, Yannick Carrasco, Nico Gaitán, Antoine Griezmann, Kévin Gameiro
+
+MATCH: 2899576 | sob., 09.09.2017 | Valencia CF
+PLAYERS: Jan Oblak, Stefan Savic, Lucas Hernández, Filipe Luís, Juanfran Torres, Thomas Partey, Saúl Ñíguez, Koke, Yannick Carrasco, Ángel Correa, Luciano Vietto
+
+MATCH: 2899700 | sob., 16.12.2017 | Deportivo Alavés
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Sime Vrsaljko, Thomas Partey, Gabi, Saúl Ñíguez, Koke, Antoine Griezmann, Kévin Gameiro
+
+MATCH: 2899793 | sob., 10.02.2018 | Málaga CF
+PLAYERS: Jan Oblak, José María Giménez, Lucas Hernández, Filipe Luís, Sime Vrsaljko, Gabi, Saúl Ñíguez, Koke, Vitolo, Antoine Griezmann, Diego Costa
+
+MATCH: 2899724 | sob., 06.01.2018 | Getafe CF
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Lucas Hernández, Sime Vrsaljko, Gabi, Koke, Yannick Carrasco, Ángel Correa, Antoine Griezmann, Diego Costa
+
+MATCH: 2899816 | niedz., 01.04.2018 | Deportivo de La Coruña
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Lucas Hernández, Carlos Isaac, Thomas Partey, Gabi, Saúl Ñíguez, Koke, Ángel Correa, Kévin Gameiro
+
+MATCH: 3018985 | czw., 12.04.2018 | Sporting CP
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Lucas Hernández, Juanfran Torres, Gabi, Saúl Ñíguez, Koke, Vitolo, Antoine Griezmann, Diego Costa
+
+MATCH: 2899734 | sob., 20.01.2018 | Girona FC
+PLAYERS: Jan Oblak, Stefan Savic, José María Giménez, Lucas Hernández, Sime Vrsaljko, Thomas Partey, Saúl Ñíguez, Yannick Carrasco, Ángel Correa, Antoine Griezmann, Diego Costa
+
+MATCH: 2899823 | niedz., 11.03.2018 | Celta de Vigo
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Lucas Hernández, Sime Vrsaljko, Gabi, Saúl Ñíguez, Koke, Vitolo, Antoine Griezmann, Diego Costa
+
+MATCH: 2929824 | śr., 25.10.2017 | Elche CF
+PLAYERS: Miguel Ángel Moyá, José María Giménez, Lucas Hernández, Sergi González, Sime Vrsaljko, Thomas Partey, Augusto Fernández, Keidi Bare, Nico Gaitán, Luciano Vietto, Fernando Torres
+
+MATCH: 2899819 | niedz., 04.03.2018 | FC Barcelona
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Sime Vrsaljko, Thomas Partey, Gabi, Saúl Ñíguez, Koke, Antoine Griezmann, Diego Costa
+
+MATCH: 2899891 | czw., 19.04.2018 | Real Sociedad
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Sime Vrsaljko, Juanfran Torres, Thomas Partey, Saúl Ñíguez, Koke, Ángel Correa, Antoine Griezmann, Kévin Gameiro
+
+MATCH: 2917409 | wt., 31.10.2017 | Qarabağ FK
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Juanfran Torres, Thomas Partey, Gabi, Saúl Ñíguez, Ángel Correa, Antoine Griezmann, Kévin Gameiro
+
+MATCH: 2917441 | wt., 05.12.2017 | Chelsea FC
+PLAYERS: Jan Oblak, Stefan Savic, Lucas Hernández, Filipe Luís, José María Giménez, Saúl Ñíguez, Gabi, Thomas Partey, Koke, Antoine Griezmann, Fernando Torres
+
+MATCH: 2899921 | niedz., 20.05.2018 | SD Eibar
+PLAYERS: Jan Oblak, Stefan Savic, Lucas Hernández, Filipe Luís, Juanfran Torres, Gabi, Saúl Ñíguez, Koke, Vitolo, Ángel Correa, Fernando Torres
+
+MATCH: 2899822 | niedz., 18.03.2018 | Villarreal CF
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Lucas Hernández, Sime Vrsaljko, Thomas Partey, Saúl Ñíguez, Koke, Ángel Correa, Antoine Griezmann, Diego Costa
+
+MATCH: 2899664 | sob., 18.11.2017 | Real Madryt
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Lucas Hernández, Juanfran Torres, Thomas Partey, Gabi, Saúl Ñíguez, Koke, Ángel Correa, Antoine Griezmann
+
+MATCH: 2989787 | wt., 23.01.2018 | Sevilla FC
+PLAYERS: Miguel Ángel Moyá, Diego Godín, José María Giménez, Lucas Hernández, Sime Vrsaljko, Saúl Ñíguez, Gabi, Koke, Ángel Correa, Antoine Griezmann, Kévin Gameiro
+
+MATCH: 2982090 | czw., 22.02.2018 | FC Kopenhaga
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Sergi González, Juanfran Torres, Gabi, Koke, Vitolo, Ángel Correa, Fernando Torres, Kévin Gameiro
+
+MATCH: 2978831 | śr., 03.01.2018 | Club Lleida Esportiu
+PLAYERS: Miguel Ángel Moyá, Diego Godín, José María Giménez, Lucas Hernández, Juanfran Torres, Augusto Fernández, Saúl Ñíguez, Yannick Carrasco, Ángel Correa, Fernando Torres, Kévin Gameiro
+
+MATCH: 2899717 | pt., 22.12.2017 | RCD Espanyol
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Sime Vrsaljko, Thomas Partey, Gabi, Saúl Ñíguez, Koke, Antoine Griezmann, Fernando Torres
+
+MATCH: 2929836 | śr., 29.11.2017 | Elche CF
+PLAYERS: Miguel Ángel Moyá, Stefan Savic, José María Giménez, Lucas Hernández, Thomas Partey, Augusto Fernández, Koke, Yannick Carrasco, Nico Gaitán, Fernando Torres, Luciano Vietto
+
+MATCH: 2899795 | niedz., 25.02.2018 | Sevilla FC
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Sime Vrsaljko, Thomas Partey, Gabi, Saúl Ñíguez, Koke, Antoine Griezmann, Diego Costa
+
+MATCH: 2917385 | śr., 27.09.2017 | Chelsea FC
+PLAYERS: Jan Oblak, Diego Godín, Lucas Hernández, Filipe Luís, Juanfran Torres, Thomas Partey, Saúl Ñíguez, Koke, Yannick Carrasco, Ángel Correa, Antoine Griezmann
+
+MATCH: 2899686 | niedz., 10.12.2017 | Real Betis Balompié
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Sime Vrsaljko, Thomas Partey, Gabi, Saúl Ñíguez, Koke, Ángel Correa, Kévin Gameiro
+
+MATCH: 2899785 | niedz., 18.02.2018 | Athletic Bilbao
+PLAYERS: Jan Oblak, José María Giménez, Lucas Hernández, Filipe Luís, Sime Vrsaljko, Thomas Partey, Saúl Ñíguez, Koke, Ángel Correa, Antoine Griezmann, Diego Costa
+
+MATCH: 2982074 | czw., 15.02.2018 | FC Kopenhaga
+PLAYERS: Miguel Ángel Moyá, Diego Godín, José María Giménez, Lucas Hernández, Juanfran Torres, Thomas Partey, Saúl Ñíguez, Koke, Ángel Correa, Antoine Griezmann, Kévin Gameiro
+
+MATCH: 2899838 | niedz., 08.04.2018 | Real Madryt
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Lucas Hernández, Juanfran Torres, Thomas Partey, Saúl Ñíguez, Koke, Vitolo, Antoine Griezmann, Diego Costa
+
+MATCH: 2978839 | wt., 09.01.2018 | Club Lleida Esportiu
+PLAYERS: Miguel Ángel Moyá, Stefan Savic, Lucas Hernández, Sergi González, Juanfran Torres, Augusto Fernández, Gabi, Yannick Carrasco, Vitolo, Fernando Torres, Diego Costa
+
+MATCH: 2899617 | sob., 14.10.2017 | FC Barcelona
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Juanfran Torres, Saúl Ñíguez, Gabi, Koke, Yannick Carrasco, Ángel Correa, Antoine Griezmann
+
+MATCH: 2899882 | niedz., 06.05.2018 | RCD Espanyol
+PLAYERS: Jan Oblak, Stefan Savic, José María Giménez, Lucas Hernández, Filipe Luís, Sime Vrsaljko, Thomas Partey, Koke, Vitolo, Fernando Torres, Kévin Gameiro
+
+MATCH: 2899647 | sob., 28.10.2017 | Villarreal CF
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Juanfran Torres, Thomas Partey, Gabi, Saúl Ñíguez, Ángel Correa, Antoine Griezmann, Kévin Gameiro
+
+MATCH: 2917362 | wt., 12.09.2017 | AS Roma
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Juanfran Torres, Thomas Partey, Gabi, Saúl Ñíguez, Koke, Antoine Griezmann, Luciano Vietto
+
+MATCH: 2899612 | sob., 30.09.2017 | CD Leganés
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Saúl Ñíguez, José María Giménez, Thomas Partey, Gabi, Koke, Ángel Correa, Antoine Griezmann, Luciano Vietto
+
+MATCH: 2899680 | sob., 02.12.2017 | Real Sociedad
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Thomas Partey, Saúl Ñíguez, Gabi, Koke, Ángel Correa, Antoine Griezmann, Kévin Gameiro
+
+MATCH: 2917426 | śr., 22.11.2017 | AS Roma
+PLAYERS: Jan Oblak, José María Giménez, Lucas Hernández, Filipe Luís, Thomas Partey, Augusto Fernández, Koke, Saúl Ñíguez, Yannick Carrasco, Antoine Griezmann, Fernando Torres
+
+MATCH: 3030591 | czw., 03.05.2018 | FC Arsenal
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Lucas Hernández, Thomas Partey, Gabi, Saúl Ñíguez, Koke, Vitolo, Antoine Griezmann, Diego Costa
+
+MATCH: 2899598 | śr., 20.09.2017 | Athletic Bilbao
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, José María Giménez, Thomas Partey, Saúl Ñíguez, Koke, Nico Gaitán, Ángel Correa, Antoine Griezmann
+
+MATCH: 2899777 | niedz., 04.02.2018 | Valencia CF
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Lucas Hernández, Sime Vrsaljko, Saúl Ñíguez, Koke, Yannick Carrasco, Ángel Correa, Antoine Griezmann, Diego Costa
+
+MATCH: 2899858 | niedz., 22.04.2018 | Real Betis Balompié
+PLAYERS: Jan Oblak, Stefan Savic, José María Giménez, Lucas Hernández, Juanfran Torres, Thomas Partey, Gabi, Saúl Ñíguez, Vitolo, Ángel Correa, Fernando Torres
+
+MATCH: 2989783 | śr., 17.01.2018 | Sevilla FC
+PLAYERS: Miguel Ángel Moyá, Diego Godín, Stefan Savic, Lucas Hernández, Juanfran Torres, Gabi, Saúl Ñíguez, Koke, Vitolo, Antoine Griezmann, Diego Costa
+
+MATCH: 2899937 | sob., 26.08.2017 | UD Las Palmas
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Lucas Hernández, Sime Vrsaljko, Thomas Partey, Koke, Saúl Ñíguez, Yannick Carrasco, Ángel Correa, Luciano Vietto
+

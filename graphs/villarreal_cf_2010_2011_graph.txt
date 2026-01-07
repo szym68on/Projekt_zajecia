@@ -1,0 +1,283 @@
+# Graph for Java/GraphStream
+# Nodes: 27
+# Edges: 277
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Diego López | Carlos Marchena | 36 | 54 | 36
+EDGE Diego López | Mateo Musacchio | 42 | 54 | 47
+EDGE Diego López | Joan Capdevila | 39 | 54 | 42
+EDGE Diego López | Ángel López | 23 | 54 | 25
+EDGE Diego López | Bruno Soriano | 51 | 54 | 53
+EDGE Diego López | Marcos Senna | 19 | 54 | 19
+EDGE Diego López | Santi Cazorla | 45 | 54 | 48
+EDGE Diego López | Borja Valero | 47 | 54 | 51
+EDGE Diego López | Giuseppe Rossi | 49 | 54 | 52
+EDGE Diego López | Nilmar | 33 | 54 | 35
+EDGE Diego López | Gonzalo Rodríguez | 31 | 54 | 35
+EDGE Diego López | Cani | 36 | 54 | 40
+EDGE Diego López | Jozy Altidore | 4 | 54 | 7
+EDGE Diego López | José Manuel Catalá | 17 | 54 | 22
+EDGE Diego López | Marco Ruben | 20 | 54 | 23
+EDGE Diego López | Mario Gaspar | 30 | 54 | 34
+EDGE Diego López | Javier Matilla | 5 | 54 | 9
+EDGE Diego López | Mubarak Wakaso | 3 | 54 | 3
+EDGE Diego López | Carlos Tomás | 1 | 54 | 1
+EDGE Diego López | Joan Oriol | 2 | 54 | 5
+EDGE Diego López | Cristóbal Márquez | 1 | 54 | 3
+EDGE Diego López | Marcos Gullón | 1 | 54 | 1
+EDGE Diego López | Jefferson Montero | 2 | 54 | 5
+EDGE Diego López | Kiko Olivas | 2 | 54 | 3
+EDGE Diego López | Cicinho | 1 | 54 | 1
+EDGE Carlos Marchena | Mateo Musacchio | 27 | 36 | 47
+EDGE Carlos Marchena | Joan Capdevila | 23 | 36 | 42
+EDGE Carlos Marchena | Ángel López | 17 | 36 | 25
+EDGE Carlos Marchena | Bruno Soriano | 34 | 36 | 53
+EDGE Carlos Marchena | Marcos Senna | 13 | 36 | 19
+EDGE Carlos Marchena | Santi Cazorla | 30 | 36 | 48
+EDGE Carlos Marchena | Borja Valero | 33 | 36 | 51
+EDGE Carlos Marchena | Giuseppe Rossi | 32 | 36 | 52
+EDGE Carlos Marchena | Nilmar | 24 | 36 | 35
+EDGE Carlos Marchena | Gonzalo Rodríguez | 16 | 36 | 35
+EDGE Carlos Marchena | Cani | 21 | 36 | 40
+EDGE Carlos Marchena | Jozy Altidore | 2 | 36 | 7
+EDGE Carlos Marchena | José Manuel Catalá | 12 | 36 | 22
+EDGE Carlos Marchena | Mario Gaspar | 19 | 36 | 34
+EDGE Carlos Marchena | Marco Ruben | 11 | 36 | 23
+EDGE Carlos Marchena | Javier Matilla | 3 | 36 | 9
+EDGE Carlos Marchena | Mubarak Wakaso | 3 | 36 | 3
+EDGE Carlos Marchena | Joan Oriol | 1 | 36 | 5
+EDGE Carlos Marchena | Cristóbal Márquez | 1 | 36 | 3
+EDGE Carlos Marchena | Marcos Gullón | 1 | 36 | 1
+EDGE Carlos Marchena | Kiko Olivas | 1 | 36 | 3
+EDGE Mateo Musacchio | Joan Capdevila | 30 | 47 | 42
+EDGE Mateo Musacchio | Ángel López | 17 | 47 | 25
+EDGE Mateo Musacchio | Bruno Soriano | 40 | 47 | 53
+EDGE Mateo Musacchio | Marcos Senna | 16 | 47 | 19
+EDGE Mateo Musacchio | Santi Cazorla | 36 | 47 | 48
+EDGE Mateo Musacchio | Borja Valero | 40 | 47 | 51
+EDGE Mateo Musacchio | Giuseppe Rossi | 39 | 47 | 52
+EDGE Mateo Musacchio | Nilmar | 28 | 47 | 35
+EDGE Mateo Musacchio | Gonzalo Rodríguez | 23 | 47 | 35
+EDGE Mateo Musacchio | Cani | 28 | 47 | 40
+EDGE Mateo Musacchio | Jozy Altidore | 6 | 47 | 7
+EDGE Mateo Musacchio | José Manuel Catalá | 18 | 47 | 22
+EDGE Mateo Musacchio | Mario Gaspar | 29 | 47 | 34
+EDGE Mateo Musacchio | Marco Ruben | 17 | 47 | 23
+EDGE Mateo Musacchio | Juan Carlos | 5 | 47 | 6
+EDGE Mateo Musacchio | Joan Oriol | 4 | 47 | 5
+EDGE Mateo Musacchio | Javier Matilla | 9 | 47 | 9
+EDGE Mateo Musacchio | Cristóbal Márquez | 3 | 47 | 3
+EDGE Mateo Musacchio | Jefferson Montero | 5 | 47 | 5
+EDGE Mateo Musacchio | Mubarak Wakaso | 3 | 47 | 3
+EDGE Mateo Musacchio | Marcos Gullón | 1 | 47 | 1
+EDGE Mateo Musacchio | Kiko Olivas | 3 | 47 | 3
+EDGE Mateo Musacchio | Cicinho | 1 | 47 | 1
+EDGE Joan Capdevila | Ángel López | 22 | 42 | 25
+EDGE Joan Capdevila | Bruno Soriano | 40 | 42 | 53
+EDGE Joan Capdevila | Marcos Senna | 16 | 42 | 19
+EDGE Joan Capdevila | Santi Cazorla | 37 | 42 | 48
+EDGE Joan Capdevila | Borja Valero | 38 | 42 | 51
+EDGE Joan Capdevila | Giuseppe Rossi | 38 | 42 | 52
+EDGE Joan Capdevila | Nilmar | 27 | 42 | 35
+EDGE Joan Capdevila | Gonzalo Rodríguez | 25 | 42 | 35
+EDGE Joan Capdevila | Cani | 32 | 42 | 40
+EDGE Joan Capdevila | Jozy Altidore | 3 | 42 | 7
+EDGE Joan Capdevila | José Manuel Catalá | 5 | 42 | 22
+EDGE Joan Capdevila | Marco Ruben | 14 | 42 | 23
+EDGE Joan Capdevila | Carlos Tomás | 1 | 42 | 1
+EDGE Joan Capdevila | Mario Gaspar | 20 | 42 | 34
+EDGE Joan Capdevila | Juan Carlos | 3 | 42 | 6
+EDGE Joan Capdevila | Jefferson Montero | 1 | 42 | 5
+EDGE Joan Capdevila | Javier Matilla | 4 | 42 | 9
+EDGE Joan Capdevila | Kiko Olivas | 2 | 42 | 3
+EDGE Ángel López | Bruno Soriano | 25 | 25 | 53
+EDGE Ángel López | Marcos Senna | 12 | 25 | 19
+EDGE Ángel López | Santi Cazorla | 24 | 25 | 48
+EDGE Ángel López | Borja Valero | 22 | 25 | 51
+EDGE Ángel López | Giuseppe Rossi | 23 | 25 | 52
+EDGE Ángel López | Nilmar | 17 | 25 | 35
+EDGE Ángel López | Gonzalo Rodríguez | 14 | 25 | 35
+EDGE Ángel López | Cani | 19 | 25 | 40
+EDGE Ángel López | Jozy Altidore | 2 | 25 | 7
+EDGE Ángel López | José Manuel Catalá | 5 | 25 | 22
+EDGE Ángel López | Marco Ruben | 5 | 25 | 23
+EDGE Ángel López | Joan Oriol | 1 | 25 | 5
+EDGE Ángel López | Juan Carlos | 2 | 25 | 6
+EDGE Bruno Soriano | Marcos Senna | 19 | 53 | 19
+EDGE Bruno Soriano | Santi Cazorla | 46 | 53 | 48
+EDGE Bruno Soriano | Borja Valero | 46 | 53 | 51
+EDGE Bruno Soriano | Giuseppe Rossi | 49 | 53 | 52
+EDGE Bruno Soriano | Nilmar | 33 | 53 | 35
+EDGE Bruno Soriano | Gonzalo Rodríguez | 31 | 53 | 35
+EDGE Bruno Soriano | Cani | 35 | 53 | 40
+EDGE Bruno Soriano | Jozy Altidore | 3 | 53 | 7
+EDGE Bruno Soriano | José Manuel Catalá | 16 | 53 | 22
+EDGE Bruno Soriano | Marco Ruben | 20 | 53 | 23
+EDGE Bruno Soriano | Mario Gaspar | 28 | 53 | 34
+EDGE Bruno Soriano | Javier Matilla | 4 | 53 | 9
+EDGE Bruno Soriano | Mubarak Wakaso | 3 | 53 | 3
+EDGE Bruno Soriano | Carlos Tomás | 1 | 53 | 1
+EDGE Bruno Soriano | Joan Oriol | 1 | 53 | 5
+EDGE Bruno Soriano | Juan Carlos | 2 | 53 | 6
+EDGE Bruno Soriano | Jefferson Montero | 1 | 53 | 5
+EDGE Bruno Soriano | Kiko Olivas | 2 | 53 | 3
+EDGE Marcos Senna | Santi Cazorla | 17 | 19 | 48
+EDGE Marcos Senna | Borja Valero | 14 | 19 | 51
+EDGE Marcos Senna | Giuseppe Rossi | 17 | 19 | 52
+EDGE Marcos Senna | Nilmar | 13 | 19 | 35
+EDGE Marcos Senna | José Manuel Catalá | 3 | 19 | 22
+EDGE Marcos Senna | Mario Gaspar | 7 | 19 | 34
+EDGE Marcos Senna | Cani | 9 | 19 | 40
+EDGE Marcos Senna | Carlos Tomás | 1 | 19 | 1
+EDGE Marcos Senna | Marco Ruben | 4 | 19 | 23
+EDGE Marcos Senna | Gonzalo Rodríguez | 7 | 19 | 35
+EDGE Marcos Senna | Joan Oriol | 1 | 19 | 5
+EDGE Marcos Senna | Jefferson Montero | 1 | 19 | 5
+EDGE Marcos Senna | Jozy Altidore | 1 | 19 | 7
+EDGE Santi Cazorla | Borja Valero | 42 | 48 | 51
+EDGE Santi Cazorla | Giuseppe Rossi | 45 | 48 | 52
+EDGE Santi Cazorla | Nilmar | 32 | 48 | 35
+EDGE Santi Cazorla | Gonzalo Rodríguez | 27 | 48 | 35
+EDGE Santi Cazorla | José Manuel Catalá | 15 | 48 | 22
+EDGE Santi Cazorla | Cani | 32 | 48 | 40
+EDGE Santi Cazorla | Marco Ruben | 15 | 48 | 23
+EDGE Santi Cazorla | Mario Gaspar | 24 | 48 | 34
+EDGE Santi Cazorla | Javier Matilla | 4 | 48 | 9
+EDGE Santi Cazorla | Mubarak Wakaso | 1 | 48 | 3
+EDGE Santi Cazorla | Carlos Tomás | 1 | 48 | 1
+EDGE Santi Cazorla | Joan Oriol | 1 | 48 | 5
+EDGE Santi Cazorla | Juan Carlos | 3 | 48 | 6
+EDGE Santi Cazorla | Kiko Olivas | 2 | 48 | 3
+EDGE Santi Cazorla | Jozy Altidore | 1 | 48 | 7
+EDGE Borja Valero | Giuseppe Rossi | 47 | 51 | 52
+EDGE Borja Valero | Nilmar | 29 | 51 | 35
+EDGE Borja Valero | Gonzalo Rodríguez | 29 | 51 | 35
+EDGE Borja Valero | Cani | 34 | 51 | 40
+EDGE Borja Valero | Jozy Altidore | 4 | 51 | 7
+EDGE Borja Valero | José Manuel Catalá | 18 | 51 | 22
+EDGE Borja Valero | Marco Ruben | 18 | 51 | 23
+EDGE Borja Valero | Mario Gaspar | 28 | 51 | 34
+EDGE Borja Valero | Carlos Tomás | 1 | 51 | 1
+EDGE Borja Valero | Cristóbal Márquez | 1 | 51 | 3
+EDGE Borja Valero | Marcos Gullón | 1 | 51 | 1
+EDGE Borja Valero | Juan Carlos | 4 | 51 | 6
+EDGE Borja Valero | Javier Matilla | 5 | 51 | 9
+EDGE Borja Valero | Kiko Olivas | 2 | 51 | 3
+EDGE Borja Valero | Mubarak Wakaso | 2 | 51 | 3
+EDGE Borja Valero | Joan Oriol | 2 | 51 | 5
+EDGE Borja Valero | Jefferson Montero | 2 | 51 | 5
+EDGE Borja Valero | Cicinho | 1 | 51 | 1
+EDGE Giuseppe Rossi | Nilmar | 30 | 52 | 35
+EDGE Giuseppe Rossi | Gonzalo Rodríguez | 30 | 52 | 35
+EDGE Giuseppe Rossi | José Manuel Catalá | 18 | 52 | 22
+EDGE Giuseppe Rossi | Cani | 35 | 52 | 40
+EDGE Giuseppe Rossi | Marco Ruben | 20 | 52 | 23
+EDGE Giuseppe Rossi | Mario Gaspar | 28 | 52 | 34
+EDGE Giuseppe Rossi | Carlos Tomás | 1 | 52 | 1
+EDGE Giuseppe Rossi | Joan Oriol | 2 | 52 | 5
+EDGE Giuseppe Rossi | Cristóbal Márquez | 1 | 52 | 3
+EDGE Giuseppe Rossi | Marcos Gullón | 1 | 52 | 1
+EDGE Giuseppe Rossi | Juan Carlos | 3 | 52 | 6
+EDGE Giuseppe Rossi | Javier Matilla | 4 | 52 | 9
+EDGE Giuseppe Rossi | Kiko Olivas | 2 | 52 | 3
+EDGE Giuseppe Rossi | Jozy Altidore | 2 | 52 | 7
+EDGE Giuseppe Rossi | Mubarak Wakaso | 2 | 52 | 3
+EDGE Giuseppe Rossi | Cicinho | 1 | 52 | 1
+EDGE Giuseppe Rossi | Jefferson Montero | 1 | 52 | 5
+EDGE Nilmar | Gonzalo Rodríguez | 18 | 35 | 35
+EDGE Nilmar | Cani | 22 | 35 | 40
+EDGE Nilmar | Jozy Altidore | 2 | 35 | 7
+EDGE Nilmar | José Manuel Catalá | 7 | 35 | 22
+EDGE Nilmar | Mario Gaspar | 18 | 35 | 34
+EDGE Nilmar | Javier Matilla | 4 | 35 | 9
+EDGE Nilmar | Mubarak Wakaso | 1 | 35 | 3
+EDGE Nilmar | Marco Ruben | 3 | 35 | 23
+EDGE Nilmar | Joan Oriol | 2 | 35 | 5
+EDGE Nilmar | Kiko Olivas | 3 | 35 | 3
+EDGE Nilmar | Juan Carlos | 2 | 35 | 6
+EDGE Nilmar | Jefferson Montero | 1 | 35 | 5
+EDGE Nilmar | Cristóbal Márquez | 1 | 35 | 3
+EDGE Gonzalo Rodríguez | Cani | 27 | 35 | 40
+EDGE Gonzalo Rodríguez | Jozy Altidore | 6 | 35 | 7
+EDGE Gonzalo Rodríguez | José Manuel Catalá | 12 | 35 | 22
+EDGE Gonzalo Rodríguez | Marco Ruben | 15 | 35 | 23
+EDGE Gonzalo Rodríguez | Mario Gaspar | 20 | 35 | 34
+EDGE Gonzalo Rodríguez | Juan Carlos | 4 | 35 | 6
+EDGE Gonzalo Rodríguez | Joan Oriol | 4 | 35 | 5
+EDGE Gonzalo Rodríguez | Javier Matilla | 4 | 35 | 9
+EDGE Gonzalo Rodríguez | Cristóbal Márquez | 1 | 35 | 3
+EDGE Gonzalo Rodríguez | Jefferson Montero | 4 | 35 | 5
+EDGE Gonzalo Rodríguez | Mubarak Wakaso | 1 | 35 | 3
+EDGE Gonzalo Rodríguez | Cicinho | 1 | 35 | 1
+EDGE Cani | Jozy Altidore | 5 | 40 | 7
+EDGE Cani | José Manuel Catalá | 11 | 40 | 22
+EDGE Cani | Marco Ruben | 15 | 40 | 23
+EDGE Cani | Joan Oriol | 3 | 40 | 5
+EDGE Cani | Mario Gaspar | 20 | 40 | 34
+EDGE Cani | Cristóbal Márquez | 1 | 40 | 3
+EDGE Cani | Marcos Gullón | 1 | 40 | 1
+EDGE Cani | Juan Carlos | 4 | 40 | 6
+EDGE Cani | Jefferson Montero | 3 | 40 | 5
+EDGE Cani | Javier Matilla | 5 | 40 | 9
+EDGE Cani | Kiko Olivas | 1 | 40 | 3
+EDGE Cani | Cicinho | 1 | 40 | 1
+EDGE Jozy Altidore | Juan Carlos | 3 | 7 | 6
+EDGE Jozy Altidore | Mario Gaspar | 4 | 7 | 34
+EDGE Jozy Altidore | José Manuel Catalá | 4 | 7 | 22
+EDGE Jozy Altidore | Joan Oriol | 4 | 7 | 5
+EDGE Jozy Altidore | Javier Matilla | 3 | 7 | 9
+EDGE Jozy Altidore | Cristóbal Márquez | 2 | 7 | 3
+EDGE Jozy Altidore | Jefferson Montero | 5 | 7 | 5
+EDGE Jozy Altidore | Marco Ruben | 2 | 7 | 23
+EDGE Jozy Altidore | Kiko Olivas | 1 | 7 | 3
+EDGE Jozy Altidore | Cicinho | 1 | 7 | 1
+EDGE José Manuel Catalá | Marco Ruben | 14 | 22 | 23
+EDGE José Manuel Catalá | Mario Gaspar | 16 | 22 | 34
+EDGE José Manuel Catalá | Juan Carlos | 5 | 22 | 6
+EDGE José Manuel Catalá | Joan Oriol | 4 | 22 | 5
+EDGE José Manuel Catalá | Javier Matilla | 6 | 22 | 9
+EDGE José Manuel Catalá | Cristóbal Márquez | 3 | 22 | 3
+EDGE José Manuel Catalá | Jefferson Montero | 4 | 22 | 5
+EDGE José Manuel Catalá | Mubarak Wakaso | 3 | 22 | 3
+EDGE José Manuel Catalá | Carlos Tomás | 1 | 22 | 1
+EDGE José Manuel Catalá | Marcos Gullón | 1 | 22 | 1
+EDGE José Manuel Catalá | Kiko Olivas | 1 | 22 | 3
+EDGE José Manuel Catalá | Cicinho | 1 | 22 | 1
+EDGE Marco Ruben | Mario Gaspar | 18 | 23 | 34
+EDGE Marco Ruben | Juan Carlos | 3 | 23 | 6
+EDGE Marco Ruben | Joan Oriol | 1 | 23 | 5
+EDGE Marco Ruben | Javier Matilla | 6 | 23 | 9
+EDGE Marco Ruben | Cristóbal Márquez | 2 | 23 | 3
+EDGE Marco Ruben | Jefferson Montero | 2 | 23 | 5
+EDGE Marco Ruben | Mubarak Wakaso | 3 | 23 | 3
+EDGE Marco Ruben | Carlos Tomás | 1 | 23 | 1
+EDGE Marco Ruben | Marcos Gullón | 1 | 23 | 1
+EDGE Mario Gaspar | Juan Carlos | 4 | 34 | 6
+EDGE Mario Gaspar | Joan Oriol | 3 | 34 | 5
+EDGE Mario Gaspar | Javier Matilla | 9 | 34 | 9
+EDGE Mario Gaspar | Cristóbal Márquez | 3 | 34 | 3
+EDGE Mario Gaspar | Jefferson Montero | 4 | 34 | 5
+EDGE Mario Gaspar | Mubarak Wakaso | 3 | 34 | 3
+EDGE Mario Gaspar | Carlos Tomás | 1 | 34 | 1
+EDGE Mario Gaspar | Marcos Gullón | 1 | 34 | 1
+EDGE Mario Gaspar | Kiko Olivas | 3 | 34 | 3
+EDGE Juan Carlos | Joan Oriol | 3 | 6 | 5
+EDGE Juan Carlos | Javier Matilla | 4 | 6 | 9
+EDGE Juan Carlos | Cristóbal Márquez | 2 | 6 | 3
+EDGE Juan Carlos | Jefferson Montero | 3 | 6 | 5
+EDGE Juan Carlos | Kiko Olivas | 1 | 6 | 3
+EDGE Joan Oriol | Javier Matilla | 3 | 5 | 9
+EDGE Joan Oriol | Cristóbal Márquez | 2 | 5 | 3
+EDGE Joan Oriol | Jefferson Montero | 4 | 5 | 5
+EDGE Joan Oriol | Kiko Olivas | 1 | 5 | 3
+EDGE Joan Oriol | Cicinho | 1 | 5 | 1
+EDGE Javier Matilla | Cristóbal Márquez | 2 | 9 | 3
+EDGE Javier Matilla | Jefferson Montero | 3 | 9 | 5
+EDGE Javier Matilla | Mubarak Wakaso | 2 | 9 | 3
+EDGE Javier Matilla | Kiko Olivas | 1 | 9 | 3
+EDGE Cristóbal Márquez | Jefferson Montero | 2 | 3 | 5
+EDGE Cristóbal Márquez | Marcos Gullón | 1 | 3 | 1
+EDGE Cristóbal Márquez | Kiko Olivas | 1 | 3 | 3
+EDGE Jefferson Montero | Kiko Olivas | 1 | 5 | 3
+EDGE Jefferson Montero | Cicinho | 1 | 5 | 1

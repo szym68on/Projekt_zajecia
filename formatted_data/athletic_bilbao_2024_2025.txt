@@ -1,0 +1,169 @@
+# Team: Athletic Bilbao
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 4364905 | sob., 31.08.2024 | Atlético Madryt
+PLAYERS: Julen Agirrezabala, Dani Vivian, Yeray Álvarez, Yuri Berchiche, Iñigo Lekue, Ander Herrera, Beñat Prados, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4445498 | czw., 07.11.2024 | Ludogorets Razgrad
+PLAYERS: Julen Agirrezabala, Dani Vivian, Aitor Paredes, Yuri Berchiche, Andoni Gorosabel, Iñigo Ruiz de Galarreta, Beñat Prados, Álex Berenguer, Nico Williams, Iñaki Williams, Álvaro Djaló
+
+MATCH: 4407764 | sob., 08.02.2025 | Girona FC
+PLAYERS: Unai Simón, Dani Vivian, Yeray Álvarez, Adama Boiro, Óscar de Marcos, Mikel Jauregizar, Beñat Prados, Oihan Sancet, Álex Berenguer, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4506878 | sob., 04.01.2025 | UD Logroñés
+PLAYERS: Julen Agirrezabala, Aitor Paredes, Unai Núñez, Adama Boiro, Óscar de Marcos, Mikel Vesga, Ander Herrera, Álex Berenguer, Álvaro Djaló, Nico Serrano, Gorka Guruzeta
+
+MATCH: 4407637 | niedz., 20.04.2025 | Real Madryt
+PLAYERS: Unai Simón, Aitor Paredes, Unai Núñez, Adama Boiro, Andoni Gorosabel, Mikel Vesga, Beñat Prados, Unai Gómez, Álex Berenguer, Álvaro Djaló, Gorka Guruzeta
+
+MATCH: 4361545 | czw., 15.08.2024 | Getafe CF
+PLAYERS: Álex Padilla, Aitor Paredes, Yeray Álvarez, Yuri Berchiche, Andoni Gorosabel, Mikel Vesga, Beñat Prados, Oihan Sancet, Álex Berenguer, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4407744 | niedz., 26.01.2025 | CD Leganés
+PLAYERS: Unai Simón, Dani Vivian, Yeray Álvarez, Adama Boiro, Andoni Gorosabel, Mikel Vesga, Mikel Jauregizar, Álex Berenguer, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4405378 | sob., 19.10.2024 | RCD Espanyol
+PLAYERS: Julen Agirrezabala, Dani Vivian, Unai Núñez, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Álex Berenguer, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4407608 | niedz., 04.05.2025 | Real Sociedad
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Iñigo Lekue, Andoni Gorosabel, Iñigo Ruiz de Galarreta, Beñat Prados, Unai Gómez, Álex Berenguer, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4407587 | niedz., 18.05.2025 | Valencia CF
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Iñigo Lekue, Iñigo Ruiz de Galarreta, Beñat Prados, Oihan Sancet, Adama Boiro, Álex Berenguer, Gorka Guruzeta
+
+MATCH: 4407624 | niedz., 13.04.2025 | Rayo Vallecano
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Adama Boiro, Andoni Gorosabel, Mikel Jauregizar, Beñat Prados, Unai Gómez, Álex Berenguer, Álvaro Djaló, Gorka Guruzeta
+
+MATCH: 4407668 | niedz., 10.11.2024 | Real Valladolid CF
+PLAYERS: Julen Agirrezabala, Aitor Paredes, Yeray Álvarez, Adama Boiro, Óscar de Marcos, Mikel Jauregizar, Beñat Prados, Unai Gómez, Nico Williams, Nico Serrano, Álex Berenguer
+
+MATCH: 4407576 | czw., 15.05.2025 | Getafe CF
+PLAYERS: Unai Simón, Dani Vivian, Yeray Álvarez, Yuri Berchiche, Mikel Vesga, Mikel Jauregizar, Andoni Gorosabel, Unai Gómez, Álex Berenguer, Gorka Guruzeta, Maroan Sannadi
+
+MATCH: 4407554 | niedz., 30.03.2025 | CA Osasuna
+PLAYERS: Unai Simón, Yeray Álvarez, Unai Núñez, Yuri Berchiche, Óscar de Marcos, Mikel Jauregizar, Beñat Prados, Álex Berenguer, Nico Williams, Iñaki Williams, Maroan Sannadi
+
+MATCH: 4547687 | czw., 06.03.2025 | AS Roma
+PLAYERS: Julen Agirrezabala, Dani Vivian, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Unai Gómez, Nico Williams, Iñaki Williams, Maroan Sannadi
+
+MATCH: 4547695 | czw., 13.03.2025 | AS Roma
+PLAYERS: Julen Agirrezabala, Aitor Paredes, Unai Núñez, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Unai Gómez, Nico Williams, Iñaki Williams, Maroan Sannadi
+
+MATCH: 4527520 | czw., 16.01.2025 | CA Osasuna
+PLAYERS: Julen Agirrezabala, Dani Vivian, Aitor Paredes, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Álex Berenguer, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4407534 | niedz., 23.02.2025 | Real Valladolid CF
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Mikel Jauregizar, Oihan Sancet, Nico Williams, Iñaki Williams, Maroan Sannadi
+
+MATCH: 4407707 | niedz., 15.12.2024 | Deportivo Alavés
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Adama Boiro, Óscar de Marcos, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Unai Gómez, Nico Williams, Iñaki Williams, Álex Berenguer
+
+MATCH: 4407644 | niedz., 24.11.2024 | Real Sociedad
+PLAYERS: Julen Agirrezabala, Dani Vivian, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Beñat Prados, Oihan Sancet, Nico Williams, Iñaki Williams, Álvaro Djaló
+
+MATCH: 4407738 | sob., 01.03.2025 | Atlético Madryt
+PLAYERS: Unai Simón, Dani Vivian, Yeray Álvarez, Yuri Berchiche, Andoni Gorosabel, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Unai Gómez, Nico Williams, Iñaki Williams, Álex Berenguer
+
+MATCH: 4407784 | niedz., 09.03.2025 | RCD Mallorca
+PLAYERS: Unai Simón, Aitor Paredes, Yeray Álvarez, Adama Boiro, Andoni Gorosabel, Mikel Jauregizar, Beñat Prados, Peio Canales, Nico Williams, Álex Berenguer, Gorka Guruzeta
+
+MATCH: 4407614 | śr., 23.04.2025 | UD Las Palmas
+PLAYERS: Unai Simón, Dani Vivian, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Oihan Sancet, Álex Berenguer, Iñaki Williams, Maroan Sannadi
+
+MATCH: 4361563 | śr., 28.08.2024 | Valencia CF
+PLAYERS: Julen Agirrezabala, Dani Vivian, Yeray Álvarez, Adama Boiro, Óscar de Marcos, Beñat Prados, Mikel Jauregizar, Oihan Sancet, Álvaro Djaló, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4405323 | niedz., 15.09.2024 | UD Las Palmas
+PLAYERS: Julen Agirrezabala, Dani Vivian, Aitor Paredes, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4405344 | czw., 19.09.2024 | CD Leganés
+PLAYERS: Julen Agirrezabala, Dani Vivian, Unai Núñez, Yuri Berchiche, Andoni Gorosabel, Mikel Vesga, Iñigo Ruiz de Galarreta, Unai Gómez, Álex Berenguer, Nico Williams, Álvaro Djaló
+
+MATCH: 4547801 | czw., 17.04.2025 | Glasgow Rangers
+PLAYERS: Julen Agirrezabala, Dani Vivian, Yeray Álvarez, Iñigo Lekue, Óscar de Marcos, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Oihan Sancet, Nico Williams, Álex Berenguer, Maroan Sannadi
+
+MATCH: 4407548 | niedz., 06.04.2025 | Villarreal CF
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Andoni Gorosabel, Mikel Jauregizar, Beñat Prados, Unai Gómez, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4527785 | śr., 08.01.2025 | FC Barcelona
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Iñigo Lekue, Mikel Jauregizar, Beñat Prados, Unai Gómez, Álex Berenguer, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4407714 | śr., 04.12.2024 | Real Madryt
+PLAYERS: Julen Agirrezabala, Dani Vivian, Yeray Álvarez, Adama Boiro, Andoni Gorosabel, Mikel Jauregizar, Beñat Prados, Oihan Sancet, Nico Williams, Iñaki Williams, Álex Berenguer
+
+MATCH: 4407727 | niedz., 19.01.2025 | Celta de Vigo
+PLAYERS: Unai Simón, Dani Vivian, Yeray Álvarez, Adama Boiro, Andoni Gorosabel, Iñigo Ruiz de Galarreta, Beñat Prados, Unai Gómez, Nico Williams, Iñaki Williams, Álex Berenguer
+
+MATCH: 4407516 | pon., 28.10.2024 | RCD Mallorca
+PLAYERS: Julen Agirrezabala, Aitor Paredes, Yeray Álvarez, Yuri Berchiche, Andoni Gorosabel, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4361561 | sob., 24.08.2024 | FC Barcelona
+PLAYERS: Álex Padilla, Dani Vivian, Yeray Álvarez, Yuri Berchiche, Iñigo Lekue, Mikel Vesga, Beñat Prados, Oihan Sancet, Nico Williams, Álex Berenguer, Iñaki Williams
+
+MATCH: 4407781 | niedz., 02.02.2025 | Real Betis Balompié
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Iñigo Lekue, Andoni Gorosabel, Mikel Vesga, Mikel Jauregizar, Álex Berenguer, Iñaki Williams, Unai Gómez, Oihan Sancet
+
+MATCH: 4445413 | czw., 30.01.2025 | FC Viktoria Pilzno
+PLAYERS: Julen Agirrezabala, Dani Vivian, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Beñat Prados, Mikel Jauregizar, Álex Berenguer, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4547806 | czw., 08.05.2025 | Manchester United
+PLAYERS: Julen Agirrezabala, Yeray Álvarez, Unai Núñez, Yuri Berchiche, Andoni Gorosabel, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Unai Gómez, Álex Berenguer, Álvaro Djaló, Maroan Sannadi
+
+MATCH: 4407564 | niedz., 25.05.2025 | FC Barcelona
+PLAYERS: Unai Simón, Aitor Paredes, Unai Núñez, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Unai Gómez, Nico Williams, Álex Berenguer, Maroan Sannadi
+
+MATCH: 4407602 | niedz., 11.05.2025 | Deportivo Alavés
+PLAYERS: Unai Simón, Dani Vivian, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Peio Canales, Álvaro Djaló, Aingeru Olabarrieta, Maroan Sannadi
+
+MATCH: 4407658 | niedz., 01.12.2024 | Rayo Vallecano
+PLAYERS: Julen Agirrezabala, Aitor Paredes, Yeray Álvarez, Yuri Berchiche, Iñigo Lekue, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Álex Berenguer, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4445412 | czw., 03.10.2024 | AZ Alkmaar
+PLAYERS: Julen Agirrezabala, Dani Vivian, Aitor Paredes, Yuri Berchiche, Andoni Gorosabel, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4405329 | niedz., 22.09.2024 | Celta de Vigo
+PLAYERS: Julen Agirrezabala, Dani Vivian, Aitor Paredes, Adama Boiro, Óscar de Marcos, Mikel Jauregizar, Beñat Prados, Oihan Sancet, Álex Berenguer, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4407694 | niedz., 03.11.2024 | Real Betis Balompié
+PLAYERS: Julen Agirrezabala, Dani Vivian, Aitor Paredes, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Beñat Prados, Oihan Sancet, Nico Williams, Iñaki Williams, Álvaro Djaló
+
+MATCH: 4547797 | czw., 10.04.2025 | Glasgow Rangers
+PLAYERS: Julen Agirrezabala, Dani Vivian, Yeray Álvarez, Iñigo Lekue, Óscar de Marcos, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Oihan Sancet, Nico Williams, Iñaki Williams, Maroan Sannadi
+
+MATCH: 4445414 | czw., 28.11.2024 | IF Elfsborg
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Adama Boiro, Andoni Gorosabel, Iñigo Ruiz de Galarreta, Beñat Prados, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4445346 | czw., 26.09.2024 | AS Roma
+PLAYERS: Julen Agirrezabala, Dani Vivian, Aitor Paredes, Yuri Berchiche, Andoni Gorosabel, Iñigo Ruiz de Galarreta, Beñat Prados, Unai Gómez, Álvaro Djaló, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4407527 | niedz., 16.03.2025 | Sevilla FC
+PLAYERS: Unai Simón, Yeray Álvarez, Unai Núñez, Iñigo Lekue, Andoni Gorosabel, Mikel Vesga, Beñat Prados, Unai Gómez, Álex Berenguer, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4405349 | niedz., 29.09.2024 | Sevilla FC
+PLAYERS: Julen Agirrezabala, Aitor Paredes, Unai Núñez, Iñigo Lekue, Óscar de Marcos, Mikel Vesga, Mikel Jauregizar, Unai Gómez, Nico Williams, Álex Berenguer, Iñaki Williams
+
+MATCH: 4407684 | niedz., 08.12.2024 | Villarreal CF
+PLAYERS: Julen Agirrezabala, Dani Vivian, Aitor Paredes, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Beñat Prados, Oihan Sancet, Álex Berenguer, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4445406 | śr., 11.12.2024 | Fenerbahce
+PLAYERS: Julen Agirrezabala, Aitor Paredes, Yeray Álvarez, Yuri Berchiche, Andoni Gorosabel, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4405364 | niedz., 06.10.2024 | Girona FC
+PLAYERS: Álex Padilla, Dani Vivian, Aitor Paredes, Adama Boiro, Óscar de Marcos, Iñigo Ruiz de Galarreta, Ander Herrera, Oihan Sancet, Álex Berenguer, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4445411 | czw., 24.10.2024 | SK Slavia Praga
+PLAYERS: Julen Agirrezabala, Dani Vivian, Aitor Paredes, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Beñat Prados, Álex Berenguer, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4547804 | czw., 01.05.2025 | Manchester United
+PLAYERS: Julen Agirrezabala, Dani Vivian, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Álex Berenguer, Nico Williams, Iñaki Williams, Maroan Sannadi
+
+MATCH: 4407758 | niedz., 16.02.2025 | RCD Espanyol
+PLAYERS: Unai Simón, Dani Vivian, Yeray Álvarez, Yuri Berchiche, Andoni Gorosabel, Mikel Jauregizar, Beñat Prados, Oihan Sancet, Álex Berenguer, Iñaki Williams, Maroan Sannadi
+
+MATCH: 4445518 | śr., 22.01.2025 | Besiktas JK
+PLAYERS: Julen Agirrezabala, Aitor Paredes, Unai Núñez, Yuri Berchiche, Óscar de Marcos, Mikel Jauregizar, Beñat Prados, Unai Gómez, Nico Williams, Álex Berenguer, Gorka Guruzeta
+
+MATCH: 4407680 | sob., 21.12.2024 | CA Osasuna
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Andoni Gorosabel, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+

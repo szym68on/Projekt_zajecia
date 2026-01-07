@@ -1,0 +1,154 @@
+# Team: Athletic Bilbao
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2805653 | czw., 16.02.2017 | APOEL Nikosia
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Beñat Etxebarria, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2810018 | czw., 05.01.2017 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Eneko Bóveda, Mikel San José, Ander Iturraspe, Enric Saborit, Raúl García, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2765929 | czw., 08.12.2016 | SK Rapid Wiedeń
+PLAYERS: Gorka Iraizoz, Xabi Etxeita, Yeray Álvarez, Enric Saborit, Iñigo Lekue, Mikel Vesga, Mikel Rico, Javi Eraso, Iker Muniain, Sabin Merino, Iñaki Williams
+
+MATCH: 2719010 | pt., 07.04.2017 | Villarreal CF
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Iñigo Lekue, Raúl García, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2765908 | czw., 24.11.2016 | US Sassuolo
+PLAYERS: Iago Herrerín, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2718782 | niedz., 16.10.2016 | Real Sociedad
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Yeray Álvarez, Iñigo Lekue, Óscar de Marcos, Mikel San José, Ander Iturraspe, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2758735 | czw., 03.11.2016 | KRC Genk
+PLAYERS: Iago Herrerín, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Mikel Rico, Raúl García, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2718801 | niedz., 30.10.2016 | CA Osasuna
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Sabin Merino, Iñaki Williams
+
+MATCH: 2718753 | śr., 21.09.2016 | Granada CF
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2758693 | czw., 20.10.2016 | KRC Genk
+PLAYERS: Iago Herrerín, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Ander Iturraspe, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2718962 | niedz., 05.03.2017 | Málaga CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Iñaki Williams
+
+MATCH: 2718829 | pon., 28.11.2016 | UD Las Palmas
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Eneko Bóveda, Mikel San José, Beñat Etxebarria, Iñigo Lekue, Raúl García, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2718991 | sob., 01.04.2017 | CA Osasuna
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Eneko Bóveda, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2719079 | niedz., 21.05.2017 | Atlético Madryt
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Ander Iturraspe, Raúl García, Beñat Etxebarria, Iker Muniain, Aritz Aduriz
+
+MATCH: 2718744 | niedz., 18.09.2016 | Valencia CF
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Eneko Bóveda, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Beñat Etxebarria, Raúl García, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2718820 | niedz., 20.11.2016 | Villarreal CF
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Eneko Bóveda, Mikel Vesga, Mikel Rico, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2718725 | niedz., 28.08.2016 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Eneko Bóveda, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Beñat Etxebarria, Javi Eraso, Iñaki Williams, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2718943 | niedz., 26.02.2017 | Granada CF
+PLAYERS: Gorka Iraizoz, Yeray Álvarez, Eneko Bóveda, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Beñat Etxebarria, Enric Saborit, Markel Susaeta, Iker Muniain, Iñaki Williams
+
+MATCH: 2719069 | niedz., 14.05.2017 | CD Leganés
+PLAYERS: Kepa Arrizabalaga, Xabi Etxeita, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2754294 | czw., 15.09.2016 | US Sassuolo
+PLAYERS: Iago Herrerín, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Sabin Merino, Iñaki Williams
+
+MATCH: 2767517 | czw., 01.12.2016 | Racing Santander
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Enric Saborit, Eneko Bóveda, Gorka Elustondo, Mikel Vesga, Javi Eraso, Markel Susaeta, Raúl García, Aritz Aduriz
+
+MATCH: 2718763 | sob., 24.09.2016 | Sevilla FC
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2718868 | niedz., 08.01.2017 | Deportivo Alavés
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Gorka Elustondo, Beñat Etxebarria, Mikel Rico, Raúl García, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2754317 | czw., 29.09.2016 | SK Rapid Wiedeń
+PLAYERS: Iago Herrerín, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Beñat Etxebarria, Raúl García, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2810026 | śr., 11.01.2017 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Eneko Bóveda, Mikel San José, Beñat Etxebarria, Enric Saborit, Javi Eraso, Iñaki Williams, Sabin Merino
+
+MATCH: 2719000 | wt., 04.04.2017 | RCD Espanyol
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Yeray Álvarez, Enric Saborit, Óscar de Marcos, Ander Iturraspe, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2718734 | niedz., 11.09.2016 | Deportivo de La Coruña
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Eneko Bóveda, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2719058 | niedz., 07.05.2017 | Deportivo Alavés
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2719019 | pt., 14.04.2017 | UD Las Palmas
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Ander Iturraspe, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2718889 | niedz., 22.01.2017 | Atlético Madryt
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Eneko Bóveda, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Ander Iturraspe, Óscar de Marcos, Raúl García, Iker Muniain, Iñaki Williams
+
+MATCH: 2718839 | niedz., 04.12.2016 | SD Eibar
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Eneko Bóveda, Mikel San José, Beñat Etxebarria, Sabin Merino, Markel Susaeta, Iker Muniain, Iñaki Williams
+
+MATCH: 2767523 | czw., 22.12.2016 | Racing Santander
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Mikel Rico, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2718858 | pon., 19.12.2016 | Celta de Vigo
+PLAYERS: Kepa Arrizabalaga, Yeray Álvarez, Eneko Bóveda, Mikel Balenziaga, Iñigo Lekue, Mikel Vesga, Beñat Etxebarria, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2718772 | niedz., 02.10.2016 | Málaga CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Sabin Merino, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2718972 | niedz., 12.03.2017 | Real Sociedad
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Eneko Bóveda, Mikel San José, Beñat Etxebarria, Iñigo Lekue, Raúl García, Iker Muniain, Iñaki Williams
+
+MATCH: 2719038 | czw., 27.04.2017 | Real Betis Balompié
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2718791 | niedz., 23.10.2016 | Real Madryt
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Xabi Etxeita, Enric Saborit, Iñigo Lekue, Mikel San José, Mikel Rico, Javi Eraso, Sabin Merino, Raúl García, Iñaki Williams
+
+MATCH: 2719048 | niedz., 30.04.2017 | Celta de Vigo
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Iñigo Lekue, Raúl García, Iker Muniain, Iñaki Williams
+
+MATCH: 2719029 | pon., 24.04.2017 | SD Eibar
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Ander Iturraspe, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2805669 | czw., 23.02.2017 | APOEL Nikosia
+PLAYERS: Gorka Iraizoz, Xabi Etxeita, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Iñaki Williams
+
+MATCH: 2718810 | niedz., 06.11.2016 | RCD Espanyol
+PLAYERS: Kepa Arrizabalaga, Xabi Etxeita, Yeray Álvarez, Mikel Balenziaga, Eneko Bóveda, Mikel Vesga, Mikel Rico, Javi Eraso, Sabin Merino, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2718915 | sob., 04.02.2017 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Ander Iturraspe, Iñigo Lekue, Raúl García, Iker Muniain, Iñaki Williams
+
+MATCH: 2718900 | niedz., 29.01.2017 | Sporting Gijón
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Eneko Bóveda, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Iñigo Lekue, Raúl García, Iker Muniain, Aritz Aduriz
+
+MATCH: 2718924 | sob., 11.02.2017 | Deportivo de La Coruña
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2718934 | niedz., 19.02.2017 | Valencia CF
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Eneko Bóveda, Enric Saborit, Óscar de Marcos, Mikel San José, Ander Iturraspe, Iñigo Lekue, Javi Eraso, Iker Muniain, Raúl García
+
+MATCH: 2718848 | niedz., 11.12.2016 | Real Betis Balompié
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Eneko Bóveda, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2718710 | niedz., 21.08.2016 | Sporting Gijón
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Eneko Bóveda, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iñaki Williams, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2718879 | sob., 14.01.2017 | CD Leganés
+PLAYERS: Gorka Iraizoz, Aymeric Laporte, Eneko Bóveda, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Ander Iturraspe, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2718981 | sob., 18.03.2017 | Real Madryt
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Beñat Etxebarria, Iñigo Lekue, Raúl García, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2718953 | czw., 02.03.2017 | Sevilla FC
+PLAYERS: Gorka Iraizoz, Xabi Etxeita, Yeray Álvarez, Enric Saborit, Eneko Bóveda, Mikel San José, Beñat Etxebarria, Iñigo Lekue, Raúl García, Iker Muniain, Iñaki Williams
+

@@ -1,0 +1,172 @@
+# Team: Atlético Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2243049 | sob., 01.06.2013 | Real Zaragoza
+PLAYERS: Thibaut Courtois, Jorge Pulido, Miranda, Emiliano Insúa, Juanfran Torres, Tiago Mendes, Raúl García, Koke, Cristian Rodríguez, Adrián López, Diego Costa
+
+MATCH: 2242863 | niedz., 21.10.2012 | Real Sociedad
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Raúl García, Koke, Adrián López, Radamel Falcao
+
+MATCH: 2243060 | niedz., 06.01.2013 | RCD Mallorca
+PLAYERS: Thibaut Courtois, Diego Godín, Cata Díaz, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Adrián López, Raúl García, Diego Costa
+
+MATCH: 2243115 | niedz., 17.02.2013 | Real Valladolid CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Diego Costa, Arda Turan, Radamel Falcao
+
+MATCH: 2269552 | śr., 28.11.2012 | Real Jaén CF
+PLAYERS: Sergio Asenjo, Jorge Pulido, Cata Díaz, Domingo Cisma, Sílvio, Javier Manquillo, Emre Belözoğlu, Tiago Mendes, Cristian Rodríguez, Raúl García, Adrián López
+
+MATCH: 2262382 | czw., 20.09.2012 | Hapoel Tel Aviv
+PLAYERS: Sergio Asenjo, Cata Díaz, Miranda, Domingo Cisma, Sílvio, Mario Suárez, Emre Belözoğlu, Raúl García, Cristian Rodríguez, Adrián López, Diego Costa
+
+MATCH: 2242983 | niedz., 18.11.2012 | Granada CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Raúl García, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 2289025 | czw., 21.02.2013 | Rubin Kazań
+PLAYERS: Sergio Asenjo, Cata Díaz, Miranda, Domingo Cisma, Javier Manquillo, Mario Suárez, Saúl Ñíguez, Raúl García, Cristian Rodríguez, Adrián López, Radamel Falcao
+
+MATCH: 2243158 | niedz., 10.03.2013 | Real Sociedad
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Gabi, Cristian Rodríguez, Koke, Arda Turan, Diego Costa, Radamel Falcao
+
+MATCH: 2243149 | niedz., 03.03.2013 | Málaga CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Koke, Arda Turan, Diego Costa, Cristian Rodríguez, Radamel Falcao
+
+MATCH: 2242844 | niedz., 07.10.2012 | Málaga CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Emre Belözoğlu, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 2242880 | sob., 03.11.2012 | Valencia CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Emre Belözoğlu, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 2243080 | niedz., 20.01.2013 | Levante UD
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Javier Manquillo, Tiago Mendes, Gabi, Koke, Cristian Rodríguez, Adrián López, Radamel Falcao
+
+MATCH: 2243094 | niedz., 27.01.2013 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Diego Godín, Cata Díaz, Filipe Luís, Juanfran Torres, Emre Belözoğlu, Tiago Mendes, Raúl García, Cristian Rodríguez, Arda Turan, Diego Costa
+
+MATCH: 2243108 | niedz., 10.02.2013 | Rayo Vallecano
+PLAYERS: Thibaut Courtois, Cata Díaz, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Raúl García, Koke, Adrián López, Radamel Falcao
+
+MATCH: 2288675 | czw., 31.01.2013 | Sevilla FC
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Arda Turan, Adrián López, Diego Costa
+
+MATCH: 2243035 | niedz., 16.12.2012 | FC Barcelona
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Arda Turan, Diego Costa, Radamel Falcao
+
+MATCH: 2299544 | pt., 17.05.2013 | Real Madryt
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Arda Turan, Diego Costa, Radamel Falcao
+
+MATCH: 2243155 | niedz., 17.03.2013 | CA Osasuna
+PLAYERS: Thibaut Courtois, Cata Díaz, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Arda Turan, Diego Costa, Radamel Falcao
+
+MATCH: 2243170 | niedz., 31.03.2013 | Valencia CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Javier Manquillo, Mario Suárez, Gabi, Koke, Arda Turan, Radamel Falcao, Diego Costa
+
+MATCH: 2242873 | niedz., 16.09.2012 | Rayo Vallecano
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Diego Costa, Arda Turan, Radamel Falcao
+
+MATCH: 2244379 | niedz., 19.08.2012 | Levante UD
+PLAYERS: Thibaut Courtois, Diego Godín, Cata Díaz, Miranda, Cristian Rodríguez, Sílvio, Tiago Mendes, Gabi, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 2243184 | niedz., 14.04.2013 | Granada CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Gabi, Raúl García, Koke, Cristian Rodríguez, Radamel Falcao, Diego Costa
+
+MATCH: 2288677 | śr., 27.02.2013 | Sevilla FC
+PLAYERS: Thibaut Courtois, Cata Díaz, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Raúl García, Diego Costa, Arda Turan, Radamel Falcao
+
+MATCH: 2243011 | niedz., 25.11.2012 | Sevilla FC
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Gabi, Tiago Mendes, Arda Turan, Koke, Radamel Falcao, Diego Costa
+
+MATCH: 2243032 | niedz., 09.12.2012 | Deportivo de La Coruña
+PLAYERS: Thibaut Courtois, Diego Godín, Cata Díaz, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Arda Turan, Koke, Radamel Falcao, Diego Costa
+
+MATCH: 2282722 | czw., 10.01.2013 | Getafe CF
+PLAYERS: Thibaut Courtois, Cata Díaz, Miranda, Domingo Cisma, Juanfran Torres, Mario Suárez, Emre Belözoğlu, Cristian Rodríguez, Raúl García, Arda Turan, Radamel Falcao
+
+MATCH: 2262443 | czw., 25.10.2012 | Académica Coimbra
+PLAYERS: Sergio Asenjo, Jorge Pulido, Cata Díaz, Filipe Luís, Sílvio, Tiago Mendes, Emre Belözoğlu, Gabi, Koke, Adrián López, Diego Costa
+
+MATCH: 2242939 | sob., 04.05.2013 | Deportivo de La Coruña
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Raúl García, Cristian Rodríguez, Adrián López, Radamel Falcao
+
+MATCH: 2262454 | czw., 08.11.2012 | Académica Coimbra
+PLAYERS: Sergio Asenjo, Jorge Pulido, Cata Díaz, Filipe Luís, Sílvio, Mario Suárez, Tiago Mendes, Koke, Saúl Ñíguez, Raúl García, Adrián López
+
+MATCH: 2262419 | czw., 04.10.2012 | FC Viktoria Pilzno
+PLAYERS: Sergio Asenjo, Jorge Pulido, Cata Díaz, Domingo Cisma, Abdelkader Oueslati, Emre Belözoğlu, Gabi, Koke, Cristian Rodríguez, Adrián López, Diego Costa
+
+MATCH: 2286542 | czw., 17.01.2013 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Arda Turan, Raúl García, Radamel Falcao, Diego Costa
+
+MATCH: 2286547 | czw., 24.01.2013 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Javier Manquillo, Mario Suárez, Gabi, Koke, Arda Turan, Adrián López, Diego Costa
+
+MATCH: 2242829 | pon., 27.08.2012 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Cristian Rodríguez, Arda Turan, Radamel Falcao
+
+MATCH: 2243002 | niedz., 12.05.2013 | FC Barcelona
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Emiliano Insúa, Juanfran Torres, Gabi, Tiago Mendes, Koke, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 2242960 | niedz., 26.05.2013 | RCD Mallorca
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Arda Turan, Diego Costa, Radamel Falcao
+
+MATCH: 2262490 | czw., 22.11.2012 | Hapoel Tel Aviv
+PLAYERS: Sergio Asenjo, Jorge Pulido, Cata Díaz, Domingo Cisma, Sílvio, Mario Suárez, Emre Belözoğlu, Raúl García, Cristian Rodríguez, Adrián López, Diego Costa
+
+MATCH: 2262502 | czw., 06.12.2012 | FC Viktoria Pilzno
+PLAYERS: Sergio Asenjo, Jorge Pulido, Miranda, Domingo Cisma, Javier Manquillo, Emre Belözoğlu, Tiago Mendes, Juanfran Torres, Raúl García, Adrián López, Diego Costa
+
+MATCH: 2242909 | śr., 26.09.2012 | Real Betis Balompié
+PLAYERS: Sergio Asenjo, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Raúl García, Cristian Rodríguez, Arda Turan, Radamel Falcao
+
+MATCH: 2242911 | niedz., 23.09.2012 | Real Valladolid CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Diego Costa, Arda Turan, Radamel Falcao
+
+MATCH: 2243066 | pt., 21.12.2012 | Celta de Vigo
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Domingo Cisma, Juanfran Torres, Tiago Mendes, Gabi, Koke, Arda Turan, Diego Costa, Radamel Falcao
+
+MATCH: 2242906 | niedz., 30.09.2012 | RCD Espanyol
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Tiago Mendes, Raúl García, Koke, Arda Turan, Diego Costa
+
+MATCH: 2219795 | pt., 31.08.2012 | Chelsea FC
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 2242924 | niedz., 11.11.2012 | Getafe CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Raúl García, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 2242977 | śr., 08.05.2013 | Celta de Vigo
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Adrián López, Radamel Falcao, Diego Costa
+
+MATCH: 2243181 | niedz., 07.04.2013 | Getafe CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Diego Costa, Adrián López, Radamel Falcao
+
+MATCH: 2242857 | niedz., 28.10.2012 | CA Osasuna
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Raúl García, Cristian Rodríguez, Emre Belözoğlu, Radamel Falcao
+
+MATCH: 2284483 | czw., 14.02.2013 | Rubin Kazań
+PLAYERS: Sergio Asenjo, Diego Godín, Cata Díaz, Filipe Luís, Juanfran Torres, Mario Suárez, Tiago Mendes, Cristian Rodríguez, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 2243124 | niedz., 24.02.2013 | RCD Espanyol
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Arda Turan, Diego Costa, Radamel Falcao
+
+MATCH: 2282713 | śr., 12.12.2012 | Getafe CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Arda Turan, Adrián López, Diego Costa
+
+MATCH: 2243095 | niedz., 03.02.2013 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Domingo Cisma, Juanfran Torres, Mario Suárez, Gabi, Koke, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 2242950 | niedz., 21.04.2013 | Sevilla FC
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Cristian Rodríguez, Radamel Falcao, Diego Costa
+
+MATCH: 2269537 | śr., 31.10.2012 | Real Jaén CF
+PLAYERS: Thibaut Courtois, Jorge Pulido, Cata Díaz, Domingo Cisma, Sílvio, Mario Suárez, Gabi, Koke, Cristian Rodríguez, Raúl García, Diego Costa
+
+MATCH: 2243042 | sob., 01.12.2012 | Real Madryt
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Cata Díaz, Juanfran Torres, Mario Suárez, Gabi, Arda Turan, Koke, Radamel Falcao, Diego Costa
+
+MATCH: 2243077 | niedz., 13.01.2013 | Real Zaragoza
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Diego Costa, Arda Turan, Radamel Falcao
+
+MATCH: 2242930 | sob., 27.04.2013 | Real Madryt
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Raúl García, Koke, Radamel Falcao, Diego Costa
+

@@ -1,0 +1,266 @@
+# Graph for Java/GraphStream
+# Nodes: 25
+# Edges: 260
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Keylor Navas | Pepe | 11 | 41 | 17
+EDGE Keylor Navas | Raphaël Varane | 27 | 41 | 38
+EDGE Keylor Navas | Marcelo | 33 | 41 | 43
+EDGE Keylor Navas | Danilo | 14 | 41 | 24
+EDGE Keylor Navas | Toni Kroos | 33 | 41 | 46
+EDGE Keylor Navas | James Rodríguez | 12 | 41 | 20
+EDGE Keylor Navas | Marco Asensio | 5 | 41 | 19
+EDGE Keylor Navas | Cristiano Ronaldo | 38 | 41 | 46
+EDGE Keylor Navas | Gareth Bale | 17 | 41 | 24
+EDGE Keylor Navas | Karim Benzema | 33 | 41 | 38
+EDGE Keylor Navas | Sergio Ramos | 31 | 41 | 44
+EDGE Keylor Navas | Daniel Carvajal | 28 | 41 | 38
+EDGE Keylor Navas | Mateo Kovacic | 14 | 41 | 23
+EDGE Keylor Navas | Luka Modrić | 29 | 41 | 37
+EDGE Keylor Navas | Isco | 19 | 41 | 27
+EDGE Keylor Navas | Lucas Vázquez | 11 | 41 | 20
+EDGE Keylor Navas | Nacho Fernández | 21 | 41 | 33
+EDGE Keylor Navas | Fábio Coentrão | 1 | 41 | 3
+EDGE Keylor Navas | Álvaro Morata | 7 | 41 | 19
+EDGE Keylor Navas | Casemiro | 26 | 41 | 37
+EDGE Pepe | Raphaël Varane | 7 | 17 | 38
+EDGE Pepe | Marcelo | 8 | 17 | 43
+EDGE Pepe | Danilo | 9 | 17 | 24
+EDGE Pepe | Toni Kroos | 13 | 17 | 46
+EDGE Pepe | James Rodríguez | 7 | 17 | 20
+EDGE Pepe | Marco Asensio | 6 | 17 | 19
+EDGE Pepe | Cristiano Ronaldo | 12 | 17 | 46
+EDGE Pepe | Gareth Bale | 10 | 17 | 24
+EDGE Pepe | Karim Benzema | 12 | 17 | 38
+EDGE Pepe | Kiko Casilla | 6 | 17 | 19
+EDGE Pepe | Nacho Fernández | 8 | 17 | 33
+EDGE Pepe | Daniel Carvajal | 10 | 17 | 38
+EDGE Pepe | Isco | 9 | 17 | 27
+EDGE Pepe | Lucas Vázquez | 5 | 17 | 20
+EDGE Pepe | Álvaro Morata | 4 | 17 | 19
+EDGE Pepe | Sergio Ramos | 8 | 17 | 44
+EDGE Pepe | Casemiro | 7 | 17 | 37
+EDGE Pepe | Luka Modrić | 8 | 17 | 37
+EDGE Pepe | Mateo Kovacic | 7 | 17 | 23
+EDGE Pepe | Álvaro Tejero | 1 | 17 | 1
+EDGE Pepe | Martin Ødegaard | 1 | 17 | 1
+EDGE Pepe | Mariano Díaz | 1 | 17 | 2
+EDGE Raphaël Varane | Marcelo | 30 | 38 | 43
+EDGE Raphaël Varane | Danilo | 14 | 38 | 24
+EDGE Raphaël Varane | Toni Kroos | 31 | 38 | 46
+EDGE Raphaël Varane | James Rodríguez | 9 | 38 | 20
+EDGE Raphaël Varane | Marco Asensio | 9 | 38 | 19
+EDGE Raphaël Varane | Cristiano Ronaldo | 33 | 38 | 46
+EDGE Raphaël Varane | Gareth Bale | 16 | 38 | 24
+EDGE Raphaël Varane | Karim Benzema | 26 | 38 | 38
+EDGE Raphaël Varane | Sergio Ramos | 24 | 38 | 44
+EDGE Raphaël Varane | Daniel Carvajal | 25 | 38 | 38
+EDGE Raphaël Varane | Mateo Kovacic | 16 | 38 | 23
+EDGE Raphaël Varane | Luka Modrić | 24 | 38 | 37
+EDGE Raphaël Varane | Isco | 19 | 38 | 27
+EDGE Raphaël Varane | Lucas Vázquez | 12 | 38 | 20
+EDGE Raphaël Varane | Nacho Fernández | 15 | 38 | 33
+EDGE Raphaël Varane | Fábio Coentrão | 1 | 38 | 3
+EDGE Raphaël Varane | Álvaro Morata | 10 | 38 | 19
+EDGE Raphaël Varane | Casemiro | 21 | 38 | 37
+EDGE Raphaël Varane | Kiko Casilla | 11 | 38 | 19
+EDGE Marcelo | Danilo | 11 | 43 | 24
+EDGE Marcelo | Toni Kroos | 34 | 43 | 46
+EDGE Marcelo | James Rodríguez | 11 | 43 | 20
+EDGE Marcelo | Marco Asensio | 10 | 43 | 19
+EDGE Marcelo | Cristiano Ronaldo | 35 | 43 | 46
+EDGE Marcelo | Gareth Bale | 18 | 43 | 24
+EDGE Marcelo | Karim Benzema | 30 | 43 | 38
+EDGE Marcelo | Sergio Ramos | 33 | 43 | 44
+EDGE Marcelo | Daniel Carvajal | 31 | 43 | 38
+EDGE Marcelo | Mateo Kovacic | 13 | 43 | 23
+EDGE Marcelo | Luka Modrić | 31 | 43 | 37
+EDGE Marcelo | Isco | 19 | 43 | 27
+EDGE Marcelo | Lucas Vázquez | 13 | 43 | 20
+EDGE Marcelo | Nacho Fernández | 18 | 43 | 33
+EDGE Marcelo | Casemiro | 31 | 43 | 37
+EDGE Marcelo | Álvaro Morata | 10 | 43 | 19
+EDGE Marcelo | Kiko Casilla | 10 | 43 | 19
+EDGE Marcelo | Mariano Díaz | 1 | 43 | 2
+EDGE Danilo | Toni Kroos | 17 | 24 | 46
+EDGE Danilo | James Rodríguez | 12 | 24 | 20
+EDGE Danilo | Marco Asensio | 12 | 24 | 19
+EDGE Danilo | Cristiano Ronaldo | 16 | 24 | 46
+EDGE Danilo | Gareth Bale | 7 | 24 | 24
+EDGE Danilo | Karim Benzema | 14 | 24 | 38
+EDGE Danilo | Kiko Casilla | 10 | 24 | 19
+EDGE Danilo | Nacho Fernández | 15 | 24 | 33
+EDGE Danilo | Daniel Carvajal | 3 | 24 | 38
+EDGE Danilo | Isco | 12 | 24 | 27
+EDGE Danilo | Lucas Vázquez | 10 | 24 | 20
+EDGE Danilo | Álvaro Morata | 9 | 24 | 19
+EDGE Danilo | Sergio Ramos | 18 | 24 | 44
+EDGE Danilo | Casemiro | 12 | 24 | 37
+EDGE Danilo | Luka Modrić | 10 | 24 | 37
+EDGE Danilo | Mateo Kovacic | 12 | 24 | 23
+EDGE Danilo | Fábio Coentrão | 2 | 24 | 3
+EDGE Danilo | Mariano Díaz | 1 | 24 | 2
+EDGE Toni Kroos | James Rodríguez | 11 | 46 | 20
+EDGE Toni Kroos | Marco Asensio | 11 | 46 | 19
+EDGE Toni Kroos | Cristiano Ronaldo | 40 | 46 | 46
+EDGE Toni Kroos | Gareth Bale | 22 | 46 | 24
+EDGE Toni Kroos | Karim Benzema | 32 | 46 | 38
+EDGE Toni Kroos | Nacho Fernández | 24 | 46 | 33
+EDGE Toni Kroos | Fábio Coentrão | 1 | 46 | 3
+EDGE Toni Kroos | Daniel Carvajal | 31 | 46 | 38
+EDGE Toni Kroos | Mateo Kovacic | 14 | 46 | 23
+EDGE Toni Kroos | Álvaro Morata | 14 | 46 | 19
+EDGE Toni Kroos | Casemiro | 29 | 46 | 37
+EDGE Toni Kroos | Luka Modrić | 29 | 46 | 37
+EDGE Toni Kroos | Lucas Vázquez | 8 | 46 | 20
+EDGE Toni Kroos | Kiko Casilla | 13 | 46 | 19
+EDGE Toni Kroos | Isco | 19 | 46 | 27
+EDGE Toni Kroos | Sergio Ramos | 33 | 46 | 44
+EDGE Toni Kroos | Mariano Díaz | 1 | 46 | 2
+EDGE James Rodríguez | Marco Asensio | 12 | 20 | 19
+EDGE James Rodríguez | Cristiano Ronaldo | 10 | 20 | 46
+EDGE James Rodríguez | Gareth Bale | 3 | 20 | 24
+EDGE James Rodríguez | Karim Benzema | 10 | 20 | 38
+EDGE James Rodríguez | Kiko Casilla | 8 | 20 | 19
+EDGE James Rodríguez | Nacho Fernández | 13 | 20 | 33
+EDGE James Rodríguez | Daniel Carvajal | 10 | 20 | 38
+EDGE James Rodríguez | Isco | 6 | 20 | 27
+EDGE James Rodríguez | Lucas Vázquez | 9 | 20 | 20
+EDGE James Rodríguez | Álvaro Morata | 9 | 20 | 19
+EDGE James Rodríguez | Sergio Ramos | 15 | 20 | 44
+EDGE James Rodríguez | Luka Modrić | 10 | 20 | 37
+EDGE James Rodríguez | Casemiro | 11 | 20 | 37
+EDGE James Rodríguez | Mateo Kovacic | 7 | 20 | 23
+EDGE James Rodríguez | Fábio Coentrão | 2 | 20 | 3
+EDGE James Rodríguez | Álvaro Tejero | 1 | 20 | 1
+EDGE James Rodríguez | Martin Ødegaard | 1 | 20 | 1
+EDGE James Rodríguez | Mariano Díaz | 1 | 20 | 2
+EDGE Marco Asensio | Cristiano Ronaldo | 5 | 19 | 46
+EDGE Marco Asensio | Gareth Bale | 4 | 19 | 24
+EDGE Marco Asensio | Karim Benzema | 4 | 19 | 38
+EDGE Marco Asensio | Kiko Casilla | 14 | 19 | 19
+EDGE Marco Asensio | Nacho Fernández | 13 | 19 | 33
+EDGE Marco Asensio | Daniel Carvajal | 8 | 19 | 38
+EDGE Marco Asensio | Isco | 7 | 19 | 27
+EDGE Marco Asensio | Lucas Vázquez | 10 | 19 | 20
+EDGE Marco Asensio | Álvaro Morata | 13 | 19 | 19
+EDGE Marco Asensio | Mateo Kovacic | 8 | 19 | 23
+EDGE Marco Asensio | Casemiro | 13 | 19 | 37
+EDGE Marco Asensio | Luka Modrić | 6 | 19 | 37
+EDGE Marco Asensio | Sergio Ramos | 14 | 19 | 44
+EDGE Marco Asensio | Fábio Coentrão | 2 | 19 | 3
+EDGE Marco Asensio | Álvaro Tejero | 1 | 19 | 1
+EDGE Marco Asensio | Martin Ødegaard | 1 | 19 | 1
+EDGE Marco Asensio | Mariano Díaz | 2 | 19 | 2
+EDGE Cristiano Ronaldo | Gareth Bale | 22 | 46 | 24
+EDGE Cristiano Ronaldo | Karim Benzema | 36 | 46 | 38
+EDGE Cristiano Ronaldo | Sergio Ramos | 34 | 46 | 44
+EDGE Cristiano Ronaldo | Daniel Carvajal | 31 | 46 | 38
+EDGE Cristiano Ronaldo | Mateo Kovacic | 17 | 46 | 23
+EDGE Cristiano Ronaldo | Luka Modrić | 33 | 46 | 37
+EDGE Cristiano Ronaldo | Isco | 21 | 46 | 27
+EDGE Cristiano Ronaldo | Lucas Vázquez | 11 | 46 | 20
+EDGE Cristiano Ronaldo | Nacho Fernández | 23 | 46 | 33
+EDGE Cristiano Ronaldo | Fábio Coentrão | 1 | 46 | 3
+EDGE Cristiano Ronaldo | Álvaro Morata | 8 | 46 | 19
+EDGE Cristiano Ronaldo | Casemiro | 26 | 46 | 37
+EDGE Cristiano Ronaldo | Kiko Casilla | 8 | 46 | 19
+EDGE Gareth Bale | Karim Benzema | 16 | 24 | 38
+EDGE Gareth Bale | Sergio Ramos | 15 | 24 | 44
+EDGE Gareth Bale | Daniel Carvajal | 19 | 24 | 38
+EDGE Gareth Bale | Mateo Kovacic | 12 | 24 | 23
+EDGE Gareth Bale | Luka Modrić | 14 | 24 | 37
+EDGE Gareth Bale | Isco | 9 | 24 | 27
+EDGE Gareth Bale | Lucas Vázquez | 2 | 24 | 20
+EDGE Gareth Bale | Nacho Fernández | 10 | 24 | 33
+EDGE Gareth Bale | Fábio Coentrão | 1 | 24 | 3
+EDGE Gareth Bale | Álvaro Morata | 7 | 24 | 19
+EDGE Gareth Bale | Kiko Casilla | 7 | 24 | 19
+EDGE Gareth Bale | Casemiro | 9 | 24 | 37
+EDGE Karim Benzema | Nacho Fernández | 16 | 38 | 33
+EDGE Karim Benzema | Fábio Coentrão | 1 | 38 | 3
+EDGE Karim Benzema | Daniel Carvajal | 25 | 38 | 38
+EDGE Karim Benzema | Mateo Kovacic | 10 | 38 | 23
+EDGE Karim Benzema | Álvaro Morata | 1 | 38 | 19
+EDGE Karim Benzema | Casemiro | 27 | 38 | 37
+EDGE Karim Benzema | Luka Modrić | 29 | 38 | 37
+EDGE Karim Benzema | Lucas Vázquez | 9 | 38 | 20
+EDGE Karim Benzema | Sergio Ramos | 29 | 38 | 44
+EDGE Karim Benzema | Isco | 15 | 38 | 27
+EDGE Karim Benzema | Kiko Casilla | 5 | 38 | 19
+EDGE Sergio Ramos | Daniel Carvajal | 26 | 44 | 38
+EDGE Sergio Ramos | Mateo Kovacic | 14 | 44 | 23
+EDGE Sergio Ramos | Luka Modrić | 32 | 44 | 37
+EDGE Sergio Ramos | Isco | 15 | 44 | 27
+EDGE Sergio Ramos | Lucas Vázquez | 15 | 44 | 20
+EDGE Sergio Ramos | Casemiro | 33 | 44 | 37
+EDGE Sergio Ramos | Nacho Fernández | 22 | 44 | 33
+EDGE Sergio Ramos | Álvaro Morata | 13 | 44 | 19
+EDGE Sergio Ramos | Kiko Casilla | 13 | 44 | 19
+EDGE Sergio Ramos | Fábio Coentrão | 2 | 44 | 3
+EDGE Sergio Ramos | Mariano Díaz | 1 | 44 | 2
+EDGE Daniel Carvajal | Mateo Kovacic | 12 | 38 | 23
+EDGE Daniel Carvajal | Luka Modrić | 27 | 38 | 37
+EDGE Daniel Carvajal | Isco | 17 | 38 | 27
+EDGE Daniel Carvajal | Lucas Vázquez | 10 | 38 | 20
+EDGE Daniel Carvajal | Nacho Fernández | 18 | 38 | 33
+EDGE Daniel Carvajal | Fábio Coentrão | 1 | 38 | 3
+EDGE Daniel Carvajal | Álvaro Morata | 11 | 38 | 19
+EDGE Daniel Carvajal | Casemiro | 24 | 38 | 37
+EDGE Daniel Carvajal | Kiko Casilla | 10 | 38 | 19
+EDGE Daniel Carvajal | Álvaro Tejero | 1 | 38 | 1
+EDGE Daniel Carvajal | Martin Ødegaard | 1 | 38 | 1
+EDGE Daniel Carvajal | Mariano Díaz | 1 | 38 | 2
+EDGE Mateo Kovacic | Luka Modrić | 5 | 23 | 37
+EDGE Mateo Kovacic | Isco | 14 | 23 | 27
+EDGE Mateo Kovacic | Lucas Vázquez | 11 | 23 | 20
+EDGE Mateo Kovacic | Nacho Fernández | 14 | 23 | 33
+EDGE Mateo Kovacic | Fábio Coentrão | 3 | 23 | 3
+EDGE Mateo Kovacic | Álvaro Morata | 12 | 23 | 19
+EDGE Mateo Kovacic | Kiko Casilla | 9 | 23 | 19
+EDGE Mateo Kovacic | Casemiro | 6 | 23 | 37
+EDGE Luka Modrić | Isco | 13 | 37 | 27
+EDGE Luka Modrić | Lucas Vázquez | 11 | 37 | 20
+EDGE Luka Modrić | Nacho Fernández | 18 | 37 | 33
+EDGE Luka Modrić | Casemiro | 28 | 37 | 37
+EDGE Luka Modrić | Álvaro Morata | 5 | 37 | 19
+EDGE Luka Modrić | Kiko Casilla | 8 | 37 | 19
+EDGE Isco | Lucas Vázquez | 8 | 27 | 20
+EDGE Isco | Kiko Casilla | 8 | 27 | 19
+EDGE Isco | Nacho Fernández | 15 | 27 | 33
+EDGE Isco | Álvaro Morata | 9 | 27 | 19
+EDGE Isco | Casemiro | 12 | 27 | 37
+EDGE Isco | Álvaro Tejero | 1 | 27 | 1
+EDGE Isco | Martin Ødegaard | 1 | 27 | 1
+EDGE Isco | Mariano Díaz | 1 | 27 | 2
+EDGE Isco | Fábio Coentrão | 1 | 27 | 3
+EDGE Lucas Vázquez | Nacho Fernández | 13 | 20 | 33
+EDGE Lucas Vázquez | Casemiro | 12 | 20 | 37
+EDGE Lucas Vázquez | Kiko Casilla | 9 | 20 | 19
+EDGE Lucas Vázquez | Álvaro Morata | 8 | 20 | 19
+EDGE Lucas Vázquez | Fábio Coentrão | 2 | 20 | 3
+EDGE Lucas Vázquez | Mariano Díaz | 1 | 20 | 2
+EDGE Nacho Fernández | Fábio Coentrão | 3 | 33 | 3
+EDGE Nacho Fernández | Álvaro Morata | 16 | 33 | 19
+EDGE Nacho Fernández | Casemiro | 19 | 33 | 37
+EDGE Nacho Fernández | Kiko Casilla | 12 | 33 | 19
+EDGE Nacho Fernández | Álvaro Tejero | 1 | 33 | 1
+EDGE Nacho Fernández | Martin Ødegaard | 1 | 33 | 1
+EDGE Nacho Fernández | Mariano Díaz | 2 | 33 | 2
+EDGE Fábio Coentrão | Álvaro Morata | 3 | 3 | 19
+EDGE Fábio Coentrão | Kiko Casilla | 2 | 3 | 19
+EDGE Fábio Coentrão | Casemiro | 1 | 3 | 37
+EDGE Álvaro Morata | Kiko Casilla | 12 | 19 | 19
+EDGE Álvaro Morata | Casemiro | 8 | 19 | 37
+EDGE Álvaro Morata | Mariano Díaz | 1 | 19 | 2
+EDGE Casemiro | Kiko Casilla | 11 | 37 | 19
+EDGE Casemiro | Álvaro Tejero | 1 | 37 | 1
+EDGE Casemiro | Martin Ødegaard | 1 | 37 | 1
+EDGE Casemiro | Mariano Díaz | 2 | 37 | 2
+EDGE Kiko Casilla | Álvaro Tejero | 1 | 19 | 1
+EDGE Kiko Casilla | Martin Ødegaard | 1 | 19 | 1
+EDGE Kiko Casilla | Mariano Díaz | 2 | 19 | 2
+EDGE Álvaro Tejero | Martin Ødegaard | 1 | 1 | 1
+EDGE Álvaro Tejero | Mariano Díaz | 1 | 1 | 2
+EDGE Martin Ødegaard | Mariano Díaz | 1 | 1 | 2

@@ -1,0 +1,3416 @@
+====================================================================================================
+                        FOOTBALL TEAM - SEASON MATCHES REPORT
+====================================================================================================
+
+📅 Generated: 2025-12-10 16:23:29
+⚽ Total matches: 59
+👥 Total players tracked: 1631
+📊 Average players per match: 27.6
+
+🏆 Competitions breakdown:
+   • Unknown: 21 matches
+   • LALIGA: 38 matches
+
+====================================================================================================
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #01
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Real Madryt
+📅 DATE:  śr., 16.04.2014
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_real-madryt/aufstellung/spielbericht/2425890
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+       15. Marc Bartra
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        4. Cesc Fàbregas
+        6. Xavi
+        8. Andrés Iniesta
+       11. Neymar
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       21. Adriano
+        7. Pedro
+        9. Alexis Sánchez
+
+✈️  REAL MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Iker Casillas
+        3. Pepe
+        4. Sergio Ramos
+        5. Fábio Coentrão
+       15. Daniel Carvajal
+       14. Xabi Alonso
+       19. Luka Modrić
+       23. Isco
+       11. Gareth Bale
+       22. Ángel Di María
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (3):
+        2. Raphaël Varane
+       16. Casemiro
+       24. Asier Illarramendi
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 16.04.2014|Unknown|Unknown|FC Barcelona|Real Madryt|José Manuel Pinto|Marc Bartra|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Cesc Fàbregas|Xavi|Andrés Iniesta|Neymar|Lionel Messi|Adriano|Pedro|Alexis Sánchez|Iker Casillas|Pepe|Sergio Ramos|Fábio Coentrão|Daniel Carvajal|Xabi Alonso|Luka Modrić|Isco|Gareth Bale|Ángel Di María|Karim Benzema|Raphaël Varane|Casemiro|Asier Illarramendi
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #02
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Celta de Vigo
+📅 DATE:  śr., 26.03.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 30. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_celta-de-vigo/aufstellung/spielbericht/2341270
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+       15. Marc Bartra
+       14. Javier Mascherano
+       18. Jordi Alba
+       21. Adriano
+       17. Alex Song
+        8. Andrés Iniesta
+        4. Cesc Fàbregas
+       11. Neymar
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       13. José Manuel Pinto
+       24. Sergi Roberto
+        7. Pedro
+
+✈️  CELTA DE VIGO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Yoel Rodríguez
+       15. Jon Aurtenetxe
+       22. Gustavo Cabral
+       19. Jonny Otto
+        2. Hugo Mallo
+        3. Andreu Fontàs
+       17. Levy Madinda
+        8. Álex López
+       14. Fabián Orellana
+       24. Augusto Fernández
+       29. Santi Mina
+
+   🔄 SUBSTITUTES IN (3):
+       21. Iñigo López
+        4. Borja Oubiña
+        9. Mario Bermejo
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 26.03.2014|LALIGA|30. Kolejka|FC Barcelona|Celta de Vigo|Víctor Valdés|Marc Bartra|Javier Mascherano|Jordi Alba|Adriano|Alex Song|Andrés Iniesta|Cesc Fàbregas|Neymar|Alexis Sánchez|Lionel Messi|José Manuel Pinto|Sergi Roberto|Pedro|Yoel Rodríguez|Jon Aurtenetxe|Gustavo Cabral|Jonny Otto|Hugo Mallo|Andreu Fontàs|Levy Madinda|Álex López|Fabián Orellana|Augusto Fernández|Santi Mina|Iñigo López|Borja Oubiña|Mario Bermejo
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #03
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Real Madryt
+📅 DATE:  sob., 26.10.2013
+🏆 COMP:  LALIGA
+🔢 ROUND: 10. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_real-madryt/aufstellung/spielbericht/2341135
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       21. Adriano
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        6. Xavi
+       11. Neymar
+       10. Lionel Messi
+        4. Cesc Fàbregas
+
+   🔄 SUBSTITUTES IN (3):
+       17. Alex Song
+        7. Pedro
+        9. Alexis Sánchez
+
+✈️  REAL MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Diego López
+        2. Raphaël Varane
+        3. Pepe
+       12. Marcelo
+       15. Daniel Carvajal
+        4. Sergio Ramos
+        6. Sami Khedira
+       19. Luka Modrić
+        7. Cristiano Ronaldo
+       22. Ángel Di María
+       11. Gareth Bale
+
+   🔄 SUBSTITUTES IN (3):
+       24. Asier Illarramendi
+       20. Jesé
+        9. Karim Benzema
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 26.10.2013|LALIGA|10. Kolejka|FC Barcelona|Real Madryt|Víctor Valdés|Gerard Piqué|Javier Mascherano|Adriano|Dani Alves|Sergio Busquets|Andrés Iniesta|Xavi|Neymar|Lionel Messi|Cesc Fàbregas|Alex Song|Pedro|Alexis Sánchez|Diego López|Raphaël Varane|Pepe|Marcelo|Daniel Carvajal|Sergio Ramos|Sami Khedira|Luka Modrić|Cristiano Ronaldo|Ángel Di María|Gareth Bale|Asier Illarramendi|Jesé|Karim Benzema
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #04
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Getafe CF
+✈️  AWAY:  FC Barcelona
+📅 DATE:  czw., 16.01.2014
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/getafe-cf_fc-barcelona/aufstellung/spielbericht/2396431
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GETAFE CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jordi Codina
+        2. Alexis Ruano
+       15. Rafa López
+        3. Roberto Lago
+       28. Carlos Vigaray
+        5. Mehdi Lacen
+       21. Míchel Madera
+       22. Juan Rodríguez
+        8. Pablo Sarabia
+        7. Ángel Lafita
+       11. Adrián Colunga
+
+   🔄 SUBSTITUTES IN (3):
+        4. Lisandro López
+       17. Diego Castro
+       14. Pedro León
+
+✈️  FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+        5. Carles Puyol
+       15. Marc Bartra
+       21. Adriano
+       22. Dani Alves
+       17. Alex Song
+       24. Sergi Roberto
+        4. Cesc Fàbregas
+       11. Neymar
+       20. Cristian Tello
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (2):
+        6. Xavi
+        9. Alexis Sánchez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 16.01.2014|Unknown|Unknown|Getafe CF|FC Barcelona|Jordi Codina|Alexis Ruano|Rafa López|Roberto Lago|Carlos Vigaray|Mehdi Lacen|Míchel Madera|Juan Rodríguez|Pablo Sarabia|Ángel Lafita|Adrián Colunga|Lisandro López|Diego Castro|Pedro León|José Manuel Pinto|Carles Puyol|Marc Bartra|Adriano|Dani Alves|Alex Song|Sergi Roberto|Cesc Fàbregas|Neymar|Cristian Tello|Lionel Messi|Xavi|Alexis Sánchez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #05
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Elche CF
+✈️  AWAY:  FC Barcelona
+📅 DATE:  niedz., 11.05.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 37. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/elche-cf_fc-barcelona/aufstellung/spielbericht/2341365
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ELCHE CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Manu Herrera
+       18. Sergio Pelegrín
+        4. David Lombán
+       23. Domingo Cisma
+        2. Damián Suárez
+       24. Carlos Sánchez
+        6. Rubén Pérez
+       17. Javi Márquez
+       25. Garry Rodrigues
+       15. Carles Gil
+       11. Ferrán Corominas
+
+   🔄 SUBSTITUTES IN (3):
+        5. Alberto Rivera
+       16. Fidel
+        9. Richmond Boakye
+
+✈️  FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+       15. Marc Bartra
+       14. Javier Mascherano
+       21. Adriano
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        4. Cesc Fàbregas
+        7. Pedro
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (2):
+        6. Xavi
+       20. Cristian Tello
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 11.05.2014|LALIGA|37. Kolejka|Elche CF|FC Barcelona|Manu Herrera|Sergio Pelegrín|David Lombán|Domingo Cisma|Damián Suárez|Carlos Sánchez|Rubén Pérez|Javi Márquez|Garry Rodrigues|Carles Gil|Ferrán Corominas|Alberto Rivera|Fidel|Richmond Boakye|José Manuel Pinto|Marc Bartra|Javier Mascherano|Adriano|Dani Alves|Sergio Busquets|Andrés Iniesta|Cesc Fàbregas|Pedro|Alexis Sánchez|Lionel Messi|Xavi|Cristian Tello
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #06
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  FC Barcelona
+📅 DATE:  niedz., 01.12.2013
+🏆 COMP:  LALIGA
+🔢 ROUND: 15. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_fc-barcelona/aufstellung/spielbericht/2341240
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       18. Carlos Gurpegui
+       24. Mikel Balenziaga
+       15. Andoni Iraola
+        8. Ander Iturraspe
+       17. Mikel Rico
+       21. Ander Herrera
+       19. Iker Muniain
+       14. Markel Susaeta
+        2. Gaizka Toquero
+
+   🔄 SUBSTITUTES IN (3):
+       12. Unai Albizua
+        6. Mikel San José
+       11. Ibai Gómez
+
+✈️  FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+        3. Gerard Piqué
+       14. Javier Mascherano
+       21. Adriano
+        2. Martín Montoya
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        6. Xavi
+       11. Neymar
+        9. Alexis Sánchez
+        4. Cesc Fàbregas
+
+   🔄 SUBSTITUTES IN (2):
+       24. Sergi Roberto
+        7. Pedro
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 01.12.2013|LALIGA|15. Kolejka|Athletic Bilbao|FC Barcelona|Gorka Iraizoz|Aymeric Laporte|Carlos Gurpegui|Mikel Balenziaga|Andoni Iraola|Ander Iturraspe|Mikel Rico|Ander Herrera|Iker Muniain|Markel Susaeta|Gaizka Toquero|Unai Albizua|Mikel San José|Ibai Gómez|José Manuel Pinto|Gerard Piqué|Javier Mascherano|Adriano|Martín Montoya|Sergio Busquets|Andrés Iniesta|Xavi|Neymar|Alexis Sánchez|Cesc Fàbregas|Sergi Roberto|Pedro
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #07
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  FC Barcelona
+📅 DATE:  sob., 11.01.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 19. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_fc-barcelona/aufstellung/spielbericht/2341051
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Thibaut Courtois
+        2. Diego Godín
+       23. Miranda
+        3. Filipe Luís
+       20. Juanfran Torres
+        5. Tiago Mendes
+       14. Gabi
+        6. Koke
+       10. Arda Turan
+        9. David Villa
+       19. Diego Costa
+
+   🔄 SUBSTITUTES IN (2):
+       11. Cristian Rodríguez
+        8. Raúl García
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        6. Xavi
+        7. Pedro
+        9. Alexis Sánchez
+        4. Cesc Fàbregas
+
+   🔄 SUBSTITUTES IN (3):
+       24. Sergi Roberto
+       11. Neymar
+       10. Lionel Messi
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 11.01.2014|LALIGA|19. Kolejka|Atlético Madryt|FC Barcelona|Thibaut Courtois|Diego Godín|Miranda|Filipe Luís|Juanfran Torres|Tiago Mendes|Gabi|Koke|Arda Turan|David Villa|Diego Costa|Cristian Rodríguez|Raúl García|Víctor Valdés|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Andrés Iniesta|Xavi|Pedro|Alexis Sánchez|Cesc Fàbregas|Sergi Roberto|Neymar|Lionel Messi
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #08
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  UD Almería
+✈️  AWAY:  FC Barcelona
+📅 DATE:  sob., 28.09.2013
+🏆 COMP:  LALIGA
+🔢 ROUND: 7. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/ud-almería_fc-barcelona/aufstellung/spielbericht/2341166
+
+----------------------------------------------------------------------------------------------------
+
+🏠 UD ALMERÍA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Esteban
+        4. Hernán Pellerano
+        5. Ángel Trujillo
+       18. Bolaño
+       22. Nélson
+        6. Marcos Tébar
+        7. Verza
+       23. Fernando Soriano
+       17. Suso
+        8. Aleix Vidal
+       10. Rodri Ríos
+
+   🔄 SUBSTITUTES IN (3):
+       16. Sebastián Dubarbier
+       31. Ramon Azeez
+       11. Hélder Barbosa
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       15. Marc Bartra
+       21. Adriano
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        4. Cesc Fàbregas
+        7. Pedro
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       12. Jonathan dos Santos
+        6. Xavi
+       20. Cristian Tello
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 28.09.2013|LALIGA|7. Kolejka|UD Almería|FC Barcelona|Esteban|Hernán Pellerano|Ángel Trujillo|Bolaño|Nélson|Marcos Tébar|Verza|Fernando Soriano|Suso|Aleix Vidal|Rodri Ríos|Sebastián Dubarbier|Ramon Azeez|Hélder Barbosa|Víctor Valdés|Gerard Piqué|Marc Bartra|Adriano|Dani Alves|Sergio Busquets|Andrés Iniesta|Cesc Fàbregas|Pedro|Alexis Sánchez|Lionel Messi|Jonathan dos Santos|Xavi|Cristian Tello
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #09
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Real Betis Balompié
+📅 DATE:  sob., 05.04.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 32. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_real-betis-balompié/aufstellung/spielbericht/2341281
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+       15. Marc Bartra
+       14. Javier Mascherano
+       21. Adriano
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        6. Xavi
+        7. Pedro
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       17. Alex Song
+        4. Cesc Fàbregas
+       11. Neymar
+
+✈️  REAL BETIS BALOMPIÉ - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Antonio Adán
+       25. Jordi Figueras
+        4. Antonio Amaya
+       17. Juankar
+       11. Juanfran Moreno
+       18. Alfred N'Diaye
+        8. Nono
+       21. Lorenzo Reyes
+       22. Cedrick
+        7. Álvaro Vadillo
+        6. Léo Baptistão
+
+   🔄 SUBSTITUTES IN (3):
+       16. Braian Rodríguez
+       19. Jorge Molina
+       24. Rubén Castro
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 05.04.2014|LALIGA|32. Kolejka|FC Barcelona|Real Betis Balompié|José Manuel Pinto|Marc Bartra|Javier Mascherano|Adriano|Dani Alves|Sergio Busquets|Andrés Iniesta|Xavi|Pedro|Alexis Sánchez|Lionel Messi|Alex Song|Cesc Fàbregas|Neymar|Antonio Adán|Jordi Figueras|Antonio Amaya|Juankar|Juanfran Moreno|Alfred N'Diaye|Nono|Lorenzo Reyes|Cedrick|Álvaro Vadillo|Léo Baptistão|Braian Rodríguez|Jorge Molina|Rubén Castro
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #10
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  UD Almería
+📅 DATE:  niedz., 02.03.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 26. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_ud-almería/aufstellung/spielbericht/2341119
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        5. Carles Puyol
+       14. Javier Mascherano
+       21. Adriano
+       22. Dani Alves
+       16. Sergio Busquets
+        4. Cesc Fàbregas
+        6. Xavi
+       11. Neymar
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+        8. Andrés Iniesta
+       20. Cristian Tello
+        7. Pedro
+
+✈️  UD ALMERÍA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Esteban
+        2. Marco Torsiglieri
+        5. Ángel Trujillo
+       16. Sebastián Dubarbier
+       20. Rafita
+        7. Verza
+       31. Ramon Azeez
+       15. Miguel Ángel Corona
+        8. Aleix Vidal
+       19. Jonathan Zongo
+       10. Rodri Ríos
+
+   🔄 SUBSTITUTES IN (3):
+        6. Marcos Tébar
+       11. Hélder Barbosa
+       17. Suso
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 02.03.2014|LALIGA|26. Kolejka|FC Barcelona|UD Almería|Víctor Valdés|Carles Puyol|Javier Mascherano|Adriano|Dani Alves|Sergio Busquets|Cesc Fàbregas|Xavi|Neymar|Alexis Sánchez|Lionel Messi|Andrés Iniesta|Cristian Tello|Pedro|Esteban|Marco Torsiglieri|Ángel Trujillo|Sebastián Dubarbier|Rafita|Verza|Ramon Azeez|Miguel Ángel Corona|Aleix Vidal|Jonathan Zongo|Rodri Ríos|Marcos Tébar|Hélder Barbosa|Suso
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #11
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  RCD Espanyol
+📅 DATE:  pt., 01.11.2013
+🏆 COMP:  LALIGA
+🔢 ROUND: 12. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_rcd-espanyol/aufstellung/spielbericht/2341284
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+        2. Martín Montoya
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        6. Xavi
+       11. Neymar
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       15. Marc Bartra
+        4. Cesc Fàbregas
+        7. Pedro
+
+✈️  RCD ESPANYOL - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Kiko Casilla
+       15. Héctor Moreno
+        6. Sidnei
+       18. Juan Rafael Fuentes
+        3. Raúl Rodríguez
+       14. David López
+        4. Víctor Sánchez
+       23. Abraham González
+        9. Sergio García
+       25. Gabriel Torje
+        7. Thievy Bifouma
+
+   🔄 SUBSTITUTES IN (2):
+       12. Manu Lanzarote
+       24. Jhon Córdoba
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pt., 01.11.2013|LALIGA|12. Kolejka|FC Barcelona|RCD Espanyol|Víctor Valdés|Gerard Piqué|Javier Mascherano|Martín Montoya|Dani Alves|Sergio Busquets|Andrés Iniesta|Xavi|Neymar|Alexis Sánchez|Lionel Messi|Marc Bartra|Cesc Fàbregas|Pedro|Kiko Casilla|Héctor Moreno|Sidnei|Juan Rafael Fuentes|Raúl Rodríguez|David López|Víctor Sánchez|Abraham González|Sergio García|Gabriel Torje|Thievy Bifouma|Manu Lanzarote|Jhon Córdoba
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #12
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Celta de Vigo
+✈️  AWAY:  FC Barcelona
+📅 DATE:  wt., 29.10.2013
+🏆 COMP:  LALIGA
+🔢 ROUND: 11. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/celta-de-vigo_fc-barcelona/aufstellung/spielbericht/2341148
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CELTA DE VIGO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Yoel Rodríguez
+        3. Andreu Fontàs
+       22. Gustavo Cabral
+       15. Jon Aurtenetxe
+        2. Hugo Mallo
+        4. Borja Oubiña
+       12. Rafinha
+       24. Augusto Fernández
+        8. Álex López
+       10. Nolito
+       11. Charles
+
+   🔄 SUBSTITUTES IN (3):
+       20. Toni Dovale
+       14. Fabián Orellana
+       29. Santi Mina
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        5. Carles Puyol
+       15. Marc Bartra
+       21. Adriano
+       22. Dani Alves
+       16. Sergio Busquets
+       17. Alex Song
+        4. Cesc Fàbregas
+        9. Alexis Sánchez
+        7. Pedro
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+        2. Martín Montoya
+        8. Andrés Iniesta
+       20. Cristian Tello
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 29.10.2013|LALIGA|11. Kolejka|Celta de Vigo|FC Barcelona|Yoel Rodríguez|Andreu Fontàs|Gustavo Cabral|Jon Aurtenetxe|Hugo Mallo|Borja Oubiña|Rafinha|Augusto Fernández|Álex López|Nolito|Charles|Toni Dovale|Fabián Orellana|Santi Mina|Víctor Valdés|Carles Puyol|Marc Bartra|Adriano|Dani Alves|Sergio Busquets|Alex Song|Cesc Fàbregas|Alexis Sánchez|Pedro|Lionel Messi|Martín Montoya|Andrés Iniesta|Cristian Tello
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #13
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  sob., 17.05.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 38. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_atlético-madryt/aufstellung/spielbericht/2341258
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+        3. Gerard Piqué
+       14. Javier Mascherano
+       21. Adriano
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        4. Cesc Fàbregas
+        7. Pedro
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       17. Alex Song
+        6. Xavi
+       11. Neymar
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Thibaut Courtois
+        2. Diego Godín
+       23. Miranda
+        3. Filipe Luís
+       20. Juanfran Torres
+        5. Tiago Mendes
+       14. Gabi
+        6. Koke
+       10. Arda Turan
+        9. David Villa
+       19. Diego Costa
+
+   🔄 SUBSTITUTES IN (3):
+        8. Raúl García
+       24. José Sosa
+        7. Adrián López
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 17.05.2014|LALIGA|38. Kolejka|FC Barcelona|Atlético Madryt|José Manuel Pinto|Gerard Piqué|Javier Mascherano|Adriano|Dani Alves|Sergio Busquets|Andrés Iniesta|Cesc Fàbregas|Pedro|Alexis Sánchez|Lionel Messi|Alex Song|Xavi|Neymar|Thibaut Courtois|Diego Godín|Miranda|Filipe Luís|Juanfran Torres|Tiago Mendes|Gabi|Koke|Arda Turan|David Villa|Diego Costa|Raúl García|José Sosa|Adrián López
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #14
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Real Sociedad
+📅 DATE:  śr., 05.02.2014
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_real-sociedad/aufstellung/spielbericht/2423572
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        4. Cesc Fàbregas
+        6. Xavi
+        7. Pedro
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (2):
+        8. Andrés Iniesta
+       20. Cristian Tello
+
+✈️  REAL SOCIEDAD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Eñaut Zubikarai
+        6. Iñigo Martínez
+        3. Mikel González
+       15. Ion Ansotegi
+       20. Cote
+       31. Joseba Zaldua
+        4. Gorka Elustondo
+       28. Jon Gaztañaga
+       17. David Zurutuza
+       11. Carlos Vela
+        7. Antoine Griezmann
+
+   🔄 SUBSTITUTES IN (3):
+        2. Carlos Martínez
+       16. Sergio Canales
+        8. Haris Seferovic
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 05.02.2014|Unknown|Unknown|FC Barcelona|Real Sociedad|José Manuel Pinto|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Cesc Fàbregas|Xavi|Pedro|Alexis Sánchez|Lionel Messi|Andrés Iniesta|Cristian Tello|Eñaut Zubikarai|Iñigo Martínez|Mikel González|Ion Ansotegi|Cote|Joseba Zaldua|Gorka Elustondo|Jon Gaztañaga|David Zurutuza|Carlos Vela|Antoine Griezmann|Carlos Martínez|Sergio Canales|Haris Seferovic
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #15
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Manchester City
+✈️  AWAY:  FC Barcelona
+📅 DATE:  wt., 18.02.2014
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/manchester-city_fc-barcelona/aufstellung/spielbericht/2385037
+
+----------------------------------------------------------------------------------------------------
+
+🏠 MANCHESTER CITY - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Joe Hart
+        4. Vincent Kompany
+       26. Martín Demichelis
+       22. Gaël Clichy
+        5. Pablo Zabaleta
+       25. Fernandinho
+       42. Yaya Touré
+       15. Jesús Navas
+       13. Aleksandar Kolarov
+       21. David Silva
+        9. Álvaro Negredo
+
+   🔄 SUBSTITUTES IN (3):
+        6. Joleon Lescott
+        8. Samir Nasri
+       10. Edin Džeko
+
+✈️  FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        4. Cesc Fàbregas
+        6. Xavi
+        8. Andrés Iniesta
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (2):
+       24. Sergi Roberto
+       11. Neymar
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 18.02.2014|Unknown|Unknown|Manchester City|FC Barcelona|Joe Hart|Vincent Kompany|Martín Demichelis|Gaël Clichy|Pablo Zabaleta|Fernandinho|Yaya Touré|Jesús Navas|Aleksandar Kolarov|David Silva|Álvaro Negredo|Joleon Lescott|Samir Nasri|Edin Džeko|Víctor Valdés|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Cesc Fàbregas|Xavi|Andrés Iniesta|Alexis Sánchez|Lionel Messi|Sergi Roberto|Neymar
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #16
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Celtic Glasgow
+📅 DATE:  śr., 11.12.2013
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_celtic-glasgow/aufstellung/spielbericht/2368490
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+        3. Gerard Piqué
+       14. Javier Mascherano
+       21. Adriano
+        2. Martín Montoya
+       16. Sergio Busquets
+        6. Xavi
+       24. Sergi Roberto
+        7. Pedro
+        9. Alexis Sánchez
+       11. Neymar
+
+   🔄 SUBSTITUTES IN (3):
+       17. Alex Song
+       20. Cristian Tello
+       29. Jean Marie Dongou
+
+✈️  CELTIC GLASGOW - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Fraser Forster
+        4. Efe Ambrose
+        5. Virgil van Dijk
+        2. Adam Matthews
+       23. Mikael Lustig
+        6. Nir Bitton
+       16. Joe Ledley
+        8. Scott Brown
+       11. Derk Boerrigter
+        9. Georgios Samaras
+       20. Teemu Pukki
+
+   🔄 SUBSTITUTES IN (3):
+       21. Charlie Mulgrew
+       15. Kris Commons
+       10. Anthony Stokes
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 11.12.2013|Unknown|Unknown|FC Barcelona|Celtic Glasgow|José Manuel Pinto|Gerard Piqué|Javier Mascherano|Adriano|Martín Montoya|Sergio Busquets|Xavi|Sergi Roberto|Pedro|Alexis Sánchez|Neymar|Alex Song|Cristian Tello|Jean Marie Dongou|Fraser Forster|Efe Ambrose|Virgil van Dijk|Adam Matthews|Mikael Lustig|Nir Bitton|Joe Ledley|Scott Brown|Derk Boerrigter|Georgios Samaras|Teemu Pukki|Charlie Mulgrew|Kris Commons|Anthony Stokes
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #17
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  wt., 01.04.2014
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_atlético-madryt/aufstellung/spielbericht/2449278
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        4. Cesc Fàbregas
+        6. Xavi
+        8. Andrés Iniesta
+       10. Lionel Messi
+       11. Neymar
+
+   🔄 SUBSTITUTES IN (2):
+       15. Marc Bartra
+        9. Alexis Sánchez
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Thibaut Courtois
+        2. Diego Godín
+       23. Miranda
+        3. Filipe Luís
+       20. Juanfran Torres
+        5. Tiago Mendes
+       14. Gabi
+        6. Koke
+       10. Arda Turan
+        9. David Villa
+       19. Diego Costa
+
+   🔄 SUBSTITUTES IN (3):
+       11. Cristian Rodríguez
+       21. Diego
+       24. José Sosa
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 01.04.2014|Unknown|Unknown|FC Barcelona|Atlético Madryt|José Manuel Pinto|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Cesc Fàbregas|Xavi|Andrés Iniesta|Lionel Messi|Neymar|Marc Bartra|Alexis Sánchez|Thibaut Courtois|Diego Godín|Miranda|Filipe Luís|Juanfran Torres|Tiago Mendes|Gabi|Koke|Arda Turan|David Villa|Diego Costa|Cristian Rodríguez|Diego|José Sosa
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #18
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Sociedad
+✈️  AWAY:  FC Barcelona
+📅 DATE:  śr., 12.02.2014
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/real-sociedad_fc-barcelona/aufstellung/spielbericht/2423574
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL SOCIEDAD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Eñaut Zubikarai
+        3. Mikel González
+       15. Ion Ansotegi
+       20. Cote
+       31. Joseba Zaldua
+       17. David Zurutuza
+       28. Jon Gaztañaga
+       10. Xabi Prieto
+        7. Antoine Griezmann
+       11. Carlos Vela
+        8. Haris Seferovic
+
+   🔄 SUBSTITUTES IN (3):
+        4. Gorka Elustondo
+       16. Sergio Canales
+       18. Chory Castro
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        6. Xavi
+        4. Cesc Fàbregas
+        7. Pedro
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       15. Marc Bartra
+       17. Alex Song
+        9. Alexis Sánchez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 12.02.2014|Unknown|Unknown|Real Sociedad|FC Barcelona|Eñaut Zubikarai|Mikel González|Ion Ansotegi|Cote|Joseba Zaldua|David Zurutuza|Jon Gaztañaga|Xabi Prieto|Antoine Griezmann|Carlos Vela|Haris Seferovic|Gorka Elustondo|Sergio Canales|Chory Castro|José Manuel Pinto|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Andrés Iniesta|Xavi|Cesc Fàbregas|Pedro|Lionel Messi|Marc Bartra|Alex Song|Alexis Sánchez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #19
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Valencia CF
+✈️  AWAY:  FC Barcelona
+📅 DATE:  niedz., 01.09.2013
+🏆 COMP:  LALIGA
+🔢 ROUND: 3. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/valencia-cf_fc-barcelona/aufstellung/spielbericht/2341067
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VALENCIA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Diego Alves
+        4. Adil Rami
+       20. Ricardo Costa
+       18. Andrés Guardado
+       12. João Pereira
+       15. Javi Fuego
+       24. Míchel Herrero
+       10. Éver Banega
+       11. Dorlan Pabón
+       23. Sergio Canales
+        9. Hélder Postiga
+
+   🔄 SUBSTITUTES IN (3):
+       21. Dani Parejo
+        8. Sofiane Feghouli
+        7. Jonas
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        4. Cesc Fàbregas
+       11. Neymar
+        7. Pedro
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       12. Jonathan dos Santos
+       24. Sergi Roberto
+       20. Cristian Tello
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 01.09.2013|LALIGA|3. Kolejka|Valencia CF|FC Barcelona|Diego Alves|Adil Rami|Ricardo Costa|Andrés Guardado|João Pereira|Javi Fuego|Míchel Herrero|Éver Banega|Dorlan Pabón|Sergio Canales|Hélder Postiga|Dani Parejo|Sofiane Feghouli|Jonas|Víctor Valdés|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Andrés Iniesta|Cesc Fàbregas|Neymar|Pedro|Lionel Messi|Jonathan dos Santos|Sergi Roberto|Cristian Tello
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #20
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Valencia CF
+📅 DATE:  sob., 01.02.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 22. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_valencia-cf/aufstellung/spielbericht/2341025
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        4. Cesc Fàbregas
+        6. Xavi
+        7. Pedro
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (2):
+        8. Andrés Iniesta
+       20. Cristian Tello
+
+✈️  VALENCIA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Diego Alves
+       20. Ricardo Costa
+       22. Jérémy Mathieu
+       14. Juan Bernat
+       19. Antonio Barragán
+        6. Oriol Romeu
+       15. Javi Fuego
+       21. Dani Parejo
+        2. Pablo Piatti
+        8. Sofiane Feghouli
+       16. Paco Alcácer
+
+   🔄 SUBSTITUTES IN (3):
+       24. Míchel Herrero
+       28. Fede Cartabia
+       17. Eduardo Vargas
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 01.02.2014|LALIGA|22. Kolejka|FC Barcelona|Valencia CF|Víctor Valdés|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Cesc Fàbregas|Xavi|Pedro|Alexis Sánchez|Lionel Messi|Andrés Iniesta|Cristian Tello|Diego Alves|Ricardo Costa|Jérémy Mathieu|Juan Bernat|Antonio Barragán|Oriol Romeu|Javi Fuego|Dani Parejo|Pablo Piatti|Sofiane Feghouli|Paco Alcácer|Míchel Herrero|Fede Cartabia|Eduardo Vargas
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #21
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Málaga CF
+✈️  AWAY:  FC Barcelona
+📅 DATE:  niedz., 25.08.2013
+🏆 COMP:  LALIGA
+🔢 ROUND: 2. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/málaga-cf_fc-barcelona/aufstellung/spielbericht/2341075
+
+----------------------------------------------------------------------------------------------------
+
+🏠 MÁLAGA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Willy Caballero
+       21. Sergio Sánchez
+       15. Marcos Angeleri
+        5. Antunes
+        2. Jesús Gámez
+        6. Ignacio Camacho
+       12. Fernando Tissone
+       30. Sergi Darder
+       19. Bartlomiej Pawlowski
+       28. Fabrice Olinga
+        9. Roque Santa Cruz
+
+   🔄 SUBSTITUTES IN (3):
+       18. Eliseu
+       14. Pedro Morales
+       11. Sebastián Fernández
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+       21. Adriano
+       17. Alex Song
+        8. Andrés Iniesta
+        6. Xavi
+        7. Pedro
+        9. Alexis Sánchez
+        4. Cesc Fàbregas
+
+   🔄 SUBSTITUTES IN (3):
+       22. Dani Alves
+       24. Sergi Roberto
+       11. Neymar
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 25.08.2013|LALIGA|2. Kolejka|Málaga CF|FC Barcelona|Willy Caballero|Sergio Sánchez|Marcos Angeleri|Antunes|Jesús Gámez|Ignacio Camacho|Fernando Tissone|Sergi Darder|Bartlomiej Pawlowski|Fabrice Olinga|Roque Santa Cruz|Eliseu|Pedro Morales|Sebastián Fernández|Víctor Valdés|Gerard Piqué|Javier Mascherano|Jordi Alba|Adriano|Alex Song|Andrés Iniesta|Xavi|Pedro|Alexis Sánchez|Cesc Fàbregas|Dani Alves|Sergi Roberto|Neymar
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #22
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  CA Osasuna
+✈️  AWAY:  FC Barcelona
+📅 DATE:  sob., 19.10.2013
+🏆 COMP:  LALIGA
+🔢 ROUND: 9. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/ca-osasuna_fc-barcelona/aufstellung/spielbericht/2341154
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CA OSASUNA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Andrés Fernández
+       14. Alejandro Arribas
+       22. Jordan Lotiès
+       24. Damià Abella
+        2. Marc Bertrán
+        5. Lolo
+       20. Francisco Silva
+        8. Miguel de las Cuevas
+       21. Roberto Torres
+       11. Sisi González
+       19. Oriol Riera
+
+   🔄 SUBSTITUTES IN (3):
+       10. Patxi Puñal
+       15. Oier Sanjurjo
+       18. Manu Onwu
+
+✈️  FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        5. Carles Puyol
+       15. Marc Bartra
+       21. Adriano
+        2. Martín Montoya
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        6. Xavi
+       11. Neymar
+        7. Pedro
+        4. Cesc Fàbregas
+
+   🔄 SUBSTITUTES IN (2):
+       20. Cristian Tello
+       10. Lionel Messi
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 19.10.2013|LALIGA|9. Kolejka|CA Osasuna|FC Barcelona|Andrés Fernández|Alejandro Arribas|Jordan Lotiès|Damià Abella|Marc Bertrán|Lolo|Francisco Silva|Miguel de las Cuevas|Roberto Torres|Sisi González|Oriol Riera|Patxi Puñal|Oier Sanjurjo|Manu Onwu|Víctor Valdés|Carles Puyol|Marc Bartra|Adriano|Martín Montoya|Sergio Busquets|Andrés Iniesta|Xavi|Neymar|Pedro|Cesc Fàbregas|Cristian Tello|Lionel Messi
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #23
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Getafe CF
+📅 DATE:  sob., 03.05.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 36. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_getafe-cf/aufstellung/spielbericht/2341370
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+       15. Marc Bartra
+       14. Javier Mascherano
+       21. Adriano
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        6. Xavi
+        7. Pedro
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       17. Alex Song
+        4. Cesc Fàbregas
+       20. Cristian Tello
+
+✈️  GETAFE CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Júlio César
+        2. Alexis Ruano
+       15. Rafa López
+       18. Sergio Escudero
+       20. Juan Valera
+        5. Mehdi Lacen
+       22. Juan Rodríguez
+       19. Sammir
+        8. Pablo Sarabia
+        7. Ángel Lafita
+       11. Adrián Colunga
+
+   🔄 SUBSTITUTES IN (3):
+       24. Pedro Mosquera
+       21. Míchel Madera
+       10. Jaime Gavilán
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 03.05.2014|LALIGA|36. Kolejka|FC Barcelona|Getafe CF|José Manuel Pinto|Marc Bartra|Javier Mascherano|Adriano|Dani Alves|Sergio Busquets|Andrés Iniesta|Xavi|Pedro|Alexis Sánchez|Lionel Messi|Alex Song|Cesc Fàbregas|Cristian Tello|Júlio César|Alexis Ruano|Rafa López|Sergio Escudero|Juan Valera|Mehdi Lacen|Juan Rodríguez|Sammir|Pablo Sarabia|Ángel Lafita|Adrián Colunga|Pedro Mosquera|Míchel Madera|Jaime Gavilán
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #24
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Rayo Vallecano
+✈️  AWAY:  FC Barcelona
+📅 DATE:  sob., 21.09.2013
+🏆 COMP:  LALIGA
+🔢 ROUND: 5. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rayo-vallecano_fc-barcelona/aufstellung/spielbericht/2341178
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RAYO VALLECANO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Rubén Martínez
+        5. Alejandro Gálvez
+       21. Anaitz Arbilla
+       26. Johan Mojica
+        2. Tito
+        4. Raúl Baena
+       22. Saúl Ñíguez
+       10. Roberto Trashorras
+       19. Jonathan Viera
+       14. Alberto Perea
+       23. Alberto Bueno
+
+   🔄 SUBSTITUTES IN (3):
+        3. Nacho Martínez
+       32. Adrián Embarba
+       20. Joaquín Larrivey
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       21. Adriano
+        2. Martín Montoya
+       17. Alex Song
+        4. Cesc Fàbregas
+        6. Xavi
+       11. Neymar
+        7. Pedro
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       12. Jonathan dos Santos
+        8. Andrés Iniesta
+       20. Cristian Tello
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 21.09.2013|LALIGA|5. Kolejka|Rayo Vallecano|FC Barcelona|Rubén Martínez|Alejandro Gálvez|Anaitz Arbilla|Johan Mojica|Tito|Raúl Baena|Saúl Ñíguez|Roberto Trashorras|Jonathan Viera|Alberto Perea|Alberto Bueno|Nacho Martínez|Adrián Embarba|Joaquín Larrivey|Víctor Valdés|Gerard Piqué|Javier Mascherano|Adriano|Martín Montoya|Alex Song|Cesc Fàbregas|Xavi|Neymar|Pedro|Lionel Messi|Jonathan dos Santos|Andrés Iniesta|Cristian Tello
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #25
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Sevilla FC
+✈️  AWAY:  FC Barcelona
+📅 DATE:  niedz., 09.02.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 23. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/sevilla-fc_fc-barcelona/aufstellung/spielbericht/2341013
+
+----------------------------------------------------------------------------------------------------
+
+🏠 SEVILLA FC - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Beto
+        2. Federico Fazio
+       21. Nicolás Pareja
+       14. Alberto Moreno
+        5. Diogo Figueiras
+        6. Daniel Carriço
+       12. Vicente Iborra
+       11. Ivan Rakitic
+       20. Vitolo
+       18. Kévin Gameiro
+        9. Carlos Bacca
+
+   🔄 SUBSTITUTES IN (3):
+       15. Piotr Trochowski
+       16. Denis Cheryshev
+       17. Jairo Samperio
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       15. Marc Bartra
+       21. Adriano
+        2. Martín Montoya
+       17. Alex Song
+        8. Andrés Iniesta
+        6. Xavi
+        7. Pedro
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       16. Sergio Busquets
+        4. Cesc Fàbregas
+       24. Sergi Roberto
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 09.02.2014|LALIGA|23. Kolejka|Sevilla FC|FC Barcelona|Beto|Federico Fazio|Nicolás Pareja|Alberto Moreno|Diogo Figueiras|Daniel Carriço|Vicente Iborra|Ivan Rakitic|Vitolo|Kévin Gameiro|Carlos Bacca|Piotr Trochowski|Denis Cheryshev|Jairo Samperio|Víctor Valdés|Gerard Piqué|Marc Bartra|Adriano|Martín Montoya|Alex Song|Andrés Iniesta|Xavi|Pedro|Alexis Sánchez|Lionel Messi|Sergio Busquets|Cesc Fàbregas|Sergi Roberto
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #26
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Granada CF
+✈️  AWAY:  FC Barcelona
+📅 DATE:  sob., 12.04.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 33. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/granada-cf_fc-barcelona/aufstellung/spielbericht/2341332
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GRANADA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Orestis Karnezis
+        6. Tiago Ilori
+       24. Jeison Murillo
+       22. Dimitri Foulquier
+        2. Allan Nyom
+       18. Manuel Iturra
+        4. Fran Rico
+       14. Recio
+       10. Yacine Brahimi
+       20. Piti
+        9. Youssef El Arabi
+
+   🔄 SUBSTITUTES IN (3):
+        5. Diego Maínz
+       19. Alexandre Coeff
+       34. Christian Bravo
+
+✈️  FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+       14. Javier Mascherano
+       16. Sergio Busquets
+       21. Adriano
+        2. Martín Montoya
+       17. Alex Song
+        8. Andrés Iniesta
+        4. Cesc Fàbregas
+       11. Neymar
+        7. Pedro
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (2):
+       18. Jordi Alba
+        9. Alexis Sánchez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 12.04.2014|LALIGA|33. Kolejka|Granada CF|FC Barcelona|Orestis Karnezis|Tiago Ilori|Jeison Murillo|Dimitri Foulquier|Allan Nyom|Manuel Iturra|Fran Rico|Recio|Yacine Brahimi|Piti|Youssef El Arabi|Diego Maínz|Alexandre Coeff|Christian Bravo|José Manuel Pinto|Javier Mascherano|Sergio Busquets|Adriano|Martín Montoya|Alex Song|Andrés Iniesta|Cesc Fàbregas|Neymar|Pedro|Lionel Messi|Jordi Alba|Alexis Sánchez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #27
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Rayo Vallecano
+📅 DATE:  sob., 15.02.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 24. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_rayo-vallecano/aufstellung/spielbericht/2341117
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+        5. Carles Puyol
+       21. Adriano
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        4. Cesc Fàbregas
+        7. Pedro
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       14. Javier Mascherano
+       11. Neymar
+       20. Cristian Tello
+
+✈️  RAYO VALLECANO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Rubén Martínez
+       18. Zé Castro
+       22. Saúl Ñíguez
+       26. Johan Mojica
+       21. Anaitz Arbilla
+        4. Raúl Baena
+       10. Roberto Trashorras
+       23. Alberto Bueno
+       16. Rubén Rochina
+       24. Iago Falque
+       20. Joaquín Larrivey
+
+   🔄 SUBSTITUTES IN (3):
+        2. Tito
+       19. Jonathan Viera
+       12. Samuele Longo
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 15.02.2014|LALIGA|24. Kolejka|FC Barcelona|Rayo Vallecano|Víctor Valdés|Gerard Piqué|Carles Puyol|Adriano|Dani Alves|Sergio Busquets|Andrés Iniesta|Cesc Fàbregas|Pedro|Alexis Sánchez|Lionel Messi|Javier Mascherano|Neymar|Cristian Tello|Rubén Martínez|Zé Castro|Saúl Ñíguez|Johan Mojica|Anaitz Arbilla|Raúl Baena|Roberto Trashorras|Alberto Bueno|Rubén Rochina|Iago Falque|Joaquín Larrivey|Tito|Jonathan Viera|Samuele Longo
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #28
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Sociedad
+✈️  AWAY:  FC Barcelona
+📅 DATE:  sob., 22.02.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 25. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-sociedad_fc-barcelona/aufstellung/spielbericht/2341108
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL SOCIEDAD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Claudio Bravo
+        6. Iñigo Martínez
+        3. Mikel González
+       20. Cote
+       31. Joseba Zaldua
+        4. Gorka Elustondo
+        5. Markel Bergara
+       17. David Zurutuza
+        7. Antoine Griezmann
+       16. Sergio Canales
+       11. Carlos Vela
+
+   🔄 SUBSTITUTES IN (3):
+       15. Ion Ansotegi
+       14. Rubén Pardo
+       10. Xabi Prieto
+
+✈️  FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       15. Marc Bartra
+       21. Adriano
+        2. Martín Montoya
+       16. Sergio Busquets
+       17. Alex Song
+        8. Andrés Iniesta
+       11. Neymar
+        7. Pedro
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (2):
+        4. Cesc Fàbregas
+        9. Alexis Sánchez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 22.02.2014|LALIGA|25. Kolejka|Real Sociedad|FC Barcelona|Claudio Bravo|Iñigo Martínez|Mikel González|Cote|Joseba Zaldua|Gorka Elustondo|Markel Bergara|David Zurutuza|Antoine Griezmann|Sergio Canales|Carlos Vela|Ion Ansotegi|Rubén Pardo|Xabi Prieto|Víctor Valdés|Gerard Piqué|Marc Bartra|Adriano|Martín Montoya|Sergio Busquets|Alex Song|Andrés Iniesta|Neymar|Pedro|Lionel Messi|Cesc Fàbregas|Alexis Sánchez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #29
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  FC Barcelona
+📅 DATE:  śr., 09.04.2014
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_fc-barcelona/aufstellung/spielbericht/2449282
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Thibaut Courtois
+        2. Diego Godín
+       23. Miranda
+        3. Filipe Luís
+       20. Juanfran Torres
+        5. Tiago Mendes
+       14. Gabi
+        8. Raúl García
+        6. Koke
+        9. David Villa
+        7. Adrián López
+
+   🔄 SUBSTITUTES IN (2):
+       11. Cristian Rodríguez
+       21. Diego
+
+✈️  FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+       15. Marc Bartra
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        4. Cesc Fàbregas
+        6. Xavi
+        8. Andrés Iniesta
+       11. Neymar
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (2):
+        7. Pedro
+        9. Alexis Sánchez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 09.04.2014|Unknown|Unknown|Atlético Madryt|FC Barcelona|Thibaut Courtois|Diego Godín|Miranda|Filipe Luís|Juanfran Torres|Tiago Mendes|Gabi|Raúl García|Koke|David Villa|Adrián López|Cristian Rodríguez|Diego|José Manuel Pinto|Marc Bartra|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Cesc Fàbregas|Xavi|Andrés Iniesta|Neymar|Lionel Messi|Pedro|Alexis Sánchez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #30
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Celtic Glasgow
+✈️  AWAY:  FC Barcelona
+📅 DATE:  wt., 01.10.2013
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/celtic-glasgow_fc-barcelona/aufstellung/spielbericht/2367102
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CELTIC GLASGOW - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Fraser Forster
+        4. Efe Ambrose
+        5. Virgil van Dijk
+        3. Emilio Izaguirre
+       23. Mikael Lustig
+       21. Charlie Mulgrew
+        8. Scott Brown
+        2. Adam Matthews
+       15. Kris Commons
+       10. Anthony Stokes
+        9. Georgios Samaras
+
+   🔄 SUBSTITUTES IN (3):
+       33. Beram Kayal
+       49. James Forrest
+       20. Teemu Pukki
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       15. Marc Bartra
+       21. Adriano
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        6. Xavi
+       11. Neymar
+        7. Pedro
+        4. Cesc Fàbregas
+
+   🔄 SUBSTITUTES IN (3):
+       17. Alex Song
+       20. Cristian Tello
+        9. Alexis Sánchez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 01.10.2013|Unknown|Unknown|Celtic Glasgow|FC Barcelona|Fraser Forster|Efe Ambrose|Virgil van Dijk|Emilio Izaguirre|Mikael Lustig|Charlie Mulgrew|Scott Brown|Adam Matthews|Kris Commons|Anthony Stokes|Georgios Samaras|Beram Kayal|James Forrest|Teemu Pukki|Víctor Valdés|Gerard Piqué|Marc Bartra|Adriano|Dani Alves|Sergio Busquets|Andrés Iniesta|Xavi|Neymar|Pedro|Cesc Fàbregas|Alex Song|Cristian Tello|Alexis Sánchez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #31
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Ajax Amsterdam
+✈️  AWAY:  FC Barcelona
+📅 DATE:  wt., 26.11.2013
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/ajax-amsterdam_fc-barcelona/aufstellung/spielbericht/2368467
+
+----------------------------------------------------------------------------------------------------
+
+🏠 AJAX AMSTERDAM - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       22. Jasper Cillessen
+        4. Niklas Moisander
+       12. Joël Veltman
+       15. Nicolai Boilesen
+        2. Ricardo van Rhijn
+       17. Daley Blind
+       25. Thulani Serero
+       18. Davy Klaassen
+        7. Viktor Fischer
+       20. Lasse Schöne
+       23. Danny Hoesen
+
+   🔄 SUBSTITUTES IN (3):
+       24. Stefano Denswil
+        5. Christian Poulsen
+        8. Lerin Duarte
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+        3. Gerard Piqué
+       14. Javier Mascherano
+        2. Martín Montoya
+        5. Carles Puyol
+       17. Alex Song
+        8. Andrés Iniesta
+        6. Xavi
+       11. Neymar
+        7. Pedro
+        4. Cesc Fàbregas
+
+   🔄 SUBSTITUTES IN (3):
+       27. Patric
+       24. Sergi Roberto
+       28. Adama Traoré
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 26.11.2013|Unknown|Unknown|Ajax Amsterdam|FC Barcelona|Jasper Cillessen|Niklas Moisander|Joël Veltman|Nicolai Boilesen|Ricardo van Rhijn|Daley Blind|Thulani Serero|Davy Klaassen|Viktor Fischer|Lasse Schöne|Danny Hoesen|Stefano Denswil|Christian Poulsen|Lerin Duarte|José Manuel Pinto|Gerard Piqué|Javier Mascherano|Martín Montoya|Carles Puyol|Alex Song|Andrés Iniesta|Xavi|Neymar|Pedro|Cesc Fàbregas|Patric|Sergi Roberto|Adama Traoré
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #32
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  FC Cartagena
+📅 DATE:  wt., 17.12.2013
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_fc-cartagena/aufstellung/spielbericht/2382255
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+        5. Carles Puyol
+       14. Javier Mascherano
+       21. Adriano
+        2. Martín Montoya
+       17. Alex Song
+        4. Cesc Fàbregas
+       24. Sergi Roberto
+       20. Cristian Tello
+        7. Pedro
+       11. Neymar
+
+   🔄 SUBSTITUTES IN (3):
+       18. Jordi Alba
+        8. Andrés Iniesta
+        9. Alexis Sánchez
+
+✈️  FC CARTAGENA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. George Savu
+        5. Jaime Astrain
+        8. Carlos David
+        3. Zurdo
+        2. Alex Cacho
+        6. Mariano
+        4. Carlos de Lerma
+       11. Eric López
+        7. Diego Segura
+        9. Juan Carlos Menudo
+       10. Antonio Megías
+
+   🔄 SUBSTITUTES IN (3):
+       12. Antoñito
+       14. Federico Ruiz de Maio
+       16. Fernando Rodríguez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 17.12.2013|Unknown|Unknown|FC Barcelona|FC Cartagena|José Manuel Pinto|Carles Puyol|Javier Mascherano|Adriano|Martín Montoya|Alex Song|Cesc Fàbregas|Sergi Roberto|Cristian Tello|Pedro|Neymar|Jordi Alba|Andrés Iniesta|Alexis Sánchez|George Savu|Jaime Astrain|Carlos David|Zurdo|Alex Cacho|Mariano|Carlos de Lerma|Eric López|Diego Segura|Juan Carlos Menudo|Antonio Megías|Antoñito|Federico Ruiz de Maio|Fernando Rodríguez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #33
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Elche CF
+📅 DATE:  niedz., 05.01.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 18. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_elche-cf/aufstellung/spielbericht/2341216
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       15. Marc Bartra
+       18. Jordi Alba
+        2. Martín Montoya
+       17. Alex Song
+        8. Andrés Iniesta
+        6. Xavi
+        7. Pedro
+        9. Alexis Sánchez
+        4. Cesc Fàbregas
+
+   🔄 SUBSTITUTES IN (3):
+       24. Sergi Roberto
+       11. Neymar
+       20. Cristian Tello
+
+✈️  ELCHE CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Toño
+        3. Alberto Botía
+        4. David Lombán
+       21. Edu Albacar
+       19. Cristian Săpunaru
+       24. Carlos Sánchez
+        6. Rubén Pérez
+        7. Aarón Ñíguez
+       16. Fidel
+        9. Richmond Boakye
+       15. Carles Gil
+
+   🔄 SUBSTITUTES IN (3):
+       17. Javi Márquez
+        8. Sergio Mantecón
+       14. Manu del Moral
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 05.01.2014|LALIGA|18. Kolejka|FC Barcelona|Elche CF|Víctor Valdés|Gerard Piqué|Marc Bartra|Jordi Alba|Martín Montoya|Alex Song|Andrés Iniesta|Xavi|Pedro|Alexis Sánchez|Cesc Fàbregas|Sergi Roberto|Neymar|Cristian Tello|Toño|Alberto Botía|David Lombán|Edu Albacar|Cristian Săpunaru|Carlos Sánchez|Rubén Pérez|Aarón Ñíguez|Fidel|Richmond Boakye|Carles Gil|Javi Márquez|Sergio Mantecón|Manu del Moral
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #34
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  RCD Espanyol
+✈️  AWAY:  FC Barcelona
+📅 DATE:  sob., 29.03.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 31. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rcd-espanyol_fc-barcelona/aufstellung/spielbericht/2341330
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RCD ESPANYOL - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Kiko Casilla
+       15. Héctor Moreno
+       19. Diego Colotto
+       18. Juan Rafael Fuentes
+       16. Javi López
+       14. David López
+        4. Víctor Sánchez
+       10. Pizzi
+       20. Simão
+        9. Sergio García
+        8. Cristhian Stuani
+
+   🔄 SUBSTITUTES IN (3):
+        6. Sidnei
+       22. Álex Fernández
+       24. Jhon Córdoba
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        4. Cesc Fàbregas
+        6. Xavi
+       11. Neymar
+        7. Pedro
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+        8. Andrés Iniesta
+       24. Sergi Roberto
+        9. Alexis Sánchez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 29.03.2014|LALIGA|31. Kolejka|RCD Espanyol|FC Barcelona|Kiko Casilla|Héctor Moreno|Diego Colotto|Juan Rafael Fuentes|Javi López|David López|Víctor Sánchez|Pizzi|Simão|Sergio García|Cristhian Stuani|Sidnei|Álex Fernández|Jhon Córdoba|José Manuel Pinto|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Cesc Fàbregas|Xavi|Neymar|Pedro|Lionel Messi|Andrés Iniesta|Sergi Roberto|Alexis Sánchez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #35
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  FC Barcelona
+📅 DATE:  niedz., 27.04.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 35. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_fc-barcelona/aufstellung/spielbericht/2341360
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Sergio Asenjo
+        5. Mateo Musacchio
+       20. Gabriel Paulista
+        3. Bojan Jokic
+        2. Mario Gaspar
+       21. Bruno Soriano
+        4. Tomás Pina
+       14. Manu Trigueros
+       10. Cani
+        9. Giovani dos Santos
+        7. Jérémy Perbet
+
+   🔄 SUBSTITUTES IN (3):
+       17. Javier Aquino
+        8. Ikechukwu Uche
+       24. Jonathan Pereira
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+       15. Marc Bartra
+       14. Javier Mascherano
+       21. Adriano
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        6. Xavi
+        7. Pedro
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+        4. Cesc Fàbregas
+       24. Sergi Roberto
+       20. Cristian Tello
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 27.04.2014|LALIGA|35. Kolejka|Villarreal CF|FC Barcelona|Sergio Asenjo|Mateo Musacchio|Gabriel Paulista|Bojan Jokic|Mario Gaspar|Bruno Soriano|Tomás Pina|Manu Trigueros|Cani|Giovani dos Santos|Jérémy Perbet|Javier Aquino|Ikechukwu Uche|Jonathan Pereira|José Manuel Pinto|Marc Bartra|Javier Mascherano|Adriano|Dani Alves|Sergio Busquets|Andrés Iniesta|Xavi|Pedro|Alexis Sánchez|Lionel Messi|Cesc Fàbregas|Sergi Roberto|Cristian Tello
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #36
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Valladolid CF
+✈️  AWAY:  FC Barcelona
+📅 DATE:  sob., 08.03.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 27. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-valladolid-cf_fc-barcelona/aufstellung/spielbericht/2341107
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL VALLADOLID CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Mariño
+        6. Jesús Rueda
+       15. Stefan Mitrovic
+       17. Carlos Peña
+        2. Antonio Rukavina
+        4. Marc Valiente
+       18. Álvaro Rubio
+       21. Zakarya Bergdich
+        5. Fausto Rossi
+       23. Manucho
+        9. Javi Guerra
+
+   🔄 SUBSTITUTES IN (3):
+       16. Lluis Sastre
+       10. Óscar González
+       19. Valdet Rama
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       21. Adriano
+       22. Dani Alves
+       16. Sergio Busquets
+        4. Cesc Fàbregas
+        6. Xavi
+       11. Neymar
+        7. Pedro
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       24. Sergi Roberto
+       20. Cristian Tello
+        9. Alexis Sánchez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 08.03.2014|LALIGA|27. Kolejka|Real Valladolid CF|FC Barcelona|Diego Mariño|Jesús Rueda|Stefan Mitrovic|Carlos Peña|Antonio Rukavina|Marc Valiente|Álvaro Rubio|Zakarya Bergdich|Fausto Rossi|Manucho|Javi Guerra|Lluis Sastre|Óscar González|Valdet Rama|Víctor Valdés|Gerard Piqué|Javier Mascherano|Adriano|Dani Alves|Sergio Busquets|Cesc Fàbregas|Xavi|Neymar|Pedro|Lionel Messi|Sergi Roberto|Cristian Tello|Alexis Sánchez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #37
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  AC Milan
+📅 DATE:  śr., 06.11.2013
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_ac-milan/aufstellung/spielbericht/2368459
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       21. Adriano
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        6. Xavi
+       11. Neymar
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       17. Alex Song
+        4. Cesc Fàbregas
+        7. Pedro
+
+✈️  AC MILAN - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       32. Christian Abbiati
+        5. Philippe Mexès
+       17. Cristian Zapata
+       28. Urby Emanuelson
+       20. Ignazio Abate
+       18. Riccardo Montolivo
+       34. Nigel de Jong
+       16. Andrea Poli
+        4. Sulley Muntari
+       22. Kaká
+        7. Robinho
+
+   🔄 SUBSTITUTES IN (3):
+       14. Valter Birsa
+        9. Alessandro Matri
+       45. Mario Balotelli
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 06.11.2013|Unknown|Unknown|FC Barcelona|AC Milan|Víctor Valdés|Gerard Piqué|Javier Mascherano|Adriano|Dani Alves|Sergio Busquets|Andrés Iniesta|Xavi|Neymar|Alexis Sánchez|Lionel Messi|Alex Song|Cesc Fàbregas|Pedro|Christian Abbiati|Philippe Mexès|Cristian Zapata|Urby Emanuelson|Ignazio Abate|Riccardo Montolivo|Nigel de Jong|Andrea Poli|Sulley Muntari|Kaká|Robinho|Valter Birsa|Alessandro Matri|Mario Balotelli
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #38
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Levante UD
+📅 DATE:  niedz., 18.08.2013
+🏆 COMP:  LALIGA
+🔢 ROUND: 1. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_levante-ud/aufstellung/spielbericht/2346404
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       21. Adriano
+       22. Dani Alves
+       16. Sergio Busquets
+        4. Cesc Fàbregas
+        6. Xavi
+        7. Pedro
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+        8. Andrés Iniesta
+       11. Neymar
+       20. Cristian Tello
+
+✈️  LEVANTE UD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Keylor Navas
+        4. David Navarro
+        5. Héctor Rodas
+       12. Juanfran
+       19. Pedro López
+       24. Simão
+       18. Sérgio da Silva Pinto
+        8. Nabil El Zhar
+       11. Rubén García
+       17. Jordi Xumetra
+        7. David Barral
+
+   🔄 SUBSTITUTES IN (3):
+       16. Issam El Adoua
+       14. Miguel Pallardó
+       21. Andreas Ivanschitz
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 18.08.2013|LALIGA|1. Kolejka|FC Barcelona|Levante UD|Víctor Valdés|Gerard Piqué|Javier Mascherano|Adriano|Dani Alves|Sergio Busquets|Cesc Fàbregas|Xavi|Pedro|Alexis Sánchez|Lionel Messi|Andrés Iniesta|Neymar|Cristian Tello|Keylor Navas|David Navarro|Héctor Rodas|Juanfran|Pedro López|Simão|Sérgio da Silva Pinto|Nabil El Zhar|Rubén García|Jordi Xumetra|David Barral|Issam El Adoua|Miguel Pallardó|Andreas Ivanschitz
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #39
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Manchester City
+📅 DATE:  śr., 12.03.2014
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_manchester-city/aufstellung/spielbericht/2385045
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        6. Xavi
+        4. Cesc Fàbregas
+        8. Andrés Iniesta
+       11. Neymar
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (2):
+       24. Sergi Roberto
+        9. Alexis Sánchez
+
+✈️  MANCHESTER CITY - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Joe Hart
+        6. Joleon Lescott
+        4. Vincent Kompany
+       13. Aleksandar Kolarov
+        5. Pablo Zabaleta
+       25. Fernandinho
+       42. Yaya Touré
+        8. Samir Nasri
+        7. James Milner
+       21. David Silva
+       16. Sergio Agüero
+
+   🔄 SUBSTITUTES IN (3):
+       15. Jesús Navas
+        9. Álvaro Negredo
+       10. Edin Džeko
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 12.03.2014|Unknown|Unknown|FC Barcelona|Manchester City|Víctor Valdés|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Xavi|Cesc Fàbregas|Andrés Iniesta|Neymar|Lionel Messi|Sergi Roberto|Alexis Sánchez|Joe Hart|Joleon Lescott|Vincent Kompany|Aleksandar Kolarov|Pablo Zabaleta|Fernandinho|Yaya Touré|Samir Nasri|James Milner|David Silva|Sergio Agüero|Jesús Navas|Álvaro Negredo|Edin Džeko
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #40
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Levante UD
+📅 DATE:  śr., 29.01.2014
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_levante-ud/aufstellung/spielbericht/2421870
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+        5. Carles Puyol
+       15. Marc Bartra
+       21. Adriano
+        2. Martín Montoya
+       17. Alex Song
+        8. Andrés Iniesta
+       24. Sergi Roberto
+       20. Cristian Tello
+        9. Alexis Sánchez
+        4. Cesc Fàbregas
+
+   🔄 SUBSTITUTES IN (3):
+       14. Javier Mascherano
+       19. Ibrahim Afellay
+        7. Pedro
+
+✈️  LEVANTE UD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Javi Jiménez
+        6. Loukas Vyntra
+       12. Juanfran
+       15. Nikolaos Karabelas
+       25. Nagore
+       16. Issam El Adoua
+       18. Sérgio da Silva Pinto
+       37. Víctor Camarasa
+       11. Rubén García
+       20. Pedro Ríos
+        9. Ángel Rodríguez
+
+   🔄 SUBSTITUTES IN (3):
+       33. Jordi César
+       14. Miguel Pallardó
+        3. Aloys Nong
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 29.01.2014|Unknown|Unknown|FC Barcelona|Levante UD|José Manuel Pinto|Carles Puyol|Marc Bartra|Adriano|Martín Montoya|Alex Song|Andrés Iniesta|Sergi Roberto|Cristian Tello|Alexis Sánchez|Cesc Fàbregas|Javier Mascherano|Ibrahim Afellay|Pedro|Javi Jiménez|Loukas Vyntra|Juanfran|Nikolaos Karabelas|Nagore|Issam El Adoua|Sérgio da Silva Pinto|Víctor Camarasa|Rubén García|Pedro Ríos|Ángel Rodríguez|Jordi César|Miguel Pallardó|Aloys Nong
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #41
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 14.12.2013
+🏆 COMP:  LALIGA
+🔢 ROUND: 16. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_villarreal-cf/aufstellung/spielbericht/2341274
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+        3. Gerard Piqué
+       15. Marc Bartra
+       18. Jordi Alba
+        2. Martín Montoya
+       16. Sergio Busquets
+       17. Alex Song
+        8. Andrés Iniesta
+       11. Neymar
+        9. Alexis Sánchez
+        4. Cesc Fàbregas
+
+   🔄 SUBSTITUTES IN (3):
+        6. Xavi
+       24. Sergi Roberto
+        7. Pedro
+
+✈️  VILLARREAL CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Sergio Asenjo
+       16. Chechu Dorado
+        5. Mateo Musacchio
+       18. Jaume Costa
+        2. Mario Gaspar
+        4. Tomás Pina
+       28. Edu Ramos
+       14. Manu Trigueros
+       11. Hernán Pérez
+       17. Javier Aquino
+        9. Giovani dos Santos
+
+   🔄 SUBSTITUTES IN (3):
+        3. Bojan Jokic
+        8. Ikechukwu Uche
+       24. Jonathan Pereira
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 14.12.2013|LALIGA|16. Kolejka|FC Barcelona|Villarreal CF|José Manuel Pinto|Gerard Piqué|Marc Bartra|Jordi Alba|Martín Montoya|Sergio Busquets|Alex Song|Andrés Iniesta|Neymar|Alexis Sánchez|Cesc Fàbregas|Xavi|Sergi Roberto|Pedro|Sergio Asenjo|Chechu Dorado|Mateo Musacchio|Jaume Costa|Mario Gaspar|Tomás Pina|Edu Ramos|Manu Trigueros|Hernán Pérez|Javier Aquino|Giovani dos Santos|Bojan Jokic|Ikechukwu Uche|Jonathan Pereira
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #42
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  CA Osasuna
+📅 DATE:  niedz., 16.03.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 28. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_ca-osasuna/aufstellung/spielbericht/2341342
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+       15. Marc Bartra
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        6. Xavi
+        7. Pedro
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       21. Adriano
+       17. Alex Song
+       20. Cristian Tello
+
+✈️  CA OSASUNA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Andrés Fernández
+       14. Alejandro Arribas
+       22. Jordan Lotiès
+       24. Damià Abella
+       15. Oier Sanjurjo
+       23. Raoul Loé
+       20. Francisco Silva
+       21. Roberto Torres
+        9. Emiliano Armenteros
+       16. Álvaro Cejudo
+       19. Oriol Riera
+
+   🔄 SUBSTITUTES IN (3):
+       10. Patxi Puñal
+       17. Cristian Lobato
+        7. Javi Acuña
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 16.03.2014|LALIGA|28. Kolejka|FC Barcelona|CA Osasuna|Víctor Valdés|Marc Bartra|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Andrés Iniesta|Xavi|Pedro|Alexis Sánchez|Lionel Messi|Adriano|Alex Song|Cristian Tello|Andrés Fernández|Alejandro Arribas|Jordan Lotiès|Damià Abella|Oier Sanjurjo|Raoul Loé|Francisco Silva|Roberto Torres|Emiliano Armenteros|Álvaro Cejudo|Oriol Riera|Patxi Puñal|Cristian Lobato|Javi Acuña
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #43
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Ajax Amsterdam
+📅 DATE:  śr., 18.09.2013
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_ajax-amsterdam/aufstellung/spielbericht/2367099
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       21. Adriano
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        4. Cesc Fàbregas
+       11. Neymar
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       15. Marc Bartra
+        6. Xavi
+        7. Pedro
+
+✈️  AJAX AMSTERDAM - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Kenneth Vermeer
+        4. Niklas Moisander
+       24. Stefano Denswil
+       17. Daley Blind
+        2. Ricardo van Rhijn
+        5. Christian Poulsen
+        8. Lerin Duarte
+       15. Nicolai Boilesen
+       10. Siem de Jong
+       11. Bojan Krkic
+        9. Kolbeinn Sigthórsson
+
+   🔄 SUBSTITUTES IN (3):
+        6. Mike van der Hoorn
+       25. Thulani Serero
+       20. Lasse Schöne
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 18.09.2013|Unknown|Unknown|FC Barcelona|Ajax Amsterdam|Víctor Valdés|Gerard Piqué|Javier Mascherano|Adriano|Dani Alves|Sergio Busquets|Andrés Iniesta|Cesc Fàbregas|Neymar|Alexis Sánchez|Lionel Messi|Marc Bartra|Xavi|Pedro|Kenneth Vermeer|Niklas Moisander|Stefano Denswil|Daley Blind|Ricardo van Rhijn|Christian Poulsen|Lerin Duarte|Nicolai Boilesen|Siem de Jong|Bojan Krkic|Kolbeinn Sigthórsson|Mike van der Hoorn|Thulani Serero|Lasse Schöne
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #44
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Sevilla FC
+📅 DATE:  sob., 14.09.2013
+🏆 COMP:  LALIGA
+🔢 ROUND: 4. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_sevilla-fc/aufstellung/spielbericht/2341085
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        6. Xavi
+       11. Neymar
+       20. Cristian Tello
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       21. Adriano
+        4. Cesc Fàbregas
+        9. Alexis Sánchez
+
+✈️  SEVILLA FC - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Beto
+        4. Juan Cala
+        3. Fernando Navarro
+       32. Alberto Moreno
+       23. Coke
+       22. Stéphane Mbia
+        8. Sebastián Cristóforo
+       11. Ivan Rakitic
+       20. Vitolo
+       17. Jairo Samperio
+       18. Kévin Gameiro
+
+   🔄 SUBSTITUTES IN (3):
+        7. Marko Marin
+       14. Bryan Rabello
+       15. Piotr Trochowski
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 14.09.2013|LALIGA|4. Kolejka|FC Barcelona|Sevilla FC|Víctor Valdés|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Andrés Iniesta|Xavi|Neymar|Cristian Tello|Lionel Messi|Adriano|Cesc Fàbregas|Alexis Sánchez|Beto|Juan Cala|Fernando Navarro|Alberto Moreno|Coke|Stéphane Mbia|Sebastián Cristóforo|Ivan Rakitic|Vitolo|Jairo Samperio|Kévin Gameiro|Marko Marin|Bryan Rabello|Piotr Trochowski
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #45
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Granada CF
+📅 DATE:  sob., 23.11.2013
+🏆 COMP:  LALIGA
+🔢 ROUND: 14. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_granada-cf/aufstellung/spielbericht/2341234
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+        3. Gerard Piqué
+       15. Marc Bartra
+       21. Adriano
+        2. Martín Montoya
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        4. Cesc Fàbregas
+        7. Pedro
+        9. Alexis Sánchez
+       11. Neymar
+
+   🔄 SUBSTITUTES IN (3):
+       17. Alex Song
+       24. Sergi Roberto
+       28. Adama Traoré
+
+✈️  GRANADA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Roberto Fernández
+       15. Pape Diakhaté
+       24. Jeison Murillo
+       22. Dimitri Foulquier
+        2. Allan Nyom
+       18. Manuel Iturra
+        4. Fran Rico
+       14. Recio
+       10. Yacine Brahimi
+       20. Piti
+        9. Youssef El Arabi
+
+   🔄 SUBSTITUTES IN (3):
+       12. Diego Buonanotte
+       21. Riki
+        7. Odion Ighalo
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 23.11.2013|LALIGA|14. Kolejka|FC Barcelona|Granada CF|José Manuel Pinto|Gerard Piqué|Marc Bartra|Adriano|Martín Montoya|Sergio Busquets|Andrés Iniesta|Cesc Fàbregas|Pedro|Alexis Sánchez|Neymar|Alex Song|Sergi Roberto|Adama Traoré|Roberto Fernández|Pape Diakhaté|Jeison Murillo|Dimitri Foulquier|Allan Nyom|Manuel Iturra|Fran Rico|Recio|Yacine Brahimi|Piti|Youssef El Arabi|Diego Buonanotte|Riki|Odion Ighalo
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #46
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  FC Barcelona
+📅 DATE:  niedz., 23.03.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 29. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_fc-barcelona/aufstellung/spielbericht/2341314
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Diego López
+        3. Pepe
+        4. Sergio Ramos
+       12. Marcelo
+       15. Daniel Carvajal
+       14. Xabi Alonso
+       19. Luka Modrić
+       22. Ángel Di María
+        7. Cristiano Ronaldo
+       11. Gareth Bale
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (3):
+        2. Raphaël Varane
+       23. Isco
+       21. Álvaro Morata
+
+✈️  FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        4. Cesc Fàbregas
+        6. Xavi
+        8. Andrés Iniesta
+       11. Neymar
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (2):
+        7. Pedro
+        9. Alexis Sánchez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 23.03.2014|LALIGA|29. Kolejka|Real Madryt|FC Barcelona|Diego López|Pepe|Sergio Ramos|Marcelo|Daniel Carvajal|Xabi Alonso|Luka Modrić|Ángel Di María|Cristiano Ronaldo|Gareth Bale|Karim Benzema|Raphaël Varane|Isco|Álvaro Morata|Víctor Valdés|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Cesc Fàbregas|Xavi|Andrés Iniesta|Neymar|Lionel Messi|Pedro|Alexis Sánchez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #47
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Betis Balompié
+✈️  AWAY:  FC Barcelona
+📅 DATE:  niedz., 10.11.2013
+🏆 COMP:  LALIGA
+🔢 ROUND: 13. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-betis-balompié_fc-barcelona/aufstellung/spielbericht/2341255
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL BETIS BALOMPIÉ - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Guillermo Sara
+       25. Jordi Figueras
+       36. José Antonio Caro
+       23. Nacho
+       18. Markus Steinhöfer
+        6. Xavi Torres
+        8. Nono
+       10. Joan Verdú
+       17. Juankar
+        7. Álvaro Vadillo
+       19. Jorge Molina
+
+   🔄 SUBSTITUTES IN (3):
+       12. Dídac Vilà
+        5. Javier Matilla
+        9. Chuli
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        5. Carles Puyol
+       15. Marc Bartra
+        2. Martín Montoya
+       22. Dani Alves
+       17. Alex Song
+        4. Cesc Fàbregas
+        6. Xavi
+       11. Neymar
+        7. Pedro
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+        8. Andrés Iniesta
+       24. Sergi Roberto
+       20. Cristian Tello
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 10.11.2013|LALIGA|13. Kolejka|Real Betis Balompié|FC Barcelona|Guillermo Sara|Jordi Figueras|José Antonio Caro|Nacho|Markus Steinhöfer|Xavi Torres|Nono|Joan Verdú|Juankar|Álvaro Vadillo|Jorge Molina|Dídac Vilà|Javier Matilla|Chuli|Víctor Valdés|Carles Puyol|Marc Bartra|Martín Montoya|Dani Alves|Alex Song|Cesc Fàbregas|Xavi|Neymar|Pedro|Lionel Messi|Andrés Iniesta|Sergi Roberto|Cristian Tello
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #48
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  AC Milan
+✈️  AWAY:  FC Barcelona
+📅 DATE:  wt., 22.10.2013
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/ac-milan_fc-barcelona/aufstellung/spielbericht/2368437
+
+----------------------------------------------------------------------------------------------------
+
+🏠 AC MILAN - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marco Amelia
+        5. Philippe Mexès
+       17. Cristian Zapata
+       21. Kévin Constant
+       20. Ignazio Abate
+       34. Nigel de Jong
+       18. Riccardo Montolivo
+        4. Sulley Muntari
+       22. Kaká
+       14. Valter Birsa
+        7. Robinho
+
+   🔄 SUBSTITUTES IN (3):
+       28. Urby Emanuelson
+       16. Andrea Poli
+       45. Mario Balotelli
+
+✈️  FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       21. Adriano
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        6. Xavi
+       11. Neymar
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (2):
+        4. Cesc Fàbregas
+        7. Pedro
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 22.10.2013|Unknown|Unknown|AC Milan|FC Barcelona|Marco Amelia|Philippe Mexès|Cristian Zapata|Kévin Constant|Ignazio Abate|Nigel de Jong|Riccardo Montolivo|Sulley Muntari|Kaká|Valter Birsa|Robinho|Urby Emanuelson|Andrea Poli|Mario Balotelli|Víctor Valdés|Gerard Piqué|Javier Mascherano|Adriano|Dani Alves|Sergio Busquets|Andrés Iniesta|Xavi|Neymar|Alexis Sánchez|Lionel Messi|Cesc Fàbregas|Pedro
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #49
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Málaga CF
+📅 DATE:  niedz., 26.01.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 21. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_málaga-cf/aufstellung/spielbericht/2341020
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        4. Cesc Fàbregas
+        6. Xavi
+        9. Alexis Sánchez
+        7. Pedro
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       24. Sergi Roberto
+       19. Ibrahim Afellay
+       20. Cristian Tello
+
+✈️  MÁLAGA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Willy Caballero
+        4. Flávio Ferreira
+       21. Sergio Sánchez
+        5. Antunes
+       15. Marcos Angeleri
+        6. Ignacio Camacho
+       12. Fernando Tissone
+       11. Pablo Pérez
+       17. Duda
+       26. Juanmi
+        9. Roque Santa Cruz
+
+   🔄 SUBSTITUTES IN (3):
+       30. Sergi Darder
+       14. Pedro Morales
+       19. Bartlomiej Pawlowski
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 26.01.2014|LALIGA|21. Kolejka|FC Barcelona|Málaga CF|Víctor Valdés|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Cesc Fàbregas|Xavi|Alexis Sánchez|Pedro|Lionel Messi|Sergi Roberto|Ibrahim Afellay|Cristian Tello|Willy Caballero|Flávio Ferreira|Sergio Sánchez|Antunes|Marcos Angeleri|Ignacio Camacho|Fernando Tissone|Pablo Pérez|Duda|Juanmi|Roque Santa Cruz|Sergi Darder|Pedro Morales|Bartlomiej Pawlowski
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #50
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Cartagena
+✈️  AWAY:  FC Barcelona
+📅 DATE:  pt., 06.12.2013
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-cartagena_fc-barcelona/aufstellung/spielbericht/2382239
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC CARTAGENA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Limones
+        5. Jaime Astrain
+        6. Mariano
+        3. Miguel Ángel Riau
+        2. Antoñito
+        8. Carlos David
+        4. Marcos Rodríguez
+       11. Federico Ruiz de Maio
+        7. Zurdo
+       10. Carlos de Lerma
+        9. Fernando Rodríguez
+
+   🔄 SUBSTITUTES IN (3):
+       12. Dani Ruiz
+       16. Juan Carlos Menudo
+       15. Antonio Megías
+
+✈️  FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+        5. Carles Puyol
+       15. Marc Bartra
+       18. Jordi Alba
+       21. Adriano
+       16. Sergio Busquets
+       17. Alex Song
+       24. Sergi Roberto
+        7. Pedro
+        9. Alexis Sánchez
+        4. Cesc Fàbregas
+
+   🔄 SUBSTITUTES IN (2):
+        2. Martín Montoya
+       29. Jean Marie Dongou
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pt., 06.12.2013|Unknown|Unknown|FC Cartagena|FC Barcelona|Limones|Jaime Astrain|Mariano|Miguel Ángel Riau|Antoñito|Carlos David|Marcos Rodríguez|Federico Ruiz de Maio|Zurdo|Carlos de Lerma|Fernando Rodríguez|Dani Ruiz|Juan Carlos Menudo|Antonio Megías|José Manuel Pinto|Carles Puyol|Marc Bartra|Jordi Alba|Adriano|Sergio Busquets|Alex Song|Sergi Roberto|Pedro|Alexis Sánchez|Cesc Fàbregas|Martín Montoya|Jean Marie Dongou
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #51
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  śr., 28.08.2013
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_atlético-madryt/aufstellung/spielbericht/2348143
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        4. Cesc Fàbregas
+        6. Xavi
+       11. Neymar
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (2):
+        8. Andrés Iniesta
+        7. Pedro
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Thibaut Courtois
+        2. Diego Godín
+       23. Miranda
+        3. Filipe Luís
+       20. Juanfran Torres
+        4. Mario Suárez
+       14. Gabi
+       10. Arda Turan
+       19. Diego Costa
+        6. Koke
+        9. David Villa
+
+   🔄 SUBSTITUTES IN (3):
+       11. Cristian Rodríguez
+        7. Adrián López
+       21. Léo Baptistão
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 28.08.2013|Unknown|Unknown|FC Barcelona|Atlético Madryt|Víctor Valdés|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Cesc Fàbregas|Xavi|Neymar|Alexis Sánchez|Lionel Messi|Andrés Iniesta|Pedro|Thibaut Courtois|Diego Godín|Miranda|Filipe Luís|Juanfran Torres|Mario Suárez|Gabi|Arda Turan|Diego Costa|Koke|David Villa|Cristian Rodríguez|Adrián López|Léo Baptistão
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #52
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Real Sociedad
+📅 DATE:  wt., 24.09.2013
+🏆 COMP:  LALIGA
+🔢 ROUND: 6. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_real-sociedad/aufstellung/spielbericht/2341202
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       21. Adriano
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        6. Xavi
+       11. Neymar
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       15. Marc Bartra
+       24. Sergi Roberto
+        7. Pedro
+
+✈️  REAL SOCIEDAD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Claudio Bravo
+        6. Iñigo Martínez
+       19. Liassine Cadamuro
+       24. Alberto de la Bella
+       22. Dani Estrada
+        5. Markel Bergara
+       23. Javi Ros
+       32. Marco Sangalli
+        7. Antoine Griezmann
+       10. Xabi Prieto
+        8. Haris Seferovic
+
+   🔄 SUBSTITUTES IN (3):
+       15. Ion Ansotegi
+       14. Rubén Pardo
+        9. Imanol Agirretxe
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 24.09.2013|LALIGA|6. Kolejka|FC Barcelona|Real Sociedad|Víctor Valdés|Gerard Piqué|Javier Mascherano|Adriano|Dani Alves|Sergio Busquets|Andrés Iniesta|Xavi|Neymar|Alexis Sánchez|Lionel Messi|Marc Bartra|Sergi Roberto|Pedro|Claudio Bravo|Iñigo Martínez|Liassine Cadamuro|Alberto de la Bella|Dani Estrada|Markel Bergara|Javi Ros|Marco Sangalli|Antoine Griezmann|Xabi Prieto|Haris Seferovic|Ion Ansotegi|Rubén Pardo|Imanol Agirretxe
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #53
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 20.04.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 34. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_athletic-bilbao/aufstellung/spielbericht/2341368
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+       15. Marc Bartra
+       14. Javier Mascherano
+       21. Adriano
+       22. Dani Alves
+       17. Alex Song
+        8. Andrés Iniesta
+        6. Xavi
+        7. Pedro
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (2):
+        4. Cesc Fàbregas
+       20. Cristian Tello
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+        6. Mikel San José
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        8. Ander Iturraspe
+        5. Erik Morán
+       21. Ander Herrera
+       19. Iker Muniain
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       17. Iñigo Pérez
+        7. Beñat Etxebarria
+        2. Gaizka Toquero
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 20.04.2014|LALIGA|34. Kolejka|FC Barcelona|Athletic Bilbao|José Manuel Pinto|Marc Bartra|Javier Mascherano|Adriano|Dani Alves|Alex Song|Andrés Iniesta|Xavi|Pedro|Alexis Sánchez|Lionel Messi|Cesc Fàbregas|Cristian Tello|Gorka Iraizoz|Aymeric Laporte|Mikel San José|Mikel Balenziaga|Óscar de Marcos|Ander Iturraspe|Erik Morán|Ander Herrera|Iker Muniain|Markel Susaeta|Aritz Aduriz|Iñigo Pérez|Beñat Etxebarria|Gaizka Toquero
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #54
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Getafe CF
+📅 DATE:  śr., 08.01.2014
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_getafe-cf/aufstellung/spielbericht/2388764
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+        5. Carles Puyol
+       14. Javier Mascherano
+       21. Adriano
+        2. Martín Montoya
+       16. Sergio Busquets
+        8. Andrés Iniesta
+       24. Sergi Roberto
+        7. Pedro
+        9. Alexis Sánchez
+        4. Cesc Fàbregas
+
+   🔄 SUBSTITUTES IN (3):
+       17. Alex Song
+       20. Cristian Tello
+       10. Lionel Messi
+
+✈️  GETAFE CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jordi Codina
+        2. Alexis Ruano
+       15. Rafa López
+        3. Roberto Lago
+       20. Juan Valera
+        5. Mehdi Lacen
+       22. Juan Rodríguez
+        8. Pablo Sarabia
+       10. Jaime Gavilán
+       17. Diego Castro
+        9. Ciprian Marica
+
+   🔄 SUBSTITUTES IN (3):
+        7. Ángel Lafita
+       14. Pedro León
+       11. Adrián Colunga
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 08.01.2014|Unknown|Unknown|FC Barcelona|Getafe CF|José Manuel Pinto|Carles Puyol|Javier Mascherano|Adriano|Martín Montoya|Sergio Busquets|Andrés Iniesta|Sergi Roberto|Pedro|Alexis Sánchez|Cesc Fàbregas|Alex Song|Cristian Tello|Lionel Messi|Jordi Codina|Alexis Ruano|Rafa López|Roberto Lago|Juan Valera|Mehdi Lacen|Juan Rodríguez|Pablo Sarabia|Jaime Gavilán|Diego Castro|Ciprian Marica|Ángel Lafita|Pedro León|Adrián Colunga
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #55
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  FC Barcelona
+📅 DATE:  śr., 21.08.2013
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_fc-barcelona/aufstellung/spielbericht/2348142
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Thibaut Courtois
+        2. Diego Godín
+       23. Miranda
+        3. Filipe Luís
+       20. Juanfran Torres
+        4. Mario Suárez
+        6. Koke
+       14. Gabi
+       19. Diego Costa
+       10. Arda Turan
+        9. David Villa
+
+   🔄 SUBSTITUTES IN (3):
+       27. Óliver Torres
+       11. Cristian Rodríguez
+       21. Léo Baptistão
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        6. Xavi
+        7. Pedro
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       17. Alex Song
+        4. Cesc Fàbregas
+       11. Neymar
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 21.08.2013|Unknown|Unknown|Atlético Madryt|FC Barcelona|Thibaut Courtois|Diego Godín|Miranda|Filipe Luís|Juanfran Torres|Mario Suárez|Koke|Gabi|Diego Costa|Arda Turan|David Villa|Óliver Torres|Cristian Rodríguez|Léo Baptistão|Víctor Valdés|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Andrés Iniesta|Xavi|Pedro|Alexis Sánchez|Lionel Messi|Alex Song|Cesc Fàbregas|Neymar
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #56
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Real Valladolid CF
+📅 DATE:  sob., 05.10.2013
+🏆 COMP:  LALIGA
+🔢 ROUND: 8. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_real-valladolid-cf/aufstellung/spielbericht/2341175
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       15. Marc Bartra
+       21. Adriano
+       22. Dani Alves
+       17. Alex Song
+        4. Cesc Fàbregas
+        6. Xavi
+       20. Cristian Tello
+        9. Alexis Sánchez
+       11. Neymar
+
+   🔄 SUBSTITUTES IN (3):
+       16. Sergio Busquets
+        8. Andrés Iniesta
+        7. Pedro
+
+✈️  REAL VALLADOLID CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Mariño
+        4. Marc Valiente
+        6. Jesús Rueda
+       17. Carlos Peña
+        2. Antonio Rukavina
+        8. Javi Baraja
+        5. Fausto Rossi
+       20. Patrick Ebert
+       21. Zakarya Bergdich
+       14. Omar Ramos
+        9. Javi Guerra
+
+   🔄 SUBSTITUTES IN (3):
+       24. Gilberto García
+       19. Valdet Rama
+        7. Humberto Osorio
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 05.10.2013|LALIGA|8. Kolejka|FC Barcelona|Real Valladolid CF|Víctor Valdés|Gerard Piqué|Marc Bartra|Adriano|Dani Alves|Alex Song|Cesc Fàbregas|Xavi|Cristian Tello|Alexis Sánchez|Neymar|Sergio Busquets|Andrés Iniesta|Pedro|Diego Mariño|Marc Valiente|Jesús Rueda|Carlos Peña|Antonio Rukavina|Javi Baraja|Fausto Rossi|Patrick Ebert|Zakarya Bergdich|Omar Ramos|Javi Guerra|Gilberto García|Valdet Rama|Humberto Osorio
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #57
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Getafe CF
+✈️  AWAY:  FC Barcelona
+📅 DATE:  niedz., 22.12.2013
+🏆 COMP:  LALIGA
+🔢 ROUND: 17. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/getafe-cf_fc-barcelona/aufstellung/spielbericht/2341209
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GETAFE CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Miguel Ángel Moyá
+        2. Alexis Ruano
+        4. Lisandro López
+       18. Sergio Escudero
+       20. Juan Valera
+       23. Borja Fernández
+       24. Pedro Mosquera
+        7. Ángel Lafita
+       17. Diego Castro
+       14. Pedro León
+        9. Ciprian Marica
+
+   🔄 SUBSTITUTES IN (3):
+       10. Jaime Gavilán
+        8. Pablo Sarabia
+       11. Adrián Colunga
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Dani Alves
+       16. Sergio Busquets
+        8. Andrés Iniesta
+       24. Sergi Roberto
+        7. Pedro
+        9. Alexis Sánchez
+        4. Cesc Fàbregas
+
+   🔄 SUBSTITUTES IN (3):
+       15. Marc Bartra
+       17. Alex Song
+       20. Cristian Tello
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 22.12.2013|LALIGA|17. Kolejka|Getafe CF|FC Barcelona|Miguel Ángel Moyá|Alexis Ruano|Lisandro López|Sergio Escudero|Juan Valera|Borja Fernández|Pedro Mosquera|Ángel Lafita|Diego Castro|Pedro León|Ciprian Marica|Jaime Gavilán|Pablo Sarabia|Adrián Colunga|José Manuel Pinto|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Andrés Iniesta|Sergi Roberto|Pedro|Alexis Sánchez|Cesc Fàbregas|Marc Bartra|Alex Song|Cristian Tello
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #58
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Levante UD
+✈️  AWAY:  FC Barcelona
+📅 DATE:  śr., 22.01.2014
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/levante-ud_fc-barcelona/aufstellung/spielbericht/2421862
+
+----------------------------------------------------------------------------------------------------
+
+🏠 LEVANTE UD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Javi Jiménez
+        6. Loukas Vyntra
+       12. Juanfran
+       15. Nikolaos Karabelas
+       25. Nagore
+       16. Issam El Adoua
+       18. Sérgio da Silva Pinto
+       37. Víctor Camarasa
+        8. Nabil El Zhar
+       17. Jordi Xumetra
+        7. David Barral
+
+   🔄 SUBSTITUTES IN (3):
+       20. Pedro Ríos
+        3. Aloys Nong
+        9. Ángel Rodríguez
+
+✈️  FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. José Manuel Pinto
+        5. Carles Puyol
+       15. Marc Bartra
+       21. Adriano
+       22. Dani Alves
+       17. Alex Song
+        6. Xavi
+       24. Sergi Roberto
+       20. Cristian Tello
+        7. Pedro
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (2):
+       14. Javier Mascherano
+        9. Alexis Sánchez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 22.01.2014|Unknown|Unknown|Levante UD|FC Barcelona|Javi Jiménez|Loukas Vyntra|Juanfran|Nikolaos Karabelas|Nagore|Issam El Adoua|Sérgio da Silva Pinto|Víctor Camarasa|Nabil El Zhar|Jordi Xumetra|David Barral|Pedro Ríos|Aloys Nong|Ángel Rodríguez|José Manuel Pinto|Carles Puyol|Marc Bartra|Adriano|Dani Alves|Alex Song|Xavi|Sergi Roberto|Cristian Tello|Pedro|Lionel Messi|Javier Mascherano|Alexis Sánchez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #59
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Levante UD
+✈️  AWAY:  FC Barcelona
+📅 DATE:  niedz., 19.01.2014
+🏆 COMP:  LALIGA
+🔢 ROUND: 20. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/levante-ud_fc-barcelona/aufstellung/spielbericht/2341042
+
+----------------------------------------------------------------------------------------------------
+
+🏠 LEVANTE UD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Keylor Navas
+        4. David Navarro
+        6. Loukas Vyntra
+       12. Juanfran
+       19. Pedro López
+       23. Pape Diop
+       24. Simão
+       15. Nikolaos Karabelas
+       21. Andreas Ivanschitz
+        8. Nabil El Zhar
+       11. Rubén García
+
+   🔄 SUBSTITUTES IN (3):
+       16. Issam El Adoua
+       18. Sérgio da Silva Pinto
+        9. Ángel Rodríguez
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Víctor Valdés
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+        2. Martín Montoya
+       16. Sergio Busquets
+        4. Cesc Fàbregas
+        6. Xavi
+        7. Pedro
+        9. Alexis Sánchez
+       10. Lionel Messi
+
+   🔄 SUBSTITUTES IN (3):
+       24. Sergi Roberto
+       20. Cristian Tello
+       29. Jean Marie Dongou
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 19.01.2014|LALIGA|20. Kolejka|Levante UD|FC Barcelona|Keylor Navas|David Navarro|Loukas Vyntra|Juanfran|Pedro López|Pape Diop|Simão|Nikolaos Karabelas|Andreas Ivanschitz|Nabil El Zhar|Rubén García|Issam El Adoua|Sérgio da Silva Pinto|Ángel Rodríguez|Víctor Valdés|Gerard Piqué|Javier Mascherano|Jordi Alba|Martín Montoya|Sergio Busquets|Cesc Fàbregas|Xavi|Pedro|Alexis Sánchez|Lionel Messi|Sergi Roberto|Cristian Tello|Jean Marie Dongou
+

@@ -1,0 +1,3003 @@
+====================================================================================================
+                        FOOTBALL TEAM - SEASON MATCHES REPORT
+====================================================================================================
+
+📅 Generated: 2025-11-06 22:41:51
+⚽ Total matches: 49
+👥 Total players tracked: 1518
+📊 Average players per match: 31.0
+
+🏆 Competitions breakdown:
+   • LALIGA: 38 matches
+   • Unknown: 11 matches
+
+====================================================================================================
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #01
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Girona FC
+📅 DATE:  sob., 08.10.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 8. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_girona-fc/aufstellung/spielbericht/3886304
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. José María Giménez
+       15. Stefan Savic
+       23. Reinildo Mandava
+       21. Yannick Carrasco
+       16. Nahuel Molina
+       20. Axel Witsel
+        6. Koke
+        8. Antoine Griezmann
+       10. Ángel Correa
+        9. Matheus Cunha
+
+   🔄 SUBSTITUTES IN (5):
+        4. Geoffrey Kondogbia
+       17. Saúl Ñíguez
+       11. Thomas Lemar
+        7. João Félix
+       19. Álvaro Morata
+
+✈️  GIRONA FC - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Juan Carlos
+        2. Bernardo Espinosa
+       22. Santiago Bueno
+       16. Javi Hernández
+        3. Miguel Gutiérrez
+        4. Arnau Martínez
+       18. Oriol Romeu
+       21. Yangel Herrera
+       14. Aleix García
+       17. Rodrigo Riquelme
+        9. Taty Castellanos
+
+   🔄 SUBSTITUTES IN (5):
+        8. Ramón Terrats
+       20. Yan Couto
+       12. Toni Villa
+       11. Valery Fernández
+        7. Cristhian Stuani
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 08.10.2022|LALIGA|8. Kolejka|Atlético Madryt|Girona FC|Jan Oblak|José María Giménez|Stefan Savic|Reinildo Mandava|Yannick Carrasco|Nahuel Molina|Axel Witsel|Koke|Antoine Griezmann|Ángel Correa|Matheus Cunha|Geoffrey Kondogbia|Saúl Ñíguez|Thomas Lemar|João Félix|Álvaro Morata|Juan Carlos|Bernardo Espinosa|Santiago Bueno|Javi Hernández|Miguel Gutiérrez|Arnau Martínez|Oriol Romeu|Yangel Herrera|Aleix García|Rodrigo Riquelme|Taty Castellanos|Ramón Terrats|Yan Couto|Toni Villa|Valery Fernández|Cristhian Stuani
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #02
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Real Valladolid CF
+📅 DATE:  sob., 21.01.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 18. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_real-valladolid-cf/aufstellung/spielbericht/3886501
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+       20. Axel Witsel
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        6. Koke
+       14. Marcos Llorente
+       11. Thomas Lemar
+        8. Antoine Griezmann
+       10. Ángel Correa
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+        4. Geoffrey Kondogbia
+       17. Saúl Ñíguez
+        5. Rodrigo De Paul
+       21. Yannick Carrasco
+        9. Memphis Depay
+
+✈️  REAL VALLADOLID CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Jordi Masip
+       32. David Torres
+        5. Javi Sánchez
+       15. Jawad El Yamiq
+       12. Lucas Olaza
+        2. Luis Pérez
+        4. Kike Pérez
+        6. Álvaro Aguado
+       10. Óscar Plano
+        7. Sergio León
+        9. Shon Weissman
+
+   🔄 SUBSTITUTES IN (5):
+       27. Iván Fresneda
+       39. Lucas Rosa
+       17. Roque Mesa
+       11. Gonzalo Plata
+       16. Sergi Guardiola
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 21.01.2023|LALIGA|18. Kolejka|Atlético Madryt|Real Valladolid CF|Jan Oblak|Mario Hermoso|Axel Witsel|Reinildo Mandava|Nahuel Molina|Koke|Marcos Llorente|Thomas Lemar|Antoine Griezmann|Ángel Correa|Álvaro Morata|Geoffrey Kondogbia|Saúl Ñíguez|Rodrigo De Paul|Yannick Carrasco|Memphis Depay|Jordi Masip|David Torres|Javi Sánchez|Jawad El Yamiq|Lucas Olaza|Luis Pérez|Kike Pérez|Álvaro Aguado|Óscar Plano|Sergio León|Shon Weissman|Iván Fresneda|Lucas Rosa|Roque Mesa|Gonzalo Plata|Sergi Guardiola
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #03
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  CD Arenteiro
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  czw., 22.12.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/cd-arenteiro_atlético-madryt/aufstellung/spielbericht/3964625
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CD ARENTEIRO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego García
+        5. Pol Bueso
+        4. Vitra
+       17. José Carlos Márquez
+        3. Germán Nóvoa
+        8. Álex Fernández
+       16. Curro Rivelott
+       11. Agustín Pastoriza
+       19. Manín Gonzaga
+       10. Marquitos
+        9. Antón Escobar
+
+   🔄 SUBSTITUTES IN (5):
+       22. Jordan Sánchez
+       14. Adri Cruz
+       20. Manuel Romay
+       18. David Álvarez
+        7. Rafa Mella
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+        2. José María Giménez
+       15. Stefan Savic
+       20. Axel Witsel
+        6. Koke
+       34. Pablo Barrios
+       14. Marcos Llorente
+       21. Yannick Carrasco
+       11. Thomas Lemar
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (3):
+       23. Reinildo Mandava
+        4. Geoffrey Kondogbia
+       32. Alberto Moreno
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 22.12.2022|Unknown|Unknown|CD Arenteiro|Atlético Madryt|Diego García|Pol Bueso|Vitra|José Carlos Márquez|Germán Nóvoa|Álex Fernández|Curro Rivelott|Agustín Pastoriza|Manín Gonzaga|Marquitos|Antón Escobar|Jordan Sánchez|Adri Cruz|Manuel Romay|David Álvarez|Rafa Mella|Jan Oblak|Mario Hermoso|José María Giménez|Stefan Savic|Axel Witsel|Koke|Pablo Barrios|Marcos Llorente|Yannick Carrasco|Thomas Lemar|Álvaro Morata|Reinildo Mandava|Geoffrey Kondogbia|Alberto Moreno
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #04
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Real Betis Balompié
+📅 DATE:  niedz., 02.04.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 27. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_real-betis-balompié/aufstellung/spielbericht/3886601
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+        2. José María Giménez
+       15. Stefan Savic
+        6. Koke
+       14. Marcos Llorente
+       11. Thomas Lemar
+       16. Nahuel Molina
+       21. Yannick Carrasco
+        8. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+       20. Axel Witsel
+       17. Saúl Ñíguez
+        5. Rodrigo De Paul
+       24. Pablo Barrios
+       10. Ángel Correa
+
+✈️  REAL BETIS BALOMPIÉ - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Rui Silva
+       16. Germán Pezzella
+       19. Luiz Felipe
+       33. Juan Miranda
+       24. Aitor Ruibal
+        5. Guido Rodríguez
+       14. William Carvalho
+       21. Ayoze Pérez
+       11. Luiz Henrique
+       28. Rodri Sánchez
+        9. Borja Iglesias
+
+   🔄 SUBSTITUTES IN (3):
+        7. Juanmi
+       17. Joaquín
+       12. Willian José
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 02.04.2023|LALIGA|27. Kolejka|Atlético Madryt|Real Betis Balompié|Jan Oblak|Mario Hermoso|José María Giménez|Stefan Savic|Koke|Marcos Llorente|Thomas Lemar|Nahuel Molina|Yannick Carrasco|Antoine Griezmann|Álvaro Morata|Axel Witsel|Saúl Ñíguez|Rodrigo De Paul|Pablo Barrios|Ángel Correa|Rui Silva|Germán Pezzella|Luiz Felipe|Juan Miranda|Aitor Ruibal|Guido Rodríguez|William Carvalho|Ayoze Pérez|Luiz Henrique|Rodri Sánchez|Borja Iglesias|Juanmi|Joaquín|Willian José
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #05
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Valladolid CF
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 30.04.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 32. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-valladolid-cf_atlético-madryt/aufstellung/spielbericht/3886656
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL VALLADOLID CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Jordi Masip
+       15. Jawad El Yamiq
+       24. Joaquín Fernández
+       20. Martin Hongla
+        4. Kike Pérez
+        8. Monchu
+        2. Luis Pérez
+       27. Iván Fresneda
+        6. Álvaro Aguado
+       11. Gonzalo Plata
+       25. Cyle Larin
+
+   🔄 SUBSTITUTES IN (4):
+       18. Sergio Escudero
+       21. Iván Sánchez
+       10. Óscar Plano
+        7. Sergio León
+
+✈️  ATLÉTICO MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Ivo Grbic
+       22. Mario Hermoso
+        2. José María Giménez
+       20. Axel Witsel
+       21. Yannick Carrasco
+       16. Nahuel Molina
+        5. Rodrigo De Paul
+        6. Koke
+       11. Thomas Lemar
+        8. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (4):
+        4. Geoffrey Kondogbia
+       17. Saúl Ñíguez
+       10. Ángel Correa
+        9. Memphis Depay
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 30.04.2023|LALIGA|32. Kolejka|Real Valladolid CF|Atlético Madryt|Jordi Masip|Jawad El Yamiq|Joaquín Fernández|Martin Hongla|Kike Pérez|Monchu|Luis Pérez|Iván Fresneda|Álvaro Aguado|Gonzalo Plata|Cyle Larin|Sergio Escudero|Iván Sánchez|Óscar Plano|Sergio León|Ivo Grbic|Mario Hermoso|José María Giménez|Axel Witsel|Yannick Carrasco|Nahuel Molina|Rodrigo De Paul|Koke|Thomas Lemar|Antoine Griezmann|Álvaro Morata|Geoffrey Kondogbia|Saúl Ñíguez|Ángel Correa|Memphis Depay
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #06
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  RCD Mallorca
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  śr., 09.11.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 14. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rcd-mallorca_atlético-madryt/aufstellung/spielbericht/3886450
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RCD MALLORCA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Predrag Rajković
+        6. José Copete
+       21. Antonio Raíllo
+       24. Martin Valjent
+       18. Jaume Costa
+       20. Giovanni González
+        4. Iñigo Ruiz de Galarreta
+       12. Iddrisu Baba
+       19. Kang-in Lee
+       10. Antonio Sánchez
+        7. Vedat Muriqi
+
+   🔄 SUBSTITUTES IN (5):
+        5. Franco Russo
+       16. Rodrigo Battaglia
+        8. Clément Grenier
+       23. Amath Ndiaye
+        9. Abdón Prats
+
+✈️  ATLÉTICO MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       15. Stefan Savic
+       18. Felipe
+       23. Reinildo Mandava
+       16. Nahuel Molina
+       20. Axel Witsel
+        5. Rodrigo De Paul
+       14. Marcos Llorente
+       21. Yannick Carrasco
+        8. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (4):
+        3. Sergio Reguilón
+        6. Koke
+       11. Thomas Lemar
+       10. Ángel Correa
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 09.11.2022|LALIGA|14. Kolejka|RCD Mallorca|Atlético Madryt|Predrag Rajković|José Copete|Antonio Raíllo|Martin Valjent|Jaume Costa|Giovanni González|Iñigo Ruiz de Galarreta|Iddrisu Baba|Kang-in Lee|Antonio Sánchez|Vedat Muriqi|Franco Russo|Rodrigo Battaglia|Clément Grenier|Amath Ndiaye|Abdón Prats|Jan Oblak|Stefan Savic|Felipe|Reinildo Mandava|Nahuel Molina|Axel Witsel|Rodrigo De Paul|Marcos Llorente|Yannick Carrasco|Antoine Griezmann|Álvaro Morata|Sergio Reguilón|Koke|Thomas Lemar|Ángel Correa
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #07
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  UD Almería
+📅 DATE:  niedz., 16.04.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 29. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_ud-almería/aufstellung/spielbericht/3886629
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+        2. José María Giménez
+       20. Axel Witsel
+       21. Yannick Carrasco
+       16. Nahuel Molina
+       14. Marcos Llorente
+        5. Rodrigo De Paul
+        6. Koke
+        8. Antoine Griezmann
+       10. Ángel Correa
+
+   🔄 SUBSTITUTES IN (3):
+       17. Saúl Ñíguez
+       24. Pablo Barrios
+       19. Álvaro Morata
+
+✈️  UD ALMERÍA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Fernando Martínez
+       22. Srdjan Babic
+        2. Kaiky
+       19. Rodrigo Ely
+       23. Samú Costa
+        5. Lucas Robertone
+       24. Houboulang Mendes
+       20. Álex Centelles
+        3. Gonzalo Melero
+       12. Léo Baptistão
+       16. Luis Suárez
+
+   🔄 SUBSTITUTES IN (5):
+        6. César de la Hoz
+       18. Arnau Puigmal
+        7. Largie Ramazani
+        8. Francisco Portillo
+       10. Adrián Embarba
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 16.04.2023|LALIGA|29. Kolejka|Atlético Madryt|UD Almería|Jan Oblak|Mario Hermoso|José María Giménez|Axel Witsel|Yannick Carrasco|Nahuel Molina|Marcos Llorente|Rodrigo De Paul|Koke|Antoine Griezmann|Ángel Correa|Saúl Ñíguez|Pablo Barrios|Álvaro Morata|Fernando Martínez|Srdjan Babic|Kaiky|Rodrigo Ely|Samú Costa|Lucas Robertone|Houboulang Mendes|Álex Centelles|Gonzalo Melero|Léo Baptistão|Luis Suárez|César de la Hoz|Arnau Puigmal|Largie Ramazani|Francisco Portillo|Adrián Embarba
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #08
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Oviedo
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  śr., 04.01.2023
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/real-oviedo_atlético-madryt/aufstellung/spielbericht/3989544
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL OVIEDO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Tomeu Nadal
+        3. Rodri Tarín
+       12. Dani Calvo
+       28. Abel Bretones
+       24. Lucas Ahijado
+       31. Mangel Prendes
+       14. Jimmy Suárez
+       18. Koba Koindredi
+       20. Hugo Rama
+        7. Viti Rozada
+       16. Samuel Obeng
+
+   🔄 SUBSTITUTES IN (5):
+       15. Oier Luengo
+        8. Marco Sangalli
+       17. Leonardo Sequeira
+        9. Borja Bastón
+       23. Sergi Enrich
+
+✈️  ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+        2. José María Giménez
+       20. Axel Witsel
+        6. Koke
+       16. Nahuel Molina
+       21. Yannick Carrasco
+       14. Marcos Llorente
+       11. Thomas Lemar
+        8. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+        3. Sergio Reguilón
+       23. Reinildo Mandava
+        4. Geoffrey Kondogbia
+       34. Pablo Barrios
+       10. Ángel Correa
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 04.01.2023|Unknown|Unknown|Real Oviedo|Atlético Madryt|Tomeu Nadal|Rodri Tarín|Dani Calvo|Abel Bretones|Lucas Ahijado|Mangel Prendes|Jimmy Suárez|Koba Koindredi|Hugo Rama|Viti Rozada|Samuel Obeng|Oier Luengo|Marco Sangalli|Leonardo Sequeira|Borja Bastón|Sergi Enrich|Jan Oblak|Mario Hermoso|José María Giménez|Axel Witsel|Koke|Nahuel Molina|Yannick Carrasco|Marcos Llorente|Thomas Lemar|Antoine Griezmann|Álvaro Morata|Sergio Reguilón|Reinildo Mandava|Geoffrey Kondogbia|Pablo Barrios|Ángel Correa
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #09
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Bayer 04 Leverkusen
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  wt., 13.09.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/bayer-04-leverkusen_atlético-madryt/aufstellung/spielbericht/3911739
+
+----------------------------------------------------------------------------------------------------
+
+🏠 BAYER 04 LEVERKUSEN - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Lukas Hradecky
+        4. Jonathan Tah
+       12. Edmond Tapsoba
+        3. Piero Hincapié
+        6. Odilon Kossounou
+        8. Robert Andrich
+       10. Kerem Demirbay
+       17. Callum Hudson-Odoi
+       19. Moussa Diaby
+       23. Adam Hlozek
+       14. Patrik Schick
+
+   🔄 SUBSTITUTES IN (5):
+       30. Jeremie Frimpong
+       11. Nadiem Amiri
+       20. Charles Aránguiz
+        5. Mitchel Bakker
+        9. Sardar Azmoun
+
+✈️  ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Ivo Grbic
+       22. Mario Hermoso
+       18. Felipe
+       20. Axel Witsel
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        6. Koke
+       14. Marcos Llorente
+       17. Saúl Ñíguez
+        7. João Félix
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+        5. Rodrigo De Paul
+       21. Yannick Carrasco
+       10. Ángel Correa
+        8. Antoine Griezmann
+        9. Matheus Cunha
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 13.09.2022|Unknown|Unknown|Bayer 04 Leverkusen|Atlético Madryt|Lukas Hradecky|Jonathan Tah|Edmond Tapsoba|Piero Hincapié|Odilon Kossounou|Robert Andrich|Kerem Demirbay|Callum Hudson-Odoi|Moussa Diaby|Adam Hlozek|Patrik Schick|Jeremie Frimpong|Nadiem Amiri|Charles Aránguiz|Mitchel Bakker|Sardar Azmoun|Ivo Grbic|Mario Hermoso|Felipe|Axel Witsel|Reinildo Mandava|Nahuel Molina|Koke|Marcos Llorente|Saúl Ñíguez|João Félix|Álvaro Morata|Rodrigo De Paul|Yannick Carrasco|Ángel Correa|Antoine Griezmann|Matheus Cunha
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #10
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 23.04.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 30. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_atlético-madryt/aufstellung/spielbericht/3886633
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc-André ter Stegen
+       17. Marcos Alonso
+        4. Ronald Araujo
+       28. Alejandro Balde
+       23. Jules Koundé
+        5. Sergio Busquets
+       21. Frenkie de Jong
+       30. Gavi
+       11. Ferran Torres
+       22. Raphinha
+        9. Robert Lewandowski
+
+   🔄 SUBSTITUTES IN (4):
+       24. Eric García
+        8. Pedri
+       19. Franck Kessié
+       10. Ansu Fati
+
+✈️  ATLÉTICO MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+        2. José María Giménez
+       15. Stefan Savic
+       21. Yannick Carrasco
+       16. Nahuel Molina
+       20. Axel Witsel
+        5. Rodrigo De Paul
+       11. Thomas Lemar
+       10. Ángel Correa
+        8. Antoine Griezmann
+
+   🔄 SUBSTITUTES IN (4):
+        3. Sergio Reguilón
+       17. Saúl Ñíguez
+       24. Pablo Barrios
+       19. Álvaro Morata
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 23.04.2023|LALIGA|30. Kolejka|FC Barcelona|Atlético Madryt|Marc-André ter Stegen|Marcos Alonso|Ronald Araujo|Alejandro Balde|Jules Koundé|Sergio Busquets|Frenkie de Jong|Gavi|Ferran Torres|Raphinha|Robert Lewandowski|Eric García|Pedri|Franck Kessié|Ansu Fati|Jan Oblak|Mario Hermoso|José María Giménez|Stefan Savic|Yannick Carrasco|Nahuel Molina|Axel Witsel|Rodrigo De Paul|Thomas Lemar|Ángel Correa|Antoine Griezmann|Sergio Reguilón|Saúl Ñíguez|Pablo Barrios|Álvaro Morata
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #11
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Porto
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  wt., 01.11.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-porto_atlético-madryt/aufstellung/spielbericht/3911735
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC PORTO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       99. Diogo Costa
+        5. Iván Marcano
+        2. Fábio Cardoso
+       12. Zaidu
+       11. Pepê
+       16. Marko Grujić
+       46. Stephen Eustaquio
+       25. Otávio
+       13. Galeno
+       30. Evanilson
+        9. Mehdi Taremi
+
+   🔄 SUBSTITUTES IN (5):
+       22. Wendell
+       17. Rodrigo Conceição
+       87. Bernardo Folha
+       70. Gonçalo Borges
+       29. Toni Martínez
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. José María Giménez
+       15. Stefan Savic
+       23. Reinildo Mandava
+       20. Axel Witsel
+        5. Rodrigo De Paul
+       16. Nahuel Molina
+       17. Saúl Ñíguez
+        7. João Félix
+       10. Ángel Correa
+        8. Antoine Griezmann
+
+   🔄 SUBSTITUTES IN (3):
+       34. Pablo Barrios
+       21. Yannick Carrasco
+        9. Matheus Cunha
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 01.11.2022|Unknown|Unknown|FC Porto|Atlético Madryt|Diogo Costa|Iván Marcano|Fábio Cardoso|Zaidu|Pepê|Marko Grujić|Stephen Eustaquio|Otávio|Galeno|Evanilson|Mehdi Taremi|Wendell|Rodrigo Conceição|Bernardo Folha|Gonçalo Borges|Toni Martínez|Jan Oblak|José María Giménez|Stefan Savic|Reinildo Mandava|Axel Witsel|Rodrigo De Paul|Nahuel Molina|Saúl Ñíguez|João Félix|Ángel Correa|Antoine Griezmann|Pablo Barrios|Yannick Carrasco|Matheus Cunha
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #12
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  SD Almazán
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  sob., 12.11.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/sd-almazán_atlético-madryt/aufstellung/spielbericht/3949581
+
+----------------------------------------------------------------------------------------------------
+
+🏠 SD ALMAZÁN - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Alberto González
+        4. Antonio de Pablo
+        5. Rafael Checa
+       19. Víctor Moreno
+        2. Íñigo Miranda
+        7. Ángel Losilla
+        6. Jesús Sánchez
+       14. Dani Martínez
+        8. Alberto Plaza
+       10. Javier Albitre
+       18. Edipo Rodríguez
+
+   🔄 SUBSTITUTES IN (5):
+        1. Javi Márquez
+       22. Diego Ciria
+       17. Khalifa
+       16. Daniel Iraola
+       15. Larry Opara
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+       15. Stefan Savic
+       23. Reinildo Mandava
+       16. Nahuel Molina
+       20. Axel Witsel
+        6. Koke
+       14. Marcos Llorente
+        7. João Félix
+       10. Ángel Correa
+        8. Antoine Griezmann
+
+   🔄 SUBSTITUTES IN (3):
+        2. José María Giménez
+        5. Rodrigo De Paul
+        9. Matheus Cunha
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 12.11.2022|Unknown|Unknown|SD Almazán|Atlético Madryt|Alberto González|Antonio de Pablo|Rafael Checa|Víctor Moreno|Íñigo Miranda|Ángel Losilla|Jesús Sánchez|Dani Martínez|Alberto Plaza|Javier Albitre|Edipo Rodríguez|Javi Márquez|Diego Ciria|Khalifa|Daniel Iraola|Larry Opara|Jan Oblak|Mario Hermoso|Stefan Savic|Reinildo Mandava|Nahuel Molina|Axel Witsel|Koke|Marcos Llorente|João Félix|Ángel Correa|Antoine Griezmann|José María Giménez|Rodrigo De Paul|Matheus Cunha
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #13
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  FC Barcelona
+📅 DATE:  niedz., 08.01.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 16. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_fc-barcelona/aufstellung/spielbericht/3886481
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. José María Giménez
+       15. Stefan Savic
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        6. Koke
+       34. Pablo Barrios
+       14. Marcos Llorente
+       21. Yannick Carrasco
+        8. Antoine Griezmann
+        7. João Félix
+
+   🔄 SUBSTITUTES IN (5):
+        3. Sergio Reguilón
+        4. Geoffrey Kondogbia
+       11. Thomas Lemar
+       10. Ángel Correa
+       19. Álvaro Morata
+
+✈️  FC BARCELONA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc-André ter Stegen
+        4. Ronald Araujo
+       15. Andreas Christensen
+       28. Alejandro Balde
+       23. Jules Koundé
+        5. Sergio Busquets
+        8. Pedri
+       21. Frenkie de Jong
+       30. Gavi
+        7. Ousmane Dembélé
+       10. Ansu Fati
+
+   🔄 SUBSTITUTES IN (5):
+       17. Marcos Alonso
+       19. Franck Kessié
+       20. Sergi Roberto
+       22. Raphinha
+       11. Ferran Torres
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 08.01.2023|LALIGA|16. Kolejka|Atlético Madryt|FC Barcelona|Jan Oblak|José María Giménez|Stefan Savic|Reinildo Mandava|Nahuel Molina|Koke|Pablo Barrios|Marcos Llorente|Yannick Carrasco|Antoine Griezmann|João Félix|Sergio Reguilón|Geoffrey Kondogbia|Thomas Lemar|Ángel Correa|Álvaro Morata|Marc-André ter Stegen|Ronald Araujo|Andreas Christensen|Alejandro Balde|Jules Koundé|Sergio Busquets|Pedri|Frenkie de Jong|Gavi|Ousmane Dembélé|Ansu Fati|Marcos Alonso|Franck Kessié|Sergi Roberto|Raphinha|Ferran Torres
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #14
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  FC Brügge
+📅 DATE:  śr., 12.10.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_fc-brügge/aufstellung/spielbericht/3911737
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. José María Giménez
+       15. Stefan Savic
+       23. Reinildo Mandava
+        4. Geoffrey Kondogbia
+       16. Nahuel Molina
+       17. Saúl Ñíguez
+        6. Koke
+       11. Thomas Lemar
+       10. Ángel Correa
+        8. Antoine Griezmann
+
+   🔄 SUBSTITUTES IN (5):
+       20. Axel Witsel
+        5. Rodrigo De Paul
+       21. Yannick Carrasco
+        9. Matheus Cunha
+       19. Álvaro Morata
+
+✈️  FC BRÜGGE - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       22. Simon Mignolet
+       94. Abakar Sylla
+       44. Brandon Mechele
+        6. Denis Odoi
+       15. Raphael Onyedika
+       27. Casper Nielsen
+       20. Hans Vanaken
+       17. Tajon Buchanan
+        7. Andreas Skov Olsen
+       19. Kamal Sowah
+        9. Ferran Jutglà
+
+   🔄 SUBSTITUTES IN (3):
+       77. Clinton Mata
+       14. Bjorn Meijer
+        3. Éder Balanta
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 12.10.2022|Unknown|Unknown|Atlético Madryt|FC Brügge|Jan Oblak|José María Giménez|Stefan Savic|Reinildo Mandava|Geoffrey Kondogbia|Nahuel Molina|Saúl Ñíguez|Koke|Thomas Lemar|Ángel Correa|Antoine Griezmann|Axel Witsel|Rodrigo De Paul|Yannick Carrasco|Matheus Cunha|Álvaro Morata|Simon Mignolet|Abakar Sylla|Brandon Mechele|Denis Odoi|Raphael Onyedika|Casper Nielsen|Hans Vanaken|Tajon Buchanan|Andreas Skov Olsen|Kamal Sowah|Ferran Jutglà|Clinton Mata|Bjorn Meijer|Éder Balanta
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #15
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Girona FC
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  pon., 13.03.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 25. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/girona-fc_atlético-madryt/aufstellung/spielbericht/3886585
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GIRONA FC - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Paulo Gazzaniga
+        5. David López
+       22. Santiago Bueno
+        3. Miguel Gutiérrez
+        4. Arnau Martínez
+       18. Oriol Romeu
+       14. Aleix García
+       24. Borja García
+       17. Rodrigo Riquelme
+        8. Viktor Tsygankov
+        9. Taty Castellanos
+
+   🔄 SUBSTITUTES IN (5):
+        2. Bernardo Espinosa
+       23. Iván Martín
+       12. Toni Villa
+       11. Valery Fernández
+        7. Cristhian Stuani
+
+✈️  ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+        2. José María Giménez
+       15. Stefan Savic
+        6. Koke
+       16. Nahuel Molina
+       21. Yannick Carrasco
+       14. Marcos Llorente
+       11. Thomas Lemar
+        8. Antoine Griezmann
+        9. Memphis Depay
+
+   🔄 SUBSTITUTES IN (5):
+       20. Axel Witsel
+       17. Saúl Ñíguez
+        5. Rodrigo De Paul
+       10. Ángel Correa
+       19. Álvaro Morata
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pon., 13.03.2023|LALIGA|25. Kolejka|Girona FC|Atlético Madryt|Paulo Gazzaniga|David López|Santiago Bueno|Miguel Gutiérrez|Arnau Martínez|Oriol Romeu|Aleix García|Borja García|Rodrigo Riquelme|Viktor Tsygankov|Taty Castellanos|Bernardo Espinosa|Iván Martín|Toni Villa|Valery Fernández|Cristhian Stuani|Jan Oblak|Mario Hermoso|José María Giménez|Stefan Savic|Koke|Nahuel Molina|Yannick Carrasco|Marcos Llorente|Thomas Lemar|Antoine Griezmann|Memphis Depay|Axel Witsel|Saúl Ñíguez|Rodrigo De Paul|Ángel Correa|Álvaro Morata
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #16
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Valencia CF
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  pon., 29.08.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 3. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/valencia-cf_atlético-madryt/aufstellung/spielbericht/3885851
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VALENCIA CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       28. Giorgi Mamardashvili
+       12. Mouctar Diakhaby
+       24. Eray Cömert
+        3. Toni Lato
+        2. Thierry Correia
+        6. Hugo Guillamón
+        4. Yunus Musah
+       10. Carlos Soler
+       16. Samuel Lino
+       11. Samu Castillejo
+       22. Marcos André
+
+   🔄 SUBSTITUTES IN (5):
+       20. Dimitri Foulquier
+       17. Nico González
+       29. Fran Pérez
+       40. Diego López
+        9. Maxi Gómez
+
+✈️  ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. José María Giménez
+       23. Reinildo Mandava
+       20. Axel Witsel
+        4. Geoffrey Kondogbia
+        5. Rodrigo De Paul
+        6. Koke
+       14. Marcos Llorente
+       17. Saúl Ñíguez
+        7. João Félix
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+       11. Thomas Lemar
+       21. Yannick Carrasco
+       10. Ángel Correa
+        8. Antoine Griezmann
+        9. Matheus Cunha
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pon., 29.08.2022|LALIGA|3. Kolejka|Valencia CF|Atlético Madryt|Giorgi Mamardashvili|Mouctar Diakhaby|Eray Cömert|Toni Lato|Thierry Correia|Hugo Guillamón|Yunus Musah|Carlos Soler|Samuel Lino|Samu Castillejo|Marcos André|Dimitri Foulquier|Nico González|Fran Pérez|Diego López|Maxi Gómez|Jan Oblak|José María Giménez|Reinildo Mandava|Axel Witsel|Geoffrey Kondogbia|Rodrigo De Paul|Koke|Marcos Llorente|Saúl Ñíguez|João Félix|Álvaro Morata|Thomas Lemar|Yannick Carrasco|Ángel Correa|Antoine Griezmann|Matheus Cunha
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #17
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Villarreal CF
+📅 DATE:  niedz., 21.08.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 2. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_villarreal-cf/aufstellung/spielbericht/3844594
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       15. Stefan Savic
+       23. Reinildo Mandava
+       20. Axel Witsel
+        6. Koke
+       16. Nahuel Molina
+       21. Yannick Carrasco
+       14. Marcos Llorente
+       11. Thomas Lemar
+        7. João Félix
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+        2. José María Giménez
+        5. Rodrigo De Paul
+       10. Ángel Correa
+        8. Antoine Griezmann
+        9. Matheus Cunha
+
+✈️  VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Gerónimo Rulli
+        4. Pau Torres
+        3. Raúl Albiol
+       24. Alfonso Pedraza
+        8. Juan Foyth
+        6. Étienne Capoue
+       10. Dani Parejo
+       17. Giovani Lo Celso
+       21. Yéremy Pino
+        7. Gerard Moreno
+       26. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (4):
+       19. Francis Coquelin
+       30. Álex Baena
+       11. Samuel Chukwueze
+       22. José Luis Morales
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 21.08.2022|LALIGA|2. Kolejka|Atlético Madryt|Villarreal CF|Jan Oblak|Stefan Savic|Reinildo Mandava|Axel Witsel|Koke|Nahuel Molina|Yannick Carrasco|Marcos Llorente|Thomas Lemar|João Félix|Álvaro Morata|José María Giménez|Rodrigo De Paul|Ángel Correa|Antoine Griezmann|Matheus Cunha|Gerónimo Rulli|Pau Torres|Raúl Albiol|Alfonso Pedraza|Juan Foyth|Étienne Capoue|Dani Parejo|Giovani Lo Celso|Yéremy Pino|Gerard Moreno|Nicolas Jackson|Francis Coquelin|Álex Baena|Samuel Chukwueze|José Luis Morales
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #18
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Sevilla FC
+📅 DATE:  sob., 04.03.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 24. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_sevilla-fc/aufstellung/spielbericht/3886569
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+        2. José María Giménez
+       15. Stefan Savic
+       20. Axel Witsel
+        6. Koke
+       14. Marcos Llorente
+       21. Yannick Carrasco
+       11. Thomas Lemar
+        8. Antoine Griezmann
+        9. Memphis Depay
+
+   🔄 SUBSTITUTES IN (5):
+       12. Matt Doherty
+       17. Saúl Ñíguez
+       24. Pablo Barrios
+       29. Carlos Martín
+       19. Álvaro Morata
+
+✈️  SEVILLA FC - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Yassine Bounou
+       14. Tanguy Nianzou
+        6. Nemanja Gudelj
+       19. Marcos Acuña
+        2. Gonzalo Montiel
+        8. Joan Jordán
+       18. Pape Gueye
+       10. Ivan Rakitic
+        5. Lucas Ocampos
+        7. Suso
+       15. Youssef En-Nesyri
+
+   🔄 SUBSTITUTES IN (5):
+        3. Alex Telles
+       16. Jesús Navas
+       21. Óliver Torres
+       25. Bryan Gil
+       12. Rafa Mir
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 04.03.2023|LALIGA|24. Kolejka|Atlético Madryt|Sevilla FC|Jan Oblak|Mario Hermoso|José María Giménez|Stefan Savic|Axel Witsel|Koke|Marcos Llorente|Yannick Carrasco|Thomas Lemar|Antoine Griezmann|Memphis Depay|Matt Doherty|Saúl Ñíguez|Pablo Barrios|Carlos Martín|Álvaro Morata|Yassine Bounou|Tanguy Nianzou|Nemanja Gudelj|Marcos Acuña|Gonzalo Montiel|Joan Jordán|Pape Gueye|Ivan Rakitic|Lucas Ocampos|Suso|Youssef En-Nesyri|Alex Telles|Jesús Navas|Óliver Torres|Bryan Gil|Rafa Mir
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #19
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  FC Porto
+📅 DATE:  śr., 07.09.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_fc-porto/aufstellung/spielbericht/3911745
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. José María Giménez
+       23. Reinildo Mandava
+       20. Axel Witsel
+        6. Koke
+       17. Saúl Ñíguez
+       16. Nahuel Molina
+       21. Yannick Carrasco
+       14. Marcos Llorente
+        7. João Félix
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+       22. Mario Hermoso
+        5. Rodrigo De Paul
+       11. Thomas Lemar
+       10. Ángel Correa
+        8. Antoine Griezmann
+
+✈️  FC PORTO - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       99. Diogo Costa
+        4. David Carmo
+        3. Pepe
+       12. Zaidu
+       11. Pepê
+        8. Matheus Uribe
+       46. Stephen Eustaquio
+       25. Otávio
+       13. Galeno
+       30. Evanilson
+        9. Mehdi Taremi
+
+   🔄 SUBSTITUTES IN (4):
+       28. Bruno Costa
+       23. João Mário
+        7. Gabriel Veron
+       29. Toni Martínez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 07.09.2022|Unknown|Unknown|Atlético Madryt|FC Porto|Jan Oblak|José María Giménez|Reinildo Mandava|Axel Witsel|Koke|Saúl Ñíguez|Nahuel Molina|Yannick Carrasco|Marcos Llorente|João Félix|Álvaro Morata|Mario Hermoso|Rodrigo De Paul|Thomas Lemar|Ángel Correa|Antoine Griezmann|Diogo Costa|David Carmo|Pepe|Zaidu|Pepê|Matheus Uribe|Stephen Eustaquio|Otávio|Galeno|Evanilson|Mehdi Taremi|Bruno Costa|João Mário|Gabriel Veron|Toni Martínez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #20
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Getafe CF
+📅 DATE:  sob., 04.02.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 20. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_getafe-cf/aufstellung/spielbericht/3886521
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+       15. Stefan Savic
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        6. Koke
+        5. Rodrigo De Paul
+       11. Thomas Lemar
+        8. Antoine Griezmann
+       10. Ángel Correa
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (4):
+       14. Marcos Llorente
+       17. Saúl Ñíguez
+       21. Yannick Carrasco
+        9. Memphis Depay
+
+✈️  GETAFE CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. David Soria
+       15. Omar Alderete
+        2. Dakonam Djené
+        6. Domingos Duarte
+        4. Gastón Álvarez
+        9. Portu
+        5. Luis Milla
+       18. Mauro Arambarri
+       11. Carles Aleñá
+       10. Enes Ünal
+       19. Borja Mayoral
+
+   🔄 SUBSTITUTES IN (4):
+       22. Damián Suárez
+       16. Ángel Algobia
+       24. Gonzalo Villar
+       17. Munir El Haddadi
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 04.02.2023|LALIGA|20. Kolejka|Atlético Madryt|Getafe CF|Jan Oblak|Mario Hermoso|Stefan Savic|Reinildo Mandava|Nahuel Molina|Koke|Rodrigo De Paul|Thomas Lemar|Antoine Griezmann|Ángel Correa|Álvaro Morata|Marcos Llorente|Saúl Ñíguez|Yannick Carrasco|Memphis Depay|David Soria|Omar Alderete|Dakonam Djené|Domingos Duarte|Gastón Álvarez|Portu|Luis Milla|Mauro Arambarri|Carles Aleñá|Enes Ünal|Borja Mayoral|Damián Suárez|Ángel Algobia|Gonzalo Villar|Munir El Haddadi
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #21
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Celta de Vigo
+📅 DATE:  sob., 10.09.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 5. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_celta-de-vigo/aufstellung/spielbericht/3886301
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Ivo Grbic
+       22. Mario Hermoso
+       23. Reinildo Mandava
+       20. Axel Witsel
+        4. Geoffrey Kondogbia
+        5. Rodrigo De Paul
+       11. Thomas Lemar
+       16. Nahuel Molina
+       21. Yannick Carrasco
+       10. Ángel Correa
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+       17. Saúl Ñíguez
+        6. Koke
+        8. Antoine Griezmann
+        7. João Félix
+        9. Matheus Cunha
+
+✈️  CELTA DE VIGO - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Agustín Marchesín
+        4. Unai Núñez
+       15. Joseph Aidoo
+       17. Javi Galán
+        2. Hugo Mallo
+       14. Renato Tapia
+        8. Fran Beltrán
+       11. Franco Cervi
+        7. Carles Pérez
+       10. Iago Aspas
+       18. Jørgen Strand Larsen
+
+   🔄 SUBSTITUTES IN (2):
+       21. Augusto Solari
+       28. Gabri Veiga
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 10.09.2022|LALIGA|5. Kolejka|Atlético Madryt|Celta de Vigo|Ivo Grbic|Mario Hermoso|Reinildo Mandava|Axel Witsel|Geoffrey Kondogbia|Rodrigo De Paul|Thomas Lemar|Nahuel Molina|Yannick Carrasco|Ángel Correa|Álvaro Morata|Saúl Ñíguez|Koke|Antoine Griezmann|João Félix|Matheus Cunha|Agustín Marchesín|Unai Núñez|Joseph Aidoo|Javi Galán|Hugo Mallo|Renato Tapia|Fran Beltrán|Franco Cervi|Carles Pérez|Iago Aspas|Jørgen Strand Larsen|Augusto Solari|Gabri Veiga
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #22
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Rayo Vallecano
+📅 DATE:  wt., 18.10.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 10. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_rayo-vallecano/aufstellung/spielbericht/3886329
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Ivo Grbic
+        2. José María Giménez
+       15. Stefan Savic
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        4. Geoffrey Kondogbia
+       20. Axel Witsel
+        5. Rodrigo De Paul
+       11. Thomas Lemar
+        8. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (4):
+       17. Saúl Ñíguez
+       21. Yannick Carrasco
+       10. Ángel Correa
+        9. Matheus Cunha
+
+✈️  RAYO VALLECANO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Stole Dimitrievski
+        5. Alejandro Catena
+       16. Abdul Mumin
+        3. Fran García
+       20. Iván Balliu
+       21. Pathé Ciss
+       23. Óscar Valentín
+       22. José Pozo
+       18. Álvaro García
+        7. Isi Palazón
+        9. Radamel Falcao
+
+   🔄 SUBSTITUTES IN (5):
+        6. Santi Comesaña
+       17. Unai López
+       11. Randy Nteka
+       28. Pablo Muñoz
+       34. Sergio Camello
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 18.10.2022|LALIGA|10. Kolejka|Atlético Madryt|Rayo Vallecano|Ivo Grbic|José María Giménez|Stefan Savic|Reinildo Mandava|Nahuel Molina|Geoffrey Kondogbia|Axel Witsel|Rodrigo De Paul|Thomas Lemar|Antoine Griezmann|Álvaro Morata|Saúl Ñíguez|Yannick Carrasco|Ángel Correa|Matheus Cunha|Stole Dimitrievski|Alejandro Catena|Abdul Mumin|Fran García|Iván Balliu|Pathé Ciss|Óscar Valentín|José Pozo|Álvaro García|Isi Palazón|Radamel Falcao|Santi Comesaña|Unai López|Randy Nteka|Pablo Muñoz|Sergio Camello
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #23
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Real Sociedad
+📅 DATE:  niedz., 28.05.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 37. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_real-sociedad/aufstellung/spielbericht/3886701
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Ivo Grbic
+       22. Mario Hermoso
+        2. José María Giménez
+       20. Axel Witsel
+        3. Sergio Reguilón
+       16. Nahuel Molina
+        5. Rodrigo De Paul
+        6. Koke
+       21. Yannick Carrasco
+       17. Saúl Ñíguez
+        8. Antoine Griezmann
+
+   🔄 SUBSTITUTES IN (2):
+       24. Pablo Barrios
+       10. Ángel Correa
+
+✈️  REAL SOCIEDAD - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Álex Remiro
+        5. Igor Zubeldia
+       24. Robin Le Normand
+       12. Aihen Muñoz
+        6. Aritz Elustondo
+        3. Martín Zubimendi
+        4. Asier Illarramendi
+        8. Mikel Merino
+       10. Mikel Oyarzabal
+       14. Takefusa Kubo
+       19. Alexander Sørloth
+
+   🔄 SUBSTITUTES IN (5):
+       18. Andoni Gorosabel
+       23. Brais Méndez
+        7. Ander Barrenetxea
+       11. Mohamed-Ali Cho
+        9. Carlos Fernández
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 28.05.2023|LALIGA|37. Kolejka|Atlético Madryt|Real Sociedad|Ivo Grbic|Mario Hermoso|José María Giménez|Axel Witsel|Sergio Reguilón|Nahuel Molina|Rodrigo De Paul|Koke|Yannick Carrasco|Saúl Ñíguez|Antoine Griezmann|Pablo Barrios|Ángel Correa|Álex Remiro|Igor Zubeldia|Robin Le Normand|Aihen Muñoz|Aritz Elustondo|Martín Zubimendi|Asier Illarramendi|Mikel Merino|Mikel Oyarzabal|Takefusa Kubo|Alexander Sørloth|Andoni Gorosabel|Brais Méndez|Ander Barrenetxea|Mohamed-Ali Cho|Carlos Fernández
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #24
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Rayo Vallecano
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 09.04.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 28. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rayo-vallecano_atlético-madryt/aufstellung/spielbericht/3886615
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RAYO VALLECANO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Stole Dimitrievski
+        5. Alejandro Catena
+       19. Florian Lejeune
+        3. Fran García
+       20. Iván Balliu
+        6. Santi Comesaña
+       23. Óscar Valentín
+       17. Unai López
+       18. Álvaro García
+        7. Isi Palazón
+       25. Raúl de Tomás
+
+   🔄 SUBSTITUTES IN (5):
+       16. Abdul Mumin
+        8. Óscar Trejo
+       12. Andrés Martín
+        9. Radamel Falcao
+       34. Sergio Camello
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+        2. José María Giménez
+       15. Stefan Savic
+        6. Koke
+       14. Marcos Llorente
+        5. Rodrigo De Paul
+       16. Nahuel Molina
+       21. Yannick Carrasco
+        8. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (3):
+       17. Saúl Ñíguez
+       24. Pablo Barrios
+       11. Thomas Lemar
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 09.04.2023|LALIGA|28. Kolejka|Rayo Vallecano|Atlético Madryt|Stole Dimitrievski|Alejandro Catena|Florian Lejeune|Fran García|Iván Balliu|Santi Comesaña|Óscar Valentín|Unai López|Álvaro García|Isi Palazón|Raúl de Tomás|Abdul Mumin|Óscar Trejo|Andrés Martín|Radamel Falcao|Sergio Camello|Jan Oblak|Mario Hermoso|José María Giménez|Stefan Savic|Koke|Marcos Llorente|Rodrigo De Paul|Nahuel Molina|Yannick Carrasco|Antoine Griezmann|Álvaro Morata|Saúl Ñíguez|Pablo Barrios|Thomas Lemar
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #25
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 04.06.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 38. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_atlético-madryt/aufstellung/spielbericht/3844558
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       35. Filip Jørgensen
+        4. Pau Torres
+       23. Aïssa Mandi
+       18. Alberto Moreno
+        2. Kiko Femenía
+        6. Étienne Capoue
+       10. Dani Parejo
+       14. Manu Trigueros
+       21. Yéremy Pino
+       11. Samuel Chukwueze
+       15. Nicolas Jackson
+
+   🔄 SUBSTITUTES IN (5):
+        5. Jorge Cuenca
+       12. Johan Mojica
+       17. Giovani Lo Celso
+       16. Álex Baena
+       43. Jorge Pascual
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Ivo Grbic
+       22. Mario Hermoso
+       15. Stefan Savic
+       20. Axel Witsel
+        3. Sergio Reguilón
+       16. Nahuel Molina
+        6. Koke
+       24. Pablo Barrios
+       17. Saúl Ñíguez
+       10. Ángel Correa
+        8. Antoine Griezmann
+
+   🔄 SUBSTITUTES IN (3):
+       31. Antonio Gomis
+       11. Thomas Lemar
+       19. Álvaro Morata
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 04.06.2023|LALIGA|38. Kolejka|Villarreal CF|Atlético Madryt|Filip Jørgensen|Pau Torres|Aïssa Mandi|Alberto Moreno|Kiko Femenía|Étienne Capoue|Dani Parejo|Manu Trigueros|Yéremy Pino|Samuel Chukwueze|Nicolas Jackson|Jorge Cuenca|Johan Mojica|Giovani Lo Celso|Álex Baena|Jorge Pascual|Ivo Grbic|Mario Hermoso|Stefan Savic|Axel Witsel|Sergio Reguilón|Nahuel Molina|Koke|Pablo Barrios|Saúl Ñíguez|Ángel Correa|Antoine Griezmann|Antonio Gomis|Thomas Lemar|Álvaro Morata
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #26
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Getafe CF
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  pon., 15.08.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 1. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/getafe-cf_atlético-madryt/aufstellung/spielbericht/3844095
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GETAFE CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. David Soria
+        2. Dakonam Djené
+        6. Domingos Duarte
+       23. Stefan Mitrovic
+       20. Nemanja Maksimovic
+       18. Mauro Arambarri
+       21. Juan Iglesias
+        3. Fabrizio Angileri
+       11. Carles Aleñá
+       10. Enes Ünal
+       19. Borja Mayoral
+
+   🔄 SUBSTITUTES IN (4):
+        8. Jaime Seoane
+       30. Moises Parra
+        9. Portu
+        7. Jaime Mata
+
+✈️  ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       15. Stefan Savic
+       23. Reinildo Mandava
+       20. Axel Witsel
+        6. Koke
+       16. Nahuel Molina
+       17. Saúl Ñíguez
+       14. Marcos Llorente
+       11. Thomas Lemar
+        7. João Félix
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+        5. Rodrigo De Paul
+       21. Yannick Carrasco
+       10. Ángel Correa
+        8. Antoine Griezmann
+        9. Matheus Cunha
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pon., 15.08.2022|LALIGA|1. Kolejka|Getafe CF|Atlético Madryt|David Soria|Dakonam Djené|Domingos Duarte|Stefan Mitrovic|Nemanja Maksimovic|Mauro Arambarri|Juan Iglesias|Fabrizio Angileri|Carles Aleñá|Enes Ünal|Borja Mayoral|Jaime Seoane|Moises Parra|Portu|Jaime Mata|Jan Oblak|Stefan Savic|Reinildo Mandava|Axel Witsel|Koke|Nahuel Molina|Saúl Ñíguez|Marcos Llorente|Thomas Lemar|João Félix|Álvaro Morata|Rodrigo De Paul|Yannick Carrasco|Ángel Correa|Antoine Griezmann|Matheus Cunha
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #27
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  sob., 15.10.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 9. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_atlético-madryt/aufstellung/spielbericht/3886319
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        4. Iñigo Martínez
+        5. Yeray Álvarez
+       15. Iñigo Lekue
+       18. Óscar de Marcos
+        6. Mikel Vesga
+        8. Oihan Sancet
+       10. Iker Muniain
+        7. Álex Berenguer
+       11. Nico Williams
+        9. Iñaki Williams
+
+   🔄 SUBSTITUTES IN (5):
+        3. Dani Vivian
+       14. Dani García
+       19. Oier Zarraga
+       22. Raúl García
+       20. Asier Villalibre
+
+✈️  ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. José María Giménez
+       15. Stefan Savic
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        4. Geoffrey Kondogbia
+        6. Koke
+        5. Rodrigo De Paul
+       11. Thomas Lemar
+        8. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+        1. Ivo Grbic
+       20. Axel Witsel
+       17. Saúl Ñíguez
+       10. Ángel Correa
+        7. João Félix
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 15.10.2022|LALIGA|9. Kolejka|Athletic Bilbao|Atlético Madryt|Unai Simón|Iñigo Martínez|Yeray Álvarez|Iñigo Lekue|Óscar de Marcos|Mikel Vesga|Oihan Sancet|Iker Muniain|Álex Berenguer|Nico Williams|Iñaki Williams|Dani Vivian|Dani García|Oier Zarraga|Raúl García|Asier Villalibre|Jan Oblak|José María Giménez|Stefan Savic|Reinildo Mandava|Nahuel Molina|Geoffrey Kondogbia|Koke|Rodrigo De Paul|Thomas Lemar|Antoine Griezmann|Álvaro Morata|Ivo Grbic|Axel Witsel|Saúl Ñíguez|Ángel Correa|João Félix
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #28
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  RCD Mallorca
+📅 DATE:  śr., 26.04.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 31. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_rcd-mallorca/aufstellung/spielbericht/3886641
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Ivo Grbic
+       22. Mario Hermoso
+        2. José María Giménez
+       20. Axel Witsel
+        6. Koke
+       16. Nahuel Molina
+       21. Yannick Carrasco
+        5. Rodrigo De Paul
+       11. Thomas Lemar
+        8. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (4):
+        4. Geoffrey Kondogbia
+       17. Saúl Ñíguez
+       24. Pablo Barrios
+       10. Ángel Correa
+
+✈️  RCD MALLORCA - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Predrag Rajković
+        2. Matija Nastasić
+        6. José Copete
+        5. Dennis Hadzikadunic
+       12. Iddrisu Baba
+       15. Pablo Maffeo
+       18. Jaume Costa
+       11. Manu Morlanes
+       14. Dani Rodríguez
+        9. Abdón Prats
+       22. Ángel Rodríguez
+
+   🔄 SUBSTITUTES IN (4):
+       10. Antonio Sánchez
+       19. Kang-in Lee
+       23. Amath Ndiaye
+        7. Vedat Muriqi
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 26.04.2023|LALIGA|31. Kolejka|Atlético Madryt|RCD Mallorca|Ivo Grbic|Mario Hermoso|José María Giménez|Axel Witsel|Koke|Nahuel Molina|Yannick Carrasco|Rodrigo De Paul|Thomas Lemar|Antoine Griezmann|Álvaro Morata|Geoffrey Kondogbia|Saúl Ñíguez|Pablo Barrios|Ángel Correa|Predrag Rajković|Matija Nastasić|José Copete|Dennis Hadzikadunic|Iddrisu Baba|Pablo Maffeo|Jaume Costa|Manu Morlanes|Dani Rodríguez|Abdón Prats|Ángel Rodríguez|Antonio Sánchez|Kang-in Lee|Amath Ndiaye|Vedat Muriqi
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #29
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Levante UD
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  śr., 18.01.2023
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/levante-ud_atlético-madryt/aufstellung/spielbericht/3997412
+
+----------------------------------------------------------------------------------------------------
+
+🏠 LEVANTE UD - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Joan Femenías
+        4. Róber Pier
+       16. Álex Muñoz
+       23. Marcelo Saracchi
+        2. Son
+        8. Pepelu
+        6. Pablo Martínez
+       20. Joni Montiel
+       21. Charly Musonda Jr.
+       18. Jorge de Frutos
+       22. Mohamed Bouldini
+
+   🔄 SUBSTITUTES IN (5):
+       41. Andrés García
+       24. José Campaña
+       11. Álex Cantero
+        7. Wesley Moraes
+        9. Roberto Soldado
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+       15. Stefan Savic
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        4. Geoffrey Kondogbia
+        5. Rodrigo De Paul
+       14. Marcos Llorente
+       34. Pablo Barrios
+        8. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (3):
+       17. Saúl Ñíguez
+        6. Koke
+       10. Ángel Correa
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 18.01.2023|Unknown|Unknown|Levante UD|Atlético Madryt|Joan Femenías|Róber Pier|Álex Muñoz|Marcelo Saracchi|Son|Pepelu|Pablo Martínez|Joni Montiel|Charly Musonda Jr.|Jorge de Frutos|Mohamed Bouldini|Andrés García|José Campaña|Álex Cantero|Wesley Moraes|Roberto Soldado|Jan Oblak|Mario Hermoso|Stefan Savic|Reinildo Mandava|Nahuel Molina|Geoffrey Kondogbia|Rodrigo De Paul|Marcos Llorente|Pablo Barrios|Antoine Griezmann|Álvaro Morata|Saúl Ñíguez|Koke|Ángel Correa
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #30
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  RCD Espanyol
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  śr., 24.05.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 36. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rcd-espanyol_atlético-madryt/aufstellung/spielbericht/3886695
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RCD ESPANYOL - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Fernando Pacheco
+        4. Leandro Cabrera
+        5. Fernando Calero
+       23. César Montes
+       14. Brian Oliván
+        2. Óscar Gil
+       10. Sergi Darder
+        6. Denis Suárez
+        7. Javi Puado
+       21. Nico Melamed
+        9. Joselu
+
+   🔄 SUBSTITUTES IN (5):
+        3. Adrià Pedrosa
+       12. Vini Souza
+       20. Edu Expósito
+       22. Aleix Vidal
+       17. Martin Braithwaite
+
+✈️  ATLÉTICO MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Ivo Grbic
+       22. Mario Hermoso
+        2. José María Giménez
+       20. Axel Witsel
+       21. Yannick Carrasco
+       16. Nahuel Molina
+       17. Saúl Ñíguez
+        5. Rodrigo De Paul
+        6. Koke
+       10. Ángel Correa
+        8. Antoine Griezmann
+
+   🔄 SUBSTITUTES IN (4):
+        3. Sergio Reguilón
+        4. Geoffrey Kondogbia
+       24. Pablo Barrios
+       29. Carlos Martín
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 24.05.2023|LALIGA|36. Kolejka|RCD Espanyol|Atlético Madryt|Fernando Pacheco|Leandro Cabrera|Fernando Calero|César Montes|Brian Oliván|Óscar Gil|Sergi Darder|Denis Suárez|Javi Puado|Nico Melamed|Joselu|Adrià Pedrosa|Vini Souza|Edu Expósito|Aleix Vidal|Martin Braithwaite|Ivo Grbic|Mario Hermoso|José María Giménez|Axel Witsel|Yannick Carrasco|Nahuel Molina|Saúl Ñíguez|Rodrigo De Paul|Koke|Ángel Correa|Antoine Griezmann|Sergio Reguilón|Geoffrey Kondogbia|Pablo Barrios|Carlos Martín
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #31
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Bayer 04 Leverkusen
+📅 DATE:  śr., 26.10.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_bayer-04-leverkusen/aufstellung/spielbericht/3911746
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+        2. José María Giménez
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        4. Geoffrey Kondogbia
+       20. Axel Witsel
+       21. Yannick Carrasco
+       10. Ángel Correa
+        8. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (4):
+       17. Saúl Ñíguez
+        5. Rodrigo De Paul
+        7. João Félix
+        9. Matheus Cunha
+
+✈️  BAYER 04 LEVERKUSEN - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Lukas Hradecky
+        3. Piero Hincapié
+        6. Odilon Kossounou
+       12. Edmond Tapsoba
+        8. Robert Andrich
+       11. Nadiem Amiri
+       30. Jeremie Frimpong
+        5. Mitchel Bakker
+       17. Callum Hudson-Odoi
+       19. Moussa Diaby
+       23. Adam Hlozek
+
+   🔄 SUBSTITUTES IN (4):
+        4. Jonathan Tah
+       24. Timothy Fosu-Mensah
+       21. Amine Adli
+        7. Paulinho
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 26.10.2022|Unknown|Unknown|Atlético Madryt|Bayer 04 Leverkusen|Jan Oblak|Mario Hermoso|José María Giménez|Reinildo Mandava|Nahuel Molina|Geoffrey Kondogbia|Axel Witsel|Yannick Carrasco|Ángel Correa|Antoine Griezmann|Álvaro Morata|Saúl Ñíguez|Rodrigo De Paul|João Félix|Matheus Cunha|Lukas Hradecky|Piero Hincapié|Odilon Kossounou|Edmond Tapsoba|Robert Andrich|Nadiem Amiri|Jeremie Frimpong|Mitchel Bakker|Callum Hudson-Odoi|Moussa Diaby|Adam Hlozek|Jonathan Tah|Timothy Fosu-Mensah|Amine Adli|Paulinho
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #32
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Elche CF
+📅 DATE:  pt., 30.12.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 15. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_elche-cf/aufstellung/spielbericht/3886463
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+        2. José María Giménez
+       15. Stefan Savic
+        4. Geoffrey Kondogbia
+       34. Pablo Barrios
+       14. Marcos Llorente
+       21. Yannick Carrasco
+        7. João Félix
+        8. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (4):
+        3. Sergio Reguilón
+       17. Saúl Ñíguez
+        6. Koke
+       11. Thomas Lemar
+
+✈️  ELCHE CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Edgar Badia
+        4. Diego González
+        6. Pedro Bigas
+        5. Gonzalo Verdú
+       23. Carlos Clerc
+       14. Helibelton Palacios
+       21. Omar Mascarell
+        8. Raúl Guti
+       18. Roger Martí
+       10. Pere Milla
+        9. Lucas Boyé
+
+   🔄 SUBSTITUTES IN (5):
+       12. Domingos Quina
+       15. Álex Collado
+       16. Fidel
+       11. Tete Morente
+       19. Ezequiel Ponce
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pt., 30.12.2022|LALIGA|15. Kolejka|Atlético Madryt|Elche CF|Jan Oblak|Mario Hermoso|José María Giménez|Stefan Savic|Geoffrey Kondogbia|Pablo Barrios|Marcos Llorente|Yannick Carrasco|João Félix|Antoine Griezmann|Álvaro Morata|Sergio Reguilón|Saúl Ñíguez|Koke|Thomas Lemar|Edgar Badia|Diego González|Pedro Bigas|Gonzalo Verdú|Carlos Clerc|Helibelton Palacios|Omar Mascarell|Raúl Guti|Roger Martí|Pere Milla|Lucas Boyé|Domingos Quina|Álex Collado|Fidel|Tete Morente|Ezequiel Ponce
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #33
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  sob., 25.02.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 23. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_atlético-madryt/aufstellung/spielbericht/3886564
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        3. Éder Militão
+       22. Antonio Rüdiger
+        6. Nacho Fernández
+        2. Daniel Carvajal
+        8. Toni Kroos
+       15. Federico Valverde
+       19. Dani Ceballos
+       20. Vinicius Junior
+       11. Marco Asensio
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+       17. Lucas Vázquez
+       18. Aurélien Tchouaméni
+       12. Eduardo Camavinga
+       10. Luka Modrić
+       39. Álvaro Rodríguez
+
+✈️  ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+       15. Stefan Savic
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        6. Koke
+       24. Pablo Barrios
+       14. Marcos Llorente
+       17. Saúl Ñíguez
+        8. Antoine Griezmann
+       21. Yannick Carrasco
+
+   🔄 SUBSTITUTES IN (5):
+        2. José María Giménez
+       20. Axel Witsel
+       11. Thomas Lemar
+       10. Ángel Correa
+       19. Álvaro Morata
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 25.02.2023|LALIGA|23. Kolejka|Real Madryt|Atlético Madryt|Thibaut Courtois|Éder Militão|Antonio Rüdiger|Nacho Fernández|Daniel Carvajal|Toni Kroos|Federico Valverde|Dani Ceballos|Vinicius Junior|Marco Asensio|Karim Benzema|Lucas Vázquez|Aurélien Tchouaméni|Eduardo Camavinga|Luka Modrić|Álvaro Rodríguez|Jan Oblak|Mario Hermoso|Stefan Savic|Reinildo Mandava|Nahuel Molina|Koke|Pablo Barrios|Marcos Llorente|Saúl Ñíguez|Antoine Griezmann|Yannick Carrasco|José María Giménez|Axel Witsel|Thomas Lemar|Ángel Correa|Álvaro Morata
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #34
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Sevilla FC
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  sob., 01.10.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 7. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/sevilla-fc_atlético-madryt/aufstellung/spielbericht/3886288
+
+----------------------------------------------------------------------------------------------------
+
+🏠 SEVILLA FC - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Yassine Bounou
+       29. Kike Salas
+       14. Tanguy Nianzou
+        4. Karim Rekik
+       30. José Ángel Carmona
+        6. Nemanja Gudelj
+       18. Thomas Delaney
+       21. Óliver Torres
+       22. Isco
+       17. Erik Lamela
+        5. Kasper Dolberg
+
+   🔄 SUBSTITUTES IN (5):
+        3. Alex Telles
+       16. Jesús Navas
+       10. Ivan Rakitic
+       24. Papu Gómez
+       15. Youssef En-Nesyri
+
+✈️  ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. José María Giménez
+       15. Stefan Savic
+       23. Reinildo Mandava
+       16. Nahuel Molina
+       20. Axel Witsel
+       17. Saúl Ñíguez
+        6. Koke
+       14. Marcos Llorente
+        9. Matheus Cunha
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+        4. Geoffrey Kondogbia
+       21. Yannick Carrasco
+       10. Ángel Correa
+        8. Antoine Griezmann
+        7. João Félix
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 01.10.2022|LALIGA|7. Kolejka|Sevilla FC|Atlético Madryt|Yassine Bounou|Kike Salas|Tanguy Nianzou|Karim Rekik|José Ángel Carmona|Nemanja Gudelj|Thomas Delaney|Óliver Torres|Isco|Erik Lamela|Kasper Dolberg|Alex Telles|Jesús Navas|Ivan Rakitic|Papu Gómez|Youssef En-Nesyri|Jan Oblak|José María Giménez|Stefan Savic|Reinildo Mandava|Nahuel Molina|Axel Witsel|Saúl Ñíguez|Koke|Marcos Llorente|Matheus Cunha|Álvaro Morata|Geoffrey Kondogbia|Yannick Carrasco|Ángel Correa|Antoine Griezmann|João Félix
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #35
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Valencia CF
+📅 DATE:  sob., 18.03.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 26. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_valencia-cf/aufstellung/spielbericht/3886590
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+        2. José María Giménez
+       15. Stefan Savic
+        6. Koke
+       14. Marcos Llorente
+        5. Rodrigo De Paul
+       16. Nahuel Molina
+       21. Yannick Carrasco
+        8. Antoine Griezmann
+        9. Memphis Depay
+
+   🔄 SUBSTITUTES IN (5):
+       20. Axel Witsel
+       24. Pablo Barrios
+       11. Thomas Lemar
+       10. Ángel Correa
+       19. Álvaro Morata
+
+✈️  VALENCIA CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Giorgi Mamardashvili
+       15. Cenk Özkacar
+       24. Eray Cömert
+       14. José Gayà
+       20. Dimitri Foulquier
+        6. Hugo Guillamón
+       17. Nico González
+        4. Yunus Musah
+        2. Thierry Correia
+        9. Justin Kluivert
+       19. Hugo Duro
+
+   🔄 SUBSTITUTES IN (5):
+        8. Ilaix Moriba
+       18. André Almeida
+       16. Samuel Lino
+       11. Samu Castillejo
+        7. Edinson Cavani
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 18.03.2023|LALIGA|26. Kolejka|Atlético Madryt|Valencia CF|Jan Oblak|Mario Hermoso|José María Giménez|Stefan Savic|Koke|Marcos Llorente|Rodrigo De Paul|Nahuel Molina|Yannick Carrasco|Antoine Griezmann|Memphis Depay|Axel Witsel|Pablo Barrios|Thomas Lemar|Ángel Correa|Álvaro Morata|Giorgi Mamardashvili|Cenk Özkacar|Eray Cömert|José Gayà|Dimitri Foulquier|Hugo Guillamón|Nico González|Yunus Musah|Thierry Correia|Justin Kluivert|Hugo Duro|Ilaix Moriba|André Almeida|Samuel Lino|Samu Castillejo|Edinson Cavani
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #36
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Brügge
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  wt., 04.10.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-brügge_atlético-madryt/aufstellung/spielbericht/3911742
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BRÜGGE - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       22. Simon Mignolet
+       94. Abakar Sylla
+       44. Brandon Mechele
+       14. Bjorn Meijer
+        6. Denis Odoi
+       15. Raphael Onyedika
+       27. Casper Nielsen
+       20. Hans Vanaken
+       19. Kamal Sowah
+       17. Tajon Buchanan
+        9. Ferran Jutglà
+
+   🔄 SUBSTITUTES IN (4):
+       67. Jorne Spileers
+        2. Eduard Sobol
+        3. Éder Balanta
+       32. Antonio Nusa
+
+✈️  ATLÉTICO MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. José María Giménez
+       15. Stefan Savic
+       23. Reinildo Mandava
+       16. Nahuel Molina
+       20. Axel Witsel
+        6. Koke
+       14. Marcos Llorente
+       21. Yannick Carrasco
+        8. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (4):
+        4. Geoffrey Kondogbia
+       10. Ángel Correa
+        7. João Félix
+        9. Matheus Cunha
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 04.10.2022|Unknown|Unknown|FC Brügge|Atlético Madryt|Simon Mignolet|Abakar Sylla|Brandon Mechele|Bjorn Meijer|Denis Odoi|Raphael Onyedika|Casper Nielsen|Hans Vanaken|Kamal Sowah|Tajon Buchanan|Ferran Jutglà|Jorne Spileers|Eduard Sobol|Éder Balanta|Antonio Nusa|Jan Oblak|José María Giménez|Stefan Savic|Reinildo Mandava|Nahuel Molina|Axel Witsel|Koke|Marcos Llorente|Yannick Carrasco|Antoine Griezmann|Álvaro Morata|Geoffrey Kondogbia|Ángel Correa|João Félix|Matheus Cunha
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #37
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  CA Osasuna
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 29.01.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 19. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/ca-osasuna_atlético-madryt/aufstellung/spielbericht/3886514
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CA OSASUNA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Aitor Fernández
+        5. David García
+       23. Aridane Hernández
+       20. Manu Sánchez
+       35. Diego Moreno
+        6. Lucas Torró
+       19. Pablo Ibáñez
+       16. Moi Gómez
+       12. Abde Ezzalzouli
+       14. Rubén García
+        9. Chimy Ávila
+
+   🔄 SUBSTITUTES IN (5):
+        7. Jon Moncayola
+        8. Darko Brasanac
+       11. Kike Barja
+       17. Ante Budimir
+       18. Kike García
+
+✈️  ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+        2. José María Giménez
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        6. Koke
+       24. Pablo Barrios
+        5. Rodrigo De Paul
+       11. Thomas Lemar
+       10. Ángel Correa
+        8. Antoine Griezmann
+
+   🔄 SUBSTITUTES IN (5):
+        4. Geoffrey Kondogbia
+       20. Axel Witsel
+       17. Saúl Ñíguez
+       21. Yannick Carrasco
+       19. Álvaro Morata
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 29.01.2023|LALIGA|19. Kolejka|CA Osasuna|Atlético Madryt|Aitor Fernández|David García|Aridane Hernández|Manu Sánchez|Diego Moreno|Lucas Torró|Pablo Ibáñez|Moi Gómez|Abde Ezzalzouli|Rubén García|Chimy Ávila|Jon Moncayola|Darko Brasanac|Kike Barja|Ante Budimir|Kike García|Jan Oblak|Mario Hermoso|José María Giménez|Reinildo Mandava|Nahuel Molina|Koke|Pablo Barrios|Rodrigo De Paul|Thomas Lemar|Ángel Correa|Antoine Griezmann|Geoffrey Kondogbia|Axel Witsel|Saúl Ñíguez|Yannick Carrasco|Álvaro Morata
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #38
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Cádiz CF
+📅 DATE:  śr., 03.05.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 33. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_cádiz-cf/aufstellung/spielbericht/3886661
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Ivo Grbic
+       22. Mario Hermoso
+        2. José María Giménez
+       20. Axel Witsel
+        6. Koke
+       16. Nahuel Molina
+       21. Yannick Carrasco
+        5. Rodrigo De Paul
+       11. Thomas Lemar
+        8. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (4):
+        3. Sergio Reguilón
+       12. Matt Doherty
+       24. Pablo Barrios
+       10. Ángel Correa
+
+✈️  CÁDIZ CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Conan Ledesma
+        5. Momo Mbaye
+       25. Jorge Meré
+       21. Santiago Arzamendia
+       20. Iza Carcelén
+       12. Youba Diarra
+        4. Rubén Alcaraz
+        8. Álex Fernández
+       11. Iván Alejo
+       10. Théo Bongonda
+       18. Álvaro Negredo
+
+   🔄 SUBSTITUTES IN (4):
+        6. José Mari
+       42. José Antonio de la Rosa
+        9. Choco Lozano
+       16. Chris Ramos
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 03.05.2023|LALIGA|33. Kolejka|Atlético Madryt|Cádiz CF|Ivo Grbic|Mario Hermoso|José María Giménez|Axel Witsel|Koke|Nahuel Molina|Yannick Carrasco|Rodrigo De Paul|Thomas Lemar|Antoine Griezmann|Álvaro Morata|Sergio Reguilón|Matt Doherty|Pablo Barrios|Ángel Correa|Conan Ledesma|Momo Mbaye|Jorge Meré|Santiago Arzamendia|Iza Carcelén|Youba Diarra|Rubén Alcaraz|Álex Fernández|Iván Alejo|Théo Bongonda|Álvaro Negredo|José Mari|José Antonio de la Rosa|Choco Lozano|Chris Ramos
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #39
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Real Madryt
+📅 DATE:  niedz., 18.09.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 6. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_real-madryt/aufstellung/spielbericht/3858320
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       18. Felipe
+       23. Reinildo Mandava
+       20. Axel Witsel
+        4. Geoffrey Kondogbia
+        5. Rodrigo De Paul
+        6. Koke
+       14. Marcos Llorente
+       21. Yannick Carrasco
+        8. Antoine Griezmann
+        7. João Félix
+
+   🔄 SUBSTITUTES IN (5):
+       22. Mario Hermoso
+       17. Saúl Ñíguez
+       10. Ángel Correa
+        9. Matheus Cunha
+       19. Álvaro Morata
+
+✈️  REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       18. Aurélien Tchouaméni
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       15. Federico Valverde
+       21. Rodrygo
+
+   🔄 SUBSTITUTES IN (4):
+       22. Antonio Rüdiger
+       12. Eduardo Camavinga
+       19. Dani Ceballos
+       11. Marco Asensio
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 18.09.2022|LALIGA|6. Kolejka|Atlético Madryt|Real Madryt|Jan Oblak|Felipe|Reinildo Mandava|Axel Witsel|Geoffrey Kondogbia|Rodrigo De Paul|Koke|Marcos Llorente|Yannick Carrasco|Antoine Griezmann|João Félix|Mario Hermoso|Saúl Ñíguez|Ángel Correa|Matheus Cunha|Álvaro Morata|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Daniel Carvajal|Aurélien Tchouaméni|Toni Kroos|Luka Modrić|Vinicius Junior|Federico Valverde|Rodrygo|Antonio Rüdiger|Eduardo Camavinga|Dani Ceballos|Marco Asensio
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #40
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 19.02.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 22. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_athletic-bilbao/aufstellung/spielbericht/3886556
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+        2. José María Giménez
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        5. Rodrigo De Paul
+        6. Koke
+       14. Marcos Llorente
+       21. Yannick Carrasco
+        8. Antoine Griezmann
+       10. Ángel Correa
+
+   🔄 SUBSTITUTES IN (4):
+       17. Saúl Ñíguez
+       24. Pablo Barrios
+        9. Memphis Depay
+       19. Álvaro Morata
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Julen Agirrezabala
+        3. Dani Vivian
+        5. Yeray Álvarez
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+        6. Mikel Vesga
+       14. Dani García
+        8. Oihan Sancet
+       10. Iker Muniain
+       11. Nico Williams
+        9. Iñaki Williams
+
+   🔄 SUBSTITUTES IN (5):
+       31. Aitor Paredes
+       19. Oier Zarraga
+       22. Raúl García
+        7. Álex Berenguer
+       12. Gorka Guruzeta
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 19.02.2023|LALIGA|22. Kolejka|Atlético Madryt|Athletic Bilbao|Jan Oblak|Mario Hermoso|José María Giménez|Reinildo Mandava|Nahuel Molina|Rodrigo De Paul|Koke|Marcos Llorente|Yannick Carrasco|Antoine Griezmann|Ángel Correa|Saúl Ñíguez|Pablo Barrios|Memphis Depay|Álvaro Morata|Julen Agirrezabala|Dani Vivian|Yeray Álvarez|Yuri Berchiche|Óscar de Marcos|Mikel Vesga|Dani García|Oihan Sancet|Iker Muniain|Nico Williams|Iñaki Williams|Aitor Paredes|Oier Zarraga|Raúl García|Álex Berenguer|Gorka Guruzeta
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #41
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Sociedad
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  sob., 03.09.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 4. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-sociedad_atlético-madryt/aufstellung/spielbericht/3885856
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL SOCIEDAD - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Álex Remiro
+        5. Igor Zubeldia
+       24. Robin Le Normand
+       12. Aihen Muñoz
+       18. Andoni Gorosabel
+        3. Martín Zubimendi
+        8. Mikel Merino
+       23. Brais Méndez
+       21. David Silva
+       11. Mohamed-Ali Cho
+       19. Alexander Sørloth
+
+   🔄 SUBSTITUTES IN (5):
+        6. Aritz Elustondo
+        7. Ander Barrenetxea
+       14. Takefusa Kubo
+        2. Álex Sola
+       25. Umar Sadiq
+
+✈️  ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. José María Giménez
+       23. Reinildo Mandava
+       20. Axel Witsel
+        6. Koke
+       17. Saúl Ñíguez
+        5. Rodrigo De Paul
+       14. Marcos Llorente
+       21. Yannick Carrasco
+        7. João Félix
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+        1. Ivo Grbic
+       22. Mario Hermoso
+        4. Geoffrey Kondogbia
+       10. Ángel Correa
+        8. Antoine Griezmann
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 03.09.2022|LALIGA|4. Kolejka|Real Sociedad|Atlético Madryt|Álex Remiro|Igor Zubeldia|Robin Le Normand|Aihen Muñoz|Andoni Gorosabel|Martín Zubimendi|Mikel Merino|Brais Méndez|David Silva|Mohamed-Ali Cho|Alexander Sørloth|Aritz Elustondo|Ander Barrenetxea|Takefusa Kubo|Álex Sola|Umar Sadiq|Jan Oblak|José María Giménez|Reinildo Mandava|Axel Witsel|Koke|Saúl Ñíguez|Rodrigo De Paul|Marcos Llorente|Yannick Carrasco|João Félix|Álvaro Morata|Ivo Grbic|Mario Hermoso|Geoffrey Kondogbia|Ángel Correa|Antoine Griezmann
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #42
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Elche CF
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 14.05.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 34. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/elche-cf_atlético-madryt/aufstellung/spielbericht/3886673
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ELCHE CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Edgar Badia
+        6. Pedro Bigas
+       23. Carlos Clerc
+       14. Helibelton Palacios
+       26. John Donald
+       20. Gerard Gumbau
+       11. Tete Morente
+        2. Lautaro Blanco
+       16. Fidel
+       18. Randy Nteka
+        9. Lucas Boyé
+
+   🔄 SUBSTITUTES IN (5):
+        7. Lisandro Magallán
+        8. Raúl Guti
+       10. Pere Milla
+       17. Josan
+       19. Ezequiel Ponce
+
+✈️  ATLÉTICO MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Ivo Grbic
+       22. Mario Hermoso
+        2. José María Giménez
+       20. Axel Witsel
+        6. Koke
+        5. Rodrigo De Paul
+       16. Nahuel Molina
+       21. Yannick Carrasco
+       11. Thomas Lemar
+        8. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (4):
+        3. Sergio Reguilón
+       24. Pablo Barrios
+       29. Carlos Martín
+       10. Ángel Correa
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 14.05.2023|LALIGA|34. Kolejka|Elche CF|Atlético Madryt|Edgar Badia|Pedro Bigas|Carlos Clerc|Helibelton Palacios|John Donald|Gerard Gumbau|Tete Morente|Lautaro Blanco|Fidel|Randy Nteka|Lucas Boyé|Lisandro Magallán|Raúl Guti|Pere Milla|Josan|Ezequiel Ponce|Ivo Grbic|Mario Hermoso|José María Giménez|Axel Witsel|Koke|Rodrigo De Paul|Nahuel Molina|Yannick Carrasco|Thomas Lemar|Antoine Griezmann|Álvaro Morata|Sergio Reguilón|Pablo Barrios|Carlos Martín|Ángel Correa
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #43
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  czw., 26.01.2023
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_atlético-madryt/aufstellung/spielbericht/4004789
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        3. Éder Militão
+       22. Antonio Rüdiger
+       23. Ferland Mendy
+        6. Nacho Fernández
+       12. Eduardo Camavinga
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       15. Federico Valverde
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+       16. Álvaro Odriozola
+       31. Mario Martín
+       19. Dani Ceballos
+       11. Marco Asensio
+       21. Rodrygo
+
+✈️  ATLÉTICO MADRYT - 17 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+       15. Stefan Savic
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        6. Koke
+        5. Rodrigo De Paul
+       11. Thomas Lemar
+        8. Antoine Griezmann
+       10. Ángel Correa
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (6):
+        4. Geoffrey Kondogbia
+       20. Axel Witsel
+       17. Saúl Ñíguez
+       24. Pablo Barrios
+       21. Yannick Carrasco
+        9. Memphis Depay
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 26.01.2023|Unknown|Unknown|Real Madryt|Atlético Madryt|Thibaut Courtois|Éder Militão|Antonio Rüdiger|Ferland Mendy|Nacho Fernández|Eduardo Camavinga|Toni Kroos|Luka Modrić|Vinicius Junior|Federico Valverde|Karim Benzema|Álvaro Odriozola|Mario Martín|Dani Ceballos|Marco Asensio|Rodrygo|Jan Oblak|Mario Hermoso|Stefan Savic|Reinildo Mandava|Nahuel Molina|Koke|Rodrigo De Paul|Thomas Lemar|Antoine Griezmann|Ángel Correa|Álvaro Morata|Geoffrey Kondogbia|Axel Witsel|Saúl Ñíguez|Pablo Barrios|Yannick Carrasco|Memphis Depay
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #44
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  RCD Espanyol
+📅 DATE:  niedz., 06.11.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 13. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_rcd-espanyol/aufstellung/spielbericht/3886408
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. José María Giménez
+       15. Stefan Savic
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        4. Geoffrey Kondogbia
+        5. Rodrigo De Paul
+       14. Marcos Llorente
+       21. Yannick Carrasco
+        8. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+       20. Axel Witsel
+       11. Thomas Lemar
+       10. Ángel Correa
+        7. João Félix
+        9. Matheus Cunha
+
+✈️  RCD ESPANYOL - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Benjamin Lecomte
+        4. Leandro Cabrera
+        5. Fernando Calero
+       14. Brian Oliván
+        2. Óscar Gil
+       12. Vini Souza
+        8. Keidi Bare
+       10. Sergi Darder
+       17. Martin Braithwaite
+       22. Aleix Vidal
+        9. Joselu
+
+   🔄 SUBSTITUTES IN (5):
+       24. Sergi Gómez
+       28. Simo Keddari
+       26. Omar El Hilali
+        6. Pol Lozano
+        7. Javi Puado
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 06.11.2022|LALIGA|13. Kolejka|Atlético Madryt|RCD Espanyol|Jan Oblak|José María Giménez|Stefan Savic|Reinildo Mandava|Nahuel Molina|Geoffrey Kondogbia|Rodrigo De Paul|Marcos Llorente|Yannick Carrasco|Antoine Griezmann|Álvaro Morata|Axel Witsel|Thomas Lemar|Ángel Correa|João Félix|Matheus Cunha|Benjamin Lecomte|Leandro Cabrera|Fernando Calero|Brian Oliván|Óscar Gil|Vini Souza|Keidi Bare|Sergi Darder|Martin Braithwaite|Aleix Vidal|Joselu|Sergi Gómez|Simo Keddari|Omar El Hilali|Pol Lozano|Javi Puado
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #45
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Betis Balompié
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 23.10.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 11. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-betis-balompié_atlético-madryt/aufstellung/spielbericht/3886364
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL BETIS BALOMPIÉ - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Rui Silva
+       16. Germán Pezzella
+       19. Luiz Felipe
+       15. Álex Moreno
+       23. Youssouf Sabaly
+        5. Guido Rodríguez
+       18. Andrés Guardado
+       14. William Carvalho
+       28. Rodri Sánchez
+       11. Luiz Henrique
+        9. Borja Iglesias
+
+   🔄 SUBSTITUTES IN (5):
+        6. Víctor Ruiz
+        8. Nabil Fekir
+       29. Juan Cruz
+       17. Joaquín
+       24. Aitor Ruibal
+
+✈️  ATLÉTICO MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. José María Giménez
+       15. Stefan Savic
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        4. Geoffrey Kondogbia
+       20. Axel Witsel
+       17. Saúl Ñíguez
+       10. Ángel Correa
+        8. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (4):
+        5. Rodrigo De Paul
+       21. Yannick Carrasco
+        7. João Félix
+        9. Matheus Cunha
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 23.10.2022|LALIGA|11. Kolejka|Real Betis Balompié|Atlético Madryt|Rui Silva|Germán Pezzella|Luiz Felipe|Álex Moreno|Youssouf Sabaly|Guido Rodríguez|Andrés Guardado|William Carvalho|Rodri Sánchez|Luiz Henrique|Borja Iglesias|Víctor Ruiz|Nabil Fekir|Juan Cruz|Joaquín|Aitor Ruibal|Jan Oblak|José María Giménez|Stefan Savic|Reinildo Mandava|Nahuel Molina|Geoffrey Kondogbia|Axel Witsel|Saúl Ñíguez|Ángel Correa|Antoine Griezmann|Álvaro Morata|Rodrigo De Paul|Yannick Carrasco|João Félix|Matheus Cunha
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #46
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  CA Osasuna
+📅 DATE:  niedz., 21.05.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 35. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_ca-osasuna/aufstellung/spielbericht/3886681
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Ivo Grbic
+       22. Mario Hermoso
+        2. José María Giménez
+       20. Axel Witsel
+        6. Koke
+       17. Saúl Ñíguez
+        5. Rodrigo De Paul
+       16. Nahuel Molina
+       21. Yannick Carrasco
+        8. Antoine Griezmann
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+        3. Sergio Reguilón
+        4. Geoffrey Kondogbia
+       24. Pablo Barrios
+       29. Carlos Martín
+       10. Ángel Correa
+
+✈️  CA OSASUNA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Sergio Herrera
+        5. David García
+       23. Aridane Hernández
+       20. Manu Sánchez
+       15. Rubén Peña
+        6. Lucas Torró
+        7. Jon Moncayola
+       22. Aimar Oroz
+        9. Chimy Ávila
+       14. Rubén García
+       17. Ante Budimir
+
+   🔄 SUBSTITUTES IN (5):
+        3. Juan Cruz
+       34. Iker Muñoz
+       19. Pablo Ibáñez
+       11. Kike Barja
+       18. Kike García
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 21.05.2023|LALIGA|35. Kolejka|Atlético Madryt|CA Osasuna|Ivo Grbic|Mario Hermoso|José María Giménez|Axel Witsel|Koke|Saúl Ñíguez|Rodrigo De Paul|Nahuel Molina|Yannick Carrasco|Antoine Griezmann|Álvaro Morata|Sergio Reguilón|Geoffrey Kondogbia|Pablo Barrios|Carlos Martín|Ángel Correa|Sergio Herrera|David García|Aridane Hernández|Manu Sánchez|Rubén Peña|Lucas Torró|Jon Moncayola|Aimar Oroz|Chimy Ávila|Rubén García|Ante Budimir|Juan Cruz|Iker Muñoz|Pablo Ibáñez|Kike Barja|Kike García
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #47
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  UD Almería
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 15.01.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 17. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/ud-almería_atlético-madryt/aufstellung/spielbericht/3886493
+
+----------------------------------------------------------------------------------------------------
+
+🏠 UD ALMERÍA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Fernando Martínez
+       19. Rodrigo Ely
+       21. Chumi
+       15. Sergio Akieme
+       17. Álex Pozo
+       23. Samú Costa
+        3. Gonzalo Melero
+        5. Lucas Robertone
+       10. Adrián Embarba
+       12. Léo Baptistão
+        9. El Bilal Touré
+
+   🔄 SUBSTITUTES IN (5):
+       24. Houboulang Mendes
+        4. Iñigo Eguaras
+       18. Arnau Puigmal
+        7. Largie Ramazani
+       16. Luis Suárez
+
+✈️  ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+       20. Axel Witsel
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        4. Geoffrey Kondogbia
+        6. Koke
+       14. Marcos Llorente
+       11. Thomas Lemar
+        8. Antoine Griezmann
+       10. Ángel Correa
+
+   🔄 SUBSTITUTES IN (5):
+       18. Felipe
+        3. Sergio Reguilón
+       17. Saúl Ñíguez
+       34. Pablo Barrios
+       19. Álvaro Morata
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 15.01.2023|LALIGA|17. Kolejka|UD Almería|Atlético Madryt|Fernando Martínez|Rodrigo Ely|Chumi|Sergio Akieme|Álex Pozo|Samú Costa|Gonzalo Melero|Lucas Robertone|Adrián Embarba|Léo Baptistão|El Bilal Touré|Houboulang Mendes|Iñigo Eguaras|Arnau Puigmal|Largie Ramazani|Luis Suárez|Jan Oblak|Mario Hermoso|Axel Witsel|Reinildo Mandava|Nahuel Molina|Geoffrey Kondogbia|Koke|Marcos Llorente|Thomas Lemar|Antoine Griezmann|Ángel Correa|Felipe|Sergio Reguilón|Saúl Ñíguez|Pablo Barrios|Álvaro Morata
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #48
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Celta de Vigo
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 12.02.2023
+🏆 COMP:  LALIGA
+🔢 ROUND: 21. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/celta-de-vigo_atlético-madryt/aufstellung/spielbericht/3886535
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CELTA DE VIGO - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iván Villar
+       15. Joseph Aidoo
+       14. Renato Tapia
+       17. Javi Galán
+        3. Óscar Mingueza
+        8. Fran Beltrán
+       24. Gabri Veiga
+       23. Luca de la Torre
+        7. Carles Pérez
+       10. Iago Aspas
+       18. Jørgen Strand Larsen
+
+   🔄 SUBSTITUTES IN (4):
+        5. Óscar Rodríguez
+       11. Franco Cervi
+       22. Haris Seferovic
+        9. Gonçalo Paciência
+
+✈️  ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       22. Mario Hermoso
+       15. Stefan Savic
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        6. Koke
+        5. Rodrigo De Paul
+       24. Pablo Barrios
+        8. Antoine Griezmann
+       14. Marcos Llorente
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (5):
+       20. Axel Witsel
+       17. Saúl Ñíguez
+       21. Yannick Carrasco
+       10. Ángel Correa
+        9. Memphis Depay
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 12.02.2023|LALIGA|21. Kolejka|Celta de Vigo|Atlético Madryt|Iván Villar|Joseph Aidoo|Renato Tapia|Javi Galán|Óscar Mingueza|Fran Beltrán|Gabri Veiga|Luca de la Torre|Carles Pérez|Iago Aspas|Jørgen Strand Larsen|Óscar Rodríguez|Franco Cervi|Haris Seferovic|Gonçalo Paciência|Jan Oblak|Mario Hermoso|Stefan Savic|Reinildo Mandava|Nahuel Molina|Koke|Rodrigo De Paul|Pablo Barrios|Antoine Griezmann|Marcos Llorente|Álvaro Morata|Axel Witsel|Saúl Ñíguez|Yannick Carrasco|Ángel Correa|Memphis Depay
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #49
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Cádiz CF
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  sob., 29.10.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 12. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/cádiz-cf_atlético-madryt/aufstellung/spielbericht/3886388
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CÁDIZ CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Conan Ledesma
+        5. Momo Mbaye
+        3. Fali
+       22. Alfonso Espino
+       23. Luis Hernández
+       24. Fede San Emeterio
+        8. Álex Fernández
+       14. Brian Ocampo
+       10. Théo Bongonda
+        7. Rubén Sobrino
+        9. Choco Lozano
+
+   🔄 SUBSTITUTES IN (5):
+       32. Víctor Chust
+       11. Iván Alejo
+        6. José Mari
+        4. Rubén Alcaraz
+       15. Lucas Pérez
+
+✈️  ATLÉTICO MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       15. Stefan Savic
+       20. Axel Witsel
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        4. Geoffrey Kondogbia
+       17. Saúl Ñíguez
+        5. Rodrigo De Paul
+       21. Yannick Carrasco
+       10. Ángel Correa
+       19. Álvaro Morata
+
+   🔄 SUBSTITUTES IN (4):
+       34. Pablo Barrios
+        8. Antoine Griezmann
+        7. João Félix
+        9. Matheus Cunha
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 29.10.2022|LALIGA|12. Kolejka|Cádiz CF|Atlético Madryt|Conan Ledesma|Momo Mbaye|Fali|Alfonso Espino|Luis Hernández|Fede San Emeterio|Álex Fernández|Brian Ocampo|Théo Bongonda|Rubén Sobrino|Choco Lozano|Víctor Chust|Iván Alejo|José Mari|Rubén Alcaraz|Lucas Pérez|Jan Oblak|Stefan Savic|Axel Witsel|Reinildo Mandava|Nahuel Molina|Geoffrey Kondogbia|Saúl Ñíguez|Rodrigo De Paul|Yannick Carrasco|Ángel Correa|Álvaro Morata|Pablo Barrios|Antoine Griezmann|João Félix|Matheus Cunha
+

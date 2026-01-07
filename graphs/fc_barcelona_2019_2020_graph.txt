@@ -1,0 +1,301 @@
+# Graph for Java/GraphStream
+# Nodes: 27
+# Edges: 295
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Marc-André ter Stegen | Clément Lenglet | 35 | 46 | 39
+EDGE Marc-André ter Stegen | Gerard Piqué | 43 | 46 | 45
+EDGE Marc-André ter Stegen | Jordi Alba | 30 | 46 | 33
+EDGE Marc-André ter Stegen | Nélson Semedo | 33 | 46 | 34
+EDGE Marc-André ter Stegen | Sergio Busquets | 36 | 46 | 39
+EDGE Marc-André ter Stegen | Ivan Rakitic | 19 | 46 | 22
+EDGE Marc-André ter Stegen | Frenkie de Jong | 33 | 46 | 36
+EDGE Marc-André ter Stegen | Martin Braithwaite | 4 | 46 | 4
+EDGE Marc-André ter Stegen | Antoine Griezmann | 37 | 46 | 41
+EDGE Marc-André ter Stegen | Lionel Messi | 39 | 46 | 42
+EDGE Marc-André ter Stegen | Arturo Vidal | 19 | 46 | 22
+EDGE Marc-André ter Stegen | Ansu Fati | 13 | 46 | 15
+EDGE Marc-André ter Stegen | Junior Firpo | 13 | 46 | 15
+EDGE Marc-André ter Stegen | Sergi Roberto | 30 | 46 | 34
+EDGE Marc-André ter Stegen | Arthur Melo | 17 | 46 | 17
+EDGE Marc-André ter Stegen | Carles Pérez | 5 | 46 | 7
+EDGE Marc-André ter Stegen | Luis Suárez | 26 | 46 | 29
+EDGE Marc-André ter Stegen | Samuel Umtiti | 12 | 46 | 14
+EDGE Marc-André ter Stegen | Moussa Wagué | 1 | 46 | 2
+EDGE Marc-André ter Stegen | Ousmane Dembélé | 5 | 46 | 5
+EDGE Marc-André ter Stegen | Rafinha | 2 | 46 | 2
+EDGE Marc-André ter Stegen | Riqui Puig | 4 | 46 | 6
+EDGE Marc-André ter Stegen | Carles Aleñá | 2 | 46 | 3
+EDGE Marc-André ter Stegen | Ronald Araujo | 1 | 46 | 2
+EDGE Marc-André ter Stegen | Jean-Clair Todibo | 1 | 46 | 2
+EDGE Clément Lenglet | Gerard Piqué | 33 | 39 | 45
+EDGE Clément Lenglet | Jordi Alba | 25 | 39 | 33
+EDGE Clément Lenglet | Nélson Semedo | 29 | 39 | 34
+EDGE Clément Lenglet | Sergio Busquets | 30 | 39 | 39
+EDGE Clément Lenglet | Ivan Rakitic | 19 | 39 | 22
+EDGE Clément Lenglet | Frenkie de Jong | 27 | 39 | 36
+EDGE Clément Lenglet | Martin Braithwaite | 3 | 39 | 4
+EDGE Clément Lenglet | Antoine Griezmann | 31 | 39 | 41
+EDGE Clément Lenglet | Lionel Messi | 30 | 39 | 42
+EDGE Clément Lenglet | Arturo Vidal | 14 | 39 | 22
+EDGE Clément Lenglet | Ansu Fati | 10 | 39 | 15
+EDGE Clément Lenglet | Junior Firpo | 12 | 39 | 15
+EDGE Clément Lenglet | Sergi Roberto | 26 | 39 | 34
+EDGE Clément Lenglet | Arthur Melo | 12 | 39 | 17
+EDGE Clément Lenglet | Carles Pérez | 7 | 39 | 7
+EDGE Clément Lenglet | Luis Suárez | 24 | 39 | 29
+EDGE Clément Lenglet | Rafinha | 2 | 39 | 2
+EDGE Clément Lenglet | Riqui Puig | 5 | 39 | 6
+EDGE Clément Lenglet | Neto | 4 | 39 | 5
+EDGE Clément Lenglet | Ronald Araujo | 1 | 39 | 2
+EDGE Clément Lenglet | Samuel Umtiti | 4 | 39 | 14
+EDGE Clément Lenglet | Ousmane Dembélé | 3 | 39 | 5
+EDGE Clément Lenglet | Carles Aleñá | 2 | 39 | 3
+EDGE Clément Lenglet | Jean-Clair Todibo | 1 | 39 | 2
+EDGE Clément Lenglet | Moussa Wagué | 1 | 39 | 2
+EDGE Gerard Piqué | Jordi Alba | 31 | 45 | 33
+EDGE Gerard Piqué | Nélson Semedo | 32 | 45 | 34
+EDGE Gerard Piqué | Sergio Busquets | 35 | 45 | 39
+EDGE Gerard Piqué | Ivan Rakitic | 19 | 45 | 22
+EDGE Gerard Piqué | Frenkie de Jong | 32 | 45 | 36
+EDGE Gerard Piqué | Martin Braithwaite | 4 | 45 | 4
+EDGE Gerard Piqué | Antoine Griezmann | 37 | 45 | 41
+EDGE Gerard Piqué | Lionel Messi | 38 | 45 | 42
+EDGE Gerard Piqué | Arturo Vidal | 19 | 45 | 22
+EDGE Gerard Piqué | Ansu Fati | 13 | 45 | 15
+EDGE Gerard Piqué | Junior Firpo | 11 | 45 | 15
+EDGE Gerard Piqué | Sergi Roberto | 29 | 45 | 34
+EDGE Gerard Piqué | Arthur Melo | 16 | 45 | 17
+EDGE Gerard Piqué | Carles Pérez | 5 | 45 | 7
+EDGE Gerard Piqué | Luis Suárez | 26 | 45 | 29
+EDGE Gerard Piqué | Samuel Umtiti | 10 | 45 | 14
+EDGE Gerard Piqué | Moussa Wagué | 1 | 45 | 2
+EDGE Gerard Piqué | Ousmane Dembélé | 4 | 45 | 5
+EDGE Gerard Piqué | Rafinha | 2 | 45 | 2
+EDGE Gerard Piqué | Riqui Puig | 4 | 45 | 6
+EDGE Gerard Piqué | Carles Aleñá | 2 | 45 | 3
+EDGE Gerard Piqué | Neto | 2 | 45 | 5
+EDGE Gerard Piqué | Ronald Araujo | 1 | 45 | 2
+EDGE Gerard Piqué | Jean-Clair Todibo | 1 | 45 | 2
+EDGE Jordi Alba | Nélson Semedo | 23 | 33 | 34
+EDGE Jordi Alba | Sergio Busquets | 29 | 33 | 39
+EDGE Jordi Alba | Ivan Rakitic | 12 | 33 | 22
+EDGE Jordi Alba | Frenkie de Jong | 23 | 33 | 36
+EDGE Jordi Alba | Martin Braithwaite | 3 | 33 | 4
+EDGE Jordi Alba | Antoine Griezmann | 26 | 33 | 41
+EDGE Jordi Alba | Lionel Messi | 28 | 33 | 42
+EDGE Jordi Alba | Arturo Vidal | 16 | 33 | 22
+EDGE Jordi Alba | Ansu Fati | 11 | 33 | 15
+EDGE Jordi Alba | Sergi Roberto | 20 | 33 | 34
+EDGE Jordi Alba | Luis Suárez | 19 | 33 | 29
+EDGE Jordi Alba | Arthur Melo | 8 | 33 | 17
+EDGE Jordi Alba | Samuel Umtiti | 8 | 33 | 14
+EDGE Jordi Alba | Rafinha | 2 | 33 | 2
+EDGE Jordi Alba | Carles Pérez | 3 | 33 | 7
+EDGE Jordi Alba | Riqui Puig | 4 | 33 | 6
+EDGE Jordi Alba | Carles Aleñá | 2 | 33 | 3
+EDGE Jordi Alba | Neto | 3 | 33 | 5
+EDGE Jordi Alba | Ronald Araujo | 2 | 33 | 2
+EDGE Jordi Alba | Ousmane Dembélé | 2 | 33 | 5
+EDGE Nélson Semedo | Sergio Busquets | 24 | 34 | 39
+EDGE Nélson Semedo | Ivan Rakitic | 14 | 34 | 22
+EDGE Nélson Semedo | Frenkie de Jong | 24 | 34 | 36
+EDGE Nélson Semedo | Martin Braithwaite | 3 | 34 | 4
+EDGE Nélson Semedo | Antoine Griezmann | 26 | 34 | 41
+EDGE Nélson Semedo | Lionel Messi | 27 | 34 | 42
+EDGE Nélson Semedo | Arturo Vidal | 16 | 34 | 22
+EDGE Nélson Semedo | Ansu Fati | 10 | 34 | 15
+EDGE Nélson Semedo | Samuel Umtiti | 5 | 34 | 14
+EDGE Nélson Semedo | Junior Firpo | 8 | 34 | 15
+EDGE Nélson Semedo | Arthur Melo | 11 | 34 | 17
+EDGE Nélson Semedo | Sergi Roberto | 19 | 34 | 34
+EDGE Nélson Semedo | Luis Suárez | 18 | 34 | 29
+EDGE Nélson Semedo | Rafinha | 2 | 34 | 2
+EDGE Nélson Semedo | Carles Pérez | 5 | 34 | 7
+EDGE Nélson Semedo | Riqui Puig | 5 | 34 | 6
+EDGE Nélson Semedo | Neto | 1 | 34 | 5
+EDGE Nélson Semedo | Ousmane Dembélé | 3 | 34 | 5
+EDGE Nélson Semedo | Carles Aleñá | 1 | 34 | 3
+EDGE Nélson Semedo | Jean-Clair Todibo | 1 | 34 | 2
+EDGE Sergio Busquets | Ivan Rakitic | 14 | 39 | 22
+EDGE Sergio Busquets | Frenkie de Jong | 27 | 39 | 36
+EDGE Sergio Busquets | Martin Braithwaite | 3 | 39 | 4
+EDGE Sergio Busquets | Antoine Griezmann | 32 | 39 | 41
+EDGE Sergio Busquets | Lionel Messi | 34 | 39 | 42
+EDGE Sergio Busquets | Arturo Vidal | 18 | 39 | 22
+EDGE Sergio Busquets | Ansu Fati | 11 | 39 | 15
+EDGE Sergio Busquets | Junior Firpo | 9 | 39 | 15
+EDGE Sergio Busquets | Sergi Roberto | 24 | 39 | 34
+EDGE Sergio Busquets | Arthur Melo | 13 | 39 | 17
+EDGE Sergio Busquets | Carles Pérez | 4 | 39 | 7
+EDGE Sergio Busquets | Luis Suárez | 21 | 39 | 29
+EDGE Sergio Busquets | Samuel Umtiti | 11 | 39 | 14
+EDGE Sergio Busquets | Moussa Wagué | 1 | 39 | 2
+EDGE Sergio Busquets | Ousmane Dembélé | 3 | 39 | 5
+EDGE Sergio Busquets | Rafinha | 2 | 39 | 2
+EDGE Sergio Busquets | Riqui Puig | 3 | 39 | 6
+EDGE Sergio Busquets | Carles Aleñá | 1 | 39 | 3
+EDGE Sergio Busquets | Neto | 3 | 39 | 5
+EDGE Sergio Busquets | Ronald Araujo | 2 | 39 | 2
+EDGE Ivan Rakitic | Frenkie de Jong | 13 | 22 | 36
+EDGE Ivan Rakitic | Martin Braithwaite | 3 | 22 | 4
+EDGE Ivan Rakitic | Antoine Griezmann | 16 | 22 | 41
+EDGE Ivan Rakitic | Lionel Messi | 19 | 22 | 42
+EDGE Ivan Rakitic | Junior Firpo | 10 | 22 | 15
+EDGE Ivan Rakitic | Sergi Roberto | 14 | 22 | 34
+EDGE Ivan Rakitic | Arthur Melo | 3 | 22 | 17
+EDGE Ivan Rakitic | Ansu Fati | 7 | 22 | 15
+EDGE Ivan Rakitic | Luis Suárez | 12 | 22 | 29
+EDGE Ivan Rakitic | Arturo Vidal | 7 | 22 | 22
+EDGE Ivan Rakitic | Samuel Umtiti | 5 | 22 | 14
+EDGE Ivan Rakitic | Riqui Puig | 4 | 22 | 6
+EDGE Ivan Rakitic | Ousmane Dembélé | 1 | 22 | 5
+EDGE Ivan Rakitic | Neto | 3 | 22 | 5
+EDGE Ivan Rakitic | Carles Pérez | 3 | 22 | 7
+EDGE Ivan Rakitic | Jean-Clair Todibo | 1 | 22 | 2
+EDGE Ivan Rakitic | Carles Aleñá | 1 | 22 | 3
+EDGE Ivan Rakitic | Moussa Wagué | 1 | 22 | 2
+EDGE Frenkie de Jong | Martin Braithwaite | 2 | 36 | 4
+EDGE Frenkie de Jong | Antoine Griezmann | 31 | 36 | 41
+EDGE Frenkie de Jong | Lionel Messi | 28 | 36 | 42
+EDGE Frenkie de Jong | Arturo Vidal | 11 | 36 | 22
+EDGE Frenkie de Jong | Ansu Fati | 10 | 36 | 15
+EDGE Frenkie de Jong | Junior Firpo | 10 | 36 | 15
+EDGE Frenkie de Jong | Sergi Roberto | 25 | 36 | 34
+EDGE Frenkie de Jong | Arthur Melo | 13 | 36 | 17
+EDGE Frenkie de Jong | Carles Pérez | 6 | 36 | 7
+EDGE Frenkie de Jong | Luis Suárez | 20 | 36 | 29
+EDGE Frenkie de Jong | Samuel Umtiti | 10 | 36 | 14
+EDGE Frenkie de Jong | Moussa Wagué | 1 | 36 | 2
+EDGE Frenkie de Jong | Ousmane Dembélé | 5 | 36 | 5
+EDGE Frenkie de Jong | Rafinha | 2 | 36 | 2
+EDGE Frenkie de Jong | Neto | 3 | 36 | 5
+EDGE Frenkie de Jong | Riqui Puig | 1 | 36 | 6
+EDGE Frenkie de Jong | Carles Aleñá | 1 | 36 | 3
+EDGE Frenkie de Jong | Ronald Araujo | 1 | 36 | 2
+EDGE Frenkie de Jong | Jean-Clair Todibo | 1 | 36 | 2
+EDGE Martin Braithwaite | Antoine Griezmann | 2 | 4 | 41
+EDGE Martin Braithwaite | Lionel Messi | 4 | 4 | 42
+EDGE Martin Braithwaite | Arturo Vidal | 2 | 4 | 22
+EDGE Martin Braithwaite | Luis Suárez | 1 | 4 | 29
+EDGE Martin Braithwaite | Junior Firpo | 1 | 4 | 15
+EDGE Martin Braithwaite | Sergi Roberto | 2 | 4 | 34
+EDGE Martin Braithwaite | Riqui Puig | 1 | 4 | 6
+EDGE Martin Braithwaite | Ansu Fati | 1 | 4 | 15
+EDGE Martin Braithwaite | Ronald Araujo | 1 | 4 | 2
+EDGE Antoine Griezmann | Lionel Messi | 32 | 41 | 42
+EDGE Antoine Griezmann | Arturo Vidal | 15 | 41 | 22
+EDGE Antoine Griezmann | Ansu Fati | 10 | 41 | 15
+EDGE Antoine Griezmann | Junior Firpo | 13 | 41 | 15
+EDGE Antoine Griezmann | Sergi Roberto | 28 | 41 | 34
+EDGE Antoine Griezmann | Arthur Melo | 16 | 41 | 17
+EDGE Antoine Griezmann | Carles Pérez | 7 | 41 | 7
+EDGE Antoine Griezmann | Luis Suárez | 21 | 41 | 29
+EDGE Antoine Griezmann | Samuel Umtiti | 12 | 41 | 14
+EDGE Antoine Griezmann | Moussa Wagué | 2 | 41 | 2
+EDGE Antoine Griezmann | Ousmane Dembélé | 3 | 41 | 5
+EDGE Antoine Griezmann | Rafinha | 2 | 41 | 2
+EDGE Antoine Griezmann | Riqui Puig | 2 | 41 | 6
+EDGE Antoine Griezmann | Carles Aleñá | 3 | 41 | 3
+EDGE Antoine Griezmann | Neto | 4 | 41 | 5
+EDGE Antoine Griezmann | Ronald Araujo | 1 | 41 | 2
+EDGE Antoine Griezmann | Jean-Clair Todibo | 1 | 41 | 2
+EDGE Lionel Messi | Arturo Vidal | 21 | 42 | 22
+EDGE Lionel Messi | Ansu Fati | 12 | 42 | 15
+EDGE Lionel Messi | Junior Firpo | 11 | 42 | 15
+EDGE Lionel Messi | Sergi Roberto | 28 | 42 | 34
+EDGE Lionel Messi | Arthur Melo | 14 | 42 | 17
+EDGE Lionel Messi | Samuel Umtiti | 13 | 42 | 14
+EDGE Lionel Messi | Moussa Wagué | 1 | 42 | 2
+EDGE Lionel Messi | Ousmane Dembélé | 4 | 42 | 5
+EDGE Lionel Messi | Luis Suárez | 25 | 42 | 29
+EDGE Lionel Messi | Riqui Puig | 5 | 42 | 6
+EDGE Lionel Messi | Carles Aleñá | 1 | 42 | 3
+EDGE Lionel Messi | Neto | 3 | 42 | 5
+EDGE Lionel Messi | Ronald Araujo | 2 | 42 | 2
+EDGE Lionel Messi | Jean-Clair Todibo | 1 | 42 | 2
+EDGE Arturo Vidal | Ansu Fati | 5 | 22 | 15
+EDGE Arturo Vidal | Sergi Roberto | 11 | 22 | 34
+EDGE Arturo Vidal | Luis Suárez | 12 | 22 | 29
+EDGE Arturo Vidal | Riqui Puig | 4 | 22 | 6
+EDGE Arturo Vidal | Junior Firpo | 4 | 22 | 15
+EDGE Arturo Vidal | Arthur Melo | 5 | 22 | 17
+EDGE Arturo Vidal | Samuel Umtiti | 8 | 22 | 14
+EDGE Arturo Vidal | Carles Aleñá | 2 | 22 | 3
+EDGE Arturo Vidal | Neto | 3 | 22 | 5
+EDGE Arturo Vidal | Ronald Araujo | 2 | 22 | 2
+EDGE Arturo Vidal | Ousmane Dembélé | 2 | 22 | 5
+EDGE Arturo Vidal | Jean-Clair Todibo | 2 | 22 | 2
+EDGE Arturo Vidal | Moussa Wagué | 1 | 22 | 2
+EDGE Arturo Vidal | Carles Pérez | 1 | 22 | 7
+EDGE Ansu Fati | Junior Firpo | 4 | 15 | 15
+EDGE Ansu Fati | Sergi Roberto | 9 | 15 | 34
+EDGE Ansu Fati | Arthur Melo | 6 | 15 | 17
+EDGE Ansu Fati | Samuel Umtiti | 5 | 15 | 14
+EDGE Ansu Fati | Luis Suárez | 4 | 15 | 29
+EDGE Ansu Fati | Carles Pérez | 2 | 15 | 7
+EDGE Ansu Fati | Neto | 2 | 15 | 5
+EDGE Ansu Fati | Ronald Araujo | 1 | 15 | 2
+EDGE Ansu Fati | Riqui Puig | 4 | 15 | 6
+EDGE Junior Firpo | Sergi Roberto | 11 | 15 | 34
+EDGE Junior Firpo | Arthur Melo | 6 | 15 | 17
+EDGE Junior Firpo | Carles Pérez | 4 | 15 | 7
+EDGE Junior Firpo | Luis Suárez | 7 | 15 | 29
+EDGE Junior Firpo | Samuel Umtiti | 6 | 15 | 14
+EDGE Junior Firpo | Moussa Wagué | 2 | 15 | 2
+EDGE Junior Firpo | Ousmane Dembélé | 2 | 15 | 5
+EDGE Junior Firpo | Riqui Puig | 2 | 15 | 6
+EDGE Junior Firpo | Neto | 2 | 15 | 5
+EDGE Junior Firpo | Jean-Clair Todibo | 1 | 15 | 2
+EDGE Junior Firpo | Carles Aleñá | 1 | 15 | 3
+EDGE Sergi Roberto | Arthur Melo | 11 | 34 | 17
+EDGE Sergi Roberto | Carles Pérez | 5 | 34 | 7
+EDGE Sergi Roberto | Luis Suárez | 21 | 34 | 29
+EDGE Sergi Roberto | Samuel Umtiti | 9 | 34 | 14
+EDGE Sergi Roberto | Rafinha | 2 | 34 | 2
+EDGE Sergi Roberto | Riqui Puig | 4 | 34 | 6
+EDGE Sergi Roberto | Carles Aleñá | 2 | 34 | 3
+EDGE Sergi Roberto | Neto | 4 | 34 | 5
+EDGE Sergi Roberto | Ronald Araujo | 2 | 34 | 2
+EDGE Sergi Roberto | Ousmane Dembélé | 3 | 34 | 5
+EDGE Sergi Roberto | Jean-Clair Todibo | 1 | 34 | 2
+EDGE Arthur Melo | Carles Pérez | 2 | 17 | 7
+EDGE Arthur Melo | Luis Suárez | 10 | 17 | 29
+EDGE Arthur Melo | Samuel Umtiti | 5 | 17 | 14
+EDGE Arthur Melo | Jean-Clair Todibo | 1 | 17 | 2
+EDGE Arthur Melo | Ousmane Dembélé | 1 | 17 | 5
+EDGE Carles Pérez | Luis Suárez | 2 | 7 | 29
+EDGE Carles Pérez | Rafinha | 2 | 7 | 2
+EDGE Carles Pérez | Neto | 2 | 7 | 5
+EDGE Carles Pérez | Riqui Puig | 1 | 7 | 6
+EDGE Carles Pérez | Samuel Umtiti | 1 | 7 | 14
+EDGE Carles Pérez | Jean-Clair Todibo | 1 | 7 | 2
+EDGE Carles Pérez | Carles Aleñá | 1 | 7 | 3
+EDGE Carles Pérez | Moussa Wagué | 1 | 7 | 2
+EDGE Luis Suárez | Samuel Umtiti | 6 | 29 | 14
+EDGE Luis Suárez | Moussa Wagué | 1 | 29 | 2
+EDGE Luis Suárez | Ousmane Dembélé | 4 | 29 | 5
+EDGE Luis Suárez | Carles Aleñá | 2 | 29 | 3
+EDGE Luis Suárez | Neto | 3 | 29 | 5
+EDGE Luis Suárez | Ronald Araujo | 1 | 29 | 2
+EDGE Luis Suárez | Riqui Puig | 3 | 29 | 6
+EDGE Luis Suárez | Jean-Clair Todibo | 1 | 29 | 2
+EDGE Samuel Umtiti | Moussa Wagué | 2 | 14 | 2
+EDGE Samuel Umtiti | Ousmane Dembélé | 2 | 14 | 5
+EDGE Samuel Umtiti | Carles Aleñá | 2 | 14 | 3
+EDGE Samuel Umtiti | Riqui Puig | 1 | 14 | 6
+EDGE Samuel Umtiti | Neto | 2 | 14 | 5
+EDGE Samuel Umtiti | Jean-Clair Todibo | 1 | 14 | 2
+EDGE Moussa Wagué | Ousmane Dembélé | 1 | 2 | 5
+EDGE Moussa Wagué | Neto | 1 | 2 | 5
+EDGE Moussa Wagué | Jean-Clair Todibo | 1 | 2 | 2
+EDGE Moussa Wagué | Carles Aleñá | 1 | 2 | 3
+EDGE Ousmane Dembélé | Carles Aleñá | 1 | 5 | 3
+EDGE Ousmane Dembélé | Jean-Clair Todibo | 1 | 5 | 2
+EDGE Riqui Puig | Neto | 2 | 6 | 5
+EDGE Riqui Puig | Ronald Araujo | 1 | 6 | 2
+EDGE Carles Aleñá | Neto | 1 | 3 | 5
+EDGE Carles Aleñá | Jean-Clair Todibo | 1 | 3 | 2
+EDGE Neto | Ronald Araujo | 1 | 5 | 2
+EDGE Neto | Jean-Clair Todibo | 1 | 5 | 2

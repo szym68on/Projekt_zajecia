@@ -1,0 +1,193 @@
+# Team: Athletic Bilbao
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 1125489 | niedz., 11.03.2012 | CA Osasuna
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Iñigo Pérez, Iker Muniain, Markel Susaeta, Gaizka Toquero
+
+MATCH: 1125353 | niedz., 27.11.2011 | Granada CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Óscar de Marcos, Ander Iturraspe, Markel Susaeta, Ander Herrera, Iker Muniain, Fernando Llorente
+
+MATCH: 1125467 | niedz., 26.02.2012 | Villarreal CF
+PLAYERS: Gorka Iraizoz, Javi Martínez, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Iñigo Pérez, David López, Markel Susaeta, Ander Herrera, Gaizka Toquero
+
+MATCH: 1125315 | czw., 27.10.2011 | Atlético Madryt
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Borja Ekiza, Jon Aurtenetxe, Andoni Iraola, Javi Martínez, Ander Iturraspe, Óscar de Marcos, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125277 | sob., 24.09.2011 | Villarreal CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Carlos Gurpegui, Borja Ekiza, Jon Aurtenetxe, Andoni Iraola, Javi Martínez, Markel Susaeta, Igor Gabilondo, Iker Muniain, Fernando Llorente
+
+MATCH: 1125305 | niedz., 23.10.2011 | Valencia CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Borja Ekiza, Jon Aurtenetxe, Andoni Iraola, Javi Martínez, Ander Iturraspe, Óscar de Marcos, Markel Susaeta, Iker Muniain, Fernando Llorente
+
+MATCH: 1125505 | śr., 21.03.2012 | Atlético Madryt
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Óscar de Marcos, Ander Iturraspe, Iñigo Pérez, Ander Herrera, Iker Muniain, Markel Susaeta, Gaizka Toquero
+
+MATCH: 1125324 | niedz., 30.10.2011 | Sporting Gijón
+PLAYERS: Gorka Iraizoz, Borja Ekiza, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Ander Herrera, Óscar de Marcos, Markel Susaeta, Iker Muniain, Fernando Llorente
+
+MATCH: 1182348 | czw., 23.02.2012 | Lokomotiv Moskau
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Óscar de Marcos, Andoni Iraola, Ander Iturraspe, Ander Herrera, Iker Muniain, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 1125382 | sob., 17.12.2011 | Real Zaragoza
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Óscar de Marcos, Ander Iturraspe, Iñigo Pérez, Markel Susaeta, Ander Herrera, Iker Muniain, Gaizka Toquero
+
+MATCH: 1158641 | czw., 08.12.2011 | Real Oviedo
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Gaizka Toquero
+
+MATCH: 1125362 | niedz., 04.12.2011 | RCD Mallorca
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Ander Herrera, Markel Susaeta, Óscar de Marcos, Iker Muniain, Gaizka Toquero
+
+MATCH: 1125572 | niedz., 29.04.2012 | Real Zaragoza
+PLAYERS: Gorka Iraizoz, Borja Ekiza, Mikel San José, Iñigo Pérez, Andoni Iraola, Óscar de Marcos, Ander Iturraspe, Igor Gabilondo, Ander Herrera, Ibai Gómez, Gaizka Toquero
+
+MATCH: 1125562 | niedz., 22.04.2012 | Racing Santander
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Óscar de Marcos, Ander Iturraspe, Markel Susaeta, Ander Herrera, Ibai Gómez, Gaizka Toquero
+
+MATCH: 1125239 | niedz., 28.08.2011 | Rayo Vallecano
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Óscar de Marcos, Carlos Gurpegui, Javi Martínez, Ander Iturraspe, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125533 | śr., 11.04.2012 | Granada CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1187765 | czw., 15.03.2012 | Manchester United
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1176714 | czw., 12.01.2012 | Albacete Balompié
+PLAYERS: Gorka Iraizoz, Javi Martínez, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Óscar de Marcos, Ander Iturraspe, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125457 | niedz., 19.02.2012 | Málaga CF
+PLAYERS: Gorka Iraizoz, Borja Ekiza, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Óscar de Marcos, Ander Iturraspe, Ander Herrera, Iker Muniain, Markel Susaeta, Gaizka Toquero
+
+MATCH: 1134009 | sob., 31.03.2012 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Borja Ekiza, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Iñigo Pérez, Ibai Gómez, Markel Susaeta, Gaizka Toquero
+
+MATCH: 1125413 | śr., 02.05.2012 | Real Madryt
+PLAYERS: Gorka Iraizoz, Javi Martínez, Mikel San José, Jon Aurtenetxe, Borja Ekiza, Óscar de Marcos, Iñigo Pérez, Ibai Gómez, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 1193036 | czw., 05.04.2012 | FC Schalke 04
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Borja Ekiza, Jon Aurtenetxe, Andoni Iraola, Javi Martínez, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1145874 | czw., 03.11.2011 | Red Bull Salzburg
+PLAYERS: Gorka Iraizoz, Javi Martínez, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 2208246 | śr., 09.05.2012 | Atlético Madryt
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Ander Herrera, Óscar de Marcos, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125286 | niedz., 02.10.2011 | Real Sociedad
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Carlos Gurpegui, Óscar de Marcos, Igor Gabilondo, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125393 | niedz., 08.01.2012 | Getafe CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Óscar de Marcos, Ander Iturraspe, Markel Susaeta, Ander Herrera, Iker Muniain, Gaizka Toquero
+
+MATCH: 1176706 | wt., 03.01.2012 | Albacete Balompié
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Gaizka Toquero
+
+MATCH: 1125476 | niedz., 04.03.2012 | Real Sociedad
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Javi Martínez, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1146161 | czw., 01.12.2011 | Slovan Bratislava
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Óscar de Marcos, Ander Iturraspe, Iñigo Pérez, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1184511 | pt., 25.05.2012 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Borja Ekiza, Jon Aurtenetxe, Andoni Iraola, Javi Martínez, Óscar de Marcos, Iker Muniain, Ibai Gómez, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125429 | sob., 28.01.2012 | Rayo Vallecano
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Iñigo Pérez, David López, Markel Susaeta, Gaizka Toquero, Fernando Llorente
+
+MATCH: 1145852 | czw., 20.10.2011 | Red Bull Salzburg
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Borja Ekiza, Jon Aurtenetxe, Andoni Iraola, Javi Martínez, Ander Iturraspe, Óscar de Marcos, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125544 | niedz., 25.03.2012 | Sporting Gijón
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125258 | niedz., 18.09.2011 | Real Betis Balompié
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Óscar de Marcos, Andoni Iraola, Carlos Gurpegui, Ander Iturraspe, Igor Gabilondo, Markel Susaeta, Iker Muniain, Fernando Llorente
+
+MATCH: 1125523 | niedz., 08.04.2012 | Sevilla FC
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Borja Ekiza, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1146219 | śr., 14.12.2011 | FC Paris Saint-Germain
+PLAYERS: Raúl Fernández, Borja Ekiza, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Iñigo Pérez, David López, Igor Gabilondo, Ibai Gómez, Gaizka Toquero
+
+MATCH: 1125593 | niedz., 13.05.2012 | Levante UD
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Borja Ekiza, Óscar de Marcos, Andoni Iraola, Ander Iturraspe, Ander Herrera, Markel Susaeta, Ibai Gómez, Iker Muniain, Gaizka Toquero
+
+MATCH: 1182747 | wt., 31.01.2012 | CD Mirandés
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1158648 | śr., 21.12.2011 | Real Oviedo
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Iñigo Pérez, Ander Herrera, Iker Muniain, Markel Susaeta, Gaizka Toquero
+
+MATCH: 1144544 | czw., 15.09.2011 | Slovan Bratislava
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Carlos Gurpegui, Óscar de Marcos, Andoni Iraola, Javi Martínez, Ander Iturraspe, Iker Muniain, Igor Gabilondo, Markel Susaeta, Fernando Llorente
+
+MATCH: 1135794 | czw., 18.08.2011 | Trabzonspor
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Mikel San José, Fernando Amorebieta, Ander Iturraspe, Javi Martínez, Óscar de Marcos, Igor Gabilondo, Ander Herrera, Iker Muniain, Fernando Llorente
+
+MATCH: 1178300 | śr., 18.01.2012 | RCD Mallorca
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125267 | śr., 21.09.2011 | Málaga CF
+PLAYERS: Gorka Iraizoz, Carlos Gurpegui, Borja Ekiza, Javi Martínez, Ander Iturraspe, Andoni Iraola, Iker Muniain, Óscar de Marcos, Igor Gabilondo, Markel Susaeta, Fernando Llorente
+
+MATCH: 1178304 | śr., 25.01.2012 | RCD Mallorca
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125343 | niedz., 20.11.2011 | Sevilla FC
+PLAYERS: Gorka Iraizoz, Jon Aurtenetxe, Javi Martínez, Mikel San José, Óscar de Marcos, Andoni Iraola, Iñigo Pérez, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125583 | sob., 05.05.2012 | Getafe CF
+PLAYERS: Raúl Fernández, Borja Ekiza, Mikel San José, Jon Aurtenetxe, Jonás Ramalho, Iñigo Pérez, Ander Herrera, David López, Igor Gabilondo, Ibai Gómez, Gaizka Toquero
+
+MATCH: 1182332 | czw., 16.02.2012 | Lokomotiv Moskau
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Óscar de Marcos, Ander Iturraspe, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1193032 | czw., 29.03.2012 | FC Schalke 04
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125552 | niedz., 15.04.2012 | RCD Mallorca
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Óscar de Marcos, Ander Iturraspe, Markel Susaeta, Ander Herrera, Ibai Gómez, Fernando Llorente
+
+MATCH: 1125062 | niedz., 22.01.2012 | Real Madryt
+PLAYERS: Gorka Iraizoz, Javi Martínez, Mikel San José, Fernando Amorebieta, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125495 | niedz., 18.03.2012 | Valencia CF
+PLAYERS: Gorka Iraizoz, Javi Martínez, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iñigo Pérez, Iker Muniain, Markel Susaeta
+
+MATCH: 2206126 | czw., 19.04.2012 | Sporting CP
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Borja Ekiza, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125438 | sob., 04.02.2012 | RCD Espanyol
+PLAYERS: Gorka Iraizoz, Javi Martínez, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Iñigo Pérez, Iker Muniain, David López, Fernando Llorente
+
+MATCH: 1125334 | niedz., 06.11.2011 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Óscar de Marcos, Ander Iturraspe, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125248 | niedz., 11.09.2011 | RCD Espanyol
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Mikel San José, Iñigo Pérez, Carlos Gurpegui, Javi Martínez, Óscar de Marcos, Igor Gabilondo, Ander Herrera, Iker Muniain, Fernando Llorente
+
+MATCH: 1182749 | wt., 07.02.2012 | CD Mirandés
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125372 | niedz., 11.12.2011 | Racing Santander
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Óscar de Marcos, Ander Iturraspe, Ander Herrera, Iker Muniain, Markel Susaeta, Gaizka Toquero
+
+MATCH: 2206128 | czw., 26.04.2012 | Sporting CP
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Ander Herrera, Iker Muniain, Ibai Gómez, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125403 | niedz., 15.01.2012 | Levante UD
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Óscar de Marcos, Ander Iturraspe, Markel Susaeta, Ander Herrera, Iker Muniain, Fernando Llorente
+
+MATCH: 1145831 | czw., 29.09.2011 | FC Paris Saint-Germain
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Borja Ekiza, Jon Aurtenetxe, Andoni Iraola, Javi Martínez, Óscar de Marcos, Iker Muniain, Igor Gabilondo, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125299 | pon., 17.10.2011 | CA Osasuna
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Borja Ekiza, Óscar de Marcos, Andoni Iraola, Javi Martínez, Ander Iturraspe, Igor Gabilondo, Markel Susaeta, Iker Muniain, Fernando Llorente
+
+MATCH: 1187757 | czw., 08.03.2012 | Manchester United
+PLAYERS: Gorka Iraizoz, Javi Martínez, Mikel San José, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Óscar de Marcos, Ander Herrera, Iker Muniain, Markel Susaeta, Fernando Llorente
+
+MATCH: 1125448 | sob., 11.02.2012 | Real Betis Balompié
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Javi Martínez, Jon Aurtenetxe, Andoni Iraola, Ander Iturraspe, Iñigo Pérez, Markel Susaeta, Óscar de Marcos, Iker Muniain, Fernando Llorente
+

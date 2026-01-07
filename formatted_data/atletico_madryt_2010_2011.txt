@@ -1,0 +1,157 @@
+# Team: Atlético Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 1036198 | sob., 27.11.2010 | RCD Espanyol
+PLAYERS: David de Gea, Diego Godín, Luis Amaranto Perea, Filipe Luís, Tomas Ujfalusi, Mario Suárez, Tiago Mendes, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1053792 | czw., 30.09.2010 | Bayer 04 Leverkusen
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Filipe Luís, Tomas Ujfalusi, Paulo Assunção, Raúl García, Simão, José Antonio Reyes, Diego Forlán, Diego Costa
+
+MATCH: 1064194 | śr., 22.12.2010 | RCD Espanyol
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Filipe Luís, Tomas Ujfalusi, Paulo Assunção, Tiago Mendes, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1036078 | sob., 11.09.2010 | Athletic Bilbao
+PLAYERS: David de Gea, Álvaro Domínguez, Diego Godín, Antonio López, Luis Amaranto Perea, Paulo Assunção, Raúl García, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1036096 | śr., 22.09.2010 | Valencia CF
+PLAYERS: David de Gea, Álvaro Domínguez, Diego Godín, Antonio López, Luis Amaranto Perea, Paulo Assunção, Raúl García, Simão, José Antonio Reyes, Diego Forlán, Diego Costa
+
+MATCH: 1036188 | niedz., 21.11.2010 | Real Sociedad
+PLAYERS: David de Gea, Diego Godín, Tomas Ujfalusi, Antonio López, Luis Amaranto Perea, Mario Suárez, Tiago Mendes, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1036296 | sob., 12.02.2011 | Valencia CF
+PLAYERS: David de Gea, Diego Godín, Luis Amaranto Perea, Antonio López, Juan Valera, Tiago Mendes, Raúl García, Fran Mérida, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1036261 | pon., 17.01.2011 | RCD Mallorca
+PLAYERS: David de Gea, Diego Godín, Tomas Ujfalusi, Antonio López, Juan Valera, Paulo Assunção, Tiago Mendes, Fran Mérida, Elias, José Antonio Reyes, Diego Forlán
+
+MATCH: 1036325 | śr., 02.03.2011 | Getafe CF
+PLAYERS: David de Gea, Diego Godín, Luis Amaranto Perea, Antonio López, Juan Valera, Tiago Mendes, Raúl García, Koke, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1053842 | śr., 01.12.2010 | Aris Saloniki
+PLAYERS: David de Gea, Álvaro Domínguez, Diego Godín, Antonio López, Tomas Ujfalusi, Mario Suárez, Tiago Mendes, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1036378 | niedz., 10.04.2011 | Real Sociedad
+PLAYERS: David de Gea, Diego Godín, Luis Amaranto Perea, Filipe Luís, Tomas Ujfalusi, Mario Suárez, Tiago Mendes, Koke, José Antonio Reyes, Sergio Agüero, Diego Costa
+
+MATCH: 1036156 | niedz., 31.10.2010 | UD Almería
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Filipe Luís, Tomas Ujfalusi, Paulo Assunção, Tiago Mendes, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1036167 | niedz., 07.11.2010 | Real Madryt
+PLAYERS: David de Gea, Álvaro Domínguez, Tomas Ujfalusi, Filipe Luís, Juan Valera, Mario Suárez, Tiago Mendes, Simão, José Antonio Reyes, Sergio Agüero, Diego Forlán
+
+MATCH: 1036366 | niedz., 03.04.2011 | CA Osasuna
+PLAYERS: David de Gea, Diego Godín, Luis Amaranto Perea, Antonio López, Tomas Ujfalusi, Mario Suárez, Tiago Mendes, Juanfran Torres, Raúl García, José Antonio Reyes, Diego Costa
+
+MATCH: 1036407 | sob., 30.04.2011 | Deportivo de La Coruña
+PLAYERS: David de Gea, Diego Godín, Luis Amaranto Perea, Filipe Luís, Tomas Ujfalusi, Mario Suárez, Tiago Mendes, Elias, José Antonio Reyes, Sergio Agüero, Diego Costa
+
+MATCH: 1036209 | sob., 04.12.2010 | Levante UD
+PLAYERS: David de Gea, Diego Godín, Luis Amaranto Perea, Antonio López, Tomas Ujfalusi, Paulo Assunção, Raúl García, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1053768 | czw., 16.09.2010 | Aris Saloniki
+PLAYERS: David de Gea, Álvaro Domínguez, Diego Godín, Antonio López, Juan Valera, Ignacio Camacho, Raúl García, Tiago Mendes, Simão, Fran Mérida, Diego Forlán
+
+MATCH: 1036135 | sob., 16.10.2010 | Getafe CF
+PLAYERS: David de Gea, Tomas Ujfalusi, Luis Amaranto Perea, Filipe Luís, Juan Valera, Paulo Assunção, Tiago Mendes, Fran Mérida, Simão, José Antonio Reyes, Diego Costa
+
+MATCH: 1055150 | śr., 27.10.2010 | Universidad de Las Palmas
+PLAYERS: David de Gea, Diego Godín, Luis Amaranto Perea, Tomas Ujfalusi, Antonio López, Ignacio Camacho, Mario Suárez, Fran Mérida, Raúl García, Sergio Agüero, Diego Costa
+
+MATCH: 1036278 | niedz., 30.01.2011 | Athletic Bilbao
+PLAYERS: David de Gea, Diego Godín, Luis Amaranto Perea, Filipe Luís, Tomas Ujfalusi, Paulo Assunção, Tiago Mendes, Elias, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1053864 | czw., 16.12.2010 | Bayer 04 Leverkusen
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Filipe Luís, Juan Valera, Mario Suárez, Paulo Assunção, Simão, Raúl García, Diego Forlán, Sergio Agüero
+
+MATCH: 1036251 | pon., 10.01.2011 | Hércules CF
+PLAYERS: David de Gea, Álvaro Domínguez, Diego Godín, Filipe Luís, Tomas Ujfalusi, Mario Suárez, Paulo Assunção, Raúl García, José Antonio Reyes, Sergio Agüero, Diego Costa
+
+MATCH: 1064210 | czw., 06.01.2011 | RCD Espanyol
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Tomas Ujfalusi, Filipe Luís, Paulo Assunção, Mario Suárez, Raúl García, José Antonio Reyes, Sergio Agüero, Diego Costa
+
+MATCH: 1036116 | niedz., 03.10.2010 | Sevilla FC
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Tomas Ujfalusi, Paulo Assunção, Mario Suárez, Tiago Mendes, Fran Mérida, Simão, Diego Forlán
+
+MATCH: 1036217 | sob., 11.12.2010 | Deportivo de La Coruña
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Filipe Luís, Tomas Ujfalusi, Tiago Mendes, Raúl García, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1036302 | sob., 19.02.2011 | Real Zaragoza
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Tomas Ujfalusi, Tiago Mendes, Koke, Raúl García, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1030718 | pt., 27.08.2010 | Inter Mediolan
+PLAYERS: David de Gea, Diego Godín, Luis Amaranto Perea, Álvaro Domínguez, Tomas Ujfalusi, Paulo Assunção, Raúl García, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1072027 | czw., 13.01.2011 | Real Madryt
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Filipe Luís, Tomas Ujfalusi, Paulo Assunção, Raúl García, Juanfran Torres, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1036102 | niedz., 26.09.2010 | Real Zaragoza
+PLAYERS: David de Gea, Álvaro Domínguez, Diego Godín, Filipe Luís, Luis Amaranto Perea, Paulo Assunção, Tiago Mendes, Simão, José Antonio Reyes, Diego Forlán, Diego Costa
+
+MATCH: 1072031 | czw., 20.01.2011 | Real Madryt
+PLAYERS: David de Gea, Tomas Ujfalusi, Luis Amaranto Perea, Filipe Luís, Juan Valera, Paulo Assunção, Tiago Mendes, Elias, Fran Mérida, José Antonio Reyes, Diego Forlán
+
+MATCH: 1036265 | niedz., 23.01.2011 | Sporting Gijón
+PLAYERS: David de Gea, Tomas Ujfalusi, Luis Amaranto Perea, Antonio López, Juan Valera, Paulo Assunção, Raúl García, Juanfran Torres, Elias, Diego Forlán, Diego Costa
+
+MATCH: 1053873 | czw., 04.11.2010 | Rosenborg BK
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Tomas Ujfalusi, Paulo Assunção, Tiago Mendes, Raúl García, Simão, Sergio Agüero, Diego Costa
+
+MATCH: 1036146 | niedz., 24.10.2010 | Villarreal CF
+PLAYERS: David de Gea, Diego Godín, Luis Amaranto Perea, Filipe Luís, Tomas Ujfalusi, Paulo Assunção, Raúl García, Simão, José Antonio Reyes, Sergio Agüero, Diego Costa
+
+MATCH: 1036420 | sob., 07.05.2011 | Málaga CF
+PLAYERS: David de Gea, Diego Godín, Luis Amaranto Perea, Filipe Luís, Tomas Ujfalusi, Mario Suárez, Raúl García, Elias, José Antonio Reyes, Sergio Agüero, Diego Costa
+
+MATCH: 1036240 | pon., 03.01.2011 | Racing Santander
+PLAYERS: David de Gea, Diego Godín, Luis Amaranto Perea, Filipe Luís, Tomas Ujfalusi, Paulo Assunção, Tiago Mendes, Raúl García, Fran Mérida, Sergio Agüero, Diego Costa
+
+MATCH: 1036441 | niedz., 15.05.2011 | Hércules CF
+PLAYERS: David de Gea, Álvaro Domínguez, Jorge Pulido, Filipe Luís, Juan Valera, Mario Suárez, Tiago Mendes, Juanfran Torres, Koke, José Antonio Reyes, Sergio Agüero
+
+MATCH: 1036388 | niedz., 17.04.2011 | RCD Espanyol
+PLAYERS: David de Gea, Diego Godín, Luis Amaranto Perea, Filipe Luís, Tomas Ujfalusi, Mario Suárez, Tiago Mendes, Koke, José Antonio Reyes, Sergio Agüero, Diego Costa
+
+MATCH: 1036230 | niedz., 19.12.2010 | Málaga CF
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Filipe Luís, Tomas Ujfalusi, Paulo Assunção, Tiago Mendes, Raúl García, Simão, José Antonio Reyes, Sergio Agüero
+
+MATCH: 1053812 | czw., 21.10.2010 | Rosenborg BK
+PLAYERS: Joel Robles, Diego Godín, Tomas Ujfalusi, Filipe Luís, Juan Valera, Paulo Assunção, Tiago Mendes, Simão, José Antonio Reyes, Diego Forlán, Diego Costa
+
+MATCH: 1036083 | niedz., 19.09.2010 | FC Barcelona
+PLAYERS: David de Gea, Diego Godín, Luis Amaranto Perea, Álvaro Domínguez, Tomas Ujfalusi, Paulo Assunção, Raúl García, Simão, José Antonio Reyes, Sergio Agüero, Diego Forlán
+
+MATCH: 1036357 | sob., 19.03.2011 | Real Madryt
+PLAYERS: David de Gea, Álvaro Domínguez, Diego Godín, Filipe Luís, Tomas Ujfalusi, Mario Suárez, Tiago Mendes, Elias, José Antonio Reyes, Sergio Agüero, Diego Forlán
+
+MATCH: 1036399 | niedz., 24.04.2011 | Levante UD
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Filipe Luís, Tomas Ujfalusi, Mario Suárez, Raúl García, Juanfran Torres, Elias, Sergio Agüero, Diego Costa
+
+MATCH: 1036346 | sob., 12.03.2011 | UD Almería
+PLAYERS: David de Gea, Diego Godín, Luis Amaranto Perea, Filipe Luís, Tomas Ujfalusi, Mario Suárez, Tiago Mendes, Elias, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1036283 | sob., 05.02.2011 | FC Barcelona
+PLAYERS: David de Gea, Diego Godín, Tomas Ujfalusi, Antonio López, Juan Valera, Paulo Assunção, Tiago Mendes, Filipe Luís, Fran Mérida, José Antonio Reyes, Sergio Agüero
+
+MATCH: 1036336 | sob., 05.03.2011 | Villarreal CF
+PLAYERS: David de Gea, Álvaro Domínguez, Diego Godín, Filipe Luís, Tomas Ujfalusi, Mario Suárez, Tiago Mendes, Elias, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1036430 | wt., 10.05.2011 | Racing Santander
+PLAYERS: David de Gea, Álvaro Domínguez, Tomas Ujfalusi, Antonio López, Juan Valera, Mario Suárez, Tiago Mendes, Elias, Koke, José Antonio Reyes, Sergio Agüero
+
+MATCH: 1055166 | śr., 10.11.2010 | Universidad de Las Palmas
+PLAYERS: Joel Robles, Juanito, Luis Amaranto Perea, Jorge Pulido, Antonio López, Ignacio Camacho, Fran Mérida, Koke, Raúl García, Alberto Perea, Diego Costa
+
+MATCH: 1036044 | pon., 30.08.2010 | Sporting Gijón
+PLAYERS: David de Gea, Diego Godín, Luis Amaranto Perea, Antonio López, Tomas Ujfalusi, Paulo Assunção, Raúl García, José Manuel Jurado, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1036448 | sob., 21.05.2011 | RCD Mallorca
+PLAYERS: David de Gea, Tomas Ujfalusi, Jorge Pulido, Filipe Luís, Juan Valera, Mario Suárez, Tiago Mendes, Juanfran Torres, Koke, José Antonio Reyes, Sergio Agüero
+
+MATCH: 1036176 | sob., 13.11.2010 | CA Osasuna
+PLAYERS: David de Gea, Tomas Ujfalusi, Luis Amaranto Perea, Filipe Luís, Juan Valera, Mario Suárez, Tiago Mendes, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1036316 | sob., 26.02.2011 | Sevilla FC
+PLAYERS: David de Gea, Álvaro Domínguez, Diego Godín, Antonio López, Tomas Ujfalusi, Tiago Mendes, Raúl García, Koke, José Antonio Reyes, Diego Forlán, Sergio Agüero
+

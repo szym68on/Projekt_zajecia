@@ -1,0 +1,157 @@
+# Team: Atlético Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3605058 | niedz., 29.08.2021 | Villarreal CF
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Koke, Marcos Llorente, Thomas Lemar, Kieran Trippier, Yannick Carrasco, Ángel Correa, Luis Suárez
+
+MATCH: 3611470 | sob., 30.04.2022 | Athletic Bilbao
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Reinildo Mandava, Renan Lodi, Marcos Llorente, Geoffrey Kondogbia, Héctor Herrera, Antoine Griezmann, Yannick Carrasco, Luis Suárez
+
+MATCH: 3605040 | niedz., 15.08.2021 | Celta de Vigo
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Geoffrey Kondogbia, Koke, Thomas Lemar, Marcos Llorente, Saúl Ñíguez, Yannick Carrasco, Ángel Correa
+
+MATCH: 3610321 | niedz., 06.02.2022 | FC Barcelona
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Mario Hermoso, Sime Vrsaljko, Rodrigo De Paul, Koke, Yannick Carrasco, Thomas Lemar, João Félix, Luis Suárez
+
+MATCH: 3610430 | pt., 11.03.2022 | Cádiz CF
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Reinildo Mandava, Héctor Herrera, Rodrigo De Paul, Koke, Marcos Llorente, Yannick Carrasco, Antoine Griezmann, João Félix
+
+MATCH: 3605215 | wt., 21.09.2021 | Getafe CF
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Renan Lodi, Kieran Trippier, Héctor Herrera, Marcos Llorente, Yannick Carrasco, Ángel Correa, Antoine Griezmann, Luis Suárez
+
+MATCH: 3605295 | sob., 02.10.2021 | FC Barcelona
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Koke, Marcos Llorente, Yannick Carrasco, Rodrigo De Paul, Thomas Lemar, João Félix, Luis Suárez
+
+MATCH: 3610566 | sob., 19.03.2022 | Rayo Vallecano
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Reinildo Mandava, Koke, Rodrigo De Paul, Héctor Herrera, Marcos Llorente, Renan Lodi, Antoine Griezmann, João Félix
+
+MATCH: 3611459 | śr., 20.04.2022 | Granada CF
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Reinildo Mandava, Javi Serrano, Rodrigo De Paul, Koke, Marcos Llorente, Yannick Carrasco, Ángel Correa, Antoine Griezmann
+
+MATCH: 3607549 | niedz., 07.11.2021 | Valencia CF
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Rodrigo De Paul, Koke, Kieran Trippier, Yannick Carrasco, Ángel Correa, Antoine Griezmann, Luis Suárez
+
+MATCH: 3651079 | wt., 19.10.2021 | FC Liverpool
+PLAYERS: Jan Oblak, Felipe, Geoffrey Kondogbia, Mario Hermoso, Kieran Trippier, Koke, Rodrigo De Paul, Thomas Lemar, Yannick Carrasco, Antoine Griezmann, João Félix
+
+MATCH: 3611498 | śr., 11.05.2022 | Elche CF
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Reinildo Mandava, Sime Vrsaljko, Geoffrey Kondogbia, Rodrigo De Paul, Koke, Yannick Carrasco, Antoine Griezmann, Matheus Cunha
+
+MATCH: 3610569 | sob., 02.04.2022 | Deportivo Alavés
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Reinildo Mandava, Sime Vrsaljko, Geoffrey Kondogbia, Marcos Llorente, Renan Lodi, Thomas Lemar, Antoine Griezmann, João Félix
+
+MATCH: 3651104 | śr., 03.11.2021 | FC Liverpool
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Felipe, Rodrigo De Paul, Koke, Kieran Trippier, Yannick Carrasco, Ángel Correa, João Félix, Luis Suárez
+
+MATCH: 3605205 | sob., 18.09.2021 | Athletic Bilbao
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Geoffrey Kondogbia, Marcos Llorente, Rodrigo De Paul, Kieran Trippier, Renan Lodi, Ángel Correa, Antoine Griezmann
+
+MATCH: 3611451 | niedz., 17.04.2022 | RCD Espanyol
+PLAYERS: Jan Oblak, Stefan Savic, Felipe, Renan Lodi, Sime Vrsaljko, Geoffrey Kondogbia, Koke, Marcos Llorente, Thomas Lemar, Ángel Correa, João Félix
+
+MATCH: 3610370 | sob., 26.02.2022 | Celta de Vigo
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Reinildo Mandava, Geoffrey Kondogbia, Marcos Llorente, Héctor Herrera, Sime Vrsaljko, Renan Lodi, João Félix, Ángel Correa
+
+MATCH: 3607565 | niedz., 28.11.2021 | Cádiz CF
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Mario Hermoso, Marcos Llorente, Rodrigo De Paul, Koke, Yannick Carrasco, Thomas Lemar, Antoine Griezmann, Luis Suárez
+
+MATCH: 3651119 | śr., 24.11.2021 | AC Milan
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Koke, Marcos Llorente, Yannick Carrasco, Rodrigo De Paul, Thomas Lemar, Antoine Griezmann, Luis Suárez
+
+MATCH: 3773449 | śr., 13.04.2022 | Manchester City
+PLAYERS: Jan Oblak, Stefan Savic, Felipe, Reinildo Mandava, Marcos Llorente, Geoffrey Kondogbia, Koke, Thomas Lemar, Renan Lodi, Antoine Griezmann, João Félix
+
+MATCH: 3607551 | sob., 20.11.2021 | CA Osasuna
+PLAYERS: Jan Oblak, Stefan Savic, Felipe, Mario Hermoso, Sime Vrsaljko, Koke, Marcos Llorente, Thomas Lemar, Yannick Carrasco, Ángel Correa, Antoine Griezmann
+
+MATCH: 3610291 | sob., 22.01.2022 | Valencia CF
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Renan Lodi, Sime Vrsaljko, Rodrigo De Paul, Koke, Thomas Lemar, Yannick Carrasco, João Félix, Luis Suárez
+
+MATCH: 3773445 | wt., 05.04.2022 | Manchester City
+PLAYERS: Jan Oblak, Stefan Savic, Felipe, Reinildo Mandava, Renan Lodi, Sime Vrsaljko, Marcos Llorente, Geoffrey Kondogbia, Koke, Antoine Griezmann, João Félix
+
+MATCH: 3610341 | sob., 12.02.2022 | Getafe CF
+PLAYERS: Jan Oblak, Stefan Savic, Felipe, Reinildo Mandava, Marcos Llorente, Geoffrey Kondogbia, Koke, Thomas Lemar, Ángel Correa, Matheus Cunha, Luis Suárez
+
+MATCH: 3610402 | niedz., 06.03.2022 | Real Betis Balompié
+PLAYERS: Jan Oblak, José María Giménez, Felipe, Reinildo Mandava, Sime Vrsaljko, Rodrigo De Paul, Héctor Herrera, Marcos Llorente, Renan Lodi, João Félix, Ángel Correa
+
+MATCH: 3610271 | śr., 16.02.2022 | Levante UD
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Reinildo Mandava, Marcos Llorente, Geoffrey Kondogbia, Koke, Rodrigo De Paul, Thomas Lemar, Ángel Correa, Matheus Cunha
+
+MATCH: 3611480 | niedz., 08.05.2022 | Real Madryt
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Reinildo Mandava, Sime Vrsaljko, Geoffrey Kondogbia, Koke, Marcos Llorente, Yannick Carrasco, Ángel Correa, Matheus Cunha
+
+MATCH: 3610366 | sob., 19.02.2022 | CA Osasuna
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Reinildo Mandava, Sime Vrsaljko, Koke, Héctor Herrera, Marcos Llorente, Yannick Carrasco, João Félix, Luis Suárez
+
+MATCH: 3611500 | niedz., 15.05.2022 | Sevilla FC
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Reinildo Mandava, Geoffrey Kondogbia, Rodrigo De Paul, Koke, Marcos Llorente, Yannick Carrasco, Antoine Griezmann, Luis Suárez
+
+MATCH: 3605198 | niedz., 12.09.2021 | RCD Espanyol
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Felipe, Marcos Llorente, Koke, Kieran Trippier, Yannick Carrasco, Ángel Correa, Antoine Griezmann, Luis Suárez
+
+MATCH: 3607527 | czw., 28.10.2021 | Levante UD
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Felipe, Koke, Héctor Herrera, Kieran Trippier, Yannick Carrasco, Antoine Griezmann, João Félix, Luis Suárez
+
+MATCH: 3607596 | niedz., 12.12.2021 | Real Madryt
+PLAYERS: Jan Oblak, Felipe, Geoffrey Kondogbia, Mario Hermoso, Marcos Llorente, Rodrigo De Paul, Koke, Yannick Carrasco, Ángel Correa, Antoine Griezmann, Matheus Cunha
+
+MATCH: 3605323 | niedz., 24.10.2021 | Real Sociedad
+PLAYERS: Jan Oblak, Mario Hermoso, Felipe, Renan Lodi, Kieran Trippier, Koke, Rodrigo De Paul, Thomas Lemar, João Félix, Antoine Griezmann, Luis Suárez
+
+MATCH: 3607607 | sob., 18.12.2021 | Sevilla FC
+PLAYERS: Jan Oblak, Mario Hermoso, Felipe, Geoffrey Kondogbia, Koke, Marcos Llorente, Thomas Lemar, Kieran Trippier, Yannick Carrasco, Ángel Correa, Luis Suárez
+
+MATCH: 3607610 | niedz., 02.01.2022 | Rayo Vallecano
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Renan Lodi, Kieran Trippier, Geoffrey Kondogbia, Rodrigo De Paul, Thomas Lemar, Yannick Carrasco, Ángel Correa, Luis Suárez
+
+MATCH: 3607531 | niedz., 31.10.2021 | Real Betis Balompié
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Rodrigo De Paul, Koke, Kieran Trippier, Yannick Carrasco, Ángel Correa, Antoine Griezmann, Luis Suárez
+
+MATCH: 3651063 | wt., 28.09.2021 | AC Milan
+PLAYERS: Jan Oblak, José María Giménez, Felipe, Mario Hermoso, Kieran Trippier, Geoffrey Kondogbia, Koke, Marcos Llorente, Yannick Carrasco, Ángel Correa, Luis Suárez
+
+MATCH: 3727224 | śr., 19.01.2022 | Real Sociedad
+PLAYERS: Jan Oblak, Mario Hermoso, Felipe, Renan Lodi, Sime Vrsaljko, Héctor Herrera, Rodrigo De Paul, Koke, Yannick Carrasco, Ángel Correa, João Félix
+
+MATCH: 3605307 | śr., 22.12.2021 | Granada CF
+PLAYERS: Jan Oblak, Mario Hermoso, Felipe, Geoffrey Kondogbia, Koke, Kieran Trippier, Yannick Carrasco, Rodrigo De Paul, Thomas Lemar, João Félix, Luis Suárez
+
+MATCH: 3611514 | niedz., 22.05.2022 | Real Sociedad
+PLAYERS: Jan Oblak, Stefan Savic, Felipe, Reinildo Mandava, Geoffrey Kondogbia, Rodrigo De Paul, Koke, Marcos Llorente, Yannick Carrasco, Antoine Griezmann, Matheus Cunha
+
+MATCH: 3605050 | niedz., 22.08.2021 | Elche CF
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Geoffrey Kondogbia, Koke, Marcos Llorente, Saúl Ñíguez, Rodrigo De Paul, Thomas Lemar, Yannick Carrasco, Ángel Correa
+
+MATCH: 3651127 | wt., 07.12.2021 | FC Porto
+PLAYERS: Jan Oblak, Sime Vrsaljko, Geoffrey Kondogbia, Mario Hermoso, Marcos Llorente, Rodrigo De Paul, Koke, Yannick Carrasco, Thomas Lemar, Antoine Griezmann, Luis Suárez
+
+MATCH: 3651039 | śr., 15.09.2021 | FC Porto
+PLAYERS: Jan Oblak, José María Giménez, Felipe, Mario Hermoso, Marcos Llorente, Geoffrey Kondogbia, Koke, Thomas Lemar, Yannick Carrasco, João Félix, Luis Suárez
+
+MATCH: 3714218 | śr., 23.02.2022 | Manchester United
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Reinildo Mandava, Geoffrey Kondogbia, Marcos Llorente, Héctor Herrera, Sime Vrsaljko, Renan Lodi, Ángel Correa, João Félix
+
+MATCH: 3716578 | czw., 06.01.2022 | CF Rayo Majadahonda
+PLAYERS: Jan Oblak, José María Giménez, Felipe, Renan Lodi, Marcos Llorente, Geoffrey Kondogbia, Rodrigo De Paul, Thomas Lemar, Yannick Carrasco, Matheus Cunha, Luis Suárez
+
+MATCH: 3714226 | wt., 15.03.2022 | Manchester United
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Reinildo Mandava, Héctor Herrera, Rodrigo De Paul, Koke, Marcos Llorente, Renan Lodi, Antoine Griezmann, João Félix
+
+MATCH: 3607628 | niedz., 09.01.2022 | Villarreal CF
+PLAYERS: Jan Oblak, Mario Hermoso, Felipe, Renan Lodi, Marcos Llorente, Geoffrey Kondogbia, Rodrigo De Paul, Yannick Carrasco, Thomas Lemar, Ángel Correa, Matheus Cunha
+
+MATCH: 3611439 | sob., 09.04.2022 | RCD Mallorca
+PLAYERS: Jan Oblak, Stefan Savic, Felipe, Reinildo Mandava, Geoffrey Kondogbia, Rodrigo De Paul, Koke, Marcos Llorente, Yannick Carrasco, Antoine Griezmann, Luis Suárez
+
+MATCH: 3605276 | sob., 25.09.2021 | Deportivo Alavés
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Felipe, Geoffrey Kondogbia, Marcos Llorente, Rodrigo De Paul, Kieran Trippier, Yannick Carrasco, Antoine Griezmann, Luis Suárez
+
+MATCH: 3607571 | sob., 04.12.2021 | RCD Mallorca
+PLAYERS: Jan Oblak, Stefan Savic, Felipe, Renan Lodi, Marcos Llorente, Geoffrey Kondogbia, Koke, Rodrigo De Paul, Ángel Correa, Antoine Griezmann, Matheus Cunha
+
+MATCH: 3593341 | czw., 13.01.2022 | Athletic Bilbao
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Sime Vrsaljko, Geoffrey Kondogbia, Marcos Llorente, Yannick Carrasco, Koke, Thomas Lemar, João Félix, Ángel Correa
+

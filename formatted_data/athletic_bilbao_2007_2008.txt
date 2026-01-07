@@ -1,0 +1,136 @@
+# Team: Athletic Bilbao
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 78885 | niedz., 04.11.2007 | Recreativo Huelva
+PLAYERS: Gorka Iraizoz, Ustaritz, Aitor Ocio, Koikili, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Joseba Etxeberria, Igor Gabilondo, Markel Susaeta, Aritz Aduriz
+
+MATCH: 78946 | niedz., 23.12.2007 | Real Murcia CF
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Aitor Ocio, Koikili, Unai Expósito, Pablo Orbaiz, David López, Igor Gabilondo, Fran Yeste, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 86906 | wt., 13.11.2007 | Hércules CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Javi Martínez, Asier del Horno, Andoni Iraola, Iñaki Muñoz, David López, Igor Gabilondo, Fran Yeste, Fernando Llorente
+
+MATCH: 78844 | niedz., 07.10.2007 | UD Almería
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Javi Martínez, Asier del Horno, Andoni Iraola, Pablo Orbaiz, Joseba Etxeberria, Markel Susaeta, Aritz Aduriz, Ion Vélez
+
+MATCH: 78926 | sob., 08.12.2007 | Real Madryt
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Aitor Ocio, Koikili, Ustaritz, Javi Martínez, Andoni Iraola, Fran Yeste, David López, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 78842 | niedz., 30.09.2007 | Villarreal CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Javi Martínez, Asier del Horno, Andoni Iraola, Pablo Orbaiz, David López, Joseba Etxeberria, Aritz Aduriz, Ion Vélez
+
+MATCH: 79096 | niedz., 13.04.2008 | Deportivo de La Coruña
+PLAYERS: Armando Ribeiro, Fernando Amorebieta, Aitor Ocio, Javi Martínez, Koikili, Andoni Iraola, David López, Joseba Garmendia, Igor Gabilondo, Fran Yeste, Fernando Llorente
+
+MATCH: 78960 | niedz., 06.01.2008 | Racing Santander
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Ustaritz, Javi Martínez, Koikili, Andoni Iraola, Pablo Orbaiz, David López, Joseba Garmendia, Fran Yeste, Fernando Llorente
+
+MATCH: 78819 | niedz., 23.09.2007 | Levante UD
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Asier del Horno, Andoni Iraola, Ander Murillo, Javi Martínez, David López, Markel Susaeta, Fernando Llorente, Aritz Aduriz
+
+MATCH: 78796 | niedz., 02.09.2007 | FC Barcelona
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Ustaritz, Koikili, Andoni Iraola, Javi Martínez, Tiko, David López, Igor Gabilondo, Markel Susaeta, Aritz Aduriz
+
+MATCH: 78824 | śr., 26.09.2007 | Atlético Madryt
+PLAYERS: Gorka Iraizoz, Aitor Ocio, Ustaritz, Javi Martínez, Asier del Horno, Andoni Iraola, Iñaki Muñoz, David López, Joseba Etxeberria, Markel Susaeta, Aritz Aduriz
+
+MATCH: 79064 | niedz., 23.03.2008 | Getafe CF
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Ustaritz, Javi Martínez, Asier del Horno, Andoni Iraola, Pablo Orbaiz, Fran Yeste, Joseba Etxeberria, Markel Susaeta, Fernando Llorente
+
+MATCH: 79056 | sob., 15.03.2008 | Real Betis Balompié
+PLAYERS: Armando Ribeiro, Aitor Ocio, Ustaritz, Javi Martínez, Asier del Horno, Andoni Iraola, Igor Gabilondo, Fran Yeste, Joseba Etxeberria, Markel Susaeta, Fernando Llorente
+
+MATCH: 78864 | sob., 27.10.2007 | Real Betis Balompié
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Javi Martínez, Koikili, Andoni Iraola, Pablo Orbaiz, Igor Gabilondo, Joseba Etxeberria, Markel Susaeta, Aritz Aduriz
+
+MATCH: 79003 | niedz., 03.02.2008 | Real Zaragoza
+PLAYERS: Armando Ribeiro, Fernando Amorebieta, Aitor Ocio, Javi Martínez, Koikili, Andoni Iraola, Iñaki Muñoz, Joseba Garmendia, David López, Fran Yeste, Aritz Aduriz
+
+MATCH: 78922 | niedz., 02.12.2007 | Valencia CF
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Ustaritz, Koikili, Andoni Iraola, Pablo Orbaiz, David López, Igor Gabilondo, Fran Yeste, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 79085 | niedz., 06.04.2008 | RCD Espanyol
+PLAYERS: Armando Ribeiro, Fernando Amorebieta, Aitor Ocio, Javi Martínez, Asier del Horno, Andoni Iraola, Joseba Garmendia, Igor Gabilondo, Fran Yeste, Markel Susaeta, Fernando Llorente
+
+MATCH: 79146 | niedz., 11.05.2008 | Racing Santander
+PLAYERS: Armando Ribeiro, Fernando Amorebieta, Ustaritz, Carlos Gurpegui, Javi Martínez, Asier del Horno, Andoni Iraola, Joseba Garmendia, Igor Gabilondo, Markel Susaeta, Fernando Llorente
+
+MATCH: 78862 | niedz., 21.10.2007 | Real Valladolid CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Javi Martínez, Koikili, Andoni Iraola, Pablo Orbaiz, David López, Igor Gabilondo, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 88486 | czw., 31.01.2008 | Racing Santander
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Aitor Ocio, Koikili, Unai Expósito, Iñaki Muñoz, Igor Gabilondo, Fran Yeste, Markel Susaeta, Aitor Ramos, Fernando Llorente
+
+MATCH: 78784 | niedz., 26.08.2007 | CA Osasuna
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Koikili, Unai Expósito, Javi Martínez, Tiko, David López, Joseba Etxeberria, Fernando Llorente, Aritz Aduriz
+
+MATCH: 87617 | śr., 02.01.2008 | Hércules CF
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Ander Murillo, Ustaritz, Asier del Horno, Andoni Iraola, Pablo Orbaiz, David López, Joseba Garmendia, Igor Gabilondo, Aritz Aduriz
+
+MATCH: 79131 | niedz., 04.05.2008 | RCD Mallorca
+PLAYERS: Armando Ribeiro, Fernando Amorebieta, Carlos Gurpegui, Javi Martínez, Asier del Horno, Andoni Iraola, Joseba Garmendia, Igor Gabilondo, Fran Yeste, Markel Susaeta, Fernando Llorente
+
+MATCH: 78897 | niedz., 11.11.2007 | RCD Espanyol
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Ustaritz, Javi Martínez, Koikili, Andoni Iraola, Pablo Orbaiz, Igor Gabilondo, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 79139 | śr., 07.05.2008 | Real Murcia CF
+PLAYERS: Armando Ribeiro, Fernando Amorebieta, Luis Prieto, Carlos Gurpegui, Javi Martínez, Asier del Horno, Andoni Iraola, David López, David Cuéllar, Aritz Aduriz, Fernando Llorente
+
+MATCH: 78938 | niedz., 16.12.2007 | RCD Mallorca
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Aitor Ocio, Javi Martínez, Koikili, Andoni Iraola, David López, Igor Gabilondo, Fran Yeste, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 78966 | sob., 12.01.2008 | Sevilla FC
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Javi Martínez, Koikili, Andoni Iraola, Pablo Orbaiz, David López, Fran Yeste, Markel Susaeta, Aritz Aduriz
+
+MATCH: 79004 | niedz., 10.02.2008 | Levante UD
+PLAYERS: Armando Ribeiro, Fernando Amorebieta, Ustaritz, Asier del Horno, Andoni Iraola, Javi Martínez, Pablo Orbaiz, David López, Fran Yeste, Aitor Ramos, Fernando Llorente
+
+MATCH: 78804 | sob., 15.09.2007 | Real Zaragoza
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Asier del Horno, Andoni Iraola, Javi Martínez, Pablo Orbaiz, David López, Markel Susaeta, Fernando Llorente, Aritz Aduriz
+
+MATCH: 78879 | śr., 31.10.2007 | Getafe CF
+PLAYERS: Gorka Iraizoz, Fernando Amorebieta, Aitor Ocio, Koikili, Andoni Iraola, Iban Zubiaurre, Pablo Orbaiz, Igor Gabilondo, Joseba Etxeberria, Markel Susaeta, Aritz Aduriz
+
+MATCH: 79024 | niedz., 24.02.2008 | Villarreal CF
+PLAYERS: Armando Ribeiro, Fernando Amorebieta, Aitor Ocio, Javi Martínez, Koikili, Andoni Iraola, Iñaki Muñoz, Fran Yeste, Markel Susaeta, Aitor Ramos, Fernando Llorente
+
+MATCH: 78905 | niedz., 25.11.2007 | Deportivo de La Coruña
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Aitor Ocio, Koikili, Andoni Iraola, Pablo Orbaiz, David López, Igor Gabilondo, Fran Yeste, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 79162 | niedz., 18.05.2008 | Sevilla FC
+PLAYERS: Armando Ribeiro, Fernando Amorebieta, Aitor Ocio, Carlos Gurpegui, Javi Martínez, Koikili, Joseba Garmendia, Igor Gabilondo, Urko Arroyo, Aritz Aduriz, Fernando Llorente
+
+MATCH: 78984 | niedz., 27.01.2008 | FC Barcelona
+PLAYERS: Daniel Aranzubia, Ustaritz, Aitor Ocio, Koikili, Andoni Iraola, Javi Martínez, Pablo Orbaiz, David López, Fran Yeste, Markel Susaeta, Aritz Aduriz
+
+MATCH: 88434 | śr., 16.01.2008 | RCD Espanyol
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Ustaritz, Asier del Horno, Andoni Iraola, Iñaki Muñoz, Tiko, David López, Fran Yeste, Markel Susaeta, Fernando Llorente
+
+MATCH: 79105 | niedz., 20.04.2008 | Valencia CF
+PLAYERS: Armando Ribeiro, Fernando Amorebieta, Ustaritz, Javi Martínez, Koikili, Andoni Iraola, Igor Gabilondo, Fran Yeste, Joseba Etxeberria, Markel Susaeta, Fernando Llorente
+
+MATCH: 79120 | niedz., 27.04.2008 | Real Madryt
+PLAYERS: Armando Ribeiro, Fernando Amorebieta, Carlos Gurpegui, Koikili, Andoni Iraola, Javi Martínez, Joseba Garmendia, Igor Gabilondo, Markel Susaeta, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 78980 | niedz., 20.01.2008 | CA Osasuna
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Aitor Ocio, Koikili, Andoni Iraola, Javi Martínez, Pablo Orbaiz, David López, Fran Yeste, Markel Susaeta, Aritz Aduriz
+
+MATCH: 79034 | niedz., 02.03.2008 | UD Almería
+PLAYERS: Armando Ribeiro, Fernando Amorebieta, Aitor Ocio, Javi Martínez, Koikili, Andoni Iraola, Igor Gabilondo, Fran Yeste, Joseba Etxeberria, Markel Susaeta, Fernando Llorente
+
+MATCH: 79044 | niedz., 09.03.2008 | Real Valladolid CF
+PLAYERS: Armando Ribeiro, Fernando Amorebieta, Aitor Ocio, Koikili, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Igor Gabilondo, Markel Susaeta, Fernando Llorente, Aritz Aduriz
+
+MATCH: 79015 | niedz., 17.02.2008 | Atlético Madryt
+PLAYERS: Armando Ribeiro, Fernando Amorebieta, Aitor Ocio, Koikili, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Fran Yeste, Markel Susaeta, Fernando Llorente, Aritz Aduriz
+
+MATCH: 79080 | niedz., 30.03.2008 | Recreativo Huelva
+PLAYERS: Armando Ribeiro, Fernando Amorebieta, Ustaritz, Asier del Horno, Andoni Iraola, Pablo Orbaiz, Igor Gabilondo, Fran Yeste, Joseba Etxeberria, Markel Susaeta, Fernando Llorente
+
+MATCH: 88482 | czw., 24.01.2008 | Racing Santander
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Aitor Ocio, Asier del Horno, Andoni Iraola, Iñaki Muñoz, Pablo Orbaiz, Igor Gabilondo, Markel Susaeta, Aritz Aduriz, Fernando Llorente
+
+MATCH: 88426 | śr., 09.01.2008 | RCD Espanyol
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Ustaritz, Asier del Horno, Andoni Iraola, Iñaki Muñoz, Tiko, Fran Yeste, Igor Gabilondo, Markel Susaeta, Aritz Aduriz
+

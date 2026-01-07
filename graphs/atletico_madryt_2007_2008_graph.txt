@@ -1,0 +1,303 @@
+# Graph for Java/GraphStream
+# Nodes: 27
+# Edges: 297
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Leo Franco | Zé Castro | 4 | 21 | 13
+EDGE Leo Franco | Pablo Ibáñez | 19 | 21 | 44
+EDGE Leo Franco | Antonio López | 10 | 21 | 35
+EDGE Leo Franco | Luis Amaranto Perea | 18 | 21 | 42
+EDGE Leo Franco | Maniche | 15 | 21 | 19
+EDGE Leo Franco | Raúl García | 19 | 21 | 44
+EDGE Leo Franco | Luis García | 7 | 21 | 25
+EDGE Leo Franco | Sergio Agüero | 20 | 21 | 45
+EDGE Leo Franco | Maxi Rodríguez | 20 | 21 | 42
+EDGE Leo Franco | Diego Forlán | 17 | 21 | 49
+EDGE Leo Franco | Mariano Pernía | 17 | 21 | 40
+EDGE Leo Franco | Georgios Seitaridis | 12 | 21 | 15
+EDGE Leo Franco | Simão | 10 | 21 | 30
+EDGE Leo Franco | José Antonio Reyes | 6 | 21 | 17
+EDGE Leo Franco | Peter Luccin | 2 | 21 | 2
+EDGE Leo Franco | José Manuel Jurado | 1 | 21 | 9
+EDGE Leo Franco | Ignacio Camacho | 5 | 21 | 9
+EDGE Leo Franco | Fabiano Eller | 3 | 21 | 24
+EDGE Leo Franco | Martin Petrov | 1 | 21 | 1
+EDGE Leo Franco | Mista | 1 | 21 | 10
+EDGE Leo Franco | Juan Valera | 1 | 21 | 11
+EDGE Leo Franco | Cléber Santana | 2 | 21 | 25
+EDGE Zé Castro | Pablo Ibáñez | 5 | 13 | 44
+EDGE Zé Castro | Antonio López | 6 | 13 | 35
+EDGE Zé Castro | Luis Amaranto Perea | 7 | 13 | 42
+EDGE Zé Castro | Maniche | 6 | 13 | 19
+EDGE Zé Castro | Raúl García | 11 | 13 | 44
+EDGE Zé Castro | Luis García | 10 | 13 | 25
+EDGE Zé Castro | Sergio Agüero | 7 | 13 | 45
+EDGE Zé Castro | Maxi Rodríguez | 6 | 13 | 42
+EDGE Zé Castro | Diego Forlán | 10 | 13 | 49
+EDGE Zé Castro | Christian Abbiati | 6 | 13 | 29
+EDGE Zé Castro | Fabiano Eller | 6 | 13 | 24
+EDGE Zé Castro | Cléber Santana | 8 | 13 | 25
+EDGE Zé Castro | José Manuel Jurado | 3 | 13 | 9
+EDGE Zé Castro | Mista | 6 | 13 | 10
+EDGE Zé Castro | Mariano Pernía | 7 | 13 | 40
+EDGE Zé Castro | José Antonio Reyes | 5 | 13 | 17
+EDGE Zé Castro | Ismael Falcón | 3 | 13 | 6
+EDGE Zé Castro | Juan Valera | 5 | 13 | 11
+EDGE Zé Castro | Simão | 4 | 13 | 30
+EDGE Zé Castro | Georgios Seitaridis | 3 | 13 | 15
+EDGE Zé Castro | Miguel de las Cuevas | 2 | 13 | 2
+EDGE Pablo Ibáñez | Antonio López | 27 | 44 | 35
+EDGE Pablo Ibáñez | Luis Amaranto Perea | 33 | 44 | 42
+EDGE Pablo Ibáñez | Maniche | 15 | 44 | 19
+EDGE Pablo Ibáñez | Raúl García | 36 | 44 | 44
+EDGE Pablo Ibáñez | Luis García | 16 | 44 | 25
+EDGE Pablo Ibáñez | Sergio Agüero | 40 | 44 | 45
+EDGE Pablo Ibáñez | Maxi Rodríguez | 35 | 44 | 42
+EDGE Pablo Ibáñez | Diego Forlán | 40 | 44 | 49
+EDGE Pablo Ibáñez | Christian Abbiati | 22 | 44 | 29
+EDGE Pablo Ibáñez | Fabiano Eller | 14 | 44 | 24
+EDGE Pablo Ibáñez | Mariano Pernía | 34 | 44 | 40
+EDGE Pablo Ibáñez | Thiago Motta | 7 | 44 | 7
+EDGE Pablo Ibáñez | Cléber Santana | 16 | 44 | 25
+EDGE Pablo Ibáñez | Georgios Seitaridis | 12 | 44 | 15
+EDGE Pablo Ibáñez | Simão | 28 | 44 | 30
+EDGE Pablo Ibáñez | José Antonio Reyes | 12 | 44 | 17
+EDGE Pablo Ibáñez | Mista | 4 | 44 | 10
+EDGE Pablo Ibáñez | José Manuel Jurado | 5 | 44 | 9
+EDGE Pablo Ibáñez | Ismael Falcón | 3 | 44 | 6
+EDGE Pablo Ibáñez | Juan Valera | 7 | 44 | 11
+EDGE Pablo Ibáñez | Peter Luccin | 1 | 44 | 2
+EDGE Pablo Ibáñez | Ignacio Camacho | 9 | 44 | 9
+EDGE Antonio López | Luis Amaranto Perea | 26 | 35 | 42
+EDGE Antonio López | Maniche | 7 | 35 | 19
+EDGE Antonio López | Raúl García | 27 | 35 | 44
+EDGE Antonio López | Luis García | 18 | 35 | 25
+EDGE Antonio López | Sergio Agüero | 28 | 35 | 45
+EDGE Antonio López | Maxi Rodríguez | 28 | 35 | 42
+EDGE Antonio López | Diego Forlán | 32 | 35 | 49
+EDGE Antonio López | Christian Abbiati | 23 | 35 | 29
+EDGE Antonio López | Fabiano Eller | 18 | 35 | 24
+EDGE Antonio López | Mariano Pernía | 20 | 35 | 40
+EDGE Antonio López | Thiago Motta | 3 | 35 | 7
+EDGE Antonio López | Cléber Santana | 18 | 35 | 25
+EDGE Antonio López | Simão | 18 | 35 | 30
+EDGE Antonio López | José Antonio Reyes | 8 | 35 | 17
+EDGE Antonio López | Mista | 5 | 35 | 10
+EDGE Antonio López | José Manuel Jurado | 7 | 35 | 9
+EDGE Antonio López | Juan Valera | 4 | 35 | 11
+EDGE Antonio López | Ignacio Camacho | 9 | 35 | 9
+EDGE Antonio López | Ismael Falcón | 2 | 35 | 6
+EDGE Antonio López | Georgios Seitaridis | 4 | 35 | 15
+EDGE Antonio López | Peter Luccin | 1 | 35 | 2
+EDGE Antonio López | Martin Petrov | 1 | 35 | 1
+EDGE Luis Amaranto Perea | Maniche | 15 | 42 | 19
+EDGE Luis Amaranto Perea | Raúl García | 33 | 42 | 44
+EDGE Luis Amaranto Perea | Luis García | 17 | 42 | 25
+EDGE Luis Amaranto Perea | Sergio Agüero | 35 | 42 | 45
+EDGE Luis Amaranto Perea | Maxi Rodríguez | 36 | 42 | 42
+EDGE Luis Amaranto Perea | Diego Forlán | 37 | 42 | 49
+EDGE Luis Amaranto Perea | Mariano Pernía | 29 | 42 | 40
+EDGE Luis Amaranto Perea | Georgios Seitaridis | 12 | 42 | 15
+EDGE Luis Amaranto Perea | Simão | 23 | 42 | 30
+EDGE Luis Amaranto Perea | José Antonio Reyes | 11 | 42 | 17
+EDGE Luis Amaranto Perea | Christian Abbiati | 20 | 42 | 29
+EDGE Luis Amaranto Perea | Cléber Santana | 17 | 42 | 25
+EDGE Luis Amaranto Perea | Mista | 6 | 42 | 10
+EDGE Luis Amaranto Perea | José Manuel Jurado | 6 | 42 | 9
+EDGE Luis Amaranto Perea | Ismael Falcón | 4 | 42 | 6
+EDGE Luis Amaranto Perea | Juan Valera | 6 | 42 | 11
+EDGE Luis Amaranto Perea | Thiago Motta | 4 | 42 | 7
+EDGE Luis Amaranto Perea | Fabiano Eller | 13 | 42 | 24
+EDGE Luis Amaranto Perea | Peter Luccin | 2 | 42 | 2
+EDGE Luis Amaranto Perea | Ignacio Camacho | 8 | 42 | 9
+EDGE Luis Amaranto Perea | Martin Petrov | 1 | 42 | 1
+EDGE Luis Amaranto Perea | Miguel de las Cuevas | 1 | 42 | 2
+EDGE Maniche | Raúl García | 16 | 19 | 44
+EDGE Maniche | Luis García | 4 | 19 | 25
+EDGE Maniche | Sergio Agüero | 17 | 19 | 45
+EDGE Maniche | Maxi Rodríguez | 15 | 19 | 42
+EDGE Maniche | Diego Forlán | 15 | 19 | 49
+EDGE Maniche | Mariano Pernía | 14 | 19 | 40
+EDGE Maniche | Georgios Seitaridis | 13 | 19 | 15
+EDGE Maniche | Simão | 11 | 19 | 30
+EDGE Maniche | José Antonio Reyes | 8 | 19 | 17
+EDGE Maniche | Peter Luccin | 2 | 19 | 2
+EDGE Maniche | José Manuel Jurado | 2 | 19 | 9
+EDGE Maniche | Christian Abbiati | 4 | 19 | 29
+EDGE Maniche | Fabiano Eller | 5 | 19 | 24
+EDGE Maniche | Cléber Santana | 2 | 19 | 25
+EDGE Maniche | Mista | 2 | 19 | 10
+EDGE Maniche | Martin Petrov | 1 | 19 | 1
+EDGE Maniche | Juan Valera | 1 | 19 | 11
+EDGE Raúl García | Luis García | 16 | 44 | 25
+EDGE Raúl García | Sergio Agüero | 39 | 44 | 45
+EDGE Raúl García | Maxi Rodríguez | 34 | 44 | 42
+EDGE Raúl García | Diego Forlán | 40 | 44 | 49
+EDGE Raúl García | Mariano Pernía | 31 | 44 | 40
+EDGE Raúl García | Georgios Seitaridis | 13 | 44 | 15
+EDGE Raúl García | Simão | 27 | 44 | 30
+EDGE Raúl García | José Antonio Reyes | 10 | 44 | 17
+EDGE Raúl García | Ismael Falcón | 3 | 44 | 6
+EDGE Raúl García | Juan Valera | 7 | 44 | 11
+EDGE Raúl García | Thiago Motta | 3 | 44 | 7
+EDGE Raúl García | Christian Abbiati | 22 | 44 | 29
+EDGE Raúl García | Fabiano Eller | 18 | 44 | 24
+EDGE Raúl García | Cléber Santana | 14 | 44 | 25
+EDGE Raúl García | José Manuel Jurado | 4 | 44 | 9
+EDGE Raúl García | Ignacio Camacho | 9 | 44 | 9
+EDGE Raúl García | Mista | 5 | 44 | 10
+EDGE Raúl García | Peter Luccin | 1 | 44 | 2
+EDGE Raúl García | Martin Petrov | 1 | 44 | 1
+EDGE Raúl García | Miguel de las Cuevas | 1 | 44 | 2
+EDGE Luis García | Sergio Agüero | 17 | 25 | 45
+EDGE Luis García | Maxi Rodríguez | 16 | 25 | 42
+EDGE Luis García | Diego Forlán | 22 | 25 | 49
+EDGE Luis García | Christian Abbiati | 12 | 25 | 29
+EDGE Luis García | Fabiano Eller | 12 | 25 | 24
+EDGE Luis García | Mariano Pernía | 19 | 25 | 40
+EDGE Luis García | Thiago Motta | 5 | 25 | 7
+EDGE Luis García | Cléber Santana | 15 | 25 | 25
+EDGE Luis García | José Manuel Jurado | 6 | 25 | 9
+EDGE Luis García | José Antonio Reyes | 8 | 25 | 17
+EDGE Luis García | Ismael Falcón | 6 | 25 | 6
+EDGE Luis García | Juan Valera | 7 | 25 | 11
+EDGE Luis García | Mista | 7 | 25 | 10
+EDGE Luis García | Ignacio Camacho | 5 | 25 | 9
+EDGE Luis García | Simão | 3 | 25 | 30
+EDGE Luis García | Georgios Seitaridis | 1 | 25 | 15
+EDGE Luis García | Miguel de las Cuevas | 1 | 25 | 2
+EDGE Sergio Agüero | Maxi Rodríguez | 38 | 45 | 42
+EDGE Sergio Agüero | Diego Forlán | 40 | 45 | 49
+EDGE Sergio Agüero | Christian Abbiati | 22 | 45 | 29
+EDGE Sergio Agüero | Fabiano Eller | 17 | 45 | 24
+EDGE Sergio Agüero | Mariano Pernía | 34 | 45 | 40
+EDGE Sergio Agüero | Thiago Motta | 6 | 45 | 7
+EDGE Sergio Agüero | Cléber Santana | 15 | 45 | 25
+EDGE Sergio Agüero | Georgios Seitaridis | 13 | 45 | 15
+EDGE Sergio Agüero | Simão | 27 | 45 | 30
+EDGE Sergio Agüero | José Antonio Reyes | 10 | 45 | 17
+EDGE Sergio Agüero | Ismael Falcón | 3 | 45 | 6
+EDGE Sergio Agüero | Juan Valera | 6 | 45 | 11
+EDGE Sergio Agüero | Peter Luccin | 1 | 45 | 2
+EDGE Sergio Agüero | José Manuel Jurado | 5 | 45 | 9
+EDGE Sergio Agüero | Ignacio Camacho | 9 | 45 | 9
+EDGE Sergio Agüero | Mista | 1 | 45 | 10
+EDGE Maxi Rodríguez | Diego Forlán | 36 | 42 | 49
+EDGE Maxi Rodríguez | Christian Abbiati | 20 | 42 | 29
+EDGE Maxi Rodríguez | Fabiano Eller | 16 | 42 | 24
+EDGE Maxi Rodríguez | Mariano Pernía | 31 | 42 | 40
+EDGE Maxi Rodríguez | Thiago Motta | 4 | 42 | 7
+EDGE Maxi Rodríguez | Cléber Santana | 15 | 42 | 25
+EDGE Maxi Rodríguez | Georgios Seitaridis | 11 | 42 | 15
+EDGE Maxi Rodríguez | Simão | 22 | 42 | 30
+EDGE Maxi Rodríguez | José Antonio Reyes | 9 | 42 | 17
+EDGE Maxi Rodríguez | Mista | 3 | 42 | 10
+EDGE Maxi Rodríguez | José Manuel Jurado | 6 | 42 | 9
+EDGE Maxi Rodríguez | Juan Valera | 5 | 42 | 11
+EDGE Maxi Rodríguez | Peter Luccin | 2 | 42 | 2
+EDGE Maxi Rodríguez | Ignacio Camacho | 9 | 42 | 9
+EDGE Maxi Rodríguez | Ismael Falcón | 2 | 42 | 6
+EDGE Maxi Rodríguez | Martin Petrov | 1 | 42 | 1
+EDGE Diego Forlán | Christian Abbiati | 28 | 49 | 29
+EDGE Diego Forlán | Fabiano Eller | 22 | 49 | 24
+EDGE Diego Forlán | Mariano Pernía | 35 | 49 | 40
+EDGE Diego Forlán | Thiago Motta | 6 | 49 | 7
+EDGE Diego Forlán | Cléber Santana | 21 | 49 | 25
+EDGE Diego Forlán | Simão | 27 | 49 | 30
+EDGE Diego Forlán | José Antonio Reyes | 13 | 49 | 17
+EDGE Diego Forlán | Mista | 7 | 49 | 10
+EDGE Diego Forlán | José Manuel Jurado | 7 | 49 | 9
+EDGE Diego Forlán | Ismael Falcón | 4 | 49 | 6
+EDGE Diego Forlán | Juan Valera | 8 | 49 | 11
+EDGE Diego Forlán | Georgios Seitaridis | 12 | 49 | 15
+EDGE Diego Forlán | Peter Luccin | 1 | 49 | 2
+EDGE Diego Forlán | Ignacio Camacho | 9 | 49 | 9
+EDGE Diego Forlán | Miguel de las Cuevas | 1 | 49 | 2
+EDGE Christian Abbiati | Fabiano Eller | 19 | 29 | 24
+EDGE Christian Abbiati | Mariano Pernía | 19 | 29 | 40
+EDGE Christian Abbiati | Thiago Motta | 5 | 29 | 7
+EDGE Christian Abbiati | Cléber Santana | 18 | 29 | 25
+EDGE Christian Abbiati | Simão | 19 | 29 | 30
+EDGE Christian Abbiati | José Antonio Reyes | 7 | 29 | 17
+EDGE Christian Abbiati | Mista | 5 | 29 | 10
+EDGE Christian Abbiati | José Manuel Jurado | 7 | 29 | 9
+EDGE Christian Abbiati | Juan Valera | 4 | 29 | 11
+EDGE Christian Abbiati | Ignacio Camacho | 4 | 29 | 9
+EDGE Christian Abbiati | Georgios Seitaridis | 3 | 29 | 15
+EDGE Christian Abbiati | Miguel de las Cuevas | 1 | 29 | 2
+EDGE Fabiano Eller | Mariano Pernía | 14 | 24 | 40
+EDGE Fabiano Eller | Thiago Motta | 5 | 24 | 7
+EDGE Fabiano Eller | Cléber Santana | 15 | 24 | 25
+EDGE Fabiano Eller | Simão | 11 | 24 | 30
+EDGE Fabiano Eller | José Manuel Jurado | 6 | 24 | 9
+EDGE Fabiano Eller | Mista | 6 | 24 | 10
+EDGE Fabiano Eller | José Antonio Reyes | 7 | 24 | 17
+EDGE Fabiano Eller | Ismael Falcón | 2 | 24 | 6
+EDGE Fabiano Eller | Juan Valera | 4 | 24 | 11
+EDGE Fabiano Eller | Georgios Seitaridis | 3 | 24 | 15
+EDGE Fabiano Eller | Peter Luccin | 1 | 24 | 2
+EDGE Fabiano Eller | Martin Petrov | 1 | 24 | 1
+EDGE Fabiano Eller | Ignacio Camacho | 1 | 24 | 9
+EDGE Fabiano Eller | Miguel de las Cuevas | 1 | 24 | 2
+EDGE Mariano Pernía | Thiago Motta | 6 | 40 | 7
+EDGE Mariano Pernía | Cléber Santana | 15 | 40 | 25
+EDGE Mariano Pernía | Georgios Seitaridis | 10 | 40 | 15
+EDGE Mariano Pernía | Simão | 20 | 40 | 30
+EDGE Mariano Pernía | José Antonio Reyes | 13 | 40 | 17
+EDGE Mariano Pernía | Mista | 5 | 40 | 10
+EDGE Mariano Pernía | José Manuel Jurado | 7 | 40 | 9
+EDGE Mariano Pernía | Ismael Falcón | 4 | 40 | 6
+EDGE Mariano Pernía | Juan Valera | 6 | 40 | 11
+EDGE Mariano Pernía | Peter Luccin | 1 | 40 | 2
+EDGE Mariano Pernía | Ignacio Camacho | 8 | 40 | 9
+EDGE Mariano Pernía | Miguel de las Cuevas | 1 | 40 | 2
+EDGE Thiago Motta | Cléber Santana | 4 | 7 | 25
+EDGE Thiago Motta | Ismael Falcón | 2 | 7 | 6
+EDGE Thiago Motta | Juan Valera | 3 | 7 | 11
+EDGE Thiago Motta | José Antonio Reyes | 2 | 7 | 17
+EDGE Thiago Motta | Simão | 3 | 7 | 30
+EDGE Thiago Motta | Mista | 2 | 7 | 10
+EDGE Cléber Santana | Simão | 13 | 25 | 30
+EDGE Cléber Santana | José Antonio Reyes | 9 | 25 | 17
+EDGE Cléber Santana | Mista | 9 | 25 | 10
+EDGE Cléber Santana | José Manuel Jurado | 6 | 25 | 9
+EDGE Cléber Santana | Juan Valera | 8 | 25 | 11
+EDGE Cléber Santana | Ismael Falcón | 5 | 25 | 6
+EDGE Cléber Santana | Georgios Seitaridis | 3 | 25 | 15
+EDGE Cléber Santana | Miguel de las Cuevas | 2 | 25 | 2
+EDGE Georgios Seitaridis | Simão | 11 | 15 | 30
+EDGE Georgios Seitaridis | José Antonio Reyes | 6 | 15 | 17
+EDGE Georgios Seitaridis | Peter Luccin | 2 | 15 | 2
+EDGE Georgios Seitaridis | José Manuel Jurado | 1 | 15 | 9
+EDGE Georgios Seitaridis | Martin Petrov | 1 | 15 | 1
+EDGE Georgios Seitaridis | Mista | 2 | 15 | 10
+EDGE Georgios Seitaridis | Juan Valera | 1 | 15 | 11
+EDGE Georgios Seitaridis | Miguel de las Cuevas | 1 | 15 | 2
+EDGE Simão | José Antonio Reyes | 7 | 30 | 17
+EDGE Simão | Mista | 3 | 30 | 10
+EDGE Simão | Juan Valera | 5 | 30 | 11
+EDGE Simão | Ignacio Camacho | 4 | 30 | 9
+EDGE Simão | José Manuel Jurado | 2 | 30 | 9
+EDGE Simão | Miguel de las Cuevas | 1 | 30 | 2
+EDGE Simão | Ismael Falcón | 1 | 30 | 6
+EDGE José Antonio Reyes | Mista | 5 | 17 | 10
+EDGE José Antonio Reyes | José Manuel Jurado | 3 | 17 | 9
+EDGE José Antonio Reyes | Ismael Falcón | 4 | 17 | 6
+EDGE José Antonio Reyes | Juan Valera | 6 | 17 | 11
+EDGE José Antonio Reyes | Miguel de las Cuevas | 1 | 17 | 2
+EDGE Mista | José Manuel Jurado | 2 | 10 | 9
+EDGE Mista | Peter Luccin | 1 | 10 | 2
+EDGE Mista | Martin Petrov | 1 | 10 | 1
+EDGE Mista | Ismael Falcón | 4 | 10 | 6
+EDGE Mista | Juan Valera | 6 | 10 | 11
+EDGE Mista | Miguel de las Cuevas | 2 | 10 | 2
+EDGE José Manuel Jurado | Peter Luccin | 1 | 9 | 2
+EDGE José Manuel Jurado | Ismael Falcón | 1 | 9 | 6
+EDGE José Manuel Jurado | Juan Valera | 1 | 9 | 11
+EDGE José Manuel Jurado | Miguel de las Cuevas | 1 | 9 | 2
+EDGE Ismael Falcón | Juan Valera | 6 | 6 | 11
+EDGE Ismael Falcón | Miguel de las Cuevas | 1 | 6 | 2
+EDGE Juan Valera | Ignacio Camacho | 1 | 11 | 9
+EDGE Juan Valera | Miguel de las Cuevas | 2 | 11 | 2
+EDGE Peter Luccin | Martin Petrov | 1 | 2 | 1

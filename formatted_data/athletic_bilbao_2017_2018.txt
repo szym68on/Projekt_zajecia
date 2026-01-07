@@ -1,0 +1,166 @@
+# Team: Athletic Bilbao
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2899906 | pon., 09.04.2018 | Villarreal CF
+PLAYERS: Kepa Arrizabalaga, Iñigo Martínez, Unai Núñez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Ander Iturraspe, Raúl García, Iñigo Córdoba, Markel Susaeta, Iñaki Williams
+
+MATCH: 2887623 | czw., 03.08.2017 | FC Dinamo 1948
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel Vesga, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2899787 | pt., 09.02.2018 | UD Las Palmas
+PLAYERS: Kepa Arrizabalaga, Iñigo Martínez, Yeray Álvarez, Enric Saborit, Óscar de Marcos, Ander Iturraspe, Mikel Rico, Raúl García, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2904768 | czw., 17.08.2017 | Panathinaikos FC
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel Vesga, Beñat Etxebarria, Iñigo Lekue, Raúl García, Iker Muniain, Aritz Aduriz
+
+MATCH: 2905735 | czw., 24.08.2017 | Panathinaikos FC
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Beñat Etxebarria, Iker Muniain, Iñigo Córdoba, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2919874 | czw., 02.11.2017 | Östersunds FK
+PLAYERS: Iago Herrerín, Aymeric Laporte, Unai Núñez, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Ander Iturraspe, Raúl García, Iñigo Córdoba, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2887587 | czw., 27.07.2017 | FC Dinamo 1948
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel Vesga, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2899636 | niedz., 22.10.2017 | CD Leganés
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Unai Núñez, Enric Saborit, Eneko Bóveda, Mikel Vesga, Mikel San José, Raúl García, Iñigo Córdoba, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2899890 | pon., 23.04.2018 | Levante UD
+PLAYERS: Kepa Arrizabalaga, Iñigo Martínez, Unai Núñez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Ander Iturraspe, Raúl García, Iñigo Córdoba, Markel Susaeta, Iñaki Williams
+
+MATCH: 2919794 | czw., 14.09.2017 | Hertha BSC
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Mikel Vesga, Iñigo Córdoba, Iñaki Williams, Iker Muniain, Aritz Aduriz
+
+MATCH: 2899896 | sob., 05.05.2018 | Real Betis Balompié
+PLAYERS: Kepa Arrizabalaga, Iñigo Martínez, Yeray Álvarez, Unai Núñez, Beñat Etxebarria, Mikel Rico, Iñigo Lekue, Enric Saborit, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2899607 | sob., 23.09.2017 | Málaga CF
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Unai Núñez, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Mikel Vesga, Iker Muniain, Iñigo Córdoba, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2899804 | sob., 03.03.2018 | Sevilla FC
+PLAYERS: Kepa Arrizabalaga, Iñigo Martínez, Yeray Álvarez, Enric Saborit, Iñigo Lekue, Mikel San José, Ander Iturraspe, Mikel Vesga, Iñigo Córdoba, Markel Susaeta, Iñaki Williams
+
+MATCH: 2899908 | sob., 12.05.2018 | Deportivo Alavés
+PLAYERS: Kepa Arrizabalaga, Iñigo Martínez, Yeray Álvarez, Unai Núñez, Beñat Etxebarria, Mikel Rico, Óscar de Marcos, Enric Saborit, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2919808 | czw., 28.09.2017 | Zorya Lugansk
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Enric Saborit, Eneko Bóveda, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2919886 | czw., 23.11.2017 | Hertha BSC
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Mikel Rico, Ager Aketxe, Iñigo Córdoba, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2899702 | sob., 16.12.2017 | Real Sociedad
+PLAYERS: Iago Herrerín, Aymeric Laporte, Unai Núñez, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Mikel Rico, Óscar de Marcos, Raúl García, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2899785 | niedz., 18.02.2018 | Atlético Madryt
+PLAYERS: Kepa Arrizabalaga, Iñigo Martínez, Unai Núñez, Enric Saborit, Iñigo Lekue, Mikel Vesga, Mikel San José, Beñat Etxebarria, Sabin Merino, Markel Susaeta, Iñaki Williams
+
+MATCH: 2899710 | niedz., 07.01.2018 | Deportivo Alavés
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Enric Saborit, Óscar de Marcos, Ander Iturraspe, Mikel Rico, Raúl García, Iñaki Williams, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2899613 | sob., 14.10.2017 | Sevilla FC
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Unai Núñez, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Mikel Vesga, Raúl García, Iñigo Córdoba, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2899649 | sob., 28.10.2017 | FC Barcelona
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Unai Núñez, Iñigo Lekue, Eneko Bóveda, Mikel San José, Ander Iturraspe, Raúl García, Iñigo Córdoba, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2899674 | niedz., 19.11.2017 | Villarreal CF
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Unai Núñez, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Ander Iturraspe, Raúl García, Iñigo Córdoba, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2899745 | pt., 19.01.2018 | Getafe CF
+PLAYERS: Iago Herrerín, Aymeric Laporte, Unai Núñez, Enric Saborit, Iñigo Lekue, Ander Iturraspe, Mikel Rico, Raúl García, Markel Susaeta, Iñaki Williams, Sabin Merino
+
+MATCH: 2899763 | pt., 26.01.2018 | SD Eibar
+PLAYERS: Iago Herrerín, Unai Núñez, Xabi Etxeita, Enric Saborit, Iñigo Lekue, Ander Iturraspe, Mikel Rico, Raúl García, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2929835 | śr., 29.11.2017 | SD Formentera
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Enric Saborit, Iñigo Lekue, Mikel Vesga, Mikel San José, Ager Aketxe, Iñigo Córdoba, Sabin Merino, Iñaki Williams
+
+MATCH: 3009825 | czw., 15.03.2018 | Olympique Marseille
+PLAYERS: Iago Herrerín, Yeray Álvarez, Xabi Etxeita, Iñigo Lekue, Óscar de Marcos, Ander Iturraspe, Beñat Etxebarria, Mikel Rico, Iñigo Córdoba, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2899689 | niedz., 10.12.2017 | Levante UD
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Unai Núñez, Mikel Balenziaga, Iñigo Lekue, Mikel Vesga, Mikel Rico, Óscar de Marcos, Raúl García, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2899933 | niedz., 27.08.2017 | SD Eibar
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Unai Núñez, Enric Saborit, Eneko Bóveda, Mikel San José, Mikel Vesga, Raúl García, Iñigo Córdoba, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2899687 | sob., 02.12.2017 | Real Madryt
+PLAYERS: Kepa Arrizabalaga, Xabi Etxeita, Unai Núñez, Mikel Balenziaga, Óscar de Marcos, Ander Iturraspe, Mikel Rico, Raúl García, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2919840 | czw., 19.10.2017 | Östersunds FK
+PLAYERS: Iago Herrerín, Aymeric Laporte, Xabi Etxeita, Mikel Balenziaga, Iñigo Lekue, Mikel Vesga, Ander Iturraspe, Raúl García, Iñigo Córdoba, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2899796 | niedz., 25.02.2018 | Málaga CF
+PLAYERS: Kepa Arrizabalaga, Iñigo Martínez, Yeray Álvarez, Iñigo Lekue, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iñigo Córdoba, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2899677 | niedz., 26.11.2017 | Deportivo de La Coruña
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Unai Núñez, Mikel Balenziaga, Eneko Bóveda, Ander Iturraspe, Mikel Rico, Óscar de Marcos, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2899797 | śr., 28.02.2018 | Valencia CF
+PLAYERS: Kepa Arrizabalaga, Iñigo Martínez, Unai Núñez, Enric Saborit, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iñigo Córdoba, Markel Susaeta, Aritz Aduriz
+
+MATCH: 2919923 | czw., 07.12.2017 | Zorya Lugansk
+PLAYERS: Iago Herrerín, Aymeric Laporte, Unai Núñez, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Mikel Rico, Raúl García, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2899720 | pt., 22.12.2017 | Real Betis Balompié
+PLAYERS: Iago Herrerín, Aymeric Laporte, Unai Núñez, Enric Saborit, Iñigo Lekue, Ander Iturraspe, Mikel Rico, Óscar de Marcos, Raúl García, Markel Susaeta, Iñaki Williams
+
+MATCH: 2899746 | niedz., 04.02.2018 | Girona FC
+PLAYERS: Iago Herrerín, Iñigo Martínez, Yeray Álvarez, Unai Núñez, Ander Iturraspe, Beñat Etxebarria, Mikel Rico, Iñigo Lekue, Andoni López, Raúl García, Iñaki Williams
+
+MATCH: 2899897 | sob., 31.03.2018 | Celta de Vigo
+PLAYERS: Kepa Arrizabalaga, Iñigo Martínez, Unai Núñez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Ander Iturraspe, Raúl García, Iñigo Córdoba, Markel Susaeta, Iñaki Williams
+
+MATCH: 2899559 | niedz., 20.08.2017 | Getafe CF
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Unai Núñez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Markel Susaeta, Iñaki Williams
+
+MATCH: 2899829 | niedz., 11.03.2018 | CD Leganés
+PLAYERS: Kepa Arrizabalaga, Iñigo Martínez, Unai Núñez, Enric Saborit, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iñigo Córdoba, Markel Susaeta, Iñaki Williams
+
+MATCH: 2899588 | niedz., 17.09.2017 | UD Las Palmas
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Unai Núñez, Enric Saborit, Eneko Bóveda, Mikel Vesga, Ander Iturraspe, Raúl García, Sabin Merino, Markel Susaeta, Iñaki Williams
+
+MATCH: 2899900 | sob., 28.04.2018 | Real Sociedad
+PLAYERS: Kepa Arrizabalaga, Iñigo Martínez, Unai Núñez, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Ander Iturraspe, Iñigo Lekue, Raúl García, Iñigo Córdoba, Iñaki Williams
+
+MATCH: 2899648 | niedz., 05.11.2017 | Celta de Vigo
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Unai Núñez, Mikel Balenziaga, Eneko Bóveda, Mikel Vesga, Mikel San José, Raúl García, Iñigo Córdoba, Markel Susaeta, Iñaki Williams
+
+MATCH: 2899627 | niedz., 01.10.2017 | Valencia CF
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Unai Núñez, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Mikel Vesga, Ander Iturraspe, Iñigo Córdoba, Markel Susaeta, Iñaki Williams
+
+MATCH: 2899598 | śr., 20.09.2017 | Atlético Madryt
+PLAYERS: Kepa Arrizabalaga, Aymeric Laporte, Unai Núñez, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Ander Iturraspe, Raúl García, Iker Muniain, Markel Susaeta, Aritz Aduriz
+
+MATCH: 3009817 | czw., 08.03.2018 | Olympique Marseille
+PLAYERS: Iago Herrerín, Yeray Álvarez, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2929827 | śr., 25.10.2017 | SD Formentera
+PLAYERS: Kepa Arrizabalaga, Xabi Etxeita, Óscar Gil, Enric Saborit, Iñigo Lekue, Mikel Vesga, Beñat Etxebarria, Ager Aketxe, Sabin Merino, Markel Susaeta, Kike Sola
+
+MATCH: 2899573 | niedz., 10.09.2017 | Girona FC
+PLAYERS: Iago Herrerín, Aymeric Laporte, Unai Núñez, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Beñat Etxebarria, Raúl García, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2982091 | czw., 22.02.2018 | Spartak Moskwa
+PLAYERS: Iago Herrerín, Yeray Álvarez, Xabi Etxeita, Enric Saborit, Iñigo Lekue, Ander Iturraspe, Mikel Rico, Óscar de Marcos, Raúl García, Markel Susaeta, Iñaki Williams
+
+MATCH: 2899826 | niedz., 18.03.2018 | FC Barcelona
+PLAYERS: Kepa Arrizabalaga, Iñigo Martínez, Unai Núñez, Enric Saborit, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Iñigo Lekue, Raúl García, Markel Susaeta, Sabin Merino
+
+MATCH: 2899742 | niedz., 14.01.2018 | RCD Espanyol
+PLAYERS: Iago Herrerín, Aymeric Laporte, Unai Núñez, Enric Saborit, Iñigo Lekue, Ander Iturraspe, Mikel Rico, Raúl García, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2899925 | niedz., 20.05.2018 | RCD Espanyol
+PLAYERS: Kepa Arrizabalaga, Yeray Álvarez, Unai Núñez, Xabi Etxeita, Mikel Vesga, Beñat Etxebarria, Óscar de Marcos, Iñigo Lekue, Iker Muniain, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2899861 | sob., 14.04.2018 | Deportivo de La Coruña
+PLAYERS: Kepa Arrizabalaga, Iñigo Martínez, Xabi Etxeita, Mikel Balenziaga, Óscar de Marcos, Mikel San José, Beñat Etxebarria, Raúl García, Iñigo Córdoba, Markel Susaeta, Iñaki Williams
+
+MATCH: 2982075 | czw., 15.02.2018 | Spartak Moskwa
+PLAYERS: Iago Herrerín, Yeray Álvarez, Xabi Etxeita, Iñigo Lekue, Óscar de Marcos, Ander Iturraspe, Mikel Rico, Raúl García, Markel Susaeta, Iñaki Williams, Aritz Aduriz
+
+MATCH: 2899884 | śr., 18.04.2018 | Real Madryt
+PLAYERS: Kepa Arrizabalaga, Iñigo Martínez, Unai Núñez, Mikel Balenziaga, Iñigo Lekue, Mikel San José, Ander Iturraspe, Óscar de Marcos, Raúl García, Iñigo Córdoba, Iñaki Williams
+

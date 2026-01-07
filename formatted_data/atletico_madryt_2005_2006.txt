@@ -1,0 +1,127 @@
+# Team: Atlético Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2666567 | śr., 09.11.2005 | CD Alcoyano
+PLAYERS: Leo Franco, García Calvo, Luis Amaranto Perea, Antonio López, Juan Valera, José Ignacio Zahinos, Peter Luccin, Mario Suárez, Ariel Ibagaza, Luciano Galletti, Fernando Torres
+
+MATCH: 49095 | czw., 27.10.2005 | Cádiz CF
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Juan Velasco, Antonio López, Peter Luccin, José Ignacio Zahinos, Martin Petrov, Maxi Rodríguez, Mateja Kežman, Fernando Torres
+
+MATCH: 35944 | niedz., 23.04.2006 | Deportivo Alavés
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, Francisco Molinero, Juan Valera, Peter Luccin, Gabi, Luciano Galletti, Fernando Marqués, Manu del Moral
+
+MATCH: 35871 | niedz., 23.10.2005 | Racing Santander
+PLAYERS: Leo Franco, Juan Velasco, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, José Ignacio Zahinos, Peter Luccin, Martin Petrov, Maxi Rodríguez, Fernando Torres, Mateja Kežman
+
+MATCH: 37218 | niedz., 28.08.2005 | Real Zaragoza
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Juan Velasco, Antonio López, Peter Luccin, Gabi, Martin Petrov, Maxi Rodríguez, Mateja Kežman, Fernando Torres
+
+MATCH: 35882 | niedz., 20.11.2005 | Celta de Vigo
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, Juan Valera, Peter Luccin, José Ignacio Zahinos, Gabi, Ariel Ibagaza, Luciano Galletti, Fernando Torres
+
+MATCH: 37225 | śr., 21.09.2005 | Real Sociedad
+PLAYERS: Leo Franco, García Calvo, Juan Velasco, Antonio López, Peter Luccin, José Ignacio Zahinos, Gabi, Martin Petrov, Maxi Rodríguez, Mateja Kežman, Fernando Torres
+
+MATCH: 35855 | sob., 24.09.2005 | Getafe CF
+PLAYERS: Leo Franco, García Calvo, Pablo Ibáñez, Juan Velasco, Antonio López, Peter Luccin, Gabi, Martin Petrov, Maxi Rodríguez, Mateja Kežman, Fernando Torres
+
+MATCH: 36033 | niedz., 05.02.2006 | FC Barcelona
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Francisco Molinero, Peter Luccin, Ariel Ibagaza, Martin Petrov, Luciano Galletti, Maxi Rodríguez, Fernando Torres
+
+MATCH: 35969 | niedz., 18.09.2005 | FC Barcelona
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Juan Velasco, Peter Luccin, Gabi, Martin Petrov, Maxi Rodríguez, Fernando Torres, Mateja Kežman
+
+MATCH: 35907 | sob., 28.01.2006 | Deportivo de La Coruña
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Juan Velasco, Antonio López, Peter Luccin, Ariel Ibagaza, Martin Petrov, Maxi Rodríguez, Mateja Kežman, Fernando Torres
+
+MATCH: 35955 | śr., 03.05.2006 | CA Osasuna
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Sicilia, Antonio López, Francisco Molinero, Juan Valera, Peter Luccin, Ariel Ibagaza, Luciano Galletti, Mateja Kežman, Fernando Torres
+
+MATCH: 37238 | sob., 15.10.2005 | Real Madryt
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Juan Velasco, José Ignacio Zahinos, Peter Luccin, Martin Petrov, Maxi Rodríguez, Mateja Kežman, Fernando Torres
+
+MATCH: 35917 | sob., 25.02.2006 | Málaga CF
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Juan Velasco, Antonio López, Peter Luccin, Gabi, Martin Petrov, Maxi Rodríguez, Mateja Kežman, Fernando Torres
+
+MATCH: 37368 | niedz., 07.05.2006 | Valencia CF
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Juan Velasco, Antonio López, Peter Luccin, Gabi, Martin Petrov, Maxi Rodríguez, Mateja Kežman, Fernando Torres
+
+MATCH: 35986 | niedz., 02.10.2005 | Málaga CF
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Juan Velasco, Antonio López, Peter Luccin, José Ignacio Zahinos, Martin Petrov, Maxi Rodríguez, Mateja Kežman, Fernando Torres
+
+MATCH: 35888 | niedz., 27.11.2005 | RCD Espanyol
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, Juan Valera, Peter Luccin, Gabi, Martin Petrov, Maxi Rodríguez, Mateja Kežman, Fernando Torres
+
+MATCH: 35964 | sob., 10.09.2005 | Deportivo de La Coruña
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, Juan Valera, Peter Luccin, José Ignacio Zahinos, Gabi, Maxi Rodríguez, Luciano Galletti, Fernando Torres
+
+MATCH: 2666553 | śr., 19.10.2005 | UD Las Palmas
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Francisco Molinero, Juan Valera, José Ignacio Zahinos, Peter Luccin, Gabi, Ariel Ibagaza, Fernando Torres, Mateja Kežman
+
+MATCH: 37295 | sob., 21.01.2006 | Real Zaragoza
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Juan Velasco, Antonio López, Peter Luccin, Ariel Ibagaza, Martin Petrov, Maxi Rodríguez, Mateja Kežman, Fernando Torres
+
+MATCH: 37321 | niedz., 12.03.2006 | Racing Santander
+PLAYERS: Leo Franco, Juan Velasco, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Gonzalo Colsa, Gabi, Martin Petrov, Luciano Galletti, Fernando Torres, Mateja Kežman
+
+MATCH: 36041 | niedz., 19.02.2006 | Getafe CF
+PLAYERS: Leo Franco, García Calvo, Pablo Ibáñez, Juan Velasco, Antonio López, Peter Luccin, Ariel Ibagaza, Martin Petrov, Maxi Rodríguez, Mateja Kežman, Fernando Torres
+
+MATCH: 35943 | niedz., 16.04.2006 | Athletic Bilbao
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, Francisco Molinero, Peter Luccin, Ariel Ibagaza, Martin Petrov, Luciano Galletti, Mateja Kežman, Fernando Torres
+
+MATCH: 49108 | niedz., 06.11.2005 | Sevilla FC
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Juan Velasco, Antonio López, José Ignacio Zahinos, Gabi, Martin Petrov, Maxi Rodríguez, Mateja Kežman, Fernando Torres
+
+MATCH: 37280 | czw., 22.12.2005 | CA Osasuna
+PLAYERS: Roberto, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, Juan Valera, Gonzalo Colsa, Mario Suárez, Gabi, Martin Petrov, Maxi Rodríguez, Fernando Torres
+
+MATCH: 36076 | sob., 13.05.2006 | Real Betis Balompié
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, Francisco Molinero, Gabi, Martin Petrov, Maxi Rodríguez, Luciano Galletti, Mateja Kežman, Fernando Torres
+
+MATCH: 35913 | niedz., 12.02.2006 | Real Sociedad
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Juan Velasco, Francisco Molinero, Peter Luccin, Ariel Ibagaza, Martin Petrov, Maxi Rodríguez, Luciano Galletti, Fernando Torres
+
+MATCH: 35940 | niedz., 09.04.2006 | RCD Espanyol
+PLAYERS: Leo Franco, García Calvo, Luis Amaranto Perea, Antonio López, Francisco Molinero, Juan Valera, Peter Luccin, Ariel Ibagaza, Luciano Galletti, Mateja Kežman, Fernando Torres
+
+MATCH: 35902 | niedz., 08.01.2006 | Valencia CF
+PLAYERS: Ismael Falcón, Pablo Ibáñez, Luis Amaranto Perea, Juan Velasco, Antonio López, Gonzalo Colsa, Mario Suárez, José Ignacio Zahinos, Ariel Ibagaza, Martin Petrov, Fernando Torres
+
+MATCH: 35952 | niedz., 30.04.2006 | RCD Mallorca
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, Francisco Molinero, Peter Luccin, Gabi, Martin Petrov, Luciano Galletti, Mateja Kežman, Fernando Torres
+
+MATCH: 35890 | sob., 03.12.2005 | Athletic Bilbao
+PLAYERS: Leo Franco, García Calvo, Luis Amaranto Perea, Francisco Molinero, Juan Valera, José Ignacio Zahinos, Gabi, Ariel Ibagaza, Martin Petrov, Maxi Rodríguez, Mateja Kežman
+
+MATCH: 37332 | śr., 22.03.2006 | Sevilla FC
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Juan Velasco, Antonio López, Peter Luccin, Ariel Ibagaza, Martin Petrov, Luciano Galletti, Manu del Moral, Fernando Torres
+
+MATCH: 35930 | niedz., 26.03.2006 | Cádiz CF
+PLAYERS: Leo Franco, García Calvo, Pablo Ibáñez, Juan Velasco, Antonio López, Gonzalo Colsa, Ariel Ibagaza, Martin Petrov, Luciano Galletti, Mateja Kežman, Fernando Torres
+
+MATCH: 36051 | niedz., 05.03.2006 | Real Madryt
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Juan Velasco, Peter Luccin, Gabi, Juan Valera, Martin Petrov, Mateja Kežman, Fernando Torres
+
+MATCH: 2423092 | śr., 11.01.2006 | Real Zaragoza
+PLAYERS: Ismael Falcón, García Calvo, Pablo Ibáñez, Antonio López, Juan Valera, Gonzalo Colsa, José Ignacio Zahinos, Ariel Ibagaza, Martin Petrov, Maxi Rodríguez, Fernando Torres
+
+MATCH: 37331 | niedz., 19.03.2006 | Villarreal CF
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Francisco Molinero, Juan Velasco, Peter Luccin, Ariel Ibagaza, Antonio López, Luciano Galletti, Fernando Torres, Mateja Kežman
+
+MATCH: 35935 | niedz., 02.04.2006 | Celta de Vigo
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Juan Velasco, Peter Luccin, Gabi, Martin Petrov, Luciano Galletti, Fernando Torres, Mateja Kežman
+
+MATCH: 49107 | niedz., 30.10.2005 | Villarreal CF
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Juan Velasco, Antonio López, José Ignacio Zahinos, Gabi, Martin Petrov, Maxi Rodríguez, Mateja Kežman, Fernando Torres
+
+MATCH: 36021 | sob., 14.01.2006 | Real Betis Balompié
+PLAYERS: Ismael Falcón, Pablo Ibáñez, Luis Amaranto Perea, Juan Velasco, Antonio López, José Ignacio Zahinos, Gabi, Ariel Ibagaza, Martin Petrov, Maxi Rodríguez, Fernando Torres
+
+MATCH: 2423100 | śr., 18.01.2006 | Real Zaragoza
+PLAYERS: Ismael Falcón, Juan Velasco, García Calvo, Pablo Ibáñez, Antonio López, Peter Luccin, Ariel Ibagaza, Martin Petrov, Luciano Galletti, Fernando Torres, Mateja Kežman
+
+MATCH: 36012 | niedz., 18.12.2005 | RCD Mallorca
+PLAYERS: Ismael Falcón, Pablo Ibáñez, Luis Amaranto Perea, Juan Velasco, Antonio López, Gonzalo Colsa, José Ignacio Zahinos, Ariel Ibagaza, Martin Petrov, Maxi Rodríguez, Fernando Torres
+

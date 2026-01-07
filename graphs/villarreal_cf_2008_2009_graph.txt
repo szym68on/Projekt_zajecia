@@ -1,0 +1,257 @@
+# Graph for Java/GraphStream
+# Nodes: 24
+# Edges: 251
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Diego López | Gonzalo Rodríguez | 34 | 47 | 35
+EDGE Diego López | Diego Godín | 38 | 47 | 38
+EDGE Diego López | Joan Capdevila | 44 | 47 | 44
+EDGE Diego López | Javi Venta | 23 | 47 | 25
+EDGE Diego López | Sebastián Eguren | 35 | 47 | 36
+EDGE Diego López | Ariel Ibagaza | 23 | 47 | 24
+EDGE Diego López | Robert Pirès | 29 | 47 | 29
+EDGE Diego López | Cani | 19 | 47 | 22
+EDGE Diego López | Giuseppe Rossi | 36 | 47 | 37
+EDGE Diego López | Joseba Llorente | 32 | 47 | 32
+EDGE Diego López | Ángel López | 26 | 47 | 28
+EDGE Diego López | Matías Fernández | 8 | 47 | 11
+EDGE Diego López | Fabricio Fuentes | 18 | 47 | 21
+EDGE Diego López | Bruno Soriano | 14 | 47 | 17
+EDGE Diego López | Nihat Kahveci | 9 | 47 | 9
+EDGE Diego López | Marcos Senna | 32 | 47 | 33
+EDGE Diego López | Santi Cazorla | 32 | 47 | 32
+EDGE Diego López | Pascal Cygan | 3 | 47 | 5
+EDGE Diego López | Jozy Altidore | 2 | 47 | 4
+EDGE Diego López | Edmílson | 5 | 47 | 8
+EDGE Diego López | Guillermo Franco | 7 | 47 | 9
+EDGE Diego López | Javier Matilla | 1 | 47 | 1
+EDGE Gonzalo Rodríguez | Diego Godín | 28 | 35 | 38
+EDGE Gonzalo Rodríguez | Joan Capdevila | 33 | 35 | 44
+EDGE Gonzalo Rodríguez | Javi Venta | 16 | 35 | 25
+EDGE Gonzalo Rodríguez | Sebastián Eguren | 27 | 35 | 36
+EDGE Gonzalo Rodríguez | Ariel Ibagaza | 16 | 35 | 24
+EDGE Gonzalo Rodríguez | Robert Pirès | 23 | 35 | 29
+EDGE Gonzalo Rodríguez | Cani | 15 | 35 | 22
+EDGE Gonzalo Rodríguez | Giuseppe Rossi | 26 | 35 | 37
+EDGE Gonzalo Rodríguez | Joseba Llorente | 25 | 35 | 32
+EDGE Gonzalo Rodríguez | Ángel López | 20 | 35 | 28
+EDGE Gonzalo Rodríguez | Matías Fernández | 6 | 35 | 11
+EDGE Gonzalo Rodríguez | Fabricio Fuentes | 6 | 35 | 21
+EDGE Gonzalo Rodríguez | Bruno Soriano | 11 | 35 | 17
+EDGE Gonzalo Rodríguez | Nihat Kahveci | 5 | 35 | 9
+EDGE Gonzalo Rodríguez | Marcos Senna | 23 | 35 | 33
+EDGE Gonzalo Rodríguez | Santi Cazorla | 20 | 35 | 32
+EDGE Gonzalo Rodríguez | Edmílson | 5 | 35 | 8
+EDGE Gonzalo Rodríguez | Guillermo Franco | 7 | 35 | 9
+EDGE Gonzalo Rodríguez | Sebastián Viera | 1 | 35 | 3
+EDGE Gonzalo Rodríguez | Jozy Altidore | 1 | 35 | 4
+EDGE Gonzalo Rodríguez | Javier Matilla | 1 | 35 | 1
+EDGE Gonzalo Rodríguez | Pascal Cygan | 1 | 35 | 5
+EDGE Diego Godín | Joan Capdevila | 35 | 38 | 44
+EDGE Diego Godín | Javi Venta | 18 | 38 | 25
+EDGE Diego Godín | Sebastián Eguren | 29 | 38 | 36
+EDGE Diego Godín | Ariel Ibagaza | 20 | 38 | 24
+EDGE Diego Godín | Robert Pirès | 23 | 38 | 29
+EDGE Diego Godín | Cani | 17 | 38 | 22
+EDGE Diego Godín | Giuseppe Rossi | 29 | 38 | 37
+EDGE Diego Godín | Joseba Llorente | 28 | 38 | 32
+EDGE Diego Godín | Ángel López | 22 | 38 | 28
+EDGE Diego Godín | Matías Fernández | 6 | 38 | 11
+EDGE Diego Godín | Marcos Senna | 26 | 38 | 33
+EDGE Diego Godín | Santi Cazorla | 24 | 38 | 32
+EDGE Diego Godín | Fabricio Fuentes | 10 | 38 | 21
+EDGE Diego Godín | Nihat Kahveci | 8 | 38 | 9
+EDGE Diego Godín | Bruno Soriano | 11 | 38 | 17
+EDGE Diego Godín | Guillermo Franco | 4 | 38 | 9
+EDGE Diego Godín | Jozy Altidore | 1 | 38 | 4
+EDGE Diego Godín | Edmílson | 3 | 38 | 8
+EDGE Joan Capdevila | Javi Venta | 21 | 44 | 25
+EDGE Joan Capdevila | Sebastián Eguren | 32 | 44 | 36
+EDGE Joan Capdevila | Ariel Ibagaza | 20 | 44 | 24
+EDGE Joan Capdevila | Robert Pirès | 28 | 44 | 29
+EDGE Joan Capdevila | Cani | 18 | 44 | 22
+EDGE Joan Capdevila | Giuseppe Rossi | 33 | 44 | 37
+EDGE Joan Capdevila | Joseba Llorente | 30 | 44 | 32
+EDGE Joan Capdevila | Ángel López | 23 | 44 | 28
+EDGE Joan Capdevila | Matías Fernández | 8 | 44 | 11
+EDGE Joan Capdevila | Fabricio Fuentes | 16 | 44 | 21
+EDGE Joan Capdevila | Bruno Soriano | 13 | 44 | 17
+EDGE Joan Capdevila | Nihat Kahveci | 9 | 44 | 9
+EDGE Joan Capdevila | Marcos Senna | 30 | 44 | 33
+EDGE Joan Capdevila | Santi Cazorla | 29 | 44 | 32
+EDGE Joan Capdevila | Pascal Cygan | 3 | 44 | 5
+EDGE Joan Capdevila | Jozy Altidore | 2 | 44 | 4
+EDGE Joan Capdevila | Edmílson | 5 | 44 | 8
+EDGE Joan Capdevila | Guillermo Franco | 7 | 44 | 9
+EDGE Joan Capdevila | Javier Matilla | 1 | 44 | 1
+EDGE Javi Venta | Sebastián Eguren | 17 | 25 | 36
+EDGE Javi Venta | Ariel Ibagaza | 12 | 25 | 24
+EDGE Javi Venta | Robert Pirès | 16 | 25 | 29
+EDGE Javi Venta | Cani | 12 | 25 | 22
+EDGE Javi Venta | Giuseppe Rossi | 19 | 25 | 37
+EDGE Javi Venta | Joseba Llorente | 17 | 25 | 32
+EDGE Javi Venta | Sebastián Viera | 2 | 25 | 3
+EDGE Javi Venta | Pascal Cygan | 3 | 25 | 5
+EDGE Javi Venta | Fabricio Fuentes | 12 | 25 | 21
+EDGE Javi Venta | Ángel López | 3 | 25 | 28
+EDGE Javi Venta | Bruno Soriano | 7 | 25 | 17
+EDGE Javi Venta | Edmílson | 5 | 25 | 8
+EDGE Javi Venta | Matías Fernández | 6 | 25 | 11
+EDGE Javi Venta | Jozy Altidore | 4 | 25 | 4
+EDGE Javi Venta | Guillermo Franco | 5 | 25 | 9
+EDGE Javi Venta | Marcos Senna | 14 | 25 | 33
+EDGE Javi Venta | Santi Cazorla | 16 | 25 | 32
+EDGE Javi Venta | Nihat Kahveci | 1 | 25 | 9
+EDGE Javi Venta | Javier Matilla | 1 | 25 | 1
+EDGE Sebastián Eguren | Ariel Ibagaza | 19 | 36 | 24
+EDGE Sebastián Eguren | Robert Pirès | 22 | 36 | 29
+EDGE Sebastián Eguren | Cani | 17 | 36 | 22
+EDGE Sebastián Eguren | Giuseppe Rossi | 27 | 36 | 37
+EDGE Sebastián Eguren | Joseba Llorente | 21 | 36 | 32
+EDGE Sebastián Eguren | Ángel López | 21 | 36 | 28
+EDGE Sebastián Eguren | Matías Fernández | 7 | 36 | 11
+EDGE Sebastián Eguren | Fabricio Fuentes | 12 | 36 | 21
+EDGE Sebastián Eguren | Bruno Soriano | 9 | 36 | 17
+EDGE Sebastián Eguren | Nihat Kahveci | 7 | 36 | 9
+EDGE Sebastián Eguren | Sebastián Viera | 1 | 36 | 3
+EDGE Sebastián Eguren | Pascal Cygan | 3 | 36 | 5
+EDGE Sebastián Eguren | Edmílson | 2 | 36 | 8
+EDGE Sebastián Eguren | Guillermo Franco | 6 | 36 | 9
+EDGE Sebastián Eguren | Jozy Altidore | 3 | 36 | 4
+EDGE Sebastián Eguren | Marcos Senna | 20 | 36 | 33
+EDGE Sebastián Eguren | Santi Cazorla | 22 | 36 | 32
+EDGE Sebastián Eguren | Javier Matilla | 1 | 36 | 1
+EDGE Ariel Ibagaza | Robert Pirès | 6 | 24 | 29
+EDGE Ariel Ibagaza | Cani | 10 | 24 | 22
+EDGE Ariel Ibagaza | Giuseppe Rossi | 16 | 24 | 37
+EDGE Ariel Ibagaza | Joseba Llorente | 17 | 24 | 32
+EDGE Ariel Ibagaza | Fabricio Fuentes | 11 | 24 | 21
+EDGE Ariel Ibagaza | Ángel López | 14 | 24 | 28
+EDGE Ariel Ibagaza | Marcos Senna | 16 | 24 | 33
+EDGE Ariel Ibagaza | Santi Cazorla | 14 | 24 | 32
+EDGE Ariel Ibagaza | Nihat Kahveci | 6 | 24 | 9
+EDGE Ariel Ibagaza | Pascal Cygan | 1 | 24 | 5
+EDGE Ariel Ibagaza | Bruno Soriano | 7 | 24 | 17
+EDGE Ariel Ibagaza | Jozy Altidore | 1 | 24 | 4
+EDGE Ariel Ibagaza | Edmílson | 3 | 24 | 8
+EDGE Ariel Ibagaza | Guillermo Franco | 4 | 24 | 9
+EDGE Ariel Ibagaza | Sebastián Viera | 1 | 24 | 3
+EDGE Ariel Ibagaza | Matías Fernández | 3 | 24 | 11
+EDGE Robert Pirès | Cani | 14 | 29 | 22
+EDGE Robert Pirès | Giuseppe Rossi | 24 | 29 | 37
+EDGE Robert Pirès | Joseba Llorente | 19 | 29 | 32
+EDGE Robert Pirès | Ángel López | 14 | 29 | 28
+EDGE Robert Pirès | Matías Fernández | 5 | 29 | 11
+EDGE Robert Pirès | Fabricio Fuentes | 9 | 29 | 21
+EDGE Robert Pirès | Bruno Soriano | 8 | 29 | 17
+EDGE Robert Pirès | Nihat Kahveci | 3 | 29 | 9
+EDGE Robert Pirès | Marcos Senna | 18 | 29 | 33
+EDGE Robert Pirès | Santi Cazorla | 20 | 29 | 32
+EDGE Robert Pirès | Pascal Cygan | 2 | 29 | 5
+EDGE Robert Pirès | Jozy Altidore | 1 | 29 | 4
+EDGE Robert Pirès | Javier Matilla | 1 | 29 | 1
+EDGE Robert Pirès | Guillermo Franco | 3 | 29 | 9
+EDGE Robert Pirès | Edmílson | 2 | 29 | 8
+EDGE Cani | Giuseppe Rossi | 16 | 22 | 37
+EDGE Cani | Joseba Llorente | 13 | 22 | 32
+EDGE Cani | Ángel López | 12 | 22 | 28
+EDGE Cani | Matías Fernández | 9 | 22 | 11
+EDGE Cani | Sebastián Viera | 3 | 22 | 3
+EDGE Cani | Pascal Cygan | 2 | 22 | 5
+EDGE Cani | Fabricio Fuentes | 9 | 22 | 21
+EDGE Cani | Bruno Soriano | 8 | 22 | 17
+EDGE Cani | Edmílson | 4 | 22 | 8
+EDGE Cani | Jozy Altidore | 2 | 22 | 4
+EDGE Cani | Nihat Kahveci | 3 | 22 | 9
+EDGE Cani | Guillermo Franco | 3 | 22 | 9
+EDGE Cani | Marcos Senna | 8 | 22 | 33
+EDGE Cani | Santi Cazorla | 6 | 22 | 32
+EDGE Giuseppe Rossi | Joseba Llorente | 22 | 37 | 32
+EDGE Giuseppe Rossi | Ángel López | 21 | 37 | 28
+EDGE Giuseppe Rossi | Matías Fernández | 7 | 37 | 11
+EDGE Giuseppe Rossi | Sebastián Viera | 1 | 37 | 3
+EDGE Giuseppe Rossi | Pascal Cygan | 4 | 37 | 5
+EDGE Giuseppe Rossi | Fabricio Fuentes | 14 | 37 | 21
+EDGE Giuseppe Rossi | Bruno Soriano | 13 | 37 | 17
+EDGE Giuseppe Rossi | Edmílson | 3 | 37 | 8
+EDGE Giuseppe Rossi | Jozy Altidore | 3 | 37 | 4
+EDGE Giuseppe Rossi | Marcos Senna | 24 | 37 | 33
+EDGE Giuseppe Rossi | Santi Cazorla | 25 | 37 | 32
+EDGE Giuseppe Rossi | Nihat Kahveci | 4 | 37 | 9
+EDGE Giuseppe Rossi | Guillermo Franco | 2 | 37 | 9
+EDGE Giuseppe Rossi | Javier Matilla | 1 | 37 | 1
+EDGE Joseba Llorente | Ángel López | 16 | 32 | 28
+EDGE Joseba Llorente | Matías Fernández | 3 | 32 | 11
+EDGE Joseba Llorente | Fabricio Fuentes | 10 | 32 | 21
+EDGE Joseba Llorente | Bruno Soriano | 11 | 32 | 17
+EDGE Joseba Llorente | Nihat Kahveci | 5 | 32 | 9
+EDGE Joseba Llorente | Marcos Senna | 22 | 32 | 33
+EDGE Joseba Llorente | Santi Cazorla | 20 | 32 | 32
+EDGE Joseba Llorente | Edmílson | 3 | 32 | 8
+EDGE Joseba Llorente | Guillermo Franco | 4 | 32 | 9
+EDGE Joseba Llorente | Pascal Cygan | 1 | 32 | 5
+EDGE Joseba Llorente | Javier Matilla | 1 | 32 | 1
+EDGE Ángel López | Matías Fernández | 6 | 28 | 11
+EDGE Ángel López | Sebastián Viera | 2 | 28 | 3
+EDGE Ángel López | Pascal Cygan | 3 | 28 | 5
+EDGE Ángel López | Fabricio Fuentes | 11 | 28 | 21
+EDGE Ángel López | Bruno Soriano | 11 | 28 | 17
+EDGE Ángel López | Edmílson | 4 | 28 | 8
+EDGE Ángel López | Jozy Altidore | 1 | 28 | 4
+EDGE Ángel López | Nihat Kahveci | 8 | 28 | 9
+EDGE Ángel López | Marcos Senna | 20 | 28 | 33
+EDGE Ángel López | Santi Cazorla | 18 | 28 | 32
+EDGE Ángel López | Guillermo Franco | 4 | 28 | 9
+EDGE Matías Fernández | Sebastián Viera | 3 | 11 | 3
+EDGE Matías Fernández | Pascal Cygan | 2 | 11 | 5
+EDGE Matías Fernández | Fabricio Fuentes | 7 | 11 | 21
+EDGE Matías Fernández | Bruno Soriano | 4 | 11 | 17
+EDGE Matías Fernández | Edmílson | 6 | 11 | 8
+EDGE Matías Fernández | Jozy Altidore | 2 | 11 | 4
+EDGE Matías Fernández | Guillermo Franco | 4 | 11 | 9
+EDGE Matías Fernández | Marcos Senna | 4 | 11 | 33
+EDGE Matías Fernández | Santi Cazorla | 3 | 11 | 32
+EDGE Matías Fernández | Nihat Kahveci | 1 | 11 | 9
+EDGE Sebastián Viera | Pascal Cygan | 2 | 3 | 5
+EDGE Sebastián Viera | Fabricio Fuentes | 3 | 3 | 21
+EDGE Sebastián Viera | Bruno Soriano | 3 | 3 | 17
+EDGE Sebastián Viera | Edmílson | 3 | 3 | 8
+EDGE Sebastián Viera | Jozy Altidore | 2 | 3 | 4
+EDGE Sebastián Viera | Guillermo Franco | 2 | 3 | 9
+EDGE Sebastián Viera | Marcos Senna | 1 | 3 | 33
+EDGE Pascal Cygan | Fabricio Fuentes | 4 | 5 | 21
+EDGE Pascal Cygan | Bruno Soriano | 4 | 5 | 17
+EDGE Pascal Cygan | Edmílson | 2 | 5 | 8
+EDGE Pascal Cygan | Jozy Altidore | 3 | 5 | 4
+EDGE Pascal Cygan | Guillermo Franco | 2 | 5 | 9
+EDGE Pascal Cygan | Santi Cazorla | 3 | 5 | 32
+EDGE Pascal Cygan | Marcos Senna | 2 | 5 | 33
+EDGE Fabricio Fuentes | Bruno Soriano | 8 | 21 | 17
+EDGE Fabricio Fuentes | Edmílson | 6 | 21 | 8
+EDGE Fabricio Fuentes | Jozy Altidore | 3 | 21 | 4
+EDGE Fabricio Fuentes | Nihat Kahveci | 5 | 21 | 9
+EDGE Fabricio Fuentes | Guillermo Franco | 5 | 21 | 9
+EDGE Fabricio Fuentes | Marcos Senna | 14 | 21 | 33
+EDGE Fabricio Fuentes | Santi Cazorla | 16 | 21 | 32
+EDGE Fabricio Fuentes | Javier Matilla | 1 | 21 | 1
+EDGE Bruno Soriano | Edmílson | 3 | 17 | 8
+EDGE Bruno Soriano | Jozy Altidore | 3 | 17 | 4
+EDGE Bruno Soriano | Nihat Kahveci | 3 | 17 | 9
+EDGE Bruno Soriano | Guillermo Franco | 2 | 17 | 9
+EDGE Bruno Soriano | Santi Cazorla | 8 | 17 | 32
+EDGE Bruno Soriano | Marcos Senna | 9 | 17 | 33
+EDGE Edmílson | Jozy Altidore | 2 | 8 | 4
+EDGE Edmílson | Guillermo Franco | 5 | 8 | 9
+EDGE Edmílson | Marcos Senna | 5 | 8 | 33
+EDGE Edmílson | Santi Cazorla | 3 | 8 | 32
+EDGE Edmílson | Nihat Kahveci | 1 | 8 | 9
+EDGE Jozy Altidore | Guillermo Franco | 1 | 4 | 9
+EDGE Jozy Altidore | Santi Cazorla | 2 | 4 | 32
+EDGE Jozy Altidore | Marcos Senna | 1 | 4 | 33
+EDGE Nihat Kahveci | Marcos Senna | 7 | 9 | 33
+EDGE Nihat Kahveci | Santi Cazorla | 5 | 9 | 32
+EDGE Guillermo Franco | Marcos Senna | 7 | 9 | 33
+EDGE Guillermo Franco | Santi Cazorla | 6 | 9 | 32
+EDGE Marcos Senna | Santi Cazorla | 27 | 33 | 32
+EDGE Santi Cazorla | Javier Matilla | 1 | 32 | 1

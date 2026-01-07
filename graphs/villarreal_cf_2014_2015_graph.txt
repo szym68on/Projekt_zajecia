@@ -1,0 +1,339 @@
+# Graph for Java/GraphStream
+# Nodes: 29
+# Edges: 333
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Sergio Asenjo | Chechu Dorado | 15 | 48 | 20
+EDGE Sergio Asenjo | Eric Bailly | 10 | 48 | 12
+EDGE Sergio Asenjo | Jaume Costa | 35 | 48 | 41
+EDGE Sergio Asenjo | Antonio Rukavina | 19 | 48 | 25
+EDGE Sergio Asenjo | Sergio Marcos | 5 | 48 | 5
+EDGE Sergio Asenjo | Tomás Pina | 27 | 48 | 32
+EDGE Sergio Asenjo | Moi Gómez | 23 | 48 | 25
+EDGE Sergio Asenjo | Joel Campbell | 14 | 48 | 18
+EDGE Sergio Asenjo | Giovani dos Santos | 19 | 48 | 21
+EDGE Sergio Asenjo | Gerard Moreno | 21 | 48 | 30
+EDGE Sergio Asenjo | Jonathan dos Santos | 22 | 48 | 28
+EDGE Sergio Asenjo | Víctor Ruiz | 28 | 48 | 34
+EDGE Sergio Asenjo | Mateo Musacchio | 21 | 48 | 22
+EDGE Sergio Asenjo | Mario Gaspar | 41 | 48 | 46
+EDGE Sergio Asenjo | Manu Trigueros | 34 | 48 | 40
+EDGE Sergio Asenjo | Denis Cheryshev | 27 | 48 | 27
+EDGE Sergio Asenjo | Luciano Vietto | 24 | 48 | 29
+EDGE Sergio Asenjo | Ikechukwu Uche | 27 | 48 | 27
+EDGE Sergio Asenjo | Gabriel Paulista | 24 | 48 | 28
+EDGE Sergio Asenjo | Bruno Soriano | 25 | 48 | 30
+EDGE Sergio Asenjo | Cani | 8 | 48 | 10
+EDGE Sergio Asenjo | Adrián Marín | 4 | 48 | 8
+EDGE Sergio Asenjo | Javier Espinosa | 3 | 48 | 9
+EDGE Sergio Asenjo | Bojan Jokic | 3 | 48 | 6
+EDGE Sergio Asenjo | Matías Nahuel | 1 | 48 | 3
+EDGE Chechu Dorado | Eric Bailly | 5 | 20 | 12
+EDGE Chechu Dorado | Jaume Costa | 16 | 20 | 41
+EDGE Chechu Dorado | Antonio Rukavina | 15 | 20 | 25
+EDGE Chechu Dorado | Sergio Marcos | 5 | 20 | 5
+EDGE Chechu Dorado | Tomás Pina | 13 | 20 | 32
+EDGE Chechu Dorado | Moi Gómez | 13 | 20 | 25
+EDGE Chechu Dorado | Joel Campbell | 11 | 20 | 18
+EDGE Chechu Dorado | Giovani dos Santos | 11 | 20 | 21
+EDGE Chechu Dorado | Gerard Moreno | 17 | 20 | 30
+EDGE Chechu Dorado | Jonathan dos Santos | 5 | 20 | 28
+EDGE Chechu Dorado | Juan Carlos | 5 | 20 | 10
+EDGE Chechu Dorado | Víctor Ruiz | 5 | 20 | 34
+EDGE Chechu Dorado | Bojan Jokic | 4 | 20 | 6
+EDGE Chechu Dorado | Mario Gaspar | 12 | 20 | 46
+EDGE Chechu Dorado | Bruno Soriano | 7 | 20 | 30
+EDGE Chechu Dorado | Manu Trigueros | 12 | 20 | 40
+EDGE Chechu Dorado | Gabriel Paulista | 5 | 20 | 28
+EDGE Chechu Dorado | Denis Cheryshev | 2 | 20 | 27
+EDGE Chechu Dorado | Ikechukwu Uche | 5 | 20 | 27
+EDGE Chechu Dorado | Mateo Musacchio | 3 | 20 | 22
+EDGE Chechu Dorado | Luciano Vietto | 3 | 20 | 29
+EDGE Chechu Dorado | Israel Puerto | 2 | 20 | 2
+EDGE Chechu Dorado | Adrián Marín | 1 | 20 | 8
+EDGE Chechu Dorado | Matías Nahuel | 3 | 20 | 3
+EDGE Chechu Dorado | Javier Espinosa | 2 | 20 | 9
+EDGE Chechu Dorado | José Naranjo | 2 | 20 | 2
+EDGE Chechu Dorado | Cani | 1 | 20 | 10
+EDGE Eric Bailly | Jaume Costa | 9 | 12 | 41
+EDGE Eric Bailly | Antonio Rukavina | 6 | 12 | 25
+EDGE Eric Bailly | Sergio Marcos | 3 | 12 | 5
+EDGE Eric Bailly | Tomás Pina | 9 | 12 | 32
+EDGE Eric Bailly | Moi Gómez | 6 | 12 | 25
+EDGE Eric Bailly | Joel Campbell | 10 | 12 | 18
+EDGE Eric Bailly | Giovani dos Santos | 4 | 12 | 21
+EDGE Eric Bailly | Gerard Moreno | 10 | 12 | 30
+EDGE Eric Bailly | Jonathan dos Santos | 7 | 12 | 28
+EDGE Eric Bailly | Mateo Musacchio | 4 | 12 | 22
+EDGE Eric Bailly | Mario Gaspar | 10 | 12 | 46
+EDGE Eric Bailly | Manu Trigueros | 8 | 12 | 40
+EDGE Eric Bailly | Denis Cheryshev | 2 | 12 | 27
+EDGE Eric Bailly | Luciano Vietto | 4 | 12 | 29
+EDGE Eric Bailly | Ikechukwu Uche | 4 | 12 | 27
+EDGE Eric Bailly | Juan Carlos | 2 | 12 | 10
+EDGE Eric Bailly | Bruno Soriano | 1 | 12 | 30
+EDGE Eric Bailly | Bojan Jokic | 3 | 12 | 6
+EDGE Eric Bailly | Víctor Ruiz | 3 | 12 | 34
+EDGE Jaume Costa | Antonio Rukavina | 13 | 41 | 25
+EDGE Jaume Costa | Sergio Marcos | 4 | 41 | 5
+EDGE Jaume Costa | Tomás Pina | 23 | 41 | 32
+EDGE Jaume Costa | Moi Gómez | 16 | 41 | 25
+EDGE Jaume Costa | Joel Campbell | 14 | 41 | 18
+EDGE Jaume Costa | Giovani dos Santos | 17 | 41 | 21
+EDGE Jaume Costa | Gerard Moreno | 19 | 41 | 30
+EDGE Jaume Costa | Jonathan dos Santos | 19 | 41 | 28
+EDGE Jaume Costa | Víctor Ruiz | 24 | 41 | 34
+EDGE Jaume Costa | Mateo Musacchio | 15 | 41 | 22
+EDGE Jaume Costa | Mario Gaspar | 33 | 41 | 46
+EDGE Jaume Costa | Manu Trigueros | 32 | 41 | 40
+EDGE Jaume Costa | Denis Cheryshev | 21 | 41 | 27
+EDGE Jaume Costa | Luciano Vietto | 21 | 41 | 29
+EDGE Jaume Costa | Ikechukwu Uche | 19 | 41 | 27
+EDGE Jaume Costa | Gabriel Paulista | 17 | 41 | 28
+EDGE Jaume Costa | Bruno Soriano | 21 | 41 | 30
+EDGE Jaume Costa | Cani | 5 | 41 | 10
+EDGE Jaume Costa | Juan Carlos | 6 | 41 | 10
+EDGE Jaume Costa | Bojan Jokic | 5 | 41 | 6
+EDGE Jaume Costa | Javier Espinosa | 2 | 41 | 9
+EDGE Jaume Costa | Israel Puerto | 1 | 41 | 2
+EDGE Jaume Costa | Matías Nahuel | 2 | 41 | 3
+EDGE Jaume Costa | José Naranjo | 1 | 41 | 2
+EDGE Antonio Rukavina | Sergio Marcos | 4 | 25 | 5
+EDGE Antonio Rukavina | Tomás Pina | 16 | 25 | 32
+EDGE Antonio Rukavina | Moi Gómez | 12 | 25 | 25
+EDGE Antonio Rukavina | Joel Campbell | 11 | 25 | 18
+EDGE Antonio Rukavina | Giovani dos Santos | 11 | 25 | 21
+EDGE Antonio Rukavina | Gerard Moreno | 20 | 25 | 30
+EDGE Antonio Rukavina | Jonathan dos Santos | 10 | 25 | 28
+EDGE Antonio Rukavina | Víctor Ruiz | 10 | 25 | 34
+EDGE Antonio Rukavina | Gabriel Paulista | 10 | 25 | 28
+EDGE Antonio Rukavina | Mario Gaspar | 13 | 25 | 46
+EDGE Antonio Rukavina | Bruno Soriano | 9 | 25 | 30
+EDGE Antonio Rukavina | Manu Trigueros | 13 | 25 | 40
+EDGE Antonio Rukavina | Denis Cheryshev | 6 | 25 | 27
+EDGE Antonio Rukavina | Luciano Vietto | 6 | 25 | 29
+EDGE Antonio Rukavina | Ikechukwu Uche | 8 | 25 | 27
+EDGE Antonio Rukavina | Juan Carlos | 6 | 25 | 10
+EDGE Antonio Rukavina | Bojan Jokic | 4 | 25 | 6
+EDGE Antonio Rukavina | Adrián Marín | 5 | 25 | 8
+EDGE Antonio Rukavina | Cani | 3 | 25 | 10
+EDGE Antonio Rukavina | Javier Espinosa | 6 | 25 | 9
+EDGE Antonio Rukavina | Mateo Musacchio | 7 | 25 | 22
+EDGE Antonio Rukavina | Israel Puerto | 2 | 25 | 2
+EDGE Antonio Rukavina | Matías Nahuel | 3 | 25 | 3
+EDGE Antonio Rukavina | José Naranjo | 2 | 25 | 2
+EDGE Sergio Marcos | Tomás Pina | 4 | 5 | 32
+EDGE Sergio Marcos | Moi Gómez | 5 | 5 | 25
+EDGE Sergio Marcos | Joel Campbell | 5 | 5 | 18
+EDGE Sergio Marcos | Giovani dos Santos | 5 | 5 | 21
+EDGE Sergio Marcos | Gerard Moreno | 5 | 5 | 30
+EDGE Sergio Marcos | Jonathan dos Santos | 1 | 5 | 28
+EDGE Sergio Marcos | Mateo Musacchio | 1 | 5 | 22
+EDGE Sergio Marcos | Mario Gaspar | 2 | 5 | 46
+EDGE Sergio Marcos | Víctor Ruiz | 1 | 5 | 34
+EDGE Tomás Pina | Moi Gómez | 14 | 32 | 25
+EDGE Tomás Pina | Joel Campbell | 13 | 32 | 18
+EDGE Tomás Pina | Giovani dos Santos | 13 | 32 | 21
+EDGE Tomás Pina | Gerard Moreno | 22 | 32 | 30
+EDGE Tomás Pina | Víctor Ruiz | 17 | 32 | 34
+EDGE Tomás Pina | Mateo Musacchio | 15 | 32 | 22
+EDGE Tomás Pina | Mario Gaspar | 26 | 32 | 46
+EDGE Tomás Pina | Manu Trigueros | 18 | 32 | 40
+EDGE Tomás Pina | Jonathan dos Santos | 16 | 32 | 28
+EDGE Tomás Pina | Denis Cheryshev | 12 | 32 | 27
+EDGE Tomás Pina | Luciano Vietto | 13 | 32 | 29
+EDGE Tomás Pina | Ikechukwu Uche | 9 | 32 | 27
+EDGE Tomás Pina | Gabriel Paulista | 9 | 32 | 28
+EDGE Tomás Pina | Bruno Soriano | 6 | 32 | 30
+EDGE Tomás Pina | Cani | 2 | 32 | 10
+EDGE Tomás Pina | Juan Carlos | 5 | 32 | 10
+EDGE Tomás Pina | Adrián Marín | 2 | 32 | 8
+EDGE Tomás Pina | Javier Espinosa | 5 | 32 | 9
+EDGE Tomás Pina | Bojan Jokic | 4 | 32 | 6
+EDGE Tomás Pina | Israel Puerto | 2 | 32 | 2
+EDGE Tomás Pina | Matías Nahuel | 3 | 32 | 3
+EDGE Tomás Pina | José Naranjo | 2 | 32 | 2
+EDGE Moi Gómez | Joel Campbell | 8 | 25 | 18
+EDGE Moi Gómez | Giovani dos Santos | 13 | 25 | 21
+EDGE Moi Gómez | Gerard Moreno | 16 | 25 | 30
+EDGE Moi Gómez | Jonathan dos Santos | 6 | 25 | 28
+EDGE Moi Gómez | Víctor Ruiz | 10 | 25 | 34
+EDGE Moi Gómez | Mateo Musacchio | 10 | 25 | 22
+EDGE Moi Gómez | Gabriel Paulista | 13 | 25 | 28
+EDGE Moi Gómez | Mario Gaspar | 19 | 25 | 46
+EDGE Moi Gómez | Bruno Soriano | 11 | 25 | 30
+EDGE Moi Gómez | Cani | 3 | 25 | 10
+EDGE Moi Gómez | Denis Cheryshev | 7 | 25 | 27
+EDGE Moi Gómez | Luciano Vietto | 9 | 25 | 29
+EDGE Moi Gómez | Manu Trigueros | 15 | 25 | 40
+EDGE Moi Gómez | Ikechukwu Uche | 11 | 25 | 27
+EDGE Moi Gómez | Adrián Marín | 3 | 25 | 8
+EDGE Moi Gómez | Javier Espinosa | 3 | 25 | 9
+EDGE Moi Gómez | Juan Carlos | 2 | 25 | 10
+EDGE Moi Gómez | Bojan Jokic | 1 | 25 | 6
+EDGE Moi Gómez | Matías Nahuel | 1 | 25 | 3
+EDGE Joel Campbell | Giovani dos Santos | 8 | 18 | 21
+EDGE Joel Campbell | Gerard Moreno | 15 | 18 | 30
+EDGE Joel Campbell | Jonathan dos Santos | 8 | 18 | 28
+EDGE Joel Campbell | Juan Carlos | 4 | 18 | 10
+EDGE Joel Campbell | Víctor Ruiz | 9 | 18 | 34
+EDGE Joel Campbell | Bojan Jokic | 5 | 18 | 6
+EDGE Joel Campbell | Mario Gaspar | 13 | 18 | 46
+EDGE Joel Campbell | Bruno Soriano | 4 | 18 | 30
+EDGE Joel Campbell | Manu Trigueros | 12 | 18 | 40
+EDGE Joel Campbell | Mateo Musacchio | 6 | 18 | 22
+EDGE Joel Campbell | Ikechukwu Uche | 4 | 18 | 27
+EDGE Joel Campbell | Luciano Vietto | 5 | 18 | 29
+EDGE Joel Campbell | Denis Cheryshev | 1 | 18 | 27
+EDGE Giovani dos Santos | Gerard Moreno | 10 | 21 | 30
+EDGE Giovani dos Santos | Jonathan dos Santos | 7 | 21 | 28
+EDGE Giovani dos Santos | Mateo Musacchio | 8 | 21 | 22
+EDGE Giovani dos Santos | Gabriel Paulista | 9 | 21 | 28
+EDGE Giovani dos Santos | Mario Gaspar | 14 | 21 | 46
+EDGE Giovani dos Santos | Bruno Soriano | 10 | 21 | 30
+EDGE Giovani dos Santos | Manu Trigueros | 11 | 21 | 40
+EDGE Giovani dos Santos | Denis Cheryshev | 9 | 21 | 27
+EDGE Giovani dos Santos | Cani | 4 | 21 | 10
+EDGE Giovani dos Santos | Ikechukwu Uche | 6 | 21 | 27
+EDGE Giovani dos Santos | Juan Carlos | 2 | 21 | 10
+EDGE Giovani dos Santos | Víctor Ruiz | 10 | 21 | 34
+EDGE Giovani dos Santos | Adrián Marín | 2 | 21 | 8
+EDGE Giovani dos Santos | Javier Espinosa | 1 | 21 | 9
+EDGE Giovani dos Santos | Luciano Vietto | 4 | 21 | 29
+EDGE Giovani dos Santos | Bojan Jokic | 1 | 21 | 6
+EDGE Giovani dos Santos | Matías Nahuel | 1 | 21 | 3
+EDGE Gerard Moreno | Jonathan dos Santos | 13 | 30 | 28
+EDGE Gerard Moreno | Mateo Musacchio | 8 | 30 | 22
+EDGE Gerard Moreno | Gabriel Paulista | 11 | 30 | 28
+EDGE Gerard Moreno | Adrián Marín | 6 | 30 | 8
+EDGE Gerard Moreno | Mario Gaspar | 21 | 30 | 46
+EDGE Gerard Moreno | Bruno Soriano | 8 | 30 | 30
+EDGE Gerard Moreno | Manu Trigueros | 16 | 30 | 40
+EDGE Gerard Moreno | Javier Espinosa | 8 | 30 | 9
+EDGE Gerard Moreno | Luciano Vietto | 9 | 30 | 29
+EDGE Gerard Moreno | Juan Carlos | 9 | 30 | 10
+EDGE Gerard Moreno | Víctor Ruiz | 12 | 30 | 34
+EDGE Gerard Moreno | Bojan Jokic | 5 | 30 | 6
+EDGE Gerard Moreno | Cani | 2 | 30 | 10
+EDGE Gerard Moreno | Ikechukwu Uche | 5 | 30 | 27
+EDGE Gerard Moreno | Denis Cheryshev | 5 | 30 | 27
+EDGE Gerard Moreno | Israel Puerto | 2 | 30 | 2
+EDGE Gerard Moreno | Matías Nahuel | 3 | 30 | 3
+EDGE Gerard Moreno | José Naranjo | 2 | 30 | 2
+EDGE Jonathan dos Santos | Víctor Ruiz | 19 | 28 | 34
+EDGE Jonathan dos Santos | Mateo Musacchio | 12 | 28 | 22
+EDGE Jonathan dos Santos | Mario Gaspar | 24 | 28 | 46
+EDGE Jonathan dos Santos | Manu Trigueros | 16 | 28 | 40
+EDGE Jonathan dos Santos | Denis Cheryshev | 14 | 28 | 27
+EDGE Jonathan dos Santos | Luciano Vietto | 20 | 28 | 29
+EDGE Jonathan dos Santos | Ikechukwu Uche | 13 | 28 | 27
+EDGE Jonathan dos Santos | Gabriel Paulista | 12 | 28 | 28
+EDGE Jonathan dos Santos | Bruno Soriano | 13 | 28 | 30
+EDGE Jonathan dos Santos | Juan Carlos | 6 | 28 | 10
+EDGE Jonathan dos Santos | Adrián Marín | 5 | 28 | 8
+EDGE Jonathan dos Santos | Cani | 2 | 28 | 10
+EDGE Jonathan dos Santos | Javier Espinosa | 5 | 28 | 9
+EDGE Jonathan dos Santos | Bojan Jokic | 2 | 28 | 6
+EDGE Jonathan dos Santos | Israel Puerto | 1 | 28 | 2
+EDGE Jonathan dos Santos | Matías Nahuel | 1 | 28 | 3
+EDGE Jonathan dos Santos | José Naranjo | 1 | 28 | 2
+EDGE Víctor Ruiz | Mateo Musacchio | 10 | 34 | 22
+EDGE Víctor Ruiz | Mario Gaspar | 30 | 34 | 46
+EDGE Víctor Ruiz | Manu Trigueros | 25 | 34 | 40
+EDGE Víctor Ruiz | Denis Cheryshev | 21 | 34 | 27
+EDGE Víctor Ruiz | Luciano Vietto | 22 | 34 | 29
+EDGE Víctor Ruiz | Ikechukwu Uche | 18 | 34 | 27
+EDGE Víctor Ruiz | Gabriel Paulista | 18 | 34 | 28
+EDGE Víctor Ruiz | Bruno Soriano | 22 | 34 | 30
+EDGE Víctor Ruiz | Cani | 7 | 34 | 10
+EDGE Víctor Ruiz | Juan Carlos | 6 | 34 | 10
+EDGE Víctor Ruiz | Bojan Jokic | 5 | 34 | 6
+EDGE Víctor Ruiz | Adrián Marín | 5 | 34 | 8
+EDGE Víctor Ruiz | Javier Espinosa | 3 | 34 | 9
+EDGE Mateo Musacchio | Mario Gaspar | 18 | 22 | 46
+EDGE Mateo Musacchio | Manu Trigueros | 16 | 22 | 40
+EDGE Mateo Musacchio | Denis Cheryshev | 11 | 22 | 27
+EDGE Mateo Musacchio | Luciano Vietto | 14 | 22 | 29
+EDGE Mateo Musacchio | Ikechukwu Uche | 11 | 22 | 27
+EDGE Mateo Musacchio | Gabriel Paulista | 7 | 22 | 28
+EDGE Mateo Musacchio | Bruno Soriano | 10 | 22 | 30
+EDGE Mateo Musacchio | Cani | 5 | 22 | 10
+EDGE Mateo Musacchio | Adrián Marín | 2 | 22 | 8
+EDGE Mateo Musacchio | Javier Espinosa | 4 | 22 | 9
+EDGE Mateo Musacchio | Juan Carlos | 1 | 22 | 10
+EDGE Mateo Musacchio | Matías Nahuel | 1 | 22 | 3
+EDGE Mario Gaspar | Manu Trigueros | 34 | 46 | 40
+EDGE Mario Gaspar | Denis Cheryshev | 25 | 46 | 27
+EDGE Mario Gaspar | Luciano Vietto | 27 | 46 | 29
+EDGE Mario Gaspar | Ikechukwu Uche | 24 | 46 | 27
+EDGE Mario Gaspar | Gabriel Paulista | 24 | 46 | 28
+EDGE Mario Gaspar | Bruno Soriano | 25 | 46 | 30
+EDGE Mario Gaspar | Cani | 7 | 46 | 10
+EDGE Mario Gaspar | Adrián Marín | 4 | 46 | 8
+EDGE Mario Gaspar | Javier Espinosa | 4 | 46 | 9
+EDGE Mario Gaspar | Juan Carlos | 5 | 46 | 10
+EDGE Mario Gaspar | Bojan Jokic | 5 | 46 | 6
+EDGE Manu Trigueros | Denis Cheryshev | 21 | 40 | 27
+EDGE Manu Trigueros | Luciano Vietto | 21 | 40 | 29
+EDGE Manu Trigueros | Ikechukwu Uche | 25 | 40 | 27
+EDGE Manu Trigueros | Gabriel Paulista | 19 | 40 | 28
+EDGE Manu Trigueros | Bruno Soriano | 22 | 40 | 30
+EDGE Manu Trigueros | Cani | 7 | 40 | 10
+EDGE Manu Trigueros | Adrián Marín | 3 | 40 | 8
+EDGE Manu Trigueros | Javier Espinosa | 4 | 40 | 9
+EDGE Manu Trigueros | Juan Carlos | 6 | 40 | 10
+EDGE Manu Trigueros | Bojan Jokic | 6 | 40 | 6
+EDGE Manu Trigueros | Israel Puerto | 1 | 40 | 2
+EDGE Manu Trigueros | Matías Nahuel | 2 | 40 | 3
+EDGE Manu Trigueros | José Naranjo | 1 | 40 | 2
+EDGE Denis Cheryshev | Luciano Vietto | 17 | 27 | 29
+EDGE Denis Cheryshev | Ikechukwu Uche | 20 | 27 | 27
+EDGE Denis Cheryshev | Gabriel Paulista | 19 | 27 | 28
+EDGE Denis Cheryshev | Bruno Soriano | 19 | 27 | 30
+EDGE Denis Cheryshev | Cani | 6 | 27 | 10
+EDGE Denis Cheryshev | Javier Espinosa | 2 | 27 | 9
+EDGE Denis Cheryshev | Adrián Marín | 3 | 27 | 8
+EDGE Luciano Vietto | Ikechukwu Uche | 15 | 29 | 27
+EDGE Luciano Vietto | Gabriel Paulista | 17 | 29 | 28
+EDGE Luciano Vietto | Bruno Soriano | 20 | 29 | 30
+EDGE Luciano Vietto | Cani | 5 | 29 | 10
+EDGE Luciano Vietto | Adrián Marín | 4 | 29 | 8
+EDGE Luciano Vietto | Javier Espinosa | 4 | 29 | 9
+EDGE Luciano Vietto | Juan Carlos | 5 | 29 | 10
+EDGE Luciano Vietto | Bojan Jokic | 1 | 29 | 6
+EDGE Ikechukwu Uche | Gabriel Paulista | 17 | 27 | 28
+EDGE Ikechukwu Uche | Bruno Soriano | 18 | 27 | 30
+EDGE Ikechukwu Uche | Cani | 6 | 27 | 10
+EDGE Ikechukwu Uche | Javier Espinosa | 2 | 27 | 9
+EDGE Ikechukwu Uche | Adrián Marín | 2 | 27 | 8
+EDGE Ikechukwu Uche | Bojan Jokic | 1 | 27 | 6
+EDGE Gabriel Paulista | Bruno Soriano | 22 | 28 | 30
+EDGE Gabriel Paulista | Cani | 9 | 28 | 10
+EDGE Gabriel Paulista | Adrián Marín | 7 | 28 | 8
+EDGE Gabriel Paulista | Javier Espinosa | 7 | 28 | 9
+EDGE Gabriel Paulista | Juan Carlos | 4 | 28 | 10
+EDGE Bruno Soriano | Cani | 10 | 30 | 10
+EDGE Bruno Soriano | Adrián Marín | 6 | 30 | 8
+EDGE Bruno Soriano | Javier Espinosa | 4 | 30 | 9
+EDGE Bruno Soriano | Juan Carlos | 5 | 30 | 10
+EDGE Bruno Soriano | Bojan Jokic | 2 | 30 | 6
+EDGE Cani | Juan Carlos | 2 | 10 | 10
+EDGE Cani | Adrián Marín | 3 | 10 | 8
+EDGE Cani | Javier Espinosa | 3 | 10 | 9
+EDGE Adrián Marín | Javier Espinosa | 6 | 8 | 9
+EDGE Adrián Marín | Juan Carlos | 4 | 8 | 10
+EDGE Adrián Marín | Israel Puerto | 1 | 8 | 2
+EDGE Adrián Marín | Matías Nahuel | 1 | 8 | 3
+EDGE Adrián Marín | José Naranjo | 1 | 8 | 2
+EDGE Javier Espinosa | Juan Carlos | 6 | 9 | 10
+EDGE Javier Espinosa | Israel Puerto | 2 | 9 | 2
+EDGE Javier Espinosa | Matías Nahuel | 2 | 9 | 3
+EDGE Javier Espinosa | José Naranjo | 2 | 9 | 2
+EDGE Juan Carlos | Bojan Jokic | 3 | 10 | 6
+EDGE Juan Carlos | Israel Puerto | 2 | 10 | 2
+EDGE Juan Carlos | Matías Nahuel | 2 | 10 | 3
+EDGE Juan Carlos | José Naranjo | 2 | 10 | 2
+EDGE Israel Puerto | Matías Nahuel | 2 | 2 | 3
+EDGE Israel Puerto | José Naranjo | 2 | 2 | 2
+EDGE Matías Nahuel | José Naranjo | 2 | 3 | 2

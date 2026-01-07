@@ -1,0 +1,124 @@
+# Team: Athletic Bilbao
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 58613 | niedz., 28.01.2007 | Real Sociedad
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Ander Murillo, Josu Sarriegi, Unai Expósito, Andoni Iraola, Joseba Garmendia, Javi González, Fran Yeste, Aritz Aduriz, Ismael Urzaiz
+
+MATCH: 58465 | sob., 30.09.2006 | FC Barcelona
+PLAYERS: Iñaki Lafuente, Ustaritz, Josu Sarriegi, Javi Casas, Andoni Iraola, Javi Martínez, Pablo Orbaiz, Joseba Garmendia, Fran Yeste, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 58696 | sob., 07.04.2007 | Valencia CF
+PLAYERS: Daniel Aranzubia, Luis Prieto, Josu Sarriegi, Ustaritz, Javi Martínez, Javi Casas, Unai Expósito, Andoni Iraola, Igor Gabilondo, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 58636 | niedz., 18.02.2007 | Getafe CF
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Ander Murillo, Josu Sarriegi, Javi Casas, Unai Expósito, Andoni Iraola, Igor Gabilondo, Fran Yeste, Aritz Aduriz, Ismael Urzaiz
+
+MATCH: 58470 | niedz., 15.10.2006 | Gimnàstic de Tarragona
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Josu Sarriegi, Luis Prieto, Ander Murillo, Javi Martínez, Andoni Iraola, Pablo Orbaiz, Joseba Garmendia, Fran Yeste, Aritz Aduriz
+
+MATCH: 2283301 | śr., 08.11.2006 | RCD Mallorca
+PLAYERS: Iñaki Lafuente, Ustaritz, Josu Sarriegi, Javi Casas, Unai Expósito, Javier Iturriaga, Pablo Orbaiz, Ander Murillo, Mikel Dañobeitia, Joseba Etxeberria, Fernando Llorente
+
+MATCH: 58706 | niedz., 15.04.2007 | RCD Espanyol
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Ander Murillo, Josu Sarriegi, Luis Prieto, Andoni Iraola, Unai Expósito, Joseba Garmendia, Igor Gabilondo, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 58616 | niedz., 04.02.2007 | Real Betis Balompié
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Ander Murillo, Josu Sarriegi, Javi Martínez, Javi Casas, Unai Expósito, Andoni Iraola, Fran Yeste, Ismael Urzaiz, Aritz Aduriz
+
+MATCH: 58647 | niedz., 25.02.2007 | FC Barcelona
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Josu Sarriegi, Javi Casas, Unai Expósito, Ander Murillo, Javi Martínez, Andoni Iraola, Igor Gabilondo, Fran Yeste, Ismael Urzaiz
+
+MATCH: 58416 | niedz., 27.08.2006 | Real Sociedad
+PLAYERS: Daniel Aranzubia, Josu Sarriegi, Luis Prieto, Javi Martínez, Javi Casas, Andoni Iraola, Pablo Orbaiz, Igor Gabilondo, Fran Yeste, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 58497 | niedz., 05.11.2006 | Racing Santander
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Josu Sarriegi, Ustaritz, Javi Martínez, Andoni Iraola, Pablo Orbaiz, Igor Gabilondo, Fran Yeste, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 58515 | sob., 11.11.2006 | Valencia CF
+PLAYERS: Iñaki Lafuente, Ander Murillo, Josu Sarriegi, Ustaritz, Javi Martínez, Unai Expósito, Pablo Orbaiz, Igor Gabilondo, Fran Yeste, Aritz Aduriz, Ismael Urzaiz
+
+MATCH: 58601 | niedz., 21.01.2007 | Levante UD
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Ander Murillo, Josu Sarriegi, Javi Martínez, Javi Casas, Unai Expósito, Andoni Iraola, Fran Yeste, Aritz Aduriz, Ismael Urzaiz
+
+MATCH: 58766 | niedz., 27.05.2007 | RCD Mallorca
+PLAYERS: Daniel Aranzubia, Ander Murillo, Josu Sarriegi, Ustaritz, Javi Martínez, Unai Expósito, Andoni Iraola, Igor Gabilondo, Fran Yeste, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 58656 | niedz., 04.03.2007 | Gimnàstic de Tarragona
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Josu Sarriegi, Ander Murillo, Javi Casas, Unai Expósito, Andoni Iraola, Igor Gabilondo, Fran Yeste, Ismael Urzaiz, Aritz Aduriz
+
+MATCH: 58566 | śr., 20.12.2006 | Real Zaragoza
+PLAYERS: Daniel Aranzubia, Josu Sarriegi, Luis Prieto, Ander Murillo, Javi Martínez, Javi Casas, Unai Expósito, Andoni Iraola, Igor Gabilondo, Fran Yeste, Ismael Urzaiz
+
+MATCH: 58546 | niedz., 10.12.2006 | Recreativo Huelva
+PLAYERS: Daniel Aranzubia, Luis Prieto, Josu Sarriegi, Javi Martínez, Javi Casas, Unai Expósito, Andoni Iraola, Igor Gabilondo, Fran Yeste, Joseba Etxeberria, Ismael Urzaiz
+
+MATCH: 58722 | niedz., 22.04.2007 | Sevilla FC
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Ander Murillo, Josu Sarriegi, Luis Prieto, Andoni Iraola, Unai Expósito, Igor Gabilondo, Fran Yeste, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 58746 | niedz., 13.05.2007 | Deportivo de La Coruña
+PLAYERS: Daniel Aranzubia, Luis Prieto, Ander Murillo, Josu Sarriegi, Javi Martínez, Unai Expósito, Andoni Iraola, Javi González, Igor Gabilondo, Joseba Etxeberria, Ismael Urzaiz
+
+MATCH: 58526 | niedz., 26.11.2006 | Sevilla FC
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Luis Prieto, Ander Murillo, Ustaritz, Javi Martínez, Pablo Orbaiz, Igor Gabilondo, Fran Yeste, Aritz Aduriz, Ismael Urzaiz
+
+MATCH: 58476 | niedz., 22.10.2006 | Celta de Vigo
+PLAYERS: Iñaki Lafuente, Josu Sarriegi, Luis Prieto, Ander Murillo, Javi Casas, Unai Expósito, Javi Martínez, Andoni Iraola, Fran Yeste, Fernando Llorente, Aritz Aduriz
+
+MATCH: 58626 | niedz., 11.02.2007 | Atlético Madryt
+PLAYERS: Daniel Aranzubia, Ander Murillo, Josu Sarriegi, Javi Martínez, Javi Casas, Unai Expósito, Andoni Iraola, Javi González, Igor Gabilondo, Fran Yeste, Aritz Aduriz
+
+MATCH: 58541 | niedz., 03.12.2006 | Real Madryt
+PLAYERS: Iñaki Lafuente, Josu Sarriegi, Luis Prieto, Igor Gabilondo, Unai Expósito, Javi Martínez, Pablo Orbaiz, Andoni Iraola, Fran Yeste, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 58786 | niedz., 17.06.2007 | Levante UD
+PLAYERS: Daniel Aranzubia, Ustaritz, Josu Sarriegi, Ander Murillo, Javi Martínez, Javi Casas, Unai Expósito, Andoni Iraola, Fran Yeste, Joseba Etxeberria, Ismael Urzaiz
+
+MATCH: 58669 | niedz., 11.03.2007 | Celta de Vigo
+PLAYERS: Daniel Aranzubia, Josu Sarriegi, Ander Murillo, Javi Martínez, Fernando Amorebieta, Unai Expósito, Andoni Iraola, Javi González, Fran Yeste, Mikel Dañobeitia, Ismael Urzaiz
+
+MATCH: 58784 | sob., 09.06.2007 | Villarreal CF
+PLAYERS: Daniel Aranzubia, Ustaritz, Josu Sarriegi, Javi Casas, Andoni Iraola, Ander Murillo, Javi Martínez, Fran Yeste, Javi González, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 58765 | sob., 19.05.2007 | Real Zaragoza
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Josu Sarriegi, Luis Prieto, Ander Murillo, Javi Martínez, Unai Expósito, Andoni Iraola, Igor Gabilondo, Fran Yeste, Aritz Aduriz
+
+MATCH: 58586 | niedz., 14.01.2007 | Villarreal CF
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Ander Murillo, Josu Sarriegi, Javi Martínez, Javi Casas, Unai Expósito, Andoni Iraola, Igor Gabilondo, Joseba Etxeberria, Ismael Urzaiz
+
+MATCH: 58676 | sob., 17.03.2007 | CA Osasuna
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Josu Sarriegi, Javi Martínez, Unai Expósito, Andoni Iraola, Javier Iturriaga, Javi González, Igor Gabilondo, Fran Yeste, Aritz Aduriz
+
+MATCH: 58559 | niedz., 17.12.2006 | Deportivo de La Coruña
+PLAYERS: Daniel Aranzubia, Luis Prieto, Ander Murillo, Josu Sarriegi, Javi Martínez, Javi Casas, Unai Expósito, Andoni Iraola, Igor Gabilondo, Fran Yeste, Ismael Urzaiz
+
+MATCH: 58449 | niedz., 24.09.2006 | Getafe CF
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Ustaritz, Ander Murillo, Josu Sarriegi, Javi Martínez, Andoni Iraola, Pablo Orbaiz, Joseba Garmendia, Fran Yeste, Aritz Aduriz
+
+MATCH: 58428 | niedz., 10.09.2006 | Real Betis Balompié
+PLAYERS: Daniel Aranzubia, Ander Murillo, Josu Sarriegi, Luis Prieto, Javi Martínez, Javi Casas, Andoni Iraola, Igor Gabilondo, Fran Yeste, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 58726 | niedz., 29.04.2007 | Real Madryt
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Josu Sarriegi, Javi González, Unai Expósito, Ander Murillo, Javi Martínez, Andoni Iraola, Igor Gabilondo, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 58439 | niedz., 17.09.2006 | Atlético Madryt
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Ander Murillo, Josu Sarriegi, Luis Prieto, Andoni Iraola, Tiko, Igor Gabilondo, Fran Yeste, Ismael Urzaiz, Aritz Aduriz
+
+MATCH: 58516 | niedz., 19.11.2006 | RCD Espanyol
+PLAYERS: Iñaki Lafuente, Ander Murillo, Josu Sarriegi, Ustaritz, Javi Martínez, Unai Expósito, Pablo Orbaiz, Igor Gabilondo, Fran Yeste, Aritz Aduriz, Ismael Urzaiz
+
+MATCH: 58492 | niedz., 29.10.2006 | CA Osasuna
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Ander Murillo, Josu Sarriegi, Javi Martínez, Unai Expósito, Andoni Iraola, Igor Gabilondo, Fran Yeste, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 58582 | niedz., 07.01.2007 | RCD Mallorca
+PLAYERS: Daniel Aranzubia, Luis Prieto, Ander Murillo, Josu Sarriegi, Javi Martínez, Javi Casas, Unai Expósito, Andoni Iraola, Joseba Garmendia, Fran Yeste, Ismael Urzaiz
+
+MATCH: 2283317 | śr., 25.10.2006 | RCD Mallorca
+PLAYERS: Iñaki Lafuente, Fernando Amorebieta, Josu Sarriegi, Javi Casas, Andoni Iraola, Ander Murillo, Javier Iturriaga, Fran Yeste, Igor Gabilondo, Joseba Etxeberria, Aritz Aduriz
+
+MATCH: 58693 | niedz., 01.04.2007 | Racing Santander
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Luis Prieto, Igor Gabilondo, Unai Expósito, Ander Murillo, Javi Martínez, Andoni Iraola, Javi González, Joseba Etxeberria, Ismael Urzaiz
+
+MATCH: 58742 | niedz., 06.05.2007 | Recreativo Huelva
+PLAYERS: Daniel Aranzubia, Fernando Amorebieta, Luis Prieto, Ander Murillo, Josu Sarriegi, Javi Martínez, Unai Expósito, Andoni Iraola, Igor Gabilondo, Aritz Aduriz, Ismael Urzaiz
+

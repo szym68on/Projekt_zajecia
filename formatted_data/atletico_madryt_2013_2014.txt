@@ -1,0 +1,187 @@
+# Team: Atlético Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2341364 | niedz., 04.05.2014 | Levante UD
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Toby Alderweireld, Tiago Mendes, Gabi, Raúl García, Koke, David Villa, Diego Costa
+
+MATCH: 2341357 | sob., 15.03.2014 | RCD Espanyol
+PLAYERS: Thibaut Courtois, Diego Godín, Toby Alderweireld, Filipe Luís, Juanfran Torres, Gabi, Tiago Mendes, José Sosa, David Villa, Arda Turan, Diego Costa
+
+MATCH: 2367040 | śr., 06.11.2013 | FK Austria Wiedeń
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Raúl García, Koke, Adrián López, Diego Costa
+
+MATCH: 2341106 | sob., 08.03.2014 | Celta de Vigo
+PLAYERS: Thibaut Courtois, Toby Alderweireld, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Raúl García, Koke, Diego, David Villa
+
+MATCH: 2341103 | niedz., 02.03.2014 | Real Madryt
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Arda Turan, Raúl García, Diego Costa
+
+MATCH: 2449282 | śr., 09.04.2014 | FC Barcelona
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Raúl García, Koke, David Villa, Adrián López
+
+MATCH: 2452863 | wt., 22.04.2014 | Chelsea FC
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Raúl García, Koke, Diego, Diego Costa
+
+MATCH: 2341261 | sob., 30.11.2013 | Elche CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Arda Turan, David Villa, Diego Costa
+
+MATCH: 2341201 | sob., 04.01.2014 | Málaga CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Koke, Óliver Torres, Arda Turan, David Villa, Diego Costa
+
+MATCH: 2341286 | sob., 29.03.2014 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, José Sosa, Koke, Raúl García, Diego Costa
+
+MATCH: 2456475 | sob., 24.05.2014 | Real Madryt
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Gabi, Tiago Mendes, Raúl García, Koke, David Villa, Diego Costa
+
+MATCH: 2341048 | niedz., 19.01.2014 | Sevilla FC
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Gabi, Raúl García, Koke, Arda Turan, David Villa, Diego Costa
+
+MATCH: 2388760 | wt., 07.01.2014 | Valencia CF
+PLAYERS: Thibaut Courtois, Toby Alderweireld, Miranda, Filipe Luís, Juanfran Torres, Josuha Guilavogui, Gabi, Koke, Raúl García, Adrián López, Diego Costa
+
+MATCH: 2341315 | śr., 26.03.2014 | Granada CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Emiliano Insúa, Juanfran Torres, Tiago Mendes, Gabi, Arda Turan, Cristian Rodríguez, David Villa, Diego Costa
+
+MATCH: 2421869 | śr., 29.01.2014 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Koke, Gabi, Raúl García, Cristian Rodríguez, Adrián López, Diego Costa
+
+MATCH: 2385039 | śr., 19.02.2014 | AC Milan
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Emiliano Insúa, Juanfran Torres, Mario Suárez, Koke, Gabi, Arda Turan, Raúl García, Diego Costa
+
+MATCH: 2423575 | wt., 11.02.2014 | Real Madryt
+PLAYERS: Daniel Aranzubia, Toby Alderweireld, Miranda, Emiliano Insúa, Javier Manquillo, Mario Suárez, Koke, José Sosa, Cristian Rodríguez, Diego, Raúl García
+
+MATCH: 2341082 | sob., 21.09.2013 | Real Valladolid CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Javier Manquillo, Mario Suárez, Gabi, Raúl García, Koke, David Villa, Diego Costa
+
+MATCH: 2368488 | śr., 11.12.2013 | FC Porto
+PLAYERS: Daniel Aranzubia, Toby Alderweireld, Miranda, Emiliano Insúa, Javier Manquillo, Gabi, Koke, Raúl García, Óliver Torres, Adrián López, Diego Costa
+
+MATCH: 2452865 | śr., 30.04.2014 | Chelsea FC
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Tiago Mendes, Koke, Arda Turan, Adrián López, Diego Costa
+
+MATCH: 2421863 | czw., 23.01.2014 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Diego Godín, Toby Alderweireld, Filipe Luís, Juanfran Torres, Josuha Guilavogui, Koke, Raúl García, Cristian Rodríguez, Adrián López, Diego Costa
+
+MATCH: 2341193 | niedz., 06.10.2013 | Celta de Vigo
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Arda Turan, David Villa, Diego Costa
+
+MATCH: 2341258 | sob., 17.05.2014 | FC Barcelona
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Arda Turan, David Villa, Diego Costa
+
+MATCH: 2341051 | sob., 11.01.2014 | FC Barcelona
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Arda Turan, David Villa, Diego Costa
+
+MATCH: 2341161 | niedz., 27.10.2013 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Óliver Torres, David Villa, Diego Costa
+
+MATCH: 2346407 | niedz., 18.08.2013 | Sevilla FC
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Arda Turan, David Villa, Diego Costa
+
+MATCH: 2341280 | sob., 05.04.2014 | Villarreal CF
+PLAYERS: Thibaut Courtois, Diego Godín, Toby Alderweireld, Filipe Luís, Juanfran Torres, Mario Suárez, Raúl García, Koke, Cristian Rodríguez, Diego, David Villa
+
+MATCH: 2368461 | wt., 26.11.2013 | Zenit Petersburg
+PLAYERS: Thibaut Courtois, Toby Alderweireld, Miranda, Emiliano Insúa, Juanfran Torres, Josuha Guilavogui, Gabi, Cristian Rodríguez, Koke, Raúl García, Adrián López
+
+MATCH: 2341334 | niedz., 10.11.2013 | Villarreal CF
+PLAYERS: Thibaut Courtois, Toby Alderweireld, Miranda, Emiliano Insúa, Juanfran Torres, Tiago Mendes, Gabi, Raúl García, Koke, David Villa, Diego Costa
+
+MATCH: 2382257 | śr., 18.12.2013 | UE Sant Andreu
+PLAYERS: Daniel Aranzubia, Toby Alderweireld, José María Giménez, Emiliano Insúa, Javier Manquillo, Josuha Guilavogui, Óliver Torres, Carlos Ramos, Cristian Rodríguez, Adrián López, Léo Baptistão
+
+MATCH: 2367039 | wt., 22.10.2013 | FK Austria Wiedeń
+PLAYERS: Thibaut Courtois, Toby Alderweireld, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Raúl García, Koke, Arda Turan, Diego Costa
+
+MATCH: 2341341 | niedz., 11.05.2014 | Málaga CF
+PLAYERS: Thibaut Courtois, Toby Alderweireld, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Arda Turan, Raúl García, David Villa
+
+MATCH: 2348142 | śr., 21.08.2013 | FC Barcelona
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Koke, Gabi, Diego Costa, Arda Turan, David Villa
+
+MATCH: 2341322 | niedz., 13.04.2014 | Getafe CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Raúl García, Koke, David Villa, Diego Costa
+
+MATCH: 2341343 | pt., 18.04.2014 | Elche CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Adrián López, David Villa, Diego Costa
+
+MATCH: 2449278 | wt., 01.04.2014 | FC Barcelona
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Arda Turan, David Villa, Diego Costa
+
+MATCH: 2382241 | sob., 07.12.2013 | UE Sant Andreu
+PLAYERS: Daniel Aranzubia, Diego Godín, Toby Alderweireld, Filipe Luís, Javier Manquillo, Tiago Mendes, Koke, Óliver Torres, Arda Turan, Raúl García, Adrián López
+
+MATCH: 2341018 | niedz., 02.02.2014 | Real Sociedad
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Emiliano Insúa, Juanfran Torres, Mario Suárez, Gabi, José Sosa, Koke, David Villa, Diego Costa
+
+MATCH: 2341227 | sob., 23.11.2013 | Getafe CF
+PLAYERS: Thibaut Courtois, Toby Alderweireld, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Arda Turan, Raúl García, David Villa
+
+MATCH: 2341074 | niedz., 01.09.2013 | Real Sociedad
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Arda Turan, David Villa, Diego Costa
+
+MATCH: 2367097 | śr., 18.09.2013 | Zenit Petersburg
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Koke, Gabi, Arda Turan, Adrián López, David Villa
+
+MATCH: 2341024 | niedz., 26.01.2014 | Rayo Vallecano
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Javier Manquillo, Koke, Gabi, José Sosa, Arda Turan, Diego Costa, David Villa
+
+MATCH: 2341073 | niedz., 25.08.2013 | Rayo Vallecano
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Gabi, Tiago Mendes, Raúl García, Arda Turan, David Villa, Diego Costa
+
+MATCH: 2341152 | sob., 19.10.2013 | RCD Espanyol
+PLAYERS: Thibaut Courtois, Diego Godín, Toby Alderweireld, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Raúl García, David Villa, Diego Costa
+
+MATCH: 2341329 | niedz., 23.03.2014 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Raúl García, Koke, Arda Turan, Diego Costa
+
+MATCH: 2367100 | wt., 01.10.2013 | FC Porto
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Raúl García, Arda Turan, Léo Baptistão, David Villa
+
+MATCH: 2385047 | wt., 11.03.2014 | AC Milan
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Raúl García, Koke, Arda Turan, Diego Costa
+
+MATCH: 2341016 | sob., 08.02.2014 | UD Almería
+PLAYERS: Daniel Aranzubia, Diego Godín, Miranda, Juanfran Torres, Javier Manquillo, Tiago Mendes, Gabi, Raúl García, Arda Turan, Diego, Diego Costa
+
+MATCH: 2341196 | sob., 21.12.2013 | Levante UD
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Arda Turan, David Villa, Diego Costa
+
+MATCH: 2341017 | sob., 15.02.2014 | Real Valladolid CF
+PLAYERS: Thibaut Courtois, Diego Godín, Toby Alderweireld, Emiliano Insúa, Juanfran Torres, Mario Suárez, Gabi, Koke, Arda Turan, Raúl García, Diego Costa
+
+MATCH: 2341222 | niedz., 15.12.2013 | Valencia CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Arda Turan, David Villa, Diego Costa
+
+MATCH: 2423573 | śr., 05.02.2014 | Real Madryt
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Emiliano Insúa, Juanfran Torres, Koke, Gabi, Diego, Arda Turan, Raúl García, Diego Costa
+
+MATCH: 2341126 | niedz., 23.02.2014 | CA Osasuna
+PLAYERS: Thibaut Courtois, Diego Godín, Toby Alderweireld, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Diego, David Villa, Adrián López, Diego Costa
+
+MATCH: 2341171 | wt., 24.09.2013 | CA Osasuna
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Emiliano Insúa, Juanfran Torres, Mario Suárez, Tiago Mendes, Koke, Arda Turan, Diego Costa, Léo Baptistão
+
+MATCH: 2341354 | niedz., 27.04.2014 | Valencia CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Raúl García, Koke, David Villa, Diego Costa
+
+MATCH: 2348143 | śr., 28.08.2013 | FC Barcelona
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Arda Turan, Diego Costa, Koke, David Villa
+
+MATCH: 2341101 | sob., 14.09.2013 | UD Almería
+PLAYERS: Thibaut Courtois, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Raúl García, David Villa, Diego Costa
+
+MATCH: 2341165 | sob., 28.09.2013 | Real Madryt
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Arda Turan, David Villa, Diego Costa
+
+MATCH: 2341147 | czw., 31.10.2013 | Granada CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, David Villa, Adrián López, Diego Costa
+
+MATCH: 2396425 | wt., 14.01.2014 | Valencia CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Arda Turan, José Sosa, Raúl García, Diego Costa
+
+MATCH: 2341241 | niedz., 03.11.2013 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Adrián López, David Villa, Diego Costa
+

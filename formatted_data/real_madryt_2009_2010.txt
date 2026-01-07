@@ -1,0 +1,148 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 957698 | niedz., 16.05.2010 | Málaga CF
+PLAYERS: Iker Casillas, Raúl Albiol, Ezequiel Garay, Marcelo, Sergio Ramos, Fernando Gago, Xabi Alonso, Esteban Granero, Rafael van der Vaart, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 955902 | sob., 31.10.2009 | Getafe CF
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Álvaro Arbeloa, Sergio Ramos, Lassana Diarra, Xabi Alonso, Marcelo, Kaká, Karim Benzema, Gonzalo Higuaín
+
+MATCH: 957392 | sob., 13.02.2010 | Xerez CD
+PLAYERS: Iker Casillas, Sergio Ramos, Ezequiel Garay, Marcelo, Álvaro Arbeloa, Lassana Diarra, Xabi Alonso, Esteban Granero, Kaká, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 957261 | niedz., 29.11.2009 | FC Barcelona
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Álvaro Arbeloa, Sergio Ramos, Xabi Alonso, Lassana Diarra, Marcelo, Kaká, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 955810 | niedz., 20.09.2009 | Xerez CD
+PLAYERS: Iker Casillas, Raúl Albiol, Ezequiel Garay, Marcelo, Sergio Ramos, Fernando Gago, Lassana Diarra, Cristiano Ronaldo, Kaká, Raúl, Karim Benzema
+
+MATCH: 955830 | śr., 23.09.2009 | Villarreal CF
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Lassana Diarra, Fernando Gago, Guti, Esteban Granero, Kaká, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 957450 | sob., 20.03.2010 | Sporting Gijón
+PLAYERS: Iker Casillas, Sergio Ramos, Ezequiel Garay, Marcelo, Álvaro Arbeloa, Lassana Diarra, Xabi Alonso, Esteban Granero, Rafael van der Vaart, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 957646 | niedz., 18.04.2010 | Valencia CF
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Fernando Gago, Xabi Alonso, Guti, Rafael van der Vaart, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 971641 | śr., 25.11.2009 | FC Zürich
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Álvaro Arbeloa, Sergio Ramos, Lassana Diarra, Xabi Alonso, Marcelo, Kaká, Raúl, Gonzalo Higuaín
+
+MATCH: 957370 | niedz., 24.01.2010 | Málaga CF
+PLAYERS: Iker Casillas, Raúl Albiol, Ezequiel Garay, Álvaro Arbeloa, Sergio Ramos, Lassana Diarra, Xabi Alonso, Guti, Kaká, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 957383 | sob., 06.02.2010 | RCD Espanyol
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Xabi Alonso, Guti, Esteban Granero, Kaká, Raúl, Karim Benzema
+
+MATCH: 957349 | niedz., 10.01.2010 | RCD Mallorca
+PLAYERS: Iker Casillas, Raúl Albiol, Ezequiel Garay, Marcelo, Álvaro Arbeloa, Fernando Gago, Xabi Alonso, Rafael van der Vaart, Kaká, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 957464 | czw., 25.03.2010 | Getafe CF
+PLAYERS: Iker Casillas, Raúl Albiol, Ezequiel Garay, Álvaro Arbeloa, Sergio Ramos, Xabi Alonso, Fernando Gago, Esteban Granero, Rafael van der Vaart, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 971637 | wt., 15.09.2009 | FC Zürich
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Royston Drenthe, Álvaro Arbeloa, Lassana Diarra, Xabi Alonso, Cristiano Ronaldo, Kaká, Raúl, Gonzalo Higuaín
+
+MATCH: 988803 | śr., 10.03.2010 | Olympique Lyon
+PLAYERS: Iker Casillas, Raúl Albiol, Ezequiel Garay, Álvaro Arbeloa, Sergio Ramos, Lassana Diarra, Guti, Kaká, Cristiano Ronaldo, Esteban Granero, Gonzalo Higuaín
+
+MATCH: 957339 | niedz., 03.01.2010 | CA Osasuna
+PLAYERS: Iker Casillas, Raúl Albiol, Ezequiel Garay, Álvaro Arbeloa, Sergio Ramos, Xabi Alonso, Lassana Diarra, Marcelo, Rafael van der Vaart, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 957431 | sob., 06.03.2010 | Sevilla FC
+PLAYERS: Iker Casillas, Raúl Albiol, Ezequiel Garay, Álvaro Arbeloa, Sergio Ramos, Lassana Diarra, Xabi Alonso, Marcelo, Kaká, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 955858 | sob., 26.09.2009 | CD Tenerife
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Royston Drenthe, Sergio Ramos, Lassana Diarra, Xabi Alonso, Esteban Granero, Cristiano Ronaldo, Raúl, Karim Benzema
+
+MATCH: 957360 | sob., 16.01.2010 | Athletic Bilbao
+PLAYERS: Iker Casillas, Raúl Albiol, Ezequiel Garay, Álvaro Arbeloa, Sergio Ramos, Xabi Alonso, Lassana Diarra, Marcelo, Kaká, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 957441 | niedz., 14.03.2010 | Real Valladolid CF
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Xabi Alonso, Lassana Diarra, Esteban Granero, Rafael van der Vaart, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 957688 | sob., 08.05.2010 | Athletic Bilbao
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Fernando Gago, Xabi Alonso, Esteban Granero, Guti, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 971642 | wt., 08.12.2009 | Olympique Marseille
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Álvaro Arbeloa, Sergio Ramos, Lassana Diarra, Xabi Alonso, Rafael van der Vaart, Marcelo, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 957307 | sob., 05.12.2009 | UD Almería
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Álvaro Arbeloa, Sergio Ramos, Xabi Alonso, Esteban Granero, Marcelo, Rafael van der Vaart, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 957413 | sob., 27.02.2010 | CD Tenerife
+PLAYERS: Iker Casillas, Raúl Albiol, Ezequiel Garay, Marcelo, Sergio Ramos, Xabi Alonso, Lassana Diarra, Esteban Granero, Kaká, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 955914 | sob., 07.11.2009 | Atlético Madryt
+PLAYERS: Iker Casillas, Pepe, Ezequiel Garay, Álvaro Arbeloa, Sergio Ramos, Lassana Diarra, Xabi Alonso, Marcelo, Kaká, Gonzalo Higuaín, Karim Benzema
+
+MATCH: 955869 | niedz., 04.10.2009 | Sevilla FC
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Marcelo, Sergio Ramos, Mahamadou Diarra, Xabi Alonso, Guti, Kaká, Raúl, Karim Benzema
+
+MATCH: 955801 | sob., 12.09.2009 | RCD Espanyol
+PLAYERS: Iker Casillas, Raúl Albiol, Christoph Metzelder, Marcelo, Álvaro Arbeloa, Xabi Alonso, Guti, Esteban Granero, Kaká, Karim Benzema, Gonzalo Higuaín
+
+MATCH: 955779 | sob., 29.08.2009 | Deportivo de La Coruña
+PLAYERS: Iker Casillas, Raúl Albiol, Ezequiel Garay, Marcelo, Álvaro Arbeloa, Lassana Diarra, Xabi Alonso, Kaká, Cristiano Ronaldo, Raúl, Karim Benzema
+
+MATCH: 957667 | niedz., 02.05.2010 | CA Osasuna
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Fernando Gago, Xabi Alonso, Esteban Granero, Kaká, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 955879 | sob., 17.10.2009 | Real Valladolid CF
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Marcelo, Sergio Ramos, Lassana Diarra, Xabi Alonso, Esteban Granero, Rafael van der Vaart, Raúl, Karim Benzema
+
+MATCH: 957371 | sob., 30.01.2010 | Deportivo de La Coruña
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Xabi Alonso, Esteban Granero, Guti, Kaká, Raúl, Karim Benzema
+
+MATCH: 957628 | czw., 15.04.2010 | UD Almería
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Fernando Gago, Xabi Alonso, Guti, Rafael van der Vaart, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 957318 | sob., 12.12.2009 | Valencia CF
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Álvaro Arbeloa, Sergio Ramos, Lassana Diarra, Xabi Alonso, Marcelo, Rafael van der Vaart, Gonzalo Higuaín, Karim Benzema
+
+MATCH: 976415 | wt., 27.10.2009 | AD Alcorcón
+PLAYERS: Jerzy Dudek, Raúl Albiol, Christoph Metzelder, Royston Drenthe, Álvaro Arbeloa, Mahamadou Diarra, Esteban Granero, Guti, Rafael van der Vaart, Raúl, Karim Benzema
+
+MATCH: 957328 | sob., 19.12.2009 | Real Zaragoza
+PLAYERS: Iker Casillas, Raúl Albiol, Ezequiel Garay, Álvaro Arbeloa, Sergio Ramos, Mahamadou Diarra, Lassana Diarra, Marcelo, Rafael van der Vaart, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 957505 | niedz., 28.03.2010 | Atlético Madryt
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Fernando Gago, Xabi Alonso, Esteban Granero, Rafael van der Vaart, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 957250 | sob., 21.11.2009 | Racing Santander
+PLAYERS: Iker Casillas, Pepe, Ezequiel Garay, Marcelo, Álvaro Arbeloa, Xabi Alonso, Esteban Granero, Royston Drenthe, Kaká, Karim Benzema, Gonzalo Higuaín
+
+MATCH: 957677 | śr., 05.05.2010 | RCD Mallorca
+PLAYERS: Iker Casillas, Raúl Albiol, Ezequiel Garay, Álvaro Arbeloa, Sergio Ramos, Xabi Alonso, Fernando Gago, Esteban Granero, Kaká, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 988800 | wt., 16.02.2010 | Olympique Lyon
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Xabi Alonso, Mahamadou Diarra, Esteban Granero, Kaká, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 955888 | sob., 24.10.2009 | Sporting Gijón
+PLAYERS: Iker Casillas, Pepe, Ezequiel Garay, Marcelo, Sergio Ramos, Mahamadou Diarra, Xabi Alonso, Esteban Granero, Royston Drenthe, Kaká, Raúl
+
+MATCH: 971640 | wt., 03.11.2009 | AC Milan
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Álvaro Arbeloa, Sergio Ramos, Lassana Diarra, Xabi Alonso, Kaká, Marcelo, Karim Benzema, Gonzalo Higuaín
+
+MATCH: 976431 | wt., 10.11.2009 | AD Alcorcón
+PLAYERS: Jerzy Dudek, Pepe, Raúl Albiol, Álvaro Arbeloa, Lassana Diarra, Mahamadou Diarra, Fernando Gago, Kaká, Raúl, Gonzalo Higuaín, Ruud van Nistelrooy
+
+MATCH: 971638 | śr., 30.09.2009 | Olympique Marseille
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Marcelo, Sergio Ramos, Xabi Alonso, Fernando Gago, Guti, Kaká, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 957596 | niedz., 04.04.2010 | Racing Santander
+PLAYERS: Iker Casillas, Raúl Albiol, Christoph Metzelder, Marcelo, Álvaro Arbeloa, Mahamadou Diarra, Fernando Gago, Esteban Granero, Rafael van der Vaart, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 957403 | niedz., 21.02.2010 | Villarreal CF
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Xabi Alonso, Lassana Diarra, Esteban Granero, Kaká, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 957612 | sob., 10.04.2010 | FC Barcelona
+PLAYERS: Iker Casillas, Raúl Albiol, Ezequiel Garay, Álvaro Arbeloa, Sergio Ramos, Xabi Alonso, Fernando Gago, Marcelo, Rafael van der Vaart, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 971639 | śr., 21.10.2009 | AC Milan
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Marcelo, Sergio Ramos, Lassana Diarra, Xabi Alonso, Esteban Granero, Kaká, Raúl, Karim Benzema
+
+MATCH: 957656 | sob., 24.04.2010 | Real Zaragoza
+PLAYERS: Iker Casillas, Sergio Ramos, Ezequiel Garay, Marcelo, Álvaro Arbeloa, Fernando Gago, Xabi Alonso, Guti, Rafael van der Vaart, Cristiano Ronaldo, Gonzalo Higuaín
+

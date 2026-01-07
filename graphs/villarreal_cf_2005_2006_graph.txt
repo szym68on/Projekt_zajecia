@@ -1,0 +1,334 @@
+# Graph for Java/GraphStream
+# Nodes: 29
+# Edges: 328
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Mariano Barbosa | César Arzo | 5 | 16 | 10
+EDGE Mariano Barbosa | Juan Manuel Peña | 11 | 16 | 32
+EDGE Mariano Barbosa | Josemi | 2 | 16 | 9
+EDGE Mariano Barbosa | Javi Venta | 13 | 16 | 36
+EDGE Mariano Barbosa | Josico | 8 | 16 | 35
+EDGE Mariano Barbosa | Alessio Tacchinardi | 7 | 16 | 24
+EDGE Mariano Barbosa | José Mari | 9 | 16 | 37
+EDGE Mariano Barbosa | Juan Román Riquelme | 11 | 16 | 38
+EDGE Mariano Barbosa | Diego Forlán | 11 | 16 | 44
+EDGE Mariano Barbosa | Guillermo Franco | 6 | 16 | 9
+EDGE Mariano Barbosa | Gonzalo Rodríguez | 8 | 16 | 40
+EDGE Mariano Barbosa | Quique Álvarez | 11 | 16 | 30
+EDGE Mariano Barbosa | Rodolfo Arruabarrena | 14 | 16 | 46
+EDGE Mariano Barbosa | Marcos Senna | 14 | 16 | 42
+EDGE Mariano Barbosa | Juan Pablo Sorín | 8 | 16 | 28
+EDGE Mariano Barbosa | Luciano Figueroa | 7 | 16 | 13
+EDGE Mariano Barbosa | Roger García | 4 | 16 | 11
+EDGE Mariano Barbosa | Santi Cazorla | 4 | 16 | 15
+EDGE Mariano Barbosa | Jan Kromkamp | 2 | 16 | 10
+EDGE Mariano Barbosa | Carlos Alcántara | 1 | 16 | 5
+EDGE Mariano Barbosa | Héctor Font | 2 | 16 | 10
+EDGE Mariano Barbosa | Antonio Guayre | 2 | 16 | 9
+EDGE César Arzo | Juan Manuel Peña | 5 | 10 | 32
+EDGE César Arzo | Josemi | 4 | 10 | 9
+EDGE César Arzo | Javi Venta | 6 | 10 | 36
+EDGE César Arzo | Josico | 3 | 10 | 35
+EDGE César Arzo | Alessio Tacchinardi | 3 | 10 | 24
+EDGE César Arzo | José Mari | 6 | 10 | 37
+EDGE César Arzo | Juan Román Riquelme | 5 | 10 | 38
+EDGE César Arzo | Diego Forlán | 6 | 10 | 44
+EDGE César Arzo | Guillermo Franco | 4 | 10 | 9
+EDGE César Arzo | Javier López Vallejo | 1 | 10 | 1
+EDGE César Arzo | Gonzalo Rodríguez | 5 | 10 | 40
+EDGE César Arzo | Quique Álvarez | 4 | 10 | 30
+EDGE César Arzo | Carlos Alcántara | 3 | 10 | 5
+EDGE César Arzo | Javi Rubio | 2 | 10 | 2
+EDGE César Arzo | Roger García | 5 | 10 | 11
+EDGE César Arzo | Luciano Figueroa | 3 | 10 | 13
+EDGE César Arzo | Rodolfo Arruabarrena | 5 | 10 | 46
+EDGE César Arzo | Marcos Senna | 5 | 10 | 42
+EDGE César Arzo | Juan Pablo Sorín | 4 | 10 | 28
+EDGE César Arzo | Sebastián Viera | 4 | 10 | 37
+EDGE César Arzo | Jan Kromkamp | 1 | 10 | 10
+EDGE César Arzo | Santi Cazorla | 2 | 10 | 15
+EDGE César Arzo | Héctor Font | 3 | 10 | 10
+EDGE César Arzo | Antonio Guayre | 3 | 10 | 9
+EDGE César Arzo | Oscar López | 1 | 10 | 1
+EDGE César Arzo | Javier Calleja | 2 | 10 | 3
+EDGE Juan Manuel Peña | Josemi | 3 | 32 | 9
+EDGE Juan Manuel Peña | Javi Venta | 25 | 32 | 36
+EDGE Juan Manuel Peña | Josico | 19 | 32 | 35
+EDGE Juan Manuel Peña | Alessio Tacchinardi | 15 | 32 | 24
+EDGE Juan Manuel Peña | José Mari | 25 | 32 | 37
+EDGE Juan Manuel Peña | Juan Román Riquelme | 23 | 32 | 38
+EDGE Juan Manuel Peña | Diego Forlán | 25 | 32 | 44
+EDGE Juan Manuel Peña | Guillermo Franco | 7 | 32 | 9
+EDGE Juan Manuel Peña | Sebastián Viera | 21 | 32 | 37
+EDGE Juan Manuel Peña | Gonzalo Rodríguez | 20 | 32 | 40
+EDGE Juan Manuel Peña | Carlos Alcántara | 3 | 32 | 5
+EDGE Juan Manuel Peña | Marcos Senna | 28 | 32 | 42
+EDGE Juan Manuel Peña | Héctor Font | 5 | 32 | 10
+EDGE Juan Manuel Peña | Antonio Guayre | 4 | 32 | 9
+EDGE Juan Manuel Peña | Rodolfo Arruabarrena | 27 | 32 | 46
+EDGE Juan Manuel Peña | Santi Cazorla | 8 | 32 | 15
+EDGE Juan Manuel Peña | Juan Pablo Sorín | 16 | 32 | 28
+EDGE Juan Manuel Peña | Luciano Figueroa | 7 | 32 | 13
+EDGE Juan Manuel Peña | Roger García | 6 | 32 | 11
+EDGE Juan Manuel Peña | Quique Álvarez | 11 | 32 | 30
+EDGE Juan Manuel Peña | Jan Kromkamp | 5 | 32 | 10
+EDGE Juan Manuel Peña | Javier Calleja | 1 | 32 | 3
+EDGE Josemi | Javi Venta | 1 | 9 | 36
+EDGE Josemi | Josico | 6 | 9 | 35
+EDGE Josemi | Alessio Tacchinardi | 5 | 9 | 24
+EDGE Josemi | José Mari | 5 | 9 | 37
+EDGE Josemi | Juan Román Riquelme | 5 | 9 | 38
+EDGE Josemi | Diego Forlán | 7 | 9 | 44
+EDGE Josemi | Guillermo Franco | 5 | 9 | 9
+EDGE Josemi | Javier López Vallejo | 1 | 9 | 1
+EDGE Josemi | Gonzalo Rodríguez | 7 | 9 | 40
+EDGE Josemi | Quique Álvarez | 5 | 9 | 30
+EDGE Josemi | Carlos Alcántara | 2 | 9 | 5
+EDGE Josemi | Javi Rubio | 2 | 9 | 2
+EDGE Josemi | Roger García | 4 | 9 | 11
+EDGE Josemi | Luciano Figueroa | 1 | 9 | 13
+EDGE Josemi | Sebastián Viera | 6 | 9 | 37
+EDGE Josemi | Rodolfo Arruabarrena | 6 | 9 | 46
+EDGE Josemi | Marcos Senna | 3 | 9 | 42
+EDGE Josemi | Santi Cazorla | 3 | 9 | 15
+EDGE Josemi | Oscar López | 1 | 9 | 1
+EDGE Josemi | Héctor Font | 3 | 9 | 10
+EDGE Josemi | Javier Calleja | 1 | 9 | 3
+EDGE Josemi | Antonio Guayre | 2 | 9 | 9
+EDGE Javi Venta | Josico | 21 | 36 | 35
+EDGE Javi Venta | Alessio Tacchinardi | 16 | 36 | 24
+EDGE Javi Venta | José Mari | 27 | 36 | 37
+EDGE Javi Venta | Juan Román Riquelme | 26 | 36 | 38
+EDGE Javi Venta | Diego Forlán | 29 | 36 | 44
+EDGE Javi Venta | Guillermo Franco | 5 | 36 | 9
+EDGE Javi Venta | Sebastián Viera | 23 | 36 | 37
+EDGE Javi Venta | Gonzalo Rodríguez | 24 | 36 | 40
+EDGE Javi Venta | Carlos Alcántara | 2 | 36 | 5
+EDGE Javi Venta | Marcos Senna | 33 | 36 | 42
+EDGE Javi Venta | Héctor Font | 5 | 36 | 10
+EDGE Javi Venta | Antonio Guayre | 5 | 36 | 9
+EDGE Javi Venta | Rodolfo Arruabarrena | 31 | 36 | 46
+EDGE Javi Venta | Santi Cazorla | 8 | 36 | 15
+EDGE Javi Venta | Quique Álvarez | 20 | 36 | 30
+EDGE Javi Venta | Roger García | 6 | 36 | 11
+EDGE Javi Venta | Javier Calleja | 2 | 36 | 3
+EDGE Javi Venta | Juan Pablo Sorín | 22 | 36 | 28
+EDGE Javi Venta | Luciano Figueroa | 9 | 36 | 13
+EDGE Javi Venta | Antonio Valencia | 1 | 36 | 1
+EDGE Josico | Alessio Tacchinardi | 13 | 35 | 24
+EDGE Josico | José Mari | 24 | 35 | 37
+EDGE Josico | Juan Román Riquelme | 26 | 35 | 38
+EDGE Josico | Diego Forlán | 29 | 35 | 44
+EDGE Josico | Guillermo Franco | 4 | 35 | 9
+EDGE Josico | Sebastián Viera | 27 | 35 | 37
+EDGE Josico | Gonzalo Rodríguez | 29 | 35 | 40
+EDGE Josico | Carlos Alcántara | 2 | 35 | 5
+EDGE Josico | Marcos Senna | 26 | 35 | 42
+EDGE Josico | Héctor Font | 5 | 35 | 10
+EDGE Josico | Antonio Guayre | 5 | 35 | 9
+EDGE Josico | Quique Álvarez | 20 | 35 | 30
+EDGE Josico | Rodolfo Arruabarrena | 31 | 35 | 46
+EDGE Josico | Roger García | 6 | 35 | 11
+EDGE Josico | Javier Calleja | 1 | 35 | 3
+EDGE Josico | Juan Pablo Sorín | 18 | 35 | 28
+EDGE Josico | Luciano Figueroa | 9 | 35 | 13
+EDGE Josico | Santi Cazorla | 8 | 35 | 15
+EDGE Josico | Jan Kromkamp | 9 | 35 | 10
+EDGE Josico | Antonio Valencia | 1 | 35 | 1
+EDGE Alessio Tacchinardi | José Mari | 21 | 24 | 37
+EDGE Alessio Tacchinardi | Juan Román Riquelme | 19 | 24 | 38
+EDGE Alessio Tacchinardi | Diego Forlán | 22 | 24 | 44
+EDGE Alessio Tacchinardi | Guillermo Franco | 4 | 24 | 9
+EDGE Alessio Tacchinardi | Sebastián Viera | 17 | 24 | 37
+EDGE Alessio Tacchinardi | Gonzalo Rodríguez | 16 | 24 | 40
+EDGE Alessio Tacchinardi | Rodolfo Arruabarrena | 22 | 24 | 46
+EDGE Alessio Tacchinardi | Marcos Senna | 15 | 24 | 42
+EDGE Alessio Tacchinardi | Santi Cazorla | 7 | 24 | 15
+EDGE Alessio Tacchinardi | Quique Álvarez | 14 | 24 | 30
+EDGE Alessio Tacchinardi | Juan Pablo Sorín | 10 | 24 | 28
+EDGE Alessio Tacchinardi | Roger García | 4 | 24 | 11
+EDGE Alessio Tacchinardi | Luciano Figueroa | 3 | 24 | 13
+EDGE Alessio Tacchinardi | Jan Kromkamp | 4 | 24 | 10
+EDGE Alessio Tacchinardi | Héctor Font | 2 | 24 | 10
+EDGE Alessio Tacchinardi | Antonio Guayre | 1 | 24 | 9
+EDGE José Mari | Juan Román Riquelme | 28 | 37 | 38
+EDGE José Mari | Diego Forlán | 29 | 37 | 44
+EDGE José Mari | Guillermo Franco | 4 | 37 | 9
+EDGE José Mari | Sebastián Viera | 28 | 37 | 37
+EDGE José Mari | Gonzalo Rodríguez | 28 | 37 | 40
+EDGE José Mari | Rodolfo Arruabarrena | 34 | 37 | 46
+EDGE José Mari | Marcos Senna | 29 | 37 | 42
+EDGE José Mari | Santi Cazorla | 11 | 37 | 15
+EDGE José Mari | Quique Álvarez | 17 | 37 | 30
+EDGE José Mari | Juan Pablo Sorín | 20 | 37 | 28
+EDGE José Mari | Luciano Figueroa | 7 | 37 | 13
+EDGE José Mari | Roger García | 6 | 37 | 11
+EDGE José Mari | Jan Kromkamp | 6 | 37 | 10
+EDGE José Mari | Héctor Font | 4 | 37 | 10
+EDGE José Mari | Antonio Valencia | 1 | 37 | 1
+EDGE José Mari | Javier Calleja | 1 | 37 | 3
+EDGE Juan Román Riquelme | Diego Forlán | 35 | 38 | 44
+EDGE Juan Román Riquelme | Guillermo Franco | 5 | 38 | 9
+EDGE Juan Román Riquelme | Sebastián Viera | 26 | 38 | 37
+EDGE Juan Román Riquelme | Gonzalo Rodríguez | 27 | 38 | 40
+EDGE Juan Román Riquelme | Carlos Alcántara | 3 | 38 | 5
+EDGE Juan Román Riquelme | Marcos Senna | 29 | 38 | 42
+EDGE Juan Román Riquelme | Héctor Font | 3 | 38 | 10
+EDGE Juan Román Riquelme | Antonio Guayre | 2 | 38 | 9
+EDGE Juan Román Riquelme | Rodolfo Arruabarrena | 32 | 38 | 46
+EDGE Juan Román Riquelme | Santi Cazorla | 10 | 38 | 15
+EDGE Juan Román Riquelme | Javier López Vallejo | 1 | 38 | 1
+EDGE Juan Román Riquelme | Quique Álvarez | 23 | 38 | 30
+EDGE Juan Román Riquelme | Javi Rubio | 1 | 38 | 2
+EDGE Juan Román Riquelme | Roger García | 1 | 38 | 11
+EDGE Juan Román Riquelme | Luciano Figueroa | 8 | 38 | 13
+EDGE Juan Román Riquelme | Juan Pablo Sorín | 22 | 38 | 28
+EDGE Juan Román Riquelme | Jan Kromkamp | 8 | 38 | 10
+EDGE Juan Román Riquelme | Javier Calleja | 1 | 38 | 3
+EDGE Diego Forlán | Guillermo Franco | 7 | 44 | 9
+EDGE Diego Forlán | Sebastián Viera | 32 | 44 | 37
+EDGE Diego Forlán | Gonzalo Rodríguez | 33 | 44 | 40
+EDGE Diego Forlán | Carlos Alcántara | 3 | 44 | 5
+EDGE Diego Forlán | Marcos Senna | 34 | 44 | 42
+EDGE Diego Forlán | Héctor Font | 7 | 44 | 10
+EDGE Diego Forlán | Antonio Guayre | 7 | 44 | 9
+EDGE Diego Forlán | Rodolfo Arruabarrena | 38 | 44 | 46
+EDGE Diego Forlán | Santi Cazorla | 12 | 44 | 15
+EDGE Diego Forlán | Quique Álvarez | 27 | 44 | 30
+EDGE Diego Forlán | Roger García | 5 | 44 | 11
+EDGE Diego Forlán | Javier Calleja | 2 | 44 | 3
+EDGE Diego Forlán | Javier López Vallejo | 1 | 44 | 1
+EDGE Diego Forlán | Javi Rubio | 1 | 44 | 2
+EDGE Diego Forlán | Luciano Figueroa | 5 | 44 | 13
+EDGE Diego Forlán | Juan Pablo Sorín | 24 | 44 | 28
+EDGE Diego Forlán | Jan Kromkamp | 9 | 44 | 10
+EDGE Guillermo Franco | Sebastián Viera | 3 | 9 | 37
+EDGE Guillermo Franco | Quique Álvarez | 4 | 9 | 30
+EDGE Guillermo Franco | Gonzalo Rodríguez | 4 | 9 | 40
+EDGE Guillermo Franco | Rodolfo Arruabarrena | 7 | 9 | 46
+EDGE Guillermo Franco | Marcos Senna | 6 | 9 | 42
+EDGE Guillermo Franco | Santi Cazorla | 2 | 9 | 15
+EDGE Guillermo Franco | Roger García | 2 | 9 | 11
+EDGE Guillermo Franco | Juan Pablo Sorín | 2 | 9 | 28
+EDGE Guillermo Franco | Oscar López | 1 | 9 | 1
+EDGE Guillermo Franco | Carlos Alcántara | 1 | 9 | 5
+EDGE Guillermo Franco | Héctor Font | 3 | 9 | 10
+EDGE Guillermo Franco | Javier Calleja | 1 | 9 | 3
+EDGE Guillermo Franco | Javi Rubio | 1 | 9 | 2
+EDGE Guillermo Franco | Antonio Guayre | 2 | 9 | 9
+EDGE Sebastián Viera | Gonzalo Rodríguez | 31 | 37 | 40
+EDGE Sebastián Viera | Carlos Alcántara | 3 | 37 | 5
+EDGE Sebastián Viera | Marcos Senna | 28 | 37 | 42
+EDGE Sebastián Viera | Héctor Font | 8 | 37 | 10
+EDGE Sebastián Viera | Antonio Guayre | 7 | 37 | 9
+EDGE Sebastián Viera | Rodolfo Arruabarrena | 32 | 37 | 46
+EDGE Sebastián Viera | Santi Cazorla | 11 | 37 | 15
+EDGE Sebastián Viera | Quique Álvarez | 18 | 37 | 30
+EDGE Sebastián Viera | Roger García | 6 | 37 | 11
+EDGE Sebastián Viera | Javier Calleja | 3 | 37 | 3
+EDGE Sebastián Viera | Juan Pablo Sorín | 20 | 37 | 28
+EDGE Sebastián Viera | Luciano Figueroa | 5 | 37 | 13
+EDGE Sebastián Viera | Jan Kromkamp | 8 | 37 | 10
+EDGE Sebastián Viera | Oscar López | 1 | 37 | 1
+EDGE Sebastián Viera | Javi Rubio | 1 | 37 | 2
+EDGE Sebastián Viera | Antonio Valencia | 1 | 37 | 1
+EDGE Gonzalo Rodríguez | Carlos Alcántara | 3 | 40 | 5
+EDGE Gonzalo Rodríguez | Marcos Senna | 32 | 40 | 42
+EDGE Gonzalo Rodríguez | Héctor Font | 7 | 40 | 10
+EDGE Gonzalo Rodríguez | Antonio Guayre | 6 | 40 | 9
+EDGE Gonzalo Rodríguez | Rodolfo Arruabarrena | 35 | 40 | 46
+EDGE Gonzalo Rodríguez | Santi Cazorla | 13 | 40 | 15
+EDGE Gonzalo Rodríguez | Quique Álvarez | 18 | 40 | 30
+EDGE Gonzalo Rodríguez | Roger García | 9 | 40 | 11
+EDGE Gonzalo Rodríguez | Javier Calleja | 2 | 40 | 3
+EDGE Gonzalo Rodríguez | Javier López Vallejo | 1 | 40 | 1
+EDGE Gonzalo Rodríguez | Javi Rubio | 1 | 40 | 2
+EDGE Gonzalo Rodríguez | Luciano Figueroa | 10 | 40 | 13
+EDGE Gonzalo Rodríguez | Juan Pablo Sorín | 21 | 40 | 28
+EDGE Gonzalo Rodríguez | Jan Kromkamp | 9 | 40 | 10
+EDGE Gonzalo Rodríguez | Antonio Valencia | 1 | 40 | 1
+EDGE Carlos Alcántara | Marcos Senna | 3 | 5 | 42
+EDGE Carlos Alcántara | Héctor Font | 3 | 5 | 10
+EDGE Carlos Alcántara | Antonio Guayre | 4 | 5 | 9
+EDGE Carlos Alcántara | Javier López Vallejo | 1 | 5 | 1
+EDGE Carlos Alcántara | Quique Álvarez | 2 | 5 | 30
+EDGE Carlos Alcántara | Javi Rubio | 2 | 5 | 2
+EDGE Carlos Alcántara | Roger García | 3 | 5 | 11
+EDGE Carlos Alcántara | Luciano Figueroa | 2 | 5 | 13
+EDGE Carlos Alcántara | Jan Kromkamp | 1 | 5 | 10
+EDGE Carlos Alcántara | Santi Cazorla | 1 | 5 | 15
+EDGE Carlos Alcántara | Oscar López | 1 | 5 | 1
+EDGE Carlos Alcántara | Javier Calleja | 1 | 5 | 3
+EDGE Marcos Senna | Héctor Font | 8 | 42 | 10
+EDGE Marcos Senna | Antonio Guayre | 7 | 42 | 9
+EDGE Marcos Senna | Rodolfo Arruabarrena | 38 | 42 | 46
+EDGE Marcos Senna | Santi Cazorla | 10 | 42 | 15
+EDGE Marcos Senna | Quique Álvarez | 22 | 42 | 30
+EDGE Marcos Senna | Roger García | 7 | 42 | 11
+EDGE Marcos Senna | Javier Calleja | 2 | 42 | 3
+EDGE Marcos Senna | Juan Pablo Sorín | 23 | 42 | 28
+EDGE Marcos Senna | Luciano Figueroa | 11 | 42 | 13
+EDGE Marcos Senna | Jan Kromkamp | 6 | 42 | 10
+EDGE Marcos Senna | Antonio Valencia | 1 | 42 | 1
+EDGE Héctor Font | Antonio Guayre | 6 | 10 | 9
+EDGE Héctor Font | Rodolfo Arruabarrena | 7 | 10 | 46
+EDGE Héctor Font | Jan Kromkamp | 2 | 10 | 10
+EDGE Héctor Font | Quique Álvarez | 6 | 10 | 30
+EDGE Héctor Font | Roger García | 2 | 10 | 11
+EDGE Héctor Font | Luciano Figueroa | 2 | 10 | 13
+EDGE Héctor Font | Oscar López | 1 | 10 | 1
+EDGE Héctor Font | Javier Calleja | 1 | 10 | 3
+EDGE Héctor Font | Javi Rubio | 1 | 10 | 2
+EDGE Héctor Font | Juan Pablo Sorín | 2 | 10 | 28
+EDGE Héctor Font | Santi Cazorla | 1 | 10 | 15
+EDGE Héctor Font | Antonio Valencia | 1 | 10 | 1
+EDGE Antonio Guayre | Quique Álvarez | 6 | 9 | 30
+EDGE Antonio Guayre | Rodolfo Arruabarrena | 5 | 9 | 46
+EDGE Antonio Guayre | Roger García | 4 | 9 | 11
+EDGE Antonio Guayre | Javier Calleja | 2 | 9 | 3
+EDGE Antonio Guayre | Jan Kromkamp | 2 | 9 | 10
+EDGE Antonio Guayre | Santi Cazorla | 3 | 9 | 15
+EDGE Antonio Guayre | Luciano Figueroa | 1 | 9 | 13
+EDGE Antonio Guayre | Oscar López | 1 | 9 | 1
+EDGE Antonio Guayre | Javi Rubio | 1 | 9 | 2
+EDGE Antonio Guayre | Juan Pablo Sorín | 2 | 9 | 28
+EDGE Rodolfo Arruabarrena | Santi Cazorla | 13 | 46 | 15
+EDGE Rodolfo Arruabarrena | Quique Álvarez | 27 | 46 | 30
+EDGE Rodolfo Arruabarrena | Roger García | 8 | 46 | 11
+EDGE Rodolfo Arruabarrena | Javier Calleja | 1 | 46 | 3
+EDGE Rodolfo Arruabarrena | Juan Pablo Sorín | 26 | 46 | 28
+EDGE Rodolfo Arruabarrena | Luciano Figueroa | 11 | 46 | 13
+EDGE Rodolfo Arruabarrena | Jan Kromkamp | 9 | 46 | 10
+EDGE Rodolfo Arruabarrena | Antonio Valencia | 1 | 46 | 1
+EDGE Santi Cazorla | Jan Kromkamp | 4 | 15 | 10
+EDGE Santi Cazorla | Juan Pablo Sorín | 6 | 15 | 28
+EDGE Santi Cazorla | Quique Álvarez | 8 | 15 | 30
+EDGE Santi Cazorla | Roger García | 3 | 15 | 11
+EDGE Santi Cazorla | Luciano Figueroa | 2 | 15 | 13
+EDGE Quique Álvarez | Roger García | 4 | 30 | 11
+EDGE Quique Álvarez | Javier Calleja | 1 | 30 | 3
+EDGE Quique Álvarez | Javier López Vallejo | 1 | 30 | 1
+EDGE Quique Álvarez | Javi Rubio | 1 | 30 | 2
+EDGE Quique Álvarez | Luciano Figueroa | 8 | 30 | 13
+EDGE Quique Álvarez | Juan Pablo Sorín | 16 | 30 | 28
+EDGE Quique Álvarez | Jan Kromkamp | 5 | 30 | 10
+EDGE Quique Álvarez | Antonio Valencia | 1 | 30 | 1
+EDGE Roger García | Javier Calleja | 2 | 11 | 3
+EDGE Roger García | Javier López Vallejo | 1 | 11 | 1
+EDGE Roger García | Javi Rubio | 2 | 11 | 2
+EDGE Roger García | Luciano Figueroa | 5 | 11 | 13
+EDGE Roger García | Juan Pablo Sorín | 3 | 11 | 28
+EDGE Roger García | Oscar López | 1 | 11 | 1
+EDGE Roger García | Jan Kromkamp | 1 | 11 | 10
+EDGE Javier Calleja | Oscar López | 1 | 3 | 1
+EDGE Javier Calleja | Javi Rubio | 1 | 3 | 2
+EDGE Javier Calleja | Juan Pablo Sorín | 1 | 3 | 28
+EDGE Javier López Vallejo | Javi Rubio | 1 | 1 | 2
+EDGE Javier López Vallejo | Luciano Figueroa | 1 | 1 | 13
+EDGE Javi Rubio | Luciano Figueroa | 1 | 2 | 13
+EDGE Javi Rubio | Oscar López | 1 | 2 | 1
+EDGE Luciano Figueroa | Juan Pablo Sorín | 8 | 13 | 28
+EDGE Luciano Figueroa | Jan Kromkamp | 3 | 13 | 10
+EDGE Luciano Figueroa | Antonio Valencia | 1 | 13 | 1
+EDGE Juan Pablo Sorín | Jan Kromkamp | 6 | 28 | 10

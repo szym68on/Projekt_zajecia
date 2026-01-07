@@ -1,0 +1,196 @@
+# Team: Atlético Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 957342 | sob., 09.01.2010 | Real Valladolid CF
+PLAYERS: Sergio Asenjo, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Juan Valera, Paulo Assunção, Raúl García, José Manuel Jurado, José Antonio Reyes, Simão, Diego Forlán
+
+MATCH: 986482 | czw., 14.01.2010 | Recreativo Huelva
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Tomas Ujfalusi, Antonio López, Paulo Assunção, José Manuel Jurado, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 971644 | śr., 30.09.2009 | FC Porto
+PLAYERS: Roberto, Juanito, Pablo Ibáñez, Luis Amaranto Perea, Tomas Ujfalusi, Paulo Assunção, Cléber Santana, Sergio Agüero, Simão, José Manuel Jurado, Diego Forlán
+
+MATCH: 971648 | wt., 08.12.2009 | FC Porto
+PLAYERS: Sergio Asenjo, Juanito, Luis Amaranto Perea, Álvaro Domínguez, Juan Valera, Paulo Assunção, Cléber Santana, Simão, Maxi Rodríguez, Diego Forlán, Sergio Agüero
+
+MATCH: 995253 | czw., 11.02.2010 | Racing Santander
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Tomas Ujfalusi, Antonio López, Juan Valera, Paulo Assunção, Tiago Mendes, José Manuel Jurado, José Antonio Reyes, Sergio Agüero
+
+MATCH: 955817 | sob., 19.09.2009 | FC Barcelona
+PLAYERS: Roberto, Tomas Ujfalusi, Pablo Ibáñez, Antonio López, Luis Amaranto Perea, Paulo Assunção, Maxi Rodríguez, Simão, José Manuel Jurado, Diego Forlán, Sergio Agüero
+
+MATCH: 955903 | sob., 31.10.2009 | Athletic Bilbao
+PLAYERS: Sergio Asenjo, Juanito, Pablo Ibáñez, Antonio López, Tomas Ujfalusi, Paulo Assunção, Raúl García, Simão, Maxi Rodríguez, Diego Forlán, Sergio Agüero
+
+MATCH: 1000562 | czw., 18.03.2010 | Sporting CP
+PLAYERS: David de Gea, Álvaro Domínguez, Tomas Ujfalusi, Antonio López, Luis Amaranto Perea, Paulo Assunção, Raúl García, José Manuel Jurado, Simão, José Antonio Reyes, Sergio Agüero
+
+MATCH: 993525 | czw., 28.01.2010 | Celta de Vigo
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Tomas Ujfalusi, Antonio López, Paulo Assunção, Tiago Mendes, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 957418 | niedz., 28.02.2010 | Valencia CF
+PLAYERS: David de Gea, Tomas Ujfalusi, Luis Amaranto Perea, Antonio López, Juan Valera, Paulo Assunção, Tiago Mendes, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1022102 | śr., 19.05.2010 | Sevilla FC
+PLAYERS: David de Gea, Álvaro Domínguez, Tomas Ujfalusi, Antonio López, Luis Amaranto Perea, Paulo Assunção, Tiago Mendes, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 988807 | czw., 18.02.2010 | Galatasaray
+PLAYERS: David de Gea, Tomas Ujfalusi, Luis Amaranto Perea, Álvaro Domínguez, Juan Valera, Paulo Assunção, Raúl García, José Antonio Reyes, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 955882 | niedz., 18.10.2009 | CA Osasuna
+PLAYERS: Sergio Asenjo, Juanito, Luis Amaranto Perea, Antonio López, Tomas Ujfalusi, Paulo Assunção, Cléber Santana, José Manuel Jurado, Simão, Maxi Rodríguez, Sergio Agüero
+
+MATCH: 957465 | czw., 25.03.2010 | Athletic Bilbao
+PLAYERS: David de Gea, Álvaro Domínguez, Tomas Ujfalusi, Antonio López, Juan Valera, Paulo Assunção, José Antonio Reyes, Simão, José Manuel Jurado, Diego Forlán, Sergio Agüero
+
+MATCH: 957452 | niedz., 21.03.2010 | RCD Mallorca
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Juan Valera, Paulo Assunção, Raúl García, José Manuel Jurado, José Antonio Reyes, Diego Forlán, Ibrahima Balde
+
+MATCH: 957661 | niedz., 02.05.2010 | Sevilla FC
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Leandro Cabrera, Juan Valera, Ignacio Camacho, Tiago Mendes, José Manuel Jurado, José Antonio Reyes, Eduardo Salvio, Sergio Agüero
+
+MATCH: 1003673 | czw., 01.04.2010 | Valencia CF
+PLAYERS: David de Gea, Álvaro Domínguez, Tomas Ujfalusi, Antonio López, Luis Amaranto Perea, Paulo Assunção, Raúl García, José Manuel Jurado, Simão, Sergio Agüero, Diego Forlán
+
+MATCH: 957361 | niedz., 24.01.2010 | Getafe CF
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Juan Valera, Paulo Assunção, José Manuel Jurado, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 955781 | niedz., 30.08.2009 | Málaga CF
+PLAYERS: Sergio Asenjo, John Heitinga, Juanito, Antonio López, Tomas Ujfalusi, Cléber Santana, Raúl García, Simão, Maxi Rodríguez, Diego Forlán, Sergio Agüero
+
+MATCH: 957670 | śr., 05.05.2010 | Real Valladolid CF
+PLAYERS: David de Gea, Juanito, Tomas Ujfalusi, Leandro Cabrera, Juan Valera, Paulo Assunção, Tiago Mendes, Simão, José Manuel Jurado, Eduardo Salvio, Diego Forlán
+
+MATCH: 1005241 | czw., 22.04.2010 | FC Liverpool
+PLAYERS: David de Gea, Álvaro Domínguez, Tomas Ujfalusi, Antonio López, Luis Amaranto Perea, Paulo Assunção, Raúl García, José Manuel Jurado, Simão, José Antonio Reyes, Diego Forlán
+
+MATCH: 976433 | wt., 10.11.2009 | UD Marbella
+PLAYERS: Sergio Asenjo, Álvaro Domínguez, Luis Amaranto Perea, Pablo Ibáñez, Tomas Ujfalusi, Paulo Assunção, José Manuel Jurado, Raúl García, Maxi Rodríguez, José Antonio Reyes, Florent Sinama-Pongolle
+
+MATCH: 957435 | niedz., 07.03.2010 | Real Zaragoza
+PLAYERS: David de Gea, Tomas Ujfalusi, Luis Amaranto Perea, Álvaro Domínguez, Juan Valera, Paulo Assunção, Tiago Mendes, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 1019361 | śr., 12.05.2010 | FC Fulham
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Tomas Ujfalusi, Paulo Assunção, Raúl García, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 971643 | wt., 15.09.2009 | APOEL Nikosia
+PLAYERS: Sergio Asenjo, Tomas Ujfalusi, Pablo Ibáñez, Álvaro Domínguez, Luis Amaranto Perea, Paulo Assunção, Cléber Santana, Simão, José Manuel Jurado, Diego Forlán, Sergio Agüero
+
+MATCH: 957680 | sob., 08.05.2010 | Sporting Gijón
+PLAYERS: Sergio Asenjo, Álvaro Domínguez, Juanito, Leandro Cabrera, Juan Valera, Ignacio Camacho, Tiago Mendes, Eduardo Salvio, Antonio López, José Manuel Jurado, Ibrahima Balde
+
+MATCH: 957399 | niedz., 14.02.2010 | FC Barcelona
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Tomas Ujfalusi, Paulo Assunção, Tiago Mendes, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 957625 | śr., 14.04.2010 | Xerez CD
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Mariano Pernía, Juan Valera, Tiago Mendes, Raúl García, José Manuel Jurado, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 955873 | sob., 03.10.2009 | Real Zaragoza
+PLAYERS: David de Gea, Juanito, Luis Amaranto Perea, Antonio López, Tomas Ujfalusi, Paulo Assunção, Cléber Santana, Simão, José Manuel Jurado, Diego Forlán, Sergio Agüero
+
+MATCH: 976417 | wt., 27.10.2009 | UD Marbella
+PLAYERS: Sergio Asenjo, Pablo Ibáñez, Tomas Ujfalusi, Antonio López, Paulo Assunção, Cléber Santana, José Manuel Jurado, Maxi Rodríguez, José Antonio Reyes, Florent Sinama-Pongolle
+
+MATCH: 957259 | niedz., 29.11.2009 | RCD Espanyol
+PLAYERS: Sergio Asenjo, Juanito, Luis Amaranto Perea, Álvaro Domínguez, Tomas Ujfalusi, Paulo Assunção, José Antonio Reyes, Simão, José Manuel Jurado, Diego Forlán, Sergio Agüero
+
+MATCH: 993224 | czw., 21.01.2010 | Celta de Vigo
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Tomas Ujfalusi, Mariano Pernía, Tiago Mendes, José Manuel Jurado, Raúl García, Simão, José Antonio Reyes, Sergio Agüero
+
+MATCH: 955890 | sob., 24.10.2009 | RCD Mallorca
+PLAYERS: David de Gea, Álvaro Domínguez, Pablo Ibáñez, Antonio López, Tomas Ujfalusi, Paulo Assunção, Raúl García, Simão, Maxi Rodríguez, Diego Forlán, Sergio Agüero
+
+MATCH: 957689 | sob., 15.05.2010 | Getafe CF
+PLAYERS: Joel Robles, Álvaro Domínguez, Juanito, Leandro Cabrera, Juan Valera, Ignacio Camacho, Tiago Mendes, Koke, José Manuel Jurado, Eduardo Salvio, Ibrahima Balde
+
+MATCH: 965990 | wt., 25.08.2009 | Panathinaikos FC
+PLAYERS: Sergio Asenjo, Juanito, Tomas Ujfalusi, Antonio López, John Heitinga, Paulo Assunção, Raúl García, Simão, Maxi Rodríguez, Diego Forlán, Sergio Agüero
+
+MATCH: 957352 | niedz., 17.01.2010 | Sporting Gijón
+PLAYERS: Sergio Asenjo, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Tomas Ujfalusi, Paulo Assunção, Raúl García, José Antonio Reyes, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 995251 | czw., 04.02.2010 | Racing Santander
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Tomas Ujfalusi, Antonio López, Paulo Assunção, Tiago Mendes, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 971645 | śr., 21.10.2009 | Chelsea FC
+PLAYERS: Sergio Asenjo, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Tomas Ujfalusi, Paulo Assunção, Cléber Santana, Raúl García, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 1000554 | czw., 11.03.2010 | Sporting CP
+PLAYERS: David de Gea, Álvaro Domínguez, Tomas Ujfalusi, Antonio López, Luis Amaranto Perea, Paulo Assunção, Raúl García, José Antonio Reyes, Simão, Sergio Agüero, Diego Forlán
+
+MATCH: 957323 | niedz., 20.12.2009 | CD Tenerife
+PLAYERS: Sergio Asenjo, Juanito, Luis Amaranto Perea, Álvaro Domínguez, Tomas Ujfalusi, Paulo Assunção, Cléber Santana, José Manuel Jurado, Simão, Maxi Rodríguez, Diego Forlán
+
+MATCH: 970504 | śr., 19.08.2009 | Panathinaikos FC
+PLAYERS: Sergio Asenjo, Juanito, Tomas Ujfalusi, Antonio López, John Heitinga, Paulo Assunção, Raúl García, Simão, Maxi Rodríguez, Sergio Agüero, Diego Forlán
+
+MATCH: 957333 | sob., 02.01.2010 | Sevilla FC
+PLAYERS: Sergio Asenjo, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Juan Valera, Paulo Assunção, Raúl García, José Antonio Reyes, Simão, Diego Forlán, Ibrahima Balde
+
+MATCH: 957505 | niedz., 28.03.2010 | Real Madryt
+PLAYERS: David de Gea, Álvaro Domínguez, Tomas Ujfalusi, Antonio López, Juan Valera, Paulo Assunção, Tiago Mendes, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 955836 | śr., 23.09.2009 | UD Almería
+PLAYERS: Roberto, Juanito, Pablo Ibáñez, Antonio López, Luis Amaranto Perea, Paulo Assunção, Cléber Santana, Maxi Rodríguez, José Manuel Jurado, Florent Sinama-Pongolle, Diego Forlán
+
+MATCH: 957595 | niedz., 04.04.2010 | Deportivo de La Coruña
+PLAYERS: David de Gea, Álvaro Domínguez, Juanito, Antonio López, Tomas Ujfalusi, Ignacio Camacho, Tiago Mendes, Simão, José Manuel Jurado, Diego Forlán, Sergio Agüero
+
+MATCH: 957304 | sob., 05.12.2009 | Xerez CD
+PLAYERS: Sergio Asenjo, Juanito, Luis Amaranto Perea, Álvaro Domínguez, Juan Valera, Paulo Assunção, José Antonio Reyes, Simão, José Manuel Jurado, Diego Forlán, Sergio Agüero
+
+MATCH: 957390 | niedz., 07.02.2010 | Racing Santander
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Tomas Ujfalusi, Paulo Assunção, Tiago Mendes, Raúl García, Simão, José Manuel Jurado, Diego Forlán
+
+MATCH: 957642 | sob., 17.04.2010 | Villarreal CF
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Tomas Ujfalusi, Paulo Assunção, Tiago Mendes, José Manuel Jurado, Simão, José Antonio Reyes, Sergio Agüero
+
+MATCH: 955914 | sob., 07.11.2009 | Real Madryt
+PLAYERS: Sergio Asenjo, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Tomas Ujfalusi, Cléber Santana, Raúl García, José Manuel Jurado, Simão, José Antonio Reyes, Diego Forlán
+
+MATCH: 971647 | śr., 25.11.2009 | APOEL Nikosia
+PLAYERS: Sergio Asenjo, Juanito, Luis Amaranto Perea, Álvaro Domínguez, Tomas Ujfalusi, Ignacio Camacho, Cléber Santana, Simão, José Manuel Jurado, Diego Forlán, Sergio Agüero
+
+MATCH: 957249 | sob., 21.11.2009 | Deportivo de La Coruña
+PLAYERS: Sergio Asenjo, Álvaro Domínguez, Pablo Ibáñez, Antonio López, Luis Amaranto Perea, Paulo Assunção, Raúl García, Maxi Rodríguez, José Manuel Jurado, Florent Sinama-Pongolle, Sergio Agüero
+
+MATCH: 957444 | pon., 15.03.2010 | CA Osasuna
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Tomas Ujfalusi, Paulo Assunção, Raúl García, José Manuel Jurado, Simão, Diego Forlán, Sergio Agüero
+
+MATCH: 955863 | sob., 26.09.2009 | Valencia CF
+PLAYERS: Roberto, Luis Amaranto Perea, Tomas Ujfalusi, Antonio López, Juan Valera, Paulo Assunção, Cléber Santana, José Manuel Jurado, Simão, Sergio Agüero, Diego Forlán
+
+MATCH: 955808 | sob., 12.09.2009 | Racing Santander
+PLAYERS: Sergio Asenjo, Juanito, Tomas Ujfalusi, Antonio López, Juan Valera, Paulo Assunção, Cléber Santana, José Manuel Jurado, Simão, Florent Sinama-Pongolle, Sergio Agüero
+
+MATCH: 1003677 | czw., 08.04.2010 | Valencia CF
+PLAYERS: David de Gea, Álvaro Domínguez, Juanito, Antonio López, Tomas Ujfalusi, Paulo Assunção, Raúl García, Simão, José Antonio Reyes, Sergio Agüero, Diego Forlán
+
+MATCH: 986474 | śr., 06.01.2010 | Recreativo Huelva
+PLAYERS: David de Gea, Álvaro Domínguez, Juanito, Tomas Ujfalusi, Juan Valera, Ignacio Camacho, Cléber Santana, José Manuel Jurado, Cedrick, José Antonio Reyes, Diego Forlán
+
+MATCH: 1005243 | czw., 29.04.2010 | FC Liverpool
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Juan Valera, Paulo Assunção, Raúl García, Simão, José Antonio Reyes, Diego Forlán, Sergio Agüero
+
+MATCH: 957409 | niedz., 21.02.2010 | UD Almería
+PLAYERS: Sergio Asenjo, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Tomas Ujfalusi, Paulo Assunção, Tiago Mendes, José Manuel Jurado, Simão, José Antonio Reyes, Diego Forlán
+
+MATCH: 957651 | niedz., 25.04.2010 | CD Tenerife
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Juan Valera, Ignacio Camacho, Tiago Mendes, José Manuel Jurado, José Antonio Reyes, Eduardo Salvio, Sergio Agüero
+
+MATCH: 971646 | wt., 03.11.2009 | Chelsea FC
+PLAYERS: Sergio Asenjo, Juanito, Pablo Ibáñez, Antonio López, Luis Amaranto Perea, Paulo Assunção, Cléber Santana, Simão, José Antonio Reyes, Florent Sinama-Pongolle, Diego Forlán
+
+MATCH: 957373 | niedz., 31.01.2010 | Málaga CF
+PLAYERS: David de Gea, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Tomas Ujfalusi, Ignacio Camacho, Tiago Mendes, José Manuel Jurado, Simão, Diego Forlán, Ibrahima Balde
+
+MATCH: 957314 | niedz., 13.12.2009 | Villarreal CF
+PLAYERS: Sergio Asenjo, Juanito, Luis Amaranto Perea, Tomas Ujfalusi, Juan Valera, Paulo Assunção, José Manuel Jurado, Maxi Rodríguez, Simão, José Antonio Reyes, Diego Forlán
+
+MATCH: 988810 | czw., 25.02.2010 | Galatasaray
+PLAYERS: Sergio Asenjo, Tomas Ujfalusi, Luis Amaranto Perea, Antonio López, Juan Valera, Paulo Assunção, Raúl García, José Manuel Jurado, Simão, José Antonio Reyes, Sergio Agüero
+
+MATCH: 957610 | niedz., 11.04.2010 | RCD Espanyol
+PLAYERS: David de Gea, Álvaro Domínguez, Juanito, Antonio López, Tomas Ujfalusi, Paulo Assunção, Tiago Mendes, Juan Valera, José Manuel Jurado, José Antonio Reyes, Diego Forlán
+

@@ -1,0 +1,343 @@
+# Graph for Java/GraphStream
+# Nodes: 32
+# Edges: 337
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Marc-André ter Stegen | Clément Lenglet | 34 | 49 | 40
+EDGE Marc-André ter Stegen | Gerard Piqué | 47 | 49 | 52
+EDGE Marc-André ter Stegen | Nélson Semedo | 26 | 49 | 34
+EDGE Marc-André ter Stegen | Sergi Roberto | 30 | 49 | 35
+EDGE Marc-André ter Stegen | Sergio Busquets | 42 | 49 | 47
+EDGE Marc-André ter Stegen | Ivan Rakitic | 40 | 49 | 48
+EDGE Marc-André ter Stegen | Arturo Vidal | 23 | 49 | 29
+EDGE Marc-André ter Stegen | Philippe Coutinho | 32 | 49 | 38
+EDGE Marc-André ter Stegen | Lionel Messi | 38 | 49 | 43
+EDGE Marc-André ter Stegen | Luis Suárez | 44 | 49 | 45
+EDGE Marc-André ter Stegen | Jordi Alba | 44 | 49 | 49
+EDGE Marc-André ter Stegen | Arthur Melo | 26 | 49 | 32
+EDGE Marc-André ter Stegen | Ousmane Dembélé | 25 | 49 | 30
+EDGE Marc-André ter Stegen | Samuel Umtiti | 12 | 49 | 14
+EDGE Marc-André ter Stegen | Rafinha | 5 | 49 | 5
+EDGE Marc-André ter Stegen | Malcom | 4 | 49 | 11
+EDGE Marc-André ter Stegen | Thomas Vermaelen | 6 | 49 | 9
+EDGE Marc-André ter Stegen | Carles Aleñá | 5 | 49 | 10
+EDGE Marc-André ter Stegen | Munir El Haddadi | 1 | 49 | 4
+EDGE Marc-André ter Stegen | Kevin-Prince Boateng | 2 | 49 | 4
+EDGE Marc-André ter Stegen | Jean-Clair Todibo | 1 | 49 | 2
+EDGE Marc-André ter Stegen | Jeison Murillo | 1 | 49 | 3
+EDGE Marc-André ter Stegen | Riqui Puig | 1 | 49 | 2
+EDGE Marc-André ter Stegen | Moussa Wagué | 1 | 49 | 2
+EDGE Clément Lenglet | Gerard Piqué | 37 | 40 | 52
+EDGE Clément Lenglet | Nélson Semedo | 23 | 40 | 34
+EDGE Clément Lenglet | Sergi Roberto | 23 | 40 | 35
+EDGE Clément Lenglet | Sergio Busquets | 33 | 40 | 47
+EDGE Clément Lenglet | Ivan Rakitic | 37 | 40 | 48
+EDGE Clément Lenglet | Arturo Vidal | 19 | 40 | 29
+EDGE Clément Lenglet | Philippe Coutinho | 26 | 40 | 38
+EDGE Clément Lenglet | Lionel Messi | 30 | 40 | 43
+EDGE Clément Lenglet | Luis Suárez | 33 | 40 | 45
+EDGE Clément Lenglet | Jordi Alba | 37 | 40 | 49
+EDGE Clément Lenglet | Arthur Melo | 27 | 40 | 32
+EDGE Clément Lenglet | Ousmane Dembélé | 17 | 40 | 30
+EDGE Clément Lenglet | Rafinha | 4 | 40 | 5
+EDGE Clément Lenglet | Malcom | 5 | 40 | 11
+EDGE Clément Lenglet | Samuel Umtiti | 1 | 40 | 14
+EDGE Clément Lenglet | Jasper Cillessen | 6 | 40 | 11
+EDGE Clément Lenglet | Carles Aleñá | 2 | 40 | 10
+EDGE Clément Lenglet | Kevin-Prince Boateng | 1 | 40 | 4
+EDGE Clément Lenglet | Thomas Vermaelen | 2 | 40 | 9
+EDGE Clément Lenglet | Juan Miranda | 1 | 40 | 4
+EDGE Clément Lenglet | Munir El Haddadi | 1 | 40 | 4
+EDGE Clément Lenglet | Jeison Murillo | 1 | 40 | 3
+EDGE Gerard Piqué | Nélson Semedo | 29 | 52 | 34
+EDGE Gerard Piqué | Sergi Roberto | 34 | 52 | 35
+EDGE Gerard Piqué | Sergio Busquets | 45 | 52 | 47
+EDGE Gerard Piqué | Ivan Rakitic | 45 | 52 | 48
+EDGE Gerard Piqué | Arturo Vidal | 24 | 52 | 29
+EDGE Gerard Piqué | Philippe Coutinho | 34 | 52 | 38
+EDGE Gerard Piqué | Lionel Messi | 42 | 52 | 43
+EDGE Gerard Piqué | Luis Suárez | 44 | 52 | 45
+EDGE Gerard Piqué | Jordi Alba | 47 | 52 | 49
+EDGE Gerard Piqué | Arthur Melo | 28 | 52 | 32
+EDGE Gerard Piqué | Ousmane Dembélé | 24 | 52 | 30
+EDGE Gerard Piqué | Samuel Umtiti | 11 | 52 | 14
+EDGE Gerard Piqué | Rafinha | 5 | 52 | 5
+EDGE Gerard Piqué | Malcom | 5 | 52 | 11
+EDGE Gerard Piqué | Thomas Vermaelen | 6 | 52 | 9
+EDGE Gerard Piqué | Carles Aleñá | 5 | 52 | 10
+EDGE Gerard Piqué | Munir El Haddadi | 1 | 52 | 4
+EDGE Gerard Piqué | Jasper Cillessen | 5 | 52 | 11
+EDGE Gerard Piqué | Kevin-Prince Boateng | 2 | 52 | 4
+EDGE Nélson Semedo | Sergi Roberto | 12 | 34 | 35
+EDGE Nélson Semedo | Sergio Busquets | 24 | 34 | 47
+EDGE Nélson Semedo | Ivan Rakitic | 27 | 34 | 48
+EDGE Nélson Semedo | Arturo Vidal | 20 | 34 | 29
+EDGE Nélson Semedo | Philippe Coutinho | 20 | 34 | 38
+EDGE Nélson Semedo | Lionel Messi | 25 | 34 | 43
+EDGE Nélson Semedo | Luis Suárez | 24 | 34 | 45
+EDGE Nélson Semedo | Jordi Alba | 26 | 34 | 49
+EDGE Nélson Semedo | Arthur Melo | 16 | 34 | 32
+EDGE Nélson Semedo | Ousmane Dembélé | 18 | 34 | 30
+EDGE Nélson Semedo | Samuel Umtiti | 6 | 34 | 14
+EDGE Nélson Semedo | Jasper Cillessen | 8 | 34 | 11
+EDGE Nélson Semedo | Jeison Murillo | 2 | 34 | 3
+EDGE Nélson Semedo | Chumi | 3 | 34 | 3
+EDGE Nélson Semedo | Juan Miranda | 4 | 34 | 4
+EDGE Nélson Semedo | Carles Aleñá | 6 | 34 | 10
+EDGE Nélson Semedo | Malcom | 6 | 34 | 11
+EDGE Nélson Semedo | Thomas Vermaelen | 4 | 34 | 9
+EDGE Nélson Semedo | Kevin-Prince Boateng | 1 | 34 | 4
+EDGE Nélson Semedo | Munir El Haddadi | 3 | 34 | 4
+EDGE Nélson Semedo | Rafinha | 2 | 34 | 5
+EDGE Nélson Semedo | Jorge Cuenca | 1 | 34 | 1
+EDGE Nélson Semedo | Sergi Samper | 1 | 34 | 1
+EDGE Nélson Semedo | Denis Suárez | 2 | 34 | 2
+EDGE Nélson Semedo | Uri Busquets | 1 | 34 | 1
+EDGE Sergi Roberto | Sergio Busquets | 30 | 35 | 47
+EDGE Sergi Roberto | Ivan Rakitic | 30 | 35 | 48
+EDGE Sergi Roberto | Arturo Vidal | 14 | 35 | 29
+EDGE Sergi Roberto | Philippe Coutinho | 23 | 35 | 38
+EDGE Sergi Roberto | Lionel Messi | 26 | 35 | 43
+EDGE Sergi Roberto | Luis Suárez | 29 | 35 | 45
+EDGE Sergi Roberto | Jordi Alba | 30 | 35 | 49
+EDGE Sergi Roberto | Arthur Melo | 18 | 35 | 32
+EDGE Sergi Roberto | Ousmane Dembélé | 15 | 35 | 30
+EDGE Sergi Roberto | Rafinha | 4 | 35 | 5
+EDGE Sergi Roberto | Samuel Umtiti | 10 | 35 | 14
+EDGE Sergi Roberto | Malcom | 5 | 35 | 11
+EDGE Sergi Roberto | Thomas Vermaelen | 4 | 35 | 9
+EDGE Sergi Roberto | Carles Aleñá | 5 | 35 | 10
+EDGE Sergi Roberto | Munir El Haddadi | 1 | 35 | 4
+EDGE Sergi Roberto | Jasper Cillessen | 5 | 35 | 11
+EDGE Sergi Roberto | Kevin-Prince Boateng | 2 | 35 | 4
+EDGE Sergio Busquets | Ivan Rakitic | 38 | 47 | 48
+EDGE Sergio Busquets | Arturo Vidal | 20 | 47 | 29
+EDGE Sergio Busquets | Philippe Coutinho | 33 | 47 | 38
+EDGE Sergio Busquets | Lionel Messi | 38 | 47 | 43
+EDGE Sergio Busquets | Luis Suárez | 39 | 47 | 45
+EDGE Sergio Busquets | Jordi Alba | 43 | 47 | 49
+EDGE Sergio Busquets | Arthur Melo | 25 | 47 | 32
+EDGE Sergio Busquets | Ousmane Dembélé | 20 | 47 | 30
+EDGE Sergio Busquets | Samuel Umtiti | 11 | 47 | 14
+EDGE Sergio Busquets | Jasper Cillessen | 5 | 47 | 11
+EDGE Sergio Busquets | Jeison Murillo | 1 | 47 | 3
+EDGE Sergio Busquets | Chumi | 1 | 47 | 3
+EDGE Sergio Busquets | Juan Miranda | 1 | 47 | 4
+EDGE Sergio Busquets | Carles Aleñá | 4 | 47 | 10
+EDGE Sergio Busquets | Malcom | 6 | 47 | 11
+EDGE Sergio Busquets | Rafinha | 4 | 47 | 5
+EDGE Sergio Busquets | Thomas Vermaelen | 5 | 47 | 9
+EDGE Sergio Busquets | Munir El Haddadi | 1 | 47 | 4
+EDGE Sergio Busquets | Kevin-Prince Boateng | 1 | 47 | 4
+EDGE Ivan Rakitic | Arturo Vidal | 20 | 48 | 29
+EDGE Ivan Rakitic | Philippe Coutinho | 33 | 48 | 38
+EDGE Ivan Rakitic | Lionel Messi | 38 | 48 | 43
+EDGE Ivan Rakitic | Luis Suárez | 38 | 48 | 45
+EDGE Ivan Rakitic | Jordi Alba | 42 | 48 | 49
+EDGE Ivan Rakitic | Arthur Melo | 25 | 48 | 32
+EDGE Ivan Rakitic | Ousmane Dembélé | 21 | 48 | 30
+EDGE Ivan Rakitic | Rafinha | 4 | 48 | 5
+EDGE Ivan Rakitic | Malcom | 6 | 48 | 11
+EDGE Ivan Rakitic | Thomas Vermaelen | 6 | 48 | 9
+EDGE Ivan Rakitic | Carles Aleñá | 4 | 48 | 10
+EDGE Ivan Rakitic | Samuel Umtiti | 8 | 48 | 14
+EDGE Ivan Rakitic | Munir El Haddadi | 3 | 48 | 4
+EDGE Ivan Rakitic | Jasper Cillessen | 8 | 48 | 11
+EDGE Ivan Rakitic | Kevin-Prince Boateng | 1 | 48 | 4
+EDGE Ivan Rakitic | Juan Miranda | 2 | 48 | 4
+EDGE Ivan Rakitic | Chumi | 1 | 48 | 3
+EDGE Ivan Rakitic | Uri Busquets | 1 | 48 | 1
+EDGE Ivan Rakitic | Denis Suárez | 1 | 48 | 2
+EDGE Ivan Rakitic | Jeison Murillo | 1 | 48 | 3
+EDGE Arturo Vidal | Philippe Coutinho | 16 | 29 | 38
+EDGE Arturo Vidal | Lionel Messi | 21 | 29 | 43
+EDGE Arturo Vidal | Luis Suárez | 19 | 29 | 45
+EDGE Arturo Vidal | Jordi Alba | 22 | 29 | 49
+EDGE Arturo Vidal | Arthur Melo | 10 | 29 | 32
+EDGE Arturo Vidal | Ousmane Dembélé | 16 | 29 | 30
+EDGE Arturo Vidal | Samuel Umtiti | 7 | 29 | 14
+EDGE Arturo Vidal | Jasper Cillessen | 6 | 29 | 11
+EDGE Arturo Vidal | Jeison Murillo | 3 | 29 | 3
+EDGE Arturo Vidal | Chumi | 2 | 29 | 3
+EDGE Arturo Vidal | Juan Miranda | 2 | 29 | 4
+EDGE Arturo Vidal | Carles Aleñá | 6 | 29 | 10
+EDGE Arturo Vidal | Malcom | 7 | 29 | 11
+EDGE Arturo Vidal | Thomas Vermaelen | 3 | 29 | 9
+EDGE Arturo Vidal | Kevin-Prince Boateng | 3 | 29 | 4
+EDGE Arturo Vidal | Jorge Cuenca | 1 | 29 | 1
+EDGE Arturo Vidal | Sergi Samper | 1 | 29 | 1
+EDGE Arturo Vidal | Denis Suárez | 1 | 29 | 2
+EDGE Arturo Vidal | Munir El Haddadi | 1 | 29 | 4
+EDGE Arturo Vidal | Jean-Clair Todibo | 1 | 29 | 2
+EDGE Arturo Vidal | Riqui Puig | 1 | 29 | 2
+EDGE Arturo Vidal | Moussa Wagué | 1 | 29 | 2
+EDGE Philippe Coutinho | Lionel Messi | 26 | 38 | 43
+EDGE Philippe Coutinho | Luis Suárez | 30 | 38 | 45
+EDGE Philippe Coutinho | Jordi Alba | 32 | 38 | 49
+EDGE Philippe Coutinho | Arthur Melo | 22 | 38 | 32
+EDGE Philippe Coutinho | Ousmane Dembélé | 14 | 38 | 30
+EDGE Philippe Coutinho | Samuel Umtiti | 9 | 38 | 14
+EDGE Philippe Coutinho | Jasper Cillessen | 6 | 38 | 11
+EDGE Philippe Coutinho | Jeison Murillo | 2 | 38 | 3
+EDGE Philippe Coutinho | Chumi | 1 | 38 | 3
+EDGE Philippe Coutinho | Juan Miranda | 2 | 38 | 4
+EDGE Philippe Coutinho | Carles Aleñá | 5 | 38 | 10
+EDGE Philippe Coutinho | Malcom | 4 | 38 | 11
+EDGE Philippe Coutinho | Rafinha | 3 | 38 | 5
+EDGE Philippe Coutinho | Thomas Vermaelen | 5 | 38 | 9
+EDGE Philippe Coutinho | Munir El Haddadi | 2 | 38 | 4
+EDGE Lionel Messi | Luis Suárez | 35 | 43 | 45
+EDGE Lionel Messi | Jordi Alba | 40 | 43 | 49
+EDGE Lionel Messi | Arthur Melo | 21 | 43 | 32
+EDGE Lionel Messi | Ousmane Dembélé | 20 | 43 | 30
+EDGE Lionel Messi | Samuel Umtiti | 10 | 43 | 14
+EDGE Lionel Messi | Thomas Vermaelen | 5 | 43 | 9
+EDGE Lionel Messi | Carles Aleñá | 2 | 43 | 10
+EDGE Lionel Messi | Munir El Haddadi | 1 | 43 | 4
+EDGE Lionel Messi | Jasper Cillessen | 5 | 43 | 11
+EDGE Lionel Messi | Malcom | 3 | 43 | 11
+EDGE Lionel Messi | Rafinha | 2 | 43 | 5
+EDGE Lionel Messi | Kevin-Prince Boateng | 1 | 43 | 4
+EDGE Lionel Messi | Jeison Murillo | 1 | 43 | 3
+EDGE Luis Suárez | Jordi Alba | 42 | 45 | 49
+EDGE Luis Suárez | Arthur Melo | 27 | 45 | 32
+EDGE Luis Suárez | Ousmane Dembélé | 20 | 45 | 30
+EDGE Luis Suárez | Samuel Umtiti | 10 | 45 | 14
+EDGE Luis Suárez | Rafinha | 5 | 45 | 5
+EDGE Luis Suárez | Malcom | 3 | 45 | 11
+EDGE Luis Suárez | Thomas Vermaelen | 4 | 45 | 9
+EDGE Luis Suárez | Carles Aleñá | 3 | 45 | 10
+EDGE Luis Suárez | Jasper Cillessen | 1 | 45 | 11
+EDGE Jordi Alba | Arthur Melo | 29 | 49 | 32
+EDGE Jordi Alba | Ousmane Dembélé | 23 | 49 | 30
+EDGE Jordi Alba | Samuel Umtiti | 10 | 49 | 14
+EDGE Jordi Alba | Rafinha | 5 | 49 | 5
+EDGE Jordi Alba | Malcom | 5 | 49 | 11
+EDGE Jordi Alba | Jasper Cillessen | 5 | 49 | 11
+EDGE Jordi Alba | Thomas Vermaelen | 4 | 49 | 9
+EDGE Jordi Alba | Carles Aleñá | 2 | 49 | 10
+EDGE Jordi Alba | Kevin-Prince Boateng | 1 | 49 | 4
+EDGE Jordi Alba | Jeison Murillo | 1 | 49 | 3
+EDGE Arthur Melo | Ousmane Dembélé | 11 | 32 | 30
+EDGE Arthur Melo | Samuel Umtiti | 4 | 32 | 14
+EDGE Arthur Melo | Jasper Cillessen | 6 | 32 | 11
+EDGE Arthur Melo | Jean-Clair Todibo | 1 | 32 | 2
+EDGE Arthur Melo | Thomas Vermaelen | 4 | 32 | 9
+EDGE Arthur Melo | Moussa Wagué | 1 | 32 | 2
+EDGE Arthur Melo | Carles Aleñá | 4 | 32 | 10
+EDGE Arthur Melo | Riqui Puig | 1 | 32 | 2
+EDGE Arthur Melo | Malcom | 5 | 32 | 11
+EDGE Arthur Melo | Kevin-Prince Boateng | 2 | 32 | 4
+EDGE Arthur Melo | Rafinha | 4 | 32 | 5
+EDGE Arthur Melo | Juan Miranda | 1 | 32 | 4
+EDGE Arthur Melo | Munir El Haddadi | 1 | 32 | 4
+EDGE Arthur Melo | Jeison Murillo | 1 | 32 | 3
+EDGE Ousmane Dembélé | Jasper Cillessen | 5 | 30 | 11
+EDGE Ousmane Dembélé | Samuel Umtiti | 9 | 30 | 14
+EDGE Ousmane Dembélé | Jean-Clair Todibo | 2 | 30 | 2
+EDGE Ousmane Dembélé | Thomas Vermaelen | 6 | 30 | 9
+EDGE Ousmane Dembélé | Moussa Wagué | 2 | 30 | 2
+EDGE Ousmane Dembélé | Carles Aleñá | 7 | 30 | 10
+EDGE Ousmane Dembélé | Riqui Puig | 2 | 30 | 2
+EDGE Ousmane Dembélé | Malcom | 4 | 30 | 11
+EDGE Ousmane Dembélé | Kevin-Prince Boateng | 3 | 30 | 4
+EDGE Ousmane Dembélé | Jeison Murillo | 3 | 30 | 3
+EDGE Ousmane Dembélé | Chumi | 2 | 30 | 3
+EDGE Ousmane Dembélé | Juan Miranda | 3 | 30 | 4
+EDGE Ousmane Dembélé | Munir El Haddadi | 3 | 30 | 4
+EDGE Ousmane Dembélé | Rafinha | 2 | 30 | 5
+EDGE Ousmane Dembélé | Jorge Cuenca | 1 | 30 | 1
+EDGE Ousmane Dembélé | Sergi Samper | 1 | 30 | 1
+EDGE Ousmane Dembélé | Denis Suárez | 1 | 30 | 2
+EDGE Samuel Umtiti | Jasper Cillessen | 2 | 14 | 11
+EDGE Samuel Umtiti | Jean-Clair Todibo | 2 | 14 | 2
+EDGE Samuel Umtiti | Thomas Vermaelen | 2 | 14 | 9
+EDGE Samuel Umtiti | Moussa Wagué | 2 | 14 | 2
+EDGE Samuel Umtiti | Carles Aleñá | 3 | 14 | 10
+EDGE Samuel Umtiti | Riqui Puig | 2 | 14 | 2
+EDGE Samuel Umtiti | Malcom | 4 | 14 | 11
+EDGE Samuel Umtiti | Kevin-Prince Boateng | 2 | 14 | 4
+EDGE Samuel Umtiti | Munir El Haddadi | 1 | 14 | 4
+EDGE Samuel Umtiti | Rafinha | 1 | 14 | 5
+EDGE Samuel Umtiti | Jeison Murillo | 1 | 14 | 3
+EDGE Jasper Cillessen | Jean-Clair Todibo | 1 | 11 | 2
+EDGE Jasper Cillessen | Thomas Vermaelen | 3 | 11 | 9
+EDGE Jasper Cillessen | Moussa Wagué | 1 | 11 | 2
+EDGE Jasper Cillessen | Carles Aleñá | 5 | 11 | 10
+EDGE Jasper Cillessen | Riqui Puig | 1 | 11 | 2
+EDGE Jasper Cillessen | Malcom | 7 | 11 | 11
+EDGE Jasper Cillessen | Kevin-Prince Boateng | 2 | 11 | 4
+EDGE Jasper Cillessen | Jeison Murillo | 2 | 11 | 3
+EDGE Jasper Cillessen | Chumi | 3 | 11 | 3
+EDGE Jasper Cillessen | Juan Miranda | 4 | 11 | 4
+EDGE Jasper Cillessen | Munir El Haddadi | 3 | 11 | 4
+EDGE Jasper Cillessen | Jorge Cuenca | 1 | 11 | 1
+EDGE Jasper Cillessen | Sergi Samper | 1 | 11 | 1
+EDGE Jasper Cillessen | Denis Suárez | 2 | 11 | 2
+EDGE Jasper Cillessen | Uri Busquets | 1 | 11 | 1
+EDGE Jean-Clair Todibo | Thomas Vermaelen | 1 | 2 | 9
+EDGE Jean-Clair Todibo | Moussa Wagué | 2 | 2 | 2
+EDGE Jean-Clair Todibo | Carles Aleñá | 2 | 2 | 10
+EDGE Jean-Clair Todibo | Riqui Puig | 2 | 2 | 2
+EDGE Jean-Clair Todibo | Malcom | 2 | 2 | 11
+EDGE Jean-Clair Todibo | Kevin-Prince Boateng | 2 | 2 | 4
+EDGE Jean-Clair Todibo | Jeison Murillo | 1 | 2 | 3
+EDGE Thomas Vermaelen | Moussa Wagué | 1 | 9 | 2
+EDGE Thomas Vermaelen | Carles Aleñá | 6 | 9 | 10
+EDGE Thomas Vermaelen | Riqui Puig | 1 | 9 | 2
+EDGE Thomas Vermaelen | Malcom | 2 | 9 | 11
+EDGE Thomas Vermaelen | Kevin-Prince Boateng | 2 | 9 | 4
+EDGE Thomas Vermaelen | Munir El Haddadi | 3 | 9 | 4
+EDGE Thomas Vermaelen | Juan Miranda | 2 | 9 | 4
+EDGE Thomas Vermaelen | Chumi | 1 | 9 | 3
+EDGE Thomas Vermaelen | Uri Busquets | 1 | 9 | 1
+EDGE Thomas Vermaelen | Denis Suárez | 1 | 9 | 2
+EDGE Moussa Wagué | Carles Aleñá | 2 | 2 | 10
+EDGE Moussa Wagué | Riqui Puig | 2 | 2 | 2
+EDGE Moussa Wagué | Malcom | 2 | 2 | 11
+EDGE Moussa Wagué | Kevin-Prince Boateng | 2 | 2 | 4
+EDGE Moussa Wagué | Jeison Murillo | 1 | 2 | 3
+EDGE Carles Aleñá | Riqui Puig | 2 | 10 | 2
+EDGE Carles Aleñá | Malcom | 5 | 10 | 11
+EDGE Carles Aleñá | Kevin-Prince Boateng | 4 | 10 | 4
+EDGE Carles Aleñá | Jeison Murillo | 2 | 10 | 3
+EDGE Carles Aleñá | Chumi | 2 | 10 | 3
+EDGE Carles Aleñá | Juan Miranda | 3 | 10 | 4
+EDGE Carles Aleñá | Munir El Haddadi | 2 | 10 | 4
+EDGE Carles Aleñá | Uri Busquets | 1 | 10 | 1
+EDGE Carles Aleñá | Denis Suárez | 1 | 10 | 2
+EDGE Riqui Puig | Malcom | 2 | 2 | 11
+EDGE Riqui Puig | Kevin-Prince Boateng | 2 | 2 | 4
+EDGE Riqui Puig | Jeison Murillo | 1 | 2 | 3
+EDGE Malcom | Kevin-Prince Boateng | 3 | 11 | 4
+EDGE Malcom | Jeison Murillo | 2 | 11 | 3
+EDGE Malcom | Chumi | 3 | 11 | 3
+EDGE Malcom | Juan Miranda | 3 | 11 | 4
+EDGE Malcom | Jorge Cuenca | 1 | 11 | 1
+EDGE Malcom | Sergi Samper | 1 | 11 | 1
+EDGE Malcom | Denis Suárez | 2 | 11 | 2
+EDGE Malcom | Munir El Haddadi | 2 | 11 | 4
+EDGE Malcom | Uri Busquets | 1 | 11 | 1
+EDGE Kevin-Prince Boateng | Jeison Murillo | 1 | 4 | 3
+EDGE Jeison Murillo | Chumi | 1 | 3 | 3
+EDGE Jeison Murillo | Juan Miranda | 1 | 3 | 4
+EDGE Chumi | Juan Miranda | 3 | 3 | 4
+EDGE Chumi | Jorge Cuenca | 1 | 3 | 1
+EDGE Chumi | Sergi Samper | 1 | 3 | 1
+EDGE Chumi | Denis Suárez | 2 | 3 | 2
+EDGE Chumi | Munir El Haddadi | 2 | 3 | 4
+EDGE Chumi | Uri Busquets | 1 | 3 | 1
+EDGE Juan Miranda | Munir El Haddadi | 3 | 4 | 4
+EDGE Juan Miranda | Jorge Cuenca | 1 | 4 | 1
+EDGE Juan Miranda | Sergi Samper | 1 | 4 | 1
+EDGE Juan Miranda | Denis Suárez | 2 | 4 | 2
+EDGE Juan Miranda | Uri Busquets | 1 | 4 | 1
+EDGE Munir El Haddadi | Jorge Cuenca | 1 | 4 | 1
+EDGE Munir El Haddadi | Sergi Samper | 1 | 4 | 1
+EDGE Munir El Haddadi | Denis Suárez | 2 | 4 | 2
+EDGE Munir El Haddadi | Uri Busquets | 1 | 4 | 1
+EDGE Jorge Cuenca | Sergi Samper | 1 | 1 | 1
+EDGE Jorge Cuenca | Denis Suárez | 1 | 1 | 2
+EDGE Sergi Samper | Denis Suárez | 1 | 1 | 2
+EDGE Denis Suárez | Uri Busquets | 1 | 2 | 1

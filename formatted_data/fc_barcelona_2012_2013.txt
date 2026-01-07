@@ -1,0 +1,184 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2242884 | sob., 03.11.2012 | Celta de Vigo
+PLAYERS: Víctor Valdés, Javier Mascherano, Sergio Busquets, Jordi Alba, Adriano, Xavi, Andrés Iniesta, Cesc Fàbregas, David Villa, Pedro, Lionel Messi
+
+MATCH: 2243035 | niedz., 16.12.2012 | Atlético Madryt
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Jordi Alba, Adriano, Sergio Busquets, Andrés Iniesta, Xavi, Alexis Sánchez, Pedro, Lionel Messi
+
+MATCH: 2243191 | sob., 06.04.2013 | RCD Mallorca
+PLAYERS: José Manuel Pinto, Gerard Piqué, Marc Bartra, Martín Montoya, Dani Alves, Alex Song, Andrés Iniesta, Thiago Alcántara, Cristian Tello, Alexis Sánchez, Cesc Fàbregas
+
+MATCH: 2242964 | niedz., 14.04.2013 | Real Zaragoza
+PLAYERS: Víctor Valdés, Marc Bartra, Adriano, Martín Montoya, Dani Alves, Alex Song, Xavi, Thiago Alcántara, Cristian Tello, Alexis Sánchez, Cesc Fàbregas
+
+MATCH: 2242996 | niedz., 25.11.2012 | Levante UD
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Jordi Alba, Dani Alves, Sergio Busquets, Xavi, Cesc Fàbregas, Andrés Iniesta, Pedro, Lionel Messi
+
+MATCH: 2286546 | czw., 24.01.2013 | Málaga CF
+PLAYERS: José Manuel Pinto, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Andrés Iniesta, Pedro, Lionel Messi
+
+MATCH: 2269535 | wt., 30.10.2012 | Deportivo Alavés
+PLAYERS: José Manuel Pinto, Marc Bartra, Javier Mascherano, Martín Montoya, Dani Alves, Sergio Busquets, Andrés Iniesta, Sergi Roberto, David Villa, Alexis Sánchez, Cesc Fàbregas
+
+MATCH: 2286541 | śr., 16.01.2013 | Málaga CF
+PLAYERS: José Manuel Pinto, Carles Puyol, Javier Mascherano, Adriano, Martín Montoya, Alex Song, Andrés Iniesta, Thiago Alcántara, Cristian Tello, Alexis Sánchez, Lionel Messi
+
+MATCH: 2242908 | niedz., 11.11.2012 | RCD Mallorca
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Cristian Tello, David Villa, Lionel Messi
+
+MATCH: 2282721 | czw., 10.01.2013 | Córdoba CF
+PLAYERS: José Manuel Pinto, Carles Puyol, Javier Mascherano, Martín Montoya, Dani Alves, Alex Song, Thiago Alcántara, Sergi Roberto, David Villa, Alexis Sánchez, Cesc Fàbregas
+
+MATCH: 2242853 | niedz., 07.10.2012 | Real Madryt
+PLAYERS: Víctor Valdés, Adriano, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Andrés Iniesta, Pedro, Lionel Messi
+
+MATCH: 2262207 | śr., 07.11.2012 | Celtic Glasgow
+PLAYERS: Víctor Valdés, Marc Bartra, Javier Mascherano, Jordi Alba, Dani Alves, Alex Song, Andrés Iniesta, Xavi, Alexis Sánchez, Pedro, Lionel Messi
+
+MATCH: 2312108 | wt., 23.04.2013 | Bayern Monachium
+PLAYERS: Víctor Valdés, Gerard Piqué, Marc Bartra, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Pedro, Alexis Sánchez, Lionel Messi
+
+MATCH: 2243157 | niedz., 17.03.2013 | Rayo Vallecano
+PLAYERS: José Manuel Pinto, Gerard Piqué, Javier Mascherano, Jordi Alba, Adriano, Sergio Busquets, Andrés Iniesta, Cesc Fàbregas, David Villa, Alexis Sánchez, Lionel Messi
+
+MATCH: 2288676 | wt., 26.02.2013 | Real Madryt
+PLAYERS: José Manuel Pinto, Gerard Piqué, Carles Puyol, Jordi Alba, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Andrés Iniesta, Pedro, Lionel Messi
+
+MATCH: 2284448 | śr., 20.02.2013 | AC Milan
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Jordi Alba, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Andrés Iniesta, Pedro, Lionel Messi
+
+MATCH: 2243163 | sob., 09.03.2013 | Deportivo de La Coruña
+PLAYERS: José Manuel Pinto, Carles Puyol, Javier Mascherano, Adriano, Dani Alves, Alex Song, Cesc Fàbregas, Thiago Alcántara, Cristian Tello, Alexis Sánchez, David Villa
+
+MATCH: 2301899 | wt., 02.04.2013 | FC Paris Saint-Germain
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Alexis Sánchez, David Villa, Lionel Messi
+
+MATCH: 2244378 | niedz., 19.08.2012 | Real Sociedad
+PLAYERS: Víctor Valdés, Carles Puyol, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Cristian Tello, Pedro, Lionel Messi
+
+MATCH: 2242955 | sob., 27.04.2013 | Athletic Bilbao
+PLAYERS: Víctor Valdés, Gerard Piqué, Éric Abidal, Jordi Alba, Dani Alves, Alex Song, Xavi, Thiago Alcántara, Alexis Sánchez, Pedro, Cesc Fàbregas
+
+MATCH: 2243114 | niedz., 10.02.2013 | Getafe CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Jordi Alba, Adriano, Alex Song, Andrés Iniesta, Thiago Alcántara, David Villa, Alexis Sánchez, Lionel Messi
+
+MATCH: 2262168 | wt., 02.10.2012 | Benfika Lizbona
+PLAYERS: Víctor Valdés, Carles Puyol, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Alexis Sánchez, Pedro, Lionel Messi
+
+MATCH: 2262239 | śr., 05.12.2012 | Benfika Lizbona
+PLAYERS: José Manuel Pinto, Carles Puyol, Adriano, Carles Planas, Martín Montoya, Alex Song, Thiago Alcántara, Sergi Roberto, Cristian Tello, Rafinha, David Villa
+
+MATCH: 2262184 | wt., 23.10.2012 | Celtic Glasgow
+PLAYERS: Víctor Valdés, Marc Bartra, Javier Mascherano, Jordi Alba, Adriano, Alex Song, Andrés Iniesta, Xavi, Alexis Sánchez, Pedro, Lionel Messi
+
+MATCH: 2243079 | sob., 19.01.2013 | Real Sociedad
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Jordi Alba, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Andrés Iniesta, Pedro, Lionel Messi
+
+MATCH: 2243002 | niedz., 12.05.2013 | Atlético Madryt
+PLAYERS: José Manuel Pinto, Gerard Piqué, Adriano, Jordi Alba, Dani Alves, Alex Song, Andrés Iniesta, Cesc Fàbregas, Cristian Tello, Alexis Sánchez, Lionel Messi
+
+MATCH: 2243144 | sob., 02.03.2013 | Real Madryt
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Thiago Alcántara, David Villa, Pedro, Lionel Messi
+
+MATCH: 2242940 | niedz., 05.05.2013 | Real Betis Balompié
+PLAYERS: José Manuel Pinto, Gerard Piqué, Adriano, Jordi Alba, Dani Alves, Alex Song, Andrés Iniesta, Xavi, Cristian Tello, Alexis Sánchez, David Villa
+
+MATCH: 2242828 | niedz., 26.08.2012 | CA Osasuna
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Cesc Fàbregas, Cristian Tello, Alexis Sánchez, Lionel Messi
+
+MATCH: 2242978 | niedz., 19.05.2013 | Real Valladolid CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Jordi Alba, Martín Montoya, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Cesc Fàbregas
+
+MATCH: 2301903 | śr., 10.04.2013 | FC Paris Saint-Germain
+PLAYERS: Víctor Valdés, Gerard Piqué, Adriano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Cesc Fàbregas
+
+MATCH: 2243006 | sob., 01.12.2012 | Athletic Bilbao
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Jordi Alba, Adriano, Sergio Busquets, Cesc Fàbregas, Xavi, Andrés Iniesta, Pedro, Lionel Messi
+
+MATCH: 2312111 | śr., 01.05.2013 | Bayern Monachium
+PLAYERS: Víctor Valdés, Gerard Piqué, Marc Bartra, Adriano, Dani Alves, Alex Song, Andrés Iniesta, Xavi, Pedro, David Villa, Cesc Fàbregas
+
+MATCH: 2243099 | niedz., 03.02.2013 | Valencia CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Andrés Iniesta, Pedro, Lionel Messi
+
+MATCH: 2269550 | śr., 28.11.2012 | Deportivo Alavés
+PLAYERS: José Manuel Pinto, Carles Puyol, Javier Mascherano, Adriano, Martín Montoya, Alex Song, Jonathan dos Santos, Sergi Roberto, David Villa, Cristian Tello, Thiago Alcántara
+
+MATCH: 2243064 | niedz., 13.01.2013 | Málaga CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Andrés Iniesta, Pedro, Lionel Messi
+
+MATCH: 2242967 | niedz., 26.05.2013 | RCD Espanyol
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Alex Song, Andrés Iniesta, Thiago Alcántara, David Villa, Alexis Sánchez, Cesc Fàbregas
+
+MATCH: 2242855 | sob., 20.10.2012 | Deportivo de La Coruña
+PLAYERS: Víctor Valdés, Javier Mascherano, Alex Song, Jordi Alba, Martín Montoya, Sergio Busquets, Andrés Iniesta, Cesc Fàbregas, Cristian Tello, David Villa, Lionel Messi
+
+MATCH: 2243009 | sob., 17.11.2012 | Real Zaragoza
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Jordi Alba, Martín Montoya, Alex Song, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 2243169 | sob., 30.03.2013 | Celta de Vigo
+PLAYERS: José Manuel Pinto, Gerard Piqué, Marc Bartra, Martín Montoya, Dani Alves, Alex Song, Cesc Fàbregas, Thiago Alcántara, Cristian Tello, Alexis Sánchez, Lionel Messi
+
+MATCH: 2262211 | wt., 20.11.2012 | Spartak Moskwa
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Andrés Iniesta, Pedro, Lionel Messi
+
+MATCH: 2244389 | śr., 29.08.2012 | Real Madryt
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Jordi Alba, Adriano, Sergio Busquets, Andrés Iniesta, Xavi, Pedro, Alexis Sánchez, Lionel Messi
+
+MATCH: 2242910 | sob., 15.09.2012 | Getafe CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Adriano, Martín Montoya, Sergio Busquets, Xavi, Thiago Alcántara, Cristian Tello, Pedro, Cesc Fàbregas
+
+MATCH: 2262160 | śr., 19.09.2012 | Spartak Moskwa
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Adriano, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Cristian Tello, Pedro, Lionel Messi
+
+MATCH: 2288674 | śr., 30.01.2013 | Real Madryt
+PLAYERS: José Manuel Pinto, Gerard Piqué, Carles Puyol, Jordi Alba, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Andrés Iniesta, Pedro, Lionel Messi
+
+MATCH: 2242837 | sob., 29.09.2012 | Sevilla FC
+PLAYERS: Víctor Valdés, Javier Mascherano, Alex Song, Jordi Alba, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Pedro, Alexis Sánchez, Lionel Messi
+
+MATCH: 2243026 | sob., 01.06.2013 | Málaga CF
+PLAYERS: José Manuel Pinto, Gerard Piqué, Javier Mascherano, Jordi Alba, Martín Montoya, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Cesc Fàbregas
+
+MATCH: 2242904 | sob., 22.09.2012 | Granada CF
+PLAYERS: Víctor Valdés, Javier Mascherano, Alex Song, Adriano, Dani Alves, Sergio Busquets, Cesc Fàbregas, Thiago Alcántara, David Villa, Alexis Sánchez, Lionel Messi
+
+MATCH: 2282712 | śr., 12.12.2012 | Córdoba CF
+PLAYERS: José Manuel Pinto, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Alex Song, Xavi, Thiago Alcántara, David Villa, Pedro, Lionel Messi
+
+MATCH: 2243130 | sob., 16.02.2013 | Granada CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Adriano, Dani Alves, Sergio Busquets, Cesc Fàbregas, Thiago Alcántara, Alexis Sánchez, Pedro, Lionel Messi
+
+MATCH: 2243138 | sob., 23.02.2013 | Sevilla FC
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Martín Montoya, Dani Alves, Alex Song, Andrés Iniesta, Thiago Alcántara, Alexis Sánchez, David Villa, Lionel Messi
+
+MATCH: 2243102 | niedz., 27.01.2013 | CA Osasuna
+PLAYERS: Víctor Valdés, Carles Puyol, Javier Mascherano, Adriano, Dani Alves, Sergio Busquets, Xavi, Thiago Alcántara, David Villa, Pedro, Lionel Messi
+
+MATCH: 2242881 | niedz., 02.09.2012 | Valencia CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Adriano, Dani Alves, Alex Song, Cesc Fàbregas, Xavi, Pedro, Alexis Sánchez, Lionel Messi
+
+MATCH: 2243019 | niedz., 09.12.2012 | Real Betis Balompié
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Jordi Alba, Adriano, Sergio Busquets, Cesc Fàbregas, Xavi, Andrés Iniesta, Pedro, Lionel Messi
+
+MATCH: 2243072 | sob., 22.12.2012 | Real Valladolid CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Xavi, Thiago Alcántara, Alexis Sánchez, Pedro, Lionel Messi
+
+MATCH: 2242952 | sob., 20.04.2013 | Levante UD
+PLAYERS: Víctor Valdés, Éric Abidal, Adriano, Martín Montoya, Dani Alves, Alex Song, Andrés Iniesta, Thiago Alcántara, Cristian Tello, David Villa, Cesc Fàbregas
+
+MATCH: 2284449 | wt., 12.03.2013 | AC Milan
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Jordi Alba, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Pedro, David Villa, Lionel Messi
+
+MATCH: 2244388 | czw., 23.08.2012 | Real Madryt
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Adriano, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Pedro, Alexis Sánchez, Lionel Messi
+
+MATCH: 2242894 | sob., 27.10.2012 | Rayo Vallecano
+PLAYERS: Víctor Valdés, Adriano, Sergio Busquets, Jordi Alba, Martín Montoya, Alex Song, Cesc Fàbregas, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 2243058 | niedz., 06.01.2013 | RCD Espanyol
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Jordi Alba, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Andrés Iniesta, Pedro, Lionel Messi
+

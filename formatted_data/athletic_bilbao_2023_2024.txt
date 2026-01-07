@@ -1,0 +1,142 @@
+# Team: Athletic Bilbao
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 4113119 | niedz., 29.10.2023 | Valencia CF
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Imanol García de Albéniz, Óscar de Marcos, Dani García, Iñigo Ruiz de Galarreta, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4113065 | śr., 27.09.2023 | Getafe CF
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Ander Herrera, Oihan Sancet, Álex Berenguer, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4113060 | pt., 06.10.2023 | UD Almería
+PLAYERS: Unai Simón, Dani Vivian, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Dani García, Ander Herrera, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4113088 | pt., 10.11.2023 | Celta de Vigo
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Iñigo Lekue, Óscar de Marcos, Mikel Vesga, Iñigo Ruiz de Galarreta, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4113035 | pt., 02.02.2024 | RCD Mallorca
+PLAYERS: Unai Simón, Aitor Paredes, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Beñat Prados, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4113001 | niedz., 10.03.2024 | UD Las Palmas
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Beñat Prados, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4112918 | śr., 15.05.2024 | Celta de Vigo
+PLAYERS: Unai Simón, Aitor Paredes, Yeray Álvarez, Imanol García de Albéniz, Iñigo Lekue, Dani García, Beñat Prados, Adu Ares, Álex Berenguer, Unai Gómez, Asier Villalibre
+
+MATCH: 4112837 | niedz., 28.01.2024 | Cádiz CF
+PLAYERS: Unai Simón, Dani Vivian, Yeray Álvarez, Iñigo Lekue, Óscar de Marcos, Mikel Vesga, Ander Herrera, Unai Gómez, Adu Ares, Iñaki Williams, Asier Villalibre
+
+MATCH: 4113120 | niedz., 22.10.2023 | FC Barcelona
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Óscar de Marcos, Dani García, Iñigo Ruiz de Galarreta, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4112994 | sob., 16.03.2024 | Deportivo Alavés
+PLAYERS: Unai Simón, Dani Vivian, Yeray Álvarez, Iñigo Lekue, Óscar de Marcos, Iñigo Ruiz de Galarreta, Beñat Prados, Unai Gómez, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4227821 | czw., 07.12.2023 | CD Cayón
+PLAYERS: Julen Agirrezabala, Yuri Berchiche, Peru Nolaskoain, Imanol García de Albéniz, Beñat Prados, Unai Gómez, Raúl García, Iker Muniain, Álex Berenguer, Adu Ares, Asier Villalibre
+
+MATCH: 4113159 | pt., 22.09.2023 | Deportivo Alavés
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Iñigo Ruiz de Galarreta, Oihan Sancet, Álex Berenguer, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4112882 | niedz., 10.12.2023 | Granada CF
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Iñigo Lekue, Óscar de Marcos, Iñigo Ruiz de Galarreta, Beñat Prados, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4112947 | pt., 03.05.2024 | Getafe CF
+PLAYERS: Unai Simón, Aitor Paredes, Yeray Álvarez, Iñigo Lekue, Óscar de Marcos, Ander Herrera, Beñat Prados, Unai Gómez, Nico Williams, Álex Berenguer, Iñaki Williams
+
+MATCH: 4112981 | niedz., 31.03.2024 | Real Madryt
+PLAYERS: Julen Agirrezabala, Aitor Paredes, Yeray Álvarez, Iñigo Lekue, Óscar de Marcos, Mikel Vesga, Beñat Prados, Oihan Sancet, Álex Berenguer, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4270168 | śr., 24.01.2024 | FC Barcelona
+PLAYERS: Julen Agirrezabala, Dani Vivian, Aitor Paredes, Yuri Berchiche, Iñigo Lekue, Mikel Vesga, Beñat Prados, Oihan Sancet, Nico Williams, Adu Ares, Gorka Guruzeta
+
+MATCH: 4113034 | niedz., 25.02.2024 | Real Betis Balompié
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Beñat Prados, Oihan Sancet, Nico Williams, Álex Berenguer, Gorka Guruzeta
+
+MATCH: 4259186 | wt., 16.01.2024 | Deportivo Alavés
+PLAYERS: Julen Agirrezabala, Dani Vivian, Aitor Paredes, Iñigo Lekue, Óscar de Marcos, Ander Herrera, Beñat Prados, Oihan Sancet, Iker Muniain, Álex Berenguer, Asier Villalibre
+
+MATCH: 4113154 | sob., 19.08.2023 | CA Osasuna
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Imanol García de Albéniz, Óscar de Marcos, Mikel Vesga, Iñigo Ruiz de Galarreta, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4112858 | czw., 04.01.2024 | Sevilla FC
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Iñigo Lekue, Mikel Vesga, Iñigo Ruiz de Galarreta, Oihan Sancet, Nico Williams, Álex Berenguer, Gorka Guruzeta
+
+MATCH: 4112974 | sob., 30.09.2023 | Real Sociedad
+PLAYERS: Unai Simón, Dani Vivian, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Dani García, Ander Herrera, Iker Muniain, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4112816 | sob., 13.01.2024 | Real Sociedad
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Iñigo Lekue, Mikel Vesga, Iñigo Ruiz de Galarreta, Oihan Sancet, Nico Williams, Álex Berenguer, Gorka Guruzeta
+
+MATCH: 4113080 | niedz., 27.08.2023 | Real Betis Balompié
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Imanol García de Albéniz, Iñigo Lekue, Mikel Vesga, Iñigo Ruiz de Galarreta, Iker Muniain, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4113051 | niedz., 03.09.2023 | RCD Mallorca
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Iñigo Lekue, Mikel Vesga, Iñigo Ruiz de Galarreta, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4112955 | sob., 11.05.2024 | CA Osasuna
+PLAYERS: Unai Simón, Dani Vivian, Iñigo Lekue, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Ander Herrera, Iker Muniain, Álex Berenguer, Nico Williams, Iñaki Williams
+
+MATCH: 4112829 | sob., 20.01.2024 | Valencia CF
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Iñigo Lekue, Ander Herrera, Beñat Prados, Oihan Sancet, Nico Williams, Álex Berenguer, Gorka Guruzeta
+
+MATCH: 4112865 | śr., 20.12.2023 | UD Las Palmas
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Iñigo Lekue, Ander Herrera, Beñat Prados, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4113015 | niedz., 14.04.2024 | Villarreal CF
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Beñat Prados, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4204002 | śr., 01.11.2023 | UE Rubí
+PLAYERS: Julen Agirrezabala, Unai Egiluz, Peru Nolaskoain, Iñigo Lekue, Beñat Prados, Mikel Vesga, Unai Gómez, Iker Muniain, Álex Berenguer, Adu Ares, Raúl García
+
+MATCH: 4112926 | pt., 19.04.2024 | Granada CF
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Unai Gómez, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4112905 | niedz., 19.05.2024 | Sevilla FC
+PLAYERS: Julen Agirrezabala, Dani Vivian, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Beñat Prados, Iker Muniain, Nico Williams, Iñaki Williams, Raúl García
+
+MATCH: 4113175 | pon., 19.02.2024 | Girona FC
+PLAYERS: Unai Simón, Dani Vivian, Yeray Álvarez, Yuri Berchiche, Iñigo Lekue, Iñigo Ruiz de Galarreta, Beñat Prados, Unai Gómez, Álex Berenguer, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4113111 | niedz., 05.11.2023 | Villarreal CF
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Iñigo Lekue, Óscar de Marcos, Mikel Vesga, Iñigo Ruiz de Galarreta, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4112846 | sob., 16.12.2023 | Atlético Madryt
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Iñigo Lekue, Ander Herrera, Beñat Prados, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4112885 | pon., 12.02.2024 | UD Almería
+PLAYERS: Unai Simón, Aitor Paredes, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Iñigo Ruiz de Galarreta, Unai Gómez, Álex Berenguer, Iñaki Williams, Asier Villalibre
+
+MATCH: 4113130 | sob., 02.12.2023 | Rayo Vallecano
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Iñigo Lekue, Óscar de Marcos, Iñigo Ruiz de Galarreta, Ander Herrera, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4113103 | sob., 16.09.2023 | Cádiz CF
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Iñigo Ruiz de Galarreta, Oihan Sancet, Álex Berenguer, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4112900 | sob., 25.05.2024 | Rayo Vallecano
+PLAYERS: Unai Simón, Aitor Paredes, Yeray Álvarez, Yuri Berchiche, Iñigo Lekue, Dani García, Iñigo Ruiz de Galarreta, Mikel Jauregizar, Nico Williams, Álex Berenguer, Asier Villalibre
+
+MATCH: 4275924 | śr., 07.02.2024 | Atlético Madryt
+PLAYERS: Julen Agirrezabala, Dani Vivian, Aitor Paredes, Yuri Berchiche, Iñigo Lekue, Iñigo Ruiz de Galarreta, Beñat Prados, Oihan Sancet, Álex Berenguer, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4308543 | sob., 06.04.2024 | RCD Mallorca
+PLAYERS: Julen Agirrezabala, Dani Vivian, Aitor Paredes, Yuri Berchiche, Óscar de Marcos, Iñigo Ruiz de Galarreta, Beñat Prados, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4112941 | sob., 27.04.2024 | Atlético Madryt
+PLAYERS: Unai Simón, Aitor Paredes, Yeray Álvarez, Iñigo Lekue, Dani Vivian, Iñigo Ruiz de Galarreta, Beñat Prados, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4113005 | niedz., 03.03.2024 | FC Barcelona
+PLAYERS: Unai Simón, Aitor Paredes, Yeray Álvarez, Imanol García de Albéniz, Beñat Prados, Mikel Vesga, Dani García, Unai Gómez, Álex Berenguer, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4275926 | czw., 29.02.2024 | Atlético Madryt
+PLAYERS: Julen Agirrezabala, Dani Vivian, Aitor Paredes, Iñigo Lekue, Óscar de Marcos, Iñigo Ruiz de Galarreta, Beñat Prados, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4113085 | pon., 27.11.2023 | Girona FC
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Iñigo Lekue, Óscar de Marcos, Mikel Vesga, Iñigo Ruiz de Galarreta, Oihan Sancet, Nico Williams, Iñaki Williams, Gorka Guruzeta
+
+MATCH: 4112806 | sob., 12.08.2023 | Real Madryt
+PLAYERS: Unai Simón, Dani Vivian, Aitor Paredes, Iñigo Lekue, Óscar de Marcos, Mikel Vesga, Iñigo Ruiz de Galarreta, Unai Gómez, Iker Muniain, Nico Williams, Iñaki Williams
+
+MATCH: 4240842 | niedz., 07.01.2024 | SD Eibar
+PLAYERS: Julen Agirrezabala, Dani Vivian, Aitor Paredes, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Ander Herrera, Oihan Sancet, Nico Williams, Iker Muniain, Asier Villalibre
+

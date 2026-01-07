@@ -1,0 +1,3296 @@
+====================================================================================================
+                        FOOTBALL TEAM - SEASON MATCHES REPORT
+====================================================================================================
+
+📅 Generated: 2026-01-05 21:21:29
+⚽ Total matches: 57
+👥 Total players tracked: 1573
+📊 Average players per match: 27.6
+
+🏆 Competitions breakdown:
+   • Unknown: 19 matches
+   • LALIGA: 38 matches
+
+====================================================================================================
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #01
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Rayo Vallecano
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  śr., 06.01.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/rayo-vallecano_atlético-madryt/aufstellung/spielbericht/2647659
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RAYO VALLECANO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Juan Carlos
+        5. Chechu Dorado
+        2. Tito
+        3. Nacho Martínez
+       16. Chengdong Zhang
+       27. Diego Llorente
+       21. Jozabed Sánchez
+       14. Pablo Hernández
+       23. Bebé
+        9. Manucho
+        7. Miku
+
+   🔄 SUBSTITUTES IN (3):
+       17. Quini
+       26. Joni Montiel
+       11. Adrián Embarba
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Miguel Ángel Moyá
+       15. Stefan Savic
+       24. José María Giménez
+        4. Guilherme Siqueira
+       18. Jesús Gámez
+        8. Matías Kranevitter
+       22. Thomas Partey
+       12. Augusto Fernández
+       10. Óliver Torres
+       21. Yannick Carrasco
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+       17. Saúl Ñíguez
+       11. Jackson Martínez
+       23. Luciano Vietto
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 06.01.2016|Unknown|Unknown|Rayo Vallecano|Atlético Madryt|Juan Carlos|Chechu Dorado|Tito|Nacho Martínez|Chengdong Zhang|Diego Llorente|Jozabed Sánchez|Pablo Hernández|Bebé|Manucho|Miku|Quini|Joni Montiel|Adrián Embarba|Miguel Ángel Moyá|Stefan Savic|José María Giménez|Guilherme Siqueira|Jesús Gámez|Matías Kranevitter|Thomas Partey|Augusto Fernández|Óliver Torres|Yannick Carrasco|Fernando Torres|Saúl Ñíguez|Jackson Martínez|Luciano Vietto
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #02
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  SD Eibar
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  sob., 19.09.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 4. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/sd-eibar_atlético-madryt/aufstellung/spielbericht/2594504
+
+----------------------------------------------------------------------------------------------------
+
+🏠 SD EIBAR - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Asier Riesgo
+        4. Iván Ramis
+       15. Mauro dos Santos
+       19. Antonio Luna
+        7. Ander Capa
+       14. Dani García
+        5. Gonzalo Escalante
+       24. Adrián González
+       21. Saúl Berjón
+       20. Keko Gontán
+        9. Sergi Enrich
+
+   🔄 SUBSTITUTES IN (3):
+        2. Simone Verdi
+       10. Mikel Arruabarrena
+       18. Borja Bastón
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+        5. Tiago Mendes
+       14. Gabi
+        6. Koke
+        7. Antoine Griezmann
+       11. Jackson Martínez
+       23. Luciano Vietto
+
+   🔄 SUBSTITUTES IN (3):
+       10. Óliver Torres
+       16. Ángel Correa
+        9. Fernando Torres
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 19.09.2015|LALIGA|4. Kolejka|SD Eibar|Atlético Madryt|Asier Riesgo|Iván Ramis|Mauro dos Santos|Antonio Luna|Ander Capa|Dani García|Gonzalo Escalante|Adrián González|Saúl Berjón|Keko Gontán|Sergi Enrich|Simone Verdi|Mikel Arruabarrena|Borja Bastón|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Tiago Mendes|Gabi|Koke|Antoine Griezmann|Jackson Martínez|Luciano Vietto|Óliver Torres|Ángel Correa|Fernando Torres
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #03
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Rayo Vallecano
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  śr., 30.12.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 17. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rayo-vallecano_atlético-madryt/aufstellung/spielbericht/2594640
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RAYO VALLECANO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Yoel Rodríguez
+        5. Chechu Dorado
+       18. Zé Castro
+       17. Quini
+       27. Diego Llorente
+       10. Roberto Trashorras
+       21. Jozabed Sánchez
+       14. Pablo Hernández
+       19. Lass Bangoura
+        9. Manucho
+       24. Javi Guerra
+
+   🔄 SUBSTITUTES IN (3):
+       16. Chengdong Zhang
+       23. Bebé
+        7. Miku
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+       18. Jesús Gámez
+       20. Juanfran Torres
+       17. Saúl Ñíguez
+        6. Koke
+       10. Óliver Torres
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+       22. Thomas Partey
+       16. Ángel Correa
+       11. Jackson Martínez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 30.12.2015|LALIGA|17. Kolejka|Rayo Vallecano|Atlético Madryt|Yoel Rodríguez|Chechu Dorado|Zé Castro|Quini|Diego Llorente|Roberto Trashorras|Jozabed Sánchez|Pablo Hernández|Lass Bangoura|Manucho|Javi Guerra|Chengdong Zhang|Bebé|Miku|Jan Oblak|Diego Godín|José María Giménez|Jesús Gámez|Juanfran Torres|Saúl Ñíguez|Koke|Óliver Torres|Yannick Carrasco|Antoine Griezmann|Fernando Torres|Thomas Partey|Ángel Correa|Jackson Martínez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #04
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Bayern Monachium
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  wt., 03.05.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/bayern-monachium_atlético-madryt/aufstellung/spielbericht/2682242
+
+----------------------------------------------------------------------------------------------------
+
+🏠 BAYERN MONACHIUM - 12 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Manuel Neuer
+        8. Javi Martínez
+       17. Jérôme Boateng
+       27. David Alaba
+       21. Philipp Lahm
+       14. Xabi Alonso
+       23. Arturo Vidal
+       25. Thomas Müller
+        7. Franck Ribéry
+       11. Douglas Costa
+        9. Robert Lewandowski
+
+   🔄 SUBSTITUTES IN (1):
+       29. Kingsley Coman
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+       12. Augusto Fernández
+       14. Gabi
+       17. Saúl Ñíguez
+        6. Koke
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+       15. Stefan Savic
+       22. Thomas Partey
+       21. Yannick Carrasco
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 03.05.2016|Unknown|Unknown|Bayern Monachium|Atlético Madryt|Manuel Neuer|Javi Martínez|Jérôme Boateng|David Alaba|Philipp Lahm|Xabi Alonso|Arturo Vidal|Thomas Müller|Franck Ribéry|Douglas Costa|Robert Lewandowski|Kingsley Coman|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Augusto Fernández|Gabi|Saúl Ñíguez|Koke|Antoine Griezmann|Fernando Torres|Stefan Savic|Thomas Partey|Yannick Carrasco
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #05
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  UD Las Palmas
+📅 DATE:  sob., 22.08.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 1. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_ud-las-palmas/aufstellung/spielbericht/2594480
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+        5. Tiago Mendes
+       14. Gabi
+       10. Óliver Torres
+        6. Koke
+        7. Antoine Griezmann
+       11. Jackson Martínez
+
+   🔄 SUBSTITUTES IN (3):
+        8. Raúl García
+       16. Ángel Correa
+        9. Fernando Torres
+
+✈️  UD LAS PALMAS - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Raúl Lizoain
+       17. Pedro Bigas
+        3. Antolín Alcaraz
+       16. Aythami Artiles
+       23. Dani Castellano
+        2. David Simón
+       14. Hernán Santana
+       18. Javi Castellano
+       15. Roque Mesa
+       20. Jonathan Viera
+       10. Sergio Araujo
+
+   🔄 SUBSTITUTES IN (3):
+        4. Vicente Gómez
+       11. Momo
+        8. Willian José
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 22.08.2015|LALIGA|1. Kolejka|Atlético Madryt|UD Las Palmas|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Tiago Mendes|Gabi|Óliver Torres|Koke|Antoine Griezmann|Jackson Martínez|Raúl García|Ángel Correa|Fernando Torres|Raúl Lizoain|Pedro Bigas|Antolín Alcaraz|Aythami Artiles|Dani Castellano|David Simón|Hernán Santana|Javi Castellano|Roque Mesa|Jonathan Viera|Sergio Araujo|Vicente Gómez|Momo|Willian José
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #06
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  SD Eibar
+📅 DATE:  sob., 06.02.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 23. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_sd-eibar/aufstellung/spielbericht/2594694
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       24. José María Giménez
+       17. Saúl Ñíguez
+       19. Lucas Hernández
+       18. Jesús Gámez
+       22. Thomas Partey
+       14. Gabi
+        6. Koke
+       21. Yannick Carrasco
+       16. Ángel Correa
+        7. Antoine Griezmann
+
+   🔄 SUBSTITUTES IN (3):
+       10. Óliver Torres
+        9. Fernando Torres
+       23. Luciano Vietto
+
+✈️  SD EIBAR - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Asier Riesgo
+       15. Mauro dos Santos
+       16. Lillo Castellano
+       17. David Juncà
+        7. Ander Capa
+       14. Dani García
+       24. Adrián González
+        5. Gonzalo Escalante
+       22. Jota Peleteiro
+       20. Keko Gontán
+        9. Sergi Enrich
+
+   🔄 SUBSTITUTES IN (3):
+        6. Josip Radosevic
+        8. Takashi Inui
+       21. Saúl Berjón
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 06.02.2016|LALIGA|23. Kolejka|Atlético Madryt|SD Eibar|Jan Oblak|José María Giménez|Saúl Ñíguez|Lucas Hernández|Jesús Gámez|Thomas Partey|Gabi|Koke|Yannick Carrasco|Ángel Correa|Antoine Griezmann|Óliver Torres|Fernando Torres|Luciano Vietto|Asier Riesgo|Mauro dos Santos|Lillo Castellano|David Juncà|Ander Capa|Dani García|Adrián González|Gonzalo Escalante|Jota Peleteiro|Keko Gontán|Sergi Enrich|Josip Radosevic|Takashi Inui|Saúl Berjón
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #07
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Galatasaray
+📅 DATE:  śr., 25.11.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_galatasaray/aufstellung/spielbericht/2618614
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       18. Jesús Gámez
+        5. Tiago Mendes
+        6. Koke
+       14. Gabi
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+       17. Saúl Ñíguez
+       10. Óliver Torres
+       23. Luciano Vietto
+
+✈️  GALATASARAY - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Fernando Muslera
+       21. Aurélien Chedjou
+       26. Semih Kaya
+       22. Hakan Balta
+       64. Jason Denayer
+        6. Jem Karacan
+        5. Bilal Kısa
+       10. Wesley Sneijder
+        7. Yasin Öztekin
+       55. Sabri Sarıoğlu
+       11. Lukas Podolski
+
+   🔄 SUBSTITUTES IN (3):
+       18. Sinan Gümüş
+       29. Olcan Adın
+        9. Umut Bulut
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 25.11.2015|Unknown|Unknown|Atlético Madryt|Galatasaray|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Jesús Gámez|Tiago Mendes|Koke|Gabi|Yannick Carrasco|Antoine Griezmann|Fernando Torres|Saúl Ñíguez|Óliver Torres|Luciano Vietto|Fernando Muslera|Aurélien Chedjou|Semih Kaya|Hakan Balta|Jason Denayer|Jem Karacan|Bilal Kısa|Wesley Sneijder|Yasin Öztekin|Sabri Sarıoğlu|Lukas Podolski|Sinan Gümüş|Olcan Adın|Umut Bulut
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #08
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  wt., 05.04.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_atlético-madryt/aufstellung/spielbericht/2675295
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc-André ter Stegen
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+        6. Dani Alves
+        5. Sergio Busquets
+        8. Andrés Iniesta
+        4. Ivan Rakitic
+       11. Neymar
+       10. Lionel Messi
+        9. Luis Suárez
+
+   🔄 SUBSTITUTES IN (3):
+       20. Sergi Roberto
+       12. Rafinha
+        7. Arda Turan
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       19. Lucas Hernández
+        3. Filipe Luís
+       20. Juanfran Torres
+       14. Gabi
+        6. Koke
+       17. Saúl Ñíguez
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+       22. Thomas Partey
+       12. Augusto Fernández
+       16. Ángel Correa
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 05.04.2016|Unknown|Unknown|FC Barcelona|Atlético Madryt|Marc-André ter Stegen|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Andrés Iniesta|Ivan Rakitic|Neymar|Lionel Messi|Luis Suárez|Sergi Roberto|Rafinha|Arda Turan|Jan Oblak|Diego Godín|Lucas Hernández|Filipe Luís|Juanfran Torres|Gabi|Koke|Saúl Ñíguez|Yannick Carrasco|Antoine Griezmann|Fernando Torres|Thomas Partey|Augusto Fernández|Ángel Correa
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #09
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Levante UD
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 08.05.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 37. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/levante-ud_atlético-madryt/aufstellung/spielbericht/2594840
+
+----------------------------------------------------------------------------------------------------
+
+🏠 LEVANTE UD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Diego Mariño
+        4. David Navarro
+       14. Carl Medjani
+       12. Juanfran
+       19. Pedro López
+        8. Jefferson Lerma
+        7. Verza
+       25. Joan Verdú
+       11. José Luis Morales
+        9. Mauricio Cuero
+       18. Víctor Casadesús
+
+   🔄 SUBSTITUTES IN (3):
+        5. Simão
+       10. Rubén García
+       21. Giuseppe Rossi
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       15. Stefan Savic
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+       12. Augusto Fernández
+       14. Gabi
+       17. Saúl Ñíguez
+        6. Koke
+       16. Ángel Correa
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+       22. Thomas Partey
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 08.05.2016|LALIGA|37. Kolejka|Levante UD|Atlético Madryt|Diego Mariño|David Navarro|Carl Medjani|Juanfran|Pedro López|Jefferson Lerma|Verza|Joan Verdú|José Luis Morales|Mauricio Cuero|Víctor Casadesús|Simão|Rubén García|Giuseppe Rossi|Jan Oblak|Stefan Savic|José María Giménez|Filipe Luís|Juanfran Torres|Augusto Fernández|Gabi|Saúl Ñíguez|Koke|Ángel Correa|Fernando Torres|Thomas Partey|Yannick Carrasco|Antoine Griezmann
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #10
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Sevilla FC
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 30.08.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 2. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/sevilla-fc_atlético-madryt/aufstellung/spielbericht/2594483
+
+----------------------------------------------------------------------------------------------------
+
+🏠 SEVILLA FC - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Beto
+        3. Adil Rami
+        6. Daniel Carriço
+        2. Benoît Trémoulinas
+       23. Coke
+        4. Grzegorz Krychowiak
+        8. Vicente Iborra
+       19. Éver Banega
+       10. José Antonio Reyes
+       20. Vitolo
+       24. Fernando Llorente
+
+   🔄 SUBSTITUTES IN (3):
+        7. Michael Krohn-Dehli
+       22. Yevgen Konoplyanka
+        9. Kévin Gameiro
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+       18. Jesús Gámez
+       20. Juanfran Torres
+        5. Tiago Mendes
+       14. Gabi
+       10. Óliver Torres
+        6. Koke
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+       17. Saúl Ñíguez
+       21. Yannick Carrasco
+       11. Jackson Martínez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 30.08.2015|LALIGA|2. Kolejka|Sevilla FC|Atlético Madryt|Beto|Adil Rami|Daniel Carriço|Benoît Trémoulinas|Coke|Grzegorz Krychowiak|Vicente Iborra|Éver Banega|José Antonio Reyes|Vitolo|Fernando Llorente|Michael Krohn-Dehli|Yevgen Konoplyanka|Kévin Gameiro|Jan Oblak|Diego Godín|José María Giménez|Jesús Gámez|Juanfran Torres|Tiago Mendes|Gabi|Óliver Torres|Koke|Antoine Griezmann|Fernando Torres|Saúl Ñíguez|Yannick Carrasco|Jackson Martínez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #11
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Sporting Gijón
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  sob., 19.03.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 30. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/sporting-gijón_atlético-madryt/aufstellung/spielbericht/2594767
+
+----------------------------------------------------------------------------------------------------
+
+🏠 SPORTING GIJÓN - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Iván Cuéllar
+        2. Luis Hernández
+       28. Jorge Meré
+       18. Isma López
+       11. Alberto Lora
+       17. Omar Mascarell
+        6. Sergio Álvarez
+       10. Nacho Cases
+       23. Jony
+       22. Pablo Pérez
+       20. Antonio Sanabria
+
+   🔄 SUBSTITUTES IN (3):
+       24. Rachid Aït-Atmane
+       19. Carlos Carmona
+       16. Carlos Castro
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       24. José María Giménez
+       19. Lucas Hernández
+        3. Filipe Luís
+       18. Jesús Gámez
+        8. Matías Kranevitter
+       17. Saúl Ñíguez
+        6. Koke
+        7. Antoine Griezmann
+       16. Ángel Correa
+       23. Luciano Vietto
+
+   🔄 SUBSTITUTES IN (3):
+       20. Juanfran Torres
+       14. Gabi
+        9. Fernando Torres
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 19.03.2016|LALIGA|30. Kolejka|Sporting Gijón|Atlético Madryt|Iván Cuéllar|Luis Hernández|Jorge Meré|Isma López|Alberto Lora|Omar Mascarell|Sergio Álvarez|Nacho Cases|Jony|Pablo Pérez|Antonio Sanabria|Rachid Aït-Atmane|Carlos Carmona|Carlos Castro|Jan Oblak|José María Giménez|Lucas Hernández|Filipe Luís|Jesús Gámez|Matías Kranevitter|Saúl Ñíguez|Koke|Antoine Griezmann|Ángel Correa|Luciano Vietto|Juanfran Torres|Gabi|Fernando Torres
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #12
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Celta de Vigo
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 10.01.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 19. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/celta-de-vigo_atlético-madryt/aufstellung/spielbericht/2594659
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CELTA DE VIGO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Sergio Álvarez
+       20. Sergi Gómez
+       22. Gustavo Cabral
+       19. Jonny Otto
+        2. Hugo Mallo
+        6. Nemanja Radoja
+        8. Pablo Hernández
+       18. Daniel Wass
+        7. Théo Bongonda
+       14. Fabián Orellana
+        9. Iago Aspas
+
+   🔄 SUBSTITUTES IN (3):
+       28. Borja Fernández
+       23. Josep Señé
+       11. John Guidetti
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+       12. Augusto Fernández
+       14. Gabi
+       17. Saúl Ñíguez
+        6. Koke
+        7. Antoine Griezmann
+       23. Luciano Vietto
+
+   🔄 SUBSTITUTES IN (3):
+       18. Jesús Gámez
+       21. Yannick Carrasco
+       11. Jackson Martínez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 10.01.2016|LALIGA|19. Kolejka|Celta de Vigo|Atlético Madryt|Sergio Álvarez|Sergi Gómez|Gustavo Cabral|Jonny Otto|Hugo Mallo|Nemanja Radoja|Pablo Hernández|Daniel Wass|Théo Bongonda|Fabián Orellana|Iago Aspas|Borja Fernández|Josep Señé|John Guidetti|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Augusto Fernández|Gabi|Saúl Ñíguez|Koke|Antoine Griezmann|Luciano Vietto|Jesús Gámez|Yannick Carrasco|Jackson Martínez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #13
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Sevilla FC
+📅 DATE:  niedz., 24.01.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 21. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_sevilla-fc/aufstellung/spielbericht/2594673
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       15. Stefan Savic
+        3. Filipe Luís
+       20. Juanfran Torres
+       12. Augusto Fernández
+       14. Gabi
+       17. Saúl Ñíguez
+        6. Koke
+        7. Antoine Griezmann
+       23. Luciano Vietto
+
+   🔄 SUBSTITUTES IN (3):
+       21. Yannick Carrasco
+       16. Ángel Correa
+       11. Jackson Martínez
+
+✈️  SEVILLA FC - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Sergio Rico
+        3. Adil Rami
+        6. Daniel Carriço
+        2. Benoît Trémoulinas
+       23. Coke
+        4. Grzegorz Krychowiak
+       15. Steven Nzonzi
+       18. Sergio Escudero
+       19. Éver Banega
+       20. Vitolo
+       24. Fernando Llorente
+
+   🔄 SUBSTITUTES IN (3):
+        7. Michael Krohn-Dehli
+       14. Sebastián Cristóforo
+        9. Kévin Gameiro
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 24.01.2016|LALIGA|21. Kolejka|Atlético Madryt|Sevilla FC|Jan Oblak|Diego Godín|Stefan Savic|Filipe Luís|Juanfran Torres|Augusto Fernández|Gabi|Saúl Ñíguez|Koke|Antoine Griezmann|Luciano Vietto|Yannick Carrasco|Ángel Correa|Jackson Martínez|Sergio Rico|Adil Rami|Daniel Carriço|Benoît Trémoulinas|Coke|Grzegorz Krychowiak|Steven Nzonzi|Sergio Escudero|Éver Banega|Vitolo|Fernando Llorente|Michael Krohn-Dehli|Sebastián Cristóforo|Kévin Gameiro
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #14
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  sob., 26.09.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 6. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_atlético-madryt/aufstellung/spielbericht/2594525
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Alphonse Areola
+        6. Víctor Ruiz
+       24. Eric Bailly
+       11. Jaume Costa
+        2. Mario Gaspar
+       21. Bruno Soriano
+       14. Manu Trigueros
+        8. Jonathan dos Santos
+       19. Samu Castillejo
+       10. Léo Baptistão
+        9. Roberto Soldado
+
+   🔄 SUBSTITUTES IN (3):
+        4. Tomás Pina
+       18. Denis Suárez
+       26. Matías Nahuel
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       18. Jesús Gámez
+        5. Tiago Mendes
+       14. Gabi
+       10. Óliver Torres
+       17. Saúl Ñíguez
+        7. Antoine Griezmann
+       11. Jackson Martínez
+
+   🔄 SUBSTITUTES IN (3):
+       16. Ángel Correa
+        9. Fernando Torres
+       23. Luciano Vietto
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 26.09.2015|LALIGA|6. Kolejka|Villarreal CF|Atlético Madryt|Alphonse Areola|Víctor Ruiz|Eric Bailly|Jaume Costa|Mario Gaspar|Bruno Soriano|Manu Trigueros|Jonathan dos Santos|Samu Castillejo|Léo Baptistão|Roberto Soldado|Tomás Pina|Denis Suárez|Matías Nahuel|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Jesús Gámez|Tiago Mendes|Gabi|Óliver Torres|Saúl Ñíguez|Antoine Griezmann|Jackson Martínez|Ángel Correa|Fernando Torres|Luciano Vietto
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #15
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Levante UD
+📅 DATE:  sob., 02.01.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 18. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_levante-ud/aufstellung/spielbericht/2594650
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       15. Stefan Savic
+        3. Filipe Luís
+       20. Juanfran Torres
+       14. Gabi
+       17. Saúl Ñíguez
+        6. Koke
+       16. Ángel Correa
+        7. Antoine Griezmann
+       11. Jackson Martínez
+
+   🔄 SUBSTITUTES IN (3):
+       22. Thomas Partey
+       21. Yannick Carrasco
+       23. Luciano Vietto
+
+✈️  LEVANTE UD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Diego Mariño
+       24. Zouhair Feddal
+       16. Ángel Trujillo
+        3. Toño García
+        2. Iván López
+       22. José Mari
+        8. Jefferson Lerma
+        7. Verza
+       11. José Luis Morales
+       17. Jordi Xumetra
+       23. Nabil Ghilas
+
+   🔄 SUBSTITUTES IN (3):
+        6. Víctor Camarasa
+       10. Rubén García
+       14. Roger Martí
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 02.01.2016|LALIGA|18. Kolejka|Atlético Madryt|Levante UD|Jan Oblak|Diego Godín|Stefan Savic|Filipe Luís|Juanfran Torres|Gabi|Saúl Ñíguez|Koke|Ángel Correa|Antoine Griezmann|Jackson Martínez|Thomas Partey|Yannick Carrasco|Luciano Vietto|Diego Mariño|Zouhair Feddal|Ángel Trujillo|Toño García|Iván López|José Mari|Jefferson Lerma|Verza|José Luis Morales|Jordi Xumetra|Nabil Ghilas|Víctor Camarasa|Rubén García|Roger Martí
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #16
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Benfika Lizbona
+📅 DATE:  śr., 30.09.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_benfika-lizbona/aufstellung/spielbericht/2618569
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+        5. Tiago Mendes
+       14. Gabi
+       10. Óliver Torres
+        7. Antoine Griezmann
+       16. Ángel Correa
+       11. Jackson Martínez
+
+   🔄 SUBSTITUTES IN (3):
+       17. Saúl Ñíguez
+        9. Fernando Torres
+       23. Luciano Vietto
+
+✈️  BENFIKA LIZBONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       12. Júlio César
+        4. Luisão
+       33. Jardel
+       19. Eliseu
+       50. Nélson Semedo
+       34. André Almeida
+        7. Andreas Samaris
+       10. Nico Gaitán
+       20. Gonçalo Guedes
+       17. Jonas
+        9. Raúl Jiménez
+
+   🔄 SUBSTITUTES IN (3):
+        5. Ljubomir Fejsa
+       21. Pizzi
+       11. Konstantinos Mitroglou
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 30.09.2015|Unknown|Unknown|Atlético Madryt|Benfika Lizbona|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Tiago Mendes|Gabi|Óliver Torres|Antoine Griezmann|Ángel Correa|Jackson Martínez|Saúl Ñíguez|Fernando Torres|Luciano Vietto|Júlio César|Luisão|Jardel|Eliseu|Nélson Semedo|André Almeida|Andreas Samaris|Nico Gaitán|Gonçalo Guedes|Jonas|Raúl Jiménez|Ljubomir Fejsa|Pizzi|Konstantinos Mitroglou
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #17
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Benfika Lizbona
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  wt., 08.12.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/benfika-lizbona_atlético-madryt/aufstellung/spielbericht/2618631
+
+----------------------------------------------------------------------------------------------------
+
+🏠 BENFIKA LIZBONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       12. Júlio César
+        2. Lisandro López
+       33. Jardel
+       19. Eliseu
+       34. André Almeida
+        5. Ljubomir Fejsa
+       85. Renato Sanches
+       21. Pizzi
+       10. Nico Gaitán
+       17. Jonas
+       20. Gonçalo Guedes
+
+   🔄 SUBSTITUTES IN (3):
+       39. Mehdi Carcela-González
+       11. Konstantinos Mitroglou
+        9. Raúl Jiménez
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       15. Stefan Savic
+        3. Filipe Luís
+       20. Juanfran Torres
+       17. Saúl Ñíguez
+        6. Koke
+       14. Gabi
+        7. Antoine Griezmann
+       21. Yannick Carrasco
+       23. Luciano Vietto
+
+   🔄 SUBSTITUTES IN (3):
+       24. José María Giménez
+       10. Óliver Torres
+        9. Fernando Torres
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 08.12.2015|Unknown|Unknown|Benfika Lizbona|Atlético Madryt|Júlio César|Lisandro López|Jardel|Eliseu|André Almeida|Ljubomir Fejsa|Renato Sanches|Pizzi|Nico Gaitán|Jonas|Gonçalo Guedes|Mehdi Carcela-González|Konstantinos Mitroglou|Raúl Jiménez|Jan Oblak|Diego Godín|Stefan Savic|Filipe Luís|Juanfran Torres|Saúl Ñíguez|Koke|Gabi|Antoine Griezmann|Yannick Carrasco|Luciano Vietto|José María Giménez|Óliver Torres|Fernando Torres
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #18
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Celta de Vigo
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  śr., 20.01.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/celta-de-vigo_atlético-madryt/aufstellung/spielbericht/2656742
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CELTA DE VIGO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Rubén Blanco
+       20. Sergi Gómez
+       22. Gustavo Cabral
+       21. Carles Planas
+       19. Jonny Otto
+        6. Nemanja Radoja
+        8. Pablo Hernández
+       18. Daniel Wass
+        9. Iago Aspas
+       14. Fabián Orellana
+       11. John Guidetti
+
+   🔄 SUBSTITUTES IN (3):
+        2. Hugo Mallo
+       28. Borja Fernández
+       12. Claudio Beauvue
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Miguel Ángel Moyá
+        2. Diego Godín
+       15. Stefan Savic
+        3. Filipe Luís
+       18. Jesús Gámez
+       12. Augusto Fernández
+       14. Gabi
+        6. Koke
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+       11. Jackson Martínez
+
+   🔄 SUBSTITUTES IN (3):
+       22. Thomas Partey
+       16. Ángel Correa
+       23. Luciano Vietto
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 20.01.2016|Unknown|Unknown|Celta de Vigo|Atlético Madryt|Rubén Blanco|Sergi Gómez|Gustavo Cabral|Carles Planas|Jonny Otto|Nemanja Radoja|Pablo Hernández|Daniel Wass|Iago Aspas|Fabián Orellana|John Guidetti|Hugo Mallo|Borja Fernández|Claudio Beauvue|Miguel Ángel Moyá|Diego Godín|Stefan Savic|Filipe Luís|Jesús Gámez|Augusto Fernández|Gabi|Koke|Yannick Carrasco|Antoine Griezmann|Jackson Martínez|Thomas Partey|Ángel Correa|Luciano Vietto
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #19
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Real Betis Balompié
+📅 DATE:  sob., 02.04.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 31. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_real-betis-balompié/aufstellung/spielbericht/2594778
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       32. Nacho Monsalve
+       19. Lucas Hernández
+        3. Filipe Luís
+       20. Juanfran Torres
+       12. Augusto Fernández
+       14. Gabi
+       17. Saúl Ñíguez
+        6. Koke
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+        8. Matías Kranevitter
+       22. Thomas Partey
+       16. Ángel Correa
+
+✈️  REAL BETIS BALOMPIÉ - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Antonio Adán
+       17. Heiko Westermann
+       20. Germán Pezzella
+        3. Martín Montoya
+        2. Francisco Molinero
+       18. Alfred N'Diaye
+       10. Dani Ceballos
+       52. Fabián Ruiz
+       16. Álvaro Cejudo
+        8. Charly Musonda Jr.
+       24. Rubén Castro
+
+   🔄 SUBSTITUTES IN (3):
+       14. Xavi Torres
+        5. Foued Kadir
+       12. Leandro Damião
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 02.04.2016|LALIGA|31. Kolejka|Atlético Madryt|Real Betis Balompié|Jan Oblak|Nacho Monsalve|Lucas Hernández|Filipe Luís|Juanfran Torres|Augusto Fernández|Gabi|Saúl Ñíguez|Koke|Antoine Griezmann|Fernando Torres|Matías Kranevitter|Thomas Partey|Ángel Correa|Antonio Adán|Heiko Westermann|Germán Pezzella|Martín Montoya|Francisco Molinero|Alfred N'Diaye|Dani Ceballos|Fabián Ruiz|Álvaro Cejudo|Charly Musonda Jr.|Rubén Castro|Xavi Torres|Foued Kadir|Leandro Damião
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #20
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Getafe CF
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 14.02.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 24. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/getafe-cf_atlético-madryt/aufstellung/spielbericht/2594704
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GETAFE CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Vicente Guaita
+        5. Santiago Vergini
+        6. Juan Cala
+       11. Karim Yoda
+       19. Damián Suárez
+       22. Juan Rodríguez
+       18. Víctor Rodríguez
+       10. Pablo Sarabia
+       21. Moi Gómez
+       14. Pedro León
+        9. Álvaro Vázquez
+
+   🔄 SUBSTITUTES IN (3):
+       17. Bernard Mensah
+       30. Wanderson
+       12. Stefan Scepovic
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+       14. Gabi
+       17. Saúl Ñíguez
+        6. Koke
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+        8. Matías Kranevitter
+       10. Óliver Torres
+       16. Ángel Correa
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 14.02.2016|LALIGA|24. Kolejka|Getafe CF|Atlético Madryt|Vicente Guaita|Santiago Vergini|Juan Cala|Karim Yoda|Damián Suárez|Juan Rodríguez|Víctor Rodríguez|Pablo Sarabia|Moi Gómez|Pedro León|Álvaro Vázquez|Bernard Mensah|Wanderson|Stefan Scepovic|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Gabi|Saúl Ñíguez|Koke|Yannick Carrasco|Antoine Griezmann|Fernando Torres|Matías Kranevitter|Óliver Torres|Ángel Correa
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #21
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  FC Barcelona
+📅 DATE:  sob., 12.09.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 3. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_fc-barcelona/aufstellung/spielbericht/2594493
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+       14. Gabi
+        5. Tiago Mendes
+       10. Óliver Torres
+        6. Koke
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+       21. Yannick Carrasco
+       11. Jackson Martínez
+       23. Luciano Vietto
+
+✈️  FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc-André ter Stegen
+       23. Thomas Vermaelen
+       14. Javier Mascherano
+       18. Jordi Alba
+       20. Sergi Roberto
+        5. Sergio Busquets
+        8. Andrés Iniesta
+        4. Ivan Rakitic
+       11. Neymar
+       12. Rafinha
+        9. Luis Suárez
+
+   🔄 SUBSTITUTES IN (2):
+       24. Jérémy Mathieu
+       10. Lionel Messi
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 12.09.2015|LALIGA|3. Kolejka|Atlético Madryt|FC Barcelona|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Gabi|Tiago Mendes|Óliver Torres|Koke|Antoine Griezmann|Fernando Torres|Yannick Carrasco|Jackson Martínez|Luciano Vietto|Marc-André ter Stegen|Thomas Vermaelen|Javier Mascherano|Jordi Alba|Sergi Roberto|Sergio Busquets|Andrés Iniesta|Ivan Rakitic|Neymar|Rafinha|Luis Suárez|Jérémy Mathieu|Lionel Messi
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #22
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  sob., 27.02.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 26. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_atlético-madryt/aufstellung/spielbericht/2594725
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Keylor Navas
+        2. Raphaël Varane
+        4. Sergio Ramos
+       23. Danilo
+       15. Daniel Carvajal
+        8. Toni Kroos
+       19. Luka Modrić
+       22. Isco
+        7. Cristiano Ronaldo
+       10. James Rodríguez
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (3):
+       18. Lucas Vázquez
+       20. Jesé
+       29. Borja Mayoral
+
+✈️  ATLÉTICO MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+       12. Augusto Fernández
+       14. Gabi
+       17. Saúl Ñíguez
+        6. Koke
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (2):
+        8. Matías Kranevitter
+       16. Ángel Correa
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 27.02.2016|LALIGA|26. Kolejka|Real Madryt|Atlético Madryt|Keylor Navas|Raphaël Varane|Sergio Ramos|Danilo|Daniel Carvajal|Toni Kroos|Luka Modrić|Isco|Cristiano Ronaldo|James Rodríguez|Karim Benzema|Lucas Vázquez|Jesé|Borja Mayoral|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Augusto Fernández|Gabi|Saúl Ñíguez|Koke|Antoine Griezmann|Fernando Torres|Matías Kranevitter|Ángel Correa
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #23
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Galatasaray
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  wt., 15.09.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/galatasaray_atlético-madryt/aufstellung/spielbericht/2618539
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GALATASARAY - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Fernando Muslera
+       26. Semih Kaya
+       64. Jason Denayer
+       23. Lionel Carole
+       55. Sabri Sarıoğlu
+        8. Selçuk İnan
+       22. Hakan Balta
+       52. Emre Çolak
+       10. Wesley Sneijder
+       11. Lukas Podolski
+       17. Burak Yılmaz
+
+   🔄 SUBSTITUTES IN (3):
+       18. Sinan Gümüş
+        7. Yasin Öztekin
+        9. Umut Bulut
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        4. Guilherme Siqueira
+       20. Juanfran Torres
+       17. Saúl Ñíguez
+        5. Tiago Mendes
+        6. Koke
+        7. Antoine Griezmann
+       23. Luciano Vietto
+       11. Jackson Martínez
+
+   🔄 SUBSTITUTES IN (3):
+       10. Óliver Torres
+       14. Gabi
+        9. Fernando Torres
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 15.09.2015|Unknown|Unknown|Galatasaray|Atlético Madryt|Fernando Muslera|Semih Kaya|Jason Denayer|Lionel Carole|Sabri Sarıoğlu|Selçuk İnan|Hakan Balta|Emre Çolak|Wesley Sneijder|Lukas Podolski|Burak Yılmaz|Sinan Gümüş|Yasin Öztekin|Umut Bulut|Jan Oblak|Diego Godín|José María Giménez|Guilherme Siqueira|Juanfran Torres|Saúl Ñíguez|Tiago Mendes|Koke|Antoine Griezmann|Luciano Vietto|Jackson Martínez|Óliver Torres|Gabi|Fernando Torres
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #24
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  PSV Eindhoven
+📅 DATE:  wt., 15.03.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_psv-eindhoven/aufstellung/spielbericht/2645819
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+       14. Gabi
+       12. Augusto Fernández
+       17. Saúl Ñíguez
+        6. Koke
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+
+   🔄 SUBSTITUTES IN (3):
+       19. Lucas Hernández
+        8. Matías Kranevitter
+        9. Fernando Torres
+
+✈️  PSV EINDHOVEN - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Jeroen Zoet
+        3. Héctor Moreno
+        2. Nicolas Isimat-Mirin
+        5. Jeffrey Bruma
+       15. Jetro Willems
+        4. Santiago Arias
+       18. Andrés Guardado
+       28. Marco van Ginkel
+        6. Davy Pröpper
+        9. Luuk de Jong
+       19. Jürgen Locadia
+
+   🔄 SUBSTITUTES IN (3):
+       20. Joshua Brenet
+       16. Maxime Lestienne
+       11. Luciano Narsingh
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 15.03.2016|Unknown|Unknown|Atlético Madryt|PSV Eindhoven|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Gabi|Augusto Fernández|Saúl Ñíguez|Koke|Yannick Carrasco|Antoine Griezmann|Lucas Hernández|Matías Kranevitter|Fernando Torres|Jeroen Zoet|Héctor Moreno|Nicolas Isimat-Mirin|Jeffrey Bruma|Jetro Willems|Santiago Arias|Andrés Guardado|Marco van Ginkel|Davy Pröpper|Luuk de Jong|Jürgen Locadia|Joshua Brenet|Maxime Lestienne|Luciano Narsingh
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #25
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Deportivo de La Coruña
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  pt., 30.10.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 10. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/deportivo-de-la-coruña_atlético-madryt/aufstellung/spielbericht/2594567
+
+----------------------------------------------------------------------------------------------------
+
+🏠 DEPORTIVO DE LA CORUÑA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Germán Lux
+       12. Sidnei
+       23. Alberto Lopo
+        3. Fernando Navarro
+       15. Laure
+        5. Pedro Mosquera
+       22. Celso Borges
+       24. Jonás Gutiérrez
+       19. Fayçal Fajr
+       17. Fede Cartabia
+        7. Lucas Pérez
+
+   🔄 SUBSTITUTES IN (2):
+       11. Juanfran Moreno
+       21. Luis Alberto
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+        5. Tiago Mendes
+       14. Gabi
+       21. Yannick Carrasco
+        6. Koke
+        7. Antoine Griezmann
+       11. Jackson Martínez
+
+   🔄 SUBSTITUTES IN (3):
+       17. Saúl Ñíguez
+       16. Ángel Correa
+        9. Fernando Torres
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pt., 30.10.2015|LALIGA|10. Kolejka|Deportivo de La Coruña|Atlético Madryt|Germán Lux|Sidnei|Alberto Lopo|Fernando Navarro|Laure|Pedro Mosquera|Celso Borges|Jonás Gutiérrez|Fayçal Fajr|Fede Cartabia|Lucas Pérez|Juanfran Moreno|Luis Alberto|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Tiago Mendes|Gabi|Yannick Carrasco|Koke|Antoine Griezmann|Jackson Martínez|Saúl Ñíguez|Ángel Correa|Fernando Torres
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #26
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Villarreal CF
+📅 DATE:  niedz., 21.02.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 25. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_villarreal-cf/aufstellung/spielbericht/2594715
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       15. Stefan Savic
+        3. Filipe Luís
+       20. Juanfran Torres
+       17. Saúl Ñíguez
+       14. Gabi
+        6. Koke
+       16. Ángel Correa
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+        8. Matías Kranevitter
+       10. Óliver Torres
+       23. Luciano Vietto
+
+✈️  VILLARREAL CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Alphonse Areola
+        6. Víctor Ruiz
+       23. Daniele Bonera
+       24. Eric Bailly
+        2. Mario Gaspar
+       21. Bruno Soriano
+        4. Tomás Pina
+       22. Antonio Rukavina
+       19. Samu Castillejo
+        9. Roberto Soldado
+       17. Cédric Bakambu
+
+   🔄 SUBSTITUTES IN (3):
+       18. Denis Suárez
+       10. Léo Baptistão
+       20. Adrián López
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 21.02.2016|LALIGA|25. Kolejka|Atlético Madryt|Villarreal CF|Jan Oblak|Diego Godín|Stefan Savic|Filipe Luís|Juanfran Torres|Saúl Ñíguez|Gabi|Koke|Ángel Correa|Antoine Griezmann|Fernando Torres|Matías Kranevitter|Óliver Torres|Luciano Vietto|Alphonse Areola|Víctor Ruiz|Daniele Bonera|Eric Bailly|Mario Gaspar|Bruno Soriano|Tomás Pina|Antonio Rukavina|Samu Castillejo|Roberto Soldado|Cédric Bakambu|Denis Suárez|Léo Baptistão|Adrián López
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #27
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Valencia CF
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 06.03.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 28. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/valencia-cf_atlético-madryt/aufstellung/spielbericht/2594746
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VALENCIA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Diego Alves
+        4. Aderllan Santos
+        5. Shkodran Mustafi
+        6. Guilherme Siqueira
+        2. João Cancelo
+       18. Javi Fuego
+       15. Enzo Pérez
+       21. André Gomes
+       24. Denis Cheryshev
+        8. Sofiane Feghouli
+        9. Paco Alcácer
+
+   🔄 SUBSTITUTES IN (3):
+       12. Danilo Barbosa
+        7. Álvaro Negredo
+       17. Rodrigo
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       24. José María Giménez
+       19. Lucas Hernández
+        3. Filipe Luís
+       20. Juanfran Torres
+        8. Matías Kranevitter
+       14. Gabi
+        6. Koke
+       17. Saúl Ñíguez
+        7. Antoine Griezmann
+       23. Luciano Vietto
+
+   🔄 SUBSTITUTES IN (3):
+       10. Óliver Torres
+       21. Yannick Carrasco
+        9. Fernando Torres
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 06.03.2016|LALIGA|28. Kolejka|Valencia CF|Atlético Madryt|Diego Alves|Aderllan Santos|Shkodran Mustafi|Guilherme Siqueira|João Cancelo|Javi Fuego|Enzo Pérez|André Gomes|Denis Cheryshev|Sofiane Feghouli|Paco Alcácer|Danilo Barbosa|Álvaro Negredo|Rodrigo|Jan Oblak|José María Giménez|Lucas Hernández|Filipe Luís|Juanfran Torres|Matías Kranevitter|Gabi|Koke|Saúl Ñíguez|Antoine Griezmann|Luciano Vietto|Óliver Torres|Yannick Carrasco|Fernando Torres
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #28
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Granada CF
+📅 DATE:  niedz., 17.04.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 33. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_granada-cf/aufstellung/spielbericht/2594799
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       15. Stefan Savic
+       19. Lucas Hernández
+       20. Juanfran Torres
+       14. Gabi
+        6. Koke
+       17. Saúl Ñíguez
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+       10. Óliver Torres
+       12. Augusto Fernández
+       16. Ángel Correa
+
+✈️  GRANADA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Andrés Fernández
+        6. Jean-Sylvain Babin
+       24. Ricardo Costa
+        3. Cristiano Biraghi
+       18. Miguel Lopes
+       21. Rene Krhin
+       20. Rubén Pérez
+       16. Abdoulaye Doucouré
+       23. Rubén Rochina
+       19. Isaac Cuenca
+       27. Adalberto Peñaranda
+
+   🔄 SUBSTITUTES IN (3):
+       22. Dimitri Foulquier
+        4. Fran Rico
+       15. David Barral
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 17.04.2016|LALIGA|33. Kolejka|Atlético Madryt|Granada CF|Jan Oblak|Diego Godín|Stefan Savic|Lucas Hernández|Juanfran Torres|Gabi|Koke|Saúl Ñíguez|Yannick Carrasco|Antoine Griezmann|Fernando Torres|Óliver Torres|Augusto Fernández|Ángel Correa|Andrés Fernández|Jean-Sylvain Babin|Ricardo Costa|Cristiano Biraghi|Miguel Lopes|Rene Krhin|Rubén Pérez|Abdoulaye Doucouré|Rubén Rochina|Isaac Cuenca|Adalberto Peñaranda|Dimitri Foulquier|Fran Rico|David Barral
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #29
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  CF Reus Deportiu
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  wt., 01.12.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/cf-reus-deportiu_atlético-madryt/aufstellung/spielbericht/2633812
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CF REUS DEPORTIU - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Edgar Badia
+        4. Jesús Olmo
+        5. Dinis Almeida
+        3. Alberto Benito
+        2. Nadjack
+        6. Rafa García
+        8. Ramón Folch
+       11. Álex Colorado
+       11. Fran Carbià
+        7. David Haro
+        9. Fernando Rodríguez
+
+   🔄 SUBSTITUTES IN (3):
+       12. Ismael Moyano
+       15. Ricardo Vaz
+       16. Edgar Hernández
+
+✈️  ATLÉTICO MADRYT - 11 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Miguel Ángel Moyá
+       15. Stefan Savic
+       19. Lucas Hernández
+        4. Guilherme Siqueira
+       18. Jesús Gámez
+       22. Thomas Partey
+       17. Saúl Ñíguez
+       10. Óliver Torres
+        6. Koke
+       16. Ángel Correa
+       23. Luciano Vietto
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 01.12.2015|Unknown|Unknown|CF Reus Deportiu|Atlético Madryt|Edgar Badia|Jesús Olmo|Dinis Almeida|Alberto Benito|Nadjack|Rafa García|Ramón Folch|Álex Colorado|Fran Carbià|David Haro|Fernando Rodríguez|Ismael Moyano|Ricardo Vaz|Edgar Hernández|Miguel Ángel Moyá|Stefan Savic|Lucas Hernández|Guilherme Siqueira|Jesús Gámez|Thomas Partey|Saúl Ñíguez|Óliver Torres|Koke|Ángel Correa|Luciano Vietto
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #30
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Málaga CF
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 20.12.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 16. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/málaga-cf_atlético-madryt/aufstellung/spielbericht/2594630
+
+----------------------------------------------------------------------------------------------------
+
+🏠 MÁLAGA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Carlos Kameni
+        3. Weligton
+        2. Raúl Albentosa
+       23. Miguel Torres
+       18. Roberto Rosales
+        6. Ignacio Camacho
+       14. Recio
+        7. Juankar
+       11. Nordin Amrabat
+        9. Charles
+       20. Duje Cop
+
+   🔄 SUBSTITUTES IN (3):
+       17. Duda
+       28. Juanpi
+       24. Roque Santa Cruz
+
+✈️  ATLÉTICO MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+       14. Gabi
+       17. Saúl Ñíguez
+        6. Koke
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+       23. Luciano Vietto
+
+   🔄 SUBSTITUTES IN (2):
+       22. Thomas Partey
+        9. Fernando Torres
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 20.12.2015|LALIGA|16. Kolejka|Málaga CF|Atlético Madryt|Carlos Kameni|Weligton|Raúl Albentosa|Miguel Torres|Roberto Rosales|Ignacio Camacho|Recio|Juankar|Nordin Amrabat|Charles|Duje Cop|Duda|Juanpi|Roque Santa Cruz|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Gabi|Saúl Ñíguez|Koke|Yannick Carrasco|Antoine Griezmann|Luciano Vietto|Thomas Partey|Fernando Torres
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #31
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  śr., 20.04.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 34. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_atlético-madryt/aufstellung/spielbericht/2594809
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+       16. Xabi Etxeita
+        2. Eneko Bóveda
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       19. Iker Muniain
+       14. Markel Susaeta
+       21. Borja Viguera
+
+   🔄 SUBSTITUTES IN (3):
+       30. Iñigo Lekue
+        8. Ander Iturraspe
+       15. Iñaki Williams
+
+✈️  ATLÉTICO MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       15. Stefan Savic
+        3. Filipe Luís
+       20. Juanfran Torres
+       22. Thomas Partey
+       12. Augusto Fernández
+       17. Saúl Ñíguez
+        6. Koke
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (2):
+       19. Lucas Hernández
+       21. Yannick Carrasco
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 20.04.2016|LALIGA|34. Kolejka|Athletic Bilbao|Atlético Madryt|Gorka Iraizoz|Xabi Etxeita|Eneko Bóveda|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Iker Muniain|Markel Susaeta|Borja Viguera|Iñigo Lekue|Ander Iturraspe|Iñaki Williams|Jan Oblak|Diego Godín|Stefan Savic|Filipe Luís|Juanfran Torres|Thomas Partey|Augusto Fernández|Saúl Ñíguez|Koke|Antoine Griezmann|Fernando Torres|Lucas Hernández|Yannick Carrasco
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #32
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  FC Astana
+📅 DATE:  śr., 21.10.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_fc-astana/aufstellung/spielbericht/2618590
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       15. Stefan Savic
+        4. Guilherme Siqueira
+       20. Juanfran Torres
+        5. Tiago Mendes
+       14. Gabi
+       17. Saúl Ñíguez
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+       11. Jackson Martínez
+
+   🔄 SUBSTITUTES IN (3):
+       10. Óliver Torres
+       16. Ángel Correa
+        9. Fernando Torres
+
+✈️  FC ASTANA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Nenad Eric
+        2. Eldos Akhmetov
+       33. Branko Ilic
+       44. Evgeniy Postnikov
+       24. Denys Dedechko
+        8. Georgiy Zhukov
+       15. Abzal Beysebekov
+       10. Foxi Kethevoama
+       11. Serikzhan Muzhikov
+       89. Junior Kabananga
+        9. Aleksey Shchetkin
+
+   🔄 SUBSTITUTES IN (3):
+       28. Birzhan Kulbekov
+       12. Igor Pikalkin
+       20. Zhakyp Kozhamberdy
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 21.10.2015|Unknown|Unknown|Atlético Madryt|FC Astana|Jan Oblak|Diego Godín|Stefan Savic|Guilherme Siqueira|Juanfran Torres|Tiago Mendes|Gabi|Saúl Ñíguez|Yannick Carrasco|Antoine Griezmann|Jackson Martínez|Óliver Torres|Ángel Correa|Fernando Torres|Nenad Eric|Eldos Akhmetov|Branko Ilic|Evgeniy Postnikov|Denys Dedechko|Georgiy Zhukov|Abzal Beysebekov|Foxi Kethevoama|Serikzhan Muzhikov|Junior Kabananga|Aleksey Shchetkin|Birzhan Kulbekov|Igor Pikalkin|Zhakyp Kozhamberdy
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #33
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Sporting Gijón
+📅 DATE:  niedz., 08.11.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 11. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_sporting-gijón/aufstellung/spielbericht/2594577
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       15. Stefan Savic
+        3. Filipe Luís
+       20. Juanfran Torres
+       14. Gabi
+        5. Tiago Mendes
+        6. Koke
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+       11. Jackson Martínez
+
+   🔄 SUBSTITUTES IN (3):
+       18. Jesús Gámez
+       10. Óliver Torres
+       16. Ángel Correa
+
+✈️  SPORTING GIJÓN - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Iván Cuéllar
+        2. Luis Hernández
+        5. Bernardo Espinosa
+        3. Álex Menéndez
+       11. Alberto Lora
+       17. Omar Mascarell
+        6. Sergio Álvarez
+       25. Alen Halilovic
+       23. Jony
+       22. Pablo Pérez
+        9. Miguel Ángel Guerrero
+
+   🔄 SUBSTITUTES IN (3):
+       10. Nacho Cases
+       21. Hugo Fraile
+       16. Carlos Castro
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 08.11.2015|LALIGA|11. Kolejka|Atlético Madryt|Sporting Gijón|Jan Oblak|Diego Godín|Stefan Savic|Filipe Luís|Juanfran Torres|Gabi|Tiago Mendes|Koke|Yannick Carrasco|Antoine Griezmann|Jackson Martínez|Jesús Gámez|Óliver Torres|Ángel Correa|Iván Cuéllar|Luis Hernández|Bernardo Espinosa|Álex Menéndez|Alberto Lora|Omar Mascarell|Sergio Álvarez|Alen Halilovic|Jony|Pablo Pérez|Miguel Ángel Guerrero|Nacho Cases|Hugo Fraile|Carlos Castro
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #34
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  RCD Espanyol
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  sob., 09.04.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 32. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rcd-espanyol_atlético-madryt/aufstellung/spielbericht/2594788
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RCD ESPANYOL - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Pau López
+        6. Enzo Roco
+       22. Álvaro González
+       24. Óscar Duarte
+        3. Rubén Duarte
+       16. Javi López
+       12. Pape Diop
+        4. Víctor Sánchez
+       10. Abraham González
+       25. Marco Asensio
+        7. Gerard Moreno
+
+   🔄 SUBSTITUTES IN (3):
+        9. Burgui
+       20. Felipe Caicedo
+       28. Mamadou Sylla
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       19. Lucas Hernández
+        3. Filipe Luís
+       20. Juanfran Torres
+       12. Augusto Fernández
+        6. Koke
+       14. Gabi
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+       22. Thomas Partey
+       17. Saúl Ñíguez
+       16. Ángel Correa
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 09.04.2016|LALIGA|32. Kolejka|RCD Espanyol|Atlético Madryt|Pau López|Enzo Roco|Álvaro González|Óscar Duarte|Rubén Duarte|Javi López|Pape Diop|Víctor Sánchez|Abraham González|Marco Asensio|Gerard Moreno|Burgui|Felipe Caicedo|Mamadou Sylla|Jan Oblak|Diego Godín|Lucas Hernández|Filipe Luís|Juanfran Torres|Augusto Fernández|Koke|Gabi|Yannick Carrasco|Antoine Griezmann|Fernando Torres|Thomas Partey|Saúl Ñíguez|Ángel Correa
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #35
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  CF Reus Deportiu
+📅 DATE:  czw., 17.12.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_cf-reus-deportiu/aufstellung/spielbericht/2633843
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Miguel Ángel Moyá
+       15. Stefan Savic
+       19. Lucas Hernández
+        4. Guilherme Siqueira
+       18. Jesús Gámez
+       22. Thomas Partey
+       17. Saúl Ñíguez
+       10. Óliver Torres
+        6. Koke
+       16. Ángel Correa
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (2):
+       14. Gabi
+       21. Yannick Carrasco
+
+✈️  CF REUS DEPORTIU - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Edgar Badia
+        5. Ismael Moyano
+        4. Jesús Olmo
+        3. Ángel Martínez
+        2. Nadjack
+        6. Ramón Folch
+        8. Álex Colorado
+       11. Vítor Silva
+       10. Óscar Rico
+        7. Ricardo Vaz
+        9. Edgar Hernández
+
+   🔄 SUBSTITUTES IN (3):
+       14. Fran Carbià
+       15. David Haro
+       16. Fernando Rodríguez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 17.12.2015|Unknown|Unknown|Atlético Madryt|CF Reus Deportiu|Miguel Ángel Moyá|Stefan Savic|Lucas Hernández|Guilherme Siqueira|Jesús Gámez|Thomas Partey|Saúl Ñíguez|Óliver Torres|Koke|Ángel Correa|Fernando Torres|Gabi|Yannick Carrasco|Edgar Badia|Ismael Moyano|Jesús Olmo|Ángel Martínez|Nadjack|Ramón Folch|Álex Colorado|Vítor Silva|Óscar Rico|Ricardo Vaz|Edgar Hernández|Fran Carbià|David Haro|Fernando Rodríguez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #36
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  UD Las Palmas
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 17.01.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 20. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/ud-las-palmas_atlético-madryt/aufstellung/spielbericht/2594670
+
+----------------------------------------------------------------------------------------------------
+
+🏠 UD LAS PALMAS - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Javi Varas
+       16. Aythami Artiles
+       22. Javier Garrido
+       23. Dani Castellano
+        5. David García
+        4. Vicente Gómez
+       15. Roque Mesa
+       24. Tana
+       20. Jonathan Viera
+       25. Nabil El Zhar
+        8. Willian José
+
+   🔄 SUBSTITUTES IN (2):
+       12. Mubarak Wakaso
+       10. Sergio Araujo
+
+✈️  ATLÉTICO MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+       12. Augusto Fernández
+       14. Gabi
+        6. Koke
+       17. Saúl Ñíguez
+        7. Antoine Griezmann
+       23. Luciano Vietto
+
+   🔄 SUBSTITUTES IN (2):
+       22. Thomas Partey
+       21. Yannick Carrasco
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 17.01.2016|LALIGA|20. Kolejka|UD Las Palmas|Atlético Madryt|Javi Varas|Aythami Artiles|Javier Garrido|Dani Castellano|David García|Vicente Gómez|Roque Mesa|Tana|Jonathan Viera|Nabil El Zhar|Willian José|Mubarak Wakaso|Sergio Araujo|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Augusto Fernández|Gabi|Koke|Saúl Ñíguez|Antoine Griezmann|Luciano Vietto|Thomas Partey|Yannick Carrasco
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #37
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  PSV Eindhoven
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  śr., 24.02.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/psv-eindhoven_atlético-madryt/aufstellung/spielbericht/2645811
+
+----------------------------------------------------------------------------------------------------
+
+🏠 PSV EINDHOVEN - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Jeroen Zoet
+        3. Héctor Moreno
+        5. Jeffrey Bruma
+       15. Jetro Willems
+        4. Santiago Arias
+       18. Andrés Guardado
+        6. Davy Pröpper
+       28. Marco van Ginkel
+       19. Jürgen Locadia
+       11. Luciano Narsingh
+        7. Gastón Pereiro
+
+   🔄 SUBSTITUTES IN (3):
+        2. Nicolas Isimat-Mirin
+       29. Jorrit Hendrix
+       16. Maxime Lestienne
+
+✈️  ATLÉTICO MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       15. Stefan Savic
+        3. Filipe Luís
+       20. Juanfran Torres
+        6. Koke
+       14. Gabi
+       10. Óliver Torres
+       17. Saúl Ñíguez
+        7. Antoine Griezmann
+       23. Luciano Vietto
+
+   🔄 SUBSTITUTES IN (2):
+       16. Ángel Correa
+        9. Fernando Torres
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 24.02.2016|Unknown|Unknown|PSV Eindhoven|Atlético Madryt|Jeroen Zoet|Héctor Moreno|Jeffrey Bruma|Jetro Willems|Santiago Arias|Andrés Guardado|Davy Pröpper|Marco van Ginkel|Jürgen Locadia|Luciano Narsingh|Gastón Pereiro|Nicolas Isimat-Mirin|Jorrit Hendrix|Maxime Lestienne|Jan Oblak|Diego Godín|Stefan Savic|Filipe Luís|Juanfran Torres|Koke|Gabi|Óliver Torres|Saúl Ñíguez|Antoine Griezmann|Luciano Vietto|Ángel Correa|Fernando Torres
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #38
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Bayern Monachium
+📅 DATE:  śr., 27.04.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_bayern-monachium/aufstellung/spielbericht/2682240
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 12 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       15. Stefan Savic
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+       14. Gabi
+       12. Augusto Fernández
+       17. Saúl Ñíguez
+        6. Koke
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (1):
+       22. Thomas Partey
+
+✈️  BAYERN MONACHIUM - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Manuel Neuer
+       27. David Alaba
+        8. Javi Martínez
+       18. Juan Bernat
+       21. Philipp Lahm
+       14. Xabi Alonso
+        6. Thiago Alcántara
+       23. Arturo Vidal
+       11. Douglas Costa
+       29. Kingsley Coman
+        9. Robert Lewandowski
+
+   🔄 SUBSTITUTES IN (3):
+        5. Medhi Benatia
+        7. Franck Ribéry
+       25. Thomas Müller
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 27.04.2016|Unknown|Unknown|Atlético Madryt|Bayern Monachium|Jan Oblak|Stefan Savic|José María Giménez|Filipe Luís|Juanfran Torres|Gabi|Augusto Fernández|Saúl Ñíguez|Koke|Antoine Griezmann|Fernando Torres|Thomas Partey|Manuel Neuer|David Alaba|Javi Martínez|Juan Bernat|Philipp Lahm|Xabi Alonso|Thiago Alcántara|Arturo Vidal|Douglas Costa|Kingsley Coman|Robert Lewandowski|Medhi Benatia|Franck Ribéry|Thomas Müller
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #39
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Celta de Vigo
+📅 DATE:  śr., 27.01.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_celta-de-vigo/aufstellung/spielbericht/2656746
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Miguel Ángel Moyá
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+       14. Gabi
+       17. Saúl Ñíguez
+        6. Koke
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+       23. Luciano Vietto
+
+   🔄 SUBSTITUTES IN (2):
+       10. Óliver Torres
+       16. Ángel Correa
+
+✈️  CELTA DE VIGO - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Rubén Blanco
+       20. Sergi Gómez
+       22. Gustavo Cabral
+       19. Jonny Otto
+        2. Hugo Mallo
+        6. Nemanja Radoja
+        8. Pablo Hernández
+       18. Daniel Wass
+        9. Iago Aspas
+       14. Fabián Orellana
+       11. John Guidetti
+
+   🔄 SUBSTITUTES IN (2):
+        1. Sergio Álvarez
+       12. Claudio Beauvue
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 27.01.2016|Unknown|Unknown|Atlético Madryt|Celta de Vigo|Miguel Ángel Moyá|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Gabi|Saúl Ñíguez|Koke|Yannick Carrasco|Antoine Griezmann|Luciano Vietto|Óliver Torres|Ángel Correa|Rubén Blanco|Sergi Gómez|Gustavo Cabral|Jonny Otto|Hugo Mallo|Nemanja Radoja|Pablo Hernández|Daniel Wass|Iago Aspas|Fabián Orellana|John Guidetti|Sergio Álvarez|Claudio Beauvue
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #40
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Rayo Vallecano
+📅 DATE:  czw., 14.01.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_rayo-vallecano/aufstellung/spielbericht/2647660
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Miguel Ángel Moyá
+        2. Diego Godín
+       15. Stefan Savic
+        3. Filipe Luís
+       18. Jesús Gámez
+        8. Matías Kranevitter
+       22. Thomas Partey
+        6. Koke
+       16. Ángel Correa
+       21. Yannick Carrasco
+       11. Jackson Martínez
+
+   🔄 SUBSTITUTES IN (3):
+       10. Óliver Torres
+       14. Gabi
+        7. Antoine Griezmann
+
+✈️  RAYO VALLECANO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Juan Carlos
+       18. Zé Castro
+       27. Diego Llorente
+        3. Nacho Martínez
+       17. Quini
+        8. Raúl Baena
+       10. Roberto Trashorras
+       26. Joni Montiel
+       11. Adrián Embarba
+       19. Lass Bangoura
+       24. Javi Guerra
+
+   🔄 SUBSTITUTES IN (3):
+        5. Chechu Dorado
+       23. Bebé
+        9. Manucho
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 14.01.2016|Unknown|Unknown|Atlético Madryt|Rayo Vallecano|Miguel Ángel Moyá|Diego Godín|Stefan Savic|Filipe Luís|Jesús Gámez|Matías Kranevitter|Thomas Partey|Koke|Ángel Correa|Yannick Carrasco|Jackson Martínez|Óliver Torres|Gabi|Antoine Griezmann|Juan Carlos|Zé Castro|Diego Llorente|Nacho Martínez|Quini|Raúl Baena|Roberto Trashorras|Joni Montiel|Adrián Embarba|Lass Bangoura|Javi Guerra|Chechu Dorado|Bebé|Manucho
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #41
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Astana
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  wt., 03.11.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-astana_atlético-madryt/aufstellung/spielbericht/2618598
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC ASTANA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Nenad Eric
+        5. Marin Anicic
+       44. Evgeniy Postnikov
+       77. Dmitriy Shomko
+       33. Branko Ilic
+       88. Róger Cañas
+        6. Nemanja Maksimovic
+       22. Bauyrzhan Dzholchiev
+       10. Foxi Kethevoama
+       11. Serikzhan Muzhikov
+       89. Junior Kabananga
+
+   🔄 SUBSTITUTES IN (3):
+       15. Abzal Beysebekov
+        8. Georgiy Zhukov
+        9. Aleksey Shchetkin
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        4. Guilherme Siqueira
+       20. Juanfran Torres
+        5. Tiago Mendes
+       14. Gabi
+       17. Saúl Ñíguez
+        6. Koke
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+       10. Óliver Torres
+       21. Yannick Carrasco
+       11. Jackson Martínez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 03.11.2015|Unknown|Unknown|FC Astana|Atlético Madryt|Nenad Eric|Marin Anicic|Evgeniy Postnikov|Dmitriy Shomko|Branko Ilic|Róger Cañas|Nemanja Maksimovic|Bauyrzhan Dzholchiev|Foxi Kethevoama|Serikzhan Muzhikov|Junior Kabananga|Abzal Beysebekov|Georgiy Zhukov|Aleksey Shchetkin|Jan Oblak|Diego Godín|José María Giménez|Guilherme Siqueira|Juanfran Torres|Tiago Mendes|Gabi|Saúl Ñíguez|Koke|Antoine Griezmann|Fernando Torres|Óliver Torres|Yannick Carrasco|Jackson Martínez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #42
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Málaga CF
+📅 DATE:  sob., 23.04.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 35. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_málaga-cf/aufstellung/spielbericht/2594820
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       24. José María Giménez
+       19. Lucas Hernández
+        3. Filipe Luís
+       20. Juanfran Torres
+       17. Saúl Ñíguez
+       14. Gabi
+        6. Koke
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (2):
+       12. Augusto Fernández
+       16. Ángel Correa
+
+✈️  MÁLAGA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Guillermo Ochoa
+        3. Weligton
+        2. Raúl Albentosa
+       23. Miguel Torres
+       18. Roberto Rosales
+        6. Ignacio Camacho
+       14. Recio
+       31. Pablo Fornals
+       10. Ricardo Horta
+        9. Charles
+       20. Duje Cop
+
+   🔄 SUBSTITUTES IN (3):
+       28. Juanpi
+        5. Chory Castro
+       24. Roque Santa Cruz
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 23.04.2016|LALIGA|35. Kolejka|Atlético Madryt|Málaga CF|Jan Oblak|José María Giménez|Lucas Hernández|Filipe Luís|Juanfran Torres|Saúl Ñíguez|Gabi|Koke|Yannick Carrasco|Antoine Griezmann|Fernando Torres|Augusto Fernández|Ángel Correa|Guillermo Ochoa|Weligton|Raúl Albentosa|Miguel Torres|Roberto Rosales|Ignacio Camacho|Recio|Pablo Fornals|Ricardo Horta|Charles|Duje Cop|Juanpi|Chory Castro|Roque Santa Cruz
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #43
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Celta de Vigo
+📅 DATE:  sob., 14.05.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 38. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_celta-de-vigo/aufstellung/spielbericht/2594849
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       15. Stefan Savic
+        3. Filipe Luís
+       20. Juanfran Torres
+       12. Augusto Fernández
+       14. Gabi
+       17. Saúl Ñíguez
+        6. Koke
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (2):
+        5. Tiago Mendes
+       21. Yannick Carrasco
+
+✈️  CELTA DE VIGO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Sergio Álvarez
+       20. Sergi Gómez
+        2. Hugo Mallo
+       21. Carles Planas
+       19. Jonny Otto
+        5. Marcelo Díaz
+        8. Pablo Hernández
+       18. Daniel Wass
+       10. Nolito
+       14. Fabián Orellana
+       11. John Guidetti
+
+   🔄 SUBSTITUTES IN (3):
+        6. Nemanja Radoja
+        7. Théo Bongonda
+        9. Iago Aspas
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 14.05.2016|LALIGA|38. Kolejka|Atlético Madryt|Celta de Vigo|Jan Oblak|Diego Godín|Stefan Savic|Filipe Luís|Juanfran Torres|Augusto Fernández|Gabi|Saúl Ñíguez|Koke|Antoine Griezmann|Fernando Torres|Tiago Mendes|Yannick Carrasco|Sergio Álvarez|Sergi Gómez|Hugo Mallo|Carles Planas|Jonny Otto|Marcelo Díaz|Pablo Hernández|Daniel Wass|Nolito|Fabián Orellana|John Guidetti|Nemanja Radoja|Théo Bongonda|Iago Aspas
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #44
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Betis Balompié
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 22.11.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 12. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-betis-balompié_atlético-madryt/aufstellung/spielbericht/2594588
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL BETIS BALOMPIÉ - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Antonio Adán
+        4. Bruno González
+       17. Heiko Westermann
+       33. Fran Varela
+       12. Cristiano Piccini
+       14. Xavi Torres
+       15. Didier Digard
+       18. Alfred N'Diaye
+       16. Álvaro Cejudo
+        7. Joaquín
+       24. Rubén Castro
+
+   🔄 SUBSTITUTES IN (3):
+        1. Dani Giménez
+       10. Dani Ceballos
+       19. Jorge Molina
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       15. Stefan Savic
+        3. Filipe Luís
+       18. Jesús Gámez
+        5. Tiago Mendes
+        6. Koke
+       14. Gabi
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+       17. Saúl Ñíguez
+       10. Óliver Torres
+       23. Luciano Vietto
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 22.11.2015|LALIGA|12. Kolejka|Real Betis Balompié|Atlético Madryt|Antonio Adán|Bruno González|Heiko Westermann|Fran Varela|Cristiano Piccini|Xavi Torres|Didier Digard|Alfred N'Diaye|Álvaro Cejudo|Joaquín|Rubén Castro|Dani Giménez|Dani Ceballos|Jorge Molina|Jan Oblak|Diego Godín|Stefan Savic|Filipe Luís|Jesús Gámez|Tiago Mendes|Koke|Gabi|Yannick Carrasco|Antoine Griezmann|Fernando Torres|Saúl Ñíguez|Óliver Torres|Luciano Vietto
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #45
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Real Sociedad
+📅 DATE:  wt., 01.03.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 27. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_real-sociedad/aufstellung/spielbericht/2594736
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+       14. Gabi
+       12. Augusto Fernández
+        6. Koke
+       17. Saúl Ñíguez
+        7. Antoine Griezmann
+       23. Luciano Vietto
+
+   🔄 SUBSTITUTES IN (3):
+       19. Lucas Hernández
+       10. Óliver Torres
+       16. Ángel Correa
+
+✈️  REAL SOCIEDAD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gerónimo Rulli
+        3. Mikel González
+       24. Alberto de la Bella
+       21. Héctor Hernández
+       30. Aritz Elustondo
+       23. Diego Reyes
+        4. Asier Illarramendi
+        8. Esteban Granero
+       10. Xabi Prieto
+        7. Bruma
+       22. Jonathas
+
+   🔄 SUBSTITUTES IN (3):
+       14. Rubén Pardo
+       34. Eneko Capilla
+       11. Carlos Vela
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 01.03.2016|LALIGA|27. Kolejka|Atlético Madryt|Real Sociedad|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Gabi|Augusto Fernández|Koke|Saúl Ñíguez|Antoine Griezmann|Luciano Vietto|Lucas Hernández|Óliver Torres|Ángel Correa|Gerónimo Rulli|Mikel González|Alberto de la Bella|Héctor Hernández|Aritz Elustondo|Diego Reyes|Asier Illarramendi|Esteban Granero|Xabi Prieto|Bruma|Jonathas|Rubén Pardo|Eneko Capilla|Carlos Vela
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #46
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  FC Barcelona
+📅 DATE:  śr., 13.04.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_fc-barcelona/aufstellung/spielbericht/2675299
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       19. Lucas Hernández
+        3. Filipe Luís
+       20. Juanfran Torres
+       12. Augusto Fernández
+       14. Gabi
+       17. Saúl Ñíguez
+        6. Koke
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+
+   🔄 SUBSTITUTES IN (3):
+       15. Stefan Savic
+       22. Thomas Partey
+       16. Ángel Correa
+
+✈️  FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc-André ter Stegen
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+        6. Dani Alves
+        5. Sergio Busquets
+        8. Andrés Iniesta
+        4. Ivan Rakitic
+       11. Neymar
+       10. Lionel Messi
+        9. Luis Suárez
+
+   🔄 SUBSTITUTES IN (2):
+       20. Sergi Roberto
+        7. Arda Turan
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 13.04.2016|Unknown|Unknown|Atlético Madryt|FC Barcelona|Jan Oblak|Diego Godín|Lucas Hernández|Filipe Luís|Juanfran Torres|Augusto Fernández|Gabi|Saúl Ñíguez|Koke|Yannick Carrasco|Antoine Griezmann|Stefan Savic|Thomas Partey|Ángel Correa|Marc-André ter Stegen|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Andrés Iniesta|Ivan Rakitic|Neymar|Lionel Messi|Luis Suárez|Sergi Roberto|Arda Turan
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #47
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  sob., 30.01.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 22. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_atlético-madryt/aufstellung/spielbericht/2594683
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Claudio Bravo
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+        6. Dani Alves
+        5. Sergio Busquets
+        8. Andrés Iniesta
+        4. Ivan Rakitic
+       11. Neymar
+       10. Lionel Messi
+        9. Luis Suárez
+
+   🔄 SUBSTITUTES IN (2):
+       20. Sergi Roberto
+        7. Arda Turan
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+       12. Augusto Fernández
+       14. Gabi
+       17. Saúl Ñíguez
+        6. Koke
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+
+   🔄 SUBSTITUTES IN (3):
+       15. Stefan Savic
+       18. Jesús Gámez
+       22. Thomas Partey
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 30.01.2016|LALIGA|22. Kolejka|FC Barcelona|Atlético Madryt|Claudio Bravo|Gerard Piqué|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Andrés Iniesta|Ivan Rakitic|Neymar|Lionel Messi|Luis Suárez|Sergi Roberto|Arda Turan|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Augusto Fernández|Gabi|Saúl Ñíguez|Koke|Yannick Carrasco|Antoine Griezmann|Stefan Savic|Jesús Gámez|Thomas Partey
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #48
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Granada CF
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  sob., 05.12.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 14. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/granada-cf_atlético-madryt/aufstellung/spielbericht/2594609
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GRANADA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Andrés Fernández
+        2. David Lombán
+        6. Jean-Sylvain Babin
+        3. Cristiano Biraghi
+       22. Dimitri Foulquier
+        4. Fran Rico
+       20. Rubén Pérez
+       23. Rubén Rochina
+       27. Adalberto Peñaranda
+       11. Isaac Success
+        9. Youssef El Arabi
+
+   🔄 SUBSTITUTES IN (3):
+       10. Piti
+        7. Rober Ibáñez
+       15. Nicolás López
+
+✈️  ATLÉTICO MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+       14. Gabi
+       17. Saúl Ñíguez
+        6. Koke
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (2):
+       22. Thomas Partey
+       10. Óliver Torres
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 05.12.2015|LALIGA|14. Kolejka|Granada CF|Atlético Madryt|Andrés Fernández|David Lombán|Jean-Sylvain Babin|Cristiano Biraghi|Dimitri Foulquier|Fran Rico|Rubén Pérez|Rubén Rochina|Adalberto Peñaranda|Isaac Success|Youssef El Arabi|Piti|Rober Ibáñez|Nicolás López|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Gabi|Saúl Ñíguez|Koke|Yannick Carrasco|Antoine Griezmann|Fernando Torres|Thomas Partey|Óliver Torres
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #49
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 13.12.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 15. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_athletic-bilbao/aufstellung/spielbericht/2594619
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+       14. Gabi
+        6. Koke
+       17. Saúl Ñíguez
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+       23. Luciano Vietto
+
+   🔄 SUBSTITUTES IN (3):
+       15. Stefan Savic
+       16. Ángel Correa
+        9. Fernando Torres
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+        2. Eneko Bóveda
+        8. Ander Iturraspe
+        7. Beñat Etxebarria
+       10. Óscar de Marcos
+       22. Raúl García
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       17. Mikel Rico
+       14. Markel Susaeta
+        9. Kike Sola
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 13.12.2015|LALIGA|15. Kolejka|Atlético Madryt|Athletic Bilbao|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Gabi|Koke|Saúl Ñíguez|Yannick Carrasco|Antoine Griezmann|Luciano Vietto|Stefan Savic|Ángel Correa|Fernando Torres|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Eneko Bóveda|Ander Iturraspe|Beñat Etxebarria|Óscar de Marcos|Raúl García|Iñaki Williams|Aritz Aduriz|Mikel Rico|Markel Susaeta|Kike Sola
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #50
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Getafe CF
+📅 DATE:  wt., 22.09.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 5. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_getafe-cf/aufstellung/spielbericht/2594514
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       15. Stefan Savic
+        4. Guilherme Siqueira
+       20. Juanfran Torres
+       17. Saúl Ñíguez
+       14. Gabi
+       10. Óliver Torres
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+        5. Tiago Mendes
+       16. Ángel Correa
+       11. Jackson Martínez
+
+✈️  GETAFE CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Vicente Guaita
+        2. Alexis Ruano
+        5. Santiago Vergini
+       15. Carlos Vigaray
+       19. Damián Suárez
+       22. Juan Rodríguez
+       23. Álvaro Medrán
+       18. Víctor Rodríguez
+        7. Ángel Lafita
+       14. Pedro León
+       12. Stefan Scepovic
+
+   🔄 SUBSTITUTES IN (3):
+       17. Bernard Mensah
+       30. Wanderson
+        9. Álvaro Vázquez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 22.09.2015|LALIGA|5. Kolejka|Atlético Madryt|Getafe CF|Jan Oblak|Diego Godín|Stefan Savic|Guilherme Siqueira|Juanfran Torres|Saúl Ñíguez|Gabi|Óliver Torres|Yannick Carrasco|Antoine Griezmann|Fernando Torres|Tiago Mendes|Ángel Correa|Jackson Martínez|Vicente Guaita|Alexis Ruano|Santiago Vergini|Carlos Vigaray|Damián Suárez|Juan Rodríguez|Álvaro Medrán|Víctor Rodríguez|Ángel Lafita|Pedro León|Stefan Scepovic|Bernard Mensah|Wanderson|Álvaro Vázquez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #51
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Deportivo de La Coruña
+📅 DATE:  sob., 12.03.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 29. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_deportivo-de-la-coruña/aufstellung/spielbericht/2594757
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+        6. Koke
+       14. Gabi
+       17. Saúl Ñíguez
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+       23. Luciano Vietto
+
+   🔄 SUBSTITUTES IN (3):
+        8. Matías Kranevitter
+       10. Óliver Torres
+       16. Ángel Correa
+
+✈️  DEPORTIVO DE LA CORUÑA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Germán Lux
+       14. Alejandro Arribas
+       23. Alberto Lopo
+        2. Manuel Pablo
+       15. Laure
+        5. Pedro Mosquera
+        4. Álex Bergantiños
+       22. Celso Borges
+       19. Fayçal Fajr
+       17. Fede Cartabia
+       20. Jonathan Rodríguez
+
+   🔄 SUBSTITUTES IN (3):
+       27. Róber Pier
+       21. Luis Alberto
+        9. Oriol Riera
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 12.03.2016|LALIGA|29. Kolejka|Atlético Madryt|Deportivo de La Coruña|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Koke|Gabi|Saúl Ñíguez|Yannick Carrasco|Antoine Griezmann|Luciano Vietto|Matías Kranevitter|Óliver Torres|Ángel Correa|Germán Lux|Alejandro Arribas|Alberto Lopo|Manuel Pablo|Laure|Pedro Mosquera|Álex Bergantiños|Celso Borges|Fayçal Fajr|Fede Cartabia|Jonathan Rodríguez|Róber Pier|Luis Alberto|Oriol Riera
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #52
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  RCD Espanyol
+📅 DATE:  sob., 28.11.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 13. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_rcd-espanyol/aufstellung/spielbericht/2594598
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+       17. Saúl Ñíguez
+        5. Tiago Mendes
+       10. Óliver Torres
+        6. Koke
+        7. Antoine Griezmann
+       23. Luciano Vietto
+
+   🔄 SUBSTITUTES IN (3):
+       22. Thomas Partey
+       21. Yannick Carrasco
+        9. Fernando Torres
+
+✈️  RCD ESPANYOL - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Pau López
+        6. Enzo Roco
+       22. Álvaro González
+       18. Juan Rafael Fuentes
+       16. Javi López
+       12. Pape Diop
+       10. Abraham González
+        5. Víctor Álvarez
+       25. Marco Asensio
+       17. Hernán Pérez
+       20. Felipe Caicedo
+
+   🔄 SUBSTITUTES IN (3):
+       14. José Alberto Cañas
+        7. Gerard Moreno
+       28. Mamadou Sylla
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 28.11.2015|LALIGA|13. Kolejka|Atlético Madryt|RCD Espanyol|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Saúl Ñíguez|Tiago Mendes|Óliver Torres|Koke|Antoine Griezmann|Luciano Vietto|Thomas Partey|Yannick Carrasco|Fernando Torres|Pau López|Enzo Roco|Álvaro González|Juan Rafael Fuentes|Javi López|Pape Diop|Abraham González|Víctor Álvarez|Marco Asensio|Hernán Pérez|Felipe Caicedo|José Alberto Cañas|Gerard Moreno|Mamadou Sylla
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #53
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Real Madryt
+📅 DATE:  niedz., 04.10.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 7. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_real-madryt/aufstellung/spielbericht/2594535
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+        5. Tiago Mendes
+       14. Gabi
+       10. Óliver Torres
+        7. Antoine Griezmann
+       16. Ángel Correa
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+       21. Yannick Carrasco
+       11. Jackson Martínez
+       23. Luciano Vietto
+
+✈️  REAL MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Keylor Navas
+        2. Raphaël Varane
+        4. Sergio Ramos
+       12. Marcelo
+       15. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       19. Luka Modrić
+        7. Cristiano Ronaldo
+       22. Isco
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (3):
+       17. Álvaro Arbeloa
+       16. Mateo Kovacic
+       11. Gareth Bale
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 04.10.2015|LALIGA|7. Kolejka|Atlético Madryt|Real Madryt|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Tiago Mendes|Gabi|Óliver Torres|Antoine Griezmann|Ángel Correa|Fernando Torres|Yannick Carrasco|Jackson Martínez|Luciano Vietto|Keylor Navas|Raphaël Varane|Sergio Ramos|Marcelo|Daniel Carvajal|Casemiro|Toni Kroos|Luka Modrić|Cristiano Ronaldo|Isco|Karim Benzema|Álvaro Arbeloa|Mateo Kovacic|Gareth Bale
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #54
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Sociedad
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 18.10.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 8. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-sociedad_atlético-madryt/aufstellung/spielbericht/2594546
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL SOCIEDAD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gerónimo Rulli
+        6. Iñigo Martínez
+       23. Diego Reyes
+       24. Alberto de la Bella
+       20. Joseba Zaldua
+        4. Asier Illarramendi
+        5. Markel Bergara
+       17. David Zurutuza
+       16. Sergio Canales
+       11. Carlos Vela
+        9. Imanol Agirretxe
+
+   🔄 SUBSTITUTES IN (3):
+       14. Rubén Pardo
+        7. Bruma
+       22. Jonathas
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+        5. Tiago Mendes
+       14. Gabi
+        6. Koke
+       16. Ángel Correa
+        7. Antoine Griezmann
+       11. Jackson Martínez
+
+   🔄 SUBSTITUTES IN (3):
+       17. Saúl Ñíguez
+       21. Yannick Carrasco
+        9. Fernando Torres
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 18.10.2015|LALIGA|8. Kolejka|Real Sociedad|Atlético Madryt|Gerónimo Rulli|Iñigo Martínez|Diego Reyes|Alberto de la Bella|Joseba Zaldua|Asier Illarramendi|Markel Bergara|David Zurutuza|Sergio Canales|Carlos Vela|Imanol Agirretxe|Rubén Pardo|Bruma|Jonathas|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Tiago Mendes|Gabi|Koke|Ángel Correa|Antoine Griezmann|Jackson Martínez|Saúl Ñíguez|Yannick Carrasco|Fernando Torres
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #55
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Rayo Vallecano
+📅 DATE:  sob., 30.04.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 36. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_rayo-vallecano/aufstellung/spielbericht/2594830
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       24. José María Giménez
+       19. Lucas Hernández
+       18. Jesús Gámez
+       20. Juanfran Torres
+        8. Matías Kranevitter
+       14. Gabi
+       22. Thomas Partey
+       10. Óliver Torres
+       16. Ángel Correa
+       23. Luciano Vietto
+
+   🔄 SUBSTITUTES IN (3):
+        6. Koke
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+✈️  RAYO VALLECANO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Juan Carlos
+        4. Antonio Amaya
+       22. José Crespo
+        2. Tito
+       17. Quini
+       27. Diego Llorente
+       21. Jozabed Sánchez
+       23. Bebé
+       11. Adrián Embarba
+        7. Miku
+       24. Javi Guerra
+
+   🔄 SUBSTITUTES IN (3):
+       12. Piti
+       26. Joni Montiel
+        9. Manucho
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 30.04.2016|LALIGA|36. Kolejka|Atlético Madryt|Rayo Vallecano|Jan Oblak|José María Giménez|Lucas Hernández|Jesús Gámez|Juanfran Torres|Matías Kranevitter|Gabi|Thomas Partey|Óliver Torres|Ángel Correa|Luciano Vietto|Koke|Antoine Griezmann|Fernando Torres|Juan Carlos|Antonio Amaya|José Crespo|Tito|Quini|Diego Llorente|Jozabed Sánchez|Bebé|Adrián Embarba|Miku|Javi Guerra|Piti|Joni Montiel|Manucho
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #56
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  sob., 28.05.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_atlético-madryt/aufstellung/spielbericht/2690027
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Keylor Navas
+        3. Pepe
+        4. Sergio Ramos
+       12. Marcelo
+       15. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       19. Luka Modrić
+        7. Cristiano Ronaldo
+       11. Gareth Bale
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (3):
+       23. Danilo
+       18. Lucas Vázquez
+       22. Isco
+
+✈️  ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       15. Stefan Savic
+        3. Filipe Luís
+       20. Juanfran Torres
+       12. Augusto Fernández
+       14. Gabi
+       17. Saúl Ñíguez
+        6. Koke
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (3):
+       19. Lucas Hernández
+       22. Thomas Partey
+       21. Yannick Carrasco
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 28.05.2016|Unknown|Unknown|Real Madryt|Atlético Madryt|Keylor Navas|Pepe|Sergio Ramos|Marcelo|Daniel Carvajal|Casemiro|Toni Kroos|Luka Modrić|Cristiano Ronaldo|Gareth Bale|Karim Benzema|Danilo|Lucas Vázquez|Isco|Jan Oblak|Diego Godín|Stefan Savic|Filipe Luís|Juanfran Torres|Augusto Fernández|Gabi|Saúl Ñíguez|Koke|Antoine Griezmann|Fernando Torres|Lucas Hernández|Thomas Partey|Yannick Carrasco
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #57
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Valencia CF
+📅 DATE:  niedz., 25.10.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 9. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_valencia-cf/aufstellung/spielbericht/2594556
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+        5. Tiago Mendes
+       14. Gabi
+        6. Koke
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+       11. Jackson Martínez
+
+   🔄 SUBSTITUTES IN (3):
+       10. Óliver Torres
+       16. Ángel Correa
+        9. Fernando Torres
+
+✈️  VALENCIA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       24. Jaume Doménech
+        4. Aderllan Santos
+        5. Shkodran Mustafi
+       14. José Gayà
+        2. João Cancelo
+       12. Danilo Barbosa
+       15. Enzo Pérez
+       21. André Gomes
+       10. Dani Parejo
+       22. Santi Mina
+       17. Rodrigo
+
+   🔄 SUBSTITUTES IN (3):
+       11. Pablo Piatti
+       16. Zakaria Bakkali
+        9. Paco Alcácer
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 25.10.2015|LALIGA|9. Kolejka|Atlético Madryt|Valencia CF|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Tiago Mendes|Gabi|Koke|Yannick Carrasco|Antoine Griezmann|Jackson Martínez|Óliver Torres|Ángel Correa|Fernando Torres|Jaume Doménech|Aderllan Santos|Shkodran Mustafi|José Gayà|João Cancelo|Danilo Barbosa|Enzo Pérez|André Gomes|Dani Parejo|Santi Mina|Rodrigo|Pablo Piatti|Zakaria Bakkali|Paco Alcácer
+

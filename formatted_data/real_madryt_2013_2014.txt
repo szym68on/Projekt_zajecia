@@ -1,0 +1,184 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2367029 | wt., 17.09.2013 | Galatasaray
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Álvaro Arbeloa, Daniel Carvajal, Sami Khedira, Luka Modrić, Isco, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2452862 | śr., 23.04.2014 | Bayern Monachium
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Daniel Carvajal, Xabi Alonso, Luka Modrić, Isco, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2368441 | śr., 23.10.2013 | Juventus Turyn
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Asier Illarramendi, Sami Khedira, Luka Modrić, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2425890 | śr., 16.04.2014 | FC Barcelona
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Daniel Carvajal, Xabi Alonso, Luka Modrić, Isco, Gareth Bale, Ángel Di María, Karim Benzema
+
+MATCH: 2341129 | pon., 26.08.2013 | Granada CF
+PLAYERS: Diego López, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Luka Modrić, Isco, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2341081 | niedz., 22.09.2013 | Getafe CF
+PLAYERS: Diego López, Pepe, Nacho Fernández, Álvaro Arbeloa, Daniel Carvajal, Asier Illarramendi, Sami Khedira, Isco, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2368471 | śr., 27.11.2013 | Galatasaray
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Casemiro, Asier Illarramendi, Isco, Ángel Di María, Gareth Bale, Jesé
+
+MATCH: 2341135 | sob., 26.10.2013 | FC Barcelona
+PLAYERS: Diego López, Raphaël Varane, Pepe, Marcelo, Daniel Carvajal, Sergio Ramos, Sami Khedira, Luka Modrić, Cristiano Ronaldo, Ángel Di María, Gareth Bale
+
+MATCH: 2341225 | sob., 30.11.2013 | Real Valladolid CF
+PLAYERS: Diego López, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Xabi Alonso, Luka Modrić, Isco, Ángel Di María, Gareth Bale, Karim Benzema
+
+MATCH: 2452864 | wt., 29.04.2014 | Bayern Monachium
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Daniel Carvajal, Xabi Alonso, Luka Modrić, Ángel Di María, Gareth Bale, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2341034 | sob., 25.01.2014 | Granada CF
+PLAYERS: Diego López, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Xabi Alonso, Luka Modrić, Ángel Di María, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2423575 | wt., 11.02.2014 | Atlético Madryt
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Álvaro Arbeloa, Daniel Carvajal, Xabi Alonso, Asier Illarramendi, Luka Modrić, Cristiano Ronaldo, Gareth Bale, Isco
+
+MATCH: 2341246 | sob., 23.11.2013 | UD Almería
+PLAYERS: Diego López, Pepe, Sergio Ramos, Álvaro Arbeloa, Daniel Carvajal, Xabi Alonso, Asier Illarramendi, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2368448 | wt., 05.11.2013 | Juventus Turyn
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Sami Khedira, Luka Modrić, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2341094 | sob., 14.09.2013 | Villarreal CF
+PLAYERS: Diego López, Pepe, Sergio Ramos, Nacho Fernández, Daniel Carvajal, Asier Illarramendi, Luka Modrić, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2341059 | sob., 18.01.2014 | Real Betis Balompié
+PLAYERS: Diego López, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Xabi Alonso, Luka Modrić, Ángel Di María, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2456475 | sob., 24.05.2014 | Atlético Madryt
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Fábio Coentrão, Daniel Carvajal, Sami Khedira, Luka Modrić, Ángel Di María, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2341218 | sob., 09.11.2013 | Real Sociedad
+PLAYERS: Diego López, Raphaël Varane, Pepe, Álvaro Arbeloa, Daniel Carvajal, Xabi Alonso, Sami Khedira, Luka Modrić, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2341302 | sob., 29.03.2014 | Rayo Vallecano
+PLAYERS: Diego López, Pepe, Sergio Ramos, Fábio Coentrão, Daniel Carvajal, Xabi Alonso, Asier Illarramendi, Ángel Di María, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2341257 | niedz., 11.05.2014 | Celta de Vigo
+PLAYERS: Diego López, Sergio Ramos, Nacho Fernández, Marcelo, Álvaro Arbeloa, Xabi Alonso, Casemiro, Sami Khedira, Luka Modrić, Isco, Álvaro Morata
+
+MATCH: 2346406 | niedz., 18.08.2013 | Real Betis Balompié
+PLAYERS: Diego López, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Sami Khedira, Luka Modrić, Mesut Özil, Cristiano Ronaldo, Isco, Karim Benzema
+
+MATCH: 2341165 | sob., 28.09.2013 | Atlético Madryt
+PLAYERS: Diego López, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Asier Illarramendi, Sami Khedira, Isco, Ángel Di María, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2368478 | wt., 10.12.2013 | FC Kopenhaga
+PLAYERS: Iker Casillas, Pepe, Nacho Fernández, Marcelo, Álvaro Arbeloa, Xabi Alonso, Luka Modrić, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2385042 | śr., 26.02.2014 | FC Schalke 04
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Xabi Alonso, Luka Modrić, Ángel Di María, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2341327 | sob., 15.03.2014 | Málaga CF
+PLAYERS: Diego López, Raphaël Varane, Pepe, Marcelo, Daniel Carvajal, Xabi Alonso, Luka Modrić, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2423573 | śr., 05.02.2014 | Atlético Madryt
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Luka Modrić, Ángel Di María, Cristiano Ronaldo, Jesé, Karim Benzema
+
+MATCH: 2341189 | śr., 25.09.2013 | Elche CF
+PLAYERS: Diego López, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Sami Khedira, Luka Modrić, Isco, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2449279 | śr., 02.04.2014 | Borussia Dortmund
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Daniel Carvajal, Xabi Alonso, Luka Modrić, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2385050 | wt., 18.03.2014 | FC Schalke 04
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Fábio Coentrão, Nacho Fernández, Xabi Alonso, Asier Illarramendi, Isco, Cristiano Ronaldo, Jesé, Álvaro Morata
+
+MATCH: 2341139 | śr., 30.10.2013 | Sevilla FC
+PLAYERS: Diego López, Raphaël Varane, Sergio Ramos, Marcelo, Álvaro Arbeloa, Asier Illarramendi, Sami Khedira, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2341326 | sob., 12.04.2014 | UD Almería
+PLAYERS: Diego López, Raphaël Varane, Pepe, Fábio Coentrão, Nacho Fernández, Asier Illarramendi, Luka Modrić, Isco, Gareth Bale, Ángel Di María, Karim Benzema
+
+MATCH: 2367112 | śr., 02.10.2013 | FC Kopenhaga
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Marcelo, Daniel Carvajal, Sami Khedira, Asier Illarramendi, Luka Modrić, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2341015 | niedz., 16.02.2014 | Getafe CF
+PLAYERS: Diego López, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Luka Modrić, Ángel Di María, Jesé, Gareth Bale, Karim Benzema
+
+MATCH: 2341248 | sob., 02.11.2013 | Rayo Vallecano
+PLAYERS: Diego López, Pepe, Sergio Ramos, Fábio Coentrão, Daniel Carvajal, Xabi Alonso, Luka Modrić, Cristiano Ronaldo, Ángel Di María, Gareth Bale, Karim Benzema
+
+MATCH: 2382262 | śr., 18.12.2013 | Olímpic de Xàtiva
+PLAYERS: Iker Casillas, Pepe, Nacho Fernández, Álvaro Arbeloa, Daniel Carvajal, Casemiro, Asier Illarramendi, Isco, Jesé, Ángel Di María, Álvaro Morata
+
+MATCH: 2341198 | sob., 14.12.2013 | CA Osasuna
+PLAYERS: Diego López, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Xabi Alonso, Luka Modrić, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2341093 | niedz., 09.03.2014 | Levante UD
+PLAYERS: Diego López, Raphaël Varane, Sergio Ramos, Marcelo, Daniel Carvajal, Xabi Alonso, Luka Modrić, Ángel Di María, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2341292 | śr., 26.03.2014 | Sevilla FC
+PLAYERS: Diego López, Raphaël Varane, Pepe, Marcelo, Daniel Carvajal, Xabi Alonso, Asier Illarramendi, Luka Modrić, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2388767 | czw., 09.01.2014 | CA Osasuna
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Asier Illarramendi, Luka Modrić, Cristiano Ronaldo, Gareth Bale, Jesé, Karim Benzema
+
+MATCH: 2341054 | pon., 06.01.2014 | Celta de Vigo
+PLAYERS: Diego López, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Xabi Alonso, Luka Modrić, Isco, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2421868 | wt., 28.01.2014 | RCD Espanyol
+PLAYERS: Iker Casillas, Sergio Ramos, Nacho Fernández, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Asier Illarramendi, Ángel Di María, Cristiano Ronaldo, Jesé, Isco
+
+MATCH: 2382244 | sob., 07.12.2013 | Olímpic de Xàtiva
+PLAYERS: Iker Casillas, Sergio Ramos, Nacho Fernández, Álvaro Arbeloa, Daniel Carvajal, Casemiro, Asier Illarramendi, Isco, Jesé, Ángel Di María, Álvaro Morata
+
+MATCH: 2421860 | wt., 21.01.2014 | RCD Espanyol
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Luka Modrić, Asier Illarramendi, Ángel Di María, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2341363 | sob., 26.04.2014 | CA Osasuna
+PLAYERS: Diego López, Raphaël Varane, Sergio Ramos, Marcelo, Nacho Fernández, Asier Illarramendi, Luka Modrić, Isco, Cristiano Ronaldo, Ángel Di María, Álvaro Morata
+
+MATCH: 2341062 | niedz., 12.01.2014 | RCD Espanyol
+PLAYERS: Diego López, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Xabi Alonso, Luka Modrić, Ángel Di María, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2341174 | sob., 05.10.2013 | Levante UD
+PLAYERS: Diego López, Raphaël Varane, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Sami Khedira, Luka Modrić, Isco, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2341314 | niedz., 23.03.2014 | FC Barcelona
+PLAYERS: Diego López, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Xabi Alonso, Luka Modrić, Ángel Di María, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2341340 | niedz., 04.05.2014 | Valencia CF
+PLAYERS: Diego López, Raphaël Varane, Sergio Ramos, Marcelo, Daniel Carvajal, Xabi Alonso, Asier Illarramendi, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2341065 | niedz., 01.09.2013 | Athletic Bilbao
+PLAYERS: Diego López, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Sami Khedira, Luka Modrić, Isco, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2341007 | sob., 08.02.2014 | Villarreal CF
+PLAYERS: Diego López, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Asier Illarramendi, Luka Modrić, Ángel Di María, Jesé, Gareth Bale, Karim Benzema
+
+MATCH: 2341153 | sob., 19.10.2013 | Málaga CF
+PLAYERS: Diego López, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Asier Illarramendi, Sami Khedira, Isco, Cristiano Ronaldo, Ángel Di María, Álvaro Morata
+
+MATCH: 2341265 | sob., 17.05.2014 | RCD Espanyol
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Marcelo, Daniel Carvajal, Asier Illarramendi, Sami Khedira, Isco, Gareth Bale, Ángel Di María, Karim Benzema
+
+MATCH: 2341103 | niedz., 02.03.2014 | Atlético Madryt
+PLAYERS: Diego López, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Luka Modrić, Ángel Di María, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2341321 | sob., 05.04.2014 | Real Sociedad
+PLAYERS: Diego López, Pepe, Sergio Ramos, Nacho Fernández, Daniel Carvajal, Xabi Alonso, Asier Illarramendi, Luka Modrić, Gareth Bale, Isco, Karim Benzema
+
+MATCH: 2449283 | wt., 08.04.2014 | Borussia Dortmund
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Daniel Carvajal, Xabi Alonso, Asier Illarramendi, Luka Modrić, Gareth Bale, Ángel Di María, Karim Benzema
+
+MATCH: 2341211 | niedz., 22.12.2013 | Valencia CF
+PLAYERS: Diego López, Sergio Ramos, Nacho Fernández, Marcelo, Álvaro Arbeloa, Xabi Alonso, Luka Modrić, Isco, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2396429 | śr., 15.01.2014 | CA Osasuna
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Asier Illarramendi, Ángel Di María, Cristiano Ronaldo, Jesé, Isco
+
+MATCH: 2341125 | sob., 22.02.2014 | Elche CF
+PLAYERS: Diego López, Raphaël Varane, Pepe, Álvaro Arbeloa, Daniel Carvajal, Xabi Alonso, Asier Illarramendi, Ángel Di María, Jesé, Gareth Bale, Karim Benzema
+
+MATCH: 2341023 | niedz., 02.02.2014 | Athletic Bilbao
+PLAYERS: Diego López, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Xabi Alonso, Luka Modrić, Ángel Di María, Cristiano Ronaldo, Jesé, Karim Benzema
+
+MATCH: 2341336 | śr., 07.05.2014 | Real Valladolid CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Nacho Fernández, Xabi Alonso, Luka Modrić, Isco, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+

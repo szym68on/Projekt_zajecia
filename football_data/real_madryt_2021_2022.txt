@@ -1,0 +1,3414 @@
+====================================================================================================
+                        FOOTBALL TEAM - SEASON MATCHES REPORT
+====================================================================================================
+
+📅 Generated: 2025-11-06 21:43:42
+⚽ Total matches: 56
+👥 Total players tracked: 1719
+📊 Average players per match: 30.7
+
+🏆 Competitions breakdown:
+   • Unknown: 18 matches
+   • LALIGA: 38 matches
+
+====================================================================================================
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #01
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Sheriff Tyraspol
+✈️  AWAY:  Real Madryt
+📅 DATE:  śr., 24.11.2021
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-sheriff-tyraspol_real-madryt/aufstellung/spielbericht/3651124
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC SHERIFF TYRASPOL - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       30. Georgios Athanasiadis
+       55. Gustavo Dulanto
+        2. Danilo Arboleda
+       15. Cristiano
+       13. Fernando Costanza
+       21. Edmund Addo
+       31. Sébastien Thill
+       77. Bruno
+       22. Dimitrios Kolovos
+       10. Frank Castañeda
+        9. Adama Traoré
+
+   🔄 SUBSTITUTES IN (4):
+       16. Keston Julien
+       20. Boban Nikolov
+       98. Maxim Cojocaru
+       99. Momo Yansane
+
+✈️  REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       21. Rodrygo
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+        6. Nacho Fernández
+       12. Marcelo
+       17. Lucas Vázquez
+       27. Antonio Blanco
+       11. Marco Asensio
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 24.11.2021|Unknown|Unknown|FC Sheriff Tyraspol|Real Madryt|Georgios Athanasiadis|Gustavo Dulanto|Danilo Arboleda|Cristiano|Fernando Costanza|Edmund Addo|Sébastien Thill|Bruno|Dimitrios Kolovos|Frank Castañeda|Adama Traoré|Keston Julien|Boban Nikolov|Maxim Cojocaru|Momo Yansane|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Daniel Carvajal|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Rodrygo|Karim Benzema|Nacho Fernández|Marcelo|Lucas Vázquez|Antonio Blanco|Marco Asensio
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #02
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  RCD Espanyol
+✈️  AWAY:  Real Madryt
+📅 DATE:  niedz., 03.10.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 8. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rcd-espanyol_real-madryt/aufstellung/spielbericht/3605300
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RCD ESPANYOL - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego López
+        4. Leandro Cabrera
+       24. Sergi Gómez
+        3. Adrià Pedrosa
+       12. Óscar Gil
+       20. Keidi Bare
+       10. Sergi Darder
+       14. Óscar Melendo
+       23. Adrián Embarba
+       22. Aleix Vidal
+       11. Raúl de Tomás
+
+   🔄 SUBSTITUTES IN (5):
+       15. David López
+       17. Dídac Vilà
+        6. Manu Morlanes
+       21. Nico Melamed
+        7. Lei Wu
+
+✈️  REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        3. Éder Militão
+        6. Nacho Fernández
+        4. David Alaba
+       17. Lucas Vázquez
+        8. Toni Kroos
+       25. Eduardo Camavinga
+       15. Federico Valverde
+       10. Luka Modrić
+       20. Vinicius Junior
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+       14. Casemiro
+        7. Eden Hazard
+       21. Rodrygo
+       16. Luka Jović
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 03.10.2021|LALIGA|8. Kolejka|RCD Espanyol|Real Madryt|Diego López|Leandro Cabrera|Sergi Gómez|Adrià Pedrosa|Óscar Gil|Keidi Bare|Sergi Darder|Óscar Melendo|Adrián Embarba|Aleix Vidal|Raúl de Tomás|David López|Dídac Vilà|Manu Morlanes|Nico Melamed|Lei Wu|Thibaut Courtois|Éder Militão|Nacho Fernández|David Alaba|Lucas Vázquez|Toni Kroos|Eduardo Camavinga|Federico Valverde|Luka Modrić|Vinicius Junior|Karim Benzema|Casemiro|Eden Hazard|Rodrygo|Luka Jović
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #03
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  RCD Mallorca
+✈️  AWAY:  Real Madryt
+📅 DATE:  pon., 14.03.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 28. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rcd-mallorca_real-madryt/aufstellung/spielbericht/3610433
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RCD MALLORCA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Sergio Rico
+       21. Antonio Raíllo
+       24. Martin Valjent
+        3. Brian Oliván
+       15. Pablo Maffeo
+       10. Antonio Sánchez
+       12. Iddrisu Baba
+       17. Takefusa Kubo
+       14. Dani Rodríguez
+        7. Vedat Muriqi
+       22. Ángel Rodríguez
+
+   🔄 SUBSTITUTES IN (5):
+        6. Clément Grenier
+        8. Salva Sevilla
+       19. Kang-in Lee
+       23. Amath Ndiaye
+        9. Abdón Prats
+
+✈️  REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        6. Nacho Fernández
+       23. Ferland Mendy
+       17. Lucas Vázquez
+       14. Casemiro
+        8. Toni Kroos
+       15. Federico Valverde
+       20. Vinicius Junior
+       21. Rodrygo
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+       12. Marcelo
+        2. Daniel Carvajal
+       25. Eduardo Camavinga
+       10. Luka Modrić
+       11. Marco Asensio
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pon., 14.03.2022|LALIGA|28. Kolejka|RCD Mallorca|Real Madryt|Sergio Rico|Antonio Raíllo|Martin Valjent|Brian Oliván|Pablo Maffeo|Antonio Sánchez|Iddrisu Baba|Takefusa Kubo|Dani Rodríguez|Vedat Muriqi|Ángel Rodríguez|Clément Grenier|Salva Sevilla|Kang-in Lee|Amath Ndiaye|Abdón Prats|Thibaut Courtois|David Alaba|Nacho Fernández|Ferland Mendy|Lucas Vázquez|Casemiro|Toni Kroos|Federico Valverde|Vinicius Junior|Rodrygo|Karim Benzema|Marcelo|Daniel Carvajal|Eduardo Camavinga|Luka Modrić|Marco Asensio
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #04
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Elche CF
+✈️  AWAY:  Real Madryt
+📅 DATE:  czw., 20.01.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/elche-cf_real-madryt/aufstellung/spielbericht/3727223
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ELCHE CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Axel Werner
+        4. Diego González
+       26. John Donald
+       22. Johan Mojica
+       14. Helibelton Palacios
+        2. Gerard Gumbau
+        8. Raúl Guti
+       16. Fidel
+       17. Josan
+       12. Lucas Pérez
+        7. Guido Carrillo
+
+   🔄 SUBSTITUTES IN (4):
+        5. Gonzalo Verdú
+       10. Pere Milla
+       11. Tete Morente
+       34. Joselu Friaza
+
+✈️  REAL MADRYT - 17 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Andriy Lunin
+        4. David Alaba
+        6. Nacho Fernández
+       12. Marcelo
+       17. Lucas Vázquez
+       25. Eduardo Camavinga
+        8. Toni Kroos
+       15. Federico Valverde
+       20. Vinicius Junior
+       21. Rodrygo
+       16. Luka Jović
+
+   🔄 SUBSTITUTES IN (6):
+       23. Ferland Mendy
+       14. Casemiro
+       10. Luka Modrić
+       19. Dani Ceballos
+       22. Isco
+        7. Eden Hazard
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 20.01.2022|Unknown|Unknown|Elche CF|Real Madryt|Axel Werner|Diego González|John Donald|Johan Mojica|Helibelton Palacios|Gerard Gumbau|Raúl Guti|Fidel|Josan|Lucas Pérez|Guido Carrillo|Gonzalo Verdú|Pere Milla|Tete Morente|Joselu Friaza|Andriy Lunin|David Alaba|Nacho Fernández|Marcelo|Lucas Vázquez|Eduardo Camavinga|Toni Kroos|Federico Valverde|Vinicius Junior|Rodrygo|Luka Jović|Ferland Mendy|Casemiro|Luka Modrić|Dani Ceballos|Isco|Eden Hazard
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #05
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  RCD Espanyol
+📅 DATE:  sob., 30.04.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 34. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_rcd-espanyol/aufstellung/spielbericht/3611474
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        5. Jesús Vallejo
+       14. Casemiro
+       12. Marcelo
+       17. Lucas Vázquez
+       25. Eduardo Camavinga
+       10. Luka Modrić
+       19. Dani Ceballos
+       21. Rodrygo
+       11. Marco Asensio
+       24. Mariano Díaz
+
+   🔄 SUBSTITUTES IN (5):
+       34. Mario Gila
+        8. Toni Kroos
+       22. Isco
+       20. Vinicius Junior
+        9. Karim Benzema
+
+✈️  RCD ESPANYOL - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego López
+        5. Fernando Calero
+       24. Sergi Gómez
+        4. Leandro Cabrera
+       22. Aleix Vidal
+       10. Sergi Darder
+       25. Yangel Herrera
+       19. Tonny Vilhena
+       14. Óscar Melendo
+        9. Javi Puado
+       11. Raúl de Tomás
+
+   🔄 SUBSTITUTES IN (5):
+       15. David López
+       17. Dídac Vilà
+        8. Fran Mérida
+        6. Manu Morlanes
+        7. Lei Wu
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 30.04.2022|LALIGA|34. Kolejka|Real Madryt|RCD Espanyol|Thibaut Courtois|Jesús Vallejo|Casemiro|Marcelo|Lucas Vázquez|Eduardo Camavinga|Luka Modrić|Dani Ceballos|Rodrygo|Marco Asensio|Mariano Díaz|Mario Gila|Toni Kroos|Isco|Vinicius Junior|Karim Benzema|Diego López|Fernando Calero|Sergi Gómez|Leandro Cabrera|Aleix Vidal|Sergi Darder|Yangel Herrera|Tonny Vilhena|Óscar Melendo|Javi Puado|Raúl de Tomás|David López|Dídac Vilà|Fran Mérida|Manu Morlanes|Lei Wu
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #06
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Real Madryt
+📅 DATE:  śr., 22.12.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 21. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_real-madryt/aufstellung/spielbericht/3610270
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       26. Julen Agirrezabala
+        3. Unai Núñez
+        5. Yeray Álvarez
+       24. Mikel Balenziaga
+       18. Óscar de Marcos
+       14. Dani García
+       16. Unai Vencedor
+        8. Oihan Sancet
+       10. Iker Muniain
+       19. Oier Zarraga
+        9. Iñaki Williams
+
+   🔄 SUBSTITUTES IN (4):
+       15. Iñigo Lekue
+       22. Raúl García
+       33. Nico Serrano
+       30. Nico Williams
+
+✈️  REAL MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        3. Éder Militão
+        6. Nacho Fernández
+       23. Ferland Mendy
+       17. Lucas Vázquez
+       25. Eduardo Camavinga
+        8. Toni Kroos
+       15. Federico Valverde
+       20. Vinicius Junior
+        7. Eden Hazard
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (3):
+       44. Peter Federico
+       16. Luka Jović
+       24. Mariano Díaz
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 22.12.2021|LALIGA|21. Kolejka|Athletic Bilbao|Real Madryt|Julen Agirrezabala|Unai Núñez|Yeray Álvarez|Mikel Balenziaga|Óscar de Marcos|Dani García|Unai Vencedor|Oihan Sancet|Iker Muniain|Oier Zarraga|Iñaki Williams|Iñigo Lekue|Raúl García|Nico Serrano|Nico Williams|Thibaut Courtois|Éder Militão|Nacho Fernández|Ferland Mendy|Lucas Vázquez|Eduardo Camavinga|Toni Kroos|Federico Valverde|Vinicius Junior|Eden Hazard|Karim Benzema|Peter Federico|Luka Jović|Mariano Díaz
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #07
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Levante UD
+📅 DATE:  czw., 12.05.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 36. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_levante-ud/aufstellung/spielbericht/3611493
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        5. Jesús Vallejo
+        6. Nacho Fernández
+       23. Ferland Mendy
+       17. Lucas Vázquez
+       25. Eduardo Camavinga
+       10. Luka Modrić
+       15. Federico Valverde
+       20. Vinicius Junior
+       21. Rodrygo
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+       34. Mario Gila
+        8. Toni Kroos
+       44. Peter Federico
+       16. Luka Jović
+       24. Mariano Díaz
+
+✈️  LEVANTE UD - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       34. Dani Cárdenas
+        4. Róber Pier
+        7. Martín Cáceres
+       15. Sergio Postigo
+        2. Son
+       20. Jorge Miramón
+        5. Nemanja Radoja
+        8. Pepelu
+       22. Gonzalo Melero
+       11. José Luis Morales
+       21. Dani Gómez
+
+   🔄 SUBSTITUTES IN (5):
+       14. Rúben Vezo
+       24. José Campaña
+       10. Enis Bardhi
+       29. Álex Cantero
+        9. Roger Martí
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 12.05.2022|LALIGA|36. Kolejka|Real Madryt|Levante UD|Thibaut Courtois|Jesús Vallejo|Nacho Fernández|Ferland Mendy|Lucas Vázquez|Eduardo Camavinga|Luka Modrić|Federico Valverde|Vinicius Junior|Rodrygo|Karim Benzema|Mario Gila|Toni Kroos|Peter Federico|Luka Jović|Mariano Díaz|Dani Cárdenas|Róber Pier|Martín Cáceres|Sergio Postigo|Son|Jorge Miramón|Nemanja Radoja|Pepelu|Gonzalo Melero|José Luis Morales|Dani Gómez|Rúben Vezo|José Campaña|Enis Bardhi|Álex Cantero|Roger Martí
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #08
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 25.09.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 7. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_villarreal-cf/aufstellung/spielbericht/3605281
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+        6. Nacho Fernández
+       15. Federico Valverde
+       14. Casemiro
+       10. Luka Modrić
+       11. Marco Asensio
+       20. Vinicius Junior
+       21. Rodrygo
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (3):
+       25. Eduardo Camavinga
+       22. Isco
+        7. Eden Hazard
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Gerónimo Rulli
+        4. Pau Torres
+        3. Raúl Albiol
+       18. Alberto Moreno
+        8. Juan Foyth
+        6. Étienne Capoue
+       19. Francis Coquelin
+        5. Dani Parejo
+       15. Arnaut Danjuma
+       21. Yéremy Pino
+        9. Paco Alcácer
+
+   🔄 SUBSTITUTES IN (5):
+        2. Mario Gaspar
+       20. Rubén Peña
+       14. Manu Trigueros
+       23. Moi Gómez
+       16. Boulaye Dia
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 25.09.2021|LALIGA|7. Kolejka|Real Madryt|Villarreal CF|Thibaut Courtois|David Alaba|Éder Militão|Nacho Fernández|Federico Valverde|Casemiro|Luka Modrić|Marco Asensio|Vinicius Junior|Rodrygo|Karim Benzema|Eduardo Camavinga|Isco|Eden Hazard|Gerónimo Rulli|Pau Torres|Raúl Albiol|Alberto Moreno|Juan Foyth|Étienne Capoue|Francis Coquelin|Dani Parejo|Arnaut Danjuma|Yéremy Pino|Paco Alcácer|Mario Gaspar|Rubén Peña|Manu Trigueros|Moi Gómez|Boulaye Dia
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #09
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Sociedad
+✈️  AWAY:  Real Madryt
+📅 DATE:  sob., 04.12.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 16. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-sociedad_real-madryt/aufstellung/spielbericht/3607577
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL SOCIEDAD - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Álex Remiro
+        5. Igor Zubeldia
+       24. Robin Le Normand
+       15. Diego Rico
+       18. Andoni Gorosabel
+        3. Martín Zubimendi
+       16. Ander Guevara
+       10. Mikel Oyarzabal
+       11. Adnan Januzaj
+       23. Alexander Sørloth
+       19. Alexander Isak
+
+   🔄 SUBSTITUTES IN (5):
+       12. Aihen Muñoz
+        2. Joseba Zaldua
+       27. Beñat Turrientes
+       22. Ander Barrenetxea
+        7. Portu
+
+✈️  REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       21. Rodrygo
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+       25. Eduardo Camavinga
+       15. Federico Valverde
+       11. Marco Asensio
+       16. Luka Jović
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 04.12.2021|LALIGA|16. Kolejka|Real Sociedad|Real Madryt|Álex Remiro|Igor Zubeldia|Robin Le Normand|Diego Rico|Andoni Gorosabel|Martín Zubimendi|Ander Guevara|Mikel Oyarzabal|Adnan Januzaj|Alexander Sørloth|Alexander Isak|Aihen Muñoz|Joseba Zaldua|Beñat Turrientes|Ander Barrenetxea|Portu|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Daniel Carvajal|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Rodrygo|Karim Benzema|Eduardo Camavinga|Federico Valverde|Marco Asensio|Luka Jović
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #10
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Szachtar Donieck
+✈️  AWAY:  Real Madryt
+📅 DATE:  wt., 19.10.2021
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/szachtar-donieck_real-madryt/aufstellung/spielbericht/3651083
+
+----------------------------------------------------------------------------------------------------
+
+🏠 SZACHTAR DONIECK - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       81. Anatoliy Trubin
+        4. Sergiy Kryvtsov
+        5. Marlon
+       31. Ismaily
+        2. Dodô
+        7. Maycon
+       21. Alan Patrick
+       38. Pedrinho
+       19. Manor Solomon
+       14. Tetê
+       99. Fernando
+
+   🔄 SUBSTITUTES IN (5):
+       44. Viktor Korniyenko
+        6. Taras Stepanenko
+        8. Marcos Antônio
+       20. Mykhaylo Mudryk
+       11. Marlos
+
+✈️  REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+       17. Lucas Vázquez
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       21. Rodrygo
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+        5. Jesús Vallejo
+       12. Marcelo
+       25. Eduardo Camavinga
+       15. Federico Valverde
+       11. Marco Asensio
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 19.10.2021|Unknown|Unknown|Szachtar Donieck|Real Madryt|Anatoliy Trubin|Sergiy Kryvtsov|Marlon|Ismaily|Dodô|Maycon|Alan Patrick|Pedrinho|Manor Solomon|Tetê|Fernando|Viktor Korniyenko|Taras Stepanenko|Marcos Antônio|Mykhaylo Mudryk|Marlos|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Lucas Vázquez|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Rodrygo|Karim Benzema|Jesús Vallejo|Marcelo|Eduardo Camavinga|Federico Valverde|Marco Asensio
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #11
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  śr., 01.12.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 9. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_athletic-bilbao/aufstellung/spielbericht/3605310
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+       17. Lucas Vázquez
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       11. Marco Asensio
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+        6. Nacho Fernández
+       25. Eduardo Camavinga
+       15. Federico Valverde
+       21. Rodrygo
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Unai Núñez
+        5. Yeray Álvarez
+       24. Mikel Balenziaga
+       15. Iñigo Lekue
+       14. Dani García
+       16. Unai Vencedor
+       19. Oier Zarraga
+       10. Iker Muniain
+       22. Raúl García
+        9. Iñaki Williams
+
+   🔄 SUBSTITUTES IN (5):
+       18. Óscar de Marcos
+        6. Mikel Vesga
+        8. Oihan Sancet
+        7. Álex Berenguer
+       30. Nico Williams
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 01.12.2021|LALIGA|9. Kolejka|Real Madryt|Athletic Bilbao|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Lucas Vázquez|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Marco Asensio|Karim Benzema|Nacho Fernández|Eduardo Camavinga|Federico Valverde|Rodrygo|Unai Simón|Unai Núñez|Yeray Álvarez|Mikel Balenziaga|Iñigo Lekue|Dani García|Unai Vencedor|Oier Zarraga|Iker Muniain|Raúl García|Iñaki Williams|Óscar de Marcos|Mikel Vesga|Oihan Sancet|Álex Berenguer|Nico Williams
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #12
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Betis Balompié
+✈️  AWAY:  Real Madryt
+📅 DATE:  sob., 28.08.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 3. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-betis-balompié_real-madryt/aufstellung/spielbericht/3605060
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL BETIS BALOMPIÉ - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Rui Silva
+        6. Víctor Ruiz
+       16. Germán Pezzella
+       33. Juan Miranda
+        2. Martín Montoya
+       21. Guido Rodríguez
+       18. Andrés Guardado
+        8. Nabil Fekir
+       10. Sergio Canales
+       24. Aitor Ruibal
+        7. Juanmi
+
+   🔄 SUBSTITUTES IN (4):
+       22. Víctor Camarasa
+       11. Cristian Tello
+       17. Joaquín
+        9. Borja Iglesias
+
+✈️  REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       35. Miguel Gutiérrez
+        2. Daniel Carvajal
+       14. Casemiro
+       15. Federico Valverde
+       22. Isco
+       20. Vinicius Junior
+       18. Gareth Bale
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+       17. Lucas Vázquez
+       11. Marco Asensio
+        7. Eden Hazard
+       21. Rodrygo
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 28.08.2021|LALIGA|3. Kolejka|Real Betis Balompié|Real Madryt|Rui Silva|Víctor Ruiz|Germán Pezzella|Juan Miranda|Martín Montoya|Guido Rodríguez|Andrés Guardado|Nabil Fekir|Sergio Canales|Aitor Ruibal|Juanmi|Víctor Camarasa|Cristian Tello|Joaquín|Borja Iglesias|Thibaut Courtois|David Alaba|Éder Militão|Miguel Gutiérrez|Daniel Carvajal|Casemiro|Federico Valverde|Isco|Vinicius Junior|Gareth Bale|Karim Benzema|Lucas Vázquez|Marco Asensio|Eden Hazard|Rodrygo
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #13
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Paris Saint-Germain
+✈️  AWAY:  Real Madryt
+📅 DATE:  wt., 15.02.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-paris-saint-germain_real-madryt/aufstellung/spielbericht/3714221
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC PARIS SAINT-GERMAIN - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       50. Gianluigi Donnarumma
+        3. Presnel Kimpembe
+        5. Marquinhos
+       25. Nuno Mendes
+        2. Achraf Hakimi
+        8. Leandro Paredes
+       15. Danilo Pereira
+        6. Marco Verratti
+        7. Kylian Mbappé
+       11. Ángel Di María
+       30. Lionel Messi
+
+   🔄 SUBSTITUTES IN (2):
+       27. Idrissa Gueye
+       10. Neymar
+
+✈️  REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       11. Marco Asensio
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+       17. Lucas Vázquez
+       15. Federico Valverde
+        7. Eden Hazard
+       18. Gareth Bale
+       21. Rodrygo
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 15.02.2022|Unknown|Unknown|FC Paris Saint-Germain|Real Madryt|Gianluigi Donnarumma|Presnel Kimpembe|Marquinhos|Nuno Mendes|Achraf Hakimi|Leandro Paredes|Danilo Pereira|Marco Verratti|Kylian Mbappé|Ángel Di María|Lionel Messi|Idrissa Gueye|Neymar|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Daniel Carvajal|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Marco Asensio|Karim Benzema|Lucas Vázquez|Federico Valverde|Eden Hazard|Gareth Bale|Rodrygo
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #14
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Levante UD
+✈️  AWAY:  Real Madryt
+📅 DATE:  niedz., 22.08.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 2. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/levante-ud_real-madryt/aufstellung/spielbericht/3605055
+
+----------------------------------------------------------------------------------------------------
+
+🏠 LEVANTE UD - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Aitor Fernández
+        4. Róber Pier
+       14. Rúben Vezo
+       19. Carlos Clerc
+       20. Jorge Miramón
+        5. Nemanja Radoja
+       22. Gonzalo Melero
+       24. José Campaña
+       11. José Luis Morales
+       18. Jorge de Frutos
+        9. Roger Martí
+
+   🔄 SUBSTITUTES IN (5):
+        3. Enric Franquesa
+       12. Mickaël Malsa
+       25. Pablo Martínez
+       10. Enis Bardhi
+       29. Álex Cantero
+
+✈️  REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        3. Éder Militão
+        6. Nacho Fernández
+        4. David Alaba
+       17. Lucas Vázquez
+       14. Casemiro
+       15. Federico Valverde
+       22. Isco
+        7. Eden Hazard
+       18. Gareth Bale
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+        2. Daniel Carvajal
+       11. Marco Asensio
+       20. Vinicius Junior
+       21. Rodrygo
+       16. Luka Jović
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 22.08.2021|LALIGA|2. Kolejka|Levante UD|Real Madryt|Aitor Fernández|Róber Pier|Rúben Vezo|Carlos Clerc|Jorge Miramón|Nemanja Radoja|Gonzalo Melero|José Campaña|José Luis Morales|Jorge de Frutos|Roger Martí|Enric Franquesa|Mickaël Malsa|Pablo Martínez|Enis Bardhi|Álex Cantero|Thibaut Courtois|Éder Militão|Nacho Fernández|David Alaba|Lucas Vázquez|Casemiro|Federico Valverde|Isco|Eden Hazard|Gareth Bale|Karim Benzema|Daniel Carvajal|Marco Asensio|Vinicius Junior|Rodrygo|Luka Jović
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #15
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Real Madryt
+📅 DATE:  niedz., 16.01.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_real-madryt/aufstellung/spielbericht/3730819
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        4. Iñigo Martínez
+        5. Yeray Álvarez
+       24. Mikel Balenziaga
+       18. Óscar de Marcos
+       14. Dani García
+       19. Oier Zarraga
+        8. Oihan Sancet
+       10. Iker Muniain
+        7. Álex Berenguer
+        9. Iñaki Williams
+
+   🔄 SUBSTITUTES IN (5):
+       17. Yuri Berchiche
+        6. Mikel Vesga
+       22. Raúl García
+       33. Nico Serrano
+       30. Nico Williams
+
+✈️  REAL MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+       17. Lucas Vázquez
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       21. Rodrygo
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (3):
+        6. Nacho Fernández
+       12. Marcelo
+       15. Federico Valverde
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 16.01.2022|Unknown|Unknown|Athletic Bilbao|Real Madryt|Unai Simón|Iñigo Martínez|Yeray Álvarez|Mikel Balenziaga|Óscar de Marcos|Dani García|Oier Zarraga|Oihan Sancet|Iker Muniain|Álex Berenguer|Iñaki Williams|Yuri Berchiche|Mikel Vesga|Raúl García|Nico Serrano|Nico Williams|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Lucas Vázquez|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Rodrygo|Karim Benzema|Nacho Fernández|Marcelo|Federico Valverde
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #16
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  RCD Mallorca
+📅 DATE:  śr., 22.09.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 6. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_rcd-mallorca/aufstellung/spielbericht/3605221
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       35. Miguel Gutiérrez
+        6. Nacho Fernández
+       25. Eduardo Camavinga
+       15. Federico Valverde
+       11. Marco Asensio
+       20. Vinicius Junior
+       21. Rodrygo
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+       17. Lucas Vázquez
+       43. Sergio Santos
+       27. Antonio Blanco
+       22. Isco
+       16. Luka Jović
+
+✈️  RCD MALLORCA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Manolo Reina
+       24. Martin Valjent
+       29. Josep Gayá
+        3. Brian Oliván
+        2. Joan Sastre
+       16. Rodrigo Battaglia
+        6. Aleix Febas
+       19. Kang-in Lee
+       11. Lago Júnior
+       17. Takefusa Kubo
+       25. Matthew Hoppe
+
+   🔄 SUBSTITUTES IN (5):
+       18. Jaume Costa
+       10. Antonio Sánchez
+       12. Iddrisu Baba
+        7. Jordi Mboula
+        9. Abdón Prats
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 22.09.2021|LALIGA|6. Kolejka|Real Madryt|RCD Mallorca|Thibaut Courtois|David Alaba|Éder Militão|Miguel Gutiérrez|Nacho Fernández|Eduardo Camavinga|Federico Valverde|Marco Asensio|Vinicius Junior|Rodrygo|Karim Benzema|Lucas Vázquez|Sergio Santos|Antonio Blanco|Isco|Luka Jović|Manolo Reina|Martin Valjent|Josep Gayá|Brian Oliván|Joan Sastre|Rodrigo Battaglia|Aleix Febas|Kang-in Lee|Lago Júnior|Takefusa Kubo|Matthew Hoppe|Jaume Costa|Antonio Sánchez|Iddrisu Baba|Jordi Mboula|Abdón Prats
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #17
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Elche CF
+📅 DATE:  niedz., 23.01.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 22. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_elche-cf/aufstellung/spielbericht/3610295
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+       17. Lucas Vázquez
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+        7. Eden Hazard
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+       15. Federico Valverde
+       22. Isco
+       21. Rodrygo
+       16. Luka Jović
+
+✈️  ELCHE CF - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Edgar Badia
+        4. Diego González
+        5. Gonzalo Verdú
+       22. Johan Mojica
+       14. Helibelton Palacios
+        2. Gerard Gumbau
+        8. Raúl Guti
+       10. Pere Milla
+       11. Tete Morente
+       12. Lucas Pérez
+        9. Lucas Boyé
+
+   🔄 SUBSTITUTES IN (2):
+       16. Fidel
+       17. Josan
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 23.01.2022|LALIGA|22. Kolejka|Real Madryt|Elche CF|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Lucas Vázquez|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Eden Hazard|Karim Benzema|Federico Valverde|Isco|Rodrygo|Luka Jović|Edgar Badia|Diego González|Gonzalo Verdú|Johan Mojica|Helibelton Palacios|Gerard Gumbau|Raúl Guti|Pere Milla|Tete Morente|Lucas Pérez|Lucas Boyé|Fidel|Josan
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #18
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Granada CF
+📅 DATE:  niedz., 06.02.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 23. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_granada-cf/aufstellung/spielbericht/3610327
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       12. Marcelo
+        2. Daniel Carvajal
+       25. Eduardo Camavinga
+        8. Toni Kroos
+       10. Luka Modrić
+       21. Rodrygo
+       11. Marco Asensio
+       22. Isco
+
+   🔄 SUBSTITUTES IN (5):
+        6. Nacho Fernández
+       15. Federico Valverde
+       19. Dani Ceballos
+        7. Eden Hazard
+       16. Luka Jović
+
+✈️  GRANADA CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luís Maximiano
+       28. Raúl Torrente
+        6. Germán Sánchez
+       15. Carlos Neva
+       17. Quini
+        4. Maxime Gonalons
+        5. Luis Milla
+       24. Myrto Uzuni
+       10. Antonio Puertas
+       35. Álex Collado
+        9. Luis Suárez
+
+   🔄 SUBSTITUTES IN (5):
+       18. Njegos Petrovic
+       21. Rubén Rochina
+       12. Dani Raba
+       14. Matías Arezo
+       23. Jorge Molina
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 06.02.2022|LALIGA|23. Kolejka|Real Madryt|Granada CF|Thibaut Courtois|David Alaba|Éder Militão|Marcelo|Daniel Carvajal|Eduardo Camavinga|Toni Kroos|Luka Modrić|Rodrygo|Marco Asensio|Isco|Nacho Fernández|Federico Valverde|Dani Ceballos|Eden Hazard|Luka Jović|Luís Maximiano|Raúl Torrente|Germán Sánchez|Carlos Neva|Quini|Maxime Gonalons|Luis Milla|Myrto Uzuni|Antonio Puertas|Álex Collado|Luis Suárez|Njegos Petrovic|Rubén Rochina|Dani Raba|Matías Arezo|Jorge Molina
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #19
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Getafe CF
+✈️  AWAY:  Real Madryt
+📅 DATE:  niedz., 02.01.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 19. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/getafe-cf_real-madryt/aufstellung/spielbericht/3607613
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GETAFE CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. David Soria
+       15. Jorge Cuenca
+        3. Erick Cabaco
+       23. Stefan Mitrovic
+       17. Mathías Olivera
+       22. Damián Suárez
+       18. Mauro Arambarri
+       20. Nemanja Maksimovic
+       11. Carles Aleñá
+       10. Enes Ünal
+       12. Sandro Ramírez
+
+   🔄 SUBSTITUTES IN (4):
+        4. Allan Nyom
+        5. Florentino
+       16. Jakub Jankto
+        7. Jaime Mata
+
+✈️  REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+       17. Lucas Vázquez
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       21. Rodrygo
+       11. Marco Asensio
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+       12. Marcelo
+       22. Isco
+        7. Eden Hazard
+       44. Peter Federico
+       24. Mariano Díaz
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 02.01.2022|LALIGA|19. Kolejka|Getafe CF|Real Madryt|David Soria|Jorge Cuenca|Erick Cabaco|Stefan Mitrovic|Mathías Olivera|Damián Suárez|Mauro Arambarri|Nemanja Maksimovic|Carles Aleñá|Enes Ünal|Sandro Ramírez|Allan Nyom|Florentino|Jakub Jankto|Jaime Mata|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Lucas Vázquez|Casemiro|Toni Kroos|Luka Modrić|Rodrygo|Marco Asensio|Karim Benzema|Marcelo|Isco|Eden Hazard|Peter Federico|Mariano Díaz
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #20
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Cádiz CF
+✈️  AWAY:  Real Madryt
+📅 DATE:  niedz., 15.05.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 37. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/cádiz-cf_real-madryt/aufstellung/spielbericht/3611505
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CÁDIZ CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Conan Ledesma
+        3. Fali
+       23. Luis Hernández
+       22. Alfonso Espino
+       15. Carlos Akapo
+        4. Rubén Alcaraz
+        8. Álex Fernández
+       11. Oussama Idrissi
+       21. Rubén Sobrino
+       18. Álvaro Negredo
+       25. Lucas Pérez
+
+   🔄 SUBSTITUTES IN (3):
+       20. Iza Carcelén
+        6. José Mari
+        9. Choco Lozano
+
+✈️  REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Andriy Lunin
+        3. Éder Militão
+        6. Nacho Fernández
+       17. Lucas Vázquez
+        5. Jesús Vallejo
+       14. Casemiro
+        8. Toni Kroos
+       15. Federico Valverde
+       21. Rodrygo
+       11. Marco Asensio
+       24. Mariano Díaz
+
+   🔄 SUBSTITUTES IN (4):
+        2. Daniel Carvajal
+       19. Dani Ceballos
+        7. Eden Hazard
+       29. Juanmi Latasa
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 15.05.2022|LALIGA|37. Kolejka|Cádiz CF|Real Madryt|Conan Ledesma|Fali|Luis Hernández|Alfonso Espino|Carlos Akapo|Rubén Alcaraz|Álex Fernández|Oussama Idrissi|Rubén Sobrino|Álvaro Negredo|Lucas Pérez|Iza Carcelén|José Mari|Choco Lozano|Andriy Lunin|Éder Militão|Nacho Fernández|Lucas Vázquez|Jesús Vallejo|Casemiro|Toni Kroos|Federico Valverde|Rodrygo|Marco Asensio|Mariano Díaz|Daniel Carvajal|Dani Ceballos|Eden Hazard|Juanmi Latasa
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #21
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Manchester City
+✈️  AWAY:  Real Madryt
+📅 DATE:  wt., 26.04.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/manchester-city_real-madryt/aufstellung/spielbericht/3796966
+
+----------------------------------------------------------------------------------------------------
+
+🏠 MANCHESTER CITY - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       31. Ederson
+       14. Aymeric Laporte
+        3. Rúben Dias
+       11. Oleksandr Zinchenko
+        5. John Stones
+       16. Rodri
+       20. Bernardo Silva
+       17. Kevin De Bruyne
+       47. Phil Foden
+       26. Riyad Mahrez
+        9. Gabriel Jesus
+
+   🔄 SUBSTITUTES IN (2):
+       25. Fernandinho
+        7. Raheem Sterling
+
+✈️  REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+        2. Daniel Carvajal
+        8. Toni Kroos
+       10. Luka Modrić
+       15. Federico Valverde
+       20. Vinicius Junior
+       21. Rodrygo
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+        6. Nacho Fernández
+       25. Eduardo Camavinga
+       19. Dani Ceballos
+       11. Marco Asensio
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 26.04.2022|Unknown|Unknown|Manchester City|Real Madryt|Ederson|Aymeric Laporte|Rúben Dias|Oleksandr Zinchenko|John Stones|Rodri|Bernardo Silva|Kevin De Bruyne|Phil Foden|Riyad Mahrez|Gabriel Jesus|Fernandinho|Raheem Sterling|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Daniel Carvajal|Toni Kroos|Luka Modrić|Federico Valverde|Vinicius Junior|Rodrygo|Karim Benzema|Nacho Fernández|Eduardo Camavinga|Dani Ceballos|Marco Asensio
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #22
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Inter Mediolan
+📅 DATE:  wt., 07.12.2021
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_inter-mediolan/aufstellung/spielbericht/3651131
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       21. Rodrygo
+       16. Luka Jović
+
+   🔄 SUBSTITUTES IN (5):
+       25. Eduardo Camavinga
+       15. Federico Valverde
+       11. Marco Asensio
+        7. Eden Hazard
+       24. Mariano Díaz
+
+✈️  INTER MEDIOLAN - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Samir Handanovič
+       95. Alessandro Bastoni
+       33. Danilo D'Ambrosio
+       37. Milan Škriniar
+       77. Marcelo Brozović
+       20. Hakan Çalhanoğlu
+       23. Nicolò Barella
+        2. Denzel Dumfries
+       14. Ivan Perišić
+        9. Edin Džeko
+       10. Lautaro Martínez
+
+   🔄 SUBSTITUTES IN (5):
+       32. Federico Dimarco
+        5. Roberto Gagliardini
+        8. Matías Vecino
+       22. Arturo Vidal
+        7. Alexis Sánchez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 07.12.2021|Unknown|Unknown|Real Madryt|Inter Mediolan|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Daniel Carvajal|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Rodrygo|Luka Jović|Eduardo Camavinga|Federico Valverde|Marco Asensio|Eden Hazard|Mariano Díaz|Samir Handanovič|Alessandro Bastoni|Danilo D'Ambrosio|Milan Škriniar|Marcelo Brozović|Hakan Çalhanoğlu|Nicolò Barella|Denzel Dumfries|Ivan Perišić|Edin Džeko|Lautaro Martínez|Federico Dimarco|Roberto Gagliardini|Matías Vecino|Arturo Vidal|Alexis Sánchez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #23
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Elche CF
+✈️  AWAY:  Real Madryt
+📅 DATE:  sob., 30.10.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 12. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/elche-cf_real-madryt/aufstellung/spielbericht/3607540
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ELCHE CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Kiko Casilla
+        6. Pedro Bigas
+        3. Enzo Roco
+       22. Johan Mojica
+       14. Helibelton Palacios
+       21. Omar Mascarell
+        8. Raúl Guti
+       15. Javier Pastore
+       16. Fidel
+       12. Lucas Pérez
+        9. Lucas Boyé
+
+   🔄 SUBSTITUTES IN (5):
+        2. Gerard Gumbau
+       23. Iván Marcone
+       10. Pere Milla
+       11. Tete Morente
+       18. Darío Benedetto
+
+✈️  REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       12. Marcelo
+       17. Lucas Vázquez
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       21. Rodrygo
+       24. Mariano Díaz
+
+   🔄 SUBSTITUTES IN (5):
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       25. Eduardo Camavinga
+       11. Marco Asensio
+        7. Eden Hazard
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 30.10.2021|LALIGA|12. Kolejka|Elche CF|Real Madryt|Kiko Casilla|Pedro Bigas|Enzo Roco|Johan Mojica|Helibelton Palacios|Omar Mascarell|Raúl Guti|Javier Pastore|Fidel|Lucas Pérez|Lucas Boyé|Gerard Gumbau|Iván Marcone|Pere Milla|Tete Morente|Darío Benedetto|Thibaut Courtois|David Alaba|Éder Militão|Marcelo|Lucas Vázquez|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Rodrygo|Mariano Díaz|Ferland Mendy|Daniel Carvajal|Eduardo Camavinga|Marco Asensio|Eden Hazard
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #24
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Real Madryt
+📅 DATE:  niedz., 24.10.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 10. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_real-madryt/aufstellung/spielbericht/3605324
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc-André ter Stegen
+        3. Gerard Piqué
+       24. Eric García
+       18. Jordi Alba
+       22. Óscar Mingueza
+        5. Sergio Busquets
+       21. Frenkie de Jong
+       30. Gavi
+        9. Memphis Depay
+        2. Sergiño Dest
+       10. Ansu Fati
+
+   🔄 SUBSTITUTES IN (4):
+       20. Sergi Roberto
+       14. Philippe Coutinho
+       17. Luuk de Jong
+       19. Sergio Agüero
+
+✈️  REAL MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+       17. Lucas Vázquez
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       21. Rodrygo
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (3):
+        2. Daniel Carvajal
+       15. Federico Valverde
+       11. Marco Asensio
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 24.10.2021|LALIGA|10. Kolejka|FC Barcelona|Real Madryt|Marc-André ter Stegen|Gerard Piqué|Eric García|Jordi Alba|Óscar Mingueza|Sergio Busquets|Frenkie de Jong|Gavi|Memphis Depay|Sergiño Dest|Ansu Fati|Sergi Roberto|Philippe Coutinho|Luuk de Jong|Sergio Agüero|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Lucas Vázquez|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Rodrygo|Karim Benzema|Daniel Carvajal|Federico Valverde|Marco Asensio
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #25
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Real Madryt
+📅 DATE:  niedz., 08.05.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 35. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_real-madryt/aufstellung/spielbericht/3611480
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. José María Giménez
+       15. Stefan Savic
+       23. Reinildo Mandava
+       24. Sime Vrsaljko
+        4. Geoffrey Kondogbia
+        6. Koke
+       14. Marcos Llorente
+       21. Yannick Carrasco
+       10. Ángel Correa
+       19. Matheus Cunha
+
+   🔄 SUBSTITUTES IN (4):
+       18. Felipe
+       12. Renan Lodi
+        5. Rodrigo De Paul
+        8. Antoine Griezmann
+
+✈️  REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Andriy Lunin
+        3. Éder Militão
+        5. Jesús Vallejo
+        6. Nacho Fernández
+       17. Lucas Vázquez
+       14. Casemiro
+       25. Eduardo Camavinga
+        8. Toni Kroos
+       21. Rodrygo
+       11. Marco Asensio
+       16. Luka Jović
+
+   🔄 SUBSTITUTES IN (4):
+       23. Ferland Mendy
+       10. Luka Modrić
+       15. Federico Valverde
+       20. Vinicius Junior
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 08.05.2022|LALIGA|35. Kolejka|Atlético Madryt|Real Madryt|Jan Oblak|José María Giménez|Stefan Savic|Reinildo Mandava|Sime Vrsaljko|Geoffrey Kondogbia|Koke|Marcos Llorente|Yannick Carrasco|Ángel Correa|Matheus Cunha|Felipe|Renan Lodi|Rodrigo De Paul|Antoine Griezmann|Andriy Lunin|Éder Militão|Jesús Vallejo|Nacho Fernández|Lucas Vázquez|Casemiro|Eduardo Camavinga|Toni Kroos|Rodrygo|Marco Asensio|Luka Jović|Ferland Mendy|Luka Modrić|Federico Valverde|Vinicius Junior
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #26
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Granada CF
+✈️  AWAY:  Real Madryt
+📅 DATE:  niedz., 21.11.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 14. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/granada-cf_real-madryt/aufstellung/spielbericht/3607555
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GRANADA CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luís Maximiano
+        6. Germán Sánchez
+       16. Víctor Díaz
+       15. Carlos Neva
+       17. Quini
+        4. Maxime Gonalons
+       14. Monchu
+       21. Rubén Rochina
+       10. Antonio Puertas
+        7. Alberto Soro
+        9. Luis Suárez
+
+   🔄 SUBSTITUTES IN (5):
+       28. Raúl Torrente
+        3. Sergio Escudero
+       19. Ángel Montoro
+       26. Isma Ruiz
+       23. Jorge Molina
+
+✈️  REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        6. Nacho Fernández
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       11. Marco Asensio
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+        5. Jesús Vallejo
+       25. Eduardo Camavinga
+       22. Isco
+       21. Rodrygo
+       16. Luka Jović
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 21.11.2021|LALIGA|14. Kolejka|Granada CF|Real Madryt|Luís Maximiano|Germán Sánchez|Víctor Díaz|Carlos Neva|Quini|Maxime Gonalons|Monchu|Rubén Rochina|Antonio Puertas|Alberto Soro|Luis Suárez|Raúl Torrente|Sergio Escudero|Ángel Montoro|Isma Ruiz|Jorge Molina|Thibaut Courtois|David Alaba|Nacho Fernández|Ferland Mendy|Daniel Carvajal|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Marco Asensio|Karim Benzema|Jesús Vallejo|Eduardo Camavinga|Isco|Rodrygo|Luka Jović
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #27
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Chelsea FC
+📅 DATE:  wt., 12.04.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_chelsea-fc/aufstellung/spielbericht/3773448
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        6. Nacho Fernández
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       15. Federico Valverde
+       20. Vinicius Junior
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+       12. Marcelo
+       17. Lucas Vázquez
+       25. Eduardo Camavinga
+       19. Dani Ceballos
+       21. Rodrygo
+
+✈️  CHELSEA FC - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       16. Edouard Mendy
+        2. Antonio Rüdiger
+        6. Thiago Silva
+       24. Reece James
+        7. N'Golo Kanté
+        8. Mateo Kovacic
+       12. Ruben Loftus-Cheek
+        3. Marcos Alonso
+       19. Mason Mount
+       11. Timo Werner
+       29. Kai Havertz
+
+   🔄 SUBSTITUTES IN (4):
+        5. Jorginho
+       17. Saúl Ñíguez
+       22. Hakim Ziyech
+       10. Christian Pulisic
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 12.04.2022|Unknown|Unknown|Real Madryt|Chelsea FC|Thibaut Courtois|David Alaba|Nacho Fernández|Ferland Mendy|Daniel Carvajal|Casemiro|Toni Kroos|Luka Modrić|Federico Valverde|Vinicius Junior|Karim Benzema|Marcelo|Lucas Vázquez|Eduardo Camavinga|Dani Ceballos|Rodrygo|Edouard Mendy|Antonio Rüdiger|Thiago Silva|Reece James|N'Golo Kanté|Mateo Kovacic|Ruben Loftus-Cheek|Marcos Alonso|Mason Mount|Timo Werner|Kai Havertz|Jorginho|Saúl Ñíguez|Hakim Ziyech|Christian Pulisic
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #28
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  niedz., 12.12.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 17. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_atlético-madryt/aufstellung/spielbericht/3607596
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       11. Marco Asensio
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+        6. Nacho Fernández
+       15. Federico Valverde
+       21. Rodrygo
+       16. Luka Jović
+
+✈️  ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       18. Felipe
+        4. Geoffrey Kondogbia
+       22. Mario Hermoso
+       14. Marcos Llorente
+        5. Rodrigo De Paul
+        6. Koke
+       21. Yannick Carrasco
+       10. Ángel Correa
+        8. Antoine Griezmann
+       19. Matheus Cunha
+
+   🔄 SUBSTITUTES IN (5):
+       12. Renan Lodi
+       16. Héctor Herrera
+       11. Thomas Lemar
+        7. João Félix
+        9. Luis Suárez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 12.12.2021|LALIGA|17. Kolejka|Real Madryt|Atlético Madryt|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Daniel Carvajal|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Marco Asensio|Karim Benzema|Nacho Fernández|Federico Valverde|Rodrygo|Luka Jović|Jan Oblak|Felipe|Geoffrey Kondogbia|Mario Hermoso|Marcos Llorente|Rodrigo De Paul|Koke|Yannick Carrasco|Ángel Correa|Antoine Griezmann|Matheus Cunha|Renan Lodi|Héctor Herrera|Thomas Lemar|João Félix|Luis Suárez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #29
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Real Madryt
+📅 DATE:  czw., 03.02.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_real-madryt/aufstellung/spielbericht/3735937
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       26. Julen Agirrezabala
+        4. Iñigo Martínez
+        5. Yeray Álvarez
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+        6. Mikel Vesga
+       14. Dani García
+       10. Iker Muniain
+       30. Nico Williams
+       22. Raúl García
+        9. Iñaki Williams
+
+   🔄 SUBSTITUTES IN (3):
+       24. Mikel Balenziaga
+       33. Nico Serrano
+        7. Álex Berenguer
+
+✈️  REAL MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        3. Éder Militão
+        6. Nacho Fernández
+        4. David Alaba
+       17. Lucas Vázquez
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       21. Rodrygo
+       11. Marco Asensio
+
+   🔄 SUBSTITUTES IN (2):
+       25. Eduardo Camavinga
+       22. Isco
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 03.02.2022|Unknown|Unknown|Athletic Bilbao|Real Madryt|Julen Agirrezabala|Iñigo Martínez|Yeray Álvarez|Yuri Berchiche|Óscar de Marcos|Mikel Vesga|Dani García|Iker Muniain|Nico Williams|Raúl García|Iñaki Williams|Mikel Balenziaga|Nico Serrano|Álex Berenguer|Thibaut Courtois|Éder Militão|Nacho Fernández|David Alaba|Lucas Vázquez|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Rodrygo|Marco Asensio|Eduardo Camavinga|Isco
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #30
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Valencia CF
+📅 DATE:  sob., 08.01.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 20. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_valencia-cf/aufstellung/spielbericht/3607624
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+       17. Lucas Vázquez
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       11. Marco Asensio
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+        6. Nacho Fernández
+       25. Eduardo Camavinga
+       15. Federico Valverde
+       19. Dani Ceballos
+       22. Isco
+
+✈️  VALENCIA CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jasper Cillessen
+       15. Omar Alderete
+       12. Mouctar Diakhaby
+       14. José Gayà
+       24. Cristiano Piccini
+        6. Hugo Guillamón
+       18. Daniel Wass
+        4. Yunus Musah
+        7. Gonçalo Guedes
+       11. Hélder Costa
+        9. Maxi Gómez
+
+   🔄 SUBSTITUTES IN (5):
+       39. Rubén Iranzo
+       27. Koba Koindredi
+       17. Denis Cheryshev
+       21. Manu Vallejo
+       22. Marcos André
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 08.01.2022|LALIGA|20. Kolejka|Real Madryt|Valencia CF|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Lucas Vázquez|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Marco Asensio|Karim Benzema|Nacho Fernández|Eduardo Camavinga|Federico Valverde|Dani Ceballos|Isco|Jasper Cillessen|Omar Alderete|Mouctar Diakhaby|José Gayà|Cristiano Piccini|Hugo Guillamón|Daniel Wass|Yunus Musah|Gonçalo Guedes|Hélder Costa|Maxi Gómez|Rubén Iranzo|Koba Koindredi|Denis Cheryshev|Manu Vallejo|Marcos André
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #31
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Rayo Vallecano
+📅 DATE:  sob., 06.11.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 13. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_rayo-vallecano/aufstellung/spielbericht/3607548
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+       25. Eduardo Camavinga
+        8. Toni Kroos
+       20. Vinicius Junior
+       11. Marco Asensio
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (3):
+        6. Nacho Fernández
+       17. Lucas Vázquez
+        7. Eden Hazard
+
+✈️  RAYO VALLECANO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Stole Dimitrievski
+        5. Alejandro Catena
+       24. Esteban Saveljich
+       33. Fran García
+       20. Iván Balliu
+        6. Santi Comesaña
+       23. Óscar Valentín
+        8. Óscar Trejo
+       18. Álvaro García
+        7. Isi Palazón
+        9. Randy Nteka
+
+   🔄 SUBSTITUTES IN (5):
+       12. Unai López
+       22. José Pozo
+       10. Bebé
+       16. Sergi Guardiola
+        3. Radamel Falcao
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 06.11.2021|LALIGA|13. Kolejka|Real Madryt|Rayo Vallecano|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Daniel Carvajal|Casemiro|Eduardo Camavinga|Toni Kroos|Vinicius Junior|Marco Asensio|Karim Benzema|Nacho Fernández|Lucas Vázquez|Eden Hazard|Stole Dimitrievski|Alejandro Catena|Esteban Saveljich|Fran García|Iván Balliu|Santi Comesaña|Óscar Valentín|Óscar Trejo|Álvaro García|Isi Palazón|Randy Nteka|Unai López|José Pozo|Bebé|Sergi Guardiola|Radamel Falcao
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #32
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Celta de Vigo
+✈️  AWAY:  Real Madryt
+📅 DATE:  sob., 02.04.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 30. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/celta-de-vigo_real-madryt/aufstellung/spielbericht/3610572
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CELTA DE VIGO - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Matías Dituro
+       15. Joseph Aidoo
+       24. Jeison Murillo
+       17. Javi Galán
+       20. Kevin Vázquez
+        8. Fran Beltrán
+       23. Brais Méndez
+        9. Nolito
+        6. Denis Suárez
+       10. Iago Aspas
+        7. Thiago Galhardo
+
+   🔄 SUBSTITUTES IN (4):
+       14. Renato Tapia
+       18. Orbelín Pineda
+       11. Franco Cervi
+       22. Santi Mina
+
+✈️  REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+       17. Lucas Vázquez
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       11. Marco Asensio
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+        6. Nacho Fernández
+        2. Daniel Carvajal
+       15. Federico Valverde
+       19. Dani Ceballos
+       21. Rodrygo
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 02.04.2022|LALIGA|30. Kolejka|Celta de Vigo|Real Madryt|Matías Dituro|Joseph Aidoo|Jeison Murillo|Javi Galán|Kevin Vázquez|Fran Beltrán|Brais Méndez|Nolito|Denis Suárez|Iago Aspas|Thiago Galhardo|Renato Tapia|Orbelín Pineda|Franco Cervi|Santi Mina|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Lucas Vázquez|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Marco Asensio|Karim Benzema|Nacho Fernández|Daniel Carvajal|Federico Valverde|Dani Ceballos|Rodrygo
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #33
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  FC Sheriff Tyraspol
+📅 DATE:  wt., 28.09.2021
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_fc-sheriff-tyraspol/aufstellung/spielbericht/3651068
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       35. Miguel Gutiérrez
+        6. Nacho Fernández
+       14. Casemiro
+       25. Eduardo Camavinga
+       15. Federico Valverde
+       20. Vinicius Junior
+        7. Eden Hazard
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+        8. Toni Kroos
+       10. Luka Modrić
+       21. Rodrygo
+       16. Luka Jović
+
+✈️  FC SHERIFF TYRASPOL - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       30. Georgios Athanasiadis
+       55. Gustavo Dulanto
+        2. Danilo Arboleda
+       15. Cristiano
+       13. Fernando Costanza
+       21. Edmund Addo
+       31. Sébastien Thill
+       22. Dimitrios Kolovos
+       10. Frank Castañeda
+        9. Adama Traoré
+       17. Jasur Yakhshiboev
+
+   🔄 SUBSTITUTES IN (3):
+       16. Keston Julien
+       77. Bruno
+       20. Boban Nikolov
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 28.09.2021|Unknown|Unknown|Real Madryt|FC Sheriff Tyraspol|Thibaut Courtois|David Alaba|Éder Militão|Miguel Gutiérrez|Nacho Fernández|Casemiro|Eduardo Camavinga|Federico Valverde|Vinicius Junior|Eden Hazard|Karim Benzema|Toni Kroos|Luka Modrić|Rodrygo|Luka Jović|Georgios Athanasiadis|Gustavo Dulanto|Danilo Arboleda|Cristiano|Fernando Costanza|Edmund Addo|Sébastien Thill|Dimitrios Kolovos|Frank Castañeda|Adama Traoré|Jasur Yakhshiboev|Keston Julien|Bruno|Boban Nikolov
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #34
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  FC Paris Saint-Germain
+📅 DATE:  śr., 09.03.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_fc-paris-saint-germain/aufstellung/spielbericht/3714229
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+        6. Nacho Fernández
+        2. Daniel Carvajal
+        8. Toni Kroos
+       10. Luka Modrić
+       15. Federico Valverde
+       20. Vinicius Junior
+       11. Marco Asensio
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (3):
+       17. Lucas Vázquez
+       25. Eduardo Camavinga
+       21. Rodrygo
+
+✈️  FC PARIS SAINT-GERMAIN - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       50. Gianluigi Donnarumma
+        3. Presnel Kimpembe
+        5. Marquinhos
+       25. Nuno Mendes
+        2. Achraf Hakimi
+        8. Leandro Paredes
+       15. Danilo Pereira
+        6. Marco Verratti
+       10. Neymar
+       30. Lionel Messi
+        7. Kylian Mbappé
+
+   🔄 SUBSTITUTES IN (3):
+       27. Idrissa Gueye
+       23. Julian Draxler
+       11. Ángel Di María
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 09.03.2022|Unknown|Unknown|Real Madryt|FC Paris Saint-Germain|Thibaut Courtois|David Alaba|Éder Militão|Nacho Fernández|Daniel Carvajal|Toni Kroos|Luka Modrić|Federico Valverde|Vinicius Junior|Marco Asensio|Karim Benzema|Lucas Vázquez|Eduardo Camavinga|Rodrygo|Gianluigi Donnarumma|Presnel Kimpembe|Marquinhos|Nuno Mendes|Achraf Hakimi|Leandro Paredes|Danilo Pereira|Marco Verratti|Neymar|Lionel Messi|Kylian Mbappé|Idrissa Gueye|Julian Draxler|Ángel Di María
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #35
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  CA Osasuna
+📅 DATE:  śr., 27.10.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 11. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_ca-osasuna/aufstellung/spielbericht/3607528
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+       25. Eduardo Camavinga
+        8. Toni Kroos
+       20. Vinicius Junior
+       11. Marco Asensio
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+       12. Marcelo
+       17. Lucas Vázquez
+        7. Eden Hazard
+       21. Rodrygo
+
+✈️  CA OSASUNA - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Sergio Herrera
+        5. David García
+        4. Unai García
+        3. Juan Cruz
+       39. Manu Sánchez
+        2. Nacho Vidal
+       24. Lucas Torró
+        7. Jon Moncayola
+       28. Javi Martínez
+        9. Chimy Ávila
+       18. Kike García
+
+   🔄 SUBSTITUTES IN (4):
+        6. Oier Sanjurjo
+        8. Darko Brasanac
+       14. Rubén García
+       20. Iván Barbero
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 27.10.2021|LALIGA|11. Kolejka|Real Madryt|CA Osasuna|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Daniel Carvajal|Casemiro|Eduardo Camavinga|Toni Kroos|Vinicius Junior|Marco Asensio|Karim Benzema|Marcelo|Lucas Vázquez|Eden Hazard|Rodrygo|Sergio Herrera|David García|Unai García|Juan Cruz|Manu Sánchez|Nacho Vidal|Lucas Torró|Jon Moncayola|Javi Martínez|Chimy Ávila|Kike García|Oier Sanjurjo|Darko Brasanac|Rubén García|Iván Barbero
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #36
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Liverpool
+✈️  AWAY:  Real Madryt
+📅 DATE:  sob., 28.05.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-liverpool_real-madryt/aufstellung/spielbericht/3812391
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC LIVERPOOL - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Alisson
+        4. Virgil van Dijk
+        5. Ibrahima Konaté
+       26. Andrew Robertson
+       66. Trent Alexander-Arnold
+        3. Fabinho
+       14. Jordan Henderson
+        6. Thiago Alcántara
+       23. Luis Díaz
+       11. Mohamed Salah
+       10. Sadio Mané
+
+   🔄 SUBSTITUTES IN (3):
+        8. Naby Keïta
+       20. Diogo Jota
+        9. Roberto Firmino
+
+✈️  REAL MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       15. Federico Valverde
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (3):
+       25. Eduardo Camavinga
+       19. Dani Ceballos
+       21. Rodrygo
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 28.05.2022|Unknown|Unknown|FC Liverpool|Real Madryt|Alisson|Virgil van Dijk|Ibrahima Konaté|Andrew Robertson|Trent Alexander-Arnold|Fabinho|Jordan Henderson|Thiago Alcántara|Luis Díaz|Mohamed Salah|Sadio Mané|Naby Keïta|Diogo Jota|Roberto Firmino|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Daniel Carvajal|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Federico Valverde|Karim Benzema|Eduardo Camavinga|Dani Ceballos|Rodrygo
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #37
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Sevilla FC
+📅 DATE:  niedz., 28.11.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 15. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_sevilla-fc/aufstellung/spielbericht/3607568
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       11. Marco Asensio
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+        6. Nacho Fernández
+       17. Lucas Vázquez
+       25. Eduardo Camavinga
+       15. Federico Valverde
+
+✈️  SEVILLA FC - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Yassine Bounou
+       20. Diego Carlos
+       23. Jules Koundé
+       19. Marcos Acuña
+        2. Gonzalo Montiel
+       25. Fernando
+        8. Joan Jordán
+       10. Ivan Rakitic
+       24. Papu Gómez
+        5. Lucas Ocampos
+       12. Rafa Mir
+
+   🔄 SUBSTITUTES IN (5):
+       18. Thomas Delaney
+       21. Óliver Torres
+       11. Munir El Haddadi
+       14. Óscar Rodríguez
+       22. Oussama Idrissi
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 28.11.2021|LALIGA|15. Kolejka|Real Madryt|Sevilla FC|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Daniel Carvajal|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Marco Asensio|Karim Benzema|Nacho Fernández|Lucas Vázquez|Eduardo Camavinga|Federico Valverde|Yassine Bounou|Diego Carlos|Jules Koundé|Marcos Acuña|Gonzalo Montiel|Fernando|Joan Jordán|Ivan Rakitic|Papu Gómez|Lucas Ocampos|Rafa Mir|Thomas Delaney|Óliver Torres|Munir El Haddadi|Óscar Rodríguez|Oussama Idrissi
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #38
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Inter Mediolan
+✈️  AWAY:  Real Madryt
+📅 DATE:  śr., 15.09.2021
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/inter-mediolan_real-madryt/aufstellung/spielbericht/3651044
+
+----------------------------------------------------------------------------------------------------
+
+🏠 INTER MEDIOLAN - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Samir Handanovič
+       95. Alessandro Bastoni
+        6. Stefan de Vrij
+       37. Milan Škriniar
+       77. Marcelo Brozović
+       20. Hakan Çalhanoğlu
+       23. Nicolò Barella
+       36. Matteo Darmian
+       14. Ivan Perišić
+       10. Lautaro Martínez
+        9. Edin Džeko
+
+   🔄 SUBSTITUTES IN (5):
+       32. Federico Dimarco
+        2. Denzel Dumfries
+        8. Matías Vecino
+       22. Arturo Vidal
+       19. Joaquín Correa
+
+✈️  REAL MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+        6. Nacho Fernández
+        2. Daniel Carvajal
+       14. Casemiro
+       10. Luka Modrić
+       15. Federico Valverde
+       20. Vinicius Junior
+       17. Lucas Vázquez
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (3):
+       25. Eduardo Camavinga
+       11. Marco Asensio
+       21. Rodrygo
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 15.09.2021|Unknown|Unknown|Inter Mediolan|Real Madryt|Samir Handanovič|Alessandro Bastoni|Stefan de Vrij|Milan Škriniar|Marcelo Brozović|Hakan Çalhanoğlu|Nicolò Barella|Matteo Darmian|Ivan Perišić|Lautaro Martínez|Edin Džeko|Federico Dimarco|Denzel Dumfries|Matías Vecino|Arturo Vidal|Joaquín Correa|Thibaut Courtois|David Alaba|Éder Militão|Nacho Fernández|Daniel Carvajal|Casemiro|Luka Modrić|Federico Valverde|Vinicius Junior|Lucas Vázquez|Karim Benzema|Eduardo Camavinga|Marco Asensio|Rodrygo
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #39
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Deportivo Alavés
+✈️  AWAY:  Real Madryt
+📅 DATE:  sob., 14.08.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 1. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/deportivo-alavés_real-madryt/aufstellung/spielbericht/3605038
+
+----------------------------------------------------------------------------------------------------
+
+🏠 DEPORTIVO ALAVÉS - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Fernando Pacheco
+        5. Víctor Laguardia
+       22. Florian Lejeune
+        3. Rubén Duarte
+       21. Martín Aguirregabiria
+        8. Tomás Pina
+       20. Pere Pons
+       14. Manu García
+       11. Luis Rioja
+       17. Edgar Méndez
+        9. Joselu
+
+   🔄 SUBSTITUTES IN (5):
+        6. Mamadou Loum
+       15. Toni Moya
+       19. Iván Martín
+       18. Facundo Pellistri
+       10. John Guidetti
+
+✈️  REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        3. Éder Militão
+        6. Nacho Fernández
+        4. David Alaba
+       17. Lucas Vázquez
+       14. Casemiro
+       10. Luka Modrić
+       15. Federico Valverde
+        7. Eden Hazard
+       18. Gareth Bale
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+       11. Marco Asensio
+       22. Isco
+       20. Vinicius Junior
+       21. Rodrygo
+       16. Luka Jović
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 14.08.2021|LALIGA|1. Kolejka|Deportivo Alavés|Real Madryt|Fernando Pacheco|Víctor Laguardia|Florian Lejeune|Rubén Duarte|Martín Aguirregabiria|Tomás Pina|Pere Pons|Manu García|Luis Rioja|Edgar Méndez|Joselu|Mamadou Loum|Toni Moya|Iván Martín|Facundo Pellistri|John Guidetti|Thibaut Courtois|Éder Militão|Nacho Fernández|David Alaba|Lucas Vázquez|Casemiro|Luka Modrić|Federico Valverde|Eden Hazard|Gareth Bale|Karim Benzema|Marco Asensio|Isco|Vinicius Junior|Rodrygo|Luka Jović
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #40
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Getafe CF
+📅 DATE:  sob., 09.04.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 31. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_getafe-cf/aufstellung/spielbericht/3611444
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       12. Marcelo
+       17. Lucas Vázquez
+       14. Casemiro
+       25. Eduardo Camavinga
+       15. Federico Valverde
+       20. Vinicius Junior
+       21. Rodrygo
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+        6. Nacho Fernández
+       19. Dani Ceballos
+       11. Marco Asensio
+       18. Gareth Bale
+
+✈️  GETAFE CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. David Soria
+       15. Jorge Cuenca
+        2. Dakonam Djené
+       23. Stefan Mitrovic
+       17. Mathías Olivera
+       22. Damián Suárez
+        6. Gonzalo Villar
+       20. Nemanja Maksimovic
+       11. Carles Aleñá
+       10. Enes Ünal
+       25. Borja Mayoral
+
+   🔄 SUBSTITUTES IN (5):
+        3. Erick Cabaco
+        5. Florentino
+       19. Okay Yokuşlu
+       24. Óscar Rodríguez
+       12. Sandro Ramírez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 09.04.2022|LALIGA|31. Kolejka|Real Madryt|Getafe CF|Thibaut Courtois|David Alaba|Éder Militão|Marcelo|Lucas Vázquez|Casemiro|Eduardo Camavinga|Federico Valverde|Vinicius Junior|Rodrygo|Karim Benzema|Nacho Fernández|Dani Ceballos|Marco Asensio|Gareth Bale|David Soria|Jorge Cuenca|Dakonam Djené|Stefan Mitrovic|Mathías Olivera|Damián Suárez|Gonzalo Villar|Nemanja Maksimovic|Carles Aleñá|Enes Ünal|Borja Mayoral|Erick Cabaco|Florentino|Okay Yokuşlu|Óscar Rodríguez|Sandro Ramírez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #41
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Chelsea FC
+✈️  AWAY:  Real Madryt
+📅 DATE:  śr., 06.04.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/chelsea-fc_real-madryt/aufstellung/spielbericht/3773444
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CHELSEA FC - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       16. Edouard Mendy
+        2. Antonio Rüdiger
+        4. Andreas Christensen
+        6. Thiago Silva
+        5. Jorginho
+        7. N'Golo Kanté
+       24. Reece James
+       28. César Azpilicueta
+       19. Mason Mount
+       10. Christian Pulisic
+       29. Kai Havertz
+
+   🔄 SUBSTITUTES IN (4):
+        8. Mateo Kovacic
+       12. Ruben Loftus-Cheek
+       22. Hakim Ziyech
+        9. Romelu Lukaku
+
+✈️  REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       15. Federico Valverde
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+        6. Nacho Fernández
+       25. Eduardo Camavinga
+       19. Dani Ceballos
+       18. Gareth Bale
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 06.04.2022|Unknown|Unknown|Chelsea FC|Real Madryt|Edouard Mendy|Antonio Rüdiger|Andreas Christensen|Thiago Silva|Jorginho|N'Golo Kanté|Reece James|César Azpilicueta|Mason Mount|Christian Pulisic|Kai Havertz|Mateo Kovacic|Ruben Loftus-Cheek|Hakim Ziyech|Romelu Lukaku|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Daniel Carvajal|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Federico Valverde|Karim Benzema|Nacho Fernández|Eduardo Camavinga|Dani Ceballos|Gareth Bale
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #42
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Sevilla FC
+✈️  AWAY:  Real Madryt
+📅 DATE:  niedz., 17.04.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 32. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/sevilla-fc_real-madryt/aufstellung/spielbericht/3611456
+
+----------------------------------------------------------------------------------------------------
+
+🏠 SEVILLA FC - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Yassine Bounou
+       20. Diego Carlos
+       23. Jules Koundé
+       19. Marcos Acuña
+       16. Jesús Navas
+        8. Joan Jordán
+       10. Ivan Rakitic
+        9. Jesús Corona
+       24. Papu Gómez
+       17. Erik Lamela
+       22. Anthony Martial
+
+   🔄 SUBSTITUTES IN (5):
+        3. Ludwig Augustinsson
+        6. Nemanja Gudelj
+       21. Óliver Torres
+        5. Lucas Ocampos
+       12. Rafa Mir
+
+✈️  REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+        2. Daniel Carvajal
+       17. Lucas Vázquez
+       25. Eduardo Camavinga
+        8. Toni Kroos
+       10. Luka Modrić
+       15. Federico Valverde
+       20. Vinicius Junior
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+        6. Nacho Fernández
+       11. Marco Asensio
+       21. Rodrygo
+       24. Mariano Díaz
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 17.04.2022|LALIGA|32. Kolejka|Sevilla FC|Real Madryt|Yassine Bounou|Diego Carlos|Jules Koundé|Marcos Acuña|Jesús Navas|Joan Jordán|Ivan Rakitic|Jesús Corona|Papu Gómez|Erik Lamela|Anthony Martial|Ludwig Augustinsson|Nemanja Gudelj|Óliver Torres|Lucas Ocampos|Rafa Mir|Thibaut Courtois|David Alaba|Éder Militão|Daniel Carvajal|Lucas Vázquez|Eduardo Camavinga|Toni Kroos|Luka Modrić|Federico Valverde|Vinicius Junior|Karim Benzema|Nacho Fernández|Marco Asensio|Rodrygo|Mariano Díaz
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #43
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  CA Osasuna
+✈️  AWAY:  Real Madryt
+📅 DATE:  śr., 20.04.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 33. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/ca-osasuna_real-madryt/aufstellung/spielbericht/3611466
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CA OSASUNA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Sergio Herrera
+        5. David García
+       23. Aridane Hernández
+       16. Cote
+        2. Nacho Vidal
+        7. Jon Moncayola
+        8. Darko Brasanac
+       28. Javi Martínez
+       14. Rubén García
+        9. Chimy Ávila
+       17. Ante Budimir
+
+   🔄 SUBSTITUTES IN (5):
+       39. Manu Sánchez
+        6. Oier Sanjurjo
+       10. Roberto Torres
+       11. Kike Barja
+       20. Iván Barbero
+
+✈️  REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+        6. Nacho Fernández
+       17. Lucas Vázquez
+       25. Eduardo Camavinga
+       15. Federico Valverde
+       19. Dani Ceballos
+       21. Rodrygo
+       11. Marco Asensio
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+        2. Daniel Carvajal
+        8. Toni Kroos
+       22. Isco
+       20. Vinicius Junior
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 20.04.2022|LALIGA|33. Kolejka|CA Osasuna|Real Madryt|Sergio Herrera|David García|Aridane Hernández|Cote|Nacho Vidal|Jon Moncayola|Darko Brasanac|Javi Martínez|Rubén García|Chimy Ávila|Ante Budimir|Manu Sánchez|Oier Sanjurjo|Roberto Torres|Kike Barja|Iván Barbero|Thibaut Courtois|David Alaba|Éder Militão|Nacho Fernández|Lucas Vázquez|Eduardo Camavinga|Federico Valverde|Dani Ceballos|Rodrygo|Marco Asensio|Karim Benzema|Daniel Carvajal|Toni Kroos|Isco|Vinicius Junior
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #44
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Real Sociedad
+📅 DATE:  sob., 05.03.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 27. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_real-sociedad/aufstellung/spielbericht/3610407
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+       25. Eduardo Camavinga
+       10. Luka Modrić
+       20. Vinicius Junior
+       21. Rodrygo
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+       12. Marcelo
+       17. Lucas Vázquez
+       19. Dani Ceballos
+       11. Marco Asensio
+       24. Mariano Díaz
+
+✈️  REAL SOCIEDAD - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Álex Remiro
+       26. Jon Pacheco
+       24. Robin Le Normand
+       18. Andoni Gorosabel
+        5. Igor Zubeldia
+        4. Asier Illarramendi
+        8. Mikel Merino
+        2. Joseba Zaldua
+       21. David Silva
+       10. Mikel Oyarzabal
+       19. Alexander Isak
+
+   🔄 SUBSTITUTES IN (5):
+        6. Aritz Elustondo
+        3. Martín Zubimendi
+       17. Rafinha
+       37. Naïs Djouahra
+       23. Alexander Sørloth
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 05.03.2022|LALIGA|27. Kolejka|Real Madryt|Real Sociedad|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Daniel Carvajal|Casemiro|Eduardo Camavinga|Luka Modrić|Vinicius Junior|Rodrygo|Karim Benzema|Marcelo|Lucas Vázquez|Dani Ceballos|Marco Asensio|Mariano Díaz|Álex Remiro|Jon Pacheco|Robin Le Normand|Andoni Gorosabel|Igor Zubeldia|Asier Illarramendi|Mikel Merino|Joseba Zaldua|David Silva|Mikel Oyarzabal|Alexander Isak|Aritz Elustondo|Martín Zubimendi|Rafinha|Naïs Djouahra|Alexander Sørloth
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #45
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Szachtar Donieck
+📅 DATE:  śr., 03.11.2021
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_szachtar-donieck/aufstellung/spielbericht/3651107
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       17. Lucas Vázquez
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (2):
+        6. Nacho Fernández
+       16. Luka Jović
+
+✈️  SZACHTAR DONIECK - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       81. Anatoliy Trubin
+       22. Mykola Matvienko
+        5. Marlon
+       31. Ismaily
+        2. Dodô
+        6. Taras Stepanenko
+        7. Maycon
+       21. Alan Patrick
+       20. Mykhaylo Mudryk
+       14. Tetê
+       99. Fernando
+
+   🔄 SUBSTITUTES IN (5):
+        8. Marcos Antônio
+       25. Georgiy Sudakov
+       19. Manor Solomon
+       11. Marlos
+        9. Dentinho
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 03.11.2021|Unknown|Unknown|Real Madryt|Szachtar Donieck|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Daniel Carvajal|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Lucas Vázquez|Karim Benzema|Nacho Fernández|Luka Jović|Anatoliy Trubin|Mykola Matvienko|Marlon|Ismaily|Dodô|Taras Stepanenko|Maycon|Alan Patrick|Mykhaylo Mudryk|Tetê|Fernando|Marcos Antônio|Georgiy Sudakov|Manor Solomon|Marlos|Dentinho
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #46
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Real Madryt
+📅 DATE:  śr., 12.01.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_real-madryt/aufstellung/spielbericht/3593340
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 17 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc-André ter Stegen
+        3. Gerard Piqué
+        4. Ronald Araujo
+       18. Jordi Alba
+        8. Dani Alves
+        5. Sergio Busquets
+       21. Frenkie de Jong
+       30. Gavi
+        7. Ousmane Dembélé
+       19. Ferran Torres
+       17. Luuk de Jong
+
+   🔄 SUBSTITUTES IN (6):
+       28. Nico González
+       16. Pedri
+       10. Ansu Fati
+       33. Abde Ezzalzouli
+        9. Memphis Depay
+       29. Ferran Jutglà
+
+✈️  REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        3. Éder Militão
+        6. Nacho Fernández
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       11. Marco Asensio
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+       17. Lucas Vázquez
+       25. Eduardo Camavinga
+       15. Federico Valverde
+       21. Rodrygo
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 12.01.2022|Unknown|Unknown|FC Barcelona|Real Madryt|Marc-André ter Stegen|Gerard Piqué|Ronald Araujo|Jordi Alba|Dani Alves|Sergio Busquets|Frenkie de Jong|Gavi|Ousmane Dembélé|Ferran Torres|Luuk de Jong|Nico González|Pedri|Ansu Fati|Abde Ezzalzouli|Memphis Depay|Ferran Jutglà|Thibaut Courtois|Éder Militão|Nacho Fernández|Ferland Mendy|Daniel Carvajal|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Marco Asensio|Karim Benzema|Lucas Vázquez|Eduardo Camavinga|Federico Valverde|Rodrygo
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #47
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  CD Alcoyano
+✈️  AWAY:  Real Madryt
+📅 DATE:  śr., 05.01.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/cd-alcoyano_real-madryt/aufstellung/spielbericht/3716579
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CD ALCOYANO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. José Juan Figueras
+        2. Primi Férriz
+        4. Carlos Blanco
+       18. Pablo Carbonell
+       16. Lillo Castellano
+        8. Juanan Casanova
+        6. Fran Miranda
+       10. Andy Escudero
+       14. Javi Antón
+       15. Dani Vega
+       12. Mourad El Ghezouani
+
+   🔄 SUBSTITUTES IN (5):
+        5. Raúl González
+       20. Imanol García
+       23. Víctor Revert
+       11. Javi García
+        7. Juli Cerdá
+
+✈️  REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Andriy Lunin
+        4. David Alaba
+        3. Éder Militão
+       12. Marcelo
+        6. Nacho Fernández
+       14. Casemiro
+       25. Eduardo Camavinga
+       15. Federico Valverde
+        7. Eden Hazard
+       21. Rodrygo
+       24. Mariano Díaz
+
+   🔄 SUBSTITUTES IN (5):
+        5. Jesús Vallejo
+        8. Toni Kroos
+       19. Dani Ceballos
+       11. Marco Asensio
+       22. Isco
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 05.01.2022|Unknown|Unknown|CD Alcoyano|Real Madryt|José Juan Figueras|Primi Férriz|Carlos Blanco|Pablo Carbonell|Lillo Castellano|Juanan Casanova|Fran Miranda|Andy Escudero|Javi Antón|Dani Vega|Mourad El Ghezouani|Raúl González|Imanol García|Víctor Revert|Javi García|Juli Cerdá|Andriy Lunin|David Alaba|Éder Militão|Marcelo|Nacho Fernández|Casemiro|Eduardo Camavinga|Federico Valverde|Eden Hazard|Rodrygo|Mariano Díaz|Jesús Vallejo|Toni Kroos|Dani Ceballos|Marco Asensio|Isco
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #48
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Celta de Vigo
+📅 DATE:  niedz., 12.09.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 4. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_celta-de-vigo/aufstellung/spielbericht/3605201
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        3. Éder Militão
+        6. Nacho Fernández
+       35. Miguel Gutiérrez
+        2. Daniel Carvajal
+       14. Casemiro
+       10. Luka Modrić
+       15. Federico Valverde
+       20. Vinicius Junior
+        7. Eden Hazard
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+       12. Marcelo
+       25. Eduardo Camavinga
+       11. Marco Asensio
+       21. Rodrygo
+
+✈️  CELTA DE VIGO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Matías Dituro
+        4. Néstor Araújo
+       24. Jeison Murillo
+       17. Javi Galán
+        2. Hugo Mallo
+       14. Renato Tapia
+       23. Brais Méndez
+       11. Franco Cervi
+        6. Denis Suárez
+       10. Iago Aspas
+       22. Santi Mina
+
+   🔄 SUBSTITUTES IN (5):
+       15. Joseph Aidoo
+        8. Fran Beltrán
+       21. Augusto Solari
+        9. Nolito
+        7. Thiago Galhardo
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 12.09.2021|LALIGA|4. Kolejka|Real Madryt|Celta de Vigo|Thibaut Courtois|Éder Militão|Nacho Fernández|Miguel Gutiérrez|Daniel Carvajal|Casemiro|Luka Modrić|Federico Valverde|Vinicius Junior|Eden Hazard|Karim Benzema|Marcelo|Eduardo Camavinga|Marco Asensio|Rodrygo|Matías Dituro|Néstor Araújo|Jeison Murillo|Javi Galán|Hugo Mallo|Renato Tapia|Brais Méndez|Franco Cervi|Denis Suárez|Iago Aspas|Santi Mina|Joseph Aidoo|Fran Beltrán|Augusto Solari|Nolito|Thiago Galhardo
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #49
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Rayo Vallecano
+✈️  AWAY:  Real Madryt
+📅 DATE:  sob., 26.02.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 26. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rayo-vallecano_real-madryt/aufstellung/spielbericht/3610378
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RAYO VALLECANO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luca Zidane
+        5. Alejandro Catena
+        4. Mario Suárez
+       33. Fran García
+       20. Iván Balliu
+        6. Santi Comesaña
+       23. Óscar Valentín
+        8. Óscar Trejo
+       18. Álvaro García
+       10. Bebé
+       16. Sergi Guardiola
+
+   🔄 SUBSTITUTES IN (5):
+       21. Pathé Ciss
+        9. Randy Nteka
+        7. Isi Palazón
+        3. Radamel Falcao
+       11. Mamadou Sylla
+
+✈️  REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        3. Éder Militão
+        6. Nacho Fernández
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       11. Marco Asensio
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (4):
+       25. Eduardo Camavinga
+       15. Federico Valverde
+       19. Dani Ceballos
+       21. Rodrygo
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 26.02.2022|LALIGA|26. Kolejka|Rayo Vallecano|Real Madryt|Luca Zidane|Alejandro Catena|Mario Suárez|Fran García|Iván Balliu|Santi Comesaña|Óscar Valentín|Óscar Trejo|Álvaro García|Bebé|Sergi Guardiola|Pathé Ciss|Randy Nteka|Isi Palazón|Radamel Falcao|Mamadou Sylla|Thibaut Courtois|Éder Militão|Nacho Fernández|Ferland Mendy|Daniel Carvajal|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Marco Asensio|Karim Benzema|Eduardo Camavinga|Federico Valverde|Dani Ceballos|Rodrygo
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #50
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Deportivo Alavés
+📅 DATE:  sob., 19.02.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 25. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_deportivo-alavés/aufstellung/spielbericht/3610367
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+       10. Luka Modrić
+       15. Federico Valverde
+       20. Vinicius Junior
+       11. Marco Asensio
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+       12. Marcelo
+       17. Lucas Vázquez
+       19. Dani Ceballos
+        7. Eden Hazard
+       21. Rodrygo
+
+✈️  DEPORTIVO ALAVÉS - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Fernando Pacheco
+        4. Matt Miazga
+       22. Florian Lejeune
+        3. Rubén Duarte
+        2. Nahuel Tenaglia
+        6. Mamadou Loum
+        8. Tomás Pina
+       16. Gonzalo Escalante
+       11. Luis Rioja
+       25. Jason Remeseiro
+        9. Joselu
+
+   🔄 SUBSTITUTES IN (5):
+       23. Ximo Navarro
+       15. Toni Moya
+       20. Pere Pons
+       17. Edgar Méndez
+        7. Manu Vallejo
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 19.02.2022|LALIGA|25. Kolejka|Real Madryt|Deportivo Alavés|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Daniel Carvajal|Casemiro|Luka Modrić|Federico Valverde|Vinicius Junior|Marco Asensio|Karim Benzema|Marcelo|Lucas Vázquez|Dani Ceballos|Eden Hazard|Rodrygo|Fernando Pacheco|Matt Miazga|Florian Lejeune|Rubén Duarte|Nahuel Tenaglia|Mamadou Loum|Tomás Pina|Gonzalo Escalante|Luis Rioja|Jason Remeseiro|Joselu|Ximo Navarro|Toni Moya|Pere Pons|Edgar Méndez|Manu Vallejo
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #51
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Real Madryt
+📅 DATE:  sob., 12.02.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 24. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_real-madryt/aufstellung/spielbericht/3610349
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Gerónimo Rulli
+        4. Pau Torres
+        3. Raúl Albiol
+       24. Alfonso Pedraza
+        8. Juan Foyth
+       10. Vicente Iborra
+        5. Dani Parejo
+       18. Alberto Moreno
+       11. Samuel Chukwueze
+       17. Giovani Lo Celso
+       15. Arnaut Danjuma
+
+   🔄 SUBSTITUTES IN (5):
+       12. Pervis Estupiñán
+       25. Serge Aurier
+       14. Manu Trigueros
+       21. Yéremy Pino
+       16. Boulaye Dia
+
+✈️  REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       12. Marcelo
+        2. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       15. Federico Valverde
+       20. Vinicius Junior
+       11. Marco Asensio
+       18. Gareth Bale
+
+   🔄 SUBSTITUTES IN (5):
+        6. Nacho Fernández
+       10. Luka Modrić
+        7. Eden Hazard
+       21. Rodrygo
+       16. Luka Jović
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 12.02.2022|LALIGA|24. Kolejka|Villarreal CF|Real Madryt|Gerónimo Rulli|Pau Torres|Raúl Albiol|Alfonso Pedraza|Juan Foyth|Vicente Iborra|Dani Parejo|Alberto Moreno|Samuel Chukwueze|Giovani Lo Celso|Arnaut Danjuma|Pervis Estupiñán|Serge Aurier|Manu Trigueros|Yéremy Pino|Boulaye Dia|Thibaut Courtois|David Alaba|Éder Militão|Marcelo|Daniel Carvajal|Casemiro|Toni Kroos|Federico Valverde|Vinicius Junior|Marco Asensio|Gareth Bale|Nacho Fernández|Luka Modrić|Eden Hazard|Rodrygo|Luka Jović
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #52
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Real Betis Balompié
+📅 DATE:  pt., 20.05.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 38. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_real-betis-balompié/aufstellung/spielbericht/3611513
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        3. Éder Militão
+        6. Nacho Fernández
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       10. Luka Modrić
+       20. Vinicius Junior
+       21. Rodrygo
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+       12. Marcelo
+       25. Eduardo Camavinga
+       15. Federico Valverde
+       19. Dani Ceballos
+       22. Isco
+
+✈️  REAL BETIS BALOMPIÉ - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Rui Silva
+        5. Marc Bartra
+       16. Germán Pezzella
+       15. Álex Moreno
+       23. Youssouf Sabaly
+       21. Guido Rodríguez
+       18. Andrés Guardado
+        8. Nabil Fekir
+        7. Juanmi
+       10. Sergio Canales
+       12. Willian José
+
+   🔄 SUBSTITUTES IN (5):
+       14. William Carvalho
+       11. Cristian Tello
+       28. Rodri Sánchez
+       17. Joaquín
+        9. Borja Iglesias
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pt., 20.05.2022|LALIGA|38. Kolejka|Real Madryt|Real Betis Balompié|Thibaut Courtois|Éder Militão|Nacho Fernández|Ferland Mendy|Daniel Carvajal|Casemiro|Toni Kroos|Luka Modrić|Vinicius Junior|Rodrygo|Karim Benzema|Marcelo|Eduardo Camavinga|Federico Valverde|Dani Ceballos|Isco|Rui Silva|Marc Bartra|Germán Pezzella|Álex Moreno|Youssouf Sabaly|Guido Rodríguez|Andrés Guardado|Nabil Fekir|Juanmi|Sergio Canales|Willian José|William Carvalho|Cristian Tello|Rodri Sánchez|Joaquín|Borja Iglesias
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #53
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Valencia CF
+✈️  AWAY:  Real Madryt
+📅 DATE:  niedz., 19.09.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 5. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/valencia-cf_real-madryt/aufstellung/spielbericht/3605211
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VALENCIA CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       28. Giorgi Mamardashvili
+       15. Omar Alderete
+        5. Gabriel Paulista
+       20. Dimitri Foulquier
+        2. Thierry Correia
+        6. Hugo Guillamón
+       18. Daniel Wass
+       10. Carlos Soler
+       19. Hugo Duro
+        7. Gonçalo Guedes
+        9. Maxi Gómez
+
+   🔄 SUBSTITUTES IN (5):
+        3. Toni Lato
+        8. Uros Racic
+        4. Yunus Musah
+       11. Hélder Costa
+       22. Marcos André
+
+✈️  REAL MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+        6. Nacho Fernández
+        2. Daniel Carvajal
+       14. Casemiro
+       10. Luka Modrić
+       15. Federico Valverde
+        7. Eden Hazard
+       20. Vinicius Junior
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (5):
+       17. Lucas Vázquez
+       25. Eduardo Camavinga
+       22. Isco
+       21. Rodrygo
+       16. Luka Jović
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 19.09.2021|LALIGA|5. Kolejka|Valencia CF|Real Madryt|Giorgi Mamardashvili|Omar Alderete|Gabriel Paulista|Dimitri Foulquier|Thierry Correia|Hugo Guillamón|Daniel Wass|Carlos Soler|Hugo Duro|Gonçalo Guedes|Maxi Gómez|Toni Lato|Uros Racic|Yunus Musah|Hélder Costa|Marcos André|Thibaut Courtois|David Alaba|Éder Militão|Nacho Fernández|Daniel Carvajal|Casemiro|Luka Modrić|Federico Valverde|Eden Hazard|Vinicius Junior|Karim Benzema|Lucas Vázquez|Eduardo Camavinga|Isco|Rodrygo|Luka Jović
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #54
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Cádiz CF
+📅 DATE:  niedz., 19.12.2021
+🏆 COMP:  LALIGA
+🔢 ROUND: 18. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_cádiz-cf/aufstellung/spielbericht/3607605
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+       23. Ferland Mendy
+       17. Lucas Vázquez
+       14. Casemiro
+        8. Toni Kroos
+       15. Federico Valverde
+       20. Vinicius Junior
+        7. Eden Hazard
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (2):
+        6. Nacho Fernández
+       16. Luka Jović
+
+✈️  CÁDIZ CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Conan Ledesma
+        3. Fali
+       16. Juan Cala
+       22. Alfonso Espino
+       15. Carlos Akapo
+        2. Jens Jönsson
+       12. Tomás Alarcón
+        8. Álex Fernández
+       14. Iván Alejo
+       21. Rubén Sobrino
+        9. Choco Lozano
+
+   🔄 SUBSTITUTES IN (4):
+        4. Marcos Mauro
+       30. Álvaro Bastida
+       27. Iván Chapela
+       18. Álvaro Negredo
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 19.12.2021|LALIGA|18. Kolejka|Real Madryt|Cádiz CF|Thibaut Courtois|David Alaba|Éder Militão|Ferland Mendy|Lucas Vázquez|Casemiro|Toni Kroos|Federico Valverde|Vinicius Junior|Eden Hazard|Karim Benzema|Nacho Fernández|Luka Jović|Conan Ledesma|Fali|Juan Cala|Alfonso Espino|Carlos Akapo|Jens Jönsson|Tomás Alarcón|Álex Fernández|Iván Alejo|Rubén Sobrino|Choco Lozano|Marcos Mauro|Álvaro Bastida|Iván Chapela|Álvaro Negredo
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #55
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Manchester City
+📅 DATE:  śr., 04.05.2022
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_manchester-city/aufstellung/spielbericht/3796968
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 17 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        3. Éder Militão
+        6. Nacho Fernández
+       23. Ferland Mendy
+        2. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       15. Federico Valverde
+       10. Luka Modrić
+       20. Vinicius Junior
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (6):
+        5. Jesús Vallejo
+       17. Lucas Vázquez
+       25. Eduardo Camavinga
+       19. Dani Ceballos
+       11. Marco Asensio
+       21. Rodrygo
+
+✈️  MANCHESTER CITY - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       31. Ederson
+       14. Aymeric Laporte
+        3. Rúben Dias
+       27. João Cancelo
+        2. Kyle Walker
+       16. Rodri
+       20. Bernardo Silva
+       17. Kevin De Bruyne
+       47. Phil Foden
+       26. Riyad Mahrez
+        9. Gabriel Jesus
+
+   🔄 SUBSTITUTES IN (5):
+       11. Oleksandr Zinchenko
+       25. Fernandinho
+        8. İlkay Gündoğan
+       10. Jack Grealish
+        7. Raheem Sterling
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 04.05.2022|Unknown|Unknown|Real Madryt|Manchester City|Thibaut Courtois|Éder Militão|Nacho Fernández|Ferland Mendy|Daniel Carvajal|Casemiro|Toni Kroos|Federico Valverde|Luka Modrić|Vinicius Junior|Karim Benzema|Jesús Vallejo|Lucas Vázquez|Eduardo Camavinga|Dani Ceballos|Marco Asensio|Rodrygo|Ederson|Aymeric Laporte|Rúben Dias|João Cancelo|Kyle Walker|Rodri|Bernardo Silva|Kevin De Bruyne|Phil Foden|Riyad Mahrez|Gabriel Jesus|Oleksandr Zinchenko|Fernandinho|İlkay Gündoğan|Jack Grealish|Raheem Sterling
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #56
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  FC Barcelona
+📅 DATE:  niedz., 20.03.2022
+🏆 COMP:  LALIGA
+🔢 ROUND: 29. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_fc-barcelona/aufstellung/spielbericht/3610564
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+        4. David Alaba
+        3. Éder Militão
+        6. Nacho Fernández
+        2. Daniel Carvajal
+       14. Casemiro
+        8. Toni Kroos
+       15. Federico Valverde
+       20. Vinicius Junior
+       21. Rodrygo
+       10. Luka Modrić
+
+   🔄 SUBSTITUTES IN (4):
+       17. Lucas Vázquez
+       25. Eduardo Camavinga
+       11. Marco Asensio
+       24. Mariano Díaz
+
+✈️  FC BARCELONA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc-André ter Stegen
+        3. Gerard Piqué
+       24. Eric García
+       18. Jordi Alba
+        4. Ronald Araujo
+        5. Sergio Busquets
+       16. Pedri
+       21. Frenkie de Jong
+       19. Ferran Torres
+        7. Ousmane Dembélé
+       25. Pierre-Emerick Aubameyang
+
+   🔄 SUBSTITUTES IN (5):
+        8. Dani Alves
+       14. Nico González
+       30. Gavi
+       11. Adama Traoré
+        9. Memphis Depay
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 20.03.2022|LALIGA|29. Kolejka|Real Madryt|FC Barcelona|Thibaut Courtois|David Alaba|Éder Militão|Nacho Fernández|Daniel Carvajal|Casemiro|Toni Kroos|Federico Valverde|Vinicius Junior|Rodrygo|Luka Modrić|Lucas Vázquez|Eduardo Camavinga|Marco Asensio|Mariano Díaz|Marc-André ter Stegen|Gerard Piqué|Eric García|Jordi Alba|Ronald Araujo|Sergio Busquets|Pedri|Frenkie de Jong|Ferran Torres|Ousmane Dembélé|Pierre-Emerick Aubameyang|Dani Alves|Nico González|Gavi|Adama Traoré|Memphis Depay
+

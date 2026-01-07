@@ -1,0 +1,181 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2475457 | niedz., 22.03.2015 | FC Barcelona
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2475246 | niedz., 05.10.2014 | Athletic Bilbao
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, James Rodríguez, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2495329 | wt., 04.11.2014 | FC Liverpool
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Marcelo, Álvaro Arbeloa, Toni Kroos, Luka Modrić, Isco, James Rodríguez, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2517524 | wt., 10.03.2015 | FC Schalke 04
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Fábio Coentrão, Álvaro Arbeloa, Sami Khedira, Toni Kroos, Isco, Gareth Bale, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2475366 | niedz., 18.01.2015 | Getafe CF
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, James Rodríguez, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2475379 | sob., 24.01.2015 | Córdoba CF
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Marcelo, Daniel Carvajal, Sami Khedira, Toni Kroos, James Rodríguez, Gareth Bale, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2475537 | sob., 09.05.2015 | Valencia CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Toni Kroos, James Rodríguez, Isco, Cristiano Ronaldo, Gareth Bale, Chicharito
+
+MATCH: 2475447 | niedz., 15.03.2015 | Levante UD
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Lucas Silva, Luka Modrić, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2475278 | sob., 01.11.2014 | Granada CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Isco, James Rodríguez, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2475426 | niedz., 01.03.2015 | Villarreal CF
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Marcelo, Daniel Carvajal, Lucas Silva, Toni Kroos, Isco, Gareth Bale, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2475338 | śr., 04.02.2015 | Sevilla FC
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Marcelo, Álvaro Arbeloa, Sami Khedira, Toni Kroos, Isco, James Rodríguez, Gareth Bale, Karim Benzema
+
+MATCH: 2475518 | śr., 29.04.2015 | UD Almería
+PLAYERS: Keylor Navas, Raphaël Varane, Pepe, Fábio Coentrão, Álvaro Arbeloa, Asier Illarramendi, Toni Kroos, James Rodríguez, Cristiano Ronaldo, Jesé, Chicharito
+
+MATCH: 2490845 | wt., 16.09.2014 | FC Basel 1893
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Nacho Fernández, Toni Kroos, Luka Modrić, James Rodríguez, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2475319 | sob., 06.12.2014 | Celta de Vigo
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Asier Illarramendi, Toni Kroos, James Rodríguez, Gareth Bale, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2475225 | wt., 23.09.2014 | Elche CF
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Marcelo, Daniel Carvajal, Asier Illarramendi, Toni Kroos, Isco, James Rodríguez, Gareth Bale, Cristiano Ronaldo
+
+MATCH: 2475328 | pt., 12.12.2014 | UD Almería
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Marcelo, Daniel Carvajal, Asier Illarramendi, Toni Kroos, Isco, Gareth Bale, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2475357 | sob., 10.01.2015 | RCD Espanyol
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Fábio Coentrão, Álvaro Arbeloa, Toni Kroos, James Rodríguez, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2475547 | niedz., 17.05.2015 | RCD Espanyol
+PLAYERS: Keylor Navas, Raphaël Varane, Pepe, Marcelo, Daniel Carvajal, Toni Kroos, James Rodríguez, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2560715 | wt., 05.05.2015 | Juventus Turyn
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Marcelo, Daniel Carvajal, Sergio Ramos, Toni Kroos, Isco, James Rodríguez, Gareth Bale, Cristiano Ronaldo
+
+MATCH: 2495305 | śr., 01.10.2014 | Ludogorets Razgrad
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Marcelo, Álvaro Arbeloa, Asier Illarramendi, Luka Modrić, Isco, Gareth Bale, Cristiano Ronaldo, Chicharito
+
+MATCH: 2475405 | sob., 14.02.2015 | Deportivo de La Coruña
+PLAYERS: Iker Casillas, Raphaël Varane, Nacho Fernández, Marcelo, Álvaro Arbeloa, Asier Illarramendi, Toni Kroos, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2475215 | sob., 20.09.2014 | Deportivo de La Coruña
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Marcelo, Álvaro Arbeloa, Toni Kroos, Luka Modrić, James Rodríguez, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2475309 | sob., 29.11.2014 | Málaga CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, Isco, James Rodríguez, Gareth Bale, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2475267 | sob., 25.10.2014 | FC Barcelona
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Isco, James Rodríguez, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2505177 | śr., 29.10.2014 | UE Cornellà
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Álvaro Arbeloa, Daniel Carvajal, Asier Illarramendi, Sami Khedira, Isco, James Rodríguez, Chicharito, Karim Benzema
+
+MATCH: 2475394 | sob., 07.02.2015 | Atlético Madryt
+PLAYERS: Iker Casillas, Raphaël Varane, Nacho Fernández, Fábio Coentrão, Daniel Carvajal, Sami Khedira, Toni Kroos, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2495320 | śr., 22.10.2014 | FC Liverpool
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Marcelo, Álvaro Arbeloa, Toni Kroos, Luka Modrić, Isco, James Rodríguez, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2475236 | sob., 27.09.2014 | Villarreal CF
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, James Rodríguez, Gareth Bale, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2475556 | sob., 23.05.2015 | Getafe CF
+PLAYERS: Iker Casillas, Pepe, Nacho Fernández, Marcelo, Álvaro Arbeloa, Asier Illarramendi, Toni Kroos, James Rodríguez, Cristiano Ronaldo, Jesé, Chicharito
+
+MATCH: 2547384 | śr., 22.04.2015 | Atlético Madryt
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Fábio Coentrão, Daniel Carvajal, Sergio Ramos, Toni Kroos, Isco, James Rodríguez, Cristiano Ronaldo, Chicharito
+
+MATCH: 2475347 | niedz., 04.01.2015 | Valencia CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, James Rodríguez, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2475489 | sob., 11.04.2015 | SD Eibar
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Marcelo, Álvaro Arbeloa, Asier Illarramendi, Luka Modrić, Isco, Cristiano Ronaldo, Jesé, Chicharito
+
+MATCH: 2560718 | śr., 13.05.2015 | Juventus Turyn
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, James Rodríguez, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2517431 | wt., 16.12.2014 | CD Cruz Azul
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Asier Illarramendi, Toni Kroos, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2518507 | sob., 20.12.2014 | CA San Lorenzo de Almagro
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, James Rodríguez, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2517516 | śr., 18.02.2015 | FC Schalke 04
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Marcelo, Daniel Carvajal, Toni Kroos, Lucas Silva, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2475499 | sob., 18.04.2015 | Málaga CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Toni Kroos, Luka Modrić, Isco, James Rodríguez, Gareth Bale, Cristiano Ronaldo
+
+MATCH: 2495353 | śr., 26.11.2014 | FC Basel 1893
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Toni Kroos, James Rodríguez, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2495361 | wt., 09.12.2014 | Ludogorets Razgrad
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Fábio Coentrão, Álvaro Arbeloa, Asier Illarramendi, Toni Kroos, Isco, Gareth Bale, Cristiano Ronaldo, Chicharito
+
+MATCH: 2475299 | sob., 22.11.2014 | SD Eibar
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, Isco, James Rodríguez, Gareth Bale, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2475415 | niedz., 22.02.2015 | Elche CF
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Marcelo, Daniel Carvajal, Lucas Silva, Toni Kroos, Isco, Gareth Bale, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2481145 | wt., 19.08.2014 | Atlético Madryt
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Xabi Alonso, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2475384 | sob., 31.01.2015 | Real Sociedad
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Marcelo, Daniel Carvajal, Asier Illarramendi, Toni Kroos, Isco, James Rodríguez, Gareth Bale, Karim Benzema
+
+MATCH: 2475478 | śr., 08.04.2015 | Rayo Vallecano
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, James Rodríguez, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2505204 | wt., 02.12.2014 | UE Cornellà
+PLAYERS: Fernando Pacheco, Raphaël Varane, Nacho Fernández, Fábio Coentrão, Álvaro Arbeloa, Asier Illarramendi, Sami Khedira, Álvaro Medrán, Isco, James Rodríguez, Chicharito
+
+MATCH: 2475436 | sob., 07.03.2015 | Athletic Bilbao
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Marcelo, Daniel Carvajal, Asier Illarramendi, Toni Kroos, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2475204 | sob., 13.09.2014 | Atlético Madryt
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Toni Kroos, Luka Modrić, James Rodríguez, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2475528 | sob., 02.05.2015 | Sevilla FC
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Marcelo, Daniel Carvajal, Sergio Ramos, Toni Kroos, Isco, James Rodríguez, Cristiano Ronaldo, Chicharito
+
+MATCH: 2475194 | niedz., 31.08.2014 | Real Sociedad
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, James Rodríguez, Isco, Gareth Bale, Karim Benzema
+
+MATCH: 2475509 | niedz., 26.04.2015 | Celta de Vigo
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Marcelo, Daniel Carvajal, Asier Illarramendi, Toni Kroos, Isco, James Rodríguez, Cristiano Ronaldo, Chicharito
+
+MATCH: 2547350 | wt., 14.04.2015 | Atlético Madryt
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, James Rodríguez, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2483945 | wt., 12.08.2014 | Sevilla FC
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Daniel Carvajal, Toni Kroos, Luka Modrić, James Rodríguez, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2518524 | śr., 07.01.2015 | Atlético Madryt
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Marcelo, Álvaro Arbeloa, Sami Khedira, Toni Kroos, Isco, James Rodríguez, Gareth Bale, Karim Benzema
+
+MATCH: 2518532 | czw., 15.01.2015 | Atlético Madryt
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, Isco, James Rodríguez, Gareth Bale, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2481146 | pt., 22.08.2014 | Atlético Madryt
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Fábio Coentrão, Daniel Carvajal, Xabi Alonso, Toni Kroos, Luka Modrić, James Rodríguez, Gareth Bale, Karim Benzema
+
+MATCH: 2475189 | pon., 25.08.2014 | Córdoba CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Toni Kroos, Luka Modrić, James Rodríguez, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2475288 | sob., 08.11.2014 | Rayo Vallecano
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Marcelo, Nacho Fernández, Toni Kroos, Luka Modrić, James Rodríguez, Gareth Bale, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2475468 | niedz., 05.04.2015 | Granada CF
+PLAYERS: Iker Casillas, Raphaël Varane, Sergio Ramos, Marcelo, Álvaro Arbeloa, Toni Kroos, Luka Modrić, James Rodríguez, Gareth Bale, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2475257 | sob., 18.10.2014 | Levante UD
+PLAYERS: Iker Casillas, Pepe, Nacho Fernández, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Isco, James Rodríguez, Cristiano Ronaldo, Chicharito
+

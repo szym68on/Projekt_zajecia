@@ -1,0 +1,157 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3208676 | niedz., 22.09.2019 | Sevilla FC
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, James Rodríguez, Eden Hazard, Gareth Bale, Karim Benzema
+
+MATCH: 3208767 | sob., 09.11.2019 | SD Eibar
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Luka Modrić, Federico Valverde, Eden Hazard, Lucas Vázquez, Karim Benzema
+
+MATCH: 3208658 | niedz., 01.09.2019 | Villarreal CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Gareth Bale, Lucas Vázquez, Karim Benzema, Luka Jović
+
+MATCH: 3209974 | sob., 22.02.2020 | Levante UD
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Eden Hazard, Isco, Karim Benzema
+
+MATCH: 3209964 | niedz., 16.02.2020 | Celta de Vigo
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Eden Hazard, Gareth Bale, Karim Benzema
+
+MATCH: 3312782 | czw., 06.02.2020 | Real Sociedad
+PLAYERS: Alphonse Areola, Éder Militão, Sergio Ramos, Marcelo, Nacho Fernández, Federico Valverde, Toni Kroos, James Rodríguez, Vinicius Junior, Brahim Díaz, Karim Benzema
+
+MATCH: 3208619 | sob., 17.08.2019 | Celta de Vigo
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Álvaro Odriozola, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Gareth Bale, Karim Benzema
+
+MATCH: 3208826 | sob., 04.01.2020 | Getafe CF
+PLAYERS: Thibaut Courtois, Éder Militão, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Isco, Gareth Bale, Karim Benzema
+
+MATCH: 3307691 | śr., 22.01.2020 | Unionistas CF
+PLAYERS: Alphonse Areola, Éder Militão, Nacho Fernández, Marcelo, Daniel Carvajal, Casemiro, Federico Valverde, James Rodríguez, Vinicius Junior, Gareth Bale, Karim Benzema
+
+MATCH: 3210061 | niedz., 21.06.2020 | Real Sociedad
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Vinicius Junior, James Rodríguez, Karim Benzema
+
+MATCH: 3210000 | niedz., 08.03.2020 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Éder Militão, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3208749 | śr., 30.10.2019 | CD Leganés
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Eden Hazard, Rodrygo, Karim Benzema
+
+MATCH: 3208629 | niedz., 19.07.2020 | CD Leganés
+PLAYERS: Alphonse Areola, Éder Militão, Sergio Ramos, Ferland Mendy, Lucas Vázquez, Casemiro, Federico Valverde, Isco, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3208666 | sob., 14.09.2019 | Levante UD
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, James Rodríguez, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3210079 | śr., 24.06.2020 | RCD Mallorca
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Luka Modrić, Federico Valverde, Eden Hazard, Vinicius Junior, Gareth Bale, Karim Benzema
+
+MATCH: 3210103 | niedz., 05.07.2020 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Éder Militão, Sergio Ramos, Marcelo, Daniel Carvajal, Casemiro, Luka Modrić, Federico Valverde, Marco Asensio, Rodrygo, Karim Benzema
+
+MATCH: 3208709 | sob., 05.10.2019 | Granada CF
+PLAYERS: Alphonse Areola, Sergio Ramos, Raphaël Varane, Daniel Carvajal, Álvaro Odriozola, Casemiro, Toni Kroos, Federico Valverde, Eden Hazard, Gareth Bale, Karim Benzema
+
+MATCH: 3208851 | niedz., 26.01.2020 | Real Valladolid CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Nacho Fernández, Casemiro, Toni Kroos, Luka Modrić, Isco, Rodrygo, Karim Benzema
+
+MATCH: 3252187 | wt., 22.10.2019 | Galatasaray
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Eden Hazard, Rodrygo, Karim Benzema
+
+MATCH: 3291936 | pt., 07.08.2020 | Manchester City
+PLAYERS: Thibaut Courtois, Éder Militão, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Eden Hazard, Rodrygo, Karim Benzema
+
+MATCH: 3252219 | wt., 26.11.2019 | FC Paris Saint-Germain
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Eden Hazard, Isco, Karim Benzema
+
+MATCH: 3208720 | sob., 19.10.2019 | RCD Mallorca
+PLAYERS: Thibaut Courtois, Éder Militão, Sergio Ramos, Marcelo, Álvaro Odriozola, Casemiro, Isco, Vinicius Junior, James Rodríguez, Karim Benzema, Luka Jović
+
+MATCH: 3208758 | sob., 02.11.2019 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Eden Hazard, Rodrygo, Karim Benzema
+
+MATCH: 3208782 | sob., 30.11.2019 | Deportivo Alavés
+PLAYERS: Alphonse Areola, Éder Militão, Sergio Ramos, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Isco, Gareth Bale, Karim Benzema
+
+MATCH: 3208685 | śr., 25.09.2019 | CA Osasuna
+PLAYERS: Alphonse Areola, Éder Militão, Sergio Ramos, Nacho Fernández, Álvaro Odriozola, Casemiro, Toni Kroos, Federico Valverde, Vinicius Junior, Lucas Vázquez, Luka Jović
+
+MATCH: 3291928 | śr., 26.02.2020 | Manchester City
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Luka Modrić, Federico Valverde, Vinicius Junior, Isco, Karim Benzema
+
+MATCH: 3210120 | pt., 10.07.2020 | Deportivo Alavés
+PLAYERS: Thibaut Courtois, Éder Militão, Raphaël Varane, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Rodrygo, Marco Asensio, Karim Benzema
+
+MATCH: 3280661 | śr., 08.01.2020 | Valencia CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Luka Modrić, Isco, Luka Jović
+
+MATCH: 3208694 | sob., 28.09.2019 | Atlético Madryt
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Nacho Fernández, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Eden Hazard, Gareth Bale, Karim Benzema
+
+MATCH: 3209809 | niedz., 09.02.2020 | CA Osasuna
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Luka Modrić, Federico Valverde, Isco, Gareth Bale, Karim Benzema
+
+MATCH: 3310291 | śr., 29.01.2020 | Real Zaragoza
+PLAYERS: Alphonse Areola, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Toni Kroos, Federico Valverde, James Rodríguez, Vinicius Junior, Lucas Vázquez, Luka Jović
+
+MATCH: 3208819 | niedz., 22.12.2019 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Éder Militão, Sergio Ramos, Ferland Mendy, Daniel Carvajal, Federico Valverde, Toni Kroos, Luka Modrić, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3252162 | wt., 01.10.2019 | FC Brügge
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Nacho Fernández, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Eden Hazard, Lucas Vázquez, Karim Benzema
+
+MATCH: 3210126 | pon., 13.07.2020 | Granada CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Luka Modrić, Isco, Karim Benzema
+
+MATCH: 3208840 | sob., 18.01.2020 | Sevilla FC
+PLAYERS: Thibaut Courtois, Éder Militão, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Rodrygo, Lucas Vázquez, Luka Jović
+
+MATCH: 3304319 | niedz., 12.01.2020 | Atlético Madryt
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Luka Modrić, Isco, Luka Jović
+
+MATCH: 3208799 | sob., 07.12.2019 | RCD Espanyol
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3252211 | śr., 06.11.2019 | Galatasaray
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Eden Hazard, Rodrygo, Karim Benzema
+
+MATCH: 3208811 | niedz., 15.12.2019 | Valencia CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Nacho Fernández, Daniel Carvajal, Federico Valverde, Toni Kroos, Luka Modrić, Isco, Rodrygo, Karim Benzema
+
+MATCH: 3252242 | śr., 11.12.2019 | FC Brügge
+PLAYERS: Alphonse Areola, Éder Militão, Raphaël Varane, Ferland Mendy, Álvaro Odriozola, Casemiro, Luka Modrić, Isco, Vinicius Junior, Rodrygo, Luka Jović
+
+MATCH: 3210140 | czw., 16.07.2020 | Villarreal CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Eden Hazard, Rodrygo, Karim Benzema
+
+MATCH: 3210022 | niedz., 14.06.2020 | SD Eibar
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Eden Hazard, Rodrygo, Karim Benzema
+
+MATCH: 3208648 | sob., 24.08.2019 | Real Valladolid CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, James Rodríguez, Isco, Gareth Bale, Karim Benzema
+
+MATCH: 3209984 | niedz., 01.03.2020 | FC Barcelona
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Isco, Vinicius Junior, Karim Benzema
+
+MATCH: 3208779 | sob., 23.11.2019 | Real Sociedad
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Luka Modrić, Federico Valverde, Eden Hazard, Rodrygo, Karim Benzema
+
+MATCH: 3210042 | czw., 18.06.2020 | Valencia CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Federico Valverde, Eden Hazard, Karim Benzema
+
+MATCH: 3208724 | śr., 18.12.2019 | FC Barcelona
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Isco, Gareth Bale, Karim Benzema
+
+MATCH: 3210099 | czw., 02.07.2020 | Getafe CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Isco, Karim Benzema
+
+MATCH: 3210086 | niedz., 28.06.2020 | RCD Espanyol
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Eden Hazard, Isco, Karim Benzema
+
+MATCH: 3209798 | sob., 01.02.2020 | Atlético Madryt
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Luka Modrić, Isco, Karim Benzema
+
+MATCH: 3252147 | śr., 18.09.2019 | FC Paris Saint-Germain
+PLAYERS: Thibaut Courtois, Éder Militão, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, James Rodríguez, Eden Hazard, Gareth Bale, Karim Benzema
+

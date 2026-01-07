@@ -1,0 +1,196 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 1182750 | śr., 08.02.2012 | Valencia CF
+PLAYERS: José Manuel Pinto, Gerard Piqué, Javier Mascherano, Éric Abidal, Carles Puyol, Thiago Alcántara, Cesc Fàbregas, Xavi, Alexis Sánchez, Isaac Cuenca, Lionel Messi
+
+MATCH: 1178301 | śr., 18.01.2012 | Real Madryt
+PLAYERS: José Manuel Pinto, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Cesc Fàbregas, Alexis Sánchez, Lionel Messi
+
+MATCH: 1174225 | śr., 07.03.2012 | Bayer 04 Leverkusen
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Adriano, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Pedro, Cesc Fàbregas, Lionel Messi
+
+MATCH: 1125235 | pon., 29.08.2011 | Villarreal CF
+PLAYERS: Víctor Valdés, Éric Abidal, Javier Mascherano, Sergio Busquets, Seydou Keita, Thiago Alcántara, Cesc Fàbregas, Andrés Iniesta, Pedro, Alexis Sánchez, Lionel Messi
+
+MATCH: 1125524 | sob., 07.04.2012 | Real Zaragoza
+PLAYERS: Víctor Valdés, Carles Puyol, Javier Mascherano, Adriano, Dani Alves, Seydou Keita, Cesc Fàbregas, Thiago Alcántara, Pedro, Alexis Sánchez, Lionel Messi
+
+MATCH: 1142349 | pt., 26.08.2011 | FC Porto
+PLAYERS: Víctor Valdés, Éric Abidal, Javier Mascherano, Adriano, Dani Alves, Seydou Keita, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1176716 | czw., 12.01.2012 | CA Osasuna
+PLAYERS: José Manuel Pinto, Andreu Fontàs, Gerard Piqué, Adriano, Martín Montoya, Javier Mascherano, Thiago Alcántara, Sergi Roberto, Isaac Cuenca, Pedro, Alexis Sánchez
+
+MATCH: 1125282 | niedz., 02.10.2011 | Sporting Gijón
+PLAYERS: Víctor Valdés, Éric Abidal, Javier Mascherano, Adriano, Dani Alves, Sergio Busquets, Xavi, Thiago Alcántara, David Villa, Pedro, Lionel Messi
+
+MATCH: 1141887 | śr., 19.10.2011 | FC Viktoria Pilzno
+PLAYERS: Víctor Valdés, Éric Abidal, Javier Mascherano, Adriano, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1125543 | sob., 24.03.2012 | RCD Mallorca
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Javier Mascherano, Sergio Busquets, Andrés Iniesta, Cesc Fàbregas, Thiago Alcántara, Pedro, Lionel Messi, Alexis Sánchez
+
+MATCH: 1125463 | niedz., 26.02.2012 | Atlético Madryt
+PLAYERS: Víctor Valdés, Carles Puyol, Javier Mascherano, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Cesc Fàbregas, Alexis Sánchez, Lionel Messi
+
+MATCH: 2194738 | śr., 18.04.2012 | Chelsea FC
+PLAYERS: Víctor Valdés, Carles Puyol, Javier Mascherano, Adriano, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Andrés Iniesta, Alexis Sánchez, Lionel Messi
+
+MATCH: 1141924 | śr., 23.11.2011 | AC Milan
+PLAYERS: Víctor Valdés, Javier Mascherano, Sergio Busquets, Éric Abidal, Carles Puyol, Seydou Keita, Xavi, Thiago Alcántara, David Villa, Cesc Fàbregas, Lionel Messi
+
+MATCH: 1176708 | śr., 04.01.2012 | CA Osasuna
+PLAYERS: José Manuel Pinto, Gerard Piqué, Carles Puyol, Javier Mascherano, Sergio Busquets, Xavi, Dani Alves, Thiago Alcántara, Pedro, Isaac Cuenca, Cesc Fàbregas
+
+MATCH: 1125472 | sob., 03.03.2012 | Sporting Gijón
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Adriano, Dani Alves, Seydou Keita, Andrés Iniesta, Xavi, Pedro, Isaac Cuenca, Cesc Fàbregas
+
+MATCH: 1125587 | sob., 05.05.2012 | RCD Espanyol
+PLAYERS: José Manuel Pinto, Carles Puyol, Javier Mascherano, Adriano, Martín Montoya, Sergio Busquets, Seydou Keita, Thiago Alcántara, Andrés Iniesta, Pedro, Lionel Messi
+
+MATCH: 1122445 | śr., 17.08.2011 | Real Madryt
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1158643 | czw., 22.12.2011 | CE L'Hospitalet
+PLAYERS: José Manuel Pinto, Andreu Fontàs, Gerard Piqué, Carles Puyol, Sergio Busquets, Xavi, Pedro, Isaac Cuenca, Andrés Iniesta, Thiago Alcántara, Cesc Fàbregas
+
+MATCH: 1125535 | wt., 10.04.2012 | Getafe CF
+PLAYERS: Víctor Valdés, Carles Puyol, Adriano, Javier Mascherano, Sergio Busquets, Andrés Iniesta, Xavi, Isaac Cuenca, Pedro, Lionel Messi, Alexis Sánchez
+
+MATCH: 1125355 | sob., 26.11.2011 | Getafe CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Éric Abidal, Maxwell, Dani Alves, Sergio Busquets, Xavi, Thiago Alcántara, David Villa, Alexis Sánchez, Lionel Messi
+
+MATCH: 1125414 | śr., 02.05.2012 | Málaga CF
+PLAYERS: José Manuel Pinto, Carles Puyol, Javier Mascherano, Adriano, Dani Alves, Seydou Keita, Andrés Iniesta, Cesc Fàbregas, Pedro, Isaac Cuenca, Lionel Messi
+
+MATCH: 1125302 | sob., 22.10.2011 | Sevilla FC
+PLAYERS: Víctor Valdés, Éric Abidal, Javier Mascherano, Adriano, Dani Alves, Seydou Keita, Xavi, Thiago Alcántara, Andrés Iniesta, David Villa, Lionel Messi
+
+MATCH: 2194739 | wt., 24.04.2012 | Chelsea FC
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Javier Mascherano, Sergio Busquets, Xavi, Isaac Cuenca, Andrés Iniesta, Cesc Fàbregas, Lionel Messi, Alexis Sánchez
+
+MATCH: 1134009 | sob., 31.03.2012 | Athletic Bilbao
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Adriano, Dani Alves, Sergio Busquets, Andrés Iniesta, Thiago Alcántara, Cristian Tello, Alexis Sánchez, Lionel Messi
+
+MATCH: 1122444 | niedz., 14.08.2011 | Real Madryt
+PLAYERS: Víctor Valdés, Éric Abidal, Javier Mascherano, Adriano, Dani Alves, Seydou Keita, Andrés Iniesta, Thiago Alcántara, David Villa, Alexis Sánchez, Lionel Messi
+
+MATCH: 1125244 | sob., 10.09.2011 | Real Sociedad
+PLAYERS: Víctor Valdés, Andreu Fontàs, Sergio Busquets, Adriano, Dani Alves, Seydou Keita, Xavi, Thiago Alcántara, Alexis Sánchez, Pedro, Cesc Fàbregas
+
+MATCH: 1125376 | sob., 10.12.2011 | Real Madryt
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Alexis Sánchez, Lionel Messi, Cesc Fàbregas
+
+MATCH: 1125597 | sob., 12.05.2012 | Real Betis Balompié
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Adriano, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Ibrahim Afellay, Pedro, Lionel Messi
+
+MATCH: 1184511 | pt., 25.05.2012 | Athletic Bilbao
+PLAYERS: José Manuel Pinto, Gerard Piqué, Javier Mascherano, Adriano, Martín Montoya, Sergio Busquets, Andrés Iniesta, Xavi, Pedro, Alexis Sánchez, Lionel Messi
+
+MATCH: 1125485 | niedz., 11.03.2012 | Racing Santander
+PLAYERS: Víctor Valdés, Carles Puyol, Dani Alves, Javier Mascherano, Sergio Busquets, Cesc Fàbregas, Xavi, Andrés Iniesta, Pedro, Isaac Cuenca, Lionel Messi
+
+MATCH: 1125566 | sob., 21.04.2012 | Real Madryt
+PLAYERS: Víctor Valdés, Carles Puyol, Javier Mascherano, Sergio Busquets, Xavi, Andrés Iniesta, Thiago Alcántara, Dani Alves, Adriano, Cristian Tello, Lionel Messi
+
+MATCH: 1141932 | wt., 06.12.2011 | BATE Borysów
+PLAYERS: José Manuel Pinto, Andreu Fontàs, Marc Bartra, Maxwell, Martín Montoya, Jonathan dos Santos, Thiago Alcántara, Sergi Roberto, Pedro, Isaac Cuenca, Rafinha
+
+MATCH: 1125444 | sob., 11.02.2012 | CA Osasuna
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Javier Mascherano, Thiago Alcántara, Sergi Roberto, Pedro, Alexis Sánchez, Lionel Messi
+
+MATCH: 1182748 | śr., 01.02.2012 | Valencia CF
+PLAYERS: José Manuel Pinto, Gerard Piqué, Javier Mascherano, Éric Abidal, Carles Puyol, Sergio Busquets, Cesc Fàbregas, Thiago Alcántara, Alexis Sánchez, Isaac Cuenca, Lionel Messi
+
+MATCH: 1125492 | sob., 17.03.2012 | Sevilla FC
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Adriano, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Andrés Iniesta, Pedro, Lionel Messi
+
+MATCH: 1193022 | śr., 28.03.2012 | AC Milan
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Carles Puyol, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Andrés Iniesta, Alexis Sánchez, Lionel Messi
+
+MATCH: 1173592 | czw., 15.12.2011 | Al-Sadd SC
+PLAYERS: Víctor Valdés, Carles Puyol, Javier Mascherano, Éric Abidal, Adriano, Seydou Keita, Andrés Iniesta, Thiago Alcántara, David Villa, Pedro, Lionel Messi
+
+MATCH: 1125503 | wt., 20.03.2012 | Granada CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Adriano, Dani Alves, Xavi, Seydou Keita, Thiago Alcántara, Isaac Cuenca, Alexis Sánchez, Lionel Messi
+
+MATCH: 1125323 | sob., 29.10.2011 | RCD Mallorca
+PLAYERS: Víctor Valdés, Éric Abidal, Javier Mascherano, Adriano, Dani Alves, Sergio Busquets, Seydou Keita, Thiago Alcántara, David Villa, Isaac Cuenca, Lionel Messi
+
+MATCH: 1141846 | wt., 13.09.2011 | AC Milan
+PLAYERS: Víctor Valdés, Javier Mascherano, Sergio Busquets, Éric Abidal, Dani Alves, Seydou Keita, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1125397 | niedz., 08.01.2012 | RCD Espanyol
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Cesc Fàbregas, Alexis Sánchez, Lionel Messi
+
+MATCH: 1174224 | wt., 14.02.2012 | Bayer 04 Leverkusen
+PLAYERS: Víctor Valdés, Carles Puyol, Javier Mascherano, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Cesc Fàbregas, Adriano, Alexis Sánchez, Lionel Messi
+
+MATCH: 1125063 | niedz., 22.01.2012 | Málaga CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Thiago Alcántara, Adriano, Alexis Sánchez, Lionel Messi
+
+MATCH: 1125425 | sob., 28.01.2012 | Villarreal CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Javier Mascherano, Sergio Busquets, Xavi, Adriano, Cesc Fàbregas, Lionel Messi
+
+MATCH: 1125365 | sob., 03.12.2011 | Levante UD
+PLAYERS: Víctor Valdés, Carles Puyol, Éric Abidal, Javier Mascherano, Sergio Busquets, Cesc Fàbregas, Andrés Iniesta, Xavi, Alexis Sánchez, Isaac Cuenca, Lionel Messi
+
+MATCH: 1125576 | niedz., 29.04.2012 | Rayo Vallecano
+PLAYERS: José Manuel Pinto, Carles Puyol, Javier Mascherano, Adriano, Martín Montoya, Sergio Busquets, Seydou Keita, Thiago Alcántara, Pedro, Alexis Sánchez, Lionel Messi
+
+MATCH: 1125555 | sob., 14.04.2012 | Levante UD
+PLAYERS: Víctor Valdés, Javier Mascherano, Sergio Busquets, Adriano, Carles Puyol, Thiago Alcántara, Cesc Fàbregas, Xavi, Alexis Sánchez, Pedro, Lionel Messi
+
+MATCH: 1125295 | sob., 15.10.2011 | Racing Santander
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Maxwell, Dani Alves, Thiago Alcántara, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1193025 | wt., 03.04.2012 | AC Milan
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Carles Puyol, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Isaac Cuenca, Lionel Messi, Cesc Fàbregas
+
+MATCH: 1125254 | sob., 17.09.2011 | CA Osasuna
+PLAYERS: Víctor Valdés, Carles Puyol, Éric Abidal, Javier Mascherano, Sergio Busquets, Xavi, Thiago Alcántara, Cesc Fàbregas, David Villa, Dani Alves, Lionel Messi
+
+MATCH: 1158640 | śr., 09.11.2011 | CE L'Hospitalet
+PLAYERS: Víctor Valdés, Andreu Fontàs, Carles Puyol, Maxwell, Jonathan dos Santos, Seydou Keita, Cesc Fàbregas, Xavi, Andrés Iniesta, Cristian Tello, David Villa
+
+MATCH: 1125273 | sob., 24.09.2011 | Atlético Madryt
+PLAYERS: Víctor Valdés, Éric Abidal, Dani Alves, Javier Mascherano, Sergio Busquets, Xavi, Thiago Alcántara, Cesc Fàbregas, David Villa, Pedro, Lionel Messi
+
+MATCH: 1125313 | wt., 25.10.2011 | Granada CF
+PLAYERS: Víctor Valdés, Éric Abidal, Javier Mascherano, Maxwell, Dani Alves, Sergio Busquets, Cesc Fàbregas, Xavi, Isaac Cuenca, Pedro, Lionel Messi
+
+MATCH: 1125334 | niedz., 06.11.2011 | Athletic Bilbao
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Adriano, Cesc Fàbregas, Lionel Messi
+
+MATCH: 1125344 | sob., 19.11.2011 | Real Zaragoza
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Maxwell, Dani Alves, Seydou Keita, Cesc Fàbregas, Xavi, Alexis Sánchez, Isaac Cuenca, Lionel Messi
+
+MATCH: 1141870 | śr., 28.09.2011 | BATE Borysów
+PLAYERS: Víctor Valdés, Carles Puyol, Javier Mascherano, Éric Abidal, Dani Alves, Seydou Keita, Xavi, Thiago Alcántara, David Villa, Pedro, Lionel Messi
+
+MATCH: 1178297 | śr., 25.01.2012 | Real Madryt
+PLAYERS: José Manuel Pinto, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Alexis Sánchez, Lionel Messi, Cesc Fàbregas
+
+MATCH: 1174208 | niedz., 18.12.2011 | Santos FC
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Xavi, Thiago Alcántara, Andrés Iniesta, Lionel Messi, Cesc Fàbregas
+
+MATCH: 1125263 | śr., 21.09.2011 | Valencia CF
+PLAYERS: Víctor Valdés, Carles Puyol, Éric Abidal, Javier Mascherano, Sergio Busquets, Xavi, Seydou Keita, Cesc Fàbregas, Pedro, Dani Alves, Lionel Messi
+
+MATCH: 1125453 | niedz., 19.02.2012 | Valencia CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Martín Montoya, Sergio Busquets, Andrés Iniesta, Cesc Fàbregas, Pedro, Alexis Sánchez, Lionel Messi
+
+MATCH: 1125407 | niedz., 15.01.2012 | Real Betis Balompié
+PLAYERS: Víctor Valdés, Carles Puyol, Éric Abidal, Javier Mascherano, Sergio Busquets, Xavi, Andrés Iniesta, Cesc Fàbregas, Alexis Sánchez, Isaac Cuenca, Lionel Messi
+
+MATCH: 1125434 | sob., 04.02.2012 | Real Sociedad
+PLAYERS: Víctor Valdés, Carles Puyol, Javier Mascherano, Adriano, Dani Alves, Jonathan dos Santos, Cesc Fàbregas, Thiago Alcántara, Cristian Tello, Isaac Cuenca, Lionel Messi
+
+MATCH: 1141895 | wt., 01.11.2011 | FC Viktoria Pilzno
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Adriano, Thiago Alcántara, Isaac Cuenca, Cesc Fàbregas, Lionel Messi
+
+MATCH: 1169025 | wt., 29.11.2011 | Rayo Vallecano
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Éric Abidal, Dani Alves, Seydou Keita, Andrés Iniesta, Xavi, David Villa, Alexis Sánchez, Lionel Messi
+

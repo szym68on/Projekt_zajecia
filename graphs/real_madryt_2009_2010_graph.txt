@@ -1,0 +1,236 @@
+# Graph for Java/GraphStream
+# Nodes: 23
+# Edges: 230
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Iker Casillas | Raúl Albiol | 40 | 46 | 42
+EDGE Iker Casillas | Ezequiel Garay | 20 | 46 | 20
+EDGE Iker Casillas | Marcelo | 40 | 46 | 40
+EDGE Iker Casillas | Sergio Ramos | 40 | 46 | 40
+EDGE Iker Casillas | Fernando Gago | 15 | 46 | 16
+EDGE Iker Casillas | Xabi Alonso | 41 | 46 | 41
+EDGE Iker Casillas | Esteban Granero | 24 | 46 | 25
+EDGE Iker Casillas | Rafael van der Vaart | 17 | 46 | 18
+EDGE Iker Casillas | Cristiano Ronaldo | 33 | 46 | 33
+EDGE Iker Casillas | Gonzalo Higuaín | 34 | 46 | 35
+EDGE Iker Casillas | Pepe | 16 | 46 | 17
+EDGE Iker Casillas | Álvaro Arbeloa | 36 | 46 | 38
+EDGE Iker Casillas | Lassana Diarra | 25 | 46 | 26
+EDGE Iker Casillas | Kaká | 28 | 46 | 29
+EDGE Iker Casillas | Karim Benzema | 17 | 46 | 18
+EDGE Iker Casillas | Raúl | 11 | 46 | 13
+EDGE Iker Casillas | Guti | 12 | 46 | 13
+EDGE Iker Casillas | Royston Drenthe | 4 | 46 | 5
+EDGE Iker Casillas | Mahamadou Diarra | 5 | 46 | 7
+EDGE Iker Casillas | Christoph Metzelder | 2 | 46 | 3
+EDGE Raúl Albiol | Ezequiel Garay | 14 | 42 | 20
+EDGE Raúl Albiol | Marcelo | 34 | 42 | 40
+EDGE Raúl Albiol | Sergio Ramos | 35 | 42 | 40
+EDGE Raúl Albiol | Fernando Gago | 15 | 42 | 16
+EDGE Raúl Albiol | Xabi Alonso | 35 | 42 | 41
+EDGE Raúl Albiol | Esteban Granero | 21 | 42 | 25
+EDGE Raúl Albiol | Rafael van der Vaart | 16 | 42 | 18
+EDGE Raúl Albiol | Cristiano Ronaldo | 30 | 42 | 33
+EDGE Raúl Albiol | Gonzalo Higuaín | 30 | 42 | 35
+EDGE Raúl Albiol | Pepe | 14 | 42 | 17
+EDGE Raúl Albiol | Álvaro Arbeloa | 33 | 42 | 38
+EDGE Raúl Albiol | Lassana Diarra | 23 | 42 | 26
+EDGE Raúl Albiol | Kaká | 25 | 42 | 29
+EDGE Raúl Albiol | Karim Benzema | 16 | 42 | 18
+EDGE Raúl Albiol | Raúl | 12 | 42 | 13
+EDGE Raúl Albiol | Guti | 12 | 42 | 13
+EDGE Raúl Albiol | Royston Drenthe | 3 | 42 | 5
+EDGE Raúl Albiol | Mahamadou Diarra | 6 | 42 | 7
+EDGE Raúl Albiol | Christoph Metzelder | 3 | 42 | 3
+EDGE Raúl Albiol | Jerzy Dudek | 2 | 42 | 2
+EDGE Raúl Albiol | Ruud van Nistelrooy | 1 | 42 | 1
+EDGE Ezequiel Garay | Marcelo | 16 | 20 | 40
+EDGE Ezequiel Garay | Sergio Ramos | 17 | 20 | 40
+EDGE Ezequiel Garay | Fernando Gago | 7 | 20 | 16
+EDGE Ezequiel Garay | Xabi Alonso | 17 | 20 | 41
+EDGE Ezequiel Garay | Esteban Granero | 9 | 20 | 25
+EDGE Ezequiel Garay | Rafael van der Vaart | 8 | 20 | 18
+EDGE Ezequiel Garay | Cristiano Ronaldo | 17 | 20 | 33
+EDGE Ezequiel Garay | Gonzalo Higuaín | 15 | 20 | 35
+EDGE Ezequiel Garay | Álvaro Arbeloa | 16 | 20 | 38
+EDGE Ezequiel Garay | Lassana Diarra | 12 | 20 | 26
+EDGE Ezequiel Garay | Kaká | 13 | 20 | 29
+EDGE Ezequiel Garay | Raúl | 3 | 20 | 13
+EDGE Ezequiel Garay | Karim Benzema | 6 | 20 | 18
+EDGE Ezequiel Garay | Guti | 3 | 20 | 13
+EDGE Ezequiel Garay | Pepe | 3 | 20 | 17
+EDGE Ezequiel Garay | Mahamadou Diarra | 2 | 20 | 7
+EDGE Ezequiel Garay | Royston Drenthe | 2 | 20 | 5
+EDGE Marcelo | Sergio Ramos | 35 | 40 | 40
+EDGE Marcelo | Fernando Gago | 13 | 40 | 16
+EDGE Marcelo | Xabi Alonso | 36 | 40 | 41
+EDGE Marcelo | Esteban Granero | 20 | 40 | 25
+EDGE Marcelo | Rafael van der Vaart | 16 | 40 | 18
+EDGE Marcelo | Cristiano Ronaldo | 27 | 40 | 33
+EDGE Marcelo | Gonzalo Higuaín | 30 | 40 | 35
+EDGE Marcelo | Pepe | 14 | 40 | 17
+EDGE Marcelo | Álvaro Arbeloa | 31 | 40 | 38
+EDGE Marcelo | Lassana Diarra | 21 | 40 | 26
+EDGE Marcelo | Kaká | 24 | 40 | 29
+EDGE Marcelo | Karim Benzema | 15 | 40 | 18
+EDGE Marcelo | Raúl | 9 | 40 | 13
+EDGE Marcelo | Guti | 10 | 40 | 13
+EDGE Marcelo | Mahamadou Diarra | 5 | 40 | 7
+EDGE Marcelo | Christoph Metzelder | 2 | 40 | 3
+EDGE Marcelo | Royston Drenthe | 2 | 40 | 5
+EDGE Sergio Ramos | Fernando Gago | 13 | 40 | 16
+EDGE Sergio Ramos | Xabi Alonso | 36 | 40 | 41
+EDGE Sergio Ramos | Esteban Granero | 21 | 40 | 25
+EDGE Sergio Ramos | Rafael van der Vaart | 15 | 40 | 18
+EDGE Sergio Ramos | Cristiano Ronaldo | 29 | 40 | 33
+EDGE Sergio Ramos | Gonzalo Higuaín | 29 | 40 | 35
+EDGE Sergio Ramos | Pepe | 14 | 40 | 17
+EDGE Sergio Ramos | Álvaro Arbeloa | 30 | 40 | 38
+EDGE Sergio Ramos | Lassana Diarra | 23 | 40 | 26
+EDGE Sergio Ramos | Kaká | 23 | 40 | 29
+EDGE Sergio Ramos | Karim Benzema | 14 | 40 | 18
+EDGE Sergio Ramos | Raúl | 9 | 40 | 13
+EDGE Sergio Ramos | Guti | 11 | 40 | 13
+EDGE Sergio Ramos | Royston Drenthe | 2 | 40 | 5
+EDGE Sergio Ramos | Mahamadou Diarra | 4 | 40 | 7
+EDGE Fernando Gago | Xabi Alonso | 12 | 16 | 41
+EDGE Fernando Gago | Esteban Granero | 8 | 16 | 25
+EDGE Fernando Gago | Rafael van der Vaart | 9 | 16 | 18
+EDGE Fernando Gago | Cristiano Ronaldo | 15 | 16 | 33
+EDGE Fernando Gago | Gonzalo Higuaín | 14 | 16 | 35
+EDGE Fernando Gago | Lassana Diarra | 3 | 16 | 26
+EDGE Fernando Gago | Kaká | 7 | 16 | 29
+EDGE Fernando Gago | Raúl | 2 | 16 | 13
+EDGE Fernando Gago | Karim Benzema | 2 | 16 | 18
+EDGE Fernando Gago | Guti | 6 | 16 | 13
+EDGE Fernando Gago | Álvaro Arbeloa | 12 | 16 | 38
+EDGE Fernando Gago | Jerzy Dudek | 1 | 16 | 2
+EDGE Fernando Gago | Pepe | 2 | 16 | 17
+EDGE Fernando Gago | Mahamadou Diarra | 2 | 16 | 7
+EDGE Fernando Gago | Ruud van Nistelrooy | 1 | 16 | 1
+EDGE Fernando Gago | Christoph Metzelder | 1 | 16 | 3
+EDGE Xabi Alonso | Esteban Granero | 21 | 41 | 25
+EDGE Xabi Alonso | Rafael van der Vaart | 15 | 41 | 18
+EDGE Xabi Alonso | Cristiano Ronaldo | 28 | 41 | 33
+EDGE Xabi Alonso | Gonzalo Higuaín | 30 | 41 | 35
+EDGE Xabi Alonso | Pepe | 16 | 41 | 17
+EDGE Xabi Alonso | Álvaro Arbeloa | 33 | 41 | 38
+EDGE Xabi Alonso | Lassana Diarra | 21 | 41 | 26
+EDGE Xabi Alonso | Kaká | 25 | 41 | 29
+EDGE Xabi Alonso | Karim Benzema | 16 | 41 | 18
+EDGE Xabi Alonso | Guti | 10 | 41 | 13
+EDGE Xabi Alonso | Raúl | 10 | 41 | 13
+EDGE Xabi Alonso | Royston Drenthe | 4 | 41 | 5
+EDGE Xabi Alonso | Mahamadou Diarra | 3 | 41 | 7
+EDGE Xabi Alonso | Christoph Metzelder | 1 | 41 | 3
+EDGE Esteban Granero | Rafael van der Vaart | 9 | 25 | 18
+EDGE Esteban Granero | Cristiano Ronaldo | 17 | 25 | 33
+EDGE Esteban Granero | Gonzalo Higuaín | 18 | 25 | 35
+EDGE Esteban Granero | Álvaro Arbeloa | 18 | 25 | 38
+EDGE Esteban Granero | Lassana Diarra | 10 | 25 | 26
+EDGE Esteban Granero | Kaká | 14 | 25 | 29
+EDGE Esteban Granero | Guti | 7 | 25 | 13
+EDGE Esteban Granero | Raúl | 7 | 25 | 13
+EDGE Esteban Granero | Karim Benzema | 8 | 25 | 18
+EDGE Esteban Granero | Pepe | 6 | 25 | 17
+EDGE Esteban Granero | Royston Drenthe | 4 | 25 | 5
+EDGE Esteban Granero | Christoph Metzelder | 3 | 25 | 3
+EDGE Esteban Granero | Jerzy Dudek | 1 | 25 | 2
+EDGE Esteban Granero | Mahamadou Diarra | 4 | 25 | 7
+EDGE Rafael van der Vaart | Cristiano Ronaldo | 15 | 18 | 33
+EDGE Rafael van der Vaart | Gonzalo Higuaín | 16 | 18 | 35
+EDGE Rafael van der Vaart | Álvaro Arbeloa | 16 | 18 | 38
+EDGE Rafael van der Vaart | Lassana Diarra | 7 | 18 | 26
+EDGE Rafael van der Vaart | Guti | 4 | 18 | 13
+EDGE Rafael van der Vaart | Kaká | 1 | 18 | 29
+EDGE Rafael van der Vaart | Pepe | 4 | 18 | 17
+EDGE Rafael van der Vaart | Raúl | 2 | 18 | 13
+EDGE Rafael van der Vaart | Karim Benzema | 3 | 18 | 18
+EDGE Rafael van der Vaart | Jerzy Dudek | 1 | 18 | 2
+EDGE Rafael van der Vaart | Christoph Metzelder | 2 | 18 | 3
+EDGE Rafael van der Vaart | Royston Drenthe | 1 | 18 | 5
+EDGE Rafael van der Vaart | Mahamadou Diarra | 3 | 18 | 7
+EDGE Cristiano Ronaldo | Gonzalo Higuaín | 27 | 33 | 35
+EDGE Cristiano Ronaldo | Álvaro Arbeloa | 27 | 33 | 38
+EDGE Cristiano Ronaldo | Lassana Diarra | 18 | 33 | 26
+EDGE Cristiano Ronaldo | Kaká | 17 | 33 | 29
+EDGE Cristiano Ronaldo | Pepe | 6 | 33 | 17
+EDGE Cristiano Ronaldo | Raúl | 4 | 33 | 13
+EDGE Cristiano Ronaldo | Karim Benzema | 6 | 33 | 18
+EDGE Cristiano Ronaldo | Guti | 8 | 33 | 13
+EDGE Cristiano Ronaldo | Royston Drenthe | 2 | 33 | 5
+EDGE Cristiano Ronaldo | Mahamadou Diarra | 3 | 33 | 7
+EDGE Cristiano Ronaldo | Christoph Metzelder | 1 | 33 | 3
+EDGE Gonzalo Higuaín | Pepe | 11 | 35 | 17
+EDGE Gonzalo Higuaín | Álvaro Arbeloa | 32 | 35 | 38
+EDGE Gonzalo Higuaín | Lassana Diarra | 19 | 35 | 26
+EDGE Gonzalo Higuaín | Kaká | 19 | 35 | 29
+EDGE Gonzalo Higuaín | Karim Benzema | 6 | 35 | 18
+EDGE Gonzalo Higuaín | Guti | 7 | 35 | 13
+EDGE Gonzalo Higuaín | Raúl | 3 | 35 | 13
+EDGE Gonzalo Higuaín | Royston Drenthe | 2 | 35 | 5
+EDGE Gonzalo Higuaín | Christoph Metzelder | 2 | 35 | 3
+EDGE Gonzalo Higuaín | Mahamadou Diarra | 4 | 35 | 7
+EDGE Gonzalo Higuaín | Jerzy Dudek | 1 | 35 | 2
+EDGE Gonzalo Higuaín | Ruud van Nistelrooy | 1 | 35 | 1
+EDGE Pepe | Álvaro Arbeloa | 11 | 17 | 38
+EDGE Pepe | Lassana Diarra | 12 | 17 | 26
+EDGE Pepe | Kaká | 12 | 17 | 29
+EDGE Pepe | Karim Benzema | 10 | 17 | 18
+EDGE Pepe | Raúl | 8 | 17 | 13
+EDGE Pepe | Royston Drenthe | 4 | 17 | 5
+EDGE Pepe | Mahamadou Diarra | 3 | 17 | 7
+EDGE Pepe | Guti | 2 | 17 | 13
+EDGE Pepe | Jerzy Dudek | 1 | 17 | 2
+EDGE Pepe | Ruud van Nistelrooy | 1 | 17 | 1
+EDGE Álvaro Arbeloa | Lassana Diarra | 20 | 38 | 26
+EDGE Álvaro Arbeloa | Kaká | 22 | 38 | 29
+EDGE Álvaro Arbeloa | Karim Benzema | 12 | 38 | 18
+EDGE Álvaro Arbeloa | Guti | 10 | 38 | 13
+EDGE Álvaro Arbeloa | Raúl | 7 | 38 | 13
+EDGE Álvaro Arbeloa | Royston Drenthe | 3 | 38 | 5
+EDGE Álvaro Arbeloa | Christoph Metzelder | 3 | 38 | 3
+EDGE Álvaro Arbeloa | Jerzy Dudek | 2 | 38 | 2
+EDGE Álvaro Arbeloa | Mahamadou Diarra | 5 | 38 | 7
+EDGE Álvaro Arbeloa | Ruud van Nistelrooy | 1 | 38 | 1
+EDGE Lassana Diarra | Kaká | 18 | 26 | 29
+EDGE Lassana Diarra | Karim Benzema | 11 | 26 | 18
+EDGE Lassana Diarra | Raúl | 8 | 26 | 13
+EDGE Lassana Diarra | Guti | 3 | 26 | 13
+EDGE Lassana Diarra | Royston Drenthe | 2 | 26 | 5
+EDGE Lassana Diarra | Mahamadou Diarra | 2 | 26 | 7
+EDGE Lassana Diarra | Jerzy Dudek | 1 | 26 | 2
+EDGE Lassana Diarra | Ruud van Nistelrooy | 1 | 26 | 1
+EDGE Kaká | Karim Benzema | 14 | 29 | 18
+EDGE Kaká | Raúl | 10 | 29 | 13
+EDGE Kaká | Guti | 8 | 29 | 13
+EDGE Kaká | Royston Drenthe | 3 | 29 | 5
+EDGE Kaká | Mahamadou Diarra | 4 | 29 | 7
+EDGE Kaká | Christoph Metzelder | 1 | 29 | 3
+EDGE Kaká | Jerzy Dudek | 1 | 29 | 2
+EDGE Kaká | Ruud van Nistelrooy | 1 | 29 | 1
+EDGE Karim Benzema | Raúl | 9 | 18 | 13
+EDGE Karim Benzema | Guti | 7 | 18 | 13
+EDGE Karim Benzema | Royston Drenthe | 3 | 18 | 5
+EDGE Karim Benzema | Mahamadou Diarra | 2 | 18 | 7
+EDGE Karim Benzema | Christoph Metzelder | 2 | 18 | 3
+EDGE Karim Benzema | Jerzy Dudek | 1 | 18 | 2
+EDGE Raúl | Guti | 4 | 13 | 13
+EDGE Raúl | Royston Drenthe | 4 | 13 | 5
+EDGE Raúl | Mahamadou Diarra | 4 | 13 | 7
+EDGE Raúl | Jerzy Dudek | 2 | 13 | 2
+EDGE Raúl | Christoph Metzelder | 1 | 13 | 3
+EDGE Raúl | Ruud van Nistelrooy | 1 | 13 | 1
+EDGE Guti | Mahamadou Diarra | 2 | 13 | 7
+EDGE Guti | Christoph Metzelder | 2 | 13 | 3
+EDGE Guti | Jerzy Dudek | 1 | 13 | 2
+EDGE Guti | Royston Drenthe | 1 | 13 | 5
+EDGE Royston Drenthe | Jerzy Dudek | 1 | 5 | 2
+EDGE Royston Drenthe | Christoph Metzelder | 1 | 5 | 3
+EDGE Royston Drenthe | Mahamadou Diarra | 2 | 5 | 7
+EDGE Mahamadou Diarra | Jerzy Dudek | 2 | 7 | 2
+EDGE Mahamadou Diarra | Christoph Metzelder | 2 | 7 | 3
+EDGE Mahamadou Diarra | Ruud van Nistelrooy | 1 | 7 | 1
+EDGE Christoph Metzelder | Jerzy Dudek | 1 | 3 | 2
+EDGE Jerzy Dudek | Ruud van Nistelrooy | 1 | 2 | 1

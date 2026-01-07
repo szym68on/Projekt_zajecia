@@ -1,0 +1,316 @@
+# Graph for Java/GraphStream
+# Nodes: 28
+# Edges: 310
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Iñaki Peña | Iñigo Martínez | 17 | 21 | 45
+EDGE Iñaki Peña | Pau Cubarsí | 20 | 21 | 48
+EDGE Iñaki Peña | Alejandro Balde | 16 | 21 | 40
+EDGE Iñaki Peña | Jules Koundé | 18 | 21 | 50
+EDGE Iñaki Peña | Marc Casadó | 17 | 21 | 29
+EDGE Iñaki Peña | Pedri | 20 | 21 | 56
+EDGE Iñaki Peña | Fermín López | 7 | 21 | 19
+EDGE Iñaki Peña | Raphinha | 20 | 21 | 53
+EDGE Iñaki Peña | Lamine Yamal | 15 | 21 | 51
+EDGE Iñaki Peña | Robert Lewandowski | 19 | 21 | 47
+EDGE Iñaki Peña | Ronald Araujo | 3 | 21 | 17
+EDGE Iñaki Peña | Gerard Martín | 5 | 21 | 19
+EDGE Iñaki Peña | Frenkie de Jong | 3 | 21 | 23
+EDGE Iñaki Peña | Gavi | 6 | 21 | 20
+EDGE Iñaki Peña | Dani Olmo | 8 | 21 | 22
+EDGE Iñaki Peña | Ferran Torres | 4 | 21 | 19
+EDGE Iñaki Peña | Eric García | 4 | 21 | 19
+EDGE Iñaki Peña | Héctor Fort | 2 | 21 | 5
+EDGE Iñaki Peña | Ansu Fati | 1 | 21 | 3
+EDGE Iñaki Peña | Sergi Domínguez | 1 | 21 | 2
+EDGE Iñaki Peña | Pablo Torre | 3 | 21 | 5
+EDGE Iñaki Peña | Pau Víctor | 1 | 21 | 2
+EDGE Iñigo Martínez | Pau Cubarsí | 36 | 45 | 48
+EDGE Iñigo Martínez | Alejandro Balde | 31 | 45 | 40
+EDGE Iñigo Martínez | Jules Koundé | 38 | 45 | 50
+EDGE Iñigo Martínez | Marc Casadó | 23 | 45 | 29
+EDGE Iñigo Martínez | Pedri | 43 | 45 | 56
+EDGE Iñigo Martínez | Fermín López | 13 | 45 | 19
+EDGE Iñigo Martínez | Raphinha | 41 | 45 | 53
+EDGE Iñigo Martínez | Lamine Yamal | 38 | 45 | 51
+EDGE Iñigo Martínez | Robert Lewandowski | 36 | 45 | 47
+EDGE Iñigo Martínez | Wojciech Szczesny | 20 | 45 | 30
+EDGE Iñigo Martínez | Ronald Araujo | 6 | 45 | 17
+EDGE Iñigo Martínez | Gerard Martín | 13 | 45 | 19
+EDGE Iñigo Martínez | Eric García | 12 | 45 | 19
+EDGE Iñigo Martínez | Gavi | 11 | 45 | 20
+EDGE Iñigo Martínez | Marc-André ter Stegen | 8 | 45 | 9
+EDGE Iñigo Martínez | Sergi Domínguez | 1 | 45 | 2
+EDGE Iñigo Martínez | Pablo Torre | 4 | 45 | 5
+EDGE Iñigo Martínez | Dani Olmo | 19 | 45 | 22
+EDGE Iñigo Martínez | Ferran Torres | 15 | 45 | 19
+EDGE Iñigo Martínez | Frenkie de Jong | 16 | 45 | 23
+EDGE Iñigo Martínez | Héctor Fort | 4 | 45 | 5
+EDGE Iñigo Martínez | Ansu Fati | 2 | 45 | 3
+EDGE Iñigo Martínez | Marc Bernal | 3 | 45 | 3
+EDGE Pau Cubarsí | Alejandro Balde | 34 | 48 | 40
+EDGE Pau Cubarsí | Jules Koundé | 41 | 48 | 50
+EDGE Pau Cubarsí | Marc Casadó | 28 | 48 | 29
+EDGE Pau Cubarsí | Pedri | 44 | 48 | 56
+EDGE Pau Cubarsí | Fermín López | 15 | 48 | 19
+EDGE Pau Cubarsí | Raphinha | 46 | 48 | 53
+EDGE Pau Cubarsí | Lamine Yamal | 41 | 48 | 51
+EDGE Pau Cubarsí | Robert Lewandowski | 38 | 48 | 47
+EDGE Pau Cubarsí | Ronald Araujo | 8 | 48 | 17
+EDGE Pau Cubarsí | Gerard Martín | 14 | 48 | 19
+EDGE Pau Cubarsí | Frenkie de Jong | 17 | 48 | 23
+EDGE Pau Cubarsí | Gavi | 14 | 48 | 20
+EDGE Pau Cubarsí | Dani Olmo | 17 | 48 | 22
+EDGE Pau Cubarsí | Marc-André ter Stegen | 7 | 48 | 9
+EDGE Pau Cubarsí | Ferran Torres | 17 | 48 | 19
+EDGE Pau Cubarsí | Wojciech Szczesny | 21 | 48 | 30
+EDGE Pau Cubarsí | Eric García | 10 | 48 | 19
+EDGE Pau Cubarsí | Héctor Fort | 3 | 48 | 5
+EDGE Pau Cubarsí | Ansu Fati | 1 | 48 | 3
+EDGE Pau Cubarsí | Sergi Domínguez | 1 | 48 | 2
+EDGE Pau Cubarsí | Pablo Torre | 3 | 48 | 5
+EDGE Pau Cubarsí | Pau Víctor | 1 | 48 | 2
+EDGE Pau Cubarsí | Marc Bernal | 3 | 48 | 3
+EDGE Alejandro Balde | Jules Koundé | 36 | 40 | 50
+EDGE Alejandro Balde | Marc Casadó | 25 | 40 | 29
+EDGE Alejandro Balde | Pedri | 37 | 40 | 56
+EDGE Alejandro Balde | Fermín López | 12 | 40 | 19
+EDGE Alejandro Balde | Raphinha | 38 | 40 | 53
+EDGE Alejandro Balde | Lamine Yamal | 37 | 40 | 51
+EDGE Alejandro Balde | Robert Lewandowski | 34 | 40 | 47
+EDGE Alejandro Balde | Marc-André ter Stegen | 5 | 40 | 9
+EDGE Alejandro Balde | Dani Olmo | 12 | 40 | 22
+EDGE Alejandro Balde | Ferran Torres | 11 | 40 | 19
+EDGE Alejandro Balde | Eric García | 10 | 40 | 19
+EDGE Alejandro Balde | Wojciech Szczesny | 19 | 40 | 30
+EDGE Alejandro Balde | Frenkie de Jong | 13 | 40 | 23
+EDGE Alejandro Balde | Héctor Fort | 3 | 40 | 5
+EDGE Alejandro Balde | Ronald Araujo | 9 | 40 | 17
+EDGE Alejandro Balde | Gavi | 13 | 40 | 20
+EDGE Alejandro Balde | Ansu Fati | 1 | 40 | 3
+EDGE Alejandro Balde | Marc Bernal | 2 | 40 | 3
+EDGE Alejandro Balde | Pablo Torre | 2 | 40 | 5
+EDGE Jules Koundé | Marc Casadó | 27 | 50 | 29
+EDGE Jules Koundé | Pedri | 46 | 50 | 56
+EDGE Jules Koundé | Fermín López | 16 | 50 | 19
+EDGE Jules Koundé | Raphinha | 45 | 50 | 53
+EDGE Jules Koundé | Lamine Yamal | 42 | 50 | 51
+EDGE Jules Koundé | Robert Lewandowski | 41 | 50 | 47
+EDGE Jules Koundé | Wojciech Szczesny | 25 | 50 | 30
+EDGE Jules Koundé | Ronald Araujo | 13 | 50 | 17
+EDGE Jules Koundé | Gerard Martín | 14 | 50 | 19
+EDGE Jules Koundé | Eric García | 13 | 50 | 19
+EDGE Jules Koundé | Gavi | 15 | 50 | 20
+EDGE Jules Koundé | Frenkie de Jong | 19 | 50 | 23
+EDGE Jules Koundé | Dani Olmo | 17 | 50 | 22
+EDGE Jules Koundé | Marc-André ter Stegen | 7 | 50 | 9
+EDGE Jules Koundé | Sergi Domínguez | 2 | 50 | 2
+EDGE Jules Koundé | Pablo Torre | 5 | 50 | 5
+EDGE Jules Koundé | Ferran Torres | 15 | 50 | 19
+EDGE Jules Koundé | Ansu Fati | 1 | 50 | 3
+EDGE Jules Koundé | Pau Víctor | 1 | 50 | 2
+EDGE Jules Koundé | Marc Bernal | 3 | 50 | 3
+EDGE Marc Casadó | Pedri | 26 | 29 | 56
+EDGE Marc Casadó | Fermín López | 7 | 29 | 19
+EDGE Marc Casadó | Raphinha | 29 | 29 | 53
+EDGE Marc Casadó | Lamine Yamal | 25 | 29 | 51
+EDGE Marc Casadó | Robert Lewandowski | 27 | 29 | 47
+EDGE Marc Casadó | Marc-André ter Stegen | 4 | 29 | 9
+EDGE Marc Casadó | Dani Olmo | 11 | 29 | 22
+EDGE Marc Casadó | Ferran Torres | 5 | 29 | 19
+EDGE Marc Casadó | Eric García | 5 | 29 | 19
+EDGE Marc Casadó | Héctor Fort | 2 | 29 | 5
+EDGE Marc Casadó | Gerard Martín | 4 | 29 | 19
+EDGE Marc Casadó | Frenkie de Jong | 3 | 29 | 23
+EDGE Marc Casadó | Wojciech Szczesny | 8 | 29 | 30
+EDGE Marc Casadó | Gavi | 7 | 29 | 20
+EDGE Marc Casadó | Ansu Fati | 1 | 29 | 3
+EDGE Marc Casadó | Ronald Araujo | 4 | 29 | 17
+EDGE Marc Casadó | Marc Bernal | 1 | 29 | 3
+EDGE Marc Casadó | Pablo Torre | 1 | 29 | 5
+EDGE Pedri | Fermín López | 17 | 56 | 19
+EDGE Pedri | Raphinha | 49 | 56 | 53
+EDGE Pedri | Lamine Yamal | 47 | 56 | 51
+EDGE Pedri | Robert Lewandowski | 44 | 56 | 47
+EDGE Pedri | Wojciech Szczesny | 28 | 56 | 30
+EDGE Pedri | Ronald Araujo | 16 | 56 | 17
+EDGE Pedri | Gerard Martín | 18 | 56 | 19
+EDGE Pedri | Eric García | 17 | 56 | 19
+EDGE Pedri | Gavi | 19 | 56 | 20
+EDGE Pedri | Frenkie de Jong | 21 | 56 | 23
+EDGE Pedri | Dani Olmo | 22 | 56 | 22
+EDGE Pedri | Marc-André ter Stegen | 8 | 56 | 9
+EDGE Pedri | Sergi Domínguez | 2 | 56 | 2
+EDGE Pedri | Pablo Torre | 4 | 56 | 5
+EDGE Pedri | Ferran Torres | 17 | 56 | 19
+EDGE Pedri | Héctor Fort | 5 | 56 | 5
+EDGE Pedri | Ansu Fati | 3 | 56 | 3
+EDGE Pedri | Pau Víctor | 2 | 56 | 2
+EDGE Pedri | Marc Bernal | 2 | 56 | 3
+EDGE Pedri | Andreas Christensen | 2 | 56 | 2
+EDGE Pedri | Dani Rodríguez | 1 | 56 | 1
+EDGE Fermín López | Raphinha | 16 | 19 | 53
+EDGE Fermín López | Lamine Yamal | 12 | 19 | 51
+EDGE Fermín López | Robert Lewandowski | 15 | 19 | 47
+EDGE Fermín López | Wojciech Szczesny | 10 | 19 | 30
+EDGE Fermín López | Ronald Araujo | 6 | 19 | 17
+EDGE Fermín López | Gerard Martín | 7 | 19 | 19
+EDGE Fermín López | Eric García | 8 | 19 | 19
+EDGE Fermín López | Gavi | 7 | 19 | 20
+EDGE Fermín López | Frenkie de Jong | 8 | 19 | 23
+EDGE Fermín López | Ferran Torres | 4 | 19 | 19
+EDGE Fermín López | Marc-André ter Stegen | 2 | 19 | 9
+EDGE Fermín López | Pablo Torre | 2 | 19 | 5
+EDGE Fermín López | Andreas Christensen | 1 | 19 | 2
+EDGE Fermín López | Héctor Fort | 1 | 19 | 5
+EDGE Fermín López | Ansu Fati | 1 | 19 | 3
+EDGE Fermín López | Dani Rodríguez | 1 | 19 | 1
+EDGE Fermín López | Pau Víctor | 1 | 19 | 2
+EDGE Fermín López | Dani Olmo | 1 | 19 | 22
+EDGE Raphinha | Lamine Yamal | 47 | 53 | 51
+EDGE Raphinha | Robert Lewandowski | 43 | 53 | 47
+EDGE Raphinha | Ronald Araujo | 12 | 53 | 17
+EDGE Raphinha | Gerard Martín | 15 | 53 | 19
+EDGE Raphinha | Frenkie de Jong | 20 | 53 | 23
+EDGE Raphinha | Gavi | 15 | 53 | 20
+EDGE Raphinha | Dani Olmo | 20 | 53 | 22
+EDGE Raphinha | Marc-André ter Stegen | 8 | 53 | 9
+EDGE Raphinha | Sergi Domínguez | 1 | 53 | 2
+EDGE Raphinha | Eric García | 14 | 53 | 19
+EDGE Raphinha | Pablo Torre | 3 | 53 | 5
+EDGE Raphinha | Ferran Torres | 15 | 53 | 19
+EDGE Raphinha | Wojciech Szczesny | 25 | 53 | 30
+EDGE Raphinha | Héctor Fort | 3 | 53 | 5
+EDGE Raphinha | Ansu Fati | 1 | 53 | 3
+EDGE Raphinha | Marc Bernal | 3 | 53 | 3
+EDGE Raphinha | Andreas Christensen | 1 | 53 | 2
+EDGE Lamine Yamal | Robert Lewandowski | 39 | 51 | 47
+EDGE Lamine Yamal | Wojciech Szczesny | 28 | 51 | 30
+EDGE Lamine Yamal | Ronald Araujo | 15 | 51 | 17
+EDGE Lamine Yamal | Gerard Martín | 13 | 51 | 19
+EDGE Lamine Yamal | Eric García | 17 | 51 | 19
+EDGE Lamine Yamal | Gavi | 16 | 51 | 20
+EDGE Lamine Yamal | Frenkie de Jong | 20 | 51 | 23
+EDGE Lamine Yamal | Dani Olmo | 20 | 51 | 22
+EDGE Lamine Yamal | Marc-André ter Stegen | 8 | 51 | 9
+EDGE Lamine Yamal | Sergi Domínguez | 1 | 51 | 2
+EDGE Lamine Yamal | Pablo Torre | 2 | 51 | 5
+EDGE Lamine Yamal | Ferran Torres | 17 | 51 | 19
+EDGE Lamine Yamal | Héctor Fort | 4 | 51 | 5
+EDGE Lamine Yamal | Ansu Fati | 2 | 51 | 3
+EDGE Lamine Yamal | Marc Bernal | 3 | 51 | 3
+EDGE Lamine Yamal | Andreas Christensen | 1 | 51 | 2
+EDGE Robert Lewandowski | Wojciech Szczesny | 20 | 47 | 30
+EDGE Robert Lewandowski | Ronald Araujo | 14 | 47 | 17
+EDGE Robert Lewandowski | Gerard Martín | 13 | 47 | 19
+EDGE Robert Lewandowski | Eric García | 13 | 47 | 19
+EDGE Robert Lewandowski | Gavi | 16 | 47 | 20
+EDGE Robert Lewandowski | Marc-André ter Stegen | 8 | 47 | 9
+EDGE Robert Lewandowski | Sergi Domínguez | 2 | 47 | 2
+EDGE Robert Lewandowski | Pablo Torre | 5 | 47 | 5
+EDGE Robert Lewandowski | Dani Olmo | 13 | 47 | 22
+EDGE Robert Lewandowski | Ferran Torres | 8 | 47 | 19
+EDGE Robert Lewandowski | Héctor Fort | 3 | 47 | 5
+EDGE Robert Lewandowski | Frenkie de Jong | 13 | 47 | 23
+EDGE Robert Lewandowski | Ansu Fati | 1 | 47 | 3
+EDGE Robert Lewandowski | Pau Víctor | 1 | 47 | 2
+EDGE Robert Lewandowski | Marc Bernal | 3 | 47 | 3
+EDGE Robert Lewandowski | Andreas Christensen | 1 | 47 | 2
+EDGE Wojciech Szczesny | Ronald Araujo | 13 | 30 | 17
+EDGE Wojciech Szczesny | Gerard Martín | 10 | 30 | 19
+EDGE Wojciech Szczesny | Eric García | 12 | 30 | 19
+EDGE Wojciech Szczesny | Gavi | 12 | 30 | 20
+EDGE Wojciech Szczesny | Frenkie de Jong | 20 | 30 | 23
+EDGE Wojciech Szczesny | Dani Olmo | 12 | 30 | 22
+EDGE Wojciech Szczesny | Ferran Torres | 12 | 30 | 19
+EDGE Wojciech Szczesny | Héctor Fort | 2 | 30 | 5
+EDGE Wojciech Szczesny | Andreas Christensen | 1 | 30 | 2
+EDGE Wojciech Szczesny | Ansu Fati | 1 | 30 | 3
+EDGE Wojciech Szczesny | Pablo Torre | 1 | 30 | 5
+EDGE Ronald Araujo | Gerard Martín | 7 | 17 | 19
+EDGE Ronald Araujo | Eric García | 7 | 17 | 19
+EDGE Ronald Araujo | Gavi | 12 | 17 | 20
+EDGE Ronald Araujo | Frenkie de Jong | 8 | 17 | 23
+EDGE Ronald Araujo | Dani Olmo | 5 | 17 | 22
+EDGE Ronald Araujo | Ferran Torres | 2 | 17 | 19
+EDGE Ronald Araujo | Andreas Christensen | 2 | 17 | 2
+EDGE Ronald Araujo | Héctor Fort | 2 | 17 | 5
+EDGE Ronald Araujo | Ansu Fati | 2 | 17 | 3
+EDGE Ronald Araujo | Pablo Torre | 1 | 17 | 5
+EDGE Ronald Araujo | Marc-André ter Stegen | 1 | 17 | 9
+EDGE Ronald Araujo | Dani Rodríguez | 1 | 17 | 1
+EDGE Ronald Araujo | Pau Víctor | 1 | 17 | 2
+EDGE Gerard Martín | Eric García | 8 | 19 | 19
+EDGE Gerard Martín | Gavi | 6 | 19 | 20
+EDGE Gerard Martín | Frenkie de Jong | 10 | 19 | 23
+EDGE Gerard Martín | Dani Olmo | 9 | 19 | 22
+EDGE Gerard Martín | Marc-André ter Stegen | 4 | 19 | 9
+EDGE Gerard Martín | Sergi Domínguez | 2 | 19 | 2
+EDGE Gerard Martín | Pablo Torre | 3 | 19 | 5
+EDGE Gerard Martín | Ferran Torres | 7 | 19 | 19
+EDGE Gerard Martín | Pau Víctor | 2 | 19 | 2
+EDGE Gerard Martín | Andreas Christensen | 2 | 19 | 2
+EDGE Gerard Martín | Héctor Fort | 1 | 19 | 5
+EDGE Gerard Martín | Ansu Fati | 1 | 19 | 3
+EDGE Gerard Martín | Dani Rodríguez | 1 | 19 | 1
+EDGE Gerard Martín | Marc Bernal | 1 | 19 | 3
+EDGE Eric García | Gavi | 6 | 19 | 20
+EDGE Eric García | Marc-André ter Stegen | 3 | 19 | 9
+EDGE Eric García | Sergi Domínguez | 2 | 19 | 2
+EDGE Eric García | Pablo Torre | 4 | 19 | 5
+EDGE Eric García | Dani Olmo | 6 | 19 | 22
+EDGE Eric García | Frenkie de Jong | 8 | 19 | 23
+EDGE Eric García | Ferran Torres | 7 | 19 | 19
+EDGE Eric García | Pau Víctor | 1 | 19 | 2
+EDGE Eric García | Andreas Christensen | 1 | 19 | 2
+EDGE Eric García | Héctor Fort | 1 | 19 | 5
+EDGE Eric García | Ansu Fati | 1 | 19 | 3
+EDGE Gavi | Frenkie de Jong | 7 | 20 | 23
+EDGE Gavi | Dani Olmo | 4 | 20 | 22
+EDGE Gavi | Ferran Torres | 3 | 20 | 19
+EDGE Gavi | Héctor Fort | 3 | 20 | 5
+EDGE Gavi | Marc-André ter Stegen | 2 | 20 | 9
+EDGE Gavi | Ansu Fati | 2 | 20 | 3
+EDGE Gavi | Pablo Torre | 1 | 20 | 5
+EDGE Gavi | Andreas Christensen | 1 | 20 | 2
+EDGE Gavi | Dani Rodríguez | 1 | 20 | 1
+EDGE Gavi | Pau Víctor | 1 | 20 | 2
+EDGE Frenkie de Jong | Dani Olmo | 10 | 23 | 22
+EDGE Frenkie de Jong | Ferran Torres | 11 | 23 | 19
+EDGE Frenkie de Jong | Héctor Fort | 1 | 23 | 5
+EDGE Frenkie de Jong | Andreas Christensen | 1 | 23 | 2
+EDGE Frenkie de Jong | Pablo Torre | 1 | 23 | 5
+EDGE Dani Olmo | Marc-André ter Stegen | 2 | 22 | 9
+EDGE Dani Olmo | Ferran Torres | 8 | 22 | 19
+EDGE Dani Olmo | Andreas Christensen | 1 | 22 | 2
+EDGE Dani Olmo | Héctor Fort | 2 | 22 | 5
+EDGE Dani Olmo | Ansu Fati | 1 | 22 | 3
+EDGE Marc-André ter Stegen | Sergi Domínguez | 1 | 9 | 2
+EDGE Marc-André ter Stegen | Pablo Torre | 1 | 9 | 5
+EDGE Marc-André ter Stegen | Marc Bernal | 3 | 9 | 3
+EDGE Marc-André ter Stegen | Ferran Torres | 3 | 9 | 19
+EDGE Marc-André ter Stegen | Andreas Christensen | 1 | 9 | 2
+EDGE Marc-André ter Stegen | Héctor Fort | 1 | 9 | 5
+EDGE Marc-André ter Stegen | Ansu Fati | 1 | 9 | 3
+EDGE Marc-André ter Stegen | Dani Rodríguez | 1 | 9 | 1
+EDGE Marc-André ter Stegen | Pau Víctor | 1 | 9 | 2
+EDGE Sergi Domínguez | Pablo Torre | 2 | 2 | 5
+EDGE Sergi Domínguez | Pau Víctor | 1 | 2 | 2
+EDGE Sergi Domínguez | Ferran Torres | 1 | 2 | 19
+EDGE Pablo Torre | Pau Víctor | 1 | 5 | 2
+EDGE Pablo Torre | Ferran Torres | 1 | 5 | 19
+EDGE Ferran Torres | Héctor Fort | 2 | 19 | 5
+EDGE Ferran Torres | Pau Víctor | 1 | 19 | 2
+EDGE Ferran Torres | Marc Bernal | 3 | 19 | 3
+EDGE Ferran Torres | Ansu Fati | 1 | 19 | 3
+EDGE Héctor Fort | Ansu Fati | 2 | 5 | 3
+EDGE Héctor Fort | Andreas Christensen | 1 | 5 | 2
+EDGE Héctor Fort | Dani Rodríguez | 1 | 5 | 1
+EDGE Héctor Fort | Pau Víctor | 1 | 5 | 2
+EDGE Ansu Fati | Andreas Christensen | 1 | 3 | 2
+EDGE Ansu Fati | Dani Rodríguez | 1 | 3 | 1
+EDGE Ansu Fati | Pau Víctor | 1 | 3 | 2
+EDGE Pau Víctor | Andreas Christensen | 1 | 2 | 2
+EDGE Pau Víctor | Dani Rodríguez | 1 | 2 | 1
+EDGE Andreas Christensen | Dani Rodríguez | 1 | 2 | 1

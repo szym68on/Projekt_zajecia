@@ -1,0 +1,160 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2594526 | sob., 26.09.2015 | Málaga CF
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Isco, Cristiano Ronaldo, Jesé, Karim Benzema
+
+MATCH: 2594678 | niedz., 24.01.2016 | Real Betis Balompié
+PLAYERS: Keylor Navas, Raphaël Varane, Pepe, Marcelo, Danilo, Toni Kroos, Luka Modrić, Isco, Cristiano Ronaldo, James Rodríguez, Karim Benzema
+
+MATCH: 2594773 | sob., 02.04.2016 | FC Barcelona
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2594821 | sob., 30.04.2016 | Real Sociedad
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Nacho Fernández, Danilo, Casemiro, Luka Modrić, James Rodríguez, Lucas Vázquez, Gareth Bale, Borja Mayoral
+
+MATCH: 2618536 | wt., 15.09.2015 | Szachtar Donieck
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Isco, Gareth Bale, Karim Benzema
+
+MATCH: 2645815 | wt., 08.03.2016 | AS Roma
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Marcelo, Danilo, Casemiro, Toni Kroos, Luka Modrić, Gareth Bale, James Rodríguez, Cristiano Ronaldo
+
+MATCH: 2594583 | sob., 21.11.2015 | FC Barcelona
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Marcelo, Danilo, Toni Kroos, Luka Modrić, Cristiano Ronaldo, James Rodríguez, Gareth Bale, Karim Benzema
+
+MATCH: 2633810 | śr., 02.12.2015 | Cádiz CF
+PLAYERS: Kiko Casilla, Pepe, Nacho Fernández, Álvaro Arbeloa, Lucas Vázquez, Casemiro, Marcos Llorente, Isco, Denis Cheryshev, James Rodríguez, Jesé
+
+MATCH: 2682241 | śr., 04.05.2016 | Manchester City
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Isco, Jesé, Gareth Bale, Cristiano Ronaldo
+
+MATCH: 2594763 | niedz., 20.03.2016 | Sevilla FC
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Marcelo, Danilo, Casemiro, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2594754 | niedz., 13.03.2016 | UD Las Palmas
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Álvaro Arbeloa, Daniel Carvajal, Casemiro, Luka Modrić, Isco, Gareth Bale, Lucas Vázquez, Cristiano Ronaldo
+
+MATCH: 2594507 | sob., 19.09.2015 | Granada CF
+PLAYERS: Keylor Navas, Raphaël Varane, Pepe, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Isco, Cristiano Ronaldo, Lucas Vázquez, Karim Benzema
+
+MATCH: 2594716 | niedz., 21.02.2016 | Málaga CF
+PLAYERS: Keylor Navas, Sergio Ramos, Nacho Fernández, Marcelo, Daniel Carvajal, Toni Kroos, Mateo Kovacic, Luka Modrić, Cristiano Ronaldo, Jesé, Isco
+
+MATCH: 2594554 | sob., 24.10.2015 | Celta de Vigo
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Marcelo, Danilo, Casemiro, Toni Kroos, Luka Modrić, Jesé, Lucas Vázquez, Cristiano Ronaldo
+
+MATCH: 2594735 | śr., 02.03.2016 | Levante UD
+PLAYERS: Keylor Navas, Raphaël Varane, Pepe, Nacho Fernández, Danilo, Casemiro, Toni Kroos, James Rodríguez, Cristiano Ronaldo, Lucas Vázquez, Borja Mayoral
+
+MATCH: 2594479 | niedz., 23.08.2015 | Sporting Gijón
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Marcelo, Danilo, Toni Kroos, Luka Modrić, Isco, Cristiano Ronaldo, Gareth Bale, Jesé
+
+MATCH: 2594725 | sob., 27.02.2016 | Atlético Madryt
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Danilo, Daniel Carvajal, Toni Kroos, Luka Modrić, Isco, Cristiano Ronaldo, James Rodríguez, Karim Benzema
+
+MATCH: 2594687 | niedz., 31.01.2016 | RCD Espanyol
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Isco, Cristiano Ronaldo, James Rodríguez, Karim Benzema
+
+MATCH: 2618587 | śr., 21.10.2015 | FC Paris Saint-Germain
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Marcelo, Danilo, Casemiro, Toni Kroos, Isco, Jesé, Lucas Vázquez, Cristiano Ronaldo
+
+MATCH: 2594652 | sob., 09.01.2016 | Deportivo de La Coruña
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2594744 | sob., 05.03.2016 | Celta de Vigo
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Danilo, Daniel Carvajal, Casemiro, Mateo Kovacic, Isco, Cristiano Ronaldo, Lucas Vázquez, Borja Mayoral
+
+MATCH: 2618627 | wt., 08.12.2015 | Malmö FF
+PLAYERS: Kiko Casilla, Pepe, Nacho Fernández, Álvaro Arbeloa, Danilo, Casemiro, Mateo Kovacic, James Rodríguez, Cristiano Ronaldo, Isco, Karim Benzema
+
+MATCH: 2594801 | śr., 20.04.2016 | Villarreal CF
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Marcelo, Danilo, Casemiro, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Lucas Vázquez, Karim Benzema
+
+MATCH: 2594545 | sob., 17.10.2015 | Levante UD
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Marcelo, Danilo, Casemiro, Toni Kroos, Mateo Kovacic, Gareth Bale, Isco, Cristiano Ronaldo
+
+MATCH: 2690027 | sob., 28.05.2016 | Atlético Madryt
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2594782 | sob., 09.04.2016 | SD Eibar
+PLAYERS: Kiko Casilla, Pepe, Nacho Fernández, Álvaro Arbeloa, Daniel Carvajal, Casemiro, James Rodríguez, Isco, Jesé, Lucas Vázquez, Cristiano Ronaldo
+
+MATCH: 2594488 | sob., 29.08.2015 | Real Betis Balompié
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Marcelo, Danilo, Toni Kroos, Luka Modrić, Cristiano Ronaldo, James Rodríguez, Gareth Bale, Karim Benzema
+
+MATCH: 2594697 | niedz., 07.02.2016 | Granada CF
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Isco, Cristiano Ronaldo, James Rodríguez, Karim Benzema
+
+MATCH: 2675293 | śr., 06.04.2016 | VfL Wolfsburg
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Marcelo, Danilo, Casemiro, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2594611 | niedz., 13.12.2015 | Villarreal CF
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Marcelo, Danilo, Casemiro, Luka Modrić, James Rodríguez, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2594516 | śr., 23.09.2015 | Athletic Bilbao
+PLAYERS: Keylor Navas, Raphaël Varane, Pepe, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Mateo Kovacic, Cristiano Ronaldo, Isco, Karim Benzema
+
+MATCH: 2594792 | sob., 16.04.2016 | Getafe CF
+PLAYERS: Keylor Navas, Raphaël Varane, Pepe, Marcelo, Daniel Carvajal, Toni Kroos, James Rodríguez, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2618566 | śr., 30.09.2015 | Malmö FF
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Álvaro Arbeloa, Daniel Carvajal, Casemiro, Toni Kroos, Mateo Kovacic, Cristiano Ronaldo, Isco, Karim Benzema
+
+MATCH: 2594573 | niedz., 08.11.2015 | Sevilla FC
+PLAYERS: Kiko Casilla, Pepe, Sergio Ramos, Nacho Fernández, Danilo, Casemiro, Toni Kroos, Luka Modrić, Isco, Gareth Bale, Cristiano Ronaldo
+
+MATCH: 2594842 | sob., 14.05.2016 | Deportivo de La Coruña
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2645807 | śr., 17.02.2016 | AS Roma
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Isco, Cristiano Ronaldo, James Rodríguez, Karim Benzema
+
+MATCH: 2594642 | niedz., 03.01.2016 | Valencia CF
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Marcelo, Danilo, Toni Kroos, Mateo Kovacic, Luka Modrić, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2594535 | niedz., 04.10.2015 | Atlético Madryt
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Isco, Karim Benzema
+
+MATCH: 2675297 | wt., 12.04.2016 | VfL Wolfsburg
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2618595 | wt., 03.11.2015 | FC Paris Saint-Germain
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Marcelo, Danilo, Casemiro, Toni Kroos, Luka Modrić, Isco, Jesé, Cristiano Ronaldo
+
+MATCH: 2594832 | niedz., 08.05.2016 | Valencia CF
+PLAYERS: Kiko Casilla, Raphaël Varane, Sergio Ramos, Marcelo, Danilo, Casemiro, Toni Kroos, James Rodríguez, Cristiano Ronaldo, Lucas Vázquez, Karim Benzema
+
+MATCH: 2618610 | śr., 25.11.2015 | Szachtar Donieck
+PLAYERS: Kiko Casilla, Raphaël Varane, Pepe, Nacho Fernández, Daniel Carvajal, Casemiro, Mateo Kovacic, Luka Modrić, Gareth Bale, Isco, Cristiano Ronaldo
+
+MATCH: 2594669 | niedz., 17.01.2016 | Sporting Gijón
+PLAYERS: Keylor Navas, Raphaël Varane, Pepe, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Isco, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2594811 | sob., 23.04.2016 | Rayo Vallecano
+PLAYERS: Keylor Navas, Raphaël Varane, Pepe, Marcelo, Danilo, Toni Kroos, Mateo Kovacic, Isco, Jesé, Gareth Bale, Karim Benzema
+
+MATCH: 2682239 | wt., 26.04.2016 | Manchester City
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Lucas Vázquez, Gareth Bale, Karim Benzema
+
+MATCH: 2594602 | sob., 05.12.2015 | Getafe CF
+PLAYERS: Keylor Navas, Pepe, Nacho Fernández, Danilo, Lucas Vázquez, Toni Kroos, Luka Modrić, James Rodríguez, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2594497 | sob., 12.09.2015 | RCD Espanyol
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Marcelo, Daniel Carvajal, Casemiro, Luka Modrić, Gareth Bale, Cristiano Ronaldo, Isco, Karim Benzema
+
+MATCH: 2594631 | śr., 30.12.2015 | Real Sociedad
+PLAYERS: Keylor Navas, Pepe, Nacho Fernández, Marcelo, Danilo, Toni Kroos, Luka Modrić, James Rodríguez, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2594706 | sob., 13.02.2016 | Athletic Bilbao
+PLAYERS: Keylor Navas, Raphaël Varane, Sergio Ramos, Daniel Carvajal, Danilo, Toni Kroos, Mateo Kovacic, Luka Modrić, Cristiano Ronaldo, James Rodríguez, Karim Benzema
+
+MATCH: 2594621 | niedz., 20.12.2015 | Rayo Vallecano
+PLAYERS: Keylor Navas, Pepe, Sergio Ramos, Marcelo, Danilo, Toni Kroos, Luka Modrić, James Rodríguez, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2594592 | niedz., 29.11.2015 | SD Eibar
+PLAYERS: Keylor Navas, Pepe, Nacho Fernández, Danilo, Daniel Carvajal, Toni Kroos, Luka Modrić, Mateo Kovacic, James Rodríguez, Gareth Bale, Cristiano Ronaldo
+
+MATCH: 2594564 | sob., 31.10.2015 | UD Las Palmas
+PLAYERS: Kiko Casilla, Raphaël Varane, Nacho Fernández, Marcelo, Danilo, Casemiro, Toni Kroos, Luka Modrić, Jesé, Isco, Cristiano Ronaldo
+

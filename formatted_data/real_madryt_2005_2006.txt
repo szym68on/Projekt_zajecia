@@ -1,0 +1,160 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 35641 | śr., 28.09.2005 | Olympiakos Pireus
+PLAYERS: Iker Casillas, Sergio Ramos, Iván Helguera, Roberto Carlos, Míchel Salgado, Pablo García, David Beckham, Guti, Júlio Baptista, Robinho, Raúl
+
+MATCH: 37281 | śr., 21.12.2005 | Racing Santander
+PLAYERS: Iker Casillas, Iván Helguera, Francisco Pavón, Roberto Carlos, Carlos Diogo, Sergio Ramos, Pablo García, David Beckham, Zinédine Zidane, Robinho, Ronaldo
+
+MATCH: 49112 | niedz., 06.11.2005 | Real Zaragoza
+PLAYERS: Iker Casillas, Jonathan Woodgate, Francisco Pavón, Roberto Carlos, Míchel Salgado, Sergio Ramos, Carlos Diogo, David Beckham, Guti, Robinho, Raúl
+
+MATCH: 37219 | niedz., 28.08.2005 | Cádiz CF
+PLAYERS: Iker Casillas, Iván Helguera, Francisco Pavón, Roberto Carlos, Míchel Salgado, Thomas Gravesen, David Beckham, Júlio Baptista, Zinédine Zidane, Raúl, Ronaldo
+
+MATCH: 35912 | sob., 11.02.2006 | Athletic Bilbao
+PLAYERS: Iker Casillas, Sergio Ramos, Jonathan Woodgate, Roberto Carlos, Míchel Salgado, Pablo García, Guti, Cicinho, Zinédine Zidane, Robinho, Ronaldo
+
+MATCH: 36060 | niedz., 16.04.2006 | Getafe CF
+PLAYERS: Iker Casillas, Sergio Ramos, Álvaro Mejía, Roberto Carlos, Míchel Salgado, Pablo García, Júlio Baptista, Cicinho, Zinédine Zidane, Robinho, Raúl
+
+MATCH: 35950 | niedz., 23.04.2006 | Málaga CF
+PLAYERS: Iker Casillas, Sergio Ramos, Álvaro Mejía, Roberto Carlos, Cicinho, Guti, David Beckham, Júlio Baptista, Robinho, Antonio Cassano, Raúl
+
+MATCH: 35909 | niedz., 29.01.2006 | Celta de Vigo
+PLAYERS: Iker Casillas, Sergio Ramos, Iván Helguera, Roberto Carlos, Cicinho, Thomas Gravesen, Guti, David Beckham, Zinédine Zidane, Robinho, Júlio Baptista
+
+MATCH: 35966 | sob., 10.09.2005 | Celta de Vigo
+PLAYERS: Iker Casillas, Iván Helguera, Francisco Pavón, Roberto Carlos, Míchel Salgado, Thomas Gravesen, Guti, David Beckham, Júlio Baptista, Robinho, Ronaldo
+
+MATCH: 37327 | niedz., 12.03.2006 | Valencia CF
+PLAYERS: Iker Casillas, Álvaro Mejía, Carlos Diogo, Raúl Bravo, Míchel Salgado, Sergio Ramos, Júlio Baptista, Cicinho, Guti, Zinédine Zidane, Raúl
+
+MATCH: 35646 | wt., 01.11.2005 | Rosenborg BK
+PLAYERS: Iker Casillas, Jonathan Woodgate, Francisco Pavón, Roberto Carlos, Míchel Salgado, Sergio Ramos, Carlos Diogo, David Beckham, Guti, Robinho, Raúl
+
+MATCH: 36037 | sob., 04.02.2006 | RCD Espanyol
+PLAYERS: Iker Casillas, Jonathan Woodgate, Álvaro Mejía, Roberto Carlos, Cicinho, Thomas Gravesen, David Beckham, Guti, Zinédine Zidane, Robinho, Ronaldo
+
+MATCH: 2423108 | wt., 14.02.2006 | Real Zaragoza
+PLAYERS: Iker Casillas, Sergio Ramos, Jonathan Woodgate, Roberto Carlos, Cicinho, Thomas Gravesen, Júlio Baptista, David Beckham, Zinédine Zidane, Robinho, Ronaldo
+
+MATCH: 49843 | wt., 21.02.2006 | FC Arsenal
+PLAYERS: Iker Casillas, Sergio Ramos, Jonathan Woodgate, Roberto Carlos, Cicinho, Thomas Gravesen, David Beckham, Guti, Zinédine Zidane, Robinho, Ronaldo
+
+MATCH: 35895 | sob., 03.12.2005 | Getafe CF
+PLAYERS: Iker Casillas, Iván Helguera, Francisco Pavón, Roberto Carlos, Míchel Salgado, Pablo García, Guti, David Beckham, Zinédine Zidane, Robinho, Ronaldo
+
+MATCH: 2423107 | śr., 08.02.2006 | Real Zaragoza
+PLAYERS: Iker Casillas, Sergio Ramos, Iván Helguera, Roberto Carlos, Míchel Salgado, Thomas Gravesen, Guti, Júlio Baptista, Robinho, David Beckham, Ronaldo
+
+MATCH: 35870 | niedz., 23.10.2005 | Valencia CF
+PLAYERS: Iker Casillas, Sergio Ramos, Iván Helguera, Roberto Carlos, Carlos Diogo, Pablo García, David Beckham, Guti, Zinédine Zidane, Robinho, Raúl
+
+MATCH: 37238 | sob., 15.10.2005 | Atlético Madryt
+PLAYERS: Iker Casillas, Sergio Ramos, Iván Helguera, Roberto Carlos, Míchel Salgado, Pablo García, David Beckham, Zinédine Zidane, Júlio Baptista, Raúl, Ronaldo
+
+MATCH: 35647 | śr., 23.11.2005 | Olympique Lyon
+PLAYERS: Iker Casillas, Iván Helguera, Francisco Pavón, Roberto Carlos, Carlos Diogo, Sergio Ramos, Pablo García, David Beckham, Guti, Zinédine Zidane, Robinho
+
+MATCH: 36070 | czw., 04.05.2006 | Racing Santander
+PLAYERS: Diego López, Sergio Ramos, Álvaro Mejía, Roberto Carlos, Míchel Salgado, Pablo García, Guti, David Beckham, Robinho, Raúl, Roberto Soldado
+
+MATCH: 36030 | sob., 21.01.2006 | Cádiz CF
+PLAYERS: Iker Casillas, Sergio Ramos, Álvaro Mejía, Roberto Carlos, Cicinho, Thomas Gravesen, Guti, David Beckham, Zinédine Zidane, Robinho, Júlio Baptista
+
+MATCH: 36051 | niedz., 05.03.2006 | Atlético Madryt
+PLAYERS: Iker Casillas, Raúl Bravo, Iván Helguera, Roberto Carlos, Míchel Salgado, Thomas Gravesen, Guti, David Beckham, Zinédine Zidane, Júlio Baptista, Antonio Cassano
+
+MATCH: 2423104 | śr., 25.01.2006 | Real Betis Balompié
+PLAYERS: Iker Casillas, Sergio Ramos, Iván Helguera, Roberto Carlos, Cicinho, Thomas Gravesen, Júlio Baptista, David Beckham, Zinédine Zidane, Robinho, Antonio Cassano
+
+MATCH: 2423093 | śr., 11.01.2006 | Athletic Bilbao
+PLAYERS: Diego López, Sergio Ramos, Álvaro Mejía, Raúl Bravo, Míchel Salgado, Thomas Gravesen, Guti, David Beckham, Júlio Baptista, Robinho, Roberto Soldado
+
+MATCH: 36013 | niedz., 18.12.2005 | CA Osasuna
+PLAYERS: Iker Casillas, Iván Helguera, Francisco Pavón, Roberto Carlos, Míchel Salgado, Sergio Ramos, Júlio Baptista, David Beckham, Guti, Robinho, Ronaldo
+
+MATCH: 37339 | śr., 22.03.2006 | Real Zaragoza
+PLAYERS: Iker Casillas, Sergio Ramos, Álvaro Mejía, Roberto Carlos, Míchel Salgado, Thomas Gravesen, David Beckham, Cicinho, Júlio Baptista, Robinho, Ronaldo
+
+MATCH: 37312 | niedz., 26.02.2006 | RCD Mallorca
+PLAYERS: Iker Casillas, Raúl Bravo, Sergio Ramos, Roberto Carlos, Cicinho, Thomas Gravesen, Júlio Baptista, David Beckham, Zinédine Zidane, Robinho, Ronaldo
+
+MATCH: 2423085 | wt., 03.01.2006 | Athletic Bilbao
+PLAYERS: Diego López, Sergio Ramos, Álvaro Mejía, Raúl Bravo, Míchel Salgado, Thomas Gravesen, Guti, David Beckham, Júlio Baptista, Robinho, Roberto Soldado
+
+MATCH: 36007 | niedz., 27.11.2005 | Real Sociedad
+PLAYERS: Iker Casillas, Iván Helguera, Francisco Pavón, Roberto Carlos, Míchel Salgado, Sergio Ramos, Pablo García, David Beckham, Zinédine Zidane, Guti, Robinho
+
+MATCH: 35987 | niedz., 02.10.2005 | RCD Mallorca
+PLAYERS: Iker Casillas, Sergio Ramos, Iván Helguera, Roberto Carlos, Míchel Salgado, Pablo García, David Beckham, Guti, Júlio Baptista, Raúl, Ronaldo
+
+MATCH: 2423101 | śr., 18.01.2006 | Real Betis Balompié
+PLAYERS: Diego López, Raúl Bravo, Sergio Ramos, Iván Helguera, Cicinho, Carlos Diogo, Thomas Gravesen, Guti, Júlio Baptista, Robinho, Roberto Soldado
+
+MATCH: 36002 | sob., 19.11.2005 | FC Barcelona
+PLAYERS: Iker Casillas, Sergio Ramos, Iván Helguera, Roberto Carlos, Míchel Salgado, Pablo García, David Beckham, Zinédine Zidane, Robinho, Raúl, Ronaldo
+
+MATCH: 37370 | wt., 16.05.2006 | Sevilla FC
+PLAYERS: Iker Casillas, Sergio Ramos, Álvaro Mejía, Roberto Carlos, Míchel Salgado, Guti, David Beckham, Cicinho, Zinédine Zidane, Júlio Baptista, Raúl
+
+MATCH: 37287 | niedz., 15.01.2006 | Sevilla FC
+PLAYERS: Iker Casillas, Sergio Ramos, Álvaro Mejía, Roberto Carlos, Cicinho, Thomas Gravesen, Guti, David Beckham, Zinédine Zidane, Robinho, Júlio Baptista
+
+MATCH: 37270 | niedz., 11.12.2005 | Málaga CF
+PLAYERS: Iker Casillas, Iván Helguera, Francisco Pavón, Roberto Carlos, Míchel Salgado, Sergio Ramos, Guti, Júlio Baptista, Zinédine Zidane, Robinho, Ronaldo
+
+MATCH: 36056 | niedz., 02.04.2006 | FC Barcelona
+PLAYERS: Iker Casillas, Raúl Bravo, Sergio Ramos, Roberto Carlos, Cicinho, Guti, Júlio Baptista, David Beckham, Zinédine Zidane, Robinho, Ronaldo
+
+MATCH: 49092 | śr., 26.10.2005 | Deportivo de La Coruña
+PLAYERS: Iker Casillas, Sergio Ramos, Jonathan Woodgate, Roberto Carlos, Carlos Diogo, Iván Helguera, Pablo García, David Beckham, Guti, Robinho, Raúl
+
+MATCH: 35643 | śr., 19.10.2005 | Rosenborg BK
+PLAYERS: Iker Casillas, Iván Helguera, Jonathan Woodgate, Roberto Carlos, Carlos Diogo, Pablo García, David Beckham, Zinédine Zidane, Júlio Baptista, Robinho, Raúl
+
+MATCH: 36054 | niedz., 26.03.2006 | Deportivo de La Coruña
+PLAYERS: Iker Casillas, Raúl Bravo, Sergio Ramos, Roberto Carlos, Cicinho, Guti, Júlio Baptista, David Beckham, Zinédine Zidane, Robinho, Ronaldo
+
+MATCH: 35942 | niedz., 09.04.2006 | Real Sociedad
+PLAYERS: Iker Casillas, Sergio Ramos, Álvaro Mejía, Raúl Bravo, Cicinho, Guti, Júlio Baptista, Zinédine Zidane, Robinho, Raúl, Ronaldo
+
+MATCH: 35973 | niedz., 18.09.2005 | RCD Espanyol
+PLAYERS: Iker Casillas, Sergio Ramos, Iván Helguera, Roberto Carlos, Míchel Salgado, Pablo García, David Beckham, Robinho, Júlio Baptista, Raúl, Ronaldo
+
+MATCH: 35650 | wt., 06.12.2005 | Olympiakos Pireus
+PLAYERS: Diego López, Sergio Ramos, Francisco Pavón, Raúl Bravo, Carlos Diogo, Thomas Gravesen, Rubén de la Red, Júlio Baptista, Robinho, Javier Balboa, Roberto Soldado
+
+MATCH: 49098 | sob., 29.10.2005 | Real Betis Balompié
+PLAYERS: Iker Casillas, Iván Helguera, Jonathan Woodgate, Roberto Carlos, Míchel Salgado, Sergio Ramos, Carlos Diogo, Pablo García, Guti, Robinho, Raúl
+
+MATCH: 49851 | śr., 08.03.2006 | FC Arsenal
+PLAYERS: Iker Casillas, Raúl Bravo, Sergio Ramos, Roberto Carlos, Míchel Salgado, Thomas Gravesen, David Beckham, Guti, Zinédine Zidane, Raúl, Ronaldo
+
+MATCH: 35853 | niedz., 25.09.2005 | Deportivo Alavés
+PLAYERS: Iker Casillas, Sergio Ramos, Iván Helguera, Roberto Carlos, Míchel Salgado, Pablo García, David Beckham, Guti, Júlio Baptista, Raúl, Ronaldo
+
+MATCH: 35925 | niedz., 19.03.2006 | Real Betis Balompié
+PLAYERS: Iker Casillas, Raúl Bravo, Sergio Ramos, Roberto Carlos, Míchel Salgado, Cicinho, Guti, Zinédine Zidane, Robinho, Raúl, Antonio Cassano
+
+MATCH: 37365 | niedz., 07.05.2006 | Villarreal CF
+PLAYERS: Iker Casillas, Sergio Ramos, Álvaro Mejía, Roberto Carlos, Míchel Salgado, Pablo García, Júlio Baptista, David Beckham, Zinédine Zidane, Robinho, Raúl
+
+MATCH: 37286 | niedz., 08.01.2006 | Villarreal CF
+PLAYERS: Iker Casillas, Iván Helguera, Jonathan Woodgate, Roberto Carlos, Míchel Salgado, Sergio Ramos, Júlio Baptista, Guti, Zinédine Zidane, Robinho, Ronaldo
+
+MATCH: 35585 | wt., 13.09.2005 | Olympique Lyon
+PLAYERS: Iker Casillas, Sergio Ramos, Iván Helguera, Roberto Carlos, Míchel Salgado, Pablo García, Thomas Gravesen, David Beckham, Júlio Baptista, Robinho, Raúl
+
+MATCH: 36044 | sob., 18.02.2006 | Deportivo Alavés
+PLAYERS: Iker Casillas, Sergio Ramos, Álvaro Mejía, Raúl Bravo, Míchel Salgado, Guti, David Beckham, Carlos Diogo, Júlio Baptista, Robinho, Ronaldo
+
+MATCH: 36066 | niedz., 30.04.2006 | CA Osasuna
+PLAYERS: Iker Casillas, Sergio Ramos, Álvaro Mejía, Roberto Carlos, Míchel Salgado, Pablo García, Guti, David Beckham, Júlio Baptista, Robinho, Raúl
+
+MATCH: 35979 | czw., 22.09.2005 | Athletic Bilbao
+PLAYERS: Iker Casillas, Jonathan Woodgate, Francisco Pavón, Roberto Carlos, Míchel Salgado, Pablo García, Thomas Gravesen, David Beckham, Robinho, Raúl, Ronaldo
+

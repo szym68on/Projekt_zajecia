@@ -1,0 +1,172 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2594553 | niedz., 25.10.2015 | UD Las Palmas
+PLAYERS: Alphonse Areola, Víctor Ruiz, Daniele Bonera, Jaume Costa, Mario Gaspar, Bruno Soriano, Jonathan dos Santos, Denis Suárez, Samu Castillejo, Matías Nahuel, Cédric Bakambu
+
+MATCH: 2633846 | czw., 17.12.2015 | SD Huesca
+PLAYERS: Mariano Barbosa, Mateo Musacchio, Pablo Iñiguez, Adrián Marín, Antonio Rukavina, Rodri, Manu Trigueros, Samu Castillejo, Matías Nahuel, Samu García, Cédric Bakambu
+
+MATCH: 2618758 | czw., 01.10.2015 | FC Viktoria Pilzno
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Eric Bailly, Jaume Costa, Antonio Rukavina, Bruno Soriano, Jonathan dos Santos, Samu Castillejo, Matías Nahuel, Roberto Soldado, Léo Baptistão
+
+MATCH: 2594534 | niedz., 04.10.2015 | Levante UD
+PLAYERS: Alphonse Areola, Víctor Ruiz, Eric Bailly, Bojan Jokic, Mario Gaspar, Tomás Pina, Manu Trigueros, Alfonso Pedraza, Matías Nahuel, Samu García, Roberto Soldado
+
+MATCH: 2594724 | niedz., 28.02.2016 | Levante UD
+PLAYERS: Alphonse Areola, Mateo Musacchio, Daniele Bonera, Adrián Marín, Eric Bailly, Bruno Soriano, Manu Trigueros, Samu Castillejo, Matías Nahuel, Léo Baptistão, Adrián López
+
+MATCH: 2668345 | czw., 17.03.2016 | Bayer 04 Leverkusen
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Eric Bailly, Antonio Rukavina, Mario Gaspar, Bruno Soriano, Tomás Pina, Denis Suárez, Samu Castillejo, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594544 | niedz., 18.10.2015 | Celta de Vigo
+PLAYERS: Alphonse Areola, Víctor Ruiz, Eric Bailly, Jaume Costa, Mario Gaspar, Tomás Pina, Manu Trigueros, Matías Nahuel, Samu García, Léo Baptistão, Roberto Soldado
+
+MATCH: 2594734 | śr., 02.03.2016 | Celta de Vigo
+PLAYERS: Alphonse Areola, Víctor Ruiz, Eric Bailly, Antonio Rukavina, Mario Gaspar, Tomás Pina, Manu Trigueros, Denis Suárez, Matías Nahuel, Léo Baptistão, Cédric Bakambu
+
+MATCH: 2594563 | sob., 31.10.2015 | Sevilla FC
+PLAYERS: Alphonse Areola, Víctor Ruiz, Eric Bailly, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Suárez, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2682271 | czw., 28.04.2016 | FC Liverpool
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Eric Bailly, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Jonathan dos Santos, Denis Suárez, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594801 | śr., 20.04.2016 | Real Madryt
+PLAYERS: Sergio Asenjo, Daniele Bonera, Eric Bailly, Antonio Rukavina, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Suárez, Cédric Bakambu, Adrián López
+
+MATCH: 2594781 | niedz., 10.04.2016 | Getafe CF
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Eric Bailly, Antonio Rukavina, Mario Gaspar, Bruno Soriano, Tomás Pina, Samu Castillejo, Denis Suárez, Léo Baptistão, Adrián López
+
+MATCH: 2594696 | sob., 06.02.2016 | Athletic Bilbao
+PLAYERS: Alphonse Areola, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Suárez, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594591 | niedz., 29.11.2015 | Getafe CF
+PLAYERS: Alphonse Areola, Víctor Ruiz, Eric Bailly, Adrián Marín, Mario Gaspar, Tomás Pina, Jonathan dos Santos, Manu Trigueros, Samu Castillejo, Matías Nahuel, Samu García
+
+MATCH: 2594515 | śr., 23.09.2015 | Málaga CF
+PLAYERS: Alphonse Areola, Mario Gaspar, Eric Bailly, Bojan Jokic, Antonio Rukavina, Jonathan dos Santos, Tomás Pina, Denis Suárez, Samu García, Léo Baptistão, Adrián López
+
+MATCH: 2675302 | czw., 07.04.2016 | AC Sparta Praga
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Eric Bailly, Jaume Costa, Mario Gaspar, Bruno Soriano, Denis Suárez, Manu Trigueros, Samu Castillejo, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2682273 | czw., 05.05.2016 | FC Liverpool
+PLAYERS: Alphonse Areola, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Jonathan dos Santos, Denis Suárez, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594743 | sob., 05.03.2016 | UD Las Palmas
+PLAYERS: Alphonse Areola, Víctor Ruiz, Daniele Bonera, Adrián Marín, Mario Gaspar, Bruno Soriano, Tomás Pina, Denis Suárez, Samu Castillejo, Roberto Soldado, Adrián López
+
+MATCH: 2594791 | niedz., 17.04.2016 | Rayo Vallecano
+PLAYERS: Alphonse Areola, Víctor Ruiz, Eric Bailly, Adrián Marín, Mario Gaspar, Jonathan dos Santos, Manu Trigueros, Denis Suárez, Alfonso Pedraza, Léo Baptistão, Adrián López
+
+MATCH: 2594622 | niedz., 20.12.2015 | Real Sociedad
+PLAYERS: Alphonse Areola, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Antonio Rukavina, Bruno Soriano, Tomás Pina, Jonathan dos Santos, Denis Suárez, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594632 | czw., 31.12.2015 | Valencia CF
+PLAYERS: Alphonse Areola, Víctor Ruiz, Mateo Musacchio, Adrián Marín, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Suárez, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2618817 | czw., 22.10.2015 | Dinamo Minsk
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Eric Bailly, Bojan Jokic, Antonio Rukavina, Tomás Pina, Jonathan dos Santos, Denis Suárez, Samu García, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594506 | niedz., 20.09.2015 | Athletic Bilbao
+PLAYERS: Alphonse Areola, Víctor Ruiz, Eric Bailly, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Samu Castillejo, Matías Nahuel, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2618822 | czw., 26.11.2015 | SK Rapid Wiedeń
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Mario Gaspar, Jaume Costa, Antonio Rukavina, Bruno Soriano, Jonathan dos Santos, Denis Suárez, Samu Castillejo, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594496 | niedz., 13.09.2015 | Granada CF
+PLAYERS: Alphonse Areola, Víctor Ruiz, Eric Bailly, Jaume Costa, Mario Gaspar, Tomás Pina, Manu Trigueros, Samu Castillejo, Matías Nahuel, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594833 | niedz., 08.05.2016 | Deportivo de La Coruña
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Daniele Bonera, Antonio Rukavina, Mario Gaspar, Bruno Soriano, Manu Trigueros, Samu Castillejo, Samu García, Léo Baptistão, Adrián López
+
+MATCH: 2646031 | czw., 25.02.2016 | SSC Napoli
+PLAYERS: Alphonse Areola, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Antonio Rukavina, Denis Suárez, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594643 | niedz., 03.01.2016 | Deportivo de La Coruña
+PLAYERS: Alphonse Areola, Víctor Ruiz, Mateo Musacchio, Antonio Rukavina, Mario Gaspar, Bruno Soriano, Tomás Pina, Jonathan dos Santos, Denis Suárez, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594686 | sob., 30.01.2016 | Granada CF
+PLAYERS: Alphonse Areola, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Suárez, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594753 | niedz., 13.03.2016 | Sevilla FC
+PLAYERS: Alphonse Areola, Víctor Ruiz, Daniele Bonera, Eric Bailly, Mario Gaspar, Bruno Soriano, Tomás Pina, Antonio Rukavina, Denis Suárez, Cédric Bakambu, Adrián López
+
+MATCH: 2633815 | czw., 03.12.2015 | SD Huesca
+PLAYERS: Mariano Barbosa, Mateo Musacchio, Eric Bailly, Bojan Jokic, Miguel Llambrich, Jonathan dos Santos, Manu Trigueros, Samu Castillejo, Matías Nahuel, Samu García, Cédric Bakambu
+
+MATCH: 2618819 | czw., 05.11.2015 | Dinamo Minsk
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Mario Gaspar, Bojan Jokic, Antonio Rukavina, Tomás Pina, Manu Trigueros, Matías Nahuel, Samu Castillejo, Samu García, Cédric Bakambu
+
+MATCH: 2594582 | niedz., 22.11.2015 | SD Eibar
+PLAYERS: Alphonse Areola, Víctor Ruiz, Eric Bailly, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Denis Suárez, Samu Castillejo, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2675306 | czw., 14.04.2016 | AC Sparta Praga
+PLAYERS: Alphonse Areola, Víctor Ruiz, Eric Bailly, Antonio Rukavina, Mario Gaspar, Bruno Soriano, Manu Trigueros, Denis Suárez, Samu Castillejo, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594601 | niedz., 06.12.2015 | Rayo Vallecano
+PLAYERS: Alphonse Areola, Víctor Ruiz, Eric Bailly, Adrián Marín, Jaume Costa, Bruno Soriano, Tomás Pina, Jonathan dos Santos, Denis Suárez, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594812 | niedz., 24.04.2016 | Real Sociedad
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Eric Bailly, Antonio Rukavina, Mario Gaspar, Bruno Soriano, Tomás Pina, Denis Suárez, Samu Castillejo, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594762 | niedz., 20.03.2016 | FC Barcelona
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Eric Bailly, Antonio Rukavina, Mario Gaspar, Bruno Soriano, Manu Trigueros, Denis Suárez, Samu Castillejo, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594822 | niedz., 01.05.2016 | Valencia CF
+PLAYERS: Alphonse Areola, Mateo Musacchio, Daniele Bonera, Adrián Marín, Antonio Rukavina, Rodri, Manu Trigueros, Samu Castillejo, Samu García, Roberto Soldado, Adrián López
+
+MATCH: 2646016 | czw., 18.02.2016 | SSC Napoli
+PLAYERS: Alphonse Areola, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Suárez, Léo Baptistão, Roberto Soldado
+
+MATCH: 2594525 | sob., 26.09.2015 | Atlético Madryt
+PLAYERS: Alphonse Areola, Víctor Ruiz, Eric Bailly, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Samu Castillejo, Léo Baptistão, Roberto Soldado
+
+MATCH: 2594705 | sob., 13.02.2016 | Málaga CF
+PLAYERS: Alphonse Areola, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Suárez, Roberto Soldado, Léo Baptistão
+
+MATCH: 2594668 | sob., 16.01.2016 | Real Betis Balompié
+PLAYERS: Alphonse Areola, Víctor Ruiz, Mateo Musacchio, Adrián Marín, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Suárez, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2668337 | czw., 10.03.2016 | Bayer 04 Leverkusen
+PLAYERS: Alphonse Areola, Víctor Ruiz, Eric Bailly, Antonio Rukavina, Mario Gaspar, Bruno Soriano, Manu Trigueros, Denis Suárez, Samu Castillejo, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594478 | niedz., 23.08.2015 | Real Betis Balompié
+PLAYERS: Alphonse Areola, Víctor Ruiz, Eric Bailly, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Samu Castillejo, Matías Nahuel, Roberto Soldado, Léo Baptistão
+
+MATCH: 2647657 | śr., 06.01.2016 | Athletic Bilbao
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Eric Bailly, Adrián Marín, Antonio Rukavina, Rodri, Tomás Pina, Samu Castillejo, Matías Nahuel, Samu García, Léo Baptistão
+
+MATCH: 2594677 | sob., 23.01.2016 | RCD Espanyol
+PLAYERS: Alphonse Areola, Mateo Musacchio, Eric Bailly, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Suárez, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594487 | pt., 28.08.2015 | RCD Espanyol
+PLAYERS: Alphonse Areola, Víctor Ruiz, Eric Bailly, Jaume Costa, Mario Gaspar, Tomás Pina, Manu Trigueros, Samu Castillejo, Matías Nahuel, Roberto Soldado, Léo Baptistão
+
+MATCH: 2594572 | niedz., 08.11.2015 | FC Barcelona
+PLAYERS: Alphonse Areola, Víctor Ruiz, Daniele Bonera, Jaume Costa, Mario Gaspar, Bruno Soriano, Jonathan dos Santos, Tomás Pina, Denis Suárez, Samu Castillejo, Roberto Soldado
+
+MATCH: 2618729 | czw., 17.09.2015 | SK Rapid Wiedeń
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Daniele Bonera, Bojan Jokic, Antonio Rukavina, Bruno Soriano, Jonathan dos Santos, Denis Suárez, Samu García, Léo Baptistão, Adrián López
+
+MATCH: 2647666 | śr., 13.01.2016 | Athletic Bilbao
+PLAYERS: Mariano Barbosa, Mateo Musacchio, Eric Bailly, Adrián Marín, Antonio Rukavina, Rodri, Tomás Pina, Samu Castillejo, Matías Nahuel, Samu García, Léo Baptistão
+
+MATCH: 2594611 | niedz., 13.12.2015 | Real Madryt
+PLAYERS: Alphonse Areola, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Eric Bailly, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Suárez, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2618824 | czw., 10.12.2015 | FC Viktoria Pilzno
+PLAYERS: Mariano Barbosa, Víctor Ruiz, Mateo Musacchio, Bojan Jokic, Antonio Rukavina, Bruno Soriano, Manu Trigueros, Samu Castillejo, Samu García, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594653 | niedz., 10.01.2016 | Sporting Gijón
+PLAYERS: Alphonse Areola, Víctor Ruiz, Mateo Musacchio, Adrián Marín, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Suárez, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594715 | niedz., 21.02.2016 | Atlético Madryt
+PLAYERS: Alphonse Areola, Víctor Ruiz, Daniele Bonera, Eric Bailly, Mario Gaspar, Bruno Soriano, Tomás Pina, Antonio Rukavina, Samu Castillejo, Roberto Soldado, Cédric Bakambu
+
+MATCH: 2594843 | niedz., 15.05.2016 | Sporting Gijón
+PLAYERS: Mariano Barbosa, Daniele Bonera, Eric Bailly, Antonio Rukavina, Mario Gaspar, Jonathan dos Santos, Manu Trigueros, Samu Castillejo, Matías Nahuel, Samu García, Léo Baptistão
+
+MATCH: 2594772 | niedz., 03.04.2016 | SD Eibar
+PLAYERS: Alphonse Areola, Víctor Ruiz, Eric Bailly, Adrián Marín, Antonio Rukavina, Bruno Soriano, Tomás Pina, Denis Suárez, Samu Castillejo, Roberto Soldado, Adrián López
+

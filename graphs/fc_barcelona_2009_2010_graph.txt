@@ -1,0 +1,251 @@
+# Graph for Java/GraphStream
+# Nodes: 24
+# Edges: 245
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Víctor Valdés | Gerard Piqué | 44 | 55 | 45
+EDGE Víctor Valdés | Carles Puyol | 45 | 55 | 47
+EDGE Víctor Valdés | Éric Abidal | 26 | 55 | 27
+EDGE Víctor Valdés | Dani Alves | 44 | 55 | 47
+EDGE Víctor Valdés | Yaya Touré | 29 | 55 | 30
+EDGE Víctor Valdés | Seydou Keita | 36 | 55 | 37
+EDGE Víctor Valdés | Xavi | 47 | 55 | 48
+EDGE Víctor Valdés | Thierry Henry | 22 | 55 | 23
+EDGE Víctor Valdés | Lionel Messi | 44 | 55 | 46
+EDGE Víctor Valdés | Zlatan Ibrahimović | 36 | 55 | 37
+EDGE Víctor Valdés | Gabriel Milito | 11 | 55 | 12
+EDGE Víctor Valdés | Maxwell | 30 | 55 | 33
+EDGE Víctor Valdés | Sergio Busquets | 36 | 55 | 39
+EDGE Víctor Valdés | Pedro | 31 | 55 | 34
+EDGE Víctor Valdés | Andrés Iniesta | 28 | 55 | 31
+EDGE Víctor Valdés | Dmytro Chygrynskyi | 10 | 55 | 12
+EDGE Víctor Valdés | Jeffrén | 6 | 55 | 8
+EDGE Víctor Valdés | Bojan Krkic | 13 | 55 | 16
+EDGE Víctor Valdés | Rafa Márquez | 11 | 55 | 14
+EDGE Víctor Valdés | Jonathan dos Santos | 1 | 55 | 2
+EDGE Gerard Piqué | Carles Puyol | 37 | 45 | 47
+EDGE Gerard Piqué | Éric Abidal | 24 | 45 | 27
+EDGE Gerard Piqué | Dani Alves | 36 | 45 | 47
+EDGE Gerard Piqué | Yaya Touré | 22 | 45 | 30
+EDGE Gerard Piqué | Seydou Keita | 30 | 45 | 37
+EDGE Gerard Piqué | Xavi | 39 | 45 | 48
+EDGE Gerard Piqué | Thierry Henry | 18 | 45 | 23
+EDGE Gerard Piqué | Lionel Messi | 38 | 45 | 46
+EDGE Gerard Piqué | Zlatan Ibrahimović | 30 | 45 | 37
+EDGE Gerard Piqué | Gabriel Milito | 6 | 45 | 12
+EDGE Gerard Piqué | Maxwell | 22 | 45 | 33
+EDGE Gerard Piqué | Sergio Busquets | 31 | 45 | 39
+EDGE Gerard Piqué | Pedro | 24 | 45 | 34
+EDGE Gerard Piqué | Andrés Iniesta | 22 | 45 | 31
+EDGE Gerard Piqué | Dmytro Chygrynskyi | 7 | 45 | 12
+EDGE Gerard Piqué | Jeffrén | 3 | 45 | 8
+EDGE Gerard Piqué | Bojan Krkic | 10 | 45 | 16
+EDGE Gerard Piqué | Rafa Márquez | 5 | 45 | 14
+EDGE Gerard Piqué | José Manuel Pinto | 1 | 45 | 4
+EDGE Gerard Piqué | Jonathan dos Santos | 1 | 45 | 2
+EDGE Carles Puyol | Éric Abidal | 24 | 47 | 27
+EDGE Carles Puyol | Dani Alves | 37 | 47 | 47
+EDGE Carles Puyol | Yaya Touré | 23 | 47 | 30
+EDGE Carles Puyol | Seydou Keita | 29 | 47 | 37
+EDGE Carles Puyol | Xavi | 39 | 47 | 48
+EDGE Carles Puyol | Thierry Henry | 21 | 47 | 23
+EDGE Carles Puyol | Lionel Messi | 36 | 47 | 46
+EDGE Carles Puyol | Zlatan Ibrahimović | 32 | 47 | 37
+EDGE Carles Puyol | Maxwell | 24 | 47 | 33
+EDGE Carles Puyol | Sergio Busquets | 32 | 47 | 39
+EDGE Carles Puyol | Andrés Iniesta | 26 | 47 | 31
+EDGE Carles Puyol | Pedro | 24 | 47 | 34
+EDGE Carles Puyol | Dmytro Chygrynskyi | 7 | 47 | 12
+EDGE Carles Puyol | Jeffrén | 6 | 47 | 8
+EDGE Carles Puyol | Bojan Krkic | 10 | 47 | 16
+EDGE Carles Puyol | Rafa Márquez | 8 | 47 | 14
+EDGE Carles Puyol | Gabriel Milito | 6 | 47 | 12
+EDGE Carles Puyol | José Manuel Pinto | 2 | 47 | 4
+EDGE Carles Puyol | Jonathan dos Santos | 2 | 47 | 2
+EDGE Éric Abidal | Dani Alves | 21 | 27 | 47
+EDGE Éric Abidal | Yaya Touré | 14 | 27 | 30
+EDGE Éric Abidal | Seydou Keita | 19 | 27 | 37
+EDGE Éric Abidal | Xavi | 24 | 27 | 48
+EDGE Éric Abidal | Thierry Henry | 14 | 27 | 23
+EDGE Éric Abidal | Lionel Messi | 21 | 27 | 46
+EDGE Éric Abidal | Zlatan Ibrahimović | 19 | 27 | 37
+EDGE Éric Abidal | Dmytro Chygrynskyi | 5 | 27 | 12
+EDGE Éric Abidal | Sergio Busquets | 16 | 27 | 39
+EDGE Éric Abidal | Maxwell | 2 | 27 | 33
+EDGE Éric Abidal | Jeffrén | 2 | 27 | 8
+EDGE Éric Abidal | Bojan Krkic | 4 | 27 | 16
+EDGE Éric Abidal | Andrés Iniesta | 15 | 27 | 31
+EDGE Éric Abidal | Pedro | 12 | 27 | 34
+EDGE Éric Abidal | Gabriel Milito | 2 | 27 | 12
+EDGE Éric Abidal | Rafa Márquez | 4 | 27 | 14
+EDGE Éric Abidal | José Manuel Pinto | 1 | 27 | 4
+EDGE Éric Abidal | Jonathan dos Santos | 1 | 27 | 2
+EDGE Dani Alves | Yaya Touré | 22 | 47 | 30
+EDGE Dani Alves | Seydou Keita | 29 | 47 | 37
+EDGE Dani Alves | Xavi | 40 | 47 | 48
+EDGE Dani Alves | Thierry Henry | 20 | 47 | 23
+EDGE Dani Alves | Lionel Messi | 38 | 47 | 46
+EDGE Dani Alves | Zlatan Ibrahimović | 28 | 47 | 37
+EDGE Dani Alves | Gabriel Milito | 10 | 47 | 12
+EDGE Dani Alves | Maxwell | 25 | 47 | 33
+EDGE Dani Alves | Sergio Busquets | 30 | 47 | 39
+EDGE Dani Alves | Pedro | 30 | 47 | 34
+EDGE Dani Alves | Andrés Iniesta | 24 | 47 | 31
+EDGE Dani Alves | Dmytro Chygrynskyi | 5 | 47 | 12
+EDGE Dani Alves | Bojan Krkic | 13 | 47 | 16
+EDGE Dani Alves | Rafa Márquez | 9 | 47 | 14
+EDGE Dani Alves | Jeffrén | 3 | 47 | 8
+EDGE Dani Alves | José Manuel Pinto | 3 | 47 | 4
+EDGE Dani Alves | Thiago Alcántara | 1 | 47 | 1
+EDGE Dani Alves | Jonathan dos Santos | 2 | 47 | 2
+EDGE Yaya Touré | Seydou Keita | 19 | 30 | 37
+EDGE Yaya Touré | Xavi | 21 | 30 | 48
+EDGE Yaya Touré | Thierry Henry | 12 | 30 | 23
+EDGE Yaya Touré | Lionel Messi | 21 | 30 | 46
+EDGE Yaya Touré | Zlatan Ibrahimović | 19 | 30 | 37
+EDGE Yaya Touré | Gabriel Milito | 7 | 30 | 12
+EDGE Yaya Touré | Maxwell | 17 | 30 | 33
+EDGE Yaya Touré | Sergio Busquets | 12 | 30 | 39
+EDGE Yaya Touré | Pedro | 18 | 30 | 34
+EDGE Yaya Touré | Dmytro Chygrynskyi | 7 | 30 | 12
+EDGE Yaya Touré | Jeffrén | 6 | 30 | 8
+EDGE Yaya Touré | Bojan Krkic | 8 | 30 | 16
+EDGE Yaya Touré | Rafa Márquez | 8 | 30 | 14
+EDGE Yaya Touré | José Manuel Pinto | 1 | 30 | 4
+EDGE Yaya Touré | Gai Assulin | 1 | 30 | 1
+EDGE Yaya Touré | Andrés Iniesta | 13 | 30 | 31
+EDGE Seydou Keita | Xavi | 32 | 37 | 48
+EDGE Seydou Keita | Thierry Henry | 14 | 37 | 23
+EDGE Seydou Keita | Lionel Messi | 28 | 37 | 46
+EDGE Seydou Keita | Zlatan Ibrahimović | 24 | 37 | 37
+EDGE Seydou Keita | Gabriel Milito | 7 | 37 | 12
+EDGE Seydou Keita | Maxwell | 18 | 37 | 33
+EDGE Seydou Keita | Sergio Busquets | 22 | 37 | 39
+EDGE Seydou Keita | Pedro | 20 | 37 | 34
+EDGE Seydou Keita | Dmytro Chygrynskyi | 10 | 37 | 12
+EDGE Seydou Keita | Andrés Iniesta | 13 | 37 | 31
+EDGE Seydou Keita | Bojan Krkic | 9 | 37 | 16
+EDGE Seydou Keita | Rafa Márquez | 4 | 37 | 14
+EDGE Seydou Keita | José Manuel Pinto | 1 | 37 | 4
+EDGE Seydou Keita | Jeffrén | 5 | 37 | 8
+EDGE Seydou Keita | Gai Assulin | 1 | 37 | 1
+EDGE Xavi | Thierry Henry | 19 | 48 | 23
+EDGE Xavi | Lionel Messi | 39 | 48 | 46
+EDGE Xavi | Zlatan Ibrahimović | 33 | 48 | 37
+EDGE Xavi | Maxwell | 24 | 48 | 33
+EDGE Xavi | Sergio Busquets | 30 | 48 | 39
+EDGE Xavi | Andrés Iniesta | 25 | 48 | 31
+EDGE Xavi | Pedro | 26 | 48 | 34
+EDGE Xavi | Dmytro Chygrynskyi | 8 | 48 | 12
+EDGE Xavi | Gabriel Milito | 8 | 48 | 12
+EDGE Xavi | Bojan Krkic | 10 | 48 | 16
+EDGE Xavi | Rafa Márquez | 10 | 48 | 14
+EDGE Xavi | Jeffrén | 4 | 48 | 8
+EDGE Xavi | José Manuel Pinto | 1 | 48 | 4
+EDGE Xavi | Jonathan dos Santos | 1 | 48 | 2
+EDGE Thierry Henry | Lionel Messi | 16 | 23 | 46
+EDGE Thierry Henry | Zlatan Ibrahimović | 15 | 23 | 37
+EDGE Thierry Henry | Dmytro Chygrynskyi | 5 | 23 | 12
+EDGE Thierry Henry | Maxwell | 9 | 23 | 33
+EDGE Thierry Henry | Sergio Busquets | 14 | 23 | 39
+EDGE Thierry Henry | Andrés Iniesta | 11 | 23 | 31
+EDGE Thierry Henry | Rafa Márquez | 4 | 23 | 14
+EDGE Thierry Henry | Bojan Krkic | 4 | 23 | 16
+EDGE Thierry Henry | Pedro | 8 | 23 | 34
+EDGE Thierry Henry | Gabriel Milito | 1 | 23 | 12
+EDGE Thierry Henry | Jeffrén | 1 | 23 | 8
+EDGE Thierry Henry | José Manuel Pinto | 1 | 23 | 4
+EDGE Thierry Henry | Jonathan dos Santos | 1 | 23 | 2
+EDGE Lionel Messi | Zlatan Ibrahimović | 29 | 46 | 37
+EDGE Lionel Messi | Gabriel Milito | 11 | 46 | 12
+EDGE Lionel Messi | Maxwell | 26 | 46 | 33
+EDGE Lionel Messi | Sergio Busquets | 32 | 46 | 39
+EDGE Lionel Messi | Pedro | 22 | 46 | 34
+EDGE Lionel Messi | Andrés Iniesta | 26 | 46 | 31
+EDGE Lionel Messi | Dmytro Chygrynskyi | 7 | 46 | 12
+EDGE Lionel Messi | Jeffrén | 3 | 46 | 8
+EDGE Lionel Messi | Bojan Krkic | 11 | 46 | 16
+EDGE Lionel Messi | Rafa Márquez | 9 | 46 | 14
+EDGE Lionel Messi | José Manuel Pinto | 2 | 46 | 4
+EDGE Lionel Messi | Thiago Alcántara | 1 | 46 | 1
+EDGE Zlatan Ibrahimović | Gabriel Milito | 7 | 37 | 12
+EDGE Zlatan Ibrahimović | Maxwell | 18 | 37 | 33
+EDGE Zlatan Ibrahimović | Sergio Busquets | 23 | 37 | 39
+EDGE Zlatan Ibrahimović | Pedro | 16 | 37 | 34
+EDGE Zlatan Ibrahimović | Andrés Iniesta | 21 | 37 | 31
+EDGE Zlatan Ibrahimović | Dmytro Chygrynskyi | 6 | 37 | 12
+EDGE Zlatan Ibrahimović | Rafa Márquez | 6 | 37 | 14
+EDGE Zlatan Ibrahimović | Jeffrén | 4 | 37 | 8
+EDGE Zlatan Ibrahimović | José Manuel Pinto | 1 | 37 | 4
+EDGE Zlatan Ibrahimović | Bojan Krkic | 2 | 37 | 16
+EDGE Zlatan Ibrahimović | Jonathan dos Santos | 1 | 37 | 2
+EDGE Gabriel Milito | Maxwell | 10 | 12 | 33
+EDGE Gabriel Milito | Sergio Busquets | 8 | 12 | 39
+EDGE Gabriel Milito | Pedro | 9 | 12 | 34
+EDGE Gabriel Milito | Andrés Iniesta | 7 | 12 | 31
+EDGE Gabriel Milito | Bojan Krkic | 3 | 12 | 16
+EDGE Gabriel Milito | Rafa Márquez | 2 | 12 | 14
+EDGE Gabriel Milito | José Manuel Pinto | 1 | 12 | 4
+EDGE Gabriel Milito | Dmytro Chygrynskyi | 1 | 12 | 12
+EDGE Gabriel Milito | Thiago Alcántara | 1 | 12 | 1
+EDGE Gabriel Milito | Jeffrén | 2 | 12 | 8
+EDGE Maxwell | Sergio Busquets | 23 | 33 | 39
+EDGE Maxwell | Pedro | 21 | 33 | 34
+EDGE Maxwell | Andrés Iniesta | 17 | 33 | 31
+EDGE Maxwell | Dmytro Chygrynskyi | 8 | 33 | 12
+EDGE Maxwell | Jeffrén | 7 | 33 | 8
+EDGE Maxwell | Bojan Krkic | 13 | 33 | 16
+EDGE Maxwell | Rafa Márquez | 10 | 33 | 14
+EDGE Maxwell | José Manuel Pinto | 3 | 33 | 4
+EDGE Maxwell | Gai Assulin | 1 | 33 | 1
+EDGE Maxwell | Thiago Alcántara | 1 | 33 | 1
+EDGE Maxwell | Jonathan dos Santos | 1 | 33 | 2
+EDGE Sergio Busquets | Pedro | 23 | 39 | 34
+EDGE Sergio Busquets | Andrés Iniesta | 21 | 39 | 31
+EDGE Sergio Busquets | Dmytro Chygrynskyi | 7 | 39 | 12
+EDGE Sergio Busquets | Jeffrén | 4 | 39 | 8
+EDGE Sergio Busquets | Bojan Krkic | 11 | 39 | 16
+EDGE Sergio Busquets | Rafa Márquez | 9 | 39 | 14
+EDGE Sergio Busquets | José Manuel Pinto | 3 | 39 | 4
+EDGE Sergio Busquets | Gai Assulin | 1 | 39 | 1
+EDGE Sergio Busquets | Jonathan dos Santos | 2 | 39 | 2
+EDGE Pedro | Andrés Iniesta | 15 | 34 | 31
+EDGE Pedro | Bojan Krkic | 12 | 34 | 16
+EDGE Pedro | Dmytro Chygrynskyi | 7 | 34 | 12
+EDGE Pedro | Rafa Márquez | 10 | 34 | 14
+EDGE Pedro | José Manuel Pinto | 3 | 34 | 4
+EDGE Pedro | Jeffrén | 5 | 34 | 8
+EDGE Pedro | Gai Assulin | 1 | 34 | 1
+EDGE Pedro | Thiago Alcántara | 1 | 34 | 1
+EDGE Pedro | Jonathan dos Santos | 2 | 34 | 2
+EDGE Andrés Iniesta | Dmytro Chygrynskyi | 4 | 31 | 12
+EDGE Andrés Iniesta | Bojan Krkic | 5 | 31 | 16
+EDGE Andrés Iniesta | Rafa Márquez | 9 | 31 | 14
+EDGE Andrés Iniesta | José Manuel Pinto | 3 | 31 | 4
+EDGE Andrés Iniesta | Thiago Alcántara | 1 | 31 | 1
+EDGE Andrés Iniesta | Jonathan dos Santos | 1 | 31 | 2
+EDGE Andrés Iniesta | Jeffrén | 3 | 31 | 8
+EDGE Dmytro Chygrynskyi | Jeffrén | 4 | 12 | 8
+EDGE Dmytro Chygrynskyi | Bojan Krkic | 4 | 12 | 16
+EDGE Dmytro Chygrynskyi | Rafa Márquez | 4 | 12 | 14
+EDGE Dmytro Chygrynskyi | José Manuel Pinto | 2 | 12 | 4
+EDGE Dmytro Chygrynskyi | Gai Assulin | 1 | 12 | 1
+EDGE Dmytro Chygrynskyi | Thiago Alcántara | 1 | 12 | 1
+EDGE Jeffrén | Bojan Krkic | 4 | 8 | 16
+EDGE Jeffrén | José Manuel Pinto | 2 | 8 | 4
+EDGE Jeffrén | Rafa Márquez | 4 | 8 | 14
+EDGE Jeffrén | Gai Assulin | 1 | 8 | 1
+EDGE Jeffrén | Jonathan dos Santos | 1 | 8 | 2
+EDGE Bojan Krkic | Rafa Márquez | 8 | 16 | 14
+EDGE Bojan Krkic | José Manuel Pinto | 3 | 16 | 4
+EDGE Bojan Krkic | Gai Assulin | 1 | 16 | 1
+EDGE Bojan Krkic | Thiago Alcántara | 1 | 16 | 1
+EDGE Bojan Krkic | Jonathan dos Santos | 1 | 16 | 2
+EDGE Rafa Márquez | José Manuel Pinto | 3 | 14 | 4
+EDGE Rafa Márquez | Gai Assulin | 1 | 14 | 1
+EDGE Rafa Márquez | Thiago Alcántara | 1 | 14 | 1
+EDGE Rafa Márquez | Jonathan dos Santos | 1 | 14 | 2
+EDGE José Manuel Pinto | Gai Assulin | 1 | 4 | 1
+EDGE José Manuel Pinto | Thiago Alcántara | 1 | 4 | 1
+EDGE José Manuel Pinto | Jonathan dos Santos | 1 | 4 | 2

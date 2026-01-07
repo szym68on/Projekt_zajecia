@@ -1,0 +1,350 @@
+# Graph for Java/GraphStream
+# Nodes: 29
+# Edges: 344
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Pepe Reina | Pau Torres | 21 | 32 | 36
+EDGE Pepe Reina | Raúl Albiol | 11 | 32 | 26
+EDGE Pepe Reina | Alfonso Pedraza | 12 | 32 | 22
+EDGE Pepe Reina | Juan Foyth | 21 | 32 | 26
+EDGE Pepe Reina | Dani Parejo | 24 | 32 | 41
+EDGE Pepe Reina | Ramón Terrats | 12 | 32 | 12
+EDGE Pepe Reina | Manu Trigueros | 10 | 32 | 14
+EDGE Pepe Reina | Yéremy Pino | 23 | 32 | 36
+EDGE Pepe Reina | Samuel Chukwueze | 28 | 32 | 39
+EDGE Pepe Reina | Gerard Moreno | 11 | 32 | 18
+EDGE Pepe Reina | Jorge Cuenca | 12 | 32 | 17
+EDGE Pepe Reina | Aïssa Mandi | 22 | 32 | 29
+EDGE Pepe Reina | Johan Mojica | 10 | 32 | 14
+EDGE Pepe Reina | Manu Morlanes | 7 | 32 | 12
+EDGE Pepe Reina | Francis Coquelin | 8 | 32 | 17
+EDGE Pepe Reina | Álex Baena | 22 | 32 | 32
+EDGE Pepe Reina | José Luis Morales | 14 | 32 | 19
+EDGE Pepe Reina | Diego Collado | 1 | 32 | 1
+EDGE Pepe Reina | Étienne Capoue | 10 | 32 | 23
+EDGE Pepe Reina | Nicolas Jackson | 10 | 32 | 20
+EDGE Pepe Reina | Kiko Femenía | 7 | 32 | 17
+EDGE Pepe Reina | Arnaut Danjuma | 3 | 32 | 10
+EDGE Pepe Reina | Adrián Dela | 2 | 32 | 5
+EDGE Pepe Reina | Alberto Moreno | 10 | 32 | 17
+EDGE Pepe Reina | Giovani Lo Celso | 8 | 32 | 16
+EDGE Pepe Reina | Jorge Pascual | 1 | 32 | 1
+EDGE Pau Torres | Raúl Albiol | 22 | 36 | 26
+EDGE Pau Torres | Alfonso Pedraza | 19 | 36 | 22
+EDGE Pau Torres | Juan Foyth | 20 | 36 | 26
+EDGE Pau Torres | Dani Parejo | 35 | 36 | 41
+EDGE Pau Torres | Ramón Terrats | 10 | 36 | 12
+EDGE Pau Torres | Manu Trigueros | 8 | 36 | 14
+EDGE Pau Torres | Yéremy Pino | 29 | 36 | 36
+EDGE Pau Torres | Samuel Chukwueze | 25 | 36 | 39
+EDGE Pau Torres | Gerard Moreno | 14 | 36 | 18
+EDGE Pau Torres | Gerónimo Rulli | 13 | 36 | 14
+EDGE Pau Torres | Kiko Femenía | 13 | 36 | 17
+EDGE Pau Torres | Manu Morlanes | 3 | 36 | 12
+EDGE Pau Torres | Álex Baena | 18 | 36 | 32
+EDGE Pau Torres | Arnaut Danjuma | 5 | 36 | 10
+EDGE Pau Torres | Nicolas Jackson | 15 | 36 | 20
+EDGE Pau Torres | Jorge Cuenca | 1 | 36 | 17
+EDGE Pau Torres | Johan Mojica | 5 | 36 | 14
+EDGE Pau Torres | Aïssa Mandi | 16 | 36 | 29
+EDGE Pau Torres | Étienne Capoue | 19 | 36 | 23
+EDGE Pau Torres | José Luis Morales | 11 | 36 | 19
+EDGE Pau Torres | Francis Coquelin | 9 | 36 | 17
+EDGE Pau Torres | Giovani Lo Celso | 14 | 36 | 16
+EDGE Pau Torres | Filip Jørgensen | 2 | 36 | 6
+EDGE Pau Torres | Alberto Moreno | 13 | 36 | 17
+EDGE Raúl Albiol | Alfonso Pedraza | 13 | 26 | 22
+EDGE Raúl Albiol | Juan Foyth | 14 | 26 | 26
+EDGE Raúl Albiol | Dani Parejo | 25 | 26 | 41
+EDGE Raúl Albiol | Ramón Terrats | 5 | 26 | 12
+EDGE Raúl Albiol | Manu Trigueros | 5 | 26 | 14
+EDGE Raúl Albiol | Yéremy Pino | 21 | 26 | 36
+EDGE Raúl Albiol | Samuel Chukwueze | 16 | 26 | 39
+EDGE Raúl Albiol | Gerard Moreno | 12 | 26 | 18
+EDGE Raúl Albiol | Gerónimo Rulli | 13 | 26 | 14
+EDGE Raúl Albiol | Kiko Femenía | 9 | 26 | 17
+EDGE Raúl Albiol | Manu Morlanes | 3 | 26 | 12
+EDGE Raúl Albiol | Álex Baena | 14 | 26 | 32
+EDGE Raúl Albiol | Arnaut Danjuma | 6 | 26 | 10
+EDGE Raúl Albiol | Nicolas Jackson | 9 | 26 | 20
+EDGE Raúl Albiol | Étienne Capoue | 17 | 26 | 23
+EDGE Raúl Albiol | Francis Coquelin | 8 | 26 | 17
+EDGE Raúl Albiol | Giovani Lo Celso | 8 | 26 | 16
+EDGE Raúl Albiol | Alberto Moreno | 10 | 26 | 17
+EDGE Raúl Albiol | Filip Jørgensen | 2 | 26 | 6
+EDGE Raúl Albiol | Jorge Cuenca | 4 | 26 | 17
+EDGE Raúl Albiol | Aïssa Mandi | 3 | 26 | 29
+EDGE Raúl Albiol | José Luis Morales | 6 | 26 | 19
+EDGE Raúl Albiol | Johan Mojica | 4 | 26 | 14
+EDGE Alfonso Pedraza | Juan Foyth | 12 | 22 | 26
+EDGE Alfonso Pedraza | Dani Parejo | 20 | 22 | 41
+EDGE Alfonso Pedraza | Ramón Terrats | 9 | 22 | 12
+EDGE Alfonso Pedraza | Manu Trigueros | 2 | 22 | 14
+EDGE Alfonso Pedraza | Yéremy Pino | 17 | 22 | 36
+EDGE Alfonso Pedraza | Samuel Chukwueze | 13 | 22 | 39
+EDGE Alfonso Pedraza | Gerard Moreno | 8 | 22 | 18
+EDGE Alfonso Pedraza | Gerónimo Rulli | 10 | 22 | 14
+EDGE Alfonso Pedraza | Kiko Femenía | 8 | 22 | 17
+EDGE Alfonso Pedraza | Manu Morlanes | 3 | 22 | 12
+EDGE Alfonso Pedraza | Álex Baena | 12 | 22 | 32
+EDGE Alfonso Pedraza | Arnaut Danjuma | 3 | 22 | 10
+EDGE Alfonso Pedraza | Nicolas Jackson | 13 | 22 | 20
+EDGE Alfonso Pedraza | Aïssa Mandi | 10 | 22 | 29
+EDGE Alfonso Pedraza | José Luis Morales | 5 | 22 | 19
+EDGE Alfonso Pedraza | Étienne Capoue | 10 | 22 | 23
+EDGE Alfonso Pedraza | Francis Coquelin | 6 | 22 | 17
+EDGE Alfonso Pedraza | Giovani Lo Celso | 11 | 22 | 16
+EDGE Alfonso Pedraza | Jorge Cuenca | 3 | 22 | 17
+EDGE Alfonso Pedraza | Adrián Dela | 1 | 22 | 5
+EDGE Juan Foyth | Dani Parejo | 24 | 26 | 41
+EDGE Juan Foyth | Ramón Terrats | 11 | 26 | 12
+EDGE Juan Foyth | Manu Trigueros | 5 | 26 | 14
+EDGE Juan Foyth | Yéremy Pino | 22 | 26 | 36
+EDGE Juan Foyth | Samuel Chukwueze | 22 | 26 | 39
+EDGE Juan Foyth | Gerard Moreno | 11 | 26 | 18
+EDGE Juan Foyth | Jorge Cuenca | 6 | 26 | 17
+EDGE Juan Foyth | Aïssa Mandi | 12 | 26 | 29
+EDGE Juan Foyth | Johan Mojica | 5 | 26 | 14
+EDGE Juan Foyth | Manu Morlanes | 1 | 26 | 12
+EDGE Juan Foyth | Francis Coquelin | 5 | 26 | 17
+EDGE Juan Foyth | Álex Baena | 15 | 26 | 32
+EDGE Juan Foyth | José Luis Morales | 11 | 26 | 19
+EDGE Juan Foyth | Diego Collado | 1 | 26 | 1
+EDGE Juan Foyth | Étienne Capoue | 13 | 26 | 23
+EDGE Juan Foyth | Nicolas Jackson | 8 | 26 | 20
+EDGE Juan Foyth | Gerónimo Rulli | 3 | 26 | 14
+EDGE Juan Foyth | Giovani Lo Celso | 6 | 26 | 16
+EDGE Juan Foyth | Alberto Moreno | 9 | 26 | 17
+EDGE Juan Foyth | Filip Jørgensen | 2 | 26 | 6
+EDGE Juan Foyth | Jorge Pascual | 1 | 26 | 1
+EDGE Dani Parejo | Ramón Terrats | 11 | 41 | 12
+EDGE Dani Parejo | Manu Trigueros | 9 | 41 | 14
+EDGE Dani Parejo | Yéremy Pino | 31 | 41 | 36
+EDGE Dani Parejo | Samuel Chukwueze | 30 | 41 | 39
+EDGE Dani Parejo | Gerard Moreno | 16 | 41 | 18
+EDGE Dani Parejo | Gerónimo Rulli | 14 | 41 | 14
+EDGE Dani Parejo | Kiko Femenía | 14 | 41 | 17
+EDGE Dani Parejo | Manu Morlanes | 2 | 41 | 12
+EDGE Dani Parejo | Álex Baena | 22 | 41 | 32
+EDGE Dani Parejo | Arnaut Danjuma | 6 | 41 | 10
+EDGE Dani Parejo | Nicolas Jackson | 16 | 41 | 20
+EDGE Dani Parejo | Jorge Cuenca | 7 | 41 | 17
+EDGE Dani Parejo | Johan Mojica | 6 | 41 | 14
+EDGE Dani Parejo | Aïssa Mandi | 18 | 41 | 29
+EDGE Dani Parejo | Étienne Capoue | 22 | 41 | 23
+EDGE Dani Parejo | José Luis Morales | 13 | 41 | 19
+EDGE Dani Parejo | Francis Coquelin | 10 | 41 | 17
+EDGE Dani Parejo | Giovani Lo Celso | 15 | 41 | 16
+EDGE Dani Parejo | Filip Jørgensen | 3 | 41 | 6
+EDGE Dani Parejo | Alberto Moreno | 16 | 41 | 17
+EDGE Dani Parejo | Jorge Pascual | 1 | 41 | 1
+EDGE Ramón Terrats | Manu Trigueros | 2 | 12 | 14
+EDGE Ramón Terrats | Yéremy Pino | 10 | 12 | 36
+EDGE Ramón Terrats | Samuel Chukwueze | 12 | 12 | 39
+EDGE Ramón Terrats | Gerard Moreno | 3 | 12 | 18
+EDGE Ramón Terrats | Aïssa Mandi | 7 | 12 | 29
+EDGE Ramón Terrats | Álex Baena | 8 | 12 | 32
+EDGE Ramón Terrats | José Luis Morales | 6 | 12 | 19
+EDGE Ramón Terrats | Giovani Lo Celso | 3 | 12 | 16
+EDGE Ramón Terrats | Nicolas Jackson | 3 | 12 | 20
+EDGE Ramón Terrats | Kiko Femenía | 1 | 12 | 17
+EDGE Ramón Terrats | Jorge Cuenca | 2 | 12 | 17
+EDGE Ramón Terrats | Alberto Moreno | 3 | 12 | 17
+EDGE Ramón Terrats | Étienne Capoue | 2 | 12 | 23
+EDGE Manu Trigueros | Yéremy Pino | 9 | 14 | 36
+EDGE Manu Trigueros | Samuel Chukwueze | 11 | 14 | 39
+EDGE Manu Trigueros | Gerard Moreno | 5 | 14 | 18
+EDGE Manu Trigueros | Jorge Cuenca | 6 | 14 | 17
+EDGE Manu Trigueros | Aïssa Mandi | 9 | 14 | 29
+EDGE Manu Trigueros | Johan Mojica | 7 | 14 | 14
+EDGE Manu Trigueros | Kiko Femenía | 7 | 14 | 17
+EDGE Manu Trigueros | Manu Morlanes | 5 | 14 | 12
+EDGE Manu Trigueros | Álex Baena | 6 | 14 | 32
+EDGE Manu Trigueros | Arnaut Danjuma | 4 | 14 | 10
+EDGE Manu Trigueros | José Luis Morales | 6 | 14 | 19
+EDGE Manu Trigueros | Nicolas Jackson | 4 | 14 | 20
+EDGE Manu Trigueros | Filip Jørgensen | 2 | 14 | 6
+EDGE Manu Trigueros | Alberto Moreno | 5 | 14 | 17
+EDGE Manu Trigueros | Étienne Capoue | 4 | 14 | 23
+EDGE Manu Trigueros | Giovani Lo Celso | 1 | 14 | 16
+EDGE Manu Trigueros | Francis Coquelin | 3 | 14 | 17
+EDGE Manu Trigueros | Gerónimo Rulli | 2 | 14 | 14
+EDGE Manu Trigueros | Adrián Dela | 2 | 14 | 5
+EDGE Manu Trigueros | Jorge Pascual | 1 | 14 | 1
+EDGE Yéremy Pino | Samuel Chukwueze | 25 | 36 | 39
+EDGE Yéremy Pino | Gerard Moreno | 15 | 36 | 18
+EDGE Yéremy Pino | Gerónimo Rulli | 9 | 36 | 14
+EDGE Yéremy Pino | Kiko Femenía | 10 | 36 | 17
+EDGE Yéremy Pino | Manu Morlanes | 6 | 36 | 12
+EDGE Yéremy Pino | Álex Baena | 19 | 36 | 32
+EDGE Yéremy Pino | Arnaut Danjuma | 5 | 36 | 10
+EDGE Yéremy Pino | Nicolas Jackson | 15 | 36 | 20
+EDGE Yéremy Pino | Jorge Cuenca | 8 | 36 | 17
+EDGE Yéremy Pino | Johan Mojica | 6 | 36 | 14
+EDGE Yéremy Pino | Aïssa Mandi | 16 | 36 | 29
+EDGE Yéremy Pino | Étienne Capoue | 20 | 36 | 23
+EDGE Yéremy Pino | José Luis Morales | 9 | 36 | 19
+EDGE Yéremy Pino | Giovani Lo Celso | 10 | 36 | 16
+EDGE Yéremy Pino | Francis Coquelin | 6 | 36 | 17
+EDGE Yéremy Pino | Filip Jørgensen | 4 | 36 | 6
+EDGE Yéremy Pino | Alberto Moreno | 13 | 36 | 17
+EDGE Yéremy Pino | Adrián Dela | 2 | 36 | 5
+EDGE Samuel Chukwueze | Gerard Moreno | 12 | 39 | 18
+EDGE Samuel Chukwueze | Jorge Cuenca | 15 | 39 | 17
+EDGE Samuel Chukwueze | Aïssa Mandi | 25 | 39 | 29
+EDGE Samuel Chukwueze | Johan Mojica | 12 | 39 | 14
+EDGE Samuel Chukwueze | Manu Morlanes | 8 | 39 | 12
+EDGE Samuel Chukwueze | Francis Coquelin | 12 | 39 | 17
+EDGE Samuel Chukwueze | Álex Baena | 27 | 39 | 32
+EDGE Samuel Chukwueze | José Luis Morales | 15 | 39 | 19
+EDGE Samuel Chukwueze | Diego Collado | 1 | 39 | 1
+EDGE Samuel Chukwueze | Étienne Capoue | 15 | 39 | 23
+EDGE Samuel Chukwueze | Nicolas Jackson | 10 | 39 | 20
+EDGE Samuel Chukwueze | Filip Jørgensen | 6 | 39 | 6
+EDGE Samuel Chukwueze | Alberto Moreno | 15 | 39 | 17
+EDGE Samuel Chukwueze | Kiko Femenía | 10 | 39 | 17
+EDGE Samuel Chukwueze | Adrián Dela | 4 | 39 | 5
+EDGE Samuel Chukwueze | Arnaut Danjuma | 6 | 39 | 10
+EDGE Samuel Chukwueze | Giovani Lo Celso | 9 | 39 | 16
+EDGE Samuel Chukwueze | Gerónimo Rulli | 5 | 39 | 14
+EDGE Samuel Chukwueze | Jorge Pascual | 1 | 39 | 1
+EDGE Gerard Moreno | Jorge Cuenca | 5 | 18 | 17
+EDGE Gerard Moreno | Johan Mojica | 4 | 18 | 14
+EDGE Gerard Moreno | Aïssa Mandi | 6 | 18 | 29
+EDGE Gerard Moreno | Étienne Capoue | 10 | 18 | 23
+EDGE Gerard Moreno | Álex Baena | 9 | 18 | 32
+EDGE Gerard Moreno | Gerónimo Rulli | 5 | 18 | 14
+EDGE Gerard Moreno | Giovani Lo Celso | 5 | 18 | 16
+EDGE Gerard Moreno | Nicolas Jackson | 5 | 18 | 20
+EDGE Gerard Moreno | Adrián Dela | 1 | 18 | 5
+EDGE Gerard Moreno | Francis Coquelin | 4 | 18 | 17
+EDGE Gerard Moreno | Manu Morlanes | 2 | 18 | 12
+EDGE Gerard Moreno | José Luis Morales | 4 | 18 | 19
+EDGE Gerard Moreno | Alberto Moreno | 6 | 18 | 17
+EDGE Gerard Moreno | Kiko Femenía | 5 | 18 | 17
+EDGE Gerard Moreno | Filip Jørgensen | 2 | 18 | 6
+EDGE Jorge Cuenca | Aïssa Mandi | 14 | 17 | 29
+EDGE Jorge Cuenca | Johan Mojica | 10 | 17 | 14
+EDGE Jorge Cuenca | Manu Morlanes | 9 | 17 | 12
+EDGE Jorge Cuenca | Francis Coquelin | 8 | 17 | 17
+EDGE Jorge Cuenca | Álex Baena | 15 | 17 | 32
+EDGE Jorge Cuenca | José Luis Morales | 8 | 17 | 19
+EDGE Jorge Cuenca | Diego Collado | 1 | 17 | 1
+EDGE Jorge Cuenca | Étienne Capoue | 5 | 17 | 23
+EDGE Jorge Cuenca | Kiko Femenía | 4 | 17 | 17
+EDGE Jorge Cuenca | Arnaut Danjuma | 5 | 17 | 10
+EDGE Jorge Cuenca | Nicolas Jackson | 5 | 17 | 20
+EDGE Jorge Cuenca | Filip Jørgensen | 4 | 17 | 6
+EDGE Jorge Cuenca | Adrián Dela | 5 | 17 | 5
+EDGE Jorge Cuenca | Alberto Moreno | 4 | 17 | 17
+EDGE Jorge Cuenca | Giovani Lo Celso | 2 | 17 | 16
+EDGE Jorge Cuenca | Jorge Pascual | 1 | 17 | 1
+EDGE Jorge Cuenca | Gerónimo Rulli | 1 | 17 | 14
+EDGE Aïssa Mandi | Johan Mojica | 12 | 29 | 14
+EDGE Aïssa Mandi | Manu Morlanes | 11 | 29 | 12
+EDGE Aïssa Mandi | Francis Coquelin | 11 | 29 | 17
+EDGE Aïssa Mandi | Álex Baena | 21 | 29 | 32
+EDGE Aïssa Mandi | José Luis Morales | 14 | 29 | 19
+EDGE Aïssa Mandi | Diego Collado | 1 | 29 | 1
+EDGE Aïssa Mandi | Étienne Capoue | 6 | 29 | 23
+EDGE Aïssa Mandi | Nicolas Jackson | 12 | 29 | 20
+EDGE Aïssa Mandi | Kiko Femenía | 8 | 29 | 17
+EDGE Aïssa Mandi | Arnaut Danjuma | 6 | 29 | 10
+EDGE Aïssa Mandi | Filip Jørgensen | 4 | 29 | 6
+EDGE Aïssa Mandi | Alberto Moreno | 8 | 29 | 17
+EDGE Aïssa Mandi | Adrián Dela | 5 | 29 | 5
+EDGE Aïssa Mandi | Giovani Lo Celso | 9 | 29 | 16
+EDGE Aïssa Mandi | Gerónimo Rulli | 3 | 29 | 14
+EDGE Aïssa Mandi | Jorge Pascual | 1 | 29 | 1
+EDGE Johan Mojica | Manu Morlanes | 8 | 14 | 12
+EDGE Johan Mojica | Francis Coquelin | 8 | 14 | 17
+EDGE Johan Mojica | Álex Baena | 11 | 14 | 32
+EDGE Johan Mojica | José Luis Morales | 9 | 14 | 19
+EDGE Johan Mojica | Diego Collado | 1 | 14 | 1
+EDGE Johan Mojica | Étienne Capoue | 3 | 14 | 23
+EDGE Johan Mojica | Kiko Femenía | 2 | 14 | 17
+EDGE Johan Mojica | Arnaut Danjuma | 3 | 14 | 10
+EDGE Johan Mojica | Nicolas Jackson | 3 | 14 | 20
+EDGE Johan Mojica | Filip Jørgensen | 3 | 14 | 6
+EDGE Johan Mojica | Adrián Dela | 4 | 14 | 5
+EDGE Johan Mojica | Gerónimo Rulli | 1 | 14 | 14
+EDGE Johan Mojica | Alberto Moreno | 1 | 14 | 17
+EDGE Johan Mojica | Giovani Lo Celso | 1 | 14 | 16
+EDGE Johan Mojica | Jorge Pascual | 1 | 14 | 1
+EDGE Manu Morlanes | Francis Coquelin | 7 | 12 | 17
+EDGE Manu Morlanes | Álex Baena | 11 | 12 | 32
+EDGE Manu Morlanes | José Luis Morales | 6 | 12 | 19
+EDGE Manu Morlanes | Diego Collado | 1 | 12 | 1
+EDGE Manu Morlanes | Gerónimo Rulli | 2 | 12 | 14
+EDGE Manu Morlanes | Kiko Femenía | 4 | 12 | 17
+EDGE Manu Morlanes | Arnaut Danjuma | 6 | 12 | 10
+EDGE Manu Morlanes | Nicolas Jackson | 5 | 12 | 20
+EDGE Manu Morlanes | Filip Jørgensen | 3 | 12 | 6
+EDGE Manu Morlanes | Adrián Dela | 5 | 12 | 5
+EDGE Manu Morlanes | Alberto Moreno | 1 | 12 | 17
+EDGE Manu Morlanes | Giovani Lo Celso | 1 | 12 | 16
+EDGE Francis Coquelin | Álex Baena | 11 | 17 | 32
+EDGE Francis Coquelin | José Luis Morales | 9 | 17 | 19
+EDGE Francis Coquelin | Diego Collado | 1 | 17 | 1
+EDGE Francis Coquelin | Gerónimo Rulli | 6 | 17 | 14
+EDGE Francis Coquelin | Kiko Femenía | 5 | 17 | 17
+EDGE Francis Coquelin | Étienne Capoue | 5 | 17 | 23
+EDGE Francis Coquelin | Giovani Lo Celso | 6 | 17 | 16
+EDGE Francis Coquelin | Nicolas Jackson | 6 | 17 | 20
+EDGE Francis Coquelin | Arnaut Danjuma | 4 | 17 | 10
+EDGE Francis Coquelin | Filip Jørgensen | 3 | 17 | 6
+EDGE Francis Coquelin | Adrián Dela | 5 | 17 | 5
+EDGE Francis Coquelin | Alberto Moreno | 4 | 17 | 17
+EDGE Álex Baena | José Luis Morales | 12 | 32 | 19
+EDGE Álex Baena | Diego Collado | 1 | 32 | 1
+EDGE Álex Baena | Gerónimo Rulli | 5 | 32 | 14
+EDGE Álex Baena | Kiko Femenía | 9 | 32 | 17
+EDGE Álex Baena | Arnaut Danjuma | 7 | 32 | 10
+EDGE Álex Baena | Nicolas Jackson | 10 | 32 | 20
+EDGE Álex Baena | Étienne Capoue | 10 | 32 | 23
+EDGE Álex Baena | Giovani Lo Celso | 5 | 32 | 16
+EDGE Álex Baena | Filip Jørgensen | 5 | 32 | 6
+EDGE Álex Baena | Adrián Dela | 4 | 32 | 5
+EDGE Álex Baena | Alberto Moreno | 10 | 32 | 17
+EDGE Álex Baena | Jorge Pascual | 1 | 32 | 1
+EDGE José Luis Morales | Diego Collado | 1 | 19 | 1
+EDGE José Luis Morales | Kiko Femenía | 3 | 19 | 17
+EDGE José Luis Morales | Arnaut Danjuma | 2 | 19 | 10
+EDGE José Luis Morales | Nicolas Jackson | 2 | 19 | 20
+EDGE José Luis Morales | Adrián Dela | 4 | 19 | 5
+EDGE José Luis Morales | Giovani Lo Celso | 4 | 19 | 16
+EDGE José Luis Morales | Filip Jørgensen | 2 | 19 | 6
+EDGE José Luis Morales | Gerónimo Rulli | 3 | 19 | 14
+EDGE José Luis Morales | Alberto Moreno | 6 | 19 | 17
+EDGE José Luis Morales | Étienne Capoue | 4 | 19 | 23
+EDGE José Luis Morales | Jorge Pascual | 1 | 19 | 1
+EDGE Gerónimo Rulli | Kiko Femenía | 9 | 14 | 17
+EDGE Gerónimo Rulli | Arnaut Danjuma | 6 | 14 | 10
+EDGE Gerónimo Rulli | Nicolas Jackson | 8 | 14 | 20
+EDGE Gerónimo Rulli | Étienne Capoue | 10 | 14 | 23
+EDGE Gerónimo Rulli | Giovani Lo Celso | 8 | 14 | 16
+EDGE Gerónimo Rulli | Alberto Moreno | 4 | 14 | 17
+EDGE Kiko Femenía | Arnaut Danjuma | 7 | 17 | 10
+EDGE Kiko Femenía | Nicolas Jackson | 9 | 17 | 20
+EDGE Kiko Femenía | Étienne Capoue | 9 | 17 | 23
+EDGE Kiko Femenía | Giovani Lo Celso | 9 | 17 | 16
+EDGE Kiko Femenía | Filip Jørgensen | 1 | 17 | 6
+EDGE Kiko Femenía | Alberto Moreno | 7 | 17 | 17
+EDGE Arnaut Danjuma | Nicolas Jackson | 4 | 10 | 20
+EDGE Arnaut Danjuma | Étienne Capoue | 3 | 10 | 23
+EDGE Arnaut Danjuma | Giovani Lo Celso | 3 | 10 | 16
+EDGE Arnaut Danjuma | Filip Jørgensen | 1 | 10 | 6
+EDGE Arnaut Danjuma | Adrián Dela | 1 | 10 | 5
+EDGE Arnaut Danjuma | Alberto Moreno | 4 | 10 | 17
+EDGE Nicolas Jackson | Étienne Capoue | 11 | 20 | 23
+EDGE Nicolas Jackson | Giovani Lo Celso | 9 | 20 | 16
+EDGE Nicolas Jackson | Filip Jørgensen | 2 | 20 | 6
+EDGE Nicolas Jackson | Alberto Moreno | 4 | 20 | 17
+EDGE Nicolas Jackson | Adrián Dela | 2 | 20 | 5
+EDGE Étienne Capoue | Giovani Lo Celso | 9 | 23 | 16
+EDGE Étienne Capoue | Filip Jørgensen | 3 | 23 | 6
+EDGE Étienne Capoue | Alberto Moreno | 10 | 23 | 17
+EDGE Giovani Lo Celso | Alberto Moreno | 4 | 16 | 17
+EDGE Filip Jørgensen | Alberto Moreno | 3 | 6 | 17
+EDGE Filip Jørgensen | Adrián Dela | 3 | 6 | 5

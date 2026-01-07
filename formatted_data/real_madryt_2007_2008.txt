@@ -1,0 +1,160 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 1059341 | niedz., 19.08.2007 | Sevilla FC
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Miguel Torres, Sergio Ramos, Mahamadou Diarra, Royston Drenthe, Wesley Sneijder, Raúl, Robinho, Ruud van Nistelrooy
+
+MATCH: 78994 | sob., 02.02.2008 | UD Almería
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Miguel Torres, Míchel Salgado, Mahamadou Diarra, Guti, Wesley Sneijder, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 79010 | niedz., 10.02.2008 | Real Valladolid CF
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Marcelo, Míchel Salgado, Fernando Gago, Guti, Júlio Baptista, Robinho, Arjen Robben, Raúl
+
+MATCH: 79110 | niedz., 20.04.2008 | Racing Santander
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Fernando Gago, Mahamadou Diarra, Wesley Sneijder, Arjen Robben, Robinho, Raúl
+
+MATCH: 79120 | niedz., 27.04.2008 | Athletic Bilbao
+PLAYERS: Iker Casillas, Gabriel Heinze, Pepe, Marcelo, Sergio Ramos, Fernando Gago, Guti, Wesley Sneijder, Raúl, Robinho, Javier Saviola
+
+MATCH: 79041 | sob., 01.03.2008 | Recreativo Huelva
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Gabriel Heinze, Miguel Torres, Mahamadou Diarra, Fernando Gago, Royston Drenthe, Arjen Robben, Júlio Baptista, Raúl
+
+MATCH: 78940 | niedz., 16.12.2007 | CA Osasuna
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Marcelo, Sergio Ramos, Mahamadou Diarra, Júlio Baptista, Wesley Sneijder, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 79016 | sob., 16.02.2008 | Real Betis Balompié
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Marcelo, Míchel Salgado, Fernando Gago, Arjen Robben, Royston Drenthe, Guti, Júlio Baptista, Raúl
+
+MATCH: 79100 | niedz., 13.04.2008 | Real Murcia CF
+PLAYERS: Iker Casillas, Gabriel Heinze, Pepe, Marcelo, Miguel Torres, Fernando Gago, Guti, Wesley Sneijder, Robinho, Arjen Robben, Raúl
+
+MATCH: 83360 | śr., 24.10.2007 | Olympiakos Pireus
+PLAYERS: Iker Casillas, Sergio Ramos, Christoph Metzelder, Marcelo, Míchel Salgado, Fernando Gago, Guti, Wesley Sneijder, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 78899 | niedz., 11.11.2007 | RCD Mallorca
+PLAYERS: Iker Casillas, Gabriel Heinze, Fabio Cannavaro, Marcelo, Miguel Torres, Mahamadou Diarra, Fernando Gago, Wesley Sneijder, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 88425 | czw., 10.01.2008 | RCD Mallorca
+PLAYERS: Jerzy Dudek, Pepe, Sergio Ramos, Miguel Torres, Míchel Salgado, Fernando Gago, Guti, Wesley Sneijder, Gonzalo Higuaín, Robinho, Raúl
+
+MATCH: 78830 | czw., 27.09.2007 | Real Betis Balompié
+PLAYERS: Iker Casillas, Gabriel Heinze, Fabio Cannavaro, Miguel Torres, Sergio Ramos, Mahamadou Diarra, Guti, Gonzalo Higuaín, Wesley Sneijder, Raúl, Javier Saviola
+
+MATCH: 78870 | niedz., 28.10.2007 | Deportivo de La Coruña
+PLAYERS: Iker Casillas, Sergio Ramos, Christoph Metzelder, Marcelo, Míchel Salgado, Fernando Gago, Guti, Gonzalo Higuaín, Robinho, Javier Saviola, Ruud van Nistelrooy
+
+MATCH: 78926 | sob., 08.12.2007 | Athletic Bilbao
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Miguel Torres, Sergio Ramos, Mahamadou Diarra, Wesley Sneijder, Júlio Baptista, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 78892 | sob., 03.11.2007 | Sevilla FC
+PLAYERS: Iker Casillas, Fabio Cannavaro, Christoph Metzelder, Marcelo, Sergio Ramos, Mahamadou Diarra, Fernando Gago, Guti, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 87622 | śr., 02.01.2008 | Alicante CF
+PLAYERS: Jerzy Dudek, Gabriel Heinze, Sergio Ramos, Marcelo, Míchel Salgado, Fernando Gago, Guti, Javier Balboa, Arjen Robben, Roberto Soldado, Gonzalo Higuaín
+
+MATCH: 78838 | niedz., 30.09.2007 | Getafe CF
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Marcelo, Miguel Torres, Fernando Gago, Wesley Sneijder, Royston Drenthe, Arjen Robben, Robinho, Raúl
+
+MATCH: 78849 | niedz., 07.10.2007 | Recreativo Huelva
+PLAYERS: Iker Casillas, Gabriel Heinze, Fabio Cannavaro, Marcelo, Sergio Ramos, Mahamadou Diarra, Guti, Arjen Robben, Wesley Sneijder, Raúl, Ruud van Nistelrooy
+
+MATCH: 79088 | sob., 05.04.2008 | RCD Mallorca
+PLAYERS: Iker Casillas, Gabriel Heinze, Fabio Cannavaro, Marcelo, Sergio Ramos, Fernando Gago, Guti, Arjen Robben, Wesley Sneijder, Raúl, Gonzalo Higuaín
+
+MATCH: 83349 | śr., 03.10.2007 | Lazio Rzym
+PLAYERS: Iker Casillas, Gabriel Heinze, Fabio Cannavaro, Marcelo, Sergio Ramos, Mahamadou Diarra, Guti, Arjen Robben, Wesley Sneijder, Raúl, Ruud van Nistelrooy
+
+MATCH: 78881 | śr., 31.10.2007 | Valencia CF
+PLAYERS: Iker Casillas, Fabio Cannavaro, Christoph Metzelder, Marcelo, Sergio Ramos, Fernando Gago, Mahamadou Diarra, Guti, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 83394 | wt., 11.12.2007 | Lazio Rzym
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Marcelo, Sergio Ramos, Mahamadou Diarra, Júlio Baptista, Wesley Sneijder, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 79124 | niedz., 04.05.2008 | CA Osasuna
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Fernando Gago, Mahamadou Diarra, Wesley Sneijder, Raúl, Arjen Robben, Javier Saviola
+
+MATCH: 79030 | niedz., 24.02.2008 | Getafe CF
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Gabriel Heinze, Miguel Torres, Fernando Gago, Guti, Júlio Baptista, Arjen Robben, Raúl, Ruud van Nistelrooy
+
+MATCH: 78969 | niedz., 13.01.2008 | Levante UD
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Marcelo, Miguel Torres, Fernando Gago, Wesley Sneijder, Júlio Baptista, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 78810 | sob., 15.09.2007 | UD Almería
+PLAYERS: Iker Casillas, Fabio Cannavaro, Christoph Metzelder, Gabriel Heinze, Sergio Ramos, Mahamadou Diarra, Guti, Wesley Sneijder, Robinho, Raúl, Javier Saviola
+
+MATCH: 78920 | sob., 01.12.2007 | Racing Santander
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Marcelo, Sergio Ramos, Mahamadou Diarra, Júlio Baptista, Wesley Sneijder, Raúl, Robinho, Ruud van Nistelrooy
+
+MATCH: 78989 | niedz., 27.01.2008 | Villarreal CF
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Miguel Torres, Míchel Salgado, Fernando Gago, Guti, Júlio Baptista, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 86915 | śr., 19.12.2007 | Alicante CF
+PLAYERS: Jerzy Dudek, Gabriel Heinze, Christoph Metzelder, Miguel Torres, Míchel Salgado, Fernando Gago, Guti, Royston Drenthe, Arjen Robben, Javier Saviola, Gonzalo Higuaín
+
+MATCH: 83388 | śr., 28.11.2007 | SV Werder Bremen
+PLAYERS: Iker Casillas, Pepe, Christoph Metzelder, Marcelo, Sergio Ramos, Mahamadou Diarra, Fernando Gago, Guti, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 79140 | śr., 07.05.2008 | FC Barcelona
+PLAYERS: Iker Casillas, Gabriel Heinze, Pepe, Marcelo, Sergio Ramos, Fernando Gago, Mahamadou Diarra, Guti, Arjen Robben, Wesley Sneijder, Raúl
+
+MATCH: 79153 | niedz., 11.05.2008 | Real Zaragoza
+PLAYERS: Jerzy Dudek, Fabio Cannavaro, Christoph Metzelder, Marcelo, Sergio Ramos, Mahamadou Diarra, Guti, Wesley Sneijder, Gonzalo Higuaín, Robinho, Ruud van Nistelrooy
+
+MATCH: 78959 | niedz., 06.01.2008 | Real Zaragoza
+PLAYERS: Iker Casillas, Gabriel Heinze, Fabio Cannavaro, Marcelo, Sergio Ramos, Mahamadou Diarra, Wesley Sneijder, Júlio Baptista, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 78789 | sob., 25.08.2007 | Atlético Madryt
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Royston Drenthe, Sergio Ramos, Mahamadou Diarra, Guti, Wesley Sneijder, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 78802 | niedz., 02.09.2007 | Villarreal CF
+PLAYERS: Iker Casillas, Fabio Cannavaro, Christoph Metzelder, Royston Drenthe, Sergio Ramos, Mahamadou Diarra, Guti, Wesley Sneijder, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 78947 | niedz., 23.12.2007 | FC Barcelona
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Mahamadou Diarra, Wesley Sneijder, Júlio Baptista, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 79079 | niedz., 30.03.2008 | Sevilla FC
+PLAYERS: Iker Casillas, Gabriel Heinze, Fabio Cannavaro, Marcelo, Sergio Ramos, Fernando Gago, Guti, Arjen Robben, Wesley Sneijder, Raúl, Gonzalo Higuaín
+
+MATCH: 78821 | niedz., 23.09.2007 | Real Valladolid CF
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Marcelo, Míchel Salgado, Mahamadou Diarra, Royston Drenthe, Guti, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 79070 | niedz., 23.03.2008 | Valencia CF
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Marcelo, Sergio Ramos, Fernando Gago, Guti, Júlio Baptista, Robinho, Wesley Sneijder, Raúl
+
+MATCH: 78908 | sob., 24.11.2007 | Real Murcia CF
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Marcelo, Sergio Ramos, Mahamadou Diarra, Fernando Gago, Guti, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 79159 | niedz., 18.05.2008 | Levante UD
+PLAYERS: Jordi Codina, Pepe, Fabio Cannavaro, Marcelo, Sergio Ramos, Mahamadou Diarra, Guti, Wesley Sneijder, Raúl, Robinho, Ruud van Nistelrooy
+
+MATCH: 79049 | sob., 08.03.2008 | RCD Espanyol
+PLAYERS: Iker Casillas, Gabriel Heinze, Pepe, Marcelo, Miguel Torres, Mahamadou Diarra, Guti, Júlio Baptista, Robinho, Gonzalo Higuaín, Raúl
+
+MATCH: 1059339 | sob., 11.08.2007 | Sevilla FC
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Miguel Torres, Sergio Ramos, Mahamadou Diarra, Fernando Gago, Guti, Robinho, Javier Balboa, Raúl
+
+MATCH: 83367 | wt., 06.11.2007 | Olympiakos Pireus
+PLAYERS: Iker Casillas, Gabriel Heinze, Fabio Cannavaro, Marcelo, Sergio Ramos, Mahamadou Diarra, Fernando Gago, Robinho, Wesley Sneijder, Raúl, Ruud van Nistelrooy
+
+MATCH: 83324 | wt., 18.09.2007 | SV Werder Bremen
+PLAYERS: Iker Casillas, Fabio Cannavaro, Christoph Metzelder, Marcelo, Sergio Ramos, Fernando Gago, Guti, Wesley Sneijder, Gonzalo Higuaín, Raúl, Ruud van Nistelrooy
+
+MATCH: 78858 | sob., 20.10.2007 | RCD Espanyol
+PLAYERS: Iker Casillas, Fabio Cannavaro, Christoph Metzelder, Marcelo, Sergio Ramos, Mahamadou Diarra, Guti, Wesley Sneijder, Gonzalo Higuaín, Raúl, Ruud van Nistelrooy
+
+MATCH: 88433 | śr., 16.01.2008 | RCD Mallorca
+PLAYERS: Jerzy Dudek, Sergio Ramos, Fabio Cannavaro, Marcelo, Míchel Salgado, Fernando Gago, Guti, Royston Drenthe, Júlio Baptista, Javier Saviola, Gonzalo Higuaín
+
+MATCH: 78975 | niedz., 20.01.2008 | Atlético Madryt
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Miguel Torres, Sergio Ramos, Fernando Gago, Guti, Wesley Sneijder, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 79057 | sob., 15.03.2008 | Deportivo de La Coruña
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Miguel Torres, Mahamadou Diarra, Wesley Sneijder, Royston Drenthe, Guti, Raúl, Roberto Soldado
+
+MATCH: 88398 | śr., 05.03.2008 | AS Roma
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Míchel Salgado, Mahamadou Diarra, Fernando Gago, Júlio Baptista, Guti, Raúl, Robinho
+
+MATCH: 88390 | wt., 19.02.2008 | AS Roma
+PLAYERS: Iker Casillas, Gabriel Heinze, Fabio Cannavaro, Miguel Torres, Sergio Ramos, Mahamadou Diarra, Fernando Gago, Guti, Arjen Robben, Raúl, Ruud van Nistelrooy
+

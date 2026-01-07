@@ -1,0 +1,3737 @@
+[
+  {
+    "url": "https://www.transfermarkt.pl/fc-barcelona_atlético-madryt/aufstellung/spielbericht/2528139",
+    "match_id": "2528139",
+    "date": "śr., 21.01.2015",
+    "competition": "Unknown",
+    "matchday": "Unknown",
+    "home_team": "FC Barcelona",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Marc-André ter Stegen",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Gerard Piqué",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Javier Mascherano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Jordi Alba",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Dani Alves",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Sergio Busquets",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Andrés Iniesta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Ivan Rakitic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Neymar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Lionel Messi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Luis Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Marc Bartra",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Xavi",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Jan Oblak",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Miranda",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Guilherme Siqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Mario Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Arda Turan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Mario Mandžukić",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Raúl Jiménez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/ud-almería_atlético-madryt/aufstellung/spielbericht/2475223",
+    "match_id": "2475223",
+    "date": "śr., 24.09.2014",
+    "competition": "LALIGA",
+    "matchday": "5. Kolejka",
+    "home_team": "UD Almería",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "25",
+        "name": "Rubén Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Ángel Trujillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Mauro dos Santos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Mané",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Ximo Navarro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Fran Vélez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Verza",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "31",
+        "name": "Ramon Azeez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Jonathan Zongo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Wellington Silva",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Tomer Hemed",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Fernando Soriano",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Thievy Bifouma",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "17",
+        "name": "Edgar Méndez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Miranda",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Guilherme Siqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Mario Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Tiago Mendes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Arda Turan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Saúl Ñíguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Alessio Cerci",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/ce-lhospitalet_atlético-madryt/aufstellung/spielbericht/2505178",
+    "match_id": "2505178",
+    "date": "śr., 03.12.2014",
+    "competition": "Unknown",
+    "matchday": "Unknown",
+    "home_team": "CE L'Hospitalet",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Oliver Sánchez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Aleix Coch",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Agustín Fernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Valentín Merchán",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Iván Hammouch",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Albert Vivancos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Rubén Alcaraz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Pablo Morgado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Èric Via",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "José Ángel Bueno",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Nano Mesa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Peque",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Miguel Ángel Luque",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "16",
+        "name": "Joel Méndez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Jan Oblak",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "José María Giménez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "28",
+        "name": "Lucas Hernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Guilherme Siqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Jesús Gámez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Mario Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Saúl Ñíguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Cristian Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Alessio Cerci",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Raúl Jiménez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/granada-cf_atlético-madryt/aufstellung/spielbericht/2475553",
+    "match_id": "2475553",
+    "date": "sob., 23.05.2015",
+    "competition": "LALIGA",
+    "matchday": "38. Kolejka",
+    "home_team": "Granada CF",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Roberto Fernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Diego Maínz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Jean-Sylvain Babin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juankar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Allan Nyom",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Rubén Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Manuel Iturra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Piti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Rubén Rochina",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Rober Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Youssef El Arabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Fran Rico",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Daniel Candeias",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Riki",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Jan Oblak",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Miranda",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Guilherme Siqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Tiago Mendes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Saúl Ñíguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Jesús Gámez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Raúl Jiménez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_elche-cf/aufstellung/spielbericht/2475501",
+    "match_id": "2475501",
+    "date": "sob., 25.04.2015",
+    "competition": "LALIGA",
+    "matchday": "33. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Elche CF",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Jan Oblak",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "José María Giménez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Guilherme Siqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Jesús Gámez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Tiago Mendes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "17",
+        "name": "Saúl Ñíguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Raúl Jiménez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "25",
+        "name": "Przemyslaw Tyton",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "35",
+        "name": "Rafa Gálvez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Enzo Roco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Domingo Cisma",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "32",
+        "name": "Samu Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Pedro Mosquera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Adrián González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Fayçal Fajr",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Ferrán Corominas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Garry Rodrigues",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Jonathas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "28",
+        "name": "Mario Arqués",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Álvaro Giménez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Cristian Herrera",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_rayo-vallecano/aufstellung/spielbericht/2475372",
+    "match_id": "2475372",
+    "date": "sob., 24.01.2015",
+    "competition": "LALIGA",
+    "matchday": "20. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Rayo Vallecano",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Miranda",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "José María Giménez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Guilherme Siqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Tiago Mendes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Mario Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Arda Turan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Mario Mandžukić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "25",
+        "name": "Toño",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Jorge Morcillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Abdoulaye Ba",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Raúl Baena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Roberto Trashorras",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Jozabed Sánchez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Mohammed Fatau",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Gaël Kakuta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Javier Aquino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Manucho",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "27",
+        "name": "Álex Moreno",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "24",
+        "name": "Alejandro Pozuelo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Alberto Bueno",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_sevilla-fc/aufstellung/spielbericht/2475233",
+    "match_id": "2475233",
+    "date": "sob., 27.09.2014",
+    "competition": "LALIGA",
+    "matchday": "6. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Sevilla FC",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Miranda",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Cristian Ansaldi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Tiago Mendes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Saúl Ñíguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Arda Turan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Mario Mandžukić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Raúl Jiménez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Beto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Timothée Kolodziejczak",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Nicolás Pareja",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Benoît Trémoulinas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Diogo Figueiras",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Daniel Carriço",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Grzegorz Krychowiak",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "25",
+        "name": "Stéphane Mbia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Aleix Vidal",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Vitolo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Carlos Bacca",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Éver Banega",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "17",
+        "name": "Denis Suárez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Gerard Deulofeu",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_deportivo-de-la-coruña/aufstellung/spielbericht/2475300",
+    "match_id": "2475300",
+    "date": "niedz., 30.11.2014",
+    "competition": "LALIGA",
+    "matchday": "13. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Deportivo de La Coruña",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "José María Giménez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Cristian Ansaldi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Saúl Ñíguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Tiago Mendes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Arda Turan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Mario Mandžukić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Cristian Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Alessio Cerci",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Raúl Jiménez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Fabri",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Pablo Insua",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Sidnei",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Modibo Diakité",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Luisinho",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Juanfran Moreno",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Cezary Wilk",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Haris Medunjanin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "José Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Ivan Cavaleiro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Hélder Postiga",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Laure",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Isaac Cuenca",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Toché",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/levante-ud_atlético-madryt/aufstellung/spielbericht/2475532",
+    "match_id": "2475532",
+    "date": "niedz., 10.05.2015",
+    "competition": "LALIGA",
+    "matchday": "36. Kolejka",
+    "home_team": "Levante UD",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Diego Mariño",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Loukas Vyntra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Iván Ramis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Juanfran",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Toño García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Iván López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Mohamed Sissoko",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Víctor Camarasa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "José Luis Morales",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Kalu Uche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "David Barral",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "25",
+        "name": "José Mari",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Andreas Ivanschitz",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Rafael Martins",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Jan Oblak",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Miranda",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "José María Giménez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Guilherme Siqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Tiago Mendes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Arda Turan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Mario Mandžukić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Saúl Ñíguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_levante-ud/aufstellung/spielbericht/2475342",
+    "match_id": "2475342",
+    "date": "sob., 03.01.2015",
+    "competition": "LALIGA",
+    "matchday": "17. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Levante UD",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "José María Giménez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Guilherme Siqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Tiago Mendes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Arda Turan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Mario Mandžukić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Saúl Ñíguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Raúl Jiménez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Diego Mariño",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Loukas Vyntra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Juanfran",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Nikolaos Karabelas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Iván López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Mohamed Sissoko",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Pape Diop",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Andreas Ivanschitz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "José Luis Morales",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Víctor Casadesús",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Rafael Martins",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Nabil El Zhar",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "David Barral",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/elche-cf_atlético-madryt/aufstellung/spielbericht/2475311",
+    "match_id": "2475311",
+    "date": "sob., 06.12.2014",
+    "competition": "LALIGA",
+    "matchday": "14. Kolejka",
+    "home_team": "Elche CF",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "25",
+        "name": "Przemyslaw Tyton",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Enzo Roco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "David Lombán",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Domingo Cisma",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Damián Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Pedro Mosquera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Mario Pašalić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Ferrán Corominas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Fayçal Fajr",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Víctor Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Jonathas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "34",
+        "name": "Franco Fragapane",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Álvaro Giménez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Cristian Herrera",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "José María Giménez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Guilherme Siqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Tiago Mendes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Arda Turan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Mario Mandžukić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Raúl Jiménez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/olympiakos-pireus_atlético-madryt/aufstellung/spielbericht/2490842",
+    "match_id": "2490842",
+    "date": "wt., 16.09.2014",
+    "competition": "Unknown",
+    "matchday": "Unknown",
+    "home_team": "Olympiakos Pireus",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "16",
+        "name": "Roberto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Alberto Botía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Éric Abidal",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Arthur Masuaku",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Omar Elabdellaoui",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Luka Milivojevic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Pajtim Kasami",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Alejandro Domínguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Ibrahim Afellay",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Giannis Maniatis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Konstantinos Mitroglou",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Konstantinos Giannoulis",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "8",
+        "name": "Delvin N'Dinga",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "David Fuster",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Jan Oblak",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Miranda",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Cristian Ansaldi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Mario Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Arda Turan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Mario Mandžukić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Saúl Ñíguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Alessio Cerci",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/celta-de-vigo_atlético-madryt/aufstellung/spielbericht/2475404",
+    "match_id": "2475404",
+    "date": "niedz., 15.02.2015",
+    "competition": "LALIGA",
+    "matchday": "23. Kolejka",
+    "home_team": "Celta de Vigo",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Sergio Álvarez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Andreu Fontàs",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Gustavo Cabral",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Jonny Otto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Sergi Gómez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Nemanja Radoja",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Michael Krohn-Dehli",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Augusto Fernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Nolito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Fabián Orellana",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Joaquín Larrivey",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Pablo Hernández",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "8",
+        "name": "Álex López",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Santi Mina",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Miranda",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Guilherme Siqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Tiago Mendes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Saúl Ñíguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Mario Mandžukić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Mario Suárez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Cani",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Raúl Jiménez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_sd-eibar/aufstellung/spielbericht/2475195",
+    "match_id": "2475195",
+    "date": "sob., 30.08.2014",
+    "competition": "LALIGA",
+    "matchday": "2. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "SD Eibar",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Miranda",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Guilherme Siqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Mario Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Mario Mandžukić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Saúl Ñíguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Raúl Jiménez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Xabi Irureta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Raúl Albentosa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Raúl Navas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Abraham Minero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Eneko Bóveda",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Dani García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Jon Errasti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Ander Capa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Javi Lara",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Mikel Arruabarrena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Ángel Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Saúl Berjón",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Dani Nieto",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Manu del Moral",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/rcd-espanyol_atlético-madryt/aufstellung/spielbericht/2475442",
+    "match_id": "2475442",
+    "date": "sob., 14.03.2015",
+    "competition": "LALIGA",
+    "matchday": "27. Kolejka",
+    "home_team": "RCD Espanyol",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Kiko Casilla",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Héctor Moreno",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Álvaro González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "27",
+        "name": "Rubén Duarte",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Anaitz Arbilla",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Javi López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Víctor Sánchez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Abraham González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Sergio García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Lucas Vázquez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Felipe Caicedo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "José Alberto Cañas",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Salva Sevilla",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "8",
+        "name": "Cristhian Stuani",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Miranda",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Jesús Gámez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Tiago Mendes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "José María Giménez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Arda Turan",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Raúl Jiménez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_real-madryt/aufstellung/spielbericht/2481146",
+    "match_id": "2481146",
+    "date": "pt., 22.08.2014",
+    "competition": "Unknown",
+    "matchday": "Unknown",
+    "home_team": "Atlético Madryt",
+    "away_team": "Real Madryt",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Miranda",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Guilherme Siqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Tiago Mendes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Mario Mandžukić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "26",
+        "name": "Saúl Ñíguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Cristian Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Raúl Jiménez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Iker Casillas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Raphaël Varane",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Sergio Ramos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Fábio Coentrão",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Daniel Carvajal",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Xabi Alonso",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Toni Kroos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Luka Modrić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "James Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Gareth Bale",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Karim Benzema",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Marcelo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Isco",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Cristiano Ronaldo",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_real-madryt/aufstellung/spielbericht/2547350",
+    "match_id": "2547350",
+    "date": "wt., 14.04.2015",
+    "competition": "Unknown",
+    "matchday": "Unknown",
+    "home_team": "Atlético Madryt",
+    "away_team": "Real Madryt",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Jan Oblak",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Miranda",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Guilherme Siqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Mario Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Arda Turan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Mario Mandžukić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Iker Casillas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Raphaël Varane",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Sergio Ramos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Marcelo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Daniel Carvajal",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Toni Kroos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Luka Modrić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "James Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Cristiano Ronaldo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Gareth Bale",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Karim Benzema",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Álvaro Arbeloa",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Isco",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_malmö-ff/aufstellung/spielbericht/2495319",
+    "match_id": "2495319",
+    "date": "śr., 22.10.2014",
+    "competition": "Unknown",
+    "matchday": "Unknown",
+    "home_team": "Atlético Madryt",
+    "away_team": "Malmö FF",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Miranda",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Guilherme Siqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Mario Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Saúl Ñíguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Arda Turan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Mario Mandžukić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Cristian Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Alessio Cerci",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "25",
+        "name": "Robin Olsen",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Filip Helander",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Erik Berg",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Markus Halsti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Ricardinho",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Anton Tinnerholm",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Enoch Kofi Adu",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "33",
+        "name": "Emil Forsberg",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Magnus Eriksson",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Markus Rosenberg",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Isaac Kiese Thelin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "32",
+        "name": "Pa Konate",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "11",
+        "name": "Simon Thern",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Simon Kroon",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_atlético-madryt/aufstellung/spielbericht/2475332",
+    "match_id": "2475332",
+    "date": "niedz., 21.12.2014",
+    "competition": "LALIGA",
+    "matchday": "16. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Gorka Iraizoz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Xabi Etxeita",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Carlos Gurpegui",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Mikel Balenziaga",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Óscar de Marcos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Mikel San José",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Mikel Rico",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "29",
+        "name": "Unai López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Iker Muniain",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Markel Susaeta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Ibai Gómez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Ager Aketxe",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "22",
+        "name": "Guillermo Fernández",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "José María Giménez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Guilherme Siqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Tiago Mendes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Saúl Ñíguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Arda Turan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "28",
+        "name": "Lucas Hernández",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Jesús Gámez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "21",
+        "name": "Cristian Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_ud-almería/aufstellung/spielbericht/2475413",
+    "match_id": "2475413",
+    "date": "sob., 21.02.2015",
+    "competition": "LALIGA",
+    "matchday": "24. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "UD Almería",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Miranda",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Guilherme Siqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Tiago Mendes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Saúl Ñíguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Arda Turan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Mario Mandžukić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Mario Suárez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Julián Cuesta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Ángel Trujillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Mauro dos Santos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Sebastián Dubarbier",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Michel Macedo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Fran Vélez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Verza",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Miguel Ángel Corona",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Edgar Méndez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Thievy Bifouma",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Tomer Hemed",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "José Manuel Casado",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Fernando Soriano",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "8",
+        "name": "Wellington Silva",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/fc-barcelona_atlético-madryt/aufstellung/spielbericht/2475353",
+    "match_id": "2475353",
+    "date": "niedz., 11.01.2015",
+    "competition": "LALIGA",
+    "matchday": "18. Kolejka",
+    "home_team": "FC Barcelona",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Claudio Bravo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Gerard Piqué",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Javier Mascherano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Jordi Alba",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Dani Alves",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Sergio Busquets",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Andrés Iniesta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Ivan Rakitic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Neymar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Lionel Messi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Luis Suárez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Rafinha",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Pedro",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Diego Godín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "José María Giménez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Jesús Gámez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Tiago Mendes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Koke",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Arda Turan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Antoine Griezmann",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Mario Mandžukić",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Guilherme Siqueira",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "8",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  }
+]

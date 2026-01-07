@@ -1,0 +1,341 @@
+# Graph for Java/GraphStream
+# Nodes: 31
+# Edges: 335
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Juan Carlos | Chechu Dorado | 11 | 32 | 11
+EDGE Juan Carlos | Mateo Musacchio | 29 | 32 | 40
+EDGE Juan Carlos | Joan Oriol | 14 | 32 | 22
+EDGE Juan Carlos | Mario Gaspar | 26 | 32 | 27
+EDGE Juan Carlos | Bruno Soriano | 27 | 32 | 36
+EDGE Juan Carlos | Javier Farinós | 8 | 32 | 8
+EDGE Juan Carlos | Cani | 27 | 32 | 35
+EDGE Juan Carlos | Moi Gómez | 10 | 32 | 17
+EDGE Juan Carlos | Jérémy Perbet | 15 | 32 | 15
+EDGE Juan Carlos | Jonathan Pereira | 11 | 32 | 11
+EDGE Juan Carlos | Jaume Costa | 19 | 32 | 25
+EDGE Juan Carlos | Javier Aquino | 10 | 32 | 10
+EDGE Juan Carlos | Ikechukwu Uche | 15 | 32 | 23
+EDGE Juan Carlos | Olof Mellberg | 21 | 32 | 26
+EDGE Juan Carlos | Marcos Senna | 16 | 32 | 25
+EDGE Juan Carlos | Manu Trigueros | 13 | 32 | 21
+EDGE Juan Carlos | Hernán Pérez | 4 | 32 | 8
+EDGE Juan Carlos | Fernando Cavenaghi | 11 | 32 | 16
+EDGE Juan Carlos | Gerard Bordas | 2 | 32 | 2
+EDGE Juan Carlos | Héctor Canteros | 10 | 32 | 10
+EDGE Juan Carlos | Gerard Moreno | 8 | 32 | 8
+EDGE Juan Carlos | Javi Venta | 6 | 32 | 16
+EDGE Juan Carlos | Juanma | 1 | 32 | 1
+EDGE Juan Carlos | Florian Lejeune | 1 | 32 | 2
+EDGE Juan Carlos | Pablo Iñiguez | 4 | 32 | 6
+EDGE Juan Carlos | Dani Toribio | 1 | 32 | 3
+EDGE Chechu Dorado | Mateo Musacchio | 11 | 11 | 40
+EDGE Chechu Dorado | Joan Oriol | 2 | 11 | 22
+EDGE Chechu Dorado | Mario Gaspar | 11 | 11 | 27
+EDGE Chechu Dorado | Bruno Soriano | 9 | 11 | 36
+EDGE Chechu Dorado | Javier Farinós | 7 | 11 | 8
+EDGE Chechu Dorado | Cani | 7 | 11 | 35
+EDGE Chechu Dorado | Moi Gómez | 7 | 11 | 17
+EDGE Chechu Dorado | Jérémy Perbet | 8 | 11 | 15
+EDGE Chechu Dorado | Jonathan Pereira | 6 | 11 | 11
+EDGE Chechu Dorado | Jaume Costa | 7 | 11 | 25
+EDGE Chechu Dorado | Javier Aquino | 6 | 11 | 10
+EDGE Chechu Dorado | Ikechukwu Uche | 5 | 11 | 23
+EDGE Chechu Dorado | Héctor Canteros | 3 | 11 | 10
+EDGE Chechu Dorado | Gerard Moreno | 4 | 11 | 8
+EDGE Chechu Dorado | Olof Mellberg | 2 | 11 | 26
+EDGE Chechu Dorado | Marcos Senna | 3 | 11 | 25
+EDGE Chechu Dorado | Manu Trigueros | 1 | 11 | 21
+EDGE Mateo Musacchio | Joan Oriol | 21 | 40 | 22
+EDGE Mateo Musacchio | Mario Gaspar | 25 | 40 | 27
+EDGE Mateo Musacchio | Bruno Soriano | 33 | 40 | 36
+EDGE Mateo Musacchio | Javier Farinós | 8 | 40 | 8
+EDGE Mateo Musacchio | Cani | 32 | 40 | 35
+EDGE Mateo Musacchio | Moi Gómez | 17 | 40 | 17
+EDGE Mateo Musacchio | Jérémy Perbet | 14 | 40 | 15
+EDGE Mateo Musacchio | Jonathan Pereira | 10 | 40 | 11
+EDGE Mateo Musacchio | Diego Mariño | 10 | 40 | 10
+EDGE Mateo Musacchio | Javi Venta | 15 | 40 | 16
+EDGE Mateo Musacchio | Marcos Senna | 23 | 40 | 25
+EDGE Mateo Musacchio | Manu Trigueros | 19 | 40 | 21
+EDGE Mateo Musacchio | Jaume Costa | 23 | 40 | 25
+EDGE Mateo Musacchio | Ikechukwu Uche | 22 | 40 | 23
+EDGE Mateo Musacchio | Javier Aquino | 9 | 40 | 10
+EDGE Mateo Musacchio | Hernán Pérez | 7 | 40 | 8
+EDGE Mateo Musacchio | Olof Mellberg | 23 | 40 | 26
+EDGE Mateo Musacchio | Fernando Cavenaghi | 15 | 40 | 16
+EDGE Mateo Musacchio | Gerard Bordas | 2 | 40 | 2
+EDGE Mateo Musacchio | Walter Pandiani | 4 | 40 | 4
+EDGE Mateo Musacchio | Guillem Truyols | 2 | 40 | 2
+EDGE Mateo Musacchio | Dani Toribio | 3 | 40 | 3
+EDGE Mateo Musacchio | Héctor Canteros | 9 | 40 | 10
+EDGE Mateo Musacchio | Gerard Moreno | 7 | 40 | 8
+EDGE Mateo Musacchio | Florian Lejeune | 1 | 40 | 2
+EDGE Mateo Musacchio | Juanma | 1 | 40 | 1
+EDGE Mateo Musacchio | Pablo Iñiguez | 4 | 40 | 6
+EDGE Mateo Musacchio | Jorge Palatsí | 1 | 40 | 1
+EDGE Joan Oriol | Mario Gaspar | 10 | 22 | 27
+EDGE Joan Oriol | Bruno Soriano | 19 | 22 | 36
+EDGE Joan Oriol | Javier Farinós | 2 | 22 | 8
+EDGE Joan Oriol | Cani | 19 | 22 | 35
+EDGE Joan Oriol | Moi Gómez | 9 | 22 | 17
+EDGE Joan Oriol | Jérémy Perbet | 4 | 22 | 15
+EDGE Joan Oriol | Jonathan Pereira | 4 | 22 | 11
+EDGE Joan Oriol | Diego Mariño | 7 | 22 | 10
+EDGE Joan Oriol | Javi Venta | 12 | 22 | 16
+EDGE Joan Oriol | Marcos Senna | 16 | 22 | 25
+EDGE Joan Oriol | Manu Trigueros | 14 | 22 | 21
+EDGE Joan Oriol | Jaume Costa | 6 | 22 | 25
+EDGE Joan Oriol | Ikechukwu Uche | 11 | 22 | 23
+EDGE Joan Oriol | Hernán Pérez | 6 | 22 | 8
+EDGE Joan Oriol | Olof Mellberg | 15 | 22 | 26
+EDGE Joan Oriol | Fernando Cavenaghi | 11 | 22 | 16
+EDGE Joan Oriol | Gerard Bordas | 1 | 22 | 2
+EDGE Joan Oriol | Guillem Truyols | 1 | 22 | 2
+EDGE Joan Oriol | Dani Toribio | 2 | 22 | 3
+EDGE Joan Oriol | Walter Pandiani | 2 | 22 | 4
+EDGE Joan Oriol | Gerard Moreno | 4 | 22 | 8
+EDGE Joan Oriol | Pablo Iñiguez | 4 | 22 | 6
+EDGE Joan Oriol | Héctor Canteros | 2 | 22 | 10
+EDGE Joan Oriol | Javier Aquino | 1 | 22 | 10
+EDGE Joan Oriol | Jorge Palatsí | 1 | 22 | 1
+EDGE Mario Gaspar | Bruno Soriano | 22 | 27 | 36
+EDGE Mario Gaspar | Javier Farinós | 8 | 27 | 8
+EDGE Mario Gaspar | Cani | 23 | 27 | 35
+EDGE Mario Gaspar | Moi Gómez | 9 | 27 | 17
+EDGE Mario Gaspar | Jérémy Perbet | 15 | 27 | 15
+EDGE Mario Gaspar | Jonathan Pereira | 9 | 27 | 11
+EDGE Mario Gaspar | Jaume Costa | 17 | 27 | 25
+EDGE Mario Gaspar | Javier Aquino | 10 | 27 | 10
+EDGE Mario Gaspar | Ikechukwu Uche | 12 | 27 | 23
+EDGE Mario Gaspar | Olof Mellberg | 15 | 27 | 26
+EDGE Mario Gaspar | Marcos Senna | 11 | 27 | 25
+EDGE Mario Gaspar | Manu Trigueros | 9 | 27 | 21
+EDGE Mario Gaspar | Hernán Pérez | 4 | 27 | 8
+EDGE Mario Gaspar | Fernando Cavenaghi | 7 | 27 | 16
+EDGE Mario Gaspar | Gerard Bordas | 2 | 27 | 2
+EDGE Mario Gaspar | Héctor Canteros | 10 | 27 | 10
+EDGE Mario Gaspar | Gerard Moreno | 7 | 27 | 8
+EDGE Mario Gaspar | Diego Mariño | 1 | 27 | 10
+EDGE Mario Gaspar | Florian Lejeune | 2 | 27 | 2
+EDGE Mario Gaspar | Dani Toribio | 1 | 27 | 3
+EDGE Mario Gaspar | Juanma | 1 | 27 | 1
+EDGE Mario Gaspar | Pablo Iñiguez | 3 | 27 | 6
+EDGE Bruno Soriano | Javier Farinós | 5 | 36 | 8
+EDGE Bruno Soriano | Cani | 30 | 36 | 35
+EDGE Bruno Soriano | Moi Gómez | 15 | 36 | 17
+EDGE Bruno Soriano | Jérémy Perbet | 14 | 36 | 15
+EDGE Bruno Soriano | Jonathan Pereira | 8 | 36 | 11
+EDGE Bruno Soriano | Diego Mariño | 8 | 36 | 10
+EDGE Bruno Soriano | Javi Venta | 14 | 36 | 16
+EDGE Bruno Soriano | Marcos Senna | 18 | 36 | 25
+EDGE Bruno Soriano | Manu Trigueros | 15 | 36 | 21
+EDGE Bruno Soriano | Jaume Costa | 21 | 36 | 25
+EDGE Bruno Soriano | Ikechukwu Uche | 21 | 36 | 23
+EDGE Bruno Soriano | Javier Aquino | 10 | 36 | 10
+EDGE Bruno Soriano | Hernán Pérez | 7 | 36 | 8
+EDGE Bruno Soriano | Olof Mellberg | 21 | 36 | 26
+EDGE Bruno Soriano | Fernando Cavenaghi | 13 | 36 | 16
+EDGE Bruno Soriano | Gerard Bordas | 1 | 36 | 2
+EDGE Bruno Soriano | Walter Pandiani | 3 | 36 | 4
+EDGE Bruno Soriano | Guillem Truyols | 2 | 36 | 2
+EDGE Bruno Soriano | Dani Toribio | 1 | 36 | 3
+EDGE Bruno Soriano | Héctor Canteros | 9 | 36 | 10
+EDGE Bruno Soriano | Gerard Moreno | 6 | 36 | 8
+EDGE Bruno Soriano | Juanma | 1 | 36 | 1
+EDGE Bruno Soriano | Florian Lejeune | 1 | 36 | 2
+EDGE Bruno Soriano | Pablo Iñiguez | 5 | 36 | 6
+EDGE Bruno Soriano | Jorge Palatsí | 1 | 36 | 1
+EDGE Javier Farinós | Cani | 4 | 8 | 35
+EDGE Javier Farinós | Moi Gómez | 6 | 8 | 17
+EDGE Javier Farinós | Jérémy Perbet | 4 | 8 | 15
+EDGE Javier Farinós | Jonathan Pereira | 6 | 8 | 11
+EDGE Javier Farinós | Jaume Costa | 5 | 8 | 25
+EDGE Javier Farinós | Javier Aquino | 3 | 8 | 10
+EDGE Javier Farinós | Ikechukwu Uche | 5 | 8 | 23
+EDGE Javier Farinós | Olof Mellberg | 2 | 8 | 26
+EDGE Javier Farinós | Marcos Senna | 3 | 8 | 25
+EDGE Javier Farinós | Manu Trigueros | 2 | 8 | 21
+EDGE Javier Farinós | Gerard Moreno | 2 | 8 | 8
+EDGE Cani | Moi Gómez | 10 | 35 | 17
+EDGE Cani | Jérémy Perbet | 13 | 35 | 15
+EDGE Cani | Jonathan Pereira | 7 | 35 | 11
+EDGE Cani | Diego Mariño | 8 | 35 | 10
+EDGE Cani | Javi Venta | 12 | 35 | 16
+EDGE Cani | Marcos Senna | 21 | 35 | 25
+EDGE Cani | Manu Trigueros | 18 | 35 | 21
+EDGE Cani | Jaume Costa | 18 | 35 | 25
+EDGE Cani | Ikechukwu Uche | 18 | 35 | 23
+EDGE Cani | Hernán Pérez | 7 | 35 | 8
+EDGE Cani | Olof Mellberg | 24 | 35 | 26
+EDGE Cani | Fernando Cavenaghi | 13 | 35 | 16
+EDGE Cani | Gerard Bordas | 2 | 35 | 2
+EDGE Cani | Walter Pandiani | 2 | 35 | 4
+EDGE Cani | Héctor Canteros | 10 | 35 | 10
+EDGE Cani | Javier Aquino | 7 | 35 | 10
+EDGE Cani | Gerard Moreno | 8 | 35 | 8
+EDGE Cani | Florian Lejeune | 2 | 35 | 2
+EDGE Cani | Dani Toribio | 2 | 35 | 3
+EDGE Cani | Juanma | 1 | 35 | 1
+EDGE Cani | Pablo Iñiguez | 4 | 35 | 6
+EDGE Cani | Guillem Truyols | 1 | 35 | 2
+EDGE Moi Gómez | Jérémy Perbet | 6 | 17 | 15
+EDGE Moi Gómez | Jonathan Pereira | 6 | 17 | 11
+EDGE Moi Gómez | Diego Mariño | 7 | 17 | 10
+EDGE Moi Gómez | Javi Venta | 8 | 17 | 16
+EDGE Moi Gómez | Marcos Senna | 10 | 17 | 25
+EDGE Moi Gómez | Manu Trigueros | 5 | 17 | 21
+EDGE Moi Gómez | Jaume Costa | 11 | 17 | 25
+EDGE Moi Gómez | Ikechukwu Uche | 12 | 17 | 23
+EDGE Moi Gómez | Javier Aquino | 3 | 17 | 10
+EDGE Moi Gómez | Hernán Pérez | 1 | 17 | 8
+EDGE Moi Gómez | Olof Mellberg | 5 | 17 | 26
+EDGE Moi Gómez | Walter Pandiani | 4 | 17 | 4
+EDGE Moi Gómez | Guillem Truyols | 2 | 17 | 2
+EDGE Moi Gómez | Dani Toribio | 1 | 17 | 3
+EDGE Moi Gómez | Fernando Cavenaghi | 2 | 17 | 16
+EDGE Moi Gómez | Pablo Iñiguez | 2 | 17 | 6
+EDGE Moi Gómez | Héctor Canteros | 1 | 17 | 10
+EDGE Moi Gómez | Gerard Moreno | 1 | 17 | 8
+EDGE Jérémy Perbet | Jonathan Pereira | 5 | 15 | 11
+EDGE Jérémy Perbet | Olof Mellberg | 7 | 15 | 26
+EDGE Jérémy Perbet | Jaume Costa | 10 | 15 | 25
+EDGE Jérémy Perbet | Héctor Canteros | 8 | 15 | 10
+EDGE Jérémy Perbet | Javier Aquino | 8 | 15 | 10
+EDGE Jérémy Perbet | Ikechukwu Uche | 8 | 15 | 23
+EDGE Jérémy Perbet | Gerard Moreno | 4 | 15 | 8
+EDGE Jérémy Perbet | Juanma | 1 | 15 | 1
+EDGE Jérémy Perbet | Marcos Senna | 3 | 15 | 25
+EDGE Jérémy Perbet | Pablo Iñiguez | 2 | 15 | 6
+EDGE Jérémy Perbet | Manu Trigueros | 1 | 15 | 21
+EDGE Jonathan Pereira | Jaume Costa | 6 | 11 | 25
+EDGE Jonathan Pereira | Javier Aquino | 2 | 11 | 10
+EDGE Jonathan Pereira | Ikechukwu Uche | 4 | 11 | 23
+EDGE Jonathan Pereira | Olof Mellberg | 5 | 11 | 26
+EDGE Jonathan Pereira | Marcos Senna | 6 | 11 | 25
+EDGE Jonathan Pereira | Manu Trigueros | 5 | 11 | 21
+EDGE Jonathan Pereira | Gerard Moreno | 3 | 11 | 8
+EDGE Jonathan Pereira | Héctor Canteros | 1 | 11 | 10
+EDGE Jonathan Pereira | Juanma | 1 | 11 | 1
+EDGE Jonathan Pereira | Pablo Iñiguez | 2 | 11 | 6
+EDGE Jonathan Pereira | Javi Venta | 2 | 11 | 16
+EDGE Jonathan Pereira | Fernando Cavenaghi | 1 | 11 | 16
+EDGE Diego Mariño | Javi Venta | 9 | 10 | 16
+EDGE Diego Mariño | Marcos Senna | 8 | 10 | 25
+EDGE Diego Mariño | Manu Trigueros | 7 | 10 | 21
+EDGE Diego Mariño | Jaume Costa | 6 | 10 | 25
+EDGE Diego Mariño | Ikechukwu Uche | 7 | 10 | 23
+EDGE Diego Mariño | Hernán Pérez | 3 | 10 | 8
+EDGE Diego Mariño | Olof Mellberg | 5 | 10 | 26
+EDGE Diego Mariño | Walter Pandiani | 4 | 10 | 4
+EDGE Diego Mariño | Guillem Truyols | 2 | 10 | 2
+EDGE Diego Mariño | Dani Toribio | 2 | 10 | 3
+EDGE Diego Mariño | Fernando Cavenaghi | 4 | 10 | 16
+EDGE Diego Mariño | Florian Lejeune | 1 | 10 | 2
+EDGE Diego Mariño | Pablo Iñiguez | 1 | 10 | 6
+EDGE Javi Venta | Marcos Senna | 14 | 16 | 25
+EDGE Javi Venta | Manu Trigueros | 12 | 16 | 21
+EDGE Javi Venta | Jaume Costa | 8 | 16 | 25
+EDGE Javi Venta | Ikechukwu Uche | 11 | 16 | 23
+EDGE Javi Venta | Hernán Pérez | 4 | 16 | 8
+EDGE Javi Venta | Olof Mellberg | 11 | 16 | 26
+EDGE Javi Venta | Walter Pandiani | 4 | 16 | 4
+EDGE Javi Venta | Guillem Truyols | 2 | 16 | 2
+EDGE Javi Venta | Dani Toribio | 2 | 16 | 3
+EDGE Javi Venta | Fernando Cavenaghi | 9 | 16 | 16
+EDGE Javi Venta | Pablo Iñiguez | 3 | 16 | 6
+EDGE Javi Venta | Jorge Palatsí | 1 | 16 | 1
+EDGE Javi Venta | Gerard Moreno | 1 | 16 | 8
+EDGE Marcos Senna | Manu Trigueros | 19 | 25 | 21
+EDGE Marcos Senna | Jaume Costa | 12 | 25 | 25
+EDGE Marcos Senna | Ikechukwu Uche | 13 | 25 | 23
+EDGE Marcos Senna | Hernán Pérez | 6 | 25 | 8
+EDGE Marcos Senna | Olof Mellberg | 18 | 25 | 26
+EDGE Marcos Senna | Fernando Cavenaghi | 13 | 25 | 16
+EDGE Marcos Senna | Walter Pandiani | 3 | 25 | 4
+EDGE Marcos Senna | Florian Lejeune | 2 | 25 | 2
+EDGE Marcos Senna | Dani Toribio | 2 | 25 | 3
+EDGE Marcos Senna | Gerard Moreno | 3 | 25 | 8
+EDGE Marcos Senna | Guillem Truyols | 1 | 25 | 2
+EDGE Marcos Senna | Pablo Iñiguez | 3 | 25 | 6
+EDGE Marcos Senna | Héctor Canteros | 1 | 25 | 10
+EDGE Marcos Senna | Gerard Bordas | 1 | 25 | 2
+EDGE Marcos Senna | Jorge Palatsí | 1 | 25 | 1
+EDGE Manu Trigueros | Jaume Costa | 9 | 21 | 25
+EDGE Manu Trigueros | Ikechukwu Uche | 11 | 21 | 23
+EDGE Manu Trigueros | Hernán Pérez | 6 | 21 | 8
+EDGE Manu Trigueros | Olof Mellberg | 16 | 21 | 26
+EDGE Manu Trigueros | Fernando Cavenaghi | 13 | 21 | 16
+EDGE Manu Trigueros | Florian Lejeune | 2 | 21 | 2
+EDGE Manu Trigueros | Dani Toribio | 2 | 21 | 3
+EDGE Manu Trigueros | Gerard Moreno | 3 | 21 | 8
+EDGE Manu Trigueros | Pablo Iñiguez | 4 | 21 | 6
+EDGE Manu Trigueros | Walter Pandiani | 1 | 21 | 4
+EDGE Manu Trigueros | Héctor Canteros | 1 | 21 | 10
+EDGE Manu Trigueros | Gerard Bordas | 1 | 21 | 2
+EDGE Manu Trigueros | Jorge Palatsí | 1 | 21 | 1
+EDGE Jaume Costa | Ikechukwu Uche | 13 | 25 | 23
+EDGE Jaume Costa | Javier Aquino | 8 | 25 | 10
+EDGE Jaume Costa | Olof Mellberg | 13 | 25 | 26
+EDGE Jaume Costa | Gerard Bordas | 2 | 25 | 2
+EDGE Jaume Costa | Hernán Pérez | 4 | 25 | 8
+EDGE Jaume Costa | Fernando Cavenaghi | 9 | 25 | 16
+EDGE Jaume Costa | Walter Pandiani | 4 | 25 | 4
+EDGE Jaume Costa | Guillem Truyols | 2 | 25 | 2
+EDGE Jaume Costa | Dani Toribio | 2 | 25 | 3
+EDGE Jaume Costa | Héctor Canteros | 7 | 25 | 10
+EDGE Jaume Costa | Gerard Moreno | 2 | 25 | 8
+EDGE Jaume Costa | Florian Lejeune | 2 | 25 | 2
+EDGE Jaume Costa | Juanma | 1 | 25 | 1
+EDGE Jaume Costa | Pablo Iñiguez | 3 | 25 | 6
+EDGE Ikechukwu Uche | Javier Aquino | 6 | 23 | 10
+EDGE Ikechukwu Uche | Hernán Pérez | 3 | 23 | 8
+EDGE Ikechukwu Uche | Olof Mellberg | 12 | 23 | 26
+EDGE Ikechukwu Uche | Walter Pandiani | 2 | 23 | 4
+EDGE Ikechukwu Uche | Héctor Canteros | 4 | 23 | 10
+EDGE Ikechukwu Uche | Pablo Iñiguez | 4 | 23 | 6
+EDGE Ikechukwu Uche | Gerard Moreno | 1 | 23 | 8
+EDGE Ikechukwu Uche | Fernando Cavenaghi | 7 | 23 | 16
+EDGE Ikechukwu Uche | Guillem Truyols | 1 | 23 | 2
+EDGE Ikechukwu Uche | Dani Toribio | 1 | 23 | 3
+EDGE Ikechukwu Uche | Jorge Palatsí | 1 | 23 | 1
+EDGE Javier Aquino | Olof Mellberg | 5 | 10 | 26
+EDGE Javier Aquino | Héctor Canteros | 7 | 10 | 10
+EDGE Javier Aquino | Gerard Moreno | 4 | 10 | 8
+EDGE Javier Aquino | Pablo Iñiguez | 1 | 10 | 6
+EDGE Hernán Pérez | Olof Mellberg | 5 | 8 | 26
+EDGE Hernán Pérez | Fernando Cavenaghi | 7 | 8 | 16
+EDGE Hernán Pérez | Gerard Bordas | 1 | 8 | 2
+EDGE Hernán Pérez | Florian Lejeune | 2 | 8 | 2
+EDGE Hernán Pérez | Dani Toribio | 1 | 8 | 3
+EDGE Hernán Pérez | Jorge Palatsí | 1 | 8 | 1
+EDGE Hernán Pérez | Pablo Iñiguez | 1 | 8 | 6
+EDGE Olof Mellberg | Fernando Cavenaghi | 13 | 26 | 16
+EDGE Olof Mellberg | Gerard Bordas | 2 | 26 | 2
+EDGE Olof Mellberg | Walter Pandiani | 2 | 26 | 4
+EDGE Olof Mellberg | Héctor Canteros | 7 | 26 | 10
+EDGE Olof Mellberg | Gerard Moreno | 5 | 26 | 8
+EDGE Olof Mellberg | Juanma | 1 | 26 | 1
+EDGE Olof Mellberg | Florian Lejeune | 1 | 26 | 2
+EDGE Olof Mellberg | Pablo Iñiguez | 3 | 26 | 6
+EDGE Olof Mellberg | Dani Toribio | 1 | 26 | 3
+EDGE Fernando Cavenaghi | Gerard Bordas | 2 | 16 | 2
+EDGE Fernando Cavenaghi | Guillem Truyols | 1 | 16 | 2
+EDGE Fernando Cavenaghi | Dani Toribio | 3 | 16 | 3
+EDGE Fernando Cavenaghi | Walter Pandiani | 1 | 16 | 4
+EDGE Fernando Cavenaghi | Florian Lejeune | 2 | 16 | 2
+EDGE Fernando Cavenaghi | Héctor Canteros | 1 | 16 | 10
+EDGE Fernando Cavenaghi | Jorge Palatsí | 1 | 16 | 1
+EDGE Fernando Cavenaghi | Pablo Iñiguez | 1 | 16 | 6
+EDGE Gerard Bordas | Héctor Canteros | 1 | 2 | 10
+EDGE Walter Pandiani | Guillem Truyols | 2 | 4 | 2
+EDGE Walter Pandiani | Dani Toribio | 1 | 4 | 3
+EDGE Walter Pandiani | Pablo Iñiguez | 1 | 4 | 6
+EDGE Guillem Truyols | Dani Toribio | 1 | 2 | 3
+EDGE Dani Toribio | Florian Lejeune | 1 | 3 | 2
+EDGE Héctor Canteros | Gerard Moreno | 5 | 10 | 8
+EDGE Héctor Canteros | Juanma | 1 | 10 | 1
+EDGE Héctor Canteros | Pablo Iñiguez | 2 | 10 | 6
+EDGE Gerard Moreno | Pablo Iñiguez | 2 | 8 | 6
+EDGE Pablo Iñiguez | Jorge Palatsí | 1 | 6 | 1

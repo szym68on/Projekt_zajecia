@@ -1,0 +1,190 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2899697 | śr., 21.02.2018 | CD Leganés
+PLAYERS: Kiko Casilla, Sergio Ramos, Raphaël Varane, Theo Hernández, Daniel Carvajal, Casemiro, Mateo Kovacic, Isco, Marco Asensio, Lucas Vázquez, Karim Benzema
+
+MATCH: 2917371 | śr., 13.09.2017 | APOEL Nikosia
+PLAYERS: Keylor Navas, Sergio Ramos, Nacho Fernández, Marcelo, Daniel Carvajal, Casemiro, Luka Modrić, Mateo Kovacic, Gareth Bale, Isco, Cristiano Ronaldo
+
+MATCH: 2982005 | wt., 06.03.2018 | FC Paris Saint-Germain
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Mateo Kovacic, Marco Asensio, Lucas Vázquez, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2899884 | śr., 18.04.2018 | Athletic Bilbao
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Marco Asensio, Lucas Vázquez, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2878403 | wt., 08.08.2017 | Manchester United
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Isco, Gareth Bale, Karim Benzema
+
+MATCH: 2929847 | wt., 28.11.2017 | CF Fuenlabrada
+PLAYERS: Keylor Navas, Nacho Fernández, Álvaro Tejero, Theo Hernández, Achraf Hakimi, Marcos Llorente, Mateo Kovacic, Dani Ceballos, Óscar Rodríguez, Franchu, Borja Mayoral
+
+MATCH: 2989789 | śr., 24.01.2018 | CD Leganés
+PLAYERS: Kiko Casilla, Sergio Ramos, Nacho Fernández, Theo Hernández, Achraf Hakimi, Marcos Llorente, Mateo Kovacic, Isco, Marco Asensio, Lucas Vázquez, Karim Benzema
+
+MATCH: 2899563 | niedz., 20.08.2017 | Deportivo de La Coruña
+PLAYERS: Keylor Navas, Sergio Ramos, Nacho Fernández, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Isco, Gareth Bale, Karim Benzema
+
+MATCH: 2899817 | sob., 03.03.2018 | Getafe CF
+PLAYERS: Keylor Navas, Sergio Ramos, Nacho Fernández, Theo Hernández, Daniel Carvajal, Marcos Llorente, Casemiro, Isco, Gareth Bale, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2899811 | wt., 27.02.2018 | RCD Espanyol
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Nacho Fernández, Achraf Hakimi, Marcos Llorente, Mateo Kovacic, Isco, Marco Asensio, Lucas Vázquez, Gareth Bale
+
+MATCH: 2899591 | śr., 20.09.2017 | Real Betis Balompié
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Isco, Gareth Bale, Cristiano Ronaldo
+
+MATCH: 2899571 | sob., 09.09.2017 | Levante UD
+PLAYERS: Kiko Casilla, Sergio Ramos, Nacho Fernández, Theo Hernández, Daniel Carvajal, Marcos Llorente, Toni Kroos, Marco Asensio, Marcelo, Lucas Vázquez, Karim Benzema
+
+MATCH: 2899642 | niedz., 22.10.2017 | SD Eibar
+PLAYERS: Kiko Casilla, Sergio Ramos, Raphaël Varane, Theo Hernández, Nacho Fernández, Casemiro, Luka Modrić, Dani Ceballos, Isco, Marco Asensio, Cristiano Ronaldo
+
+MATCH: 2899582 | niedz., 17.09.2017 | Real Sociedad
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Theo Hernández, Daniel Carvajal, Casemiro, Luka Modrić, Isco, Marco Asensio, Gareth Bale, Borja Mayoral
+
+MATCH: 2899765 | sob., 03.02.2018 | Levante UD
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 3038747 | sob., 26.05.2018 | FC Liverpool
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Isco, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2899687 | sob., 02.12.2017 | Athletic Bilbao
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Isco, Karim Benzema
+
+MATCH: 2899873 | śr., 09.05.2018 | Sevilla FC
+PLAYERS: Kiko Casilla, Jesús Vallejo, Sergio Ramos, Theo Hernández, Nacho Fernández, Casemiro, Mateo Kovacic, Dani Ceballos, Marco Asensio, Lucas Vázquez, Karim Benzema
+
+MATCH: 2899869 | niedz., 06.05.2018 | FC Barcelona
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Nacho Fernández, Casemiro, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 2899737 | niedz., 21.01.2018 | Deportivo de La Coruña
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Gareth Bale, Borja Mayoral
+
+MATCH: 2978840 | śr., 10.01.2018 | CD Numancia
+PLAYERS: Kiko Casilla, Jesús Vallejo, Nacho Fernández, Theo Hernández, Daniel Carvajal, Marcos Llorente, Mateo Kovacic, Dani Ceballos, Marco Asensio, Lucas Vázquez, Borja Mayoral
+
+MATCH: 2878317 | śr., 16.08.2017 | FC Barcelona
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Mateo Kovacic, Toni Kroos, Luka Modrić, Marco Asensio, Lucas Vázquez, Karim Benzema
+
+MATCH: 2899910 | sob., 12.05.2018 | Celta de Vigo
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Marcelo, Achraf Hakimi, Casemiro, Toni Kroos, Luka Modrić, Isco, Gareth Bale, Karim Benzema
+
+MATCH: 3018935 | śr., 11.04.2018 | Juventus Turyn
+PLAYERS: Keylor Navas, Jesús Vallejo, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Isco, Gareth Bale, Cristiano Ronaldo
+
+MATCH: 2899863 | sob., 28.04.2018 | CD Leganés
+PLAYERS: Kiko Casilla, Jesús Vallejo, Casemiro, Theo Hernández, Achraf Hakimi, Marcos Llorente, Mateo Kovacic, Gareth Bale, Dani Ceballos, Karim Benzema, Borja Mayoral
+
+MATCH: 2899917 | sob., 19.05.2018 | Villarreal CF
+PLAYERS: Luca Zidane, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Isco, Gareth Bale, Cristiano Ronaldo
+
+MATCH: 2917404 | wt., 17.10.2017 | Tottenham Hotspur
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Achraf Hakimi, Casemiro, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Isco, Karim Benzema
+
+MATCH: 2899726 | niedz., 07.01.2018 | Celta de Vigo
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Marcelo, Achraf Hakimi, Casemiro, Toni Kroos, Luka Modrić, Isco, Gareth Bale, Cristiano Ronaldo
+
+MATCH: 2899758 | sob., 27.01.2018 | Valencia CF
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Gareth Bale, Karim Benzema
+
+MATCH: 3030594 | wt., 01.05.2018 | Bayern Monachium
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Lucas Vázquez, Mateo Kovacic, Toni Kroos, Luka Modrić, Marco Asensio, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2981467 | śr., 13.12.2017 | Al-Jazira Club
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Marcelo, Achraf Hakimi, Casemiro, Luka Modrić, Mateo Kovacic, Cristiano Ronaldo, Isco, Karim Benzema
+
+MATCH: 2899664 | sob., 18.11.2017 | Atlético Madryt
+PLAYERS: Kiko Casilla, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Isco, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2899783 | sob., 24.02.2018 | Deportivo Alavés
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Theo Hernández, Daniel Carvajal, Casemiro, Mateo Kovacic, Gareth Bale, Lucas Vázquez, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2899815 | niedz., 18.03.2018 | Girona FC
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Marcelo, Daniel Carvajal, Toni Kroos, Mateo Kovacic, Marco Asensio, Lucas Vázquez, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2917451 | śr., 06.12.2017 | Borussia Dortmund
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Theo Hernández, Nacho Fernández, Casemiro, Mateo Kovacic, Isco, Cristiano Ronaldo, Lucas Vázquez, Borja Mayoral
+
+MATCH: 3030592 | śr., 25.04.2018 | Bayern Monachium
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Isco, Lucas Vázquez, Cristiano Ronaldo
+
+MATCH: 2899614 | sob., 14.10.2017 | Getafe CF
+PLAYERS: Kiko Casilla, Sergio Ramos, Nacho Fernández, Marcelo, Achraf Hakimi, Marcos Llorente, Toni Kroos, Marco Asensio, Lucas Vázquez, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2899698 | sob., 23.12.2017 | FC Barcelona
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Mateo Kovacic, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2978832 | czw., 04.01.2018 | CD Numancia
+PLAYERS: Kiko Casilla, Jesús Vallejo, Nacho Fernández, Theo Hernández, Daniel Carvajal, Marcos Llorente, Dani Ceballos, Marco Asensio, Lucas Vázquez, Gareth Bale, Borja Mayoral
+
+MATCH: 2989786 | czw., 18.01.2018 | CD Leganés
+PLAYERS: Kiko Casilla, Jesús Vallejo, Raphaël Varane, Theo Hernández, Daniel Carvajal, Marcos Llorente, Mateo Kovacic, Dani Ceballos, Marco Asensio, Lucas Vázquez, Borja Mayoral
+
+MATCH: 2899625 | niedz., 01.10.2017 | RCD Espanyol
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Nacho Fernández, Achraf Hakimi, Casemiro, Toni Kroos, Luka Modrić, Isco, Marco Asensio, Cristiano Ronaldo
+
+MATCH: 2899929 | niedz., 27.08.2017 | Valencia CF
+PLAYERS: Keylor Navas, Nacho Fernández, Casemiro, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Isco, Marco Asensio, Gareth Bale, Karim Benzema
+
+MATCH: 2878318 | niedz., 13.08.2017 | FC Barcelona
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Mateo Kovacic, Isco, Gareth Bale, Karim Benzema
+
+MATCH: 2982738 | sob., 16.12.2017 | Grêmio Porto Alegre
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Isco, Karim Benzema
+
+MATCH: 2899604 | sob., 23.09.2017 | Deportivo Alavés
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Nacho Fernández, Daniel Carvajal, Casemiro, Dani Ceballos, Isco, Marco Asensio, Lucas Vázquez, Cristiano Ronaldo
+
+MATCH: 2899766 | sob., 10.02.2018 | Real Sociedad
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Marco Asensio, Lucas Vázquez, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2899768 | niedz., 18.02.2018 | Real Betis Balompié
+PLAYERS: Keylor Navas, Sergio Ramos, Nacho Fernández, Marcelo, Daniel Carvajal, Casemiro, Mateo Kovacic, Marco Asensio, Lucas Vázquez, Gareth Bale, Cristiano Ronaldo
+
+MATCH: 2917420 | śr., 01.11.2017 | Tottenham Hotspur
+PLAYERS: Kiko Casilla, Sergio Ramos, Nacho Fernández, Marcelo, Achraf Hakimi, Casemiro, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Isco, Karim Benzema
+
+MATCH: 2899838 | niedz., 08.04.2018 | Atlético Madryt
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Toni Kroos, Mateo Kovacic, Marco Asensio, Lucas Vázquez, Gareth Bale, Cristiano Ronaldo
+
+MATCH: 2981997 | śr., 14.02.2018 | FC Paris Saint-Germain
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Nacho Fernández, Casemiro, Toni Kroos, Luka Modrić, Cristiano Ronaldo, Isco, Karim Benzema
+
+MATCH: 2899893 | niedz., 15.04.2018 | Málaga CF
+PLAYERS: Keylor Navas, Jesús Vallejo, Sergio Ramos, Theo Hernández, Daniel Carvajal, Casemiro, Mateo Kovacic, Isco, Marco Asensio, Lucas Vázquez, Karim Benzema
+
+MATCH: 3018931 | wt., 03.04.2018 | Juventus Turyn
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Isco, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2899830 | sob., 31.03.2018 | UD Las Palmas
+PLAYERS: Keylor Navas, Jesús Vallejo, Raphaël Varane, Theo Hernández, Nacho Fernández, Casemiro, Luka Modrić, Marco Asensio, Lucas Vázquez, Gareth Bale, Karim Benzema
+
+MATCH: 2917379 | wt., 26.09.2017 | Borussia Dortmund
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Nacho Fernández, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Isco, Gareth Bale, Cristiano Ronaldo
+
+MATCH: 2899672 | sob., 25.11.2017 | Málaga CF
+PLAYERS: Kiko Casilla, Jesús Vallejo, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Isco, Lucas Vázquez, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2899832 | sob., 10.03.2018 | SD Eibar
+PLAYERS: Keylor Navas, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Isco, Gareth Bale, Cristiano Ronaldo
+
+MATCH: 2899655 | niedz., 05.11.2017 | UD Las Palmas
+PLAYERS: Kiko Casilla, Jesús Vallejo, Sergio Ramos, Marcelo, Nacho Fernández, Casemiro, Toni Kroos, Isco, Marco Asensio, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2899740 | sob., 13.01.2018 | Villarreal CF
+PLAYERS: Keylor Navas, Raphaël Varane, Nacho Fernández, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Isco, Gareth Bale, Cristiano Ronaldo
+
+MATCH: 2929828 | czw., 26.10.2017 | CF Fuenlabrada
+PLAYERS: Kiko Casilla, Jesús Vallejo, Nacho Fernández, Álvaro Tejero, Achraf Hakimi, Marcos Llorente, Dani Ceballos, Theo Hernández, Marco Asensio, Lucas Vázquez, Borja Mayoral
+
+MATCH: 2899644 | niedz., 29.10.2017 | Girona FC
+PLAYERS: Kiko Casilla, Sergio Ramos, Raphaël Varane, Marcelo, Achraf Hakimi, Casemiro, Toni Kroos, Luka Modrić, Isco, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 2917435 | wt., 21.11.2017 | APOEL Nikosia
+PLAYERS: Kiko Casilla, Raphaël Varane, Nacho Fernández, Marcelo, Daniel Carvajal, Toni Kroos, Luka Modrić, Marco Asensio, Cristiano Ronaldo, Lucas Vázquez, Karim Benzema
+
+MATCH: 2899693 | sob., 09.12.2017 | Sevilla FC
+PLAYERS: Keylor Navas, Jesús Vallejo, Nacho Fernández, Marcelo, Achraf Hakimi, Toni Kroos, Luka Modrić, Marco Asensio, Lucas Vázquez, Cristiano Ronaldo, Karim Benzema
+

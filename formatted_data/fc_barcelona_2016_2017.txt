@@ -1,0 +1,181 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2818307 | śr., 01.02.2017 | Atlético Madryt
+PLAYERS: Jasper Cillessen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Javier Mascherano, Ivan Rakitic, André Gomes, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718882 | sob., 14.01.2017 | UD Las Palmas
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Javier Mascherano, Jordi Alba, Aleix Vidal, Sergio Busquets, André Gomes, Rafinha, Arda Turan, Lionel Messi, Luis Suárez
+
+MATCH: 2718756 | śr., 21.09.2016 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jordi Alba, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2717501 | śr., 17.08.2016 | Sevilla FC
+PLAYERS: Claudio Bravo, Samuel Umtiti, Javier Mascherano, Lucas Digne, Aleix Vidal, Sergio Busquets, André Gomes, Denis Suárez, Arda Turan, Lionel Messi, Munir El Haddadi
+
+MATCH: 2718834 | niedz., 27.11.2016 | Real Sociedad
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, André Gomes, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2719043 | śr., 26.04.2017 | CA Osasuna
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Lucas Digne, Javier Mascherano, Sergio Busquets, Ivan Rakitic, André Gomes, Denis Suárez, Arda Turan, Lionel Messi, Paco Alcácer
+
+MATCH: 2719015 | sob., 08.04.2017 | Málaga CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Jérémy Mathieu, Jordi Alba, Javier Mascherano, Sergio Busquets, André Gomes, Denis Suárez, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718725 | niedz., 28.08.2016 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Denis Suárez, Arda Turan, Lionel Messi, Luis Suárez
+
+MATCH: 2719072 | niedz., 14.05.2017 | UD Las Palmas
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Marlon, Jordi Alba, Lucas Digne, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2755732 | wt., 06.12.2016 | Borussia Mönchengladbach
+PLAYERS: Jasper Cillessen, Samuel Umtiti, Javier Mascherano, Lucas Digne, Aleix Vidal, André Gomes, Andrés Iniesta, Denis Suárez, Arda Turan, Lionel Messi, Paco Alcácer
+
+MATCH: 2805651 | śr., 08.03.2017 | FC Paris Saint-Germain
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Javier Mascherano, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Rafinha, Lionel Messi, Luis Suárez
+
+MATCH: 2754919 | śr., 19.10.2016 | Manchester City
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Javier Mascherano, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718825 | sob., 19.11.2016 | Málaga CF
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Lucas Digne, Sergi Roberto, Sergio Busquets, Rafinha, Denis Suárez, Neymar, Arda Turan, Paco Alcácer
+
+MATCH: 2810026 | śr., 11.01.2017 | Athletic Bilbao
+PLAYERS: Jasper Cillessen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Rafinha, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718891 | niedz., 22.01.2017 | SD Eibar
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Jérémy Mathieu, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Arda Turan, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2755694 | wt., 01.11.2016 | Manchester City
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Javier Mascherano, Lucas Digne, Sergi Roberto, Sergio Busquets, Ivan Rakitic, André Gomes, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2823374 | sob., 27.05.2017 | Deportivo Alavés
+PLAYERS: Jasper Cillessen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Javier Mascherano, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Paco Alcácer
+
+MATCH: 2718796 | sob., 22.10.2016 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Javier Mascherano, Lucas Digne, Sergi Roberto, Sergio Busquets, Andrés Iniesta, André Gomes, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718711 | sob., 20.08.2016 | Real Betis Balompié
+PLAYERS: Claudio Bravo, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Denis Suárez, Arda Turan, Lionel Messi, Luis Suárez
+
+MATCH: 2718967 | sob., 04.03.2017 | Celta de Vigo
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergio Busquets, Sergi Roberto, Ivan Rakitic, Lionel Messi, Neymar, Rafinha, Luis Suárez
+
+MATCH: 2810018 | czw., 05.01.2017 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718844 | sob., 03.12.2016 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, André Gomes, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2814838 | czw., 19.01.2017 | Real Sociedad
+PLAYERS: Jasper Cillessen, Samuel Umtiti, Gerard Piqué, Lucas Digne, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718915 | sob., 04.02.2017 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jérémy Mathieu, Aleix Vidal, André Gomes, Rafinha, Arda Turan, Neymar, Lionel Messi, Paco Alcácer
+
+MATCH: 2718767 | sob., 24.09.2016 | Sporting Gijón
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Jérémy Mathieu, Lucas Digne, Sergi Roberto, Sergio Busquets, André Gomes, Arda Turan, Neymar, Rafinha, Luis Suárez
+
+MATCH: 2718863 | niedz., 18.12.2016 | RCD Espanyol
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jordi Alba, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Denis Suárez, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718735 | sob., 10.09.2016 | Deportivo Alavés
+PLAYERS: Jasper Cillessen, Jérémy Mathieu, Javier Mascherano, Lucas Digne, Aleix Vidal, Sergio Busquets, Ivan Rakitic, Denis Suárez, Neymar, Arda Turan, Paco Alcácer
+
+MATCH: 2718986 | niedz., 19.03.2017 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Javier Mascherano, Sergio Busquets, Andrés Iniesta, Rafinha, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718806 | sob., 29.10.2016 | Granada CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Javier Mascherano, Lucas Digne, Sergi Roberto, Ivan Rakitic, Rafinha, Denis Suárez, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2717500 | niedz., 14.08.2016 | Sevilla FC
+PLAYERS: Claudio Bravo, Gerard Piqué, Javier Mascherano, Jérémy Mathieu, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Arda Turan, Lionel Messi, Luis Suárez
+
+MATCH: 2718746 | sob., 17.09.2016 | CD Leganés
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Javier Mascherano, Andrés Iniesta, Ivan Rakitic, Rafinha, Jordi Alba, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718901 | niedz., 29.01.2017 | Real Betis Balompié
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Jérémy Mathieu, Lucas Digne, Aleix Vidal, Ivan Rakitic, Denis Suárez, Arda Turan, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718936 | niedz., 19.02.2017 | CD Leganés
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Jérémy Mathieu, Lucas Digne, Sergi Roberto, André Gomes, Ivan Rakitic, Rafinha, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718957 | śr., 01.03.2017 | Sporting Gijón
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Jordi Alba, Javier Mascherano, Sergio Busquets, Ivan Rakitic, Rafinha, Denis Suárez, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2754181 | wt., 13.09.2016 | Celtic Glasgow
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, André Gomes, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718815 | niedz., 06.11.2016 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Javier Mascherano, Lucas Digne, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Denis Suárez, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2814842 | czw., 26.01.2017 | Real Sociedad
+PLAYERS: Jasper Cillessen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Javier Mascherano, André Gomes, Denis Suárez, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718777 | niedz., 02.10.2016 | Celta de Vigo
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Jérémy Mathieu, Jordi Alba, Sergi Roberto, Sergio Busquets, André Gomes, Arda Turan, Neymar, Rafinha, Luis Suárez
+
+MATCH: 2754910 | śr., 28.09.2016 | Borussia Mönchengladbach
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jordi Alba, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Paco Alcácer, Luis Suárez
+
+MATCH: 2718946 | niedz., 26.02.2017 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jérémy Mathieu, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Rafinha, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2719081 | niedz., 21.05.2017 | SD Eibar
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Marlon, Jordi Alba, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2719062 | sob., 06.05.2017 | Villarreal CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Lucas Digne, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2755717 | śr., 23.11.2016 | Celtic Glasgow
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, André Gomes, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2805643 | wt., 14.02.2017 | FC Paris Saint-Germain
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Andrés Iniesta, André Gomes, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2840938 | wt., 11.04.2017 | Juventus Turyn
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jérémy Mathieu, Sergi Roberto, Javier Mascherano, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718872 | niedz., 08.01.2017 | Villarreal CF
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Lucas Digne, Sergi Roberto, Sergio Busquets, Andrés Iniesta, André Gomes, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718853 | sob., 10.12.2016 | CA Osasuna
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Andrés Iniesta, André Gomes, Arda Turan, Lionel Messi, Luis Suárez
+
+MATCH: 2719024 | sob., 15.04.2017 | Real Sociedad
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, André Gomes, Paco Alcácer, Lionel Messi, Luis Suárez
+
+MATCH: 2767515 | śr., 30.11.2016 | Hércules CF
+PLAYERS: Jasper Cillessen, Samuel Umtiti, Borja López, Lucas Digne, Aleix Vidal, Àlex Carbonell, Carles Aleñá, Denis Suárez, Arda Turan, Rafinha, Paco Alcácer
+
+MATCH: 2718925 | sob., 11.02.2017 | Deportivo Alavés
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Jérémy Mathieu, Lucas Digne, Aleix Vidal, Sergio Busquets, Ivan Rakitic, André Gomes, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2767530 | śr., 21.12.2016 | Hércules CF
+PLAYERS: Jasper Cillessen, Samuel Umtiti, Javier Mascherano, Lucas Digne, Aleix Vidal, André Gomes, Ivan Rakitic, Denis Suárez, Arda Turan, Rafinha, Paco Alcácer
+
+MATCH: 2818309 | wt., 07.02.2017 | Atlético Madryt
+PLAYERS: Jasper Cillessen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Ivan Rakitic, André Gomes, Denis Suárez, Arda Turan, Lionel Messi, Luis Suárez
+
+MATCH: 2718996 | niedz., 02.04.2017 | Granada CF
+PLAYERS: Marc-André ter Stegen, Jérémy Mathieu, Javier Mascherano, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, André Gomes, Neymar, Rafinha, Luis Suárez
+
+MATCH: 2719034 | niedz., 23.04.2017 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Paco Alcácer, Lionel Messi, Luis Suárez
+
+MATCH: 2719053 | sob., 29.04.2017 | RCD Espanyol
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, André Gomes, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2840942 | śr., 19.04.2017 | Juventus Turyn
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Andrés Iniesta, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718787 | sob., 15.10.2016 | Deportivo de La Coruña
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Jérémy Mathieu, Javier Mascherano, Sergio Busquets, Ivan Rakitic, Rafinha, Lucas Digne, Neymar, Arda Turan, Luis Suárez
+
+MATCH: 2719005 | śr., 05.04.2017 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Javier Mascherano, Sergio Busquets, Andrés Iniesta, Sergi Roberto, Ivan Rakitic, Neymar, Lionel Messi, Luis Suárez
+
+MATCH: 2718977 | niedz., 12.03.2017 | Deportivo de La Coruña
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Javier Mascherano, Jordi Alba, Sergi Roberto, Sergio Busquets, André Gomes, Denis Suárez, Arda Turan, Lionel Messi, Luis Suárez
+

@@ -1,0 +1,225 @@
+# Graph for Java/GraphStream
+# Nodes: 23
+# Edges: 219
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Unai Simón | Iñigo Martínez | 19 | 24 | 19
+EDGE Unai Simón | Unai Núñez | 15 | 24 | 17
+EDGE Unai Simón | Mikel Balenziaga | 9 | 24 | 11
+EDGE Unai Simón | Óscar de Marcos | 10 | 24 | 10
+EDGE Unai Simón | Dani García | 12 | 24 | 12
+EDGE Unai Simón | Unai López | 10 | 24 | 11
+EDGE Unai Simón | Álex Berenguer | 17 | 24 | 19
+EDGE Unai Simón | Jon Morcillo | 9 | 24 | 10
+EDGE Unai Simón | Oihan Sancet | 6 | 24 | 8
+EDGE Unai Simón | Asier Villalibre | 11 | 24 | 13
+EDGE Unai Simón | Yeray Álvarez | 12 | 24 | 14
+EDGE Unai Simón | Yuri Berchiche | 15 | 24 | 15
+EDGE Unai Simón | Ander Capa | 17 | 24 | 17
+EDGE Unai Simón | Mikel Vesga | 15 | 24 | 17
+EDGE Unai Simón | Iker Muniain | 17 | 24 | 17
+EDGE Unai Simón | Iñaki Williams | 18 | 24 | 18
+EDGE Unai Simón | Unai Vencedor | 11 | 24 | 12
+EDGE Unai Simón | Raúl García | 12 | 24 | 12
+EDGE Unai Simón | Ibai Gómez | 2 | 24 | 3
+EDGE Unai Simón | Iñigo Lekue | 2 | 24 | 4
+EDGE Unai Simón | Iñigo Córdoba | 1 | 24 | 1
+EDGE Iñigo Martínez | Unai Núñez | 10 | 19 | 17
+EDGE Iñigo Martínez | Mikel Balenziaga | 7 | 19 | 11
+EDGE Iñigo Martínez | Óscar de Marcos | 8 | 19 | 10
+EDGE Iñigo Martínez | Dani García | 11 | 19 | 12
+EDGE Iñigo Martínez | Unai López | 8 | 19 | 11
+EDGE Iñigo Martínez | Álex Berenguer | 13 | 19 | 19
+EDGE Iñigo Martínez | Jon Morcillo | 7 | 19 | 10
+EDGE Iñigo Martínez | Oihan Sancet | 4 | 19 | 8
+EDGE Iñigo Martínez | Asier Villalibre | 8 | 19 | 13
+EDGE Iñigo Martínez | Yeray Álvarez | 9 | 19 | 14
+EDGE Iñigo Martínez | Yuri Berchiche | 12 | 19 | 15
+EDGE Iñigo Martínez | Ander Capa | 14 | 19 | 17
+EDGE Iñigo Martínez | Mikel Vesga | 11 | 19 | 17
+EDGE Iñigo Martínez | Iker Muniain | 14 | 19 | 17
+EDGE Iñigo Martínez | Iñaki Williams | 15 | 19 | 18
+EDGE Iñigo Martínez | Unai Vencedor | 8 | 19 | 12
+EDGE Iñigo Martínez | Raúl García | 10 | 19 | 12
+EDGE Iñigo Martínez | Ibai Gómez | 1 | 19 | 3
+EDGE Iñigo Martínez | Iñigo Córdoba | 1 | 19 | 1
+EDGE Unai Núñez | Mikel Balenziaga | 8 | 17 | 11
+EDGE Unai Núñez | Óscar de Marcos | 6 | 17 | 10
+EDGE Unai Núñez | Dani García | 6 | 17 | 12
+EDGE Unai Núñez | Unai López | 8 | 17 | 11
+EDGE Unai Núñez | Álex Berenguer | 12 | 17 | 19
+EDGE Unai Núñez | Jon Morcillo | 8 | 17 | 10
+EDGE Unai Núñez | Oihan Sancet | 8 | 17 | 8
+EDGE Unai Núñez | Asier Villalibre | 10 | 17 | 13
+EDGE Unai Núñez | Mikel Vesga | 12 | 17 | 17
+EDGE Unai Núñez | Unai Vencedor | 8 | 17 | 12
+EDGE Unai Núñez | Ander Capa | 9 | 17 | 17
+EDGE Unai Núñez | Iker Muniain | 9 | 17 | 17
+EDGE Unai Núñez | Raúl García | 7 | 17 | 12
+EDGE Unai Núñez | Iñaki Williams | 10 | 17 | 18
+EDGE Unai Núñez | Yuri Berchiche | 9 | 17 | 15
+EDGE Unai Núñez | Ibai Gómez | 3 | 17 | 3
+EDGE Unai Núñez | Jokin Ezkieta | 2 | 17 | 2
+EDGE Unai Núñez | Yeray Álvarez | 5 | 17 | 14
+EDGE Unai Núñez | Iñigo Lekue | 4 | 17 | 4
+EDGE Unai Núñez | Iñigo Córdoba | 1 | 17 | 1
+EDGE Mikel Balenziaga | Óscar de Marcos | 6 | 11 | 10
+EDGE Mikel Balenziaga | Dani García | 5 | 11 | 12
+EDGE Mikel Balenziaga | Unai López | 5 | 11 | 11
+EDGE Mikel Balenziaga | Álex Berenguer | 8 | 11 | 19
+EDGE Mikel Balenziaga | Jon Morcillo | 7 | 11 | 10
+EDGE Mikel Balenziaga | Oihan Sancet | 7 | 11 | 8
+EDGE Mikel Balenziaga | Asier Villalibre | 7 | 11 | 13
+EDGE Mikel Balenziaga | Mikel Vesga | 7 | 11 | 17
+EDGE Mikel Balenziaga | Unai Vencedor | 5 | 11 | 12
+EDGE Mikel Balenziaga | Ander Capa | 4 | 11 | 17
+EDGE Mikel Balenziaga | Iker Muniain | 4 | 11 | 17
+EDGE Mikel Balenziaga | Raúl García | 4 | 11 | 12
+EDGE Mikel Balenziaga | Iñaki Williams | 3 | 11 | 18
+EDGE Mikel Balenziaga | Ibai Gómez | 3 | 11 | 3
+EDGE Mikel Balenziaga | Jokin Ezkieta | 2 | 11 | 2
+EDGE Mikel Balenziaga | Yeray Álvarez | 5 | 11 | 14
+EDGE Mikel Balenziaga | Iñigo Lekue | 4 | 11 | 4
+EDGE Óscar de Marcos | Dani García | 4 | 10 | 12
+EDGE Óscar de Marcos | Unai López | 4 | 10 | 11
+EDGE Óscar de Marcos | Álex Berenguer | 8 | 10 | 19
+EDGE Óscar de Marcos | Jon Morcillo | 5 | 10 | 10
+EDGE Óscar de Marcos | Oihan Sancet | 4 | 10 | 8
+EDGE Óscar de Marcos | Asier Villalibre | 4 | 10 | 13
+EDGE Óscar de Marcos | Mikel Vesga | 7 | 10 | 17
+EDGE Óscar de Marcos | Unai Vencedor | 5 | 10 | 12
+EDGE Óscar de Marcos | Yeray Álvarez | 5 | 10 | 14
+EDGE Óscar de Marcos | Yuri Berchiche | 4 | 10 | 15
+EDGE Óscar de Marcos | Ander Capa | 3 | 10 | 17
+EDGE Óscar de Marcos | Raúl García | 5 | 10 | 12
+EDGE Óscar de Marcos | Iñaki Williams | 5 | 10 | 18
+EDGE Óscar de Marcos | Iker Muniain | 5 | 10 | 17
+EDGE Óscar de Marcos | Ibai Gómez | 1 | 10 | 3
+EDGE Óscar de Marcos | Iñigo Lekue | 1 | 10 | 4
+EDGE Dani García | Unai López | 7 | 12 | 11
+EDGE Dani García | Álex Berenguer | 6 | 12 | 19
+EDGE Dani García | Jon Morcillo | 6 | 12 | 10
+EDGE Dani García | Oihan Sancet | 3 | 12 | 8
+EDGE Dani García | Asier Villalibre | 4 | 12 | 13
+EDGE Dani García | Yeray Álvarez | 6 | 12 | 14
+EDGE Dani García | Yuri Berchiche | 7 | 12 | 15
+EDGE Dani García | Ander Capa | 10 | 12 | 17
+EDGE Dani García | Mikel Vesga | 3 | 12 | 17
+EDGE Dani García | Iker Muniain | 8 | 12 | 17
+EDGE Dani García | Iñaki Williams | 9 | 12 | 18
+EDGE Dani García | Unai Vencedor | 2 | 12 | 12
+EDGE Dani García | Raúl García | 8 | 12 | 12
+EDGE Dani García | Iñigo Lekue | 1 | 12 | 4
+EDGE Dani García | Ibai Gómez | 1 | 12 | 3
+EDGE Dani García | Iñigo Córdoba | 1 | 12 | 1
+EDGE Unai López | Álex Berenguer | 6 | 11 | 19
+EDGE Unai López | Jon Morcillo | 5 | 11 | 10
+EDGE Unai López | Oihan Sancet | 4 | 11 | 8
+EDGE Unai López | Asier Villalibre | 3 | 11 | 13
+EDGE Unai López | Yeray Álvarez | 6 | 11 | 14
+EDGE Unai López | Yuri Berchiche | 6 | 11 | 15
+EDGE Unai López | Ander Capa | 6 | 11 | 17
+EDGE Unai López | Iker Muniain | 7 | 11 | 17
+EDGE Unai López | Iñaki Williams | 8 | 11 | 18
+EDGE Unai López | Raúl García | 8 | 11 | 12
+EDGE Unai López | Mikel Vesga | 4 | 11 | 17
+EDGE Unai López | Ibai Gómez | 2 | 11 | 3
+EDGE Unai López | Jokin Ezkieta | 1 | 11 | 2
+EDGE Unai López | Iñigo Lekue | 1 | 11 | 4
+EDGE Unai López | Iñigo Córdoba | 1 | 11 | 1
+EDGE Álex Berenguer | Jon Morcillo | 4 | 19 | 10
+EDGE Álex Berenguer | Oihan Sancet | 5 | 19 | 8
+EDGE Álex Berenguer | Asier Villalibre | 11 | 19 | 13
+EDGE Álex Berenguer | Yeray Álvarez | 12 | 19 | 14
+EDGE Álex Berenguer | Yuri Berchiche | 11 | 19 | 15
+EDGE Álex Berenguer | Ander Capa | 11 | 19 | 17
+EDGE Álex Berenguer | Mikel Vesga | 15 | 19 | 17
+EDGE Álex Berenguer | Iker Muniain | 13 | 19 | 17
+EDGE Álex Berenguer | Iñaki Williams | 14 | 19 | 18
+EDGE Álex Berenguer | Unai Vencedor | 11 | 19 | 12
+EDGE Álex Berenguer | Raúl García | 7 | 19 | 12
+EDGE Álex Berenguer | Jokin Ezkieta | 2 | 19 | 2
+EDGE Álex Berenguer | Iñigo Lekue | 3 | 19 | 4
+EDGE Álex Berenguer | Ibai Gómez | 1 | 19 | 3
+EDGE Jon Morcillo | Oihan Sancet | 6 | 10 | 8
+EDGE Jon Morcillo | Asier Villalibre | 6 | 10 | 13
+EDGE Jon Morcillo | Mikel Vesga | 5 | 10 | 17
+EDGE Jon Morcillo | Unai Vencedor | 4 | 10 | 12
+EDGE Jon Morcillo | Yeray Álvarez | 3 | 10 | 14
+EDGE Jon Morcillo | Yuri Berchiche | 3 | 10 | 15
+EDGE Jon Morcillo | Ander Capa | 5 | 10 | 17
+EDGE Jon Morcillo | Iker Muniain | 4 | 10 | 17
+EDGE Jon Morcillo | Iñaki Williams | 3 | 10 | 18
+EDGE Jon Morcillo | Raúl García | 4 | 10 | 12
+EDGE Jon Morcillo | Ibai Gómez | 2 | 10 | 3
+EDGE Jon Morcillo | Jokin Ezkieta | 1 | 10 | 2
+EDGE Jon Morcillo | Iñigo Lekue | 3 | 10 | 4
+EDGE Oihan Sancet | Asier Villalibre | 7 | 8 | 13
+EDGE Oihan Sancet | Mikel Vesga | 5 | 8 | 17
+EDGE Oihan Sancet | Unai Vencedor | 4 | 8 | 12
+EDGE Oihan Sancet | Ibai Gómez | 3 | 8 | 3
+EDGE Oihan Sancet | Jokin Ezkieta | 2 | 8 | 2
+EDGE Oihan Sancet | Yeray Álvarez | 2 | 8 | 14
+EDGE Oihan Sancet | Iñigo Lekue | 4 | 8 | 4
+EDGE Oihan Sancet | Ander Capa | 2 | 8 | 17
+EDGE Oihan Sancet | Yuri Berchiche | 1 | 8 | 15
+EDGE Oihan Sancet | Iñigo Córdoba | 1 | 8 | 1
+EDGE Oihan Sancet | Iñaki Williams | 1 | 8 | 18
+EDGE Oihan Sancet | Raúl García | 1 | 8 | 12
+EDGE Asier Villalibre | Yeray Álvarez | 6 | 13 | 14
+EDGE Asier Villalibre | Yuri Berchiche | 6 | 13 | 15
+EDGE Asier Villalibre | Ander Capa | 7 | 13 | 17
+EDGE Asier Villalibre | Mikel Vesga | 11 | 13 | 17
+EDGE Asier Villalibre | Iker Muniain | 6 | 13 | 17
+EDGE Asier Villalibre | Iñaki Williams | 6 | 13 | 18
+EDGE Asier Villalibre | Unai Vencedor | 8 | 13 | 12
+EDGE Asier Villalibre | Ibai Gómez | 3 | 13 | 3
+EDGE Asier Villalibre | Jokin Ezkieta | 2 | 13 | 2
+EDGE Asier Villalibre | Iñigo Lekue | 4 | 13 | 4
+EDGE Yeray Álvarez | Yuri Berchiche | 9 | 14 | 15
+EDGE Yeray Álvarez | Ander Capa | 10 | 14 | 17
+EDGE Yeray Álvarez | Mikel Vesga | 10 | 14 | 17
+EDGE Yeray Álvarez | Iker Muniain | 11 | 14 | 17
+EDGE Yeray Álvarez | Iñaki Williams | 11 | 14 | 18
+EDGE Yeray Álvarez | Unai Vencedor | 6 | 14 | 12
+EDGE Yeray Álvarez | Raúl García | 7 | 14 | 12
+EDGE Yeray Álvarez | Jokin Ezkieta | 2 | 14 | 2
+EDGE Yeray Álvarez | Iñigo Lekue | 2 | 14 | 4
+EDGE Yeray Álvarez | Ibai Gómez | 1 | 14 | 3
+EDGE Yuri Berchiche | Ander Capa | 13 | 15 | 17
+EDGE Yuri Berchiche | Mikel Vesga | 10 | 15 | 17
+EDGE Yuri Berchiche | Iker Muniain | 13 | 15 | 17
+EDGE Yuri Berchiche | Iñaki Williams | 15 | 15 | 18
+EDGE Yuri Berchiche | Unai Vencedor | 7 | 15 | 12
+EDGE Yuri Berchiche | Raúl García | 8 | 15 | 12
+EDGE Yuri Berchiche | Iñigo Córdoba | 1 | 15 | 1
+EDGE Ander Capa | Mikel Vesga | 10 | 17 | 17
+EDGE Ander Capa | Iker Muniain | 14 | 17 | 17
+EDGE Ander Capa | Iñaki Williams | 15 | 17 | 18
+EDGE Ander Capa | Unai Vencedor | 8 | 17 | 12
+EDGE Ander Capa | Raúl García | 9 | 17 | 12
+EDGE Ander Capa | Iñigo Lekue | 1 | 17 | 4
+EDGE Ander Capa | Ibai Gómez | 1 | 17 | 3
+EDGE Ander Capa | Iñigo Córdoba | 1 | 17 | 1
+EDGE Mikel Vesga | Iker Muniain | 12 | 17 | 17
+EDGE Mikel Vesga | Iñaki Williams | 11 | 17 | 18
+EDGE Mikel Vesga | Unai Vencedor | 10 | 17 | 12
+EDGE Mikel Vesga | Raúl García | 5 | 17 | 12
+EDGE Mikel Vesga | Ibai Gómez | 2 | 17 | 3
+EDGE Mikel Vesga | Jokin Ezkieta | 2 | 17 | 2
+EDGE Mikel Vesga | Iñigo Lekue | 3 | 17 | 4
+EDGE Iker Muniain | Iñaki Williams | 16 | 17 | 18
+EDGE Iker Muniain | Unai Vencedor | 7 | 17 | 12
+EDGE Iker Muniain | Raúl García | 10 | 17 | 12
+EDGE Iñaki Williams | Unai Vencedor | 8 | 18 | 12
+EDGE Iñaki Williams | Raúl García | 11 | 18 | 12
+EDGE Iñaki Williams | Iñigo Córdoba | 1 | 18 | 1
+EDGE Unai Vencedor | Raúl García | 3 | 12 | 12
+EDGE Unai Vencedor | Jokin Ezkieta | 1 | 12 | 2
+EDGE Unai Vencedor | Iñigo Lekue | 3 | 12 | 4
+EDGE Unai Vencedor | Ibai Gómez | 1 | 12 | 3
+EDGE Raúl García | Iñigo Córdoba | 1 | 12 | 1
+EDGE Ibai Gómez | Jokin Ezkieta | 1 | 3 | 2
+EDGE Ibai Gómez | Iñigo Lekue | 2 | 3 | 4
+EDGE Jokin Ezkieta | Iñigo Lekue | 2 | 2 | 4

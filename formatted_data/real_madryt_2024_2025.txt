@@ -1,0 +1,205 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 4407752 | sob., 25.01.2025 | Real Valladolid CF
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Aurélien Tchouaméni, Fran García, Raúl Asencio, Federico Valverde, Dani Ceballos, Jude Bellingham, Rodrygo, Brahim Díaz, Kylian Mbappé
+
+MATCH: 4506859 | pt., 27.06.2025 | Red Bull Salzburg
+PLAYERS: Thibaut Courtois, Dean Huijsen, Antonio Rüdiger, Aurélien Tchouaméni, Federico Valverde, Arda Güler, Jude Bellingham, Trent Alexander-Arnold, Fran García, Gonzalo García, Vinicius Junior
+
+MATCH: 4445034 | śr., 22.01.2025 | Red Bull Salzburg
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Raúl Asencio, Ferland Mendy, Federico Valverde, Dani Ceballos, Luka Modrić, Jude Bellingham, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4540705 | śr., 05.02.2025 | CD Leganés
+PLAYERS: Andriy Lunin, Jacobo Ramón, Raúl Asencio, Ferland Mendy, Federico Valverde, Aurélien Tchouaméni, Luka Modrić, Brahim Díaz, Rodrygo, Arda Güler, Endrick
+
+MATCH: 4445037 | wt., 17.09.2024 | VfB Stuttgart
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Daniel Carvajal, Ferland Mendy, Lucas Vázquez, Aurélien Tchouaméni, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4407780 | sob., 01.02.2025 | RCD Espanyol
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Aurélien Tchouaméni, Fran García, Lucas Vázquez, Federico Valverde, Dani Ceballos, Jude Bellingham, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4407687 | sob., 07.12.2024 | Girona FC
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Aurélien Tchouaméni, Ferland Mendy, Lucas Vázquez, Federico Valverde, Luka Modrić, Jude Bellingham, Brahim Díaz, Arda Güler, Kylian Mbappé
+
+MATCH: 4557607 | śr., 26.02.2025 | Real Sociedad
+PLAYERS: Andriy Lunin, Antonio Rüdiger, Aurélien Tchouaméni, Fran García, Raúl Asencio, Eduardo Camavinga, Dani Ceballos, Jude Bellingham, Arda Güler, Vinicius Junior, Endrick
+
+MATCH: 4407566 | sob., 24.05.2025 | Real Sociedad
+PLAYERS: Andriy Lunin, Raúl Asencio, Aurélien Tchouaméni, Fran García, Lucas Vázquez, Federico Valverde, Luka Modrić, Dani Ceballos, Brahim Díaz, Arda Güler, Kylian Mbappé
+
+MATCH: 4462645 | śr., 18.12.2024 | CF Pachuca
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Aurélien Tchouaméni, Fran García, Lucas Vázquez, Eduardo Camavinga, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4407595 | niedz., 11.05.2025 | FC Barcelona
+PLAYERS: Thibaut Courtois, Raúl Asencio, Aurélien Tchouaméni, Fran García, Lucas Vázquez, Federico Valverde, Dani Ceballos, Jude Bellingham, Vinicius Junior, Arda Güler, Kylian Mbappé
+
+MATCH: 4407563 | sob., 29.03.2025 | CD Leganés
+PLAYERS: Andriy Lunin, Antonio Rüdiger, Raúl Asencio, Fran García, Lucas Vázquez, Eduardo Camavinga, Luka Modrić, Jude Bellingham, Brahim Díaz, Arda Güler, Kylian Mbappé
+
+MATCH: 4504592 | śr., 18.06.2025 | Al-Hilal SFC
+PLAYERS: Thibaut Courtois, Dean Huijsen, Raúl Asencio, Fran García, Trent Alexander-Arnold, Aurélien Tchouaméni, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo, Gonzalo García
+
+MATCH: 4407735 | sob., 01.03.2025 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, David Alaba, Antonio Rüdiger, Ferland Mendy, Lucas Vázquez, Aurélien Tchouaméni, Luka Modrić, Brahim Díaz, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4405348 | wt., 24.09.2024 | Deportivo Alavés
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Ferland Mendy, Lucas Vázquez, Aurélien Tchouaméni, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4405360 | sob., 05.10.2024 | Villarreal CF
+PLAYERS: Andriy Lunin, Antonio Rüdiger, Aurélien Tchouaméni, Ferland Mendy, Daniel Carvajal, Eduardo Camavinga, Federico Valverde, Luka Modrić, Jude Bellingham, Vinicius Junior, Kylian Mbappé
+
+MATCH: 4361547 | niedz., 18.08.2024 | RCD Mallorca
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4407732 | niedz., 19.01.2025 | UD Las Palmas
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Raúl Asencio, Fran García, Lucas Vázquez, Federico Valverde, Dani Ceballos, Jude Bellingham, Rodrygo, Brahim Díaz, Kylian Mbappé
+
+MATCH: 4407590 | niedz., 18.05.2025 | Sevilla FC
+PLAYERS: Andriy Lunin, Jesús Vallejo, Jacobo Ramón, Fran García, Federico Valverde, Aurélien Tchouaméni, Luka Modrić, Arda Güler, Jude Bellingham, Endrick, Kylian Mbappé
+
+MATCH: 4407531 | sob., 15.03.2025 | Villarreal CF
+PLAYERS: Thibaut Courtois, Raúl Asencio, Aurélien Tchouaméni, Fran García, Lucas Vázquez, Eduardo Camavinga, Federico Valverde, Jude Bellingham, Rodrygo, Brahim Díaz, Kylian Mbappé
+
+MATCH: 4506877 | pon., 06.01.2025 | Deportiva Minera
+PLAYERS: Andriy Lunin, Diego Aguado, Raúl Asencio, Fran García, Lorenzo Aguado, Eduardo Camavinga, Federico Valverde, Luka Modrić, Brahim Díaz, Arda Güler, Endrick
+
+MATCH: 4547644 | wt., 08.04.2025 | FC Arsenal
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Raúl Asencio, David Alaba, Federico Valverde, Eduardo Camavinga, Luka Modrić, Jude Bellingham, Rodrygo, Vinicius Junior, Kylian Mbappé
+
+MATCH: 4405338 | sob., 21.09.2024 | RCD Espanyol
+PLAYERS: Thibaut Courtois, Éder Militão, Aurélien Tchouaméni, Fran García, Daniel Carvajal, Federico Valverde, Luka Modrić, Jude Bellingham, Rodrygo, Arda Güler, Kylian Mbappé
+
+MATCH: 4405371 | sob., 19.10.2024 | Celta de Vigo
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Aurélien Tchouaméni, Eduardo Camavinga, Federico Valverde, Lucas Vázquez, Fran García, Jude Bellingham, Vinicius Junior, Kylian Mbappé
+
+MATCH: 4407541 | niedz., 23.02.2025 | Girona FC
+PLAYERS: Thibaut Courtois, David Alaba, Raúl Asencio, Ferland Mendy, Lucas Vázquez, Aurélien Tchouaméni, Luka Modrić, Rodrygo, Brahim Díaz, Vinicius Junior, Kylian Mbappé
+
+MATCH: 4405350 | niedz., 29.09.2024 | Atlético Madryt
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Federico Valverde, Luka Modrić, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4407518 | sob., 26.10.2024 | FC Barcelona
+PLAYERS: Andriy Lunin, Éder Militão, Antonio Rüdiger, Ferland Mendy, Lucas Vázquez, Aurélien Tchouaméni, Federico Valverde, Jude Bellingham, Eduardo Camavinga, Vinicius Junior, Kylian Mbappé
+
+MATCH: 4407619 | śr., 23.04.2025 | Getafe CF
+PLAYERS: Thibaut Courtois, David Alaba, Raúl Asencio, Fran García, Lucas Vázquez, Aurélien Tchouaméni, Arda Güler, Federico Valverde, Brahim Díaz, Vinicius Junior, Endrick
+
+MATCH: 4547617 | wt., 11.02.2025 | Manchester City
+PLAYERS: Thibaut Courtois, Raúl Asencio, Aurélien Tchouaméni, Ferland Mendy, Federico Valverde, Eduardo Camavinga, Dani Ceballos, Jude Bellingham, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4361557 | niedz., 25.08.2024 | Real Valladolid CF
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Fran García, Daniel Carvajal, Aurélien Tchouaméni, Federico Valverde, Arda Güler, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4364912 | niedz., 01.09.2024 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Federico Valverde, Dani Ceballos, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4527517 | czw., 16.01.2025 | Celta de Vigo
+PLAYERS: Andriy Lunin, Antonio Rüdiger, Raúl Asencio, Fran García, Lucas Vázquez, Aurélien Tchouaméni, Luka Modrić, Dani Ceballos, Vinicius Junior, Brahim Díaz, Kylian Mbappé
+
+MATCH: 4407769 | sob., 08.02.2025 | Atlético Madryt
+PLAYERS: Thibaut Courtois, Raúl Asencio, Aurélien Tchouaméni, Fran García, Lucas Vázquez, Federico Valverde, Dani Ceballos, Jude Bellingham, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4407661 | niedz., 01.12.2024 | Getafe CF
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Raúl Asencio, Fran García, Lucas Vázquez, Dani Ceballos, Federico Valverde, Jude Bellingham, Kylian Mbappé, Brahim Díaz, Rodrygo
+
+MATCH: 4407628 | niedz., 13.04.2025 | Deportivo Alavés
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Raúl Asencio, Fran García, Lucas Vázquez, Aurélien Tchouaméni, Eduardo Camavinga, Federico Valverde, Rodrygo, Arda Güler, Kylian Mbappé
+
+MATCH: 4445144 | śr., 29.01.2025 | Stade Brestois 29
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Aurélien Tchouaméni, Ferland Mendy, Lucas Vázquez, Federico Valverde, Luka Modrić, Jude Bellingham, Rodrygo, Brahim Díaz, Kylian Mbappé
+
+MATCH: 4357029 | śr., 14.08.2024 | Atalanta BC
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4407757 | sob., 15.02.2025 | CA Osasuna
+PLAYERS: Thibaut Courtois, Raúl Asencio, Aurélien Tchouaméni, Fran García, Federico Valverde, Eduardo Camavinga, Luka Modrić, Jude Bellingham, Brahim Díaz, Vinicius Junior, Kylian Mbappé
+
+MATCH: 4407793 | niedz., 09.03.2025 | Rayo Vallecano
+PLAYERS: Andriy Lunin, David Alaba, Raúl Asencio, Fran García, Lucas Vázquez, Aurélien Tchouaméni, Luka Modrić, Jude Bellingham, Rodrygo, Vinicius Junior, Kylian Mbappé
+
+MATCH: 4407610 | niedz., 04.05.2025 | Celta de Vigo
+PLAYERS: Thibaut Courtois, Raúl Asencio, Aurélien Tchouaméni, Fran García, Lucas Vázquez, Federico Valverde, Dani Ceballos, Jude Bellingham, Vinicius Junior, Arda Güler, Kylian Mbappé
+
+MATCH: 4445076 | wt., 10.12.2024 | Atalanta BC
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Aurélien Tchouaméni, Fran García, Lucas Vázquez, Federico Valverde, Dani Ceballos, Jude Bellingham, Vinicius Junior, Brahim Díaz, Kylian Mbappé
+
+MATCH: 4407545 | sob., 05.04.2025 | Valencia CF
+PLAYERS: Fran González, Antonio Rüdiger, Aurélien Tchouaméni, Fran García, Lucas Vázquez, Federico Valverde, Luka Modrić, Jude Bellingham, Brahim Díaz, Vinicius Junior, Kylian Mbappé
+
+MATCH: 4557609 | wt., 01.04.2025 | Real Sociedad
+PLAYERS: Andriy Lunin, David Alaba, Raúl Asencio, Eduardo Camavinga, Lucas Vázquez, Aurélien Tchouaméni, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo, Endrick
+
+MATCH: 4445032 | wt., 22.10.2024 | Borussia Dortmund
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Ferland Mendy, Lucas Vázquez, Federico Valverde, Luka Modrić, Jude Bellingham, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4445120 | śr., 02.10.2024 | LOSC Lille
+PLAYERS: Andriy Lunin, Éder Militão, Antonio Rüdiger, Ferland Mendy, Daniel Carvajal, Aurélien Tchouaméni, Eduardo Camavinga, Federico Valverde, Jude Bellingham, Endrick, Vinicius Junior
+
+MATCH: 4547630 | wt., 04.03.2025 | Atlético Madryt
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Raúl Asencio, Ferland Mendy, Federico Valverde, Aurélien Tchouaméni, Eduardo Camavinga, Brahim Díaz, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4407714 | śr., 04.12.2024 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Raúl Asencio, Fran García, Lucas Vázquez, Aurélien Tchouaméni, Dani Ceballos, Federico Valverde, Jude Bellingham, Rodrygo, Kylian Mbappé
+
+MATCH: 4407701 | pt., 03.01.2025 | Valencia CF
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Aurélien Tchouaméni, Ferland Mendy, Lucas Vázquez, Federico Valverde, Dani Ceballos, Jude Bellingham, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4407706 | sob., 14.12.2024 | Rayo Vallecano
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Aurélien Tchouaméni, Fran García, Lucas Vázquez, Federico Valverde, Luka Modrić, Jude Bellingham, Rodrygo, Arda Güler, Brahim Díaz
+
+MATCH: 4547648 | śr., 16.04.2025 | FC Arsenal
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Raúl Asencio, David Alaba, Lucas Vázquez, Aurélien Tchouaméni, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4506844 | niedz., 22.06.2025 | CF Pachuca
+PLAYERS: Thibaut Courtois, Dean Huijsen, Raúl Asencio, Fran García, Trent Alexander-Arnold, Aurélien Tchouaméni, Arda Güler, Jude Bellingham, Vinicius Junior, Federico Valverde, Gonzalo García
+
+MATCH: 4588078 | sob., 26.04.2025 | FC Barcelona
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Raúl Asencio, Ferland Mendy, Lucas Vázquez, Aurélien Tchouaméni, Federico Valverde, Dani Ceballos, Jude Bellingham, Rodrygo, Vinicius Junior
+
+MATCH: 4445033 | wt., 05.11.2024 | AC Milan
+PLAYERS: Andriy Lunin, Éder Militão, Antonio Rüdiger, Ferland Mendy, Lucas Vázquez, Aurélien Tchouaméni, Luka Modrić, Federico Valverde, Jude Bellingham, Vinicius Junior, Kylian Mbappé
+
+MATCH: 4407678 | niedz., 22.12.2024 | Sevilla FC
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Aurélien Tchouaméni, Eduardo Camavinga, Lucas Vázquez, Federico Valverde, Dani Ceballos, Jude Bellingham, Rodrygo, Brahim Díaz, Kylian Mbappé
+
+MATCH: 4407637 | niedz., 20.04.2025 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Raúl Asencio, Eduardo Camavinga, Federico Valverde, Aurélien Tchouaméni, Luka Modrić, Dani Ceballos, Jude Bellingham, Vinicius Junior, Rodrygo
+
+MATCH: 4547637 | śr., 12.03.2025 | Atlético Madryt
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Raúl Asencio, Ferland Mendy, Federico Valverde, Aurélien Tchouaméni, Luka Modrić, Jude Bellingham, Rodrygo, Vinicius Junior, Kylian Mbappé
+
+MATCH: 4506866 | wt., 01.07.2025 | Juventus Turyn
+PLAYERS: Thibaut Courtois, Dean Huijsen, Antonio Rüdiger, Aurélien Tchouaméni, Federico Valverde, Arda Güler, Jude Bellingham, Trent Alexander-Arnold, Fran García, Gonzalo García, Vinicius Junior
+
+MATCH: 4506871 | sob., 05.07.2025 | Borussia Dortmund
+PLAYERS: Thibaut Courtois, Dean Huijsen, Antonio Rüdiger, Fran García, Trent Alexander-Arnold, Aurélien Tchouaméni, Federico Valverde, Arda Güler, Jude Bellingham, Gonzalo García, Vinicius Junior
+
+MATCH: 4445047 | śr., 27.11.2024 | FC Liverpool
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Raúl Asencio, Ferland Mendy, Federico Valverde, Eduardo Camavinga, Luka Modrić, Jude Bellingham, Arda Güler, Brahim Díaz, Kylian Mbappé
+
+MATCH: 4523491 | czw., 09.01.2025 | RCD Mallorca
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Aurélien Tchouaméni, Ferland Mendy, Lucas Vázquez, Eduardo Camavinga, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4407648 | niedz., 24.11.2024 | CD Leganés
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Raúl Asencio, Fran García, Federico Valverde, Eduardo Camavinga, Dani Ceballos, Jude Bellingham, Arda Güler, Vinicius Junior, Kylian Mbappé
+
+MATCH: 4407671 | sob., 09.11.2024 | CA Osasuna
+PLAYERS: Andriy Lunin, Éder Militão, Antonio Rüdiger, Fran García, Lucas Vázquez, Eduardo Camavinga, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4547623 | śr., 19.02.2025 | Manchester City
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Raúl Asencio, Ferland Mendy, Federico Valverde, Aurélien Tchouaméni, Dani Ceballos, Jude Bellingham, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4361567 | czw., 29.08.2024 | UD Las Palmas
+PLAYERS: Thibaut Courtois, Éder Militão, Antonio Rüdiger, Ferland Mendy, Lucas Vázquez, Aurélien Tchouaméni, Federico Valverde, Luka Modrić, Vinicius Junior, Brahim Díaz, Kylian Mbappé
+
+MATCH: 4530083 | niedz., 12.01.2025 | FC Barcelona
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Aurélien Tchouaméni, Ferland Mendy, Lucas Vázquez, Eduardo Camavinga, Federico Valverde, Jude Bellingham, Vinicius Junior, Rodrygo, Kylian Mbappé
+
+MATCH: 4506873 | śr., 09.07.2025 | FC Paris Saint-Germain
+PLAYERS: Thibaut Courtois, Antonio Rüdiger, Raúl Asencio, Fran García, Federico Valverde, Aurélien Tchouaméni, Arda Güler, Jude Bellingham, Gonzalo García, Vinicius Junior, Kylian Mbappé
+
+MATCH: 4407581 | śr., 14.05.2025 | RCD Mallorca
+PLAYERS: Thibaut Courtois, Jacobo Ramón, Raúl Asencio, Fran García, Federico Valverde, Luka Modrić, Dani Ceballos, Jude Bellingham, Arda Güler, Endrick, Kylian Mbappé
+

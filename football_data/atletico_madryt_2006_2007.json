@@ -1,0 +1,7315 @@
+[
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_real-madryt/aufstellung/spielbericht/58646",
+    "match_id": "58646",
+    "date": "niedz., 25.02.2007",
+    "competition": "LALIGA",
+    "matchday": "24. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Real Madryt",
+    "home_players": [
+      {
+        "number": "25",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Iker Casillas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Fabio Cannavaro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Iván Helguera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "38",
+        "name": "Miguel Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Míchel Salgado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Fernando Gago",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Emerson",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Guti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "José Antonio Reyes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Gonzalo Higuaín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Raúl",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Marcelo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Mahamadou Diarra",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Antonio Cassano",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/real-betis-balompié_atlético-madryt/aufstellung/spielbericht/58536",
+    "match_id": "58536",
+    "date": "niedz., 03.12.2006",
+    "competition": "LALIGA",
+    "matchday": "13. Kolejka",
+    "home_team": "Real Betis Balompié",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Pedro Contreras",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Melli",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juanito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Rivas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Arzu",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Enrique Romero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Marcos Assunção",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Capi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Francisco Maldonado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Edú",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Rafael Sóbis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Alberto Rivera",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fernando",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Dani",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_levante-ud/aufstellung/spielbericht/58707",
+    "match_id": "58707",
+    "date": "niedz., 15.04.2007",
+    "competition": "LALIGA",
+    "matchday": "30. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Levante UD",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabiano Eller",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "José Francisco Molina",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Álvaro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Alexis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Rubiales",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Iñaki Descarga",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Maria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mathieu Berson",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Diego Camacho",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Damiano Tommasi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Olivier Kapo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Salva Ballesta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Laurent Courtois",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Riga Mustapha",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Gustavo Reggi",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/levante-ud_atlético-madryt/aufstellung/spielbericht/58518",
+    "match_id": "58518",
+    "date": "niedz., 19.11.2006",
+    "competition": "LALIGA",
+    "matchday": "11. Kolejka",
+    "home_team": "Levante UD",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "José Francisco Molina",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Frédéric Déhu",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "César Martín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Rubiales",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Maria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mathieu Berson",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Diego Camacho",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Laurent Courtois",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Olivier Kapo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Félix Ettien",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Riga Mustapha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Iñaki Descarga",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Nino",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Péguy Luyindula",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_ca-osasuna/aufstellung/spielbericht/2283279",
+    "match_id": "2283279",
+    "date": "wt., 09.01.2007",
+    "competition": "Unknown",
+    "matchday": "Unknown",
+    "home_team": "Atlético Madryt",
+    "away_team": "CA Osasuna",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Iván Cuéllar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Ricardo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Miguel Flaño",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Carlos Cuéllar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Nacho Monreal",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Javier Flaño",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Javad Nekounam",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Héctor Font",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Juanlu",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "David López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Pierre Webó",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Iñaki Muñoz",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "8",
+        "name": "Bernardo Romeo",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_valencia-cf/aufstellung/spielbericht/58427",
+    "match_id": "58427",
+    "date": "sob., 09.09.2006",
+    "competition": "LALIGA",
+    "matchday": "2. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Valencia CF",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Valera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Martin Petrov",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maxi Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Santiago Cañizares",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Emiliano Moretti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Roberto Ayala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Carlos Marchena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Miguel",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Edú Gaspar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Silva",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Vicente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Miguel Ángel Angulo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Villa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jaime Gavilán",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Mario Regueiro",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Jorge López",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_villarreal-cf/aufstellung/spielbericht/58506",
+    "match_id": "58506",
+    "date": "sob., 11.11.2006",
+    "competition": "LALIGA",
+    "matchday": "10. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Villarreal CF",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Mariano Barbosa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pascal Cygan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabricio Fuentes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Rodolfo Arruabarrena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Venta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Marcos Senna",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Leandro Somoza",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Román Riquelme",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Cani",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Diego Forlán",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Nihat Kahveci",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josemi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Josico",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "José Mari",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_gimnàstic-de-tarragona/aufstellung/spielbericht/58576",
+    "match_id": "58576",
+    "date": "niedz., 07.01.2007",
+    "competition": "LALIGA",
+    "matchday": "17. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Gimnàstic de Tarragona",
+    "home_players": [
+      {
+        "number": "25",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Juan Valera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "46",
+        "name": "Pollo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "Rubén Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Miguel Llera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Aníbal Matellán",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Mingo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Manuel Ruz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Abel Buades",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Àngel Morales",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Juan Díaz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "David Generelo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Alejandro Campano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Rubén Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "David Cuéllar",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Javier Portillo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Irurzun",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/real-zaragoza_atlético-madryt/aufstellung/spielbericht/58685",
+    "match_id": "58685",
+    "date": "niedz., 18.03.2007",
+    "competition": "LALIGA",
+    "matchday": "27. Kolejka",
+    "home_team": "Real Zaragoza",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "César Sánchez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Gabriel Milito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergio Fernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Juanfran",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Carlos Diogo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Albert Celades",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Alberto Zapater",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Pablo Aimar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Andrés D'Alessandro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Ewerthon",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Diego Milito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Gerard Piqué",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "José María Movilla",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Sergio García",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "25",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Fabiano Eller",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "28",
+        "name": "Fernando Marqués",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_celta-de-vigo/aufstellung/spielbericht/58776",
+    "match_id": "58776",
+    "date": "sob., 09.06.2007",
+    "competition": "LALIGA",
+    "matchday": "37. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Celta de Vigo",
+    "home_players": [
+      {
+        "number": "25",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Fabiano Eller",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Maxi Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Martin Petrov",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "8",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "13",
+        "name": "José Manuel Pinto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Matías Lequi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Pablo Contreras",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Diego Placente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Ángel López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Pablo García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Borja Oubiña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Nenê",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Gustavo López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Fabián Canobbio",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Baiano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Yago Yao",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "20",
+        "name": "Jonathan Aspas",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Antonio Núñez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_real-zaragoza/aufstellung/spielbericht/58486",
+    "match_id": "58486",
+    "date": "niedz., 29.10.2006",
+    "competition": "LALIGA",
+    "matchday": "8. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Real Zaragoza",
+    "home_players": [
+      {
+        "number": "25",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "45",
+        "name": "Víctor Bravo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Juan Valera",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "César Sánchez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Gabriel Milito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Sergio Fernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Juanfran",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Carlos Diogo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "José María Movilla",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Alberto Zapater",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Ángel Lafita",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Andrés D'Alessandro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Ewerthon",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Diego Milito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Leonardo Ponzio",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "5",
+        "name": "Óscar González",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Sergio García",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/deportivo-de-la-coruña_atlético-madryt/aufstellung/spielbericht/58478",
+    "match_id": "58478",
+    "date": "sob., 21.10.2006",
+    "competition": "LALIGA",
+    "matchday": "7. Kolejka",
+    "home_team": "Deportivo de La Coruña",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Dudu Aouate",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabricio Coloccini",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Alberto Lopo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joan Capdevila",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Álvaro Arbeloa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio Barragán",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Cristian Hidalgo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Riki",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Arizmendi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Filipe Luís",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Aldo Duscher",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Joan Verdú",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Valera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/ca-osasuna_atlético-madryt/aufstellung/spielbericht/58790",
+    "match_id": "58790",
+    "date": "niedz., 17.06.2007",
+    "competition": "LALIGA",
+    "matchday": "38. Kolejka",
+    "home_team": "CA Osasuna",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Juantxo Elía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Carlos Cuéllar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Miguel Flaño",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Nacho Monreal",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Izquierdo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Patxi Puñal",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Iñaki Muñoz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Héctor Font",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Savo Milosevic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ricardo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Jokin Esparza",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Kike Sola",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabiano Eller",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Martin Petrov",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maxi Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/rcd-mallorca_atlético-madryt/aufstellung/spielbericht/58496",
+    "match_id": "58496",
+    "date": "sob., 04.11.2006",
+    "competition": "LALIGA",
+    "matchday": "9. Kolejka",
+    "home_team": "RCD Mallorca",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Toni Prats",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Nunes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Ballesteros",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Navarro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Varela",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Angelos Basinas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jordi López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Arango",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Boško Janković",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maxi López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Víctor Casadesús",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jonás Gutiérrez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Daniel Komé",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Diego Tristán",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Víctor Bravo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/fc-barcelona_atlético-madryt/aufstellung/spielbericht/58567",
+    "match_id": "58567",
+    "date": "śr., 20.12.2006",
+    "competition": "LALIGA",
+    "matchday": "16. Kolejka",
+    "home_team": "FC Barcelona",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Víctor Valdés",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Carles Puyol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Oleguer",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Juliano Belletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Lilian Thuram",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Thiago Motta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Andrés Iniesta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Xavi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Ronaldinho",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Deco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Eidur Gudjohnsen",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Ludovic Giuly",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Santiago Ezquerro",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "25",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Juan Valera",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/real-sociedad_atlético-madryt/aufstellung/spielbericht/58723",
+    "match_id": "58723",
+    "date": "sob., 21.04.2007",
+    "competition": "LALIGA",
+    "matchday": "31. Kolejka",
+    "home_team": "Real Sociedad",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Claudio Bravo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Víctor López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ion Ansotegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Garrido",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gerardo García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juanito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gaizka Garitano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Xabi Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sávio",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Iñigo Díaz de Cerio",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Darko Kovacevic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mikel Aranburu",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Germán Herrera",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabiano Eller",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/rcd-espanyol_atlético-madryt/aufstellung/spielbericht/58737",
+    "match_id": "58737",
+    "date": "niedz., 06.05.2007",
+    "competition": "LALIGA",
+    "matchday": "33. Kolejka",
+    "home_team": "RCD Espanyol",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Carlos Kameni",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Dani Jarque",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Chica",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mari Lacruz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Zabaleta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Moisés Hurtado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ángel Martínez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Moha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Francisco Rufete",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Walter Pandiani",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David García",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Julián López de Lerma",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Ferrán Corominas",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Iván Cuéllar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabiano Eller",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Martin Petrov",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Maxi Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/real-madryt_atlético-madryt/aufstellung/spielbericht/58459",
+    "match_id": "58459",
+    "date": "niedz., 01.10.2006",
+    "competition": "LALIGA",
+    "matchday": "5. Kolejka",
+    "home_team": "Real Madryt",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Iker Casillas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Fabio Cannavaro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Álvaro Mejía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Roberto Carlos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Sergio Ramos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Mahamadou Diarra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Emerson",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Guti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Raúl",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "José Antonio Reyes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Ruud van Nistelrooy",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Raúl Bravo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "David Beckham",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "Ronaldo",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "25",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Martin Petrov",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Maxi Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/getafe-cf_atlético-madryt/aufstellung/spielbericht/58749",
+    "match_id": "58749",
+    "date": "niedz., 13.05.2007",
+    "competition": "LALIGA",
+    "matchday": "34. Kolejka",
+    "home_team": "Getafe CF",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Roberto Abbondanzieri",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Manuel Tena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Belenguer",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Paredes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Nacho",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Cosmin Contra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Casquero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabio Celestini",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Redondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Dani Güiza",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Manu del Moral",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Albín",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Ángel Vivar Dorado",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Sergio Pachón",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Iván Cuéllar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabiano Eller",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Martin Petrov",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Maxi Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_ca-osasuna/aufstellung/spielbericht/58596",
+    "match_id": "58596",
+    "date": "niedz., 21.01.2007",
+    "competition": "LALIGA",
+    "matchday": "19. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "CA Osasuna",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Iván Cuéllar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Ricardo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Carlos Cuéllar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Miguel Flaño",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Enrique Corrales",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Izquierdo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javad Nekounam",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Héctor Font",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pierre Webó",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "César Cruchaga",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Valdo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Roberto Soldado",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/recreativo-huelva_atlético-madryt/aufstellung/spielbericht/58661",
+    "match_id": "58661",
+    "date": "niedz., 04.03.2007",
+    "competition": "LALIGA",
+    "matchday": "25. Kolejka",
+    "home_team": "Recreativo Huelva",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Javier López Vallejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Merino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "César Arzo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mario Abrante",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Dani Bautista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Santi Cazorla",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Rafa Barber",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jesús Vázquez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juanma",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Florent Sinama-Pongolle",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ikechukwu Uche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aitor Tornavaca",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Emilio Viqueira",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Javi Guerrero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Valera",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/villarreal-cf_atlético-madryt/aufstellung/spielbericht/58704",
+    "match_id": "58704",
+    "date": "niedz., 08.04.2007",
+    "competition": "LALIGA",
+    "matchday": "29. Kolejka",
+    "home_team": "Villarreal CF",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Sebastián Viera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pascal Cygan",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabricio Fuentes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josemi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Enrique",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josico",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Marcos Senna",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Marquitos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Matías Fernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Diego Forlán",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Guillermo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Robert Pirès",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Cani",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "José Mari",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabiano Eller",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/valencia-cf_atlético-madryt/aufstellung/spielbericht/58625",
+    "match_id": "58625",
+    "date": "sob., 03.02.2007",
+    "competition": "LALIGA",
+    "matchday": "21. Kolejka",
+    "home_team": "Valencia CF",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Santiago Cañizares",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Emiliano Moretti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Raúl Albiol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Roberto Ayala",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Carlos Marchena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Miguel",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Albelda",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Silva",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Vicente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Villa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Morientes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ludovic Butelle",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Joaquín",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Miguel Ángel Angulo",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/racing-santander_atlético-madryt/aufstellung/spielbericht/58423",
+    "match_id": "58423",
+    "date": "niedz., 27.08.2006",
+    "competition": "LALIGA",
+    "matchday": "1. Kolejka",
+    "home_team": "Racing Santander",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Toño",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Pablo Alfaro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Oriol Lozano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Luis Fernández",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Pablo Pinillos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Cristian Álvarez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Gonzalo Colsa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Felipe Melo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Vitolo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Pedro Munitis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Juanjo Expósito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "Momo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Javier Balboa",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "9",
+        "name": "David Aganzo",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "25",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Martin Petrov",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Juan Valera",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "8",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_rcd-mallorca/aufstellung/spielbericht/58686",
+    "match_id": "58686",
+    "date": "niedz., 01.04.2007",
+    "competition": "LALIGA",
+    "matchday": "28. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "RCD Mallorca",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabiano Eller",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Marqués",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Miguel Ángel Moyá",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Ballesteros",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Nunes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Navarro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Héctor Berenguel",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Angelos Basinas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Guillermo Pereyra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Arango",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jonás Gutiérrez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ariel Ibagaza",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Víctor Casadesús",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Tuni",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Diego Tristán",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Maxi López",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_recreativo-huelva/aufstellung/spielbericht/58466",
+    "match_id": "58466",
+    "date": "sob., 14.10.2006",
+    "competition": "LALIGA",
+    "matchday": "6. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Recreativo Huelva",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Martin Petrov",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Javier López Vallejo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mario Abrante",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Amo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Dani Bautista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aitor Tornavaca",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Edu Moya",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Santi Cazorla",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Emilio Viqueira",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jesús Vázquez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Laurenţiu Roşu",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio Calle",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Bertrand Laquait",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "César Arzo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Javi Guerrero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/celta-de-vigo_atlético-madryt/aufstellung/spielbericht/58587",
+    "match_id": "58587",
+    "date": "niedz., 14.01.2007",
+    "competition": "LALIGA",
+    "matchday": "18. Kolejka",
+    "home_team": "Celta de Vigo",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "José Manuel Pinto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Matías Lequi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Gabriel Tamaș",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Diego Placente",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Jonathan Aspas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Borja Oubiña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Jorge Larena",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Nenê",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Antonio Guayre",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Fabián Canobbio",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Baiano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Gustavo López",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "14",
+        "name": "Jesús Perera",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Iván Cuéllar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "27",
+        "name": "Jacobo Ynclán",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/levante-ud_atlético-madryt/aufstellung/spielbericht/2283302",
+    "match_id": "2283302",
+    "date": "śr., 13.12.2006",
+    "competition": "Unknown",
+    "matchday": "Unknown",
+    "home_team": "Levante UD",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Pablo Cavallero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Álvaro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Frédéric Déhu",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Luis Rubiales",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Zé Maria",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Iñaki Descarga",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Diego Camacho",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Damiano Tommasi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Laurent Courtois",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Riga Mustapha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Péguy Luyindula",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "César Martín",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "8",
+        "name": "Olivier Kapo",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "18",
+        "name": "Carmelo",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "25",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "22",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Juan Valera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/athletic-bilbao_atlético-madryt/aufstellung/spielbericht/58439",
+    "match_id": "58439",
+    "date": "niedz., 17.09.2006",
+    "competition": "LALIGA",
+    "matchday": "3. Kolejka",
+    "home_team": "Athletic Bilbao",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Daniel Aranzubia",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Amorebieta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ander Murillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josu Sarriegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Prieto",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andoni Iraola",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Tiko",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Igor Gabilondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fran Yeste",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ismael Urzaiz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aritz Aduriz",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Martínez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Joseba Garmendia",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Fernando Llorente",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Martin Petrov",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maxi Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_real-betis-balompié/aufstellung/spielbericht/58727",
+    "match_id": "58727",
+    "date": "sob., 28.04.2007",
+    "competition": "LALIGA",
+    "matchday": "32. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Real Betis Balompié",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Iván Cuéllar",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Martin Petrov",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Rufino Segovia",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Toni Doblas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Nano Rivas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Melli",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juanito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Isidoro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Miguel Ángel",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Alberto Rivera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Marcos Assunção",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Capi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Robert",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Johann Vogel",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "David Odonkor",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Rafael Sóbis",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_real-sociedad/aufstellung/spielbericht/58527",
+    "match_id": "58527",
+    "date": "sob., 25.11.2006",
+    "competition": "LALIGA",
+    "matchday": "12. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Real Sociedad",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Claudio Bravo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ion Ansotegi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mikel González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aitor López Rekarte",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gerardo García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juanito",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gaizka Garitano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mikel Aranburu",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Álvaro Novo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jesuli",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gari Uranga",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Garrido",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Mikel Alonso",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Iñigo Díaz de Cerio",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_fc-barcelona/aufstellung/spielbericht/58756",
+    "match_id": "58756",
+    "date": "niedz., 20.05.2007",
+    "competition": "LALIGA",
+    "matchday": "35. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "FC Barcelona",
+    "home_players": [
+      {
+        "number": "1",
+        "name": "Iván Cuéllar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Fabiano Eller",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Martin Petrov",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Maxi Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "23",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Víctor Valdés",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Carles Puyol",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Lilian Thuram",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Giovanni van Bronckhorst",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Gianluca Zambrotta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "Edmílson",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Xavi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Deco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Ronaldinho",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Lionel Messi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Samuel Eto'o",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Thiago Motta",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "24",
+        "name": "Andrés Iniesta",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Eidur Gudjohnsen",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/gimnàstic-de-tarragona_atlético-madryt/aufstellung/spielbericht/58769",
+    "match_id": "58769",
+    "date": "niedz., 27.05.2007",
+    "competition": "LALIGA",
+    "matchday": "36. Kolejka",
+    "home_team": "Gimnàstic de Tarragona",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Rubén Pérez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aníbal Matellán",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "César Navas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Marco Ortega",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Calvo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sebastien Chabaud",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Generelo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Alejandro Campano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Portillo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Irurzun",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Rubén Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Carlos Merino",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Gil",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Ariza Makukula",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabiano Eller",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Martin Petrov",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maxi Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/ca-osasuna_atlético-madryt/aufstellung/spielbericht/2283272",
+    "match_id": "2283272",
+    "date": "śr., 17.01.2007",
+    "competition": "Unknown",
+    "matchday": "Unknown",
+    "home_team": "CA Osasuna",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "13",
+        "name": "Ricardo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "César Cruchaga",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Josetxo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "19",
+        "name": "Enrique Corrales",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "17",
+        "name": "Javier Flaño",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Patxi Puñal",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "24",
+        "name": "Javad Nekounam",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "David López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "11",
+        "name": "Valdo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Savo Milosevic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Roberto Soldado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Juanfran Torres",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "6",
+        "name": "Raúl García",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Pierre Webó",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Iván Cuéllar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "3",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "7",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "10",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_levante-ud/aufstellung/spielbericht/2283319",
+    "match_id": "2283319",
+    "date": "wt., 24.10.2006",
+    "competition": "Unknown",
+    "matchday": "Unknown",
+    "home_team": "Atlético Madryt",
+    "away_team": "Levante UD",
+    "home_players": [
+      {
+        "number": "25",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "14",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "4",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "2",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "15",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Juan Valera",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "7",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "1",
+        "name": "Pablo Cavallero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "16",
+        "name": "César Martín",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "20",
+        "name": "Frédéric Déhu",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "21",
+        "name": "Laurent Courtois",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "23",
+        "name": "Iñaki Descarga",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "12",
+        "name": "Mathieu Berson",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "6",
+        "name": "Sylvain N'Diaye",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "18",
+        "name": "Carmelo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "8",
+        "name": "Olivier Kapo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "10",
+        "name": "Riga Mustapha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "9",
+        "name": "Nino",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "5",
+        "name": "Álvaro",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "15",
+        "name": "Damiano Tommasi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "19",
+        "name": "Péguy Luyindula",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_deportivo-de-la-coruña/aufstellung/spielbericht/58666",
+    "match_id": "58666",
+    "date": "niedz., 11.03.2007",
+    "competition": "LALIGA",
+    "matchday": "26. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Deportivo de La Coruña",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabiano Eller",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Valera",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Dudu Aouate",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Alberto Lopo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabricio Coloccini",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Joan Capdevila",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Manuel Pablo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Julian de Guzmán",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabián Estoyanoff",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Cristian Hidalgo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Riki",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Arizmendi",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Joan Verdú",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Sebastián Taborda",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_getafe-cf/aufstellung/spielbericht/58556",
+    "match_id": "58556",
+    "date": "niedz., 17.12.2006",
+    "competition": "LALIGA",
+    "matchday": "15. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Getafe CF",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Roberto Abbondanzieri",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Alexis Ruano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Rubén Pulido",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Alberto Aguilar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javier Paredes",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Cosmin Contra",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Casquero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fabio Celestini",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Redondo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Dani Güiza",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Manu del Moral",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Sousa",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Sergio Pachón",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Veljko Paunovic",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_sevilla-fc/aufstellung/spielbericht/58446",
+    "match_id": "58446",
+    "date": "niedz., 24.09.2006",
+    "competition": "LALIGA",
+    "matchday": "4. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Sevilla FC",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Martin Petrov",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maxi Rodríguez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Andrés Palop",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Julien Escudé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Navarro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio Puerta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Adriano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Dani Alves",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josep Lluís Martí",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Christian Poulsen",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Renato",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jesús Navas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Frédéric Kanouté",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ivica Dragutinovic",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Aitor Ocio",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Enzo Maresca",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_rcd-espanyol/aufstellung/spielbericht/58547",
+    "match_id": "58547",
+    "date": "niedz., 10.12.2006",
+    "competition": "LALIGA",
+    "matchday": "14. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "RCD Espanyol",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Carlos Kameni",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Dani Jarque",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Marc Torrejón",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Javi Chica",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Zabaleta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Moisés Hurtado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis García",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Moha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Iván de la Peña",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Francisco Rufete",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Raúl Tamudo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Juan Velasco",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Eduardo Costa",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Walter Pandiani",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/atlético-madryt_racing-santander/aufstellung/spielbericht/58606",
+    "match_id": "58606",
+    "date": "niedz., 28.01.2007",
+    "competition": "LALIGA",
+    "matchday": "20. Kolejka",
+    "home_team": "Atlético Madryt",
+    "away_team": "Racing Santander",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Iván Cuéllar",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Zé Castro",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio López",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Toño",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Ezequiel Garay",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Oriol Lozano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Rubén González",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Pinillos",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Lionel Scaloni",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gonzalo Colsa",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Vitolo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Óscar Serrano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pedro Munitis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Nikola Zigic",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio Tomás",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Javier Balboa",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Juanjo Expósito",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  },
+  {
+    "url": "https://www.transfermarkt.pl/sevilla-fc_atlético-madryt/aufstellung/spielbericht/58643",
+    "match_id": "58643",
+    "date": "niedz., 18.02.2007",
+    "competition": "LALIGA",
+    "matchday": "23. Kolejka",
+    "home_team": "Sevilla FC",
+    "away_team": "Atlético Madryt",
+    "home_players": [
+      {
+        "number": "-",
+        "name": "Andrés Palop",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Julien Escudé",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Aitor Ocio",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "David Castedo",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Antonio Puerta",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Dani Alves",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Josep Lluís Martí",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Renato",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Jesús Navas",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Frédéric Kanouté",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luís Fabiano",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Andreas Hinkel",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Christian Poulsen",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Duda",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ],
+    "away_players": [
+      {
+        "number": "-",
+        "name": "Leo Franco",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Pablo Ibáñez",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Luis Amaranto Perea",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mariano Pernía",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Georgios Seitaridis",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Costinha",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Peter Luccin",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Maniche",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Mista",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Sergio Agüero",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Fernando Torres",
+        "substituted_in": true,
+        "starting_lineup": true
+      },
+      {
+        "number": "-",
+        "name": "Gabi",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "José Manuel Jurado",
+        "substituted_in": true,
+        "starting_lineup": false
+      },
+      {
+        "number": "-",
+        "name": "Luciano Galletti",
+        "substituted_in": true,
+        "starting_lineup": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,2474 @@
+====================================================================================================
+                        FOOTBALL TEAM - SEASON MATCHES REPORT
+====================================================================================================
+
+📅 Generated: 2025-12-10 11:56:43
+⚽ Total matches: 40
+👥 Total players tracked: 1259
+📊 Average players per match: 31.5
+
+🏆 Competitions breakdown:
+   • LALIGA: 38 matches
+   • Unknown: 2 matches
+
+====================================================================================================
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #01
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Real Madryt
+📅 DATE:  sob., 15.03.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 28. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_real-madryt/aufstellung/spielbericht/4407531
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        2. Logan Costa
+        5. Willy Kambwala
+       23. Sergi Cardona
+        8. Juan Foyth
+       18. Pape Gueye
+       14. Santi Comesaña
+       16. Álex Baena
+        9. Tajon Buchanan
+       19. Nicolas Pépé
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (5):
+       24. Alfonso Pedraza
+       10. Dani Parejo
+        6. Denis Suárez
+       21. Yéremy Pino
+       15. Thierno Barry
+
+✈️  REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Thibaut Courtois
+       35. Raúl Asencio
+       14. Aurélien Tchouaméni
+       20. Fran García
+       17. Lucas Vázquez
+        6. Eduardo Camavinga
+        8. Federico Valverde
+        5. Jude Bellingham
+       11. Rodrygo
+       21. Brahim Díaz
+        9. Kylian Mbappé
+
+   🔄 SUBSTITUTES IN (4):
+       22. Antonio Rüdiger
+       10. Luka Modrić
+       15. Arda Güler
+        7. Vinicius Junior
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 15.03.2025|LALIGA|28. Kolejka|Villarreal CF|Real Madryt|Diego Conde|Logan Costa|Willy Kambwala|Sergi Cardona|Juan Foyth|Pape Gueye|Santi Comesaña|Álex Baena|Tajon Buchanan|Nicolas Pépé|Ayoze Pérez|Alfonso Pedraza|Dani Parejo|Denis Suárez|Yéremy Pino|Thierno Barry|Thibaut Courtois|Raúl Asencio|Aurélien Tchouaméni|Fran García|Lucas Vázquez|Eduardo Camavinga|Federico Valverde|Jude Bellingham|Rodrygo|Brahim Díaz|Kylian Mbappé|Antonio Rüdiger|Luka Modrić|Arda Güler|Vinicius Junior
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #02
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Valencia CF
+📅 DATE:  sob., 15.02.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 24. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_valencia-cf/aufstellung/spielbericht/4407761
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        2. Logan Costa
+        8. Juan Foyth
+       23. Sergi Cardona
+       26. Pau Navarro
+       18. Pape Gueye
+       10. Dani Parejo
+       16. Álex Baena
+       21. Yéremy Pino
+       19. Nicolas Pépé
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (4):
+       14. Santi Comesaña
+        6. Denis Suárez
+        9. Tajon Buchanan
+       15. Thierno Barry
+
+✈️  VALENCIA CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Giorgi Mamardashvili
+        3. Cristhian Mosquera
+       15. César Tárrega
+       14. José Gayà
+       20. Dimitri Foulquier
+       18. Pepelu
+        8. Javi Guerra
+       10. André Almeida
+       22. Luis Rioja
+       16. Diego López
+        9. Hugo Duro
+
+   🔄 SUBSTITUTES IN (4):
+       17. Iván Jaime
+       23. Fran Pérez
+       11. Rafa Mir
+       12. Umar Sadiq
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 15.02.2025|LALIGA|24. Kolejka|Villarreal CF|Valencia CF|Diego Conde|Logan Costa|Juan Foyth|Sergi Cardona|Pau Navarro|Pape Gueye|Dani Parejo|Álex Baena|Yéremy Pino|Nicolas Pépé|Ayoze Pérez|Santi Comesaña|Denis Suárez|Tajon Buchanan|Thierno Barry|Giorgi Mamardashvili|Cristhian Mosquera|César Tárrega|José Gayà|Dimitri Foulquier|Pepelu|Javi Guerra|André Almeida|Luis Rioja|Diego López|Hugo Duro|Iván Jaime|Fran Pérez|Rafa Mir|Umar Sadiq
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #03
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  UD Poblense
+✈️  AWAY:  Villarreal CF
+📅 DATE:  wt., 29.10.2024
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/ud-poblense_villarreal-cf/aufstellung/spielbericht/4472358
+
+----------------------------------------------------------------------------------------------------
+
+🏠 UD POBLENSE - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Vicente Sabater
+        3. Pep Payeras
+        6. Joan Salvá
+       15. Pep Vidal
+       20. Juan Suasi
+        2. Juan Cifré
+       18. Gori López
+        8. Miguel Soler
+       21. Dieguito
+       11. Aitor Pons
+       19. Alberto Fernández
+
+   🔄 SUBSTITUTES IN (5):
+       14. Dani Rigo
+       10. Miki Capellà
+       27. Ayoub El Mkadmi
+        7. Marco Alarcón
+        9. Miquel Llabrés
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        2. Logan Costa
+        5. Willy Kambwala
+       12. Juan Bernat
+       26. Pau Navarro
+       10. Dani Parejo
+       18. Pape Gueye
+       20. Ramón Terrats
+       22. Ayoze Pérez
+       21. Yéremy Pino
+       33. Pau Cabanes
+
+   🔄 SUBSTITUTES IN (5):
+       37. Jean Ives Valou
+       14. Santi Comesaña
+       16. Álex Baena
+       11. Ilias Akhomach
+       15. Thierno Barry
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+wt., 29.10.2024|Unknown|Unknown|UD Poblense|Villarreal CF|Vicente Sabater|Pep Payeras|Joan Salvá|Pep Vidal|Juan Suasi|Juan Cifré|Gori López|Miguel Soler|Dieguito|Aitor Pons|Alberto Fernández|Dani Rigo|Miki Capellà|Ayoub El Mkadmi|Marco Alarcón|Miquel Llabrés|Luiz Júnior|Logan Costa|Willy Kambwala|Juan Bernat|Pau Navarro|Dani Parejo|Pape Gueye|Ramón Terrats|Ayoze Pérez|Yéremy Pino|Pau Cabanes|Jean Ives Valou|Santi Comesaña|Álex Baena|Ilias Akhomach|Thierno Barry
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #04
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Pontevedra CF
+✈️  AWAY:  Villarreal CF
+📅 DATE:  śr., 04.12.2024
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/pontevedra-cf_villarreal-cf/aufstellung/spielbericht/4500190
+
+----------------------------------------------------------------------------------------------------
+
+🏠 PONTEVEDRA CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Manu Vizoso
+        5. Mario Gómez
+       19. Benjamín Garay
+       23. Héctor Hernández
+        2. Javi Fontán
+       14. Samu Mayo
+       10. Yelko Pino
+        8. Iago Novo
+       11. Chiqui
+       17. Xabi Dominguez
+       21. Carlos López
+
+   🔄 SUBSTITUTES IN (4):
+       22. Rareș Mezdrea
+       18. Dalisson de Almeida
+        7. Álex González
+        9. Rufo Sánchez
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        2. Logan Costa
+        5. Willy Kambwala
+       12. Juan Bernat
+       26. Pau Navarro
+       32. Alassane Diatta
+       10. Dani Parejo
+        6. Denis Suárez
+       33. Pau Cabanes
+        7. Gerard Moreno
+       15. Thierno Barry
+
+   🔄 SUBSTITUTES IN (5):
+        3. Raúl Albiol
+       23. Sergi Cardona
+       18. Pape Gueye
+       14. Santi Comesaña
+       22. Ayoze Pérez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 04.12.2024|Unknown|Unknown|Pontevedra CF|Villarreal CF|Manu Vizoso|Mario Gómez|Benjamín Garay|Héctor Hernández|Javi Fontán|Samu Mayo|Yelko Pino|Iago Novo|Chiqui|Xabi Dominguez|Carlos López|Rareș Mezdrea|Dalisson de Almeida|Álex González|Rufo Sánchez|Luiz Júnior|Logan Costa|Willy Kambwala|Juan Bernat|Pau Navarro|Alassane Diatta|Dani Parejo|Denis Suárez|Pau Cabanes|Gerard Moreno|Thierno Barry|Raúl Albiol|Sergi Cardona|Pape Gueye|Santi Comesaña|Ayoze Pérez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #05
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Real Sociedad
+📅 DATE:  niedz., 20.04.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 32. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_real-sociedad/aufstellung/spielbericht/4407641
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        2. Logan Costa
+        8. Juan Foyth
+       23. Sergi Cardona
+       17. Kiko Femenía
+       14. Santi Comesaña
+       10. Dani Parejo
+        6. Denis Suárez
+       21. Yéremy Pino
+       15. Thierno Barry
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (4):
+       24. Alfonso Pedraza
+       18. Pape Gueye
+       19. Nicolas Pépé
+       36. Karl Etta Eyong
+
+✈️  REAL SOCIEDAD - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Álex Remiro
+        6. Aritz Elustondo
+       31. Jon Martín
+        3. Aihen Muñoz
+       18. Hamari Traoré
+       22. Beñat Turrientes
+       24. Luka Sucic
+       28. Pablo Marín
+       17. Sergio Gómez
+       14. Takefusa Kubo
+       10. Mikel Oyarzabal
+
+   🔄 SUBSTITUTES IN (5):
+       20. Jon Pacheco
+       12. Javi López
+       19. Jon Aramburu
+       16. Jon Ander Olasagasti
+       23. Brais Méndez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 20.04.2025|LALIGA|32. Kolejka|Villarreal CF|Real Sociedad|Luiz Júnior|Logan Costa|Juan Foyth|Sergi Cardona|Kiko Femenía|Santi Comesaña|Dani Parejo|Denis Suárez|Yéremy Pino|Thierno Barry|Ayoze Pérez|Alfonso Pedraza|Pape Gueye|Nicolas Pépé|Karl Etta Eyong|Álex Remiro|Aritz Elustondo|Jon Martín|Aihen Muñoz|Hamari Traoré|Beñat Turrientes|Luka Sucic|Pablo Marín|Sergio Gómez|Takefusa Kubo|Mikel Oyarzabal|Jon Pacheco|Javi López|Jon Aramburu|Jon Ander Olasagasti|Brais Méndez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #06
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  CA Osasuna
+✈️  AWAY:  Villarreal CF
+📅 DATE:  niedz., 24.11.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 14. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/ca-osasuna_villarreal-cf/aufstellung/spielbericht/4407646
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CA OSASUNA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Sergio Herrera
+       22. Enzo Boyomo
+       24. Alejandro Catena
+        3. Juan Cruz
+       12. Jesús Areso
+        6. Lucas Torró
+        7. Jon Moncayola
+       10. Aimar Oroz
+       19. Bryan Zaragoza
+       14. Rubén García
+       17. Ante Budimir
+
+   🔄 SUBSTITUTES IN (5):
+       23. Abel Bretones
+       15. Rubén Peña
+       18. Iker Muñoz
+       16. Moi Gómez
+        9. Raúl García
+
+✈️  VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        2. Logan Costa
+        3. Raúl Albiol
+       23. Sergi Cardona
+       26. Pau Navarro
+       14. Santi Comesaña
+       10. Dani Parejo
+       20. Ramón Terrats
+       16. Álex Baena
+       21. Yéremy Pino
+       15. Thierno Barry
+
+   🔄 SUBSTITUTES IN (4):
+       12. Juan Bernat
+        6. Denis Suárez
+        7. Gerard Moreno
+       33. Pau Cabanes
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 24.11.2024|LALIGA|14. Kolejka|CA Osasuna|Villarreal CF|Sergio Herrera|Enzo Boyomo|Alejandro Catena|Juan Cruz|Jesús Areso|Lucas Torró|Jon Moncayola|Aimar Oroz|Bryan Zaragoza|Rubén García|Ante Budimir|Abel Bretones|Rubén Peña|Iker Muñoz|Moi Gómez|Raúl García|Diego Conde|Logan Costa|Raúl Albiol|Sergi Cardona|Pau Navarro|Santi Comesaña|Dani Parejo|Ramón Terrats|Álex Baena|Yéremy Pino|Thierno Barry|Juan Bernat|Denis Suárez|Gerard Moreno|Pau Cabanes
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #07
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Rayo Vallecano
+📅 DATE:  śr., 18.12.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 12. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_rayo-vallecano/aufstellung/spielbericht/4407700
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        2. Logan Costa
+        5. Willy Kambwala
+       23. Sergi Cardona
+       26. Pau Navarro
+       18. Pape Gueye
+       14. Santi Comesaña
+        6. Denis Suárez
+       21. Yéremy Pino
+       15. Thierno Barry
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (5):
+        8. Juan Foyth
+       12. Juan Bernat
+       38. Thiago Ojeda
+        7. Gerard Moreno
+       33. Pau Cabanes
+
+✈️  RAYO VALLECANO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Augusto Batalla
+       16. Abdul Mumin
+       24. Florian Lejeune
+       22. Alfonso Espino
+       20. Iván Balliu
+        4. Pedro Díaz
+       23. Óscar Valentín
+        8. Óscar Trejo
+       18. Álvaro García
+       19. Jorge de Frutos
+       14. Sergio Camello
+
+   🔄 SUBSTITUTES IN (5):
+        3. Pep Chavarría
+        2. Andrei Rațiu
+        6. Pathé Ciss
+       11. Randy Nteka
+        7. Isi Palazón
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 18.12.2024|LALIGA|12. Kolejka|Villarreal CF|Rayo Vallecano|Luiz Júnior|Logan Costa|Willy Kambwala|Sergi Cardona|Pau Navarro|Pape Gueye|Santi Comesaña|Denis Suárez|Yéremy Pino|Thierno Barry|Ayoze Pérez|Juan Foyth|Juan Bernat|Thiago Ojeda|Gerard Moreno|Pau Cabanes|Augusto Batalla|Abdul Mumin|Florian Lejeune|Alfonso Espino|Iván Balliu|Pedro Díaz|Óscar Valentín|Óscar Trejo|Álvaro García|Jorge de Frutos|Sergio Camello|Pep Chavarría|Andrei Rațiu|Pathé Ciss|Randy Nteka|Isi Palazón
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #08
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Valladolid CF
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 26.10.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 11. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-valladolid-cf_villarreal-cf/aufstellung/spielbericht/4407522
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL VALLADOLID CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Karl Hein
+        3. David Torres
+        5. Javi Sánchez
+       22. Lucas Rosa
+        2. Luis Pérez
+       15. Eray Cömert
+       12. Mario Martín
+       21. Selim Amallah
+       11. Raúl Moro
+       23. Anuar
+        7. Mamadou Sylla
+
+   🔄 SUBSTITUTES IN (5):
+        8. Kike Pérez
+        4. Víctor Meseguer
+       24. Kenedy
+       10. Iván Sánchez
+       14. Juanmi Latasa
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        2. Logan Costa
+        3. Raúl Albiol
+       23. Sergi Cardona
+       17. Kiko Femenía
+       14. Santi Comesaña
+       10. Dani Parejo
+       16. Álex Baena
+       11. Ilias Akhomach
+       19. Nicolas Pépé
+       15. Thierno Barry
+
+   🔄 SUBSTITUTES IN (5):
+       12. Juan Bernat
+       18. Pape Gueye
+       20. Ramón Terrats
+       21. Yéremy Pino
+       22. Ayoze Pérez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 26.10.2024|LALIGA|11. Kolejka|Real Valladolid CF|Villarreal CF|Karl Hein|David Torres|Javi Sánchez|Lucas Rosa|Luis Pérez|Eray Cömert|Mario Martín|Selim Amallah|Raúl Moro|Anuar|Mamadou Sylla|Kike Pérez|Víctor Meseguer|Kenedy|Iván Sánchez|Juanmi Latasa|Diego Conde|Logan Costa|Raúl Albiol|Sergi Cardona|Kiko Femenía|Santi Comesaña|Dani Parejo|Álex Baena|Ilias Akhomach|Nicolas Pépé|Thierno Barry|Juan Bernat|Pape Gueye|Ramón Terrats|Yéremy Pino|Ayoze Pérez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #09
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 25.01.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 21. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_villarreal-cf/aufstellung/spielbericht/4407745
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+       24. Robin Le Normand
+       20. Axel Witsel
+       23. Reinildo Mandava
+       16. Nahuel Molina
+        6. Koke
+        8. Pablo Barrios
+        4. Conor Gallagher
+       22. Giuliano Simeone
+       10. Ángel Correa
+       19. Julián Alvarez
+
+   🔄 SUBSTITUTES IN (5):
+        3. César Azpilicueta
+       14. Marcos Llorente
+        5. Rodrigo De Paul
+       12. Samuel Lino
+        7. Antoine Griezmann
+
+✈️  VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        2. Logan Costa
+        5. Willy Kambwala
+       23. Sergi Cardona
+       17. Kiko Femenía
+       18. Pape Gueye
+       14. Santi Comesaña
+       16. Álex Baena
+       21. Yéremy Pino
+        7. Gerard Moreno
+       15. Thierno Barry
+
+   🔄 SUBSTITUTES IN (4):
+        6. Denis Suárez
+       19. Nicolas Pépé
+       22. Ayoze Pérez
+       33. Pau Cabanes
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 25.01.2025|LALIGA|21. Kolejka|Atlético Madryt|Villarreal CF|Jan Oblak|Robin Le Normand|Axel Witsel|Reinildo Mandava|Nahuel Molina|Koke|Pablo Barrios|Conor Gallagher|Giuliano Simeone|Ángel Correa|Julián Alvarez|César Azpilicueta|Marcos Llorente|Rodrigo De Paul|Samuel Lino|Antoine Griezmann|Luiz Júnior|Logan Costa|Willy Kambwala|Sergi Cardona|Kiko Femenía|Pape Gueye|Santi Comesaña|Álex Baena|Yéremy Pino|Gerard Moreno|Thierno Barry|Denis Suárez|Nicolas Pépé|Ayoze Pérez|Pau Cabanes
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #10
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Getafe CF
+✈️  AWAY:  Villarreal CF
+📅 DATE:  niedz., 30.03.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 29. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/getafe-cf_villarreal-cf/aufstellung/spielbericht/4407558
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GETAFE CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. David Soria
+       15. Omar Alderete
+       22. Domingos Duarte
+       16. Diego Rico
+       21. Juan Iglesias
+        2. Dakonam Djené
+        5. Luis Milla
+        8. Mauro Arambarri
+       29. Coba da Costa
+       17. Carles Pérez
+       24. Juanmi
+
+   🔄 SUBSTITUTES IN (5):
+       14. Juan Bernat
+       12. Allan Nyom
+       19. Peter Federico
+       18. Álvaro Rodríguez
+        9. Borja Mayoral
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        5. Willy Kambwala
+        8. Juan Foyth
+       23. Sergi Cardona
+       26. Pau Navarro
+       14. Santi Comesaña
+       10. Dani Parejo
+       16. Álex Baena
+        9. Tajon Buchanan
+       15. Thierno Barry
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (5):
+        2. Logan Costa
+       24. Alfonso Pedraza
+       17. Kiko Femenía
+       21. Yéremy Pino
+        7. Gerard Moreno
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 30.03.2025|LALIGA|29. Kolejka|Getafe CF|Villarreal CF|David Soria|Omar Alderete|Domingos Duarte|Diego Rico|Juan Iglesias|Dakonam Djené|Luis Milla|Mauro Arambarri|Coba da Costa|Carles Pérez|Juanmi|Juan Bernat|Allan Nyom|Peter Federico|Álvaro Rodríguez|Borja Mayoral|Luiz Júnior|Willy Kambwala|Juan Foyth|Sergi Cardona|Pau Navarro|Santi Comesaña|Dani Parejo|Álex Baena|Tajon Buchanan|Thierno Barry|Ayoze Pérez|Logan Costa|Alfonso Pedraza|Kiko Femenía|Yéremy Pino|Gerard Moreno
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #11
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  RCD Espanyol
+📅 DATE:  niedz., 27.04.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 26. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_rcd-espanyol/aufstellung/spielbericht/4407743
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        2. Logan Costa
+        8. Juan Foyth
+       23. Sergi Cardona
+       17. Kiko Femenía
+       14. Santi Comesaña
+       10. Dani Parejo
+       21. Yéremy Pino
+       19. Nicolas Pépé
+       15. Thierno Barry
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (4):
+       24. Alfonso Pedraza
+       18. Pape Gueye
+        6. Denis Suárez
+        9. Tajon Buchanan
+
+✈️  RCD ESPANYOL - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Joan García
+        6. Leandro Cabrera
+        4. Marash Kumbulla
+       22. Carlos Romero
+       23. Omar El Hilali
+       19. Urko González de Zárate
+       20. Alex Král
+        8. Edu Expósito
+        7. Javi Puado
+       31. Antoniu Roca
+        2. Roberto Fernández
+
+   🔄 SUBSTITUTES IN (5):
+       42. Roger Hinojo
+       10. Pol Lozano
+       18. Álvaro Aguado
+       17. Jofre Carreras
+        9. Alejo Veliz
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 27.04.2025|LALIGA|26. Kolejka|Villarreal CF|RCD Espanyol|Luiz Júnior|Logan Costa|Juan Foyth|Sergi Cardona|Kiko Femenía|Santi Comesaña|Dani Parejo|Yéremy Pino|Nicolas Pépé|Thierno Barry|Ayoze Pérez|Alfonso Pedraza|Pape Gueye|Denis Suárez|Tajon Buchanan|Joan García|Leandro Cabrera|Marash Kumbulla|Carlos Romero|Omar El Hilali|Urko González de Zárate|Alex Král|Edu Expósito|Javi Puado|Antoniu Roca|Roberto Fernández|Roger Hinojo|Pol Lozano|Álvaro Aguado|Jofre Carreras|Alejo Veliz
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #12
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Celta de Vigo
+✈️  AWAY:  Villarreal CF
+📅 DATE:  śr., 23.04.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 33. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/celta-de-vigo_villarreal-cf/aufstellung/spielbericht/4407618
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CELTA DE VIGO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Vicente Guaita
+       20. Marcos Alonso
+       24. Carlos Domínguez
+       29. Yoel Lago
+        3. Óscar Mingueza
+       23. Hugo Álvarez
+       25. Damián Rodríguez
+        8. Fran Beltrán
+       12. Alfon González
+       28. Fer López
+        7. Borja Iglesias
+
+   🔄 SUBSTITUTES IN (5):
+       32. Javi Rodríguez
+        5. Sergio Carreira
+        6. Ilaix Moriba
+       14. Iker Losada
+       10. Iago Aspas
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        4. Eric Bailly
+        5. Willy Kambwala
+       24. Alfonso Pedraza
+       17. Kiko Femenía
+       18. Pape Gueye
+       14. Santi Comesaña
+        6. Denis Suárez
+       21. Yéremy Pino
+       19. Nicolas Pépé
+       15. Thierno Barry
+
+   🔄 SUBSTITUTES IN (5):
+        2. Logan Costa
+       26. Pau Navarro
+       10. Dani Parejo
+        9. Tajon Buchanan
+       22. Ayoze Pérez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 23.04.2025|LALIGA|33. Kolejka|Celta de Vigo|Villarreal CF|Vicente Guaita|Marcos Alonso|Carlos Domínguez|Yoel Lago|Óscar Mingueza|Hugo Álvarez|Damián Rodríguez|Fran Beltrán|Alfon González|Fer López|Borja Iglesias|Javi Rodríguez|Sergio Carreira|Ilaix Moriba|Iker Losada|Iago Aspas|Luiz Júnior|Eric Bailly|Willy Kambwala|Alfonso Pedraza|Kiko Femenía|Pape Gueye|Santi Comesaña|Denis Suárez|Yéremy Pino|Nicolas Pépé|Thierno Barry|Logan Costa|Pau Navarro|Dani Parejo|Tajon Buchanan|Ayoze Pérez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #13
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Sevilla FC
+✈️  AWAY:  Villarreal CF
+📅 DATE:  pt., 23.08.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 2. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/sevilla-fc_villarreal-cf/aufstellung/spielbericht/4361558
+
+----------------------------------------------------------------------------------------------------
+
+🏠 SEVILLA FC - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Ørjan Nyland
+        4. Kike Salas
+       22. Loïc Badé
+        3. Adrià Pedrosa
+       32. José Ángel Carmona
+       18. Lucien Agoumé
+       26. Juanlu Sánchez
+       17. Saúl Ñíguez
+        5. Lucas Ocampos
+       11. Dodi Lukébakio
+        7. Isaac Romero
+
+   🔄 SUBSTITUTES IN (5):
+       23. Marcão
+       20. Djibril Sow
+       16. Jesús Navas
+       21. Chidera Ejuke
+        9. Kelechi Iheanacho
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        4. Eric Bailly
+        5. Willy Kambwala
+       23. Sergi Cardona
+       17. Kiko Femenía
+       18. Pape Gueye
+       14. Santi Comesaña
+       16. Álex Baena
+       11. Ilias Akhomach
+        9. Arnaut Danjuma
+       19. Nicolas Pépé
+
+   🔄 SUBSTITUTES IN (5):
+        3. Raúl Albiol
+       10. Dani Parejo
+       21. Yéremy Pino
+       15. Thierno Barry
+       22. Ayoze Pérez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pt., 23.08.2024|LALIGA|2. Kolejka|Sevilla FC|Villarreal CF|Ørjan Nyland|Kike Salas|Loïc Badé|Adrià Pedrosa|José Ángel Carmona|Lucien Agoumé|Juanlu Sánchez|Saúl Ñíguez|Lucas Ocampos|Dodi Lukébakio|Isaac Romero|Marcão|Djibril Sow|Jesús Navas|Chidera Ejuke|Kelechi Iheanacho|Diego Conde|Eric Bailly|Willy Kambwala|Sergi Cardona|Kiko Femenía|Pape Gueye|Santi Comesaña|Álex Baena|Ilias Akhomach|Arnaut Danjuma|Nicolas Pépé|Raúl Albiol|Dani Parejo|Yéremy Pino|Thierno Barry|Ayoze Pérez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #14
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Betis Balompié
+✈️  AWAY:  Villarreal CF
+📅 DATE:  niedz., 13.04.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 31. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-betis-balompié_villarreal-cf/aufstellung/spielbericht/4407626
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL BETIS BALOMPIÉ - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Adrián
+        3. Diego Llorente
+        5. Marc Bartra
+       15. Romain Perraud
+       24. Aitor Ruibal
+        4. Johnny Cardoso
+       18. Pablo Fornals
+       22. Isco
+       36. Jesús Rodríguez
+        7. Antony
+       19. Cucho Hernández
+
+   🔄 SUBSTITUTES IN (5):
+        6. Natan
+       14. William Carvalho
+       16. Sergi Altimira
+       20. Giovani Lo Celso
+       11. Cédric Bakambu
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        2. Logan Costa
+        8. Juan Foyth
+       23. Sergi Cardona
+       17. Kiko Femenía
+       14. Santi Comesaña
+       10. Dani Parejo
+       24. Alfonso Pedraza
+       21. Yéremy Pino
+       15. Thierno Barry
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (5):
+        4. Eric Bailly
+        5. Willy Kambwala
+       27. Arnau Solà
+        6. Denis Suárez
+       19. Nicolas Pépé
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 13.04.2025|LALIGA|31. Kolejka|Real Betis Balompié|Villarreal CF|Adrián|Diego Llorente|Marc Bartra|Romain Perraud|Aitor Ruibal|Johnny Cardoso|Pablo Fornals|Isco|Jesús Rodríguez|Antony|Cucho Hernández|Natan|William Carvalho|Sergi Altimira|Giovani Lo Celso|Cédric Bakambu|Luiz Júnior|Logan Costa|Juan Foyth|Sergi Cardona|Kiko Femenía|Santi Comesaña|Dani Parejo|Alfonso Pedraza|Yéremy Pino|Thierno Barry|Ayoze Pérez|Eric Bailly|Willy Kambwala|Arnau Solà|Denis Suárez|Nicolas Pépé
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #15
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  pon., 19.08.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 1. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_atlético-madryt/aufstellung/spielbericht/4361549
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        3. Raúl Albiol
+        4. Eric Bailly
+       23. Sergi Cardona
+       17. Kiko Femenía
+       14. Santi Comesaña
+       10. Dani Parejo
+       16. Álex Baena
+       21. Yéremy Pino
+        9. Arnaut Danjuma
+        7. Gerard Moreno
+
+   🔄 SUBSTITUTES IN (5):
+       18. Pape Gueye
+       20. Ramón Terrats
+       11. Ilias Akhomach
+       19. Nicolas Pépé
+       22. Ayoze Pérez
+
+✈️  ATLÉTICO MADRYT - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        3. César Azpilicueta
+       24. Robin Le Normand
+       20. Axel Witsel
+        6. Koke
+        8. Pablo Barrios
+       14. Marcos Llorente
+       23. Reinildo Mandava
+       12. Samuel Lino
+        7. Antoine Griezmann
+        9. Alexander Sørloth
+
+   🔄 SUBSTITUTES IN (5):
+        2. José María Giménez
+       16. Nahuel Molina
+        5. Rodrigo De Paul
+       10. Ángel Correa
+       19. Julián Alvarez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pon., 19.08.2024|LALIGA|1. Kolejka|Villarreal CF|Atlético Madryt|Diego Conde|Raúl Albiol|Eric Bailly|Sergi Cardona|Kiko Femenía|Santi Comesaña|Dani Parejo|Álex Baena|Yéremy Pino|Arnaut Danjuma|Gerard Moreno|Pape Gueye|Ramón Terrats|Ilias Akhomach|Nicolas Pépé|Ayoze Pérez|Jan Oblak|César Azpilicueta|Robin Le Normand|Axel Witsel|Koke|Pablo Barrios|Marcos Llorente|Reinildo Mandava|Samuel Lino|Antoine Griezmann|Alexander Sørloth|José María Giménez|Nahuel Molina|Rodrigo De Paul|Ángel Correa|Julián Alvarez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #16
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  CD Leganés
+📅 DATE:  śr., 14.05.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 36. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_cd-leganés/aufstellung/spielbericht/4407583
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        2. Logan Costa
+        8. Juan Foyth
+       24. Alfonso Pedraza
+       26. Pau Navarro
+       18. Pape Gueye
+       10. Dani Parejo
+       16. Álex Baena
+       21. Yéremy Pino
+       19. Nicolas Pépé
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (5):
+        5. Willy Kambwala
+       23. Sergi Cardona
+       14. Santi Comesaña
+        9. Tajon Buchanan
+       36. Karl Etta Eyong
+
+✈️  CD LEGANÉS - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Marko Dmitrovic
+        3. Jorge Sáenz
+       20. Javi Hernández
+       12. Valentin Rosier
+        5. Renato Tapia
+       17. Yvan Neyou
+        2. Adrià Altimira
+       30. Yan Diomande
+        8. Seydouba Cissé
+       10. Dani Raba
+       19. Diego García
+
+   🔄 SUBSTITUTES IN (5):
+        6. Sergio González
+       14. Darko Brasanac
+       23. Munir El Haddadi
+        7. Óscar Rodríguez
+        9. Miguel de la Fuente
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 14.05.2025|LALIGA|36. Kolejka|Villarreal CF|CD Leganés|Luiz Júnior|Logan Costa|Juan Foyth|Alfonso Pedraza|Pau Navarro|Pape Gueye|Dani Parejo|Álex Baena|Yéremy Pino|Nicolas Pépé|Ayoze Pérez|Willy Kambwala|Sergi Cardona|Santi Comesaña|Tajon Buchanan|Karl Etta Eyong|Marko Dmitrovic|Jorge Sáenz|Javi Hernández|Valentin Rosier|Renato Tapia|Yvan Neyou|Adrià Altimira|Yan Diomande|Seydouba Cissé|Dani Raba|Diego García|Sergio González|Darko Brasanac|Munir El Haddadi|Óscar Rodríguez|Miguel de la Fuente
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #17
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Girona FC
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 10.05.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 35. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/girona-fc_villarreal-cf/aufstellung/spielbericht/4407598
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GIRONA FC - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Paulo Gazzaniga
+       18. Ladislav Krejci
+        5. David López
+       17. Daley Blind
+        4. Arnau Martínez
+       12. Arthur Melo
+       21. Yangel Herrera
+       23. Iván Martín
+       24. Portu
+        8. Viktor Tsygankov
+        7. Cristhian Stuani
+
+   🔄 SUBSTITUTES IN (5):
+       16. Alejandro Francés
+       22. Jhon Solís
+       10. Yáser Asprilla
+       19. Bojan Miovski
+        9. Abel Ruiz
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        2. Logan Costa
+        8. Juan Foyth
+       23. Sergi Cardona
+       26. Pau Navarro
+       18. Pape Gueye
+       14. Santi Comesaña
+       16. Álex Baena
+       21. Yéremy Pino
+       19. Nicolas Pépé
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (5):
+        5. Willy Kambwala
+       24. Alfonso Pedraza
+       10. Dani Parejo
+        7. Gerard Moreno
+       36. Karl Etta Eyong
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 10.05.2025|LALIGA|35. Kolejka|Girona FC|Villarreal CF|Paulo Gazzaniga|Ladislav Krejci|David López|Daley Blind|Arnau Martínez|Arthur Melo|Yangel Herrera|Iván Martín|Portu|Viktor Tsygankov|Cristhian Stuani|Alejandro Francés|Jhon Solís|Yáser Asprilla|Bojan Miovski|Abel Ruiz|Luiz Júnior|Logan Costa|Juan Foyth|Sergi Cardona|Pau Navarro|Pape Gueye|Santi Comesaña|Álex Baena|Yéremy Pino|Nicolas Pépé|Ayoze Pérez|Willy Kambwala|Alfonso Pedraza|Dani Parejo|Gerard Moreno|Karl Etta Eyong
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #18
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  CD Leganés
+✈️  AWAY:  Villarreal CF
+📅 DATE:  niedz., 22.12.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 18. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/cd-leganés_villarreal-cf/aufstellung/spielbericht/4407679
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CD LEGANÉS - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Marko Dmitrovic
+       22. Matija Nastasić
+        3. Jorge Sáenz
+        6. Sergio González
+       20. Javi Hernández
+        2. Adrià Altimira
+       17. Yvan Neyou
+        8. Seydouba Cissé
+        7. Óscar Rodríguez
+       10. Dani Raba
+        9. Miguel de la Fuente
+
+   🔄 SUBSTITUTES IN (4):
+       12. Valentin Rosier
+       14. Darko Brasanac
+       11. Juan Cruz
+       19. Diego García
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        2. Logan Costa
+        3. Raúl Albiol
+       23. Sergi Cardona
+       17. Kiko Femenía
+       18. Pape Gueye
+       14. Santi Comesaña
+        6. Denis Suárez
+       16. Álex Baena
+       21. Yéremy Pino
+       15. Thierno Barry
+
+   🔄 SUBSTITUTES IN (5):
+        8. Juan Foyth
+       26. Pau Navarro
+       10. Dani Parejo
+        7. Gerard Moreno
+       33. Pau Cabanes
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 22.12.2024|LALIGA|18. Kolejka|CD Leganés|Villarreal CF|Marko Dmitrovic|Matija Nastasić|Jorge Sáenz|Sergio González|Javi Hernández|Adrià Altimira|Yvan Neyou|Seydouba Cissé|Óscar Rodríguez|Dani Raba|Miguel de la Fuente|Valentin Rosier|Darko Brasanac|Juan Cruz|Diego García|Luiz Júnior|Logan Costa|Raúl Albiol|Sergi Cardona|Kiko Femenía|Pape Gueye|Santi Comesaña|Denis Suárez|Álex Baena|Yéremy Pino|Thierno Barry|Juan Foyth|Pau Navarro|Dani Parejo|Gerard Moreno|Pau Cabanes
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #19
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  UD Las Palmas
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 08.02.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 23. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/ud-las-palmas_villarreal-cf/aufstellung/spielbericht/4407767
+
+----------------------------------------------------------------------------------------------------
+
+🏠 UD LAS PALMAS - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Jasper Cillessen
+       15. Scott McKenna
+        4. Álex Suárez
+        3. Mika Mármol
+        6. Andy Pelmard
+       21. Stefan Bajcetic
+       12. Enzo Loiodice
+        5. Javi Muñoz
+       10. Alberto Moleiro
+       19. Sandro Ramírez
+       16. Oli McBurnie
+
+   🔄 SUBSTITUTES IN (5):
+       28. Juanma Herzog
+        2. Marvin Park
+       18. Viti Rozada
+       11. Benito Ramírez
+       14. Manu Fuster
+
+✈️  VILLARREAL CF - 17 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        5. Willy Kambwala
+        8. Juan Foyth
+       23. Sergi Cardona
+       17. Kiko Femenía
+       18. Pape Gueye
+       14. Santi Comesaña
+       16. Álex Baena
+       21. Yéremy Pino
+       15. Thierno Barry
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (6):
+        2. Logan Costa
+        4. Eric Bailly
+       26. Pau Navarro
+       10. Dani Parejo
+       19. Nicolas Pépé
+        9. Tajon Buchanan
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 08.02.2025|LALIGA|23. Kolejka|UD Las Palmas|Villarreal CF|Jasper Cillessen|Scott McKenna|Álex Suárez|Mika Mármol|Andy Pelmard|Stefan Bajcetic|Enzo Loiodice|Javi Muñoz|Alberto Moleiro|Sandro Ramírez|Oli McBurnie|Juanma Herzog|Marvin Park|Viti Rozada|Benito Ramírez|Manu Fuster|Diego Conde|Willy Kambwala|Juan Foyth|Sergi Cardona|Kiko Femenía|Pape Gueye|Santi Comesaña|Álex Baena|Yéremy Pino|Thierno Barry|Ayoze Pérez|Logan Costa|Eric Bailly|Pau Navarro|Dani Parejo|Nicolas Pépé|Tajon Buchanan
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #20
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 06.04.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 30. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_athletic-bilbao/aufstellung/spielbericht/4407548
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        2. Logan Costa
+        8. Juan Foyth
+       23. Sergi Cardona
+       17. Kiko Femenía
+       14. Santi Comesaña
+       10. Dani Parejo
+       16. Álex Baena
+        9. Tajon Buchanan
+       15. Thierno Barry
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (5):
+        5. Willy Kambwala
+       24. Alfonso Pedraza
+       18. Pape Gueye
+       21. Yéremy Pino
+        7. Gerard Moreno
+
+✈️  ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Unai Simón
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+        2. Andoni Gorosabel
+       23. Mikel Jauregizar
+       24. Beñat Prados
+       20. Unai Gómez
+       10. Nico Williams
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+       14. Unai Núñez
+       32. Adama Boiro
+        8. Oihan Sancet
+        7. Álex Berenguer
+       21. Maroan Sannadi
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 06.04.2025|LALIGA|30. Kolejka|Villarreal CF|Athletic Bilbao|Luiz Júnior|Logan Costa|Juan Foyth|Sergi Cardona|Kiko Femenía|Santi Comesaña|Dani Parejo|Álex Baena|Tajon Buchanan|Thierno Barry|Ayoze Pérez|Willy Kambwala|Alfonso Pedraza|Pape Gueye|Yéremy Pino|Gerard Moreno|Unai Simón|Dani Vivian|Aitor Paredes|Yuri Berchiche|Andoni Gorosabel|Mikel Jauregizar|Beñat Prados|Unai Gómez|Nico Williams|Iñaki Williams|Gorka Guruzeta|Unai Núñez|Adama Boiro|Oihan Sancet|Álex Berenguer|Maroan Sannadi
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #21
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  RCD Espanyol
+✈️  AWAY:  Villarreal CF
+📅 DATE:  czw., 26.09.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 7. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rcd-espanyol_villarreal-cf/aufstellung/spielbericht/4405343
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RCD ESPANYOL - 17 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Joan García
+        6. Leandro Cabrera
+        4. Marash Kumbulla
+       14. Brian Oliván
+       23. Omar El Hilali
+       10. Pol Lozano
+       20. Alex Král
+       17. Jofre Carreras
+       12. Álvaro Tejero
+        7. Javi Puado
+        9. Alejo Veliz
+
+   🔄 SUBSTITUTES IN (6):
+        3. Sergi Gómez
+       22. Carlos Romero
+       15. José Gragera
+       37. Naci Ünüvar
+       16. Walid Cheddira
+       24. Irvin Cardona
+
+✈️  VILLARREAL CF - 17 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        2. Logan Costa
+        3. Raúl Albiol
+       23. Sergi Cardona
+       17. Kiko Femenía
+       18. Pape Gueye
+       14. Santi Comesaña
+       16. Álex Baena
+       11. Ilias Akhomach
+       22. Ayoze Pérez
+       15. Thierno Barry
+
+   🔄 SUBSTITUTES IN (6):
+        4. Eric Bailly
+       26. Pau Navarro
+       20. Ramón Terrats
+       10. Dani Parejo
+        6. Denis Suárez
+       19. Nicolas Pépé
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 26.09.2024|LALIGA|7. Kolejka|RCD Espanyol|Villarreal CF|Joan García|Leandro Cabrera|Marash Kumbulla|Brian Oliván|Omar El Hilali|Pol Lozano|Alex Král|Jofre Carreras|Álvaro Tejero|Javi Puado|Alejo Veliz|Sergi Gómez|Carlos Romero|José Gragera|Naci Ünüvar|Walid Cheddira|Irvin Cardona|Diego Conde|Logan Costa|Raúl Albiol|Sergi Cardona|Kiko Femenía|Pape Gueye|Santi Comesaña|Álex Baena|Ilias Akhomach|Ayoze Pérez|Thierno Barry|Eric Bailly|Pau Navarro|Ramón Terrats|Dani Parejo|Denis Suárez|Nicolas Pépé
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #22
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  RCD Mallorca
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 14.09.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 5. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rcd-mallorca_villarreal-cf/aufstellung/spielbericht/4405322
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RCD MALLORCA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Dominik Greif
+       21. Antonio Raíllo
+       24. Martin Valjent
+        3. Toni Lato
+       18. Antonio Sánchez
+       12. Samú Costa
+        8. Manu Morlanes
+       14. Dani Rodríguez
+       30. Marc Domènech
+       11. Takuma Asano
+        7. Vedat Muriqi
+
+   🔄 SUBSTITUTES IN (5):
+        6. José Copete
+       22. Johan Mojica
+       10. Sergi Darder
+       16. Valery Fernández
+       27. Robert Navarro
+
+✈️  VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        2. Logan Costa
+        3. Raúl Albiol
+       23. Sergi Cardona
+       17. Kiko Femenía
+       14. Santi Comesaña
+       10. Dani Parejo
+       16. Álex Baena
+       11. Ilias Akhomach
+       15. Thierno Barry
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (4):
+       12. Juan Bernat
+       20. Ramón Terrats
+       19. Nicolas Pépé
+       21. Yéremy Pino
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 14.09.2024|LALIGA|5. Kolejka|RCD Mallorca|Villarreal CF|Dominik Greif|Antonio Raíllo|Martin Valjent|Toni Lato|Antonio Sánchez|Samú Costa|Manu Morlanes|Dani Rodríguez|Marc Domènech|Takuma Asano|Vedat Muriqi|José Copete|Johan Mojica|Sergi Darder|Valery Fernández|Robert Navarro|Diego Conde|Logan Costa|Raúl Albiol|Sergi Cardona|Kiko Femenía|Santi Comesaña|Dani Parejo|Álex Baena|Ilias Akhomach|Thierno Barry|Ayoze Pérez|Juan Bernat|Ramón Terrats|Nicolas Pépé|Yéremy Pino
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #23
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Rayo Vallecano
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 22.02.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 25. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rayo-vallecano_villarreal-cf/aufstellung/spielbericht/4407536
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RAYO VALLECANO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Augusto Batalla
+       16. Abdul Mumin
+       24. Florian Lejeune
+        3. Pep Chavarría
+        2. Andrei Rațiu
+        4. Pedro Díaz
+        6. Pathé Ciss
+        7. Isi Palazón
+       18. Álvaro García
+       19. Jorge de Frutos
+       11. Randy Nteka
+
+   🔄 SUBSTITUTES IN (5):
+       15. Gerard Gumbau
+        8. Óscar Trejo
+       21. Adrián Embarba
+       12. Sergi Guardiola
+       28. Etienne Eto'o
+
+✈️  VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        2. Logan Costa
+        5. Willy Kambwala
+       23. Sergi Cardona
+        8. Juan Foyth
+       18. Pape Gueye
+       14. Santi Comesaña
+       16. Álex Baena
+       21. Yéremy Pino
+       15. Thierno Barry
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (4):
+       24. Alfonso Pedraza
+       10. Dani Parejo
+       19. Nicolas Pépé
+        9. Tajon Buchanan
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 22.02.2025|LALIGA|25. Kolejka|Rayo Vallecano|Villarreal CF|Augusto Batalla|Abdul Mumin|Florian Lejeune|Pep Chavarría|Andrei Rațiu|Pedro Díaz|Pathé Ciss|Isi Palazón|Álvaro García|Jorge de Frutos|Randy Nteka|Gerard Gumbau|Óscar Trejo|Adrián Embarba|Sergi Guardiola|Etienne Eto'o|Diego Conde|Logan Costa|Willy Kambwala|Sergi Cardona|Juan Foyth|Pape Gueye|Santi Comesaña|Álex Baena|Yéremy Pino|Thierno Barry|Ayoze Pérez|Alfonso Pedraza|Dani Parejo|Nicolas Pépé|Tajon Buchanan
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #24
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 05.10.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 9. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_villarreal-cf/aufstellung/spielbericht/4405360
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Andriy Lunin
+       22. Antonio Rüdiger
+       14. Aurélien Tchouaméni
+       23. Ferland Mendy
+        2. Daniel Carvajal
+        6. Eduardo Camavinga
+        8. Federico Valverde
+       10. Luka Modrić
+        5. Jude Bellingham
+        7. Vinicius Junior
+        9. Kylian Mbappé
+
+   🔄 SUBSTITUTES IN (4):
+        3. Éder Militão
+       17. Lucas Vázquez
+       15. Arda Güler
+       11. Rodrygo
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        2. Logan Costa
+        3. Raúl Albiol
+       23. Sergi Cardona
+       17. Kiko Femenía
+       10. Dani Parejo
+       18. Pape Gueye
+       14. Santi Comesaña
+       16. Álex Baena
+       19. Nicolas Pépé
+       15. Thierno Barry
+
+   🔄 SUBSTITUTES IN (5):
+        4. Eric Bailly
+       12. Juan Bernat
+       20. Ramón Terrats
+       11. Ilias Akhomach
+       21. Yéremy Pino
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 05.10.2024|LALIGA|9. Kolejka|Real Madryt|Villarreal CF|Andriy Lunin|Antonio Rüdiger|Aurélien Tchouaméni|Ferland Mendy|Daniel Carvajal|Eduardo Camavinga|Federico Valverde|Luka Modrić|Jude Bellingham|Vinicius Junior|Kylian Mbappé|Éder Militão|Lucas Vázquez|Arda Güler|Rodrygo|Diego Conde|Logan Costa|Raúl Albiol|Sergi Cardona|Kiko Femenía|Dani Parejo|Pape Gueye|Santi Comesaña|Álex Baena|Nicolas Pépé|Thierno Barry|Eric Bailly|Juan Bernat|Ramón Terrats|Ilias Akhomach|Yéremy Pino
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #25
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Sociedad
+✈️  AWAY:  Villarreal CF
+📅 DATE:  pon., 13.01.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 19. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-sociedad_villarreal-cf/aufstellung/spielbericht/4407716
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL SOCIEDAD - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Álex Remiro
+       21. Nayef Aguerd
+        6. Aritz Elustondo
+        3. Aihen Muñoz
+       27. Jon Aramburu
+        4. Martín Zubimendi
+       24. Luka Sucic
+       23. Brais Méndez
+       17. Sergio Gómez
+       14. Takefusa Kubo
+       10. Mikel Oyarzabal
+
+   🔄 SUBSTITUTES IN (5):
+       20. Jon Pacheco
+       16. Jon Ander Olasagasti
+       28. Pablo Marín
+        7. Ander Barrenetxea
+        9. Orri Óskarsson
+
+✈️  VILLARREAL CF - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        5. Willy Kambwala
+        8. Juan Foyth
+       23. Sergi Cardona
+       17. Kiko Femenía
+       14. Santi Comesaña
+       10. Dani Parejo
+       16. Álex Baena
+        6. Denis Suárez
+       18. Pape Gueye
+       15. Thierno Barry
+
+   🔄 SUBSTITUTES IN (2):
+        7. Gerard Moreno
+       33. Pau Cabanes
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pon., 13.01.2025|LALIGA|19. Kolejka|Real Sociedad|Villarreal CF|Álex Remiro|Nayef Aguerd|Aritz Elustondo|Aihen Muñoz|Jon Aramburu|Martín Zubimendi|Luka Sucic|Brais Méndez|Sergio Gómez|Takefusa Kubo|Mikel Oyarzabal|Jon Pacheco|Jon Ander Olasagasti|Pablo Marín|Ander Barrenetxea|Orri Óskarsson|Luiz Júnior|Willy Kambwala|Juan Foyth|Sergi Cardona|Kiko Femenía|Santi Comesaña|Dani Parejo|Álex Baena|Denis Suárez|Pape Gueye|Thierno Barry|Gerard Moreno|Pau Cabanes
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #26
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Getafe CF
+📅 DATE:  niedz., 20.10.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 10. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_getafe-cf/aufstellung/spielbericht/4405376
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        3. Raúl Albiol
+        4. Eric Bailly
+       23. Sergi Cardona
+       17. Kiko Femenía
+       14. Santi Comesaña
+       10. Dani Parejo
+       18. Pape Gueye
+       16. Álex Baena
+       11. Ilias Akhomach
+       15. Thierno Barry
+
+   🔄 SUBSTITUTES IN (4):
+       26. Pau Navarro
+       20. Ramón Terrats
+       19. Nicolas Pépé
+       21. Yéremy Pino
+
+✈️  GETAFE CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. David Soria
+       15. Omar Alderete
+        2. Dakonam Djené
+       16. Diego Rico
+       21. Juan Iglesias
+        5. Luis Milla
+        8. Mauro Arambarri
+        6. Christantus Uche
+        7. Álex Sola
+       17. Carles Pérez
+       10. Bertuğ Yıldırım
+
+   🔄 SUBSTITUTES IN (4):
+       27. Nabil Aberdin
+       12. Allan Nyom
+       19. Peter Federico
+       18. Álvaro Rodríguez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 20.10.2024|LALIGA|10. Kolejka|Villarreal CF|Getafe CF|Diego Conde|Raúl Albiol|Eric Bailly|Sergi Cardona|Kiko Femenía|Santi Comesaña|Dani Parejo|Pape Gueye|Álex Baena|Ilias Akhomach|Thierno Barry|Pau Navarro|Ramón Terrats|Nicolas Pépé|Yéremy Pino|David Soria|Omar Alderete|Dakonam Djené|Diego Rico|Juan Iglesias|Luis Milla|Mauro Arambarri|Christantus Uche|Álex Sola|Carles Pérez|Bertuğ Yıldırım|Nabil Aberdin|Allan Nyom|Peter Federico|Álvaro Rodríguez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #27
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Real Betis Balompié
+📅 DATE:  niedz., 15.12.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 17. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_real-betis-balompié/aufstellung/spielbericht/4407709
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        3. Raúl Albiol
+        4. Eric Bailly
+       23. Sergi Cardona
+       17. Kiko Femenía
+       18. Pape Gueye
+       10. Dani Parejo
+       16. Álex Baena
+       21. Yéremy Pino
+        7. Gerard Moreno
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (3):
+       12. Juan Bernat
+       15. Thierno Barry
+       33. Pau Cabanes
+
+✈️  REAL BETIS BALOMPIÉ - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Fran Vieites
+        3. Diego Llorente
+        5. Marc Bartra
+       15. Romain Perraud
+       23. Youssouf Sabaly
+        4. Johnny Cardoso
+       16. Sergi Altimira
+       20. Giovani Lo Celso
+       10. Abde Ezzalzouli
+        9. Chimy Ávila
+        8. Vitor Roque
+
+   🔄 SUBSTITUTES IN (4):
+        6. Natan
+       22. Isco
+       38. Assane Diao
+       24. Aitor Ruibal
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 15.12.2024|LALIGA|17. Kolejka|Villarreal CF|Real Betis Balompié|Luiz Júnior|Raúl Albiol|Eric Bailly|Sergi Cardona|Kiko Femenía|Pape Gueye|Dani Parejo|Álex Baena|Yéremy Pino|Gerard Moreno|Ayoze Pérez|Juan Bernat|Thierno Barry|Pau Cabanes|Fran Vieites|Diego Llorente|Marc Bartra|Romain Perraud|Youssouf Sabaly|Johnny Cardoso|Sergi Altimira|Giovani Lo Celso|Abde Ezzalzouli|Chimy Ávila|Vitor Roque|Natan|Isco|Assane Diao|Aitor Ruibal
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #28
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  RCD Mallorca
+📅 DATE:  pon., 20.01.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 20. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_rcd-mallorca/aufstellung/spielbericht/4407730
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 17 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        2. Logan Costa
+        8. Juan Foyth
+       23. Sergi Cardona
+       17. Kiko Femenía
+       18. Pape Gueye
+       10. Dani Parejo
+       16. Álex Baena
+       21. Yéremy Pino
+        7. Gerard Moreno
+       15. Thierno Barry
+
+   🔄 SUBSTITUTES IN (6):
+        5. Willy Kambwala
+       20. Ramón Terrats
+        6. Denis Suárez
+       19. Nicolas Pépé
+       22. Ayoze Pérez
+       33. Pau Cabanes
+
+✈️  RCD MALLORCA - 17 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Dominik Greif
+       21. Antonio Raíllo
+       24. Martin Valjent
+       22. Johan Mojica
+       23. Pablo Maffeo
+       12. Samú Costa
+        5. Omar Mascarell
+       14. Dani Rodríguez
+       10. Sergi Darder
+        7. Vedat Muriqi
+       17. Cyle Larin
+
+   🔄 SUBSTITUTES IN (6):
+        6. José Copete
+        2. Mateu Morey
+       18. Antonio Sánchez
+       11. Takuma Asano
+       16. Valery Fernández
+       27. Robert Navarro
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pon., 20.01.2025|LALIGA|20. Kolejka|Villarreal CF|RCD Mallorca|Luiz Júnior|Logan Costa|Juan Foyth|Sergi Cardona|Kiko Femenía|Pape Gueye|Dani Parejo|Álex Baena|Yéremy Pino|Gerard Moreno|Thierno Barry|Willy Kambwala|Ramón Terrats|Denis Suárez|Nicolas Pépé|Ayoze Pérez|Pau Cabanes|Dominik Greif|Antonio Raíllo|Martin Valjent|Johan Mojica|Pablo Maffeo|Samú Costa|Omar Mascarell|Dani Rodríguez|Sergi Darder|Vedat Muriqi|Cyle Larin|José Copete|Mateu Morey|Antonio Sánchez|Takuma Asano|Valery Fernández|Robert Navarro
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #29
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Villarreal CF
+📅 DATE:  niedz., 18.05.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 37. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_villarreal-cf/aufstellung/spielbericht/4407585
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc-André ter Stegen
+        5. Iñigo Martínez
+        2. Pau Cubarsí
+       35. Gerard Martín
+       24. Eric García
+        6. Gavi
+        8. Pedri
+       16. Fermín López
+       11. Raphinha
+       19. Lamine Yamal
+        9. Robert Lewandowski
+
+   🔄 SUBSTITUTES IN (5):
+        3. Alejandro Balde
+       32. Héctor Fort
+       21. Frenkie de Jong
+       20. Dani Olmo
+       18. Pau Víctor
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        2. Logan Costa
+        8. Juan Foyth
+       23. Sergi Cardona
+       26. Pau Navarro
+       14. Santi Comesaña
+       10. Dani Parejo
+       21. Yéremy Pino
+       19. Nicolas Pépé
+       16. Álex Baena
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (5):
+        5. Willy Kambwala
+       18. Pape Gueye
+        9. Tajon Buchanan
+        7. Gerard Moreno
+       15. Thierno Barry
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 18.05.2025|LALIGA|37. Kolejka|FC Barcelona|Villarreal CF|Marc-André ter Stegen|Iñigo Martínez|Pau Cubarsí|Gerard Martín|Eric García|Gavi|Pedri|Fermín López|Raphinha|Lamine Yamal|Robert Lewandowski|Alejandro Balde|Héctor Fort|Frenkie de Jong|Dani Olmo|Pau Víctor|Luiz Júnior|Logan Costa|Juan Foyth|Sergi Cardona|Pau Navarro|Santi Comesaña|Dani Parejo|Yéremy Pino|Nicolas Pépé|Álex Baena|Ayoze Pérez|Willy Kambwala|Pape Gueye|Tajon Buchanan|Gerard Moreno|Thierno Barry
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #30
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  UD Las Palmas
+📅 DATE:  pon., 30.09.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 8. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_ud-las-palmas/aufstellung/spielbericht/4405355
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        2. Logan Costa
+        4. Eric Bailly
+       23. Sergi Cardona
+       17. Kiko Femenía
+       18. Pape Gueye
+       10. Dani Parejo
+        6. Denis Suárez
+       11. Ilias Akhomach
+       19. Nicolas Pépé
+       15. Thierno Barry
+
+   🔄 SUBSTITUTES IN (5):
+       12. Juan Bernat
+       20. Ramón Terrats
+       14. Santi Comesaña
+       16. Álex Baena
+       33. Pau Cabanes
+
+✈️  UD LAS PALMAS - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Dinko Horkas
+       28. Juanma Herzog
+       23. Álex Muñoz
+       11. Benito Ramírez
+        4. Álex Suárez
+       29. Dário Essugo
+       20. Kirian Rodríguez
+       10. Alberto Moleiro
+       24. Adnan Januzaj
+       16. Oli McBurnie
+       37. Fábio Silva
+
+   🔄 SUBSTITUTES IN (5):
+       18. Viti Rozada
+       12. Enzo Loiodice
+        5. Javi Muñoz
+       14. Manu Fuster
+       17. Jaime Mata
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pon., 30.09.2024|LALIGA|8. Kolejka|Villarreal CF|UD Las Palmas|Diego Conde|Logan Costa|Eric Bailly|Sergi Cardona|Kiko Femenía|Pape Gueye|Dani Parejo|Denis Suárez|Ilias Akhomach|Nicolas Pépé|Thierno Barry|Juan Bernat|Ramón Terrats|Santi Comesaña|Álex Baena|Pau Cabanes|Dinko Horkas|Juanma Herzog|Álex Muñoz|Benito Ramírez|Álex Suárez|Dário Essugo|Kirian Rodríguez|Alberto Moleiro|Adnan Januzaj|Oli McBurnie|Fábio Silva|Viti Rozada|Enzo Loiodice|Javi Muñoz|Manu Fuster|Jaime Mata
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #31
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Deportivo Alavés
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 08.03.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 27. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/deportivo-alavés_villarreal-cf/aufstellung/spielbericht/4407790
+
+----------------------------------------------------------------------------------------------------
+
+🏠 DEPORTIVO ALAVÉS - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Antonio Sivera
+        5. Abdel Abqar
+       12. Santiago Mouriño
+        3. Manu Sánchez
+       14. Nahuel Tenaglia
+        8. Antonio Blanco
+       24. Joan Jordán
+       21. Carles Aleñá
+       19. Pau Cabanes
+       15. Carlos Martín
+       17. Kike García
+
+   🔄 SUBSTITUTES IN (5):
+       31. Adrián Rodríguez
+       22. Moussa Diarra
+        2. Facundo Garcés
+        7. Carlos Vicente
+        9. Asier Villalibre
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        2. Logan Costa
+        5. Willy Kambwala
+       23. Sergi Cardona
+        8. Juan Foyth
+       18. Pape Gueye
+       10. Dani Parejo
+       16. Álex Baena
+       21. Yéremy Pino
+       19. Nicolas Pépé
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (5):
+       24. Alfonso Pedraza
+       14. Santi Comesaña
+        6. Denis Suárez
+        9. Tajon Buchanan
+       15. Thierno Barry
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 08.03.2025|LALIGA|27. Kolejka|Deportivo Alavés|Villarreal CF|Antonio Sivera|Abdel Abqar|Santiago Mouriño|Manu Sánchez|Nahuel Tenaglia|Antonio Blanco|Joan Jordán|Carles Aleñá|Pau Cabanes|Carlos Martín|Kike García|Adrián Rodríguez|Moussa Diarra|Facundo Garcés|Carlos Vicente|Asier Villalibre|Diego Conde|Logan Costa|Willy Kambwala|Sergi Cardona|Juan Foyth|Pape Gueye|Dani Parejo|Álex Baena|Yéremy Pino|Nicolas Pépé|Ayoze Pérez|Alfonso Pedraza|Santi Comesaña|Denis Suárez|Tajon Buchanan|Thierno Barry
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #32
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  FC Barcelona
+📅 DATE:  niedz., 22.09.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 6. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_fc-barcelona/aufstellung/spielbericht/4405334
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        2. Logan Costa
+        4. Eric Bailly
+       23. Sergi Cardona
+       17. Kiko Femenía
+       14. Santi Comesaña
+       10. Dani Parejo
+       16. Álex Baena
+       21. Yéremy Pino
+       19. Nicolas Pépé
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (5):
+       18. Pape Gueye
+       20. Ramón Terrats
+        6. Denis Suárez
+       11. Ilias Akhomach
+       15. Thierno Barry
+
+✈️  FC BARCELONA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc-André ter Stegen
+        5. Iñigo Martínez
+       36. Sergi Domínguez
+       35. Gerard Martín
+       23. Jules Koundé
+       24. Eric García
+        8. Pedri
+       14. Pablo Torre
+       11. Raphinha
+       19. Lamine Yamal
+        9. Robert Lewandowski
+
+   🔄 SUBSTITUTES IN (5):
+       13. Iñaki Peña
+        2. Pau Cubarsí
+       32. Héctor Fort
+       17. Marc Casadó
+       18. Pau Víctor
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 22.09.2024|LALIGA|6. Kolejka|Villarreal CF|FC Barcelona|Diego Conde|Logan Costa|Eric Bailly|Sergi Cardona|Kiko Femenía|Santi Comesaña|Dani Parejo|Álex Baena|Yéremy Pino|Nicolas Pépé|Ayoze Pérez|Pape Gueye|Ramón Terrats|Denis Suárez|Ilias Akhomach|Thierno Barry|Marc-André ter Stegen|Iñigo Martínez|Sergi Domínguez|Gerard Martín|Jules Koundé|Eric García|Pedri|Pablo Torre|Raphinha|Lamine Yamal|Robert Lewandowski|Iñaki Peña|Pau Cubarsí|Héctor Fort|Marc Casadó|Pau Víctor
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #33
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Girona FC
+📅 DATE:  niedz., 01.12.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 15. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_girona-fc/aufstellung/spielbericht/4407662
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        2. Logan Costa
+        3. Raúl Albiol
+       23. Sergi Cardona
+       17. Kiko Femenía
+       14. Santi Comesaña
+       10. Dani Parejo
+       18. Pape Gueye
+       16. Álex Baena
+       21. Yéremy Pino
+       15. Thierno Barry
+
+   🔄 SUBSTITUTES IN (4):
+       26. Pau Navarro
+        6. Denis Suárez
+        7. Gerard Moreno
+       33. Pau Cabanes
+
+✈️  GIRONA FC - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Paulo Gazzaniga
+       18. Ladislav Krejci
+        5. David López
+        3. Miguel Gutiérrez
+        4. Arnau Martínez
+       14. Oriol Romeu
+        6. Donny van de Beek
+       23. Iván Martín
+       11. Arnaut Danjuma
+       20. Bryan Gil
+       19. Bojan Miovski
+
+   🔄 SUBSTITUTES IN (5):
+       17. Daley Blind
+       22. Jhon Solís
+       24. Portu
+        7. Cristhian Stuani
+        9. Abel Ruiz
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 01.12.2024|LALIGA|15. Kolejka|Villarreal CF|Girona FC|Diego Conde|Logan Costa|Raúl Albiol|Sergi Cardona|Kiko Femenía|Santi Comesaña|Dani Parejo|Pape Gueye|Álex Baena|Yéremy Pino|Thierno Barry|Pau Navarro|Denis Suárez|Gerard Moreno|Pau Cabanes|Paulo Gazzaniga|Ladislav Krejci|David López|Miguel Gutiérrez|Arnau Martínez|Oriol Romeu|Donny van de Beek|Iván Martín|Arnaut Danjuma|Bryan Gil|Bojan Miovski|Daley Blind|Jhon Solís|Portu|Cristhian Stuani|Abel Ruiz
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #34
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Sevilla FC
+📅 DATE:  niedz., 25.05.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 38. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_sevilla-fc/aufstellung/spielbericht/4407573
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        2. Logan Costa
+        5. Willy Kambwala
+       24. Alfonso Pedraza
+       26. Pau Navarro
+       18. Pape Gueye
+        6. Denis Suárez
+       21. Yéremy Pino
+        9. Tajon Buchanan
+       16. Álex Baena
+       15. Thierno Barry
+
+   🔄 SUBSTITUTES IN (5):
+       10. Dani Parejo
+       30. Dani Requena
+       19. Nicolas Pépé
+        7. Gerard Moreno
+       36. Karl Etta Eyong
+
+✈️  SEVILLA FC - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Álvaro Fernández
+        4. Kike Salas
+       23. Marcão
+        3. Adrià Pedrosa
+        2. José Ángel Carmona
+        6. Nemanja Gudelj
+       18. Lucien Agoumé
+       10. Suso
+       20. Djibril Sow
+       26. Juanlu Sánchez
+       42. Álvaro García Pascual
+
+   🔄 SUBSTITUTES IN (5):
+       35. Ramón Martínez
+       28. Manu Bueno
+       21. Chidera Ejuke
+       11. Dodi Lukébakio
+       14. Peque Fernández
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 25.05.2025|LALIGA|38. Kolejka|Villarreal CF|Sevilla FC|Diego Conde|Logan Costa|Willy Kambwala|Alfonso Pedraza|Pau Navarro|Pape Gueye|Denis Suárez|Yéremy Pino|Tajon Buchanan|Álex Baena|Thierno Barry|Dani Parejo|Dani Requena|Nicolas Pépé|Gerard Moreno|Karl Etta Eyong|Álvaro Fernández|Kike Salas|Marcão|Adrià Pedrosa|José Ángel Carmona|Nemanja Gudelj|Lucien Agoumé|Suso|Djibril Sow|Juanlu Sánchez|Álvaro García Pascual|Ramón Martínez|Manu Bueno|Chidera Ejuke|Dodi Lukébakio|Peque Fernández
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #35
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Villarreal CF
+📅 DATE:  niedz., 08.12.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 16. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_villarreal-cf/aufstellung/spielbericht/4407684
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Julen Agirrezabala
+        3. Dani Vivian
+        4. Aitor Paredes
+       17. Yuri Berchiche
+       18. Óscar de Marcos
+       16. Iñigo Ruiz de Galarreta
+       24. Beñat Prados
+        8. Oihan Sancet
+        7. Álex Berenguer
+        9. Iñaki Williams
+       12. Gorka Guruzeta
+
+   🔄 SUBSTITUTES IN (5):
+        6. Mikel Vesga
+       23. Mikel Jauregizar
+       20. Unai Gómez
+       22. Nico Serrano
+       10. Nico Williams
+
+✈️  VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        2. Logan Costa
+        3. Raúl Albiol
+       12. Juan Bernat
+       17. Kiko Femenía
+       14. Santi Comesaña
+       10. Dani Parejo
+       16. Álex Baena
+       21. Yéremy Pino
+       18. Pape Gueye
+       15. Thierno Barry
+
+   🔄 SUBSTITUTES IN (5):
+        1. Luiz Júnior
+        6. Denis Suárez
+        7. Gerard Moreno
+       22. Ayoze Pérez
+       33. Pau Cabanes
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 08.12.2024|LALIGA|16. Kolejka|Athletic Bilbao|Villarreal CF|Julen Agirrezabala|Dani Vivian|Aitor Paredes|Yuri Berchiche|Óscar de Marcos|Iñigo Ruiz de Galarreta|Beñat Prados|Oihan Sancet|Álex Berenguer|Iñaki Williams|Gorka Guruzeta|Mikel Vesga|Mikel Jauregizar|Unai Gómez|Nico Serrano|Nico Williams|Diego Conde|Logan Costa|Raúl Albiol|Juan Bernat|Kiko Femenía|Santi Comesaña|Dani Parejo|Álex Baena|Yéremy Pino|Pape Gueye|Thierno Barry|Luiz Júnior|Denis Suárez|Gerard Moreno|Ayoze Pérez|Pau Cabanes
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #36
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Real Valladolid CF
+📅 DATE:  sob., 01.02.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 22. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_real-valladolid-cf/aufstellung/spielbericht/4407778
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        5. Willy Kambwala
+        8. Juan Foyth
+       23. Sergi Cardona
+       17. Kiko Femenía
+       18. Pape Gueye
+       14. Santi Comesaña
+       16. Álex Baena
+       21. Yéremy Pino
+        7. Gerard Moreno
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (5):
+       26. Pau Navarro
+       10. Dani Parejo
+        6. Denis Suárez
+       19. Nicolas Pépé
+       15. Thierno Barry
+
+✈️  REAL VALLADOLID CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Karl Hein
+        3. David Torres
+        5. Javi Sánchez
+       22. Lucas Rosa
+        2. Luis Pérez
+       20. Stanko Juric
+       28. Chuki
+       21. Selim Amallah
+        7. Mamadou Sylla
+       23. Anuar
+        9. Marcos André
+
+   🔄 SUBSTITUTES IN (3):
+        4. Tamás Nikitscher
+       10. Iván Sánchez
+       14. Juanmi Latasa
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 01.02.2025|LALIGA|22. Kolejka|Villarreal CF|Real Valladolid CF|Diego Conde|Willy Kambwala|Juan Foyth|Sergi Cardona|Kiko Femenía|Pape Gueye|Santi Comesaña|Álex Baena|Yéremy Pino|Gerard Moreno|Ayoze Pérez|Pau Navarro|Dani Parejo|Denis Suárez|Nicolas Pépé|Thierno Barry|Karl Hein|David Torres|Javi Sánchez|Lucas Rosa|Luis Pérez|Stanko Juric|Chuki|Selim Amallah|Mamadou Sylla|Anuar|Marcos André|Tamás Nikitscher|Iván Sánchez|Juanmi Latasa
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #37
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Celta de Vigo
+📅 DATE:  pon., 26.08.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 3. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_celta-de-vigo/aufstellung/spielbericht/4361569
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        3. Raúl Albiol
+        4. Eric Bailly
+       23. Sergi Cardona
+       17. Kiko Femenía
+       14. Santi Comesaña
+       10. Dani Parejo
+       16. Álex Baena
+       21. Yéremy Pino
+        9. Arnaut Danjuma
+        7. Gerard Moreno
+
+   🔄 SUBSTITUTES IN (5):
+        2. Logan Costa
+       18. Pape Gueye
+       19. Nicolas Pépé
+       15. Thierno Barry
+       22. Ayoze Pérez
+
+✈️  CELTA DE VIGO - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Iván Villar
+        2. Carl Starfelt
+       22. Javier Manquillo
+       16. Jailson
+       25. Damián Rodríguez
+        6. Ilaix Moriba
+        3. Óscar Mingueza
+        5. Sergio Carreira
+       17. Jonathan Bamba
+       12. Alfon González
+        7. Borja Iglesias
+
+   🔄 SUBSTITUTES IN (5):
+        8. Fran Beltrán
+       19. Williot Swedberg
+       30. Hugo Álvarez
+       10. Iago Aspas
+        9. Anastasios Douvikas
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pon., 26.08.2024|LALIGA|3. Kolejka|Villarreal CF|Celta de Vigo|Diego Conde|Raúl Albiol|Eric Bailly|Sergi Cardona|Kiko Femenía|Santi Comesaña|Dani Parejo|Álex Baena|Yéremy Pino|Arnaut Danjuma|Gerard Moreno|Logan Costa|Pape Gueye|Nicolas Pépé|Thierno Barry|Ayoze Pérez|Iván Villar|Carl Starfelt|Javier Manquillo|Jailson|Damián Rodríguez|Ilaix Moriba|Óscar Mingueza|Sergio Carreira|Jonathan Bamba|Alfon González|Borja Iglesias|Fran Beltrán|Williot Swedberg|Hugo Álvarez|Iago Aspas|Anastasios Douvikas
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #38
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  CA Osasuna
+📅 DATE:  sob., 03.05.2025
+🏆 COMP:  LALIGA
+🔢 ROUND: 34. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_ca-osasuna/aufstellung/spielbericht/4407612
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Luiz Júnior
+        2. Logan Costa
+        8. Juan Foyth
+       23. Sergi Cardona
+       17. Kiko Femenía
+       14. Santi Comesaña
+       10. Dani Parejo
+       18. Pape Gueye
+       19. Nicolas Pépé
+       15. Thierno Barry
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (5):
+        5. Willy Kambwala
+       26. Pau Navarro
+        6. Denis Suárez
+       16. Álex Baena
+        9. Tajon Buchanan
+
+✈️  CA OSASUNA - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Sergio Herrera
+        5. Jorge Herrando
+        4. Unai García
+       22. Enzo Boyomo
+       23. Abel Bretones
+       12. Jesús Areso
+        6. Lucas Torró
+       10. Aimar Oroz
+       16. Moi Gómez
+       14. Rubén García
+       17. Ante Budimir
+
+   🔄 SUBSTITUTES IN (5):
+       15. Rubén Peña
+       18. Iker Muñoz
+       19. Bryan Zaragoza
+       11. Kike Barja
+        9. Raúl García
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 03.05.2025|LALIGA|34. Kolejka|Villarreal CF|CA Osasuna|Luiz Júnior|Logan Costa|Juan Foyth|Sergi Cardona|Kiko Femenía|Santi Comesaña|Dani Parejo|Pape Gueye|Nicolas Pépé|Thierno Barry|Ayoze Pérez|Willy Kambwala|Pau Navarro|Denis Suárez|Álex Baena|Tajon Buchanan|Sergio Herrera|Jorge Herrando|Unai García|Enzo Boyomo|Abel Bretones|Jesús Areso|Lucas Torró|Aimar Oroz|Moi Gómez|Rubén García|Ante Budimir|Rubén Peña|Iker Muñoz|Bryan Zaragoza|Kike Barja|Raúl García
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #39
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Valencia CF
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 31.08.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 4. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/valencia-cf_villarreal-cf/aufstellung/spielbericht/4364908
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VALENCIA CF - 15 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Giorgi Mamardashvili
+        3. Cristhian Mosquera
+       15. César Tárrega
+       21. Jesús Vázquez
+       12. Thierry Correia
+        6. Hugo Guillamón
+       18. Pepelu
+       10. André Almeida
+       22. Luis Rioja
+       16. Diego López
+        9. Hugo Duro
+
+   🔄 SUBSTITUTES IN (4):
+       20. Dimitri Foulquier
+        8. Javi Guerra
+        7. Sergi Canós
+       11. Rafa Mir
+
+✈️  VILLARREAL CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        2. Logan Costa
+        3. Raúl Albiol
+       23. Sergi Cardona
+       17. Kiko Femenía
+       18. Pape Gueye
+       10. Dani Parejo
+       14. Santi Comesaña
+       21. Yéremy Pino
+       22. Ayoze Pérez
+       15. Thierno Barry
+
+   🔄 SUBSTITUTES IN (3):
+       12. Juan Bernat
+       20. Ramón Terrats
+       11. Ilias Akhomach
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 31.08.2024|LALIGA|4. Kolejka|Valencia CF|Villarreal CF|Giorgi Mamardashvili|Cristhian Mosquera|César Tárrega|Jesús Vázquez|Thierry Correia|Hugo Guillamón|Pepelu|André Almeida|Luis Rioja|Diego López|Hugo Duro|Dimitri Foulquier|Javi Guerra|Sergi Canós|Rafa Mir|Diego Conde|Logan Costa|Raúl Albiol|Sergi Cardona|Kiko Femenía|Pape Gueye|Dani Parejo|Santi Comesaña|Yéremy Pino|Ayoze Pérez|Thierno Barry|Juan Bernat|Ramón Terrats|Ilias Akhomach
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #40
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Deportivo Alavés
+📅 DATE:  sob., 09.11.2024
+🏆 COMP:  LALIGA
+🔢 ROUND: 13. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_deportivo-alavés/aufstellung/spielbericht/4407673
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Diego Conde
+        2. Logan Costa
+        3. Raúl Albiol
+       23. Sergi Cardona
+       17. Kiko Femenía
+       18. Pape Gueye
+       10. Dani Parejo
+       16. Álex Baena
+       11. Ilias Akhomach
+       19. Nicolas Pépé
+       22. Ayoze Pérez
+
+   🔄 SUBSTITUTES IN (5):
+       12. Juan Bernat
+       26. Pau Navarro
+       14. Santi Comesaña
+       21. Yéremy Pino
+       15. Thierno Barry
+
+✈️  DEPORTIVO ALAVÉS - 16 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Antonio Sivera
+        5. Abdel Abqar
+       36. Adrián Pica
+        3. Manu Sánchez
+       14. Nahuel Tenaglia
+        6. Ander Guevara
+        8. Antonio Blanco
+       18. Jon Guridi
+       21. Abde Rebbach
+        7. Carlos Vicente
+       17. Kike García
+
+   🔄 SUBSTITUTES IN (5):
+       24. Joan Jordán
+       10. Tomás Conechny
+       15. Carlos Martín
+       19. Stoichkov
+       11. Toni Martínez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 09.11.2024|LALIGA|13. Kolejka|Villarreal CF|Deportivo Alavés|Diego Conde|Logan Costa|Raúl Albiol|Sergi Cardona|Kiko Femenía|Pape Gueye|Dani Parejo|Álex Baena|Ilias Akhomach|Nicolas Pépé|Ayoze Pérez|Juan Bernat|Pau Navarro|Santi Comesaña|Yéremy Pino|Thierno Barry|Antonio Sivera|Abdel Abqar|Adrián Pica|Manu Sánchez|Nahuel Tenaglia|Ander Guevara|Antonio Blanco|Jon Guridi|Abde Rebbach|Carlos Vicente|Kike García|Joan Jordán|Tomás Conechny|Carlos Martín|Stoichkov|Toni Martínez
+

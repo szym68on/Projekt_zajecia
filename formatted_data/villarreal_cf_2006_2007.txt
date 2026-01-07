@@ -1,0 +1,136 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 58751 | niedz., 13.05.2007 | CA Osasuna
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Fabricio Fuentes, José Enrique, Javi Venta, Alessio Tacchinardi, Marcos Senna, Robert Pirès, Marquitos, Cani, Diego Forlán
+
+MATCH: 58604 | niedz., 21.01.2007 | Sevilla FC
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Josemi, José Enrique, Josico, Marcos Senna, Marquitos, Matías Fernández, Cani, Diego Forlán
+
+MATCH: 2283281 | śr., 10.01.2007 | Real Valladolid CF
+PLAYERS: Sebastián Viera, Quique Álvarez, Fabricio Fuentes, José Enrique, Josemi, Alessio Tacchinardi, Leandro Somoza, Marquitos, Matías Fernández, Diego Forlán, José Mari
+
+MATCH: 58458 | niedz., 01.10.2006 | RCD Mallorca
+PLAYERS: Sebastián Viera, Quique Álvarez, Juan Manuel Peña, Rodolfo Arruabarrena, Josemi, Alessio Tacchinardi, Leandro Somoza, Juan Román Riquelme, Cani, Diego Forlán, José Mari
+
+MATCH: 2283293 | śr., 08.11.2006 | CD Castellón
+PLAYERS: Mariano Barbosa, Quique Álvarez, Juan Manuel Peña, Josemi, José Enrique, Josico, Alessio Tacchinardi, Marquitos, Cani, Diego Forlán, Nihat Kahveci
+
+MATCH: 58494 | niedz., 29.10.2006 | Real Sociedad
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Rodolfo Arruabarrena, Javi Venta, Leandro Somoza, Marcos Senna, Marquitos, Juan Román Riquelme, Diego Forlán, Nihat Kahveci
+
+MATCH: 58549 | niedz., 10.12.2006 | Celta de Vigo
+PLAYERS: Mariano Barbosa, Quique Álvarez, Fabricio Fuentes, Rodolfo Arruabarrena, Josemi, Alessio Tacchinardi, Marcos Senna, Marquitos, Juan Román Riquelme, Diego Forlán, Guillermo Franco
+
+MATCH: 58506 | sob., 11.11.2006 | Atlético Madryt
+PLAYERS: Mariano Barbosa, Pascal Cygan, Fabricio Fuentes, Rodolfo Arruabarrena, Javi Venta, Marcos Senna, Leandro Somoza, Juan Román Riquelme, Cani, Diego Forlán, Nihat Kahveci
+
+MATCH: 58657 | niedz., 04.03.2007 | RCD Espanyol
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Josemi, José Enrique, Josico, Leandro Somoza, Marquitos, Matías Fernández, Diego Forlán, Jon Dahl Tomasson
+
+MATCH: 58504 | niedz., 05.11.2006 | Real Betis Balompié
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Rodolfo Arruabarrena, Javi Venta, Marcos Senna, Leandro Somoza, Marquitos, Juan Román Riquelme, Diego Forlán, Nihat Kahveci
+
+MATCH: 58655 | niedz., 25.02.2007 | RCD Mallorca
+PLAYERS: Mariano Barbosa, Pascal Cygan, Fabricio Fuentes, José Enrique, Javi Venta, Josico, Marcos Senna, Marquitos, Matías Fernández, Diego Forlán, Jon Dahl Tomasson
+
+MATCH: 58528 | sob., 25.11.2006 | FC Barcelona
+PLAYERS: Mariano Barbosa, Pascal Cygan, Fabricio Fuentes, Rodolfo Arruabarrena, Javi Venta, Josico, Marcos Senna, Marquitos, Cani, Diego Forlán, José Mari
+
+MATCH: 58586 | niedz., 14.01.2007 | Athletic Bilbao
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Josemi, José Enrique, Josico, Marcos Senna, Marquitos, Matías Fernández, Cani, Diego Forlán
+
+MATCH: 58794 | niedz., 17.06.2007 | Sevilla FC
+PLAYERS: Sebastián Viera, Quique Álvarez, Fabricio Fuentes, José Enrique, Javi Venta, Josico, Marcos Senna, Robert Pirès, Cani, Guillermo Franco, Jon Dahl Tomasson
+
+MATCH: 58731 | niedz., 29.04.2007 | Gimnàstic de Tarragona
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, José Enrique, Javi Venta, Josico, Alessio Tacchinardi, Cani, Marquitos, Robert Pirès, Diego Forlán
+
+MATCH: 58622 | niedz., 04.02.2007 | Recreativo Huelva
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Josemi, José Enrique, Josico, Marcos Senna, Matías Fernández, Cani, Diego Forlán, Guillermo Franco
+
+MATCH: 58474 | niedz., 15.10.2006 | RCD Espanyol
+PLAYERS: Sebastián Viera, Quique Álvarez, Juan Manuel Peña, Rodolfo Arruabarrena, Josemi, Alessio Tacchinardi, Marcos Senna, Cani, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 58672 | sob., 10.03.2007 | Levante UD
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Josemi, José Enrique, Josico, Marcos Senna, Marquitos, Matías Fernández, Diego Forlán, Jon Dahl Tomasson
+
+MATCH: 58564 | niedz., 17.12.2006 | CA Osasuna
+PLAYERS: Mariano Barbosa, Quique Álvarez, Fabricio Fuentes, Josemi, Rodolfo Arruabarrena, Josico, Leandro Somoza, Juan Román Riquelme, Cani, Diego Forlán, Guillermo Franco
+
+MATCH: 58684 | niedz., 18.03.2007 | Real Sociedad
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Josemi, José Enrique, Josico, Marcos Senna, Marquitos, Matías Fernández, Diego Forlán, Jon Dahl Tomasson
+
+MATCH: 58704 | niedz., 08.04.2007 | Atlético Madryt
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Josemi, José Enrique, Josico, Marcos Senna, Marquitos, Matías Fernández, Diego Forlán, Guillermo Franco
+
+MATCH: 58688 | sob., 31.03.2007 | Real Betis Balompié
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Josemi, José Enrique, Josico, Marcos Senna, Marquitos, Matías Fernández, Diego Forlán, Guillermo Franco
+
+MATCH: 58711 | niedz., 15.04.2007 | Getafe CF
+PLAYERS: Sebastián Viera, Pascal Cygan, Gonzalo Rodríguez, Josemi, José Enrique, Leandro Somoza, Marcos Senna, Marquitos, Matías Fernández, Jon Dahl Tomasson, Guillermo Franco
+
+MATCH: 58744 | niedz., 06.05.2007 | Celta de Vigo
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Fabricio Fuentes, José Enrique, Javi Venta, Alessio Tacchinardi, Marcos Senna, Robert Pirès, Marquitos, Cani, Diego Forlán
+
+MATCH: 58483 | sob., 21.10.2006 | Levante UD
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, Josemi, José Enrique, Marcos Senna, Leandro Somoza, Juan Román Riquelme, Cani, Diego Forlán, José Mari
+
+MATCH: 58775 | sob., 26.05.2007 | Valencia CF
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Fabricio Fuentes, José Enrique, Javi Venta, Alessio Tacchinardi, Marcos Senna, Robert Pirès, Cani, Diego Forlán, Guillermo Franco
+
+MATCH: 58635 | niedz., 11.02.2007 | Deportivo de La Coruña
+PLAYERS: Mariano Barbosa, Pascal Cygan, Fabricio Fuentes, Josemi, José Enrique, Josico, Marcos Senna, Marquitos, Matías Fernández, Cani, Diego Forlán
+
+MATCH: 58784 | sob., 09.06.2007 | Athletic Bilbao
+PLAYERS: Sebastián Viera, Gonzalo Rodríguez, Fabricio Fuentes, José Enrique, Javi Venta, Josico, Alessio Tacchinardi, Robert Pirès, Cani, Diego Forlán, Guillermo Franco
+
+MATCH: 58724 | niedz., 22.04.2007 | FC Barcelona
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, José Enrique, Javi Venta, Josico, Marcos Senna, Robert Pirès, Marquitos, Cani, Diego Forlán
+
+MATCH: 58434 | niedz., 10.09.2006 | Recreativo Huelva
+PLAYERS: Sebastián Viera, Quique Álvarez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Marcos Senna, Leandro Somoza, Juan Román Riquelme, Cani, Diego Forlán, Nihat Kahveci
+
+MATCH: 58544 | niedz., 03.12.2006 | Gimnàstic de Tarragona
+PLAYERS: Mariano Barbosa, Pascal Cygan, Fabricio Fuentes, Josemi, Rodolfo Arruabarrena, Josico, Marcos Senna, Juan Román Riquelme, Cani, Diego Forlán, Guillermo Franco
+
+MATCH: 58454 | niedz., 24.09.2006 | Real Zaragoza
+PLAYERS: Sebastián Viera, Quique Álvarez, Fabricio Fuentes, Rodolfo Arruabarrena, Javi Venta, Alessio Tacchinardi, Marcos Senna, Cani, Juan Román Riquelme, Diego Forlán, José Mari
+
+MATCH: 2283309 | śr., 25.10.2006 | CD Castellón
+PLAYERS: Mariano Barbosa, Quique Álvarez, Fabricio Fuentes, Josemi, Javi Venta, Alessio Tacchinardi, Marcos Senna, Marquitos, Cani, Diego Forlán, Nihat Kahveci
+
+MATCH: 58573 | śr., 20.12.2006 | Racing Santander
+PLAYERS: Mariano Barbosa, Quique Álvarez, Fabricio Fuentes, Rodolfo Arruabarrena, Josemi, Josico, Marcos Senna, Cani, José Mari, Diego Forlán, Guillermo Franco
+
+MATCH: 2232119 | sob., 15.07.2006 | NK Maribor
+PLAYERS: Mariano Barbosa, Gonzalo Rodríguez, Quique Álvarez, Carlos Alcántara, Josemi, Josico, Alessio Tacchinardi, Cani, Robert Pirès, Nihat Kahveci, Diego Forlán
+
+MATCH: 58441 | sob., 16.09.2006 | Deportivo de La Coruña
+PLAYERS: Sebastián Viera, Quique Álvarez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Alessio Tacchinardi, Leandro Somoza, Marcos Senna, Juan Román Riquelme, Nihat Kahveci, Guillermo Franco
+
+MATCH: 58764 | niedz., 20.05.2007 | Racing Santander
+PLAYERS: Sebastián Viera, Fabricio Fuentes, Gonzalo Rodríguez, José Enrique, Javi Venta, Marcos Senna, Alessio Tacchinardi, Robert Pirès, Cani, Diego Forlán, Guillermo Franco
+
+MATCH: 58645 | sob., 17.02.2007 | Real Zaragoza
+PLAYERS: Mariano Barbosa, Fabricio Fuentes, Quique Álvarez, José Enrique, Javi Venta, Josico, Marcos Senna, Matías Fernández, Cani, José Mari, Jon Dahl Tomasson
+
+MATCH: 58421 | niedz., 27.08.2006 | Real Madryt
+PLAYERS: Sebastián Viera, Quique Álvarez, Juan Manuel Peña, Rodolfo Arruabarrena, Javi Venta, Leandro Somoza, Marcos Senna, Juan Román Riquelme, Nihat Kahveci, Cani, Diego Forlán
+
+MATCH: 2232120 | sob., 22.07.2006 | NK Maribor
+PLAYERS: Sebastián Viera, Quique Álvarez, Juan Manuel Peña, Carlos Alcántara, Javi Venta, Josico, Alessio Tacchinardi, Cani, Robert Pirès, Nihat Kahveci, Diego Forlán
+
+MATCH: 58584 | niedz., 07.01.2007 | Valencia CF
+PLAYERS: Mariano Barbosa, Fabricio Fuentes, Josemi, Juan Manuel Peña, Rodolfo Arruabarrena, Marcos Senna, Josico, Cani, Matías Fernández, Diego Forlán, Guillermo Franco
+
+MATCH: 58614 | niedz., 28.01.2007 | Real Madryt
+PLAYERS: Sebastián Viera, Pascal Cygan, Fabricio Fuentes, José Enrique, Josemi, Josico, Marcos Senna, Matías Fernández, Marquitos, Cani, Diego Forlán
+
+MATCH: 58524 | niedz., 19.11.2006 | Getafe CF
+PLAYERS: Mariano Barbosa, Quique Álvarez, Fabricio Fuentes, Rodolfo Arruabarrena, Javi Venta, Josico, Marcos Senna, Marquitos, Cani, Diego Forlán, Nihat Kahveci
+
+MATCH: 2283274 | śr., 17.01.2007 | Real Valladolid CF
+PLAYERS: Sebastián Viera, Quique Álvarez, Fabricio Fuentes, Josemi, Rodolfo Arruabarrena, Leandro Somoza, Marcos Senna, Matías Fernández, Cani, Diego Forlán, Guillermo Franco
+

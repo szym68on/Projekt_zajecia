@@ -1,0 +1,258 @@
+# Graph for Java/GraphStream
+# Nodes: 25
+# Edges: 252
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Sergio Asenjo | Mateo Musacchio | 29 | 35 | 35
+EDGE Sergio Asenjo | Gabriel Paulista | 15 | 35 | 20
+EDGE Sergio Asenjo | Jaume Costa | 26 | 35 | 27
+EDGE Sergio Asenjo | Mario Gaspar | 33 | 35 | 36
+EDGE Sergio Asenjo | Bruno Soriano | 32 | 35 | 38
+EDGE Sergio Asenjo | Manu Trigueros | 20 | 35 | 24
+EDGE Sergio Asenjo | Giovani dos Santos | 23 | 35 | 28
+EDGE Sergio Asenjo | Javier Aquino | 17 | 35 | 21
+EDGE Sergio Asenjo | Hernán Pérez | 9 | 35 | 10
+EDGE Sergio Asenjo | Ikechukwu Uche | 17 | 35 | 19
+EDGE Sergio Asenjo | Bojan Jokic | 11 | 35 | 18
+EDGE Sergio Asenjo | Tomás Pina | 20 | 35 | 25
+EDGE Sergio Asenjo | Cani | 23 | 35 | 25
+EDGE Sergio Asenjo | Óliver Torres | 6 | 35 | 6
+EDGE Sergio Asenjo | Chechu Dorado | 16 | 35 | 19
+EDGE Sergio Asenjo | Jonathan Pereira | 15 | 35 | 18
+EDGE Sergio Asenjo | Jérémy Perbet | 12 | 35 | 16
+EDGE Sergio Asenjo | Moi Gómez | 12 | 35 | 17
+EDGE Sergio Asenjo | Aleksandar Pantic | 6 | 35 | 10
+EDGE Sergio Asenjo | Matías Nahuel | 2 | 35 | 2
+EDGE Sergio Asenjo | Joan Román | 1 | 35 | 1
+EDGE Sergio Asenjo | Edu Ramos | 2 | 35 | 2
+EDGE Sergio Asenjo | Pablo Iñiguez | 3 | 35 | 3
+EDGE Mateo Musacchio | Gabriel Paulista | 13 | 35 | 20
+EDGE Mateo Musacchio | Jaume Costa | 23 | 35 | 27
+EDGE Mateo Musacchio | Mario Gaspar | 31 | 35 | 36
+EDGE Mateo Musacchio | Bruno Soriano | 32 | 35 | 38
+EDGE Mateo Musacchio | Manu Trigueros | 20 | 35 | 24
+EDGE Mateo Musacchio | Giovani dos Santos | 26 | 35 | 28
+EDGE Mateo Musacchio | Javier Aquino | 19 | 35 | 21
+EDGE Mateo Musacchio | Hernán Pérez | 10 | 35 | 10
+EDGE Mateo Musacchio | Ikechukwu Uche | 16 | 35 | 19
+EDGE Mateo Musacchio | Bojan Jokic | 14 | 35 | 18
+EDGE Mateo Musacchio | Tomás Pina | 19 | 35 | 25
+EDGE Mateo Musacchio | Cani | 23 | 35 | 25
+EDGE Mateo Musacchio | Óliver Torres | 4 | 35 | 6
+EDGE Mateo Musacchio | Chechu Dorado | 17 | 35 | 19
+EDGE Mateo Musacchio | Jonathan Pereira | 15 | 35 | 18
+EDGE Mateo Musacchio | Jérémy Perbet | 11 | 35 | 16
+EDGE Mateo Musacchio | Moi Gómez | 11 | 35 | 17
+EDGE Mateo Musacchio | Juan Carlos | 6 | 35 | 7
+EDGE Mateo Musacchio | Aleksandar Pantic | 5 | 35 | 10
+EDGE Mateo Musacchio | Matías Nahuel | 1 | 35 | 2
+EDGE Mateo Musacchio | Edu Ramos | 2 | 35 | 2
+EDGE Mateo Musacchio | Pablo Iñiguez | 3 | 35 | 3
+EDGE Gabriel Paulista | Jaume Costa | 9 | 20 | 27
+EDGE Gabriel Paulista | Mario Gaspar | 16 | 20 | 36
+EDGE Gabriel Paulista | Bruno Soriano | 19 | 20 | 38
+EDGE Gabriel Paulista | Manu Trigueros | 11 | 20 | 24
+EDGE Gabriel Paulista | Giovani dos Santos | 11 | 20 | 28
+EDGE Gabriel Paulista | Javier Aquino | 6 | 20 | 21
+EDGE Gabriel Paulista | Hernán Pérez | 5 | 20 | 10
+EDGE Gabriel Paulista | Ikechukwu Uche | 11 | 20 | 19
+EDGE Gabriel Paulista | Bojan Jokic | 13 | 20 | 18
+EDGE Gabriel Paulista | Tomás Pina | 12 | 20 | 25
+EDGE Gabriel Paulista | Cani | 10 | 20 | 25
+EDGE Gabriel Paulista | Óliver Torres | 4 | 20 | 6
+EDGE Gabriel Paulista | Juan Carlos | 5 | 20 | 7
+EDGE Gabriel Paulista | Chechu Dorado | 2 | 20 | 19
+EDGE Gabriel Paulista | Aleksandar Pantic | 7 | 20 | 10
+EDGE Gabriel Paulista | Moi Gómez | 11 | 20 | 17
+EDGE Gabriel Paulista | Jérémy Perbet | 8 | 20 | 16
+EDGE Gabriel Paulista | Jonathan Pereira | 9 | 20 | 18
+EDGE Gabriel Paulista | Matías Nahuel | 2 | 20 | 2
+EDGE Gabriel Paulista | Joan Román | 1 | 20 | 1
+EDGE Jaume Costa | Mario Gaspar | 24 | 27 | 36
+EDGE Jaume Costa | Bruno Soriano | 24 | 27 | 38
+EDGE Jaume Costa | Manu Trigueros | 16 | 27 | 24
+EDGE Jaume Costa | Giovani dos Santos | 18 | 27 | 28
+EDGE Jaume Costa | Javier Aquino | 16 | 27 | 21
+EDGE Jaume Costa | Hernán Pérez | 8 | 27 | 10
+EDGE Jaume Costa | Ikechukwu Uche | 14 | 27 | 19
+EDGE Jaume Costa | Chechu Dorado | 14 | 27 | 19
+EDGE Jaume Costa | Cani | 16 | 27 | 25
+EDGE Jaume Costa | Jonathan Pereira | 12 | 27 | 18
+EDGE Jaume Costa | Jérémy Perbet | 8 | 27 | 16
+EDGE Jaume Costa | Tomás Pina | 15 | 27 | 25
+EDGE Jaume Costa | Moi Gómez | 9 | 27 | 17
+EDGE Jaume Costa | Óliver Torres | 4 | 27 | 6
+EDGE Jaume Costa | Juan Carlos | 1 | 27 | 7
+EDGE Jaume Costa | Bojan Jokic | 3 | 27 | 18
+EDGE Jaume Costa | Aleksandar Pantic | 5 | 27 | 10
+EDGE Jaume Costa | Edu Ramos | 2 | 27 | 2
+EDGE Jaume Costa | Pablo Iñiguez | 3 | 27 | 3
+EDGE Mario Gaspar | Bruno Soriano | 33 | 36 | 38
+EDGE Mario Gaspar | Manu Trigueros | 22 | 36 | 24
+EDGE Mario Gaspar | Giovani dos Santos | 25 | 36 | 28
+EDGE Mario Gaspar | Javier Aquino | 18 | 36 | 21
+EDGE Mario Gaspar | Hernán Pérez | 9 | 36 | 10
+EDGE Mario Gaspar | Ikechukwu Uche | 17 | 36 | 19
+EDGE Mario Gaspar | Bojan Jokic | 12 | 36 | 18
+EDGE Mario Gaspar | Tomás Pina | 20 | 36 | 25
+EDGE Mario Gaspar | Cani | 23 | 36 | 25
+EDGE Mario Gaspar | Óliver Torres | 4 | 36 | 6
+EDGE Mario Gaspar | Chechu Dorado | 16 | 36 | 19
+EDGE Mario Gaspar | Jonathan Pereira | 15 | 36 | 18
+EDGE Mario Gaspar | Jérémy Perbet | 12 | 36 | 16
+EDGE Mario Gaspar | Moi Gómez | 14 | 36 | 17
+EDGE Mario Gaspar | Juan Carlos | 3 | 36 | 7
+EDGE Mario Gaspar | Matías Nahuel | 2 | 36 | 2
+EDGE Mario Gaspar | Aleksandar Pantic | 5 | 36 | 10
+EDGE Mario Gaspar | Joan Román | 1 | 36 | 1
+EDGE Mario Gaspar | Edu Ramos | 2 | 36 | 2
+EDGE Mario Gaspar | Pablo Iñiguez | 3 | 36 | 3
+EDGE Bruno Soriano | Manu Trigueros | 20 | 38 | 24
+EDGE Bruno Soriano | Giovani dos Santos | 25 | 38 | 28
+EDGE Bruno Soriano | Javier Aquino | 18 | 38 | 21
+EDGE Bruno Soriano | Hernán Pérez | 8 | 38 | 10
+EDGE Bruno Soriano | Ikechukwu Uche | 17 | 38 | 19
+EDGE Bruno Soriano | Bojan Jokic | 17 | 38 | 18
+EDGE Bruno Soriano | Tomás Pina | 21 | 38 | 25
+EDGE Bruno Soriano | Cani | 24 | 38 | 25
+EDGE Bruno Soriano | Óliver Torres | 6 | 38 | 6
+EDGE Bruno Soriano | Chechu Dorado | 15 | 38 | 19
+EDGE Bruno Soriano | Jonathan Pereira | 18 | 38 | 18
+EDGE Bruno Soriano | Juan Carlos | 6 | 38 | 7
+EDGE Bruno Soriano | Aleksandar Pantic | 9 | 38 | 10
+EDGE Bruno Soriano | Moi Gómez | 15 | 38 | 17
+EDGE Bruno Soriano | Jérémy Perbet | 14 | 38 | 16
+EDGE Bruno Soriano | Matías Nahuel | 2 | 38 | 2
+EDGE Bruno Soriano | Joan Román | 1 | 38 | 1
+EDGE Bruno Soriano | Pablo Iñiguez | 3 | 38 | 3
+EDGE Bruno Soriano | Edu Ramos | 1 | 38 | 2
+EDGE Manu Trigueros | Giovani dos Santos | 15 | 24 | 28
+EDGE Manu Trigueros | Javier Aquino | 14 | 24 | 21
+EDGE Manu Trigueros | Hernán Pérez | 6 | 24 | 10
+EDGE Manu Trigueros | Ikechukwu Uche | 14 | 24 | 19
+EDGE Manu Trigueros | Chechu Dorado | 13 | 24 | 19
+EDGE Manu Trigueros | Cani | 14 | 24 | 25
+EDGE Manu Trigueros | Jonathan Pereira | 8 | 24 | 18
+EDGE Manu Trigueros | Jérémy Perbet | 8 | 24 | 16
+EDGE Manu Trigueros | Bojan Jokic | 9 | 24 | 18
+EDGE Manu Trigueros | Tomás Pina | 9 | 24 | 25
+EDGE Manu Trigueros | Óliver Torres | 2 | 24 | 6
+EDGE Manu Trigueros | Moi Gómez | 9 | 24 | 17
+EDGE Manu Trigueros | Juan Carlos | 4 | 24 | 7
+EDGE Manu Trigueros | Aleksandar Pantic | 4 | 24 | 10
+EDGE Manu Trigueros | Joan Román | 1 | 24 | 1
+EDGE Manu Trigueros | Edu Ramos | 1 | 24 | 2
+EDGE Giovani dos Santos | Javier Aquino | 16 | 28 | 21
+EDGE Giovani dos Santos | Hernán Pérez | 6 | 28 | 10
+EDGE Giovani dos Santos | Ikechukwu Uche | 12 | 28 | 19
+EDGE Giovani dos Santos | Bojan Jokic | 12 | 28 | 18
+EDGE Giovani dos Santos | Tomás Pina | 16 | 28 | 25
+EDGE Giovani dos Santos | Cani | 16 | 28 | 25
+EDGE Giovani dos Santos | Óliver Torres | 3 | 28 | 6
+EDGE Giovani dos Santos | Chechu Dorado | 15 | 28 | 19
+EDGE Giovani dos Santos | Jonathan Pereira | 8 | 28 | 18
+EDGE Giovani dos Santos | Moi Gómez | 11 | 28 | 17
+EDGE Giovani dos Santos | Jérémy Perbet | 7 | 28 | 16
+EDGE Giovani dos Santos | Juan Carlos | 5 | 28 | 7
+EDGE Giovani dos Santos | Aleksandar Pantic | 3 | 28 | 10
+EDGE Giovani dos Santos | Matías Nahuel | 2 | 28 | 2
+EDGE Giovani dos Santos | Edu Ramos | 2 | 28 | 2
+EDGE Giovani dos Santos | Pablo Iñiguez | 3 | 28 | 3
+EDGE Javier Aquino | Hernán Pérez | 2 | 21 | 10
+EDGE Javier Aquino | Ikechukwu Uche | 8 | 21 | 19
+EDGE Javier Aquino | Chechu Dorado | 15 | 21 | 19
+EDGE Javier Aquino | Cani | 11 | 21 | 25
+EDGE Javier Aquino | Jonathan Pereira | 11 | 21 | 18
+EDGE Javier Aquino | Juan Carlos | 4 | 21 | 7
+EDGE Javier Aquino | Bojan Jokic | 6 | 21 | 18
+EDGE Javier Aquino | Aleksandar Pantic | 4 | 21 | 10
+EDGE Javier Aquino | Tomás Pina | 10 | 21 | 25
+EDGE Javier Aquino | Moi Gómez | 7 | 21 | 17
+EDGE Javier Aquino | Jérémy Perbet | 5 | 21 | 16
+EDGE Javier Aquino | Edu Ramos | 2 | 21 | 2
+EDGE Javier Aquino | Pablo Iñiguez | 1 | 21 | 3
+EDGE Hernán Pérez | Ikechukwu Uche | 7 | 10 | 19
+EDGE Hernán Pérez | Chechu Dorado | 3 | 10 | 19
+EDGE Hernán Pérez | Cani | 6 | 10 | 25
+EDGE Hernán Pérez | Bojan Jokic | 2 | 10 | 18
+EDGE Hernán Pérez | Jonathan Pereira | 3 | 10 | 18
+EDGE Hernán Pérez | Tomás Pina | 6 | 10 | 25
+EDGE Hernán Pérez | Edu Ramos | 1 | 10 | 2
+EDGE Hernán Pérez | Pablo Iñiguez | 2 | 10 | 3
+EDGE Hernán Pérez | Moi Gómez | 2 | 10 | 17
+EDGE Hernán Pérez | Jérémy Perbet | 3 | 10 | 16
+EDGE Hernán Pérez | Juan Carlos | 1 | 10 | 7
+EDGE Hernán Pérez | Aleksandar Pantic | 1 | 10 | 10
+EDGE Ikechukwu Uche | Bojan Jokic | 7 | 19 | 18
+EDGE Ikechukwu Uche | Tomás Pina | 8 | 19 | 25
+EDGE Ikechukwu Uche | Cani | 10 | 19 | 25
+EDGE Ikechukwu Uche | Óliver Torres | 4 | 19 | 6
+EDGE Ikechukwu Uche | Chechu Dorado | 8 | 19 | 19
+EDGE Ikechukwu Uche | Moi Gómez | 9 | 19 | 17
+EDGE Ikechukwu Uche | Jonathan Pereira | 5 | 19 | 18
+EDGE Ikechukwu Uche | Juan Carlos | 2 | 19 | 7
+EDGE Ikechukwu Uche | Aleksandar Pantic | 1 | 19 | 10
+EDGE Ikechukwu Uche | Jérémy Perbet | 2 | 19 | 16
+EDGE Ikechukwu Uche | Pablo Iñiguez | 1 | 19 | 3
+EDGE Bojan Jokic | Tomás Pina | 12 | 18 | 25
+EDGE Bojan Jokic | Cani | 10 | 18 | 25
+EDGE Bojan Jokic | Óliver Torres | 4 | 18 | 6
+EDGE Bojan Jokic | Juan Carlos | 7 | 18 | 7
+EDGE Bojan Jokic | Chechu Dorado | 6 | 18 | 19
+EDGE Bojan Jokic | Aleksandar Pantic | 7 | 18 | 10
+EDGE Bojan Jokic | Moi Gómez | 9 | 18 | 17
+EDGE Bojan Jokic | Jérémy Perbet | 9 | 18 | 16
+EDGE Bojan Jokic | Jonathan Pereira | 7 | 18 | 18
+EDGE Bojan Jokic | Matías Nahuel | 2 | 18 | 2
+EDGE Bojan Jokic | Joan Román | 1 | 18 | 1
+EDGE Tomás Pina | Cani | 14 | 25 | 25
+EDGE Tomás Pina | Óliver Torres | 4 | 25 | 6
+EDGE Tomás Pina | Juan Carlos | 5 | 25 | 7
+EDGE Tomás Pina | Chechu Dorado | 10 | 25 | 19
+EDGE Tomás Pina | Aleksandar Pantic | 9 | 25 | 10
+EDGE Tomás Pina | Moi Gómez | 10 | 25 | 17
+EDGE Tomás Pina | Jérémy Perbet | 14 | 25 | 16
+EDGE Tomás Pina | Jonathan Pereira | 9 | 25 | 18
+EDGE Tomás Pina | Matías Nahuel | 2 | 25 | 2
+EDGE Tomás Pina | Joan Román | 1 | 25 | 1
+EDGE Tomás Pina | Edu Ramos | 1 | 25 | 2
+EDGE Tomás Pina | Pablo Iñiguez | 3 | 25 | 3
+EDGE Cani | Óliver Torres | 4 | 25 | 6
+EDGE Cani | Chechu Dorado | 10 | 25 | 19
+EDGE Cani | Jonathan Pereira | 13 | 25 | 18
+EDGE Cani | Jérémy Perbet | 9 | 25 | 16
+EDGE Cani | Aleksandar Pantic | 5 | 25 | 10
+EDGE Cani | Joan Román | 1 | 25 | 1
+EDGE Cani | Pablo Iñiguez | 3 | 25 | 3
+EDGE Cani | Juan Carlos | 2 | 25 | 7
+EDGE Cani | Moi Gómez | 3 | 25 | 17
+EDGE Óliver Torres | Moi Gómez | 3 | 6 | 17
+EDGE Óliver Torres | Jonathan Pereira | 3 | 6 | 18
+EDGE Óliver Torres | Aleksandar Pantic | 2 | 6 | 10
+EDGE Óliver Torres | Jérémy Perbet | 2 | 6 | 16
+EDGE Óliver Torres | Chechu Dorado | 1 | 6 | 19
+EDGE Chechu Dorado | Jonathan Pereira | 9 | 19 | 18
+EDGE Chechu Dorado | Juan Carlos | 3 | 19 | 7
+EDGE Chechu Dorado | Aleksandar Pantic | 2 | 19 | 10
+EDGE Chechu Dorado | Moi Gómez | 8 | 19 | 17
+EDGE Chechu Dorado | Jérémy Perbet | 5 | 19 | 16
+EDGE Chechu Dorado | Edu Ramos | 2 | 19 | 2
+EDGE Jonathan Pereira | Juan Carlos | 3 | 18 | 7
+EDGE Jonathan Pereira | Aleksandar Pantic | 5 | 18 | 10
+EDGE Jonathan Pereira | Moi Gómez | 6 | 18 | 17
+EDGE Jonathan Pereira | Jérémy Perbet | 5 | 18 | 16
+EDGE Jonathan Pereira | Edu Ramos | 1 | 18 | 2
+EDGE Juan Carlos | Aleksandar Pantic | 4 | 7 | 10
+EDGE Juan Carlos | Moi Gómez | 5 | 7 | 17
+EDGE Juan Carlos | Jérémy Perbet | 4 | 7 | 16
+EDGE Aleksandar Pantic | Moi Gómez | 5 | 10 | 17
+EDGE Aleksandar Pantic | Jérémy Perbet | 9 | 10 | 16
+EDGE Aleksandar Pantic | Joan Román | 1 | 10 | 1
+EDGE Aleksandar Pantic | Matías Nahuel | 1 | 10 | 2
+EDGE Moi Gómez | Jérémy Perbet | 8 | 17 | 16
+EDGE Moi Gómez | Matías Nahuel | 2 | 17 | 2
+EDGE Moi Gómez | Edu Ramos | 1 | 17 | 2
+EDGE Jérémy Perbet | Matías Nahuel | 2 | 16 | 2
+EDGE Jérémy Perbet | Joan Román | 1 | 16 | 1
+EDGE Jérémy Perbet | Pablo Iñiguez | 2 | 16 | 3

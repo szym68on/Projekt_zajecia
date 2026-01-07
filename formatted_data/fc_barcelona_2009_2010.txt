@@ -1,0 +1,181 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 948830 | pt., 28.08.2009 | Szachtar Donieck
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Thierry Henry, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 957454 | niedz., 21.03.2010 | Real Zaragoza
+PLAYERS: Víctor Valdés, Gabriel Milito, Gerard Piqué, Maxwell, Dani Alves, Sergio Busquets, Seydou Keita, Yaya Touré, Pedro, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 957420 | sob., 27.02.2010 | Málaga CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Maxwell, Dani Alves, Sergio Busquets, Xavi, Lionel Messi, Andrés Iniesta, Pedro, Zlatan Ibrahimović
+
+MATCH: 957597 | sob., 03.04.2010 | Athletic Bilbao
+PLAYERS: Víctor Valdés, Gerard Piqué, Dmytro Chygrynskyi, Éric Abidal, Carles Puyol, Sergio Busquets, Yaya Touré, Maxwell, Jeffrén, Bojan Krkic, Lionel Messi
+
+MATCH: 955817 | sob., 19.09.2009 | Atlético Madryt
+PLAYERS: Víctor Valdés, Gerard Piqué, Dmytro Chygrynskyi, Maxwell, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Thierry Henry, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 955905 | sob., 31.10.2009 | CA Osasuna
+PLAYERS: Víctor Valdés, Gerard Piqué, Dmytro Chygrynskyi, Éric Abidal, Carles Puyol, Sergio Busquets, Seydou Keita, Xavi, Andrés Iniesta, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 957261 | niedz., 29.11.2009 | Real Madryt
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Andrés Iniesta, Lionel Messi, Thierry Henry
+
+MATCH: 957306 | sob., 05.12.2009 | Deportivo de La Coruña
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 957446 | niedz., 14.03.2010 | Valencia CF
+PLAYERS: Víctor Valdés, Gabriel Milito, Gerard Piqué, Maxwell, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Bojan Krkic, Pedro, Lionel Messi
+
+MATCH: 957691 | niedz., 16.05.2010 | Real Valladolid CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Seydou Keita, Yaya Touré, Bojan Krkic, Pedro, Lionel Messi
+
+MATCH: 957251 | sob., 21.11.2009 | Athletic Bilbao
+PLAYERS: Víctor Valdés, Gerard Piqué, Dmytro Chygrynskyi, Maxwell, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Andrés Iniesta, Pedro, Lionel Messi
+
+MATCH: 957344 | niedz., 10.01.2010 | CD Tenerife
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Maxwell, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Bojan Krkic
+
+MATCH: 957325 | śr., 02.12.2009 | Xerez CD
+PLAYERS: Víctor Valdés, Rafa Márquez, Dmytro Chygrynskyi, Maxwell, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Thierry Henry, Pedro, Bojan Krkic
+
+MATCH: 949294 | niedz., 23.08.2009 | Athletic Bilbao
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Maxwell, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Thierry Henry, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 949293 | niedz., 16.08.2009 | Athletic Bilbao
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Bojan Krkic, Pedro, Thierry Henry
+
+MATCH: 1005189 | śr., 28.04.2010 | Inter Mediolan
+PLAYERS: Víctor Valdés, Gerard Piqué, Yaya Touré, Gabriel Milito, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Pedro, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 976416 | śr., 28.10.2009 | Cultural Leonesa
+PLAYERS: José Manuel Pinto, Rafa Márquez, Sergio Busquets, Maxwell, Dmytro Chygrynskyi, Yaya Touré, Seydou Keita, Jeffrén, Gai Assulin, Pedro, Bojan Krkic
+
+MATCH: 957410 | sob., 20.02.2010 | Racing Santander
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Maxwell, Carles Puyol, Yaya Touré, Sergio Busquets, Andrés Iniesta, Thierry Henry, Lionel Messi, Bojan Krkic
+
+MATCH: 957467 | śr., 24.03.2010 | CA Osasuna
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Maxwell, Dani Alves, Sergio Busquets, Andrés Iniesta, Yaya Touré, Thierry Henry, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 1003669 | wt., 06.04.2010 | FC Arsenal
+PLAYERS: Víctor Valdés, Gabriel Milito, Rafa Márquez, Éric Abidal, Dani Alves, Sergio Busquets, Xavi, Seydou Keita, Pedro, Lionel Messi, Bojan Krkic
+
+MATCH: 957627 | śr., 14.04.2010 | Deportivo de La Coruña
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Maxwell, Dani Alves, Yaya Touré, Xavi, Jeffrén, Bojan Krkic, Pedro, Lionel Messi
+
+MATCH: 957653 | sob., 24.04.2010 | Xerez CD
+PLAYERS: Víctor Valdés, Rafa Márquez, Dmytro Chygrynskyi, Maxwell, Carles Puyol, Yaya Touré, Seydou Keita, Xavi, Thierry Henry, Jeffrén, Zlatan Ibrahimović
+
+MATCH: 1003665 | śr., 31.03.2010 | FC Arsenal
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Maxwell, Dani Alves, Sergio Busquets, Xavi, Seydou Keita, Pedro, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 986473 | wt., 05.01.2010 | Sevilla FC
+PLAYERS: José Manuel Pinto, Gabriel Milito, Dmytro Chygrynskyi, Maxwell, Dani Alves, Rafa Márquez, Andrés Iniesta, Thiago Alcántara, Pedro, Lionel Messi, Bojan Krkic
+
+MATCH: 988801 | wt., 23.02.2010 | VfB Stuttgart
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Maxwell, Carles Puyol, Sergio Busquets, Xavi, Yaya Touré, Andrés Iniesta, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 971653 | wt., 24.11.2009 | Inter Mediolan
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Pedro, Andrés Iniesta, Thierry Henry
+
+MATCH: 955837 | wt., 22.09.2009 | Racing Santander
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Thierry Henry, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 988498 | śr., 16.12.2009 | CF Atlante
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Xavi, Yaya Touré, Andrés Iniesta, Pedro, Zlatan Ibrahimović
+
+MATCH: 976432 | wt., 10.11.2009 | Cultural Leonesa
+PLAYERS: José Manuel Pinto, Rafa Márquez, Carles Puyol, Maxwell, Dani Alves, Sergio Busquets, Jonathan dos Santos, Andrés Iniesta, Pedro, Jeffrén, Bojan Krkic
+
+MATCH: 986481 | śr., 13.01.2010 | Sevilla FC
+PLAYERS: José Manuel Pinto, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 955807 | sob., 12.09.2009 | Getafe CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Dmytro Chygrynskyi, Éric Abidal, Carles Puyol, Yaya Touré, Seydou Keita, Xavi, Jeffrén, Pedro, Zlatan Ibrahimović
+
+MATCH: 957316 | sob., 12.12.2009 | RCD Espanyol
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Maxwell, Dani Alves, Yaya Touré, Andrés Iniesta, Xavi, Thierry Henry, Pedro, Zlatan Ibrahimović
+
+MATCH: 971649 | śr., 16.09.2009 | Inter Mediolan
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Thierry Henry, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 955780 | pon., 31.08.2009 | Sporting Gijón
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Maxwell, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Bojan Krkic, Pedro, Zlatan Ibrahimović
+
+MATCH: 957672 | wt., 04.05.2010 | CD Tenerife
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Maxwell, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Bojan Krkic, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 971652 | śr., 04.11.2009 | Rubin Kazań
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Andrés Iniesta, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 957335 | sob., 02.01.2010 | Villarreal CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Jonathan dos Santos, Xavi, Thierry Henry, Pedro, Zlatan Ibrahimović
+
+MATCH: 957363 | sob., 23.01.2010 | Real Valladolid CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Seydou Keita, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 971654 | śr., 09.12.2009 | Dynamo Kijów
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Andrés Iniesta, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 988805 | śr., 17.03.2010 | VfB Stuttgart
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Maxwell, Dani Alves, Sergio Busquets, Andrés Iniesta, Yaya Touré, Thierry Henry, Pedro, Lionel Messi
+
+MATCH: 955892 | niedz., 25.10.2009 | Real Zaragoza
+PLAYERS: Víctor Valdés, Gerard Piqué, Dmytro Chygrynskyi, Maxwell, Carles Puyol, Sergio Busquets, Seydou Keita, Xavi, Andrés Iniesta, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 957682 | sob., 08.05.2010 | Sevilla FC
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Maxwell, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Bojan Krkic, Pedro, Lionel Messi
+
+MATCH: 957354 | sob., 16.01.2010 | Sevilla FC
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Thierry Henry, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 955875 | sob., 03.10.2009 | UD Almería
+PLAYERS: Víctor Valdés, Rafa Márquez, Carles Puyol, Maxwell, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Pedro, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 957663 | sob., 01.05.2010 | Villarreal CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Maxwell, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Bojan Krkic, Pedro, Lionel Messi
+
+MATCH: 955906 | sob., 07.11.2009 | RCD Mallorca
+PLAYERS: Víctor Valdés, Gerard Piqué, Dmytro Chygrynskyi, Éric Abidal, Carles Puyol, Yaya Touré, Sergio Busquets, Seydou Keita, Thierry Henry, Pedro, Zlatan Ibrahimović
+
+MATCH: 971651 | wt., 20.10.2009 | Rubin Kazań
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Éric Abidal, Dani Alves, Yaya Touré, Andrés Iniesta, Xavi, Pedro, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 957612 | sob., 10.04.2010 | Real Madryt
+PLAYERS: Víctor Valdés, Gabriel Milito, Gerard Piqué, Maxwell, Carles Puyol, Sergio Busquets, Seydou Keita, Xavi, Pedro, Dani Alves, Lionel Messi
+
+MATCH: 1005187 | wt., 20.04.2010 | Inter Mediolan
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Maxwell, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Pedro, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 955865 | sob., 26.09.2009 | Málaga CF
+PLAYERS: Víctor Valdés, Carles Puyol, Dmytro Chygrynskyi, Éric Abidal, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Pedro, Lionel Messi, Thierry Henry
+
+MATCH: 957399 | niedz., 14.02.2010 | Atlético Madryt
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Maxwell, Jeffrén, Sergio Busquets, Seydou Keita, Xavi, Andrés Iniesta, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 971650 | wt., 29.09.2009 | Dynamo Kijów
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Andrés Iniesta, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 957497 | sob., 27.03.2010 | RCD Mallorca
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Maxwell, Dani Alves, Yaya Touré, Seydou Keita, Andrés Iniesta, Jeffrén, Pedro, Zlatan Ibrahimović
+
+MATCH: 957437 | sob., 06.03.2010 | UD Almería
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Maxwell, Dani Alves, Yaya Touré, Andrés Iniesta, Xavi, Pedro, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 957644 | sob., 17.04.2010 | RCD Espanyol
+PLAYERS: Víctor Valdés, Gabriel Milito, Gerard Piqué, Carles Puyol, Dani Alves, Sergio Busquets, Xavi, Yaya Touré, Maxwell, Pedro, Lionel Messi
+
+MATCH: 957372 | sob., 30.01.2010 | Sporting Gijón
+PLAYERS: Víctor Valdés, Gerard Piqué, Rafa Márquez, Éric Abidal, Carles Puyol, Sergio Busquets, Andrés Iniesta, Xavi, Pedro, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 988666 | sob., 19.12.2009 | Club Estudiantes de La Plata
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Thierry Henry, Lionel Messi, Zlatan Ibrahimović
+
+MATCH: 955884 | sob., 17.10.2009 | Valencia CF
+PLAYERS: Víctor Valdés, Carles Puyol, Gerard Piqué, Éric Abidal, Dani Alves, Yaya Touré, Seydou Keita, Xavi, Andrés Iniesta, Pedro, Lionel Messi
+
+MATCH: 957389 | sob., 06.02.2010 | Getafe CF
+PLAYERS: Víctor Valdés, Gabriel Milito, Gerard Piqué, Éric Abidal, Maxwell, Yaya Touré, Seydou Keita, Xavi, Andrés Iniesta, Lionel Messi, Zlatan Ibrahimović
+

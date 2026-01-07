@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-01-07T12:54:18.486113",
+  "total_teams": 1,
+  "total_seasons": 1,
+  "completed": 1,
+  "failed": 0,
+  "results": [
+    {
+      "team": "Atletico Madryt",
+      "season": "2005/2006",
+      "matches": 41,
+      "file": "football_data\\atletico_madryt_2005_2006.txt",
+      "status": "success"
+    }
+  ]
+}

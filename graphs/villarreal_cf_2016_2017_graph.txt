@@ -1,0 +1,287 @@
+# Graph for Java/GraphStream
+# Nodes: 25
+# Edges: 281
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Sergio Asenjo | Víctor Ruiz | 27 | 31 | 35
+EDGE Sergio Asenjo | Mateo Musacchio | 20 | 31 | 30
+EDGE Sergio Asenjo | Jaume Costa | 21 | 31 | 34
+EDGE Sergio Asenjo | Mario Gaspar | 29 | 31 | 42
+EDGE Sergio Asenjo | Bruno Soriano | 28 | 31 | 44
+EDGE Sergio Asenjo | Manu Trigueros | 30 | 31 | 42
+EDGE Sergio Asenjo | Roberto Soriano | 24 | 31 | 38
+EDGE Sergio Asenjo | Samu Castillejo | 21 | 31 | 29
+EDGE Sergio Asenjo | Nicola Sansone | 24 | 31 | 29
+EDGE Sergio Asenjo | Alexandre Pato | 15 | 31 | 19
+EDGE Sergio Asenjo | Cédric Bakambu | 9 | 31 | 22
+EDGE Sergio Asenjo | Álvaro González | 12 | 31 | 28
+EDGE Sergio Asenjo | Antonio Rukavina | 3 | 31 | 11
+EDGE Sergio Asenjo | Rodri | 5 | 31 | 14
+EDGE Sergio Asenjo | Rafael Borré | 5 | 31 | 12
+EDGE Sergio Asenjo | Jonathan dos Santos | 17 | 31 | 32
+EDGE Sergio Asenjo | Cote | 9 | 31 | 17
+EDGE Sergio Asenjo | Daniele Bonera | 2 | 31 | 10
+EDGE Sergio Asenjo | Adrián López | 4 | 31 | 7
+EDGE Sergio Asenjo | Alfred N'Diaye | 2 | 31 | 6
+EDGE Sergio Asenjo | Denis Cheryshev | 3 | 31 | 8
+EDGE Víctor Ruiz | Mateo Musacchio | 21 | 35 | 30
+EDGE Víctor Ruiz | Jaume Costa | 24 | 35 | 34
+EDGE Víctor Ruiz | Mario Gaspar | 31 | 35 | 42
+EDGE Víctor Ruiz | Bruno Soriano | 31 | 35 | 44
+EDGE Víctor Ruiz | Manu Trigueros | 30 | 35 | 42
+EDGE Víctor Ruiz | Roberto Soriano | 27 | 35 | 38
+EDGE Víctor Ruiz | Samu Castillejo | 23 | 35 | 29
+EDGE Víctor Ruiz | Nicola Sansone | 24 | 35 | 29
+EDGE Víctor Ruiz | Alexandre Pato | 15 | 35 | 19
+EDGE Víctor Ruiz | Cédric Bakambu | 12 | 35 | 22
+EDGE Víctor Ruiz | Andrés Fernández | 7 | 35 | 19
+EDGE Víctor Ruiz | Roberto Soldado | 3 | 35 | 11
+EDGE Víctor Ruiz | Álvaro González | 13 | 35 | 28
+EDGE Víctor Ruiz | Antonio Rukavina | 5 | 35 | 11
+EDGE Víctor Ruiz | Rodri | 7 | 35 | 14
+EDGE Víctor Ruiz | Rafael Borré | 7 | 35 | 12
+EDGE Víctor Ruiz | Jonathan dos Santos | 20 | 35 | 32
+EDGE Víctor Ruiz | Cote | 10 | 35 | 17
+EDGE Víctor Ruiz | Mariano Barbosa | 1 | 35 | 2
+EDGE Víctor Ruiz | Alfred N'Diaye | 3 | 35 | 6
+EDGE Víctor Ruiz | Daniele Bonera | 1 | 35 | 10
+EDGE Víctor Ruiz | Adrián López | 4 | 35 | 7
+EDGE Víctor Ruiz | Denis Cheryshev | 4 | 35 | 8
+EDGE Mateo Musacchio | Jaume Costa | 22 | 30 | 34
+EDGE Mateo Musacchio | Mario Gaspar | 26 | 30 | 42
+EDGE Mateo Musacchio | Bruno Soriano | 24 | 30 | 44
+EDGE Mateo Musacchio | Manu Trigueros | 27 | 30 | 42
+EDGE Mateo Musacchio | Roberto Soriano | 23 | 30 | 38
+EDGE Mateo Musacchio | Samu Castillejo | 18 | 30 | 29
+EDGE Mateo Musacchio | Nicola Sansone | 20 | 30 | 29
+EDGE Mateo Musacchio | Alexandre Pato | 11 | 30 | 19
+EDGE Mateo Musacchio | Andrés Fernández | 10 | 30 | 19
+EDGE Mateo Musacchio | Álvaro González | 7 | 30 | 28
+EDGE Mateo Musacchio | Antonio Rukavina | 5 | 30 | 11
+EDGE Mateo Musacchio | Rodri | 6 | 30 | 14
+EDGE Mateo Musacchio | Jonathan dos Santos | 17 | 30 | 32
+EDGE Mateo Musacchio | Roberto Soldado | 5 | 30 | 11
+EDGE Mateo Musacchio | Cédric Bakambu | 14 | 30 | 22
+EDGE Mateo Musacchio | Adrián López | 5 | 30 | 7
+EDGE Mateo Musacchio | Rafael Borré | 4 | 30 | 12
+EDGE Mateo Musacchio | Alfred N'Diaye | 3 | 30 | 6
+EDGE Mateo Musacchio | Cote | 7 | 30 | 17
+EDGE Mateo Musacchio | Denis Cheryshev | 4 | 30 | 8
+EDGE Mateo Musacchio | Daniele Bonera | 1 | 30 | 10
+EDGE Jaume Costa | Mario Gaspar | 30 | 34 | 42
+EDGE Jaume Costa | Bruno Soriano | 30 | 34 | 44
+EDGE Jaume Costa | Manu Trigueros | 32 | 34 | 42
+EDGE Jaume Costa | Roberto Soriano | 28 | 34 | 38
+EDGE Jaume Costa | Samu Castillejo | 20 | 34 | 29
+EDGE Jaume Costa | Nicola Sansone | 23 | 34 | 29
+EDGE Jaume Costa | Alexandre Pato | 9 | 34 | 19
+EDGE Jaume Costa | Andrés Fernández | 12 | 34 | 19
+EDGE Jaume Costa | Álvaro González | 18 | 34 | 28
+EDGE Jaume Costa | Antonio Rukavina | 4 | 34 | 11
+EDGE Jaume Costa | Rodri | 7 | 34 | 14
+EDGE Jaume Costa | Jonathan dos Santos | 18 | 34 | 32
+EDGE Jaume Costa | Roberto Soldado | 9 | 34 | 11
+EDGE Jaume Costa | Cédric Bakambu | 19 | 34 | 22
+EDGE Jaume Costa | Rafael Borré | 3 | 34 | 12
+EDGE Jaume Costa | Daniele Bonera | 4 | 34 | 10
+EDGE Jaume Costa | Adrián López | 4 | 34 | 7
+EDGE Jaume Costa | Denis Cheryshev | 2 | 34 | 8
+EDGE Jaume Costa | Mariano Barbosa | 1 | 34 | 2
+EDGE Mario Gaspar | Bruno Soriano | 36 | 42 | 44
+EDGE Mario Gaspar | Manu Trigueros | 38 | 42 | 42
+EDGE Mario Gaspar | Roberto Soriano | 35 | 42 | 38
+EDGE Mario Gaspar | Samu Castillejo | 26 | 42 | 29
+EDGE Mario Gaspar | Nicola Sansone | 27 | 42 | 29
+EDGE Mario Gaspar | Alexandre Pato | 15 | 42 | 19
+EDGE Mario Gaspar | Cédric Bakambu | 18 | 42 | 22
+EDGE Mario Gaspar | Andrés Fernández | 12 | 42 | 19
+EDGE Mario Gaspar | Roberto Soldado | 9 | 42 | 11
+EDGE Mario Gaspar | Álvaro González | 20 | 42 | 28
+EDGE Mario Gaspar | Jonathan dos Santos | 24 | 42 | 32
+EDGE Mario Gaspar | Cote | 11 | 42 | 17
+EDGE Mario Gaspar | Rafael Borré | 5 | 42 | 12
+EDGE Mario Gaspar | Daniele Bonera | 6 | 42 | 10
+EDGE Mario Gaspar | Mariano Barbosa | 1 | 42 | 2
+EDGE Mario Gaspar | Alfred N'Diaye | 3 | 42 | 6
+EDGE Mario Gaspar | Rodri | 9 | 42 | 14
+EDGE Mario Gaspar | Adrián López | 6 | 42 | 7
+EDGE Mario Gaspar | Denis Cheryshev | 2 | 42 | 8
+EDGE Mario Gaspar | Antonio Rukavina | 1 | 42 | 11
+EDGE Bruno Soriano | Manu Trigueros | 36 | 44 | 42
+EDGE Bruno Soriano | Roberto Soriano | 31 | 44 | 38
+EDGE Bruno Soriano | Samu Castillejo | 26 | 44 | 29
+EDGE Bruno Soriano | Nicola Sansone | 25 | 44 | 29
+EDGE Bruno Soriano | Alexandre Pato | 15 | 44 | 19
+EDGE Bruno Soriano | Cédric Bakambu | 19 | 44 | 22
+EDGE Bruno Soriano | Andrés Fernández | 16 | 44 | 19
+EDGE Bruno Soriano | Roberto Soldado | 9 | 44 | 11
+EDGE Bruno Soriano | Álvaro González | 23 | 44 | 28
+EDGE Bruno Soriano | Antonio Rukavina | 8 | 44 | 11
+EDGE Bruno Soriano | Rodri | 7 | 44 | 14
+EDGE Bruno Soriano | Rafael Borré | 10 | 44 | 12
+EDGE Bruno Soriano | Jonathan dos Santos | 26 | 44 | 32
+EDGE Bruno Soriano | Cote | 14 | 44 | 17
+EDGE Bruno Soriano | Daniele Bonera | 9 | 44 | 10
+EDGE Bruno Soriano | Adrián López | 6 | 44 | 7
+EDGE Bruno Soriano | Denis Cheryshev | 7 | 44 | 8
+EDGE Bruno Soriano | Alfred N'Diaye | 4 | 44 | 6
+EDGE Manu Trigueros | Roberto Soriano | 32 | 42 | 38
+EDGE Manu Trigueros | Samu Castillejo | 26 | 42 | 29
+EDGE Manu Trigueros | Nicola Sansone | 26 | 42 | 29
+EDGE Manu Trigueros | Alexandre Pato | 15 | 42 | 19
+EDGE Manu Trigueros | Andrés Fernández | 11 | 42 | 19
+EDGE Manu Trigueros | Álvaro González | 20 | 42 | 28
+EDGE Manu Trigueros | Antonio Rukavina | 5 | 42 | 11
+EDGE Manu Trigueros | Rodri | 7 | 42 | 14
+EDGE Manu Trigueros | Jonathan dos Santos | 25 | 42 | 32
+EDGE Manu Trigueros | Roberto Soldado | 9 | 42 | 11
+EDGE Manu Trigueros | Cédric Bakambu | 19 | 42 | 22
+EDGE Manu Trigueros | Cote | 9 | 42 | 17
+EDGE Manu Trigueros | Rafael Borré | 5 | 42 | 12
+EDGE Manu Trigueros | Daniele Bonera | 6 | 42 | 10
+EDGE Manu Trigueros | Adrián López | 5 | 42 | 7
+EDGE Manu Trigueros | Alfred N'Diaye | 2 | 42 | 6
+EDGE Manu Trigueros | Denis Cheryshev | 4 | 42 | 8
+EDGE Manu Trigueros | Mariano Barbosa | 1 | 42 | 2
+EDGE Roberto Soriano | Samu Castillejo | 21 | 38 | 29
+EDGE Roberto Soriano | Nicola Sansone | 26 | 38 | 29
+EDGE Roberto Soriano | Alexandre Pato | 14 | 38 | 19
+EDGE Roberto Soriano | Andrés Fernández | 13 | 38 | 19
+EDGE Roberto Soriano | Álvaro González | 20 | 38 | 28
+EDGE Roberto Soriano | Antonio Rukavina | 4 | 38 | 11
+EDGE Roberto Soriano | Rodri | 11 | 38 | 14
+EDGE Roberto Soriano | Jonathan dos Santos | 18 | 38 | 32
+EDGE Roberto Soriano | Roberto Soldado | 10 | 38 | 11
+EDGE Roberto Soriano | Cédric Bakambu | 15 | 38 | 22
+EDGE Roberto Soriano | Rafael Borré | 6 | 38 | 12
+EDGE Roberto Soriano | Daniele Bonera | 5 | 38 | 10
+EDGE Roberto Soriano | Cote | 9 | 38 | 17
+EDGE Roberto Soriano | Mariano Barbosa | 1 | 38 | 2
+EDGE Roberto Soriano | Alfred N'Diaye | 3 | 38 | 6
+EDGE Roberto Soriano | Adrián López | 3 | 38 | 7
+EDGE Roberto Soriano | Denis Cheryshev | 1 | 38 | 8
+EDGE Samu Castillejo | Nicola Sansone | 19 | 29 | 29
+EDGE Samu Castillejo | Alexandre Pato | 10 | 29 | 19
+EDGE Samu Castillejo | Cédric Bakambu | 9 | 29 | 22
+EDGE Samu Castillejo | Andrés Fernández | 8 | 29 | 19
+EDGE Samu Castillejo | Roberto Soldado | 4 | 29 | 11
+EDGE Samu Castillejo | Álvaro González | 11 | 29 | 28
+EDGE Samu Castillejo | Antonio Rukavina | 4 | 29 | 11
+EDGE Samu Castillejo | Rodri | 5 | 29 | 14
+EDGE Samu Castillejo | Rafael Borré | 6 | 29 | 12
+EDGE Samu Castillejo | Cote | 8 | 29 | 17
+EDGE Samu Castillejo | Jonathan dos Santos | 12 | 29 | 32
+EDGE Samu Castillejo | Daniele Bonera | 5 | 29 | 10
+EDGE Samu Castillejo | Adrián López | 4 | 29 | 7
+EDGE Samu Castillejo | Alfred N'Diaye | 3 | 29 | 6
+EDGE Samu Castillejo | Denis Cheryshev | 1 | 29 | 8
+EDGE Nicola Sansone | Alexandre Pato | 11 | 29 | 19
+EDGE Nicola Sansone | Cédric Bakambu | 8 | 29 | 22
+EDGE Nicola Sansone | Álvaro González | 13 | 29 | 28
+EDGE Nicola Sansone | Antonio Rukavina | 3 | 29 | 11
+EDGE Nicola Sansone | Rodri | 6 | 29 | 14
+EDGE Nicola Sansone | Rafael Borré | 2 | 29 | 12
+EDGE Nicola Sansone | Jonathan dos Santos | 15 | 29 | 32
+EDGE Nicola Sansone | Daniele Bonera | 1 | 29 | 10
+EDGE Nicola Sansone | Cote | 5 | 29 | 17
+EDGE Nicola Sansone | Andrés Fernández | 5 | 29 | 19
+EDGE Nicola Sansone | Adrián López | 4 | 29 | 7
+EDGE Nicola Sansone | Roberto Soldado | 1 | 29 | 11
+EDGE Nicola Sansone | Denis Cheryshev | 1 | 29 | 8
+EDGE Nicola Sansone | Alfred N'Diaye | 1 | 29 | 6
+EDGE Alexandre Pato | Álvaro González | 9 | 19 | 28
+EDGE Alexandre Pato | Jonathan dos Santos | 11 | 19 | 32
+EDGE Alexandre Pato | Cote | 9 | 19 | 17
+EDGE Alexandre Pato | Rafael Borré | 7 | 19 | 12
+EDGE Alexandre Pato | Mariano Barbosa | 1 | 19 | 2
+EDGE Alexandre Pato | Alfred N'Diaye | 6 | 19 | 6
+EDGE Alexandre Pato | Rodri | 3 | 19 | 14
+EDGE Alexandre Pato | Antonio Rukavina | 5 | 19 | 11
+EDGE Alexandre Pato | Denis Cheryshev | 3 | 19 | 8
+EDGE Alexandre Pato | Cédric Bakambu | 1 | 19 | 22
+EDGE Alexandre Pato | Andrés Fernández | 3 | 19 | 19
+EDGE Alexandre Pato | Daniele Bonera | 2 | 19 | 10
+EDGE Andrés Fernández | Álvaro González | 14 | 19 | 28
+EDGE Andrés Fernández | Antonio Rukavina | 7 | 19 | 11
+EDGE Andrés Fernández | Rodri | 7 | 19 | 14
+EDGE Andrés Fernández | Jonathan dos Santos | 13 | 19 | 32
+EDGE Andrés Fernández | Roberto Soldado | 11 | 19 | 11
+EDGE Andrés Fernández | Cédric Bakambu | 12 | 19 | 22
+EDGE Andrés Fernández | Daniele Bonera | 7 | 19 | 10
+EDGE Andrés Fernández | Cote | 7 | 19 | 17
+EDGE Andrés Fernández | Adrián López | 3 | 19 | 7
+EDGE Andrés Fernández | Denis Cheryshev | 4 | 19 | 8
+EDGE Andrés Fernández | Rafael Borré | 5 | 19 | 12
+EDGE Andrés Fernández | Alfred N'Diaye | 3 | 19 | 6
+EDGE Álvaro González | Antonio Rukavina | 8 | 28 | 11
+EDGE Álvaro González | Rodri | 11 | 28 | 14
+EDGE Álvaro González | Jonathan dos Santos | 19 | 28 | 32
+EDGE Álvaro González | Roberto Soldado | 9 | 28 | 11
+EDGE Álvaro González | Cédric Bakambu | 13 | 28 | 22
+EDGE Álvaro González | Rafael Borré | 8 | 28 | 12
+EDGE Álvaro González | Cote | 10 | 28 | 17
+EDGE Álvaro González | Daniele Bonera | 8 | 28 | 10
+EDGE Álvaro González | Mariano Barbosa | 2 | 28 | 2
+EDGE Álvaro González | Alfred N'Diaye | 3 | 28 | 6
+EDGE Álvaro González | Adrián López | 4 | 28 | 7
+EDGE Álvaro González | Denis Cheryshev | 5 | 28 | 8
+EDGE Antonio Rukavina | Rodri | 5 | 11 | 14
+EDGE Antonio Rukavina | Jonathan dos Santos | 8 | 11 | 32
+EDGE Antonio Rukavina | Roberto Soldado | 2 | 11 | 11
+EDGE Antonio Rukavina | Cédric Bakambu | 4 | 11 | 22
+EDGE Antonio Rukavina | Rafael Borré | 7 | 11 | 12
+EDGE Antonio Rukavina | Daniele Bonera | 4 | 11 | 10
+EDGE Antonio Rukavina | Cote | 6 | 11 | 17
+EDGE Antonio Rukavina | Denis Cheryshev | 6 | 11 | 8
+EDGE Antonio Rukavina | Mariano Barbosa | 1 | 11 | 2
+EDGE Antonio Rukavina | Alfred N'Diaye | 4 | 11 | 6
+EDGE Antonio Rukavina | Adrián López | 1 | 11 | 7
+EDGE Rodri | Jonathan dos Santos | 9 | 14 | 32
+EDGE Rodri | Roberto Soldado | 4 | 14 | 11
+EDGE Rodri | Cédric Bakambu | 6 | 14 | 22
+EDGE Rodri | Rafael Borré | 5 | 14 | 12
+EDGE Rodri | Mariano Barbosa | 2 | 14 | 2
+EDGE Rodri | Cote | 7 | 14 | 17
+EDGE Rodri | Alfred N'Diaye | 1 | 14 | 6
+EDGE Rodri | Daniele Bonera | 4 | 14 | 10
+EDGE Rodri | Adrián López | 3 | 14 | 7
+EDGE Rodri | Denis Cheryshev | 3 | 14 | 8
+EDGE Jonathan dos Santos | Roberto Soldado | 6 | 32 | 11
+EDGE Jonathan dos Santos | Cédric Bakambu | 14 | 32 | 22
+EDGE Jonathan dos Santos | Cote | 14 | 32 | 17
+EDGE Jonathan dos Santos | Rafael Borré | 7 | 32 | 12
+EDGE Jonathan dos Santos | Daniele Bonera | 8 | 32 | 10
+EDGE Jonathan dos Santos | Mariano Barbosa | 2 | 32 | 2
+EDGE Jonathan dos Santos | Alfred N'Diaye | 4 | 32 | 6
+EDGE Jonathan dos Santos | Adrián López | 6 | 32 | 7
+EDGE Jonathan dos Santos | Denis Cheryshev | 7 | 32 | 8
+EDGE Roberto Soldado | Cédric Bakambu | 10 | 11 | 22
+EDGE Roberto Soldado | Daniele Bonera | 5 | 11 | 10
+EDGE Roberto Soldado | Cote | 2 | 11 | 17
+EDGE Roberto Soldado | Denis Cheryshev | 1 | 11 | 8
+EDGE Roberto Soldado | Rafael Borré | 1 | 11 | 12
+EDGE Cédric Bakambu | Daniele Bonera | 5 | 22 | 10
+EDGE Cédric Bakambu | Cote | 3 | 22 | 17
+EDGE Cédric Bakambu | Adrián López | 3 | 22 | 7
+EDGE Cédric Bakambu | Denis Cheryshev | 4 | 22 | 8
+EDGE Cédric Bakambu | Rafael Borré | 2 | 22 | 12
+EDGE Cédric Bakambu | Mariano Barbosa | 1 | 22 | 2
+EDGE Rafael Borré | Cote | 9 | 12 | 17
+EDGE Rafael Borré | Mariano Barbosa | 2 | 12 | 2
+EDGE Rafael Borré | Alfred N'Diaye | 5 | 12 | 6
+EDGE Rafael Borré | Daniele Bonera | 4 | 12 | 10
+EDGE Rafael Borré | Denis Cheryshev | 5 | 12 | 8
+EDGE Cote | Daniele Bonera | 6 | 17 | 10
+EDGE Cote | Mariano Barbosa | 1 | 17 | 2
+EDGE Cote | Alfred N'Diaye | 5 | 17 | 6
+EDGE Cote | Adrián López | 3 | 17 | 7
+EDGE Cote | Denis Cheryshev | 6 | 17 | 8
+EDGE Daniele Bonera | Adrián López | 1 | 10 | 7
+EDGE Daniele Bonera | Denis Cheryshev | 3 | 10 | 8
+EDGE Daniele Bonera | Mariano Barbosa | 1 | 10 | 2
+EDGE Daniele Bonera | Alfred N'Diaye | 2 | 10 | 6
+EDGE Mariano Barbosa | Alfred N'Diaye | 1 | 2 | 6
+EDGE Mariano Barbosa | Denis Cheryshev | 1 | 2 | 8
+EDGE Alfred N'Diaye | Denis Cheryshev | 2 | 6 | 8
+EDGE Adrián López | Denis Cheryshev | 1 | 7 | 8

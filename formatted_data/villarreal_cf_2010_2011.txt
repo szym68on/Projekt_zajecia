@@ -1,0 +1,184 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 1036088 | niedz., 19.09.2010 | Levante UD
+PLAYERS: Diego López, Carlos Marchena, Mateo Musacchio, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Santi Cazorla, Borja Valero, Giuseppe Rossi, Nilmar
+
+MATCH: 1053822 | czw., 04.11.2010 | PAOK Saloniki
+PLAYERS: Diego López, Gonzalo Rodríguez, Carlos Marchena, Joan Capdevila, Ángel López, Mateo Musacchio, Bruno Soriano, Borja Valero, Cani, Nilmar, Jozy Altidore
+
+MATCH: 1036232 | pon., 03.01.2011 | UD Almería
+PLAYERS: Diego López, Gonzalo Rodríguez, Joan Capdevila, José Manuel Catalá, Ángel López, Bruno Soriano, Santi Cazorla, Borja Valero, Cani, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1036363 | sob., 02.04.2011 | FC Barcelona
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, José Manuel Catalá, Mario Gaspar, Carlos Marchena, Bruno Soriano, Borja Valero, Santi Cazorla, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1055165 | śr., 10.11.2010 | Polideportivo Ejido
+PLAYERS: Juan Carlos, Mario Gaspar, Mateo Musacchio, Gonzalo Rodríguez, José Manuel Catalá, Joan Oriol, Javier Matilla, Cristóbal Márquez, Jefferson Montero, Jozy Altidore, Marco Ruben
+
+MATCH: 1036412 | niedz., 08.05.2011 | RCD Mallorca
+PLAYERS: Diego López, Mateo Musacchio, Carlos Marchena, José Manuel Catalá, Mario Gaspar, Bruno Soriano, Marcos Senna, Santi Cazorla, Borja Valero, Giuseppe Rossi, Nilmar
+
+MATCH: 1081212 | czw., 17.03.2011 | Bayer 04 Leverkusen
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, José Manuel Catalá, Mario Gaspar, Carlos Marchena, Bruno Soriano, Borja Valero, Santi Cazorla, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1043562 | czw., 19.08.2010 | Dnepr Mogilev
+PLAYERS: Diego López, Mateo Musacchio, Carlos Marchena, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Borja Valero, Santi Cazorla, Cani, Giuseppe Rossi
+
+MATCH: 1036393 | niedz., 24.04.2011 | Sevilla FC
+PLAYERS: Diego López, Mateo Musacchio, Carlos Marchena, José Manuel Catalá, Mario Gaspar, Javier Matilla, Mubarak Wakaso, Bruno Soriano, Santi Cazorla, Nilmar, Marco Ruben
+
+MATCH: 1036444 | sob., 21.05.2011 | CA Osasuna
+PLAYERS: Diego López, Carlos Tomás, José Manuel Catalá, Joan Capdevila, Mario Gaspar, Bruno Soriano, Marcos Senna, Santi Cazorla, Borja Valero, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1069774 | czw., 17.02.2011 | SSC Napoli
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Capdevila, Mario Gaspar, Bruno Soriano, Marcos Senna, Borja Valero, Santi Cazorla, Giuseppe Rossi, Nilmar
+
+MATCH: 1036193 | sob., 27.11.2010 | Real Zaragoza
+PLAYERS: Diego López, Gonzalo Rodríguez, Carlos Marchena, Joan Oriol, Ángel López, Bruno Soriano, Marcos Senna, Santi Cazorla, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 1036326 | śr., 02.03.2011 | Hércules CF
+PLAYERS: Diego López, Mario Gaspar, Carlos Marchena, Gonzalo Rodríguez, Joan Capdevila, Bruno Soriano, Santi Cazorla, Borja Valero, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 1036274 | niedz., 30.01.2011 | RCD Espanyol
+PLAYERS: Diego López, Mario Gaspar, Carlos Marchena, Gonzalo Rodríguez, Joan Capdevila, Bruno Soriano, Santi Cazorla, Borja Valero, Cani, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1093466 | czw., 28.04.2011 | FC Porto
+PLAYERS: Diego López, Mateo Musacchio, Carlos Marchena, José Manuel Catalá, Mario Gaspar, Bruno Soriano, Borja Valero, Santi Cazorla, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 1036305 | niedz., 20.02.2011 | Málaga CF
+PLAYERS: Diego López, Mario Gaspar, Carlos Marchena, Gonzalo Rodríguez, Joan Capdevila, Bruno Soriano, Borja Valero, Cani, Giuseppe Rossi, Nilmar, Marco Ruben
+
+MATCH: 1036100 | czw., 23.09.2010 | Deportivo de La Coruña
+PLAYERS: Diego López, Mateo Musacchio, Carlos Marchena, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Borja Valero, Santi Cazorla, Giuseppe Rossi, Nilmar
+
+MATCH: 1036266 | niedz., 23.01.2011 | Real Sociedad
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Capdevila, Mario Gaspar, Bruno Soriano, Borja Valero, Cani, Santi Cazorla, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1036136 | pon., 18.10.2010 | Hércules CF
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Borja Valero, Santi Cazorla, Nilmar, Giuseppe Rossi
+
+MATCH: 1036318 | niedz., 27.02.2011 | Racing Santander
+PLAYERS: Diego López, Mario Gaspar, Carlos Marchena, Mateo Musacchio, José Manuel Catalá, Cristóbal Márquez, Borja Valero, Marcos Gullón, Cani, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1036422 | śr., 11.05.2011 | UD Almería
+PLAYERS: Diego López, Mateo Musacchio, Carlos Marchena, Joan Capdevila, Mario Gaspar, Marcos Senna, Bruno Soriano, Borja Valero, Santi Cazorla, Giuseppe Rossi, Nilmar
+
+MATCH: 1036173 | sob., 13.11.2010 | FC Barcelona
+PLAYERS: Diego López, Mateo Musacchio, Carlos Marchena, Joan Capdevila, Ángel López, Bruno Soriano, Borja Valero, Santi Cazorla, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 1036203 | niedz., 05.12.2010 | Sevilla FC
+PLAYERS: Diego López, Mateo Musacchio, Gonzalo Rodríguez, José Manuel Catalá, Ángel López, Bruno Soriano, Marcos Senna, Santi Cazorla, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 1036118 | niedz., 03.10.2010 | Racing Santander
+PLAYERS: Diego López, Carlos Marchena, Mateo Musacchio, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Santi Cazorla, Borja Valero, Giuseppe Rossi, Nilmar
+
+MATCH: 1064203 | czw., 06.01.2011 | Valencia CF
+PLAYERS: Juan Carlos, Gonzalo Rodríguez, José Manuel Catalá, Joan Capdevila, Ángel López, Bruno Soriano, Borja Valero, Santi Cazorla, Cani, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1036074 | niedz., 12.09.2010 | RCD Espanyol
+PLAYERS: Diego López, Carlos Marchena, Mateo Musacchio, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Santi Cazorla, Borja Valero, Giuseppe Rossi, Nilmar
+
+MATCH: 1050304 | czw., 16.09.2010 | GNK Dinamo Zagrzeb
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Capdevila, Mario Gaspar, Bruno Soriano, Marcos Senna, Jefferson Montero, Cani, Marco Ruben, Jozy Altidore
+
+MATCH: 1036243 | niedz., 09.01.2011 | Real Madryt
+PLAYERS: Diego López, Gonzalo Rodríguez, José Manuel Catalá, Joan Capdevila, Ángel López, Bruno Soriano, Borja Valero, Cani, Santi Cazorla, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1036165 | niedz., 07.11.2010 | Athletic Bilbao
+PLAYERS: Diego López, Mateo Musacchio, Carlos Marchena, Joan Capdevila, Ángel López, Bruno Soriano, Borja Valero, Santi Cazorla, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 1036288 | sob., 05.02.2011 | Levante UD
+PLAYERS: Diego López, Gonzalo Rodríguez, Carlos Marchena, Joan Capdevila, Mario Gaspar, Bruno Soriano, Borja Valero, Cani, Santi Cazorla, Giuseppe Rossi, Nilmar
+
+MATCH: 1036257 | sob., 15.01.2011 | CA Osasuna
+PLAYERS: Diego López, Mario Gaspar, Mateo Musacchio, Gonzalo Rodríguez, Joan Capdevila, Bruno Soriano, Javier Matilla, Borja Valero, Cani, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1036410 | niedz., 01.05.2011 | Getafe CF
+PLAYERS: Diego López, Mateo Musacchio, Kiko Olivas, Joan Capdevila, Mario Gaspar, Bruno Soriano, Borja Valero, Santi Cazorla, Cani, Nilmar, Giuseppe Rossi
+
+MATCH: 1036105 | pon., 27.09.2010 | Málaga CF
+PLAYERS: Diego López, Carlos Marchena, Mateo Musacchio, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Santi Cazorla, Borja Valero, Giuseppe Rossi, Nilmar
+
+MATCH: 1036220 | sob., 11.12.2010 | Getafe CF
+PLAYERS: Diego López, Carlos Marchena, Mateo Musacchio, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Santi Cazorla, Borja Valero, Cani, Nilmar
+
+MATCH: 1036146 | niedz., 24.10.2010 | Atlético Madryt
+PLAYERS: Diego López, Gonzalo Rodríguez, Carlos Marchena, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Santi Cazorla, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 1036345 | niedz., 13.03.2011 | Sporting Gijón
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Capdevila, Mario Gaspar, Bruno Soriano, Cani, Santi Cazorla, Borja Valero, Giuseppe Rossi, Nilmar
+
+MATCH: 1053854 | śr., 15.12.2010 | FC Brügge
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Capdevila, Mario Gaspar, Bruno Soriano, Marcos Senna, Santi Cazorla, Cani, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1093468 | czw., 05.05.2011 | FC Porto
+PLAYERS: Diego López, Mateo Musacchio, Bruno Soriano, Joan Capdevila, Mario Gaspar, Javier Matilla, Santi Cazorla, Cani, Marco Ruben, Nilmar, Giuseppe Rossi
+
+MATCH: 1036300 | niedz., 13.02.2011 | Deportivo de La Coruña
+PLAYERS: Diego López, Mario Gaspar, Carlos Marchena, Mateo Musacchio, Gonzalo Rodríguez, Joan Capdevila, Santi Cazorla, Javier Matilla, Borja Valero, Cani, Nilmar
+
+MATCH: 1036355 | niedz., 20.03.2011 | Athletic Bilbao
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, José Manuel Catalá, Mario Gaspar, Carlos Marchena, Bruno Soriano, Borja Valero, Santi Cazorla, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1036374 | niedz., 10.04.2011 | Valencia CF
+PLAYERS: Diego López, Mateo Musacchio, Carlos Marchena, Joan Capdevila, Mario Gaspar, Kiko Olivas, Bruno Soriano, Borja Valero, Santi Cazorla, Nilmar, Giuseppe Rossi
+
+MATCH: 1053796 | czw., 30.09.2010 | FC Brügge
+PLAYERS: Diego López, Gonzalo Rodríguez, Carlos Marchena, Joan Capdevila, Ángel López, Bruno Soriano, Borja Valero, Santi Cazorla, Cani, Giuseppe Rossi, Jozy Altidore
+
+MATCH: 1043564 | czw., 26.08.2010 | Dnepr Mogilev
+PLAYERS: Juan Carlos, Mateo Musacchio, José Manuel Catalá, Joan Oriol, Mario Gaspar, Kiko Olivas, Javier Matilla, Jefferson Montero, Cristóbal Márquez, Nilmar, Jozy Altidore
+
+MATCH: 1036184 | sob., 20.11.2010 | Valencia CF
+PLAYERS: Diego López, Gonzalo Rodríguez, Carlos Marchena, Joan Capdevila, Ángel López, Bruno Soriano, Borja Valero, Santi Cazorla, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 1064187 | wt., 21.12.2010 | Valencia CF
+PLAYERS: Juan Carlos, Gonzalo Rodríguez, Mateo Musacchio, Joan Capdevila, Ángel López, Bruno Soriano, Borja Valero, Santi Cazorla, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 1088519 | czw., 07.04.2011 | FC Twente Enschede
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, José Manuel Catalá, Mario Gaspar, Carlos Marchena, Bruno Soriano, Borja Valero, Santi Cazorla, Giuseppe Rossi, Nilmar
+
+MATCH: 1036383 | pon., 18.04.2011 | Real Zaragoza
+PLAYERS: Diego López, Mateo Musacchio, Carlos Marchena, José Manuel Catalá, Mario Gaspar, Bruno Soriano, Santi Cazorla, Borja Valero, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 1081204 | czw., 10.03.2011 | Bayer 04 Leverkusen
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, José Manuel Catalá, Mario Gaspar, Carlos Marchena, Bruno Soriano, Borja Valero, Mubarak Wakaso, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1055149 | śr., 27.10.2010 | Polideportivo Ejido
+PLAYERS: Juan Carlos, Gonzalo Rodríguez, Mateo Musacchio, Joan Oriol, Mario Gaspar, José Manuel Catalá, Javier Matilla, Borja Valero, Jefferson Montero, Cani, Jozy Altidore
+
+MATCH: 1072028 | śr., 12.01.2011 | Sevilla FC
+PLAYERS: Juan Carlos, Mateo Musacchio, José Manuel Catalá, Joan Capdevila, Mario Gaspar, Javier Matilla, Borja Valero, Santi Cazorla, Cani, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1036336 | sob., 05.03.2011 | Atlético Madryt
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Capdevila, Mario Gaspar, Bruno Soriano, Borja Valero, Cani, Santi Cazorla, Giuseppe Rossi, Nilmar
+
+MATCH: 1036222 | sob., 18.12.2010 | RCD Mallorca
+PLAYERS: Diego López, Mateo Musacchio, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Santi Cazorla, Borja Valero, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 1069798 | czw., 24.02.2011 | SSC Napoli
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Capdevila, Mario Gaspar, Bruno Soriano, Borja Valero, Cani, Santi Cazorla, Giuseppe Rossi, Nilmar
+
+MATCH: 1036045 | niedz., 29.08.2010 | Real Sociedad
+PLAYERS: Diego López, Mateo Musacchio, Carlos Marchena, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Borja Valero, Cani, Santi Cazorla, Giuseppe Rossi
+
+MATCH: 1036155 | niedz., 31.10.2010 | Sporting Gijón
+PLAYERS: Diego López, Carlos Marchena, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Santi Cazorla, Borja Valero, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 1036433 | niedz., 15.05.2011 | Real Madryt
+PLAYERS: Diego López, Mateo Musacchio, Carlos Marchena, Joan Capdevila, Mario Gaspar, Bruno Soriano, Marcos Senna, Borja Valero, Cani, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1072032 | wt., 18.01.2011 | Sevilla FC
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, José Manuel Catalá, Joan Oriol, Cicinho, Borja Valero, Cani, Jefferson Montero, Giuseppe Rossi, Jozy Altidore
+
+MATCH: 1053852 | czw., 02.12.2010 | GNK Dinamo Zagrzeb
+PLAYERS: Diego López, Mateo Musacchio, Carlos Marchena, José Manuel Catalá, Ángel López, Bruno Soriano, Borja Valero, Santi Cazorla, Cani, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1053816 | czw., 21.10.2010 | PAOK Saloniki
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Capdevila, Ángel López, Bruno Soriano, Borja Valero, Cani, Santi Cazorla, Giuseppe Rossi, Marco Ruben
+
+MATCH: 1088524 | czw., 14.04.2011 | FC Twente Enschede
+PLAYERS: Diego López, Mateo Musacchio, Carlos Marchena, José Manuel Catalá, Mario Gaspar, Bruno Soriano, Javier Matilla, Borja Valero, Mubarak Wakaso, Giuseppe Rossi, Marco Ruben
+

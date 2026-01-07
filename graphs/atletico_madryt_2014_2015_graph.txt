@@ -1,0 +1,207 @@
+# Graph for Java/GraphStream
+# Nodes: 23
+# Edges: 201
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Jan Oblak | Diego Godín | 5 | 7 | 18
+EDGE Jan Oblak | Miranda | 5 | 7 | 14
+EDGE Jan Oblak | Guilherme Siqueira | 6 | 7 | 16
+EDGE Jan Oblak | Juanfran Torres | 5 | 7 | 19
+EDGE Jan Oblak | Mario Suárez | 4 | 7 | 8
+EDGE Jan Oblak | Gabi | 7 | 7 | 18
+EDGE Jan Oblak | Koke | 6 | 7 | 16
+EDGE Jan Oblak | Arda Turan | 4 | 7 | 14
+EDGE Jan Oblak | Antoine Griezmann | 5 | 7 | 17
+EDGE Jan Oblak | Fernando Torres | 2 | 7 | 4
+EDGE Jan Oblak | José María Giménez | 3 | 7 | 9
+EDGE Jan Oblak | Lucas Hernández | 1 | 7 | 1
+EDGE Jan Oblak | Jesús Gámez | 2 | 7 | 4
+EDGE Jan Oblak | Saúl Ñíguez | 2 | 7 | 8
+EDGE Jan Oblak | Cristian Rodríguez | 1 | 7 | 1
+EDGE Jan Oblak | Alessio Cerci | 1 | 7 | 1
+EDGE Jan Oblak | Raúl Jiménez | 1 | 7 | 1
+EDGE Jan Oblak | Tiago Mendes | 3 | 7 | 15
+EDGE Jan Oblak | Raúl García | 3 | 7 | 9
+EDGE Jan Oblak | Mario Mandžukić | 3 | 7 | 14
+EDGE Jan Oblak | Cristian Ansaldi | 1 | 7 | 3
+EDGE Diego Godín | Miranda | 12 | 18 | 14
+EDGE Diego Godín | Guilherme Siqueira | 13 | 18 | 16
+EDGE Diego Godín | Juanfran Torres | 17 | 18 | 19
+EDGE Diego Godín | Mario Suárez | 6 | 18 | 8
+EDGE Diego Godín | Gabi | 15 | 18 | 18
+EDGE Diego Godín | Koke | 15 | 18 | 16
+EDGE Diego Godín | Arda Turan | 12 | 18 | 14
+EDGE Diego Godín | Antoine Griezmann | 15 | 18 | 17
+EDGE Diego Godín | Fernando Torres | 4 | 18 | 4
+EDGE Diego Godín | Miguel Ángel Moyá | 13 | 18 | 14
+EDGE Diego Godín | Tiago Mendes | 13 | 18 | 15
+EDGE Diego Godín | Raúl García | 9 | 18 | 9
+EDGE Diego Godín | Saúl Ñíguez | 7 | 18 | 8
+EDGE Diego Godín | José María Giménez | 6 | 18 | 9
+EDGE Diego Godín | Jesús Gámez | 3 | 18 | 4
+EDGE Diego Godín | Cristian Ansaldi | 3 | 18 | 3
+EDGE Diego Godín | Mario Mandžukić | 12 | 18 | 14
+EDGE Miranda | Guilherme Siqueira | 11 | 14 | 16
+EDGE Miranda | Juanfran Torres | 14 | 14 | 19
+EDGE Miranda | Mario Suárez | 7 | 14 | 8
+EDGE Miranda | Gabi | 12 | 14 | 18
+EDGE Miranda | Koke | 11 | 14 | 16
+EDGE Miranda | Arda Turan | 9 | 14 | 14
+EDGE Miranda | Antoine Griezmann | 12 | 14 | 17
+EDGE Miranda | Fernando Torres | 3 | 14 | 4
+EDGE Miranda | Miguel Ángel Moyá | 9 | 14 | 14
+EDGE Miranda | Tiago Mendes | 9 | 14 | 15
+EDGE Miranda | Raúl García | 6 | 14 | 9
+EDGE Miranda | Saúl Ñíguez | 5 | 14 | 8
+EDGE Miranda | José María Giménez | 2 | 14 | 9
+EDGE Miranda | Mario Mandžukić | 10 | 14 | 14
+EDGE Miranda | Cristian Ansaldi | 2 | 14 | 3
+EDGE Miranda | Jesús Gámez | 1 | 14 | 4
+EDGE Guilherme Siqueira | Juanfran Torres | 14 | 16 | 19
+EDGE Guilherme Siqueira | Mario Suárez | 7 | 16 | 8
+EDGE Guilherme Siqueira | Gabi | 14 | 16 | 18
+EDGE Guilherme Siqueira | Koke | 11 | 16 | 16
+EDGE Guilherme Siqueira | Arda Turan | 10 | 16 | 14
+EDGE Guilherme Siqueira | Antoine Griezmann | 14 | 16 | 17
+EDGE Guilherme Siqueira | Fernando Torres | 3 | 16 | 4
+EDGE Guilherme Siqueira | Miguel Ángel Moyá | 10 | 16 | 14
+EDGE Guilherme Siqueira | Tiago Mendes | 11 | 16 | 15
+EDGE Guilherme Siqueira | Raúl García | 7 | 16 | 9
+EDGE Guilherme Siqueira | José María Giménez | 7 | 16 | 9
+EDGE Guilherme Siqueira | Lucas Hernández | 1 | 16 | 1
+EDGE Guilherme Siqueira | Jesús Gámez | 2 | 16 | 4
+EDGE Guilherme Siqueira | Saúl Ñíguez | 6 | 16 | 8
+EDGE Guilherme Siqueira | Cristian Rodríguez | 1 | 16 | 1
+EDGE Guilherme Siqueira | Alessio Cerci | 1 | 16 | 1
+EDGE Guilherme Siqueira | Raúl Jiménez | 1 | 16 | 1
+EDGE Guilherme Siqueira | Mario Mandžukić | 10 | 16 | 14
+EDGE Juanfran Torres | Mario Suárez | 7 | 19 | 8
+EDGE Juanfran Torres | Gabi | 16 | 19 | 18
+EDGE Juanfran Torres | Koke | 15 | 19 | 16
+EDGE Juanfran Torres | Arda Turan | 14 | 19 | 14
+EDGE Juanfran Torres | Antoine Griezmann | 16 | 19 | 17
+EDGE Juanfran Torres | Fernando Torres | 3 | 19 | 4
+EDGE Juanfran Torres | Miguel Ángel Moyá | 14 | 19 | 14
+EDGE Juanfran Torres | Tiago Mendes | 14 | 19 | 15
+EDGE Juanfran Torres | Raúl García | 8 | 19 | 9
+EDGE Juanfran Torres | Saúl Ñíguez | 7 | 19 | 8
+EDGE Juanfran Torres | José María Giménez | 7 | 19 | 9
+EDGE Juanfran Torres | Mario Mandžukić | 14 | 19 | 14
+EDGE Juanfran Torres | Cristian Ansaldi | 3 | 19 | 3
+EDGE Juanfran Torres | Jesús Gámez | 2 | 19 | 4
+EDGE Mario Suárez | Gabi | 6 | 8 | 18
+EDGE Mario Suárez | Koke | 6 | 8 | 16
+EDGE Mario Suárez | Arda Turan | 6 | 8 | 14
+EDGE Mario Suárez | Antoine Griezmann | 6 | 8 | 17
+EDGE Mario Suárez | Fernando Torres | 1 | 8 | 4
+EDGE Mario Suárez | Miguel Ángel Moyá | 4 | 8 | 14
+EDGE Mario Suárez | Tiago Mendes | 2 | 8 | 15
+EDGE Mario Suárez | Raúl García | 3 | 8 | 9
+EDGE Mario Suárez | José María Giménez | 2 | 8 | 9
+EDGE Mario Suárez | Lucas Hernández | 1 | 8 | 1
+EDGE Mario Suárez | Jesús Gámez | 1 | 8 | 4
+EDGE Mario Suárez | Saúl Ñíguez | 2 | 8 | 8
+EDGE Mario Suárez | Cristian Rodríguez | 1 | 8 | 1
+EDGE Mario Suárez | Alessio Cerci | 1 | 8 | 1
+EDGE Mario Suárez | Raúl Jiménez | 1 | 8 | 1
+EDGE Mario Suárez | Mario Mandžukić | 5 | 8 | 14
+EDGE Mario Suárez | Cristian Ansaldi | 1 | 8 | 3
+EDGE Gabi | Koke | 13 | 18 | 16
+EDGE Gabi | Arda Turan | 11 | 18 | 14
+EDGE Gabi | Antoine Griezmann | 14 | 18 | 17
+EDGE Gabi | Fernando Torres | 4 | 18 | 4
+EDGE Gabi | José María Giménez | 8 | 18 | 9
+EDGE Gabi | Lucas Hernández | 1 | 18 | 1
+EDGE Gabi | Jesús Gámez | 4 | 18 | 4
+EDGE Gabi | Saúl Ñíguez | 6 | 18 | 8
+EDGE Gabi | Cristian Rodríguez | 1 | 18 | 1
+EDGE Gabi | Alessio Cerci | 1 | 18 | 1
+EDGE Gabi | Raúl Jiménez | 1 | 18 | 1
+EDGE Gabi | Tiago Mendes | 13 | 18 | 15
+EDGE Gabi | Raúl García | 8 | 18 | 9
+EDGE Gabi | Miguel Ángel Moyá | 11 | 18 | 14
+EDGE Gabi | Mario Mandžukić | 12 | 18 | 14
+EDGE Gabi | Cristian Ansaldi | 2 | 18 | 3
+EDGE Koke | Arda Turan | 11 | 16 | 14
+EDGE Koke | Antoine Griezmann | 13 | 16 | 17
+EDGE Koke | Fernando Torres | 3 | 16 | 4
+EDGE Koke | Miguel Ángel Moyá | 10 | 16 | 14
+EDGE Koke | Tiago Mendes | 11 | 16 | 15
+EDGE Koke | Raúl García | 8 | 16 | 9
+EDGE Koke | Saúl Ñíguez | 4 | 16 | 8
+EDGE Koke | José María Giménez | 6 | 16 | 9
+EDGE Koke | Jesús Gámez | 3 | 16 | 4
+EDGE Koke | Cristian Ansaldi | 3 | 16 | 3
+EDGE Koke | Mario Mandžukić | 11 | 16 | 14
+EDGE Arda Turan | Antoine Griezmann | 11 | 14 | 17
+EDGE Arda Turan | Fernando Torres | 1 | 14 | 4
+EDGE Arda Turan | Miguel Ángel Moyá | 10 | 14 | 14
+EDGE Arda Turan | Tiago Mendes | 10 | 14 | 15
+EDGE Arda Turan | Raúl García | 4 | 14 | 9
+EDGE Arda Turan | José María Giménez | 7 | 14 | 9
+EDGE Arda Turan | Mario Mandžukić | 11 | 14 | 14
+EDGE Arda Turan | Cristian Ansaldi | 3 | 14 | 3
+EDGE Arda Turan | Saúl Ñíguez | 5 | 14 | 8
+EDGE Arda Turan | Jesús Gámez | 1 | 14 | 4
+EDGE Antoine Griezmann | Fernando Torres | 4 | 17 | 4
+EDGE Antoine Griezmann | Miguel Ángel Moyá | 12 | 17 | 14
+EDGE Antoine Griezmann | Tiago Mendes | 13 | 17 | 15
+EDGE Antoine Griezmann | Raúl García | 7 | 17 | 9
+EDGE Antoine Griezmann | Saúl Ñíguez | 6 | 17 | 8
+EDGE Antoine Griezmann | José María Giménez | 7 | 17 | 9
+EDGE Antoine Griezmann | Jesús Gámez | 3 | 17 | 4
+EDGE Antoine Griezmann | Mario Mandžukić | 11 | 17 | 14
+EDGE Antoine Griezmann | Cristian Ansaldi | 1 | 17 | 3
+EDGE Fernando Torres | José María Giménez | 1 | 4 | 9
+EDGE Fernando Torres | Jesús Gámez | 2 | 4 | 4
+EDGE Fernando Torres | Tiago Mendes | 3 | 4 | 15
+EDGE Fernando Torres | Raúl García | 2 | 4 | 9
+EDGE Fernando Torres | Miguel Ángel Moyá | 2 | 4 | 14
+EDGE Fernando Torres | Saúl Ñíguez | 1 | 4 | 8
+EDGE Fernando Torres | Mario Mandžukić | 1 | 4 | 14
+EDGE Miguel Ángel Moyá | Tiago Mendes | 12 | 14 | 15
+EDGE Miguel Ángel Moyá | Raúl García | 6 | 14 | 9
+EDGE Miguel Ángel Moyá | José María Giménez | 6 | 14 | 9
+EDGE Miguel Ángel Moyá | Mario Mandžukić | 11 | 14 | 14
+EDGE Miguel Ángel Moyá | Cristian Ansaldi | 2 | 14 | 3
+EDGE Miguel Ángel Moyá | Saúl Ñíguez | 6 | 14 | 8
+EDGE Miguel Ángel Moyá | Jesús Gámez | 2 | 14 | 4
+EDGE Tiago Mendes | Raúl García | 7 | 15 | 9
+EDGE Tiago Mendes | Saúl Ñíguez | 6 | 15 | 8
+EDGE Tiago Mendes | José María Giménez | 8 | 15 | 9
+EDGE Tiago Mendes | Jesús Gámez | 3 | 15 | 4
+EDGE Tiago Mendes | Mario Mandžukić | 10 | 15 | 14
+EDGE Tiago Mendes | Cristian Ansaldi | 2 | 15 | 3
+EDGE Raúl García | Saúl Ñíguez | 2 | 9 | 8
+EDGE Raúl García | José María Giménez | 3 | 9 | 9
+EDGE Raúl García | Jesús Gámez | 2 | 9 | 4
+EDGE Raúl García | Mario Mandžukić | 4 | 9 | 14
+EDGE Raúl García | Cristian Ansaldi | 1 | 9 | 3
+EDGE José María Giménez | Lucas Hernández | 1 | 9 | 1
+EDGE José María Giménez | Jesús Gámez | 3 | 9 | 4
+EDGE José María Giménez | Saúl Ñíguez | 3 | 9 | 8
+EDGE José María Giménez | Cristian Rodríguez | 1 | 9 | 1
+EDGE José María Giménez | Alessio Cerci | 1 | 9 | 1
+EDGE José María Giménez | Raúl Jiménez | 1 | 9 | 1
+EDGE José María Giménez | Mario Mandžukić | 6 | 9 | 14
+EDGE José María Giménez | Cristian Ansaldi | 1 | 9 | 3
+EDGE Lucas Hernández | Jesús Gámez | 1 | 1 | 4
+EDGE Lucas Hernández | Saúl Ñíguez | 1 | 1 | 8
+EDGE Lucas Hernández | Cristian Rodríguez | 1 | 1 | 1
+EDGE Lucas Hernández | Alessio Cerci | 1 | 1 | 1
+EDGE Lucas Hernández | Raúl Jiménez | 1 | 1 | 1
+EDGE Jesús Gámez | Saúl Ñíguez | 1 | 4 | 8
+EDGE Jesús Gámez | Cristian Rodríguez | 1 | 4 | 1
+EDGE Jesús Gámez | Alessio Cerci | 1 | 4 | 1
+EDGE Jesús Gámez | Raúl Jiménez | 1 | 4 | 1
+EDGE Jesús Gámez | Mario Mandžukić | 1 | 4 | 14
+EDGE Saúl Ñíguez | Cristian Rodríguez | 1 | 8 | 1
+EDGE Saúl Ñíguez | Alessio Cerci | 1 | 8 | 1
+EDGE Saúl Ñíguez | Raúl Jiménez | 1 | 8 | 1
+EDGE Saúl Ñíguez | Cristian Ansaldi | 2 | 8 | 3
+EDGE Saúl Ñíguez | Mario Mandžukić | 5 | 8 | 14
+EDGE Cristian Rodríguez | Alessio Cerci | 1 | 1 | 1
+EDGE Cristian Rodríguez | Raúl Jiménez | 1 | 1 | 1
+EDGE Alessio Cerci | Raúl Jiménez | 1 | 1 | 1
+EDGE Mario Mandžukić | Cristian Ansaldi | 3 | 14 | 3

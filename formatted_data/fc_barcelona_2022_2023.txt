@@ -1,0 +1,160 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3886481 | niedz., 08.01.2023 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Andreas Christensen, Alejandro Balde, Jules Koundé, Sergio Busquets, Pedri, Frenkie de Jong, Gavi, Ousmane Dembélé, Ansu Fati
+
+MATCH: 3886633 | niedz., 23.04.2023 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Marcos Alonso, Ronald Araujo, Alejandro Balde, Jules Koundé, Sergio Busquets, Frenkie de Jong, Gavi, Ferran Torres, Raphinha, Robert Lewandowski
+
+MATCH: 3886647 | śr., 26.04.2023 | Rayo Vallecano
+PLAYERS: Marc-André ter Stegen, Marcos Alonso, Ronald Araujo, Alejandro Balde, Jules Koundé, Frenkie de Jong, Pedri, Gavi, Ferran Torres, Raphinha, Robert Lewandowski
+
+MATCH: 3886610 | pon., 10.04.2023 | Girona FC
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Eric García, Alejandro Balde, Jules Koundé, Sergio Busquets, Sergi Roberto, Gavi, Ansu Fati, Raphinha, Robert Lewandowski
+
+MATCH: 3886549 | niedz., 19.02.2023 | Cádiz CF
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Eric García, Alejandro Balde, Jules Koundé, Frenkie de Jong, Gavi, Sergi Roberto, Ansu Fati, Ferran Torres, Robert Lewandowski
+
+MATCH: 3886363 | niedz., 23.10.2022 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Eric García, Jules Koundé, Alejandro Balde, Sergi Roberto, Sergio Busquets, Frenkie de Jong, Gavi, Pedri, Ousmane Dembélé, Robert Lewandowski
+
+MATCH: 3911756 | śr., 26.10.2022 | Bayern Monachium
+PLAYERS: Marc-André ter Stegen, Marcos Alonso, Jules Koundé, Alejandro Balde, Héctor Bellerín, Sergio Busquets, Franck Kessié, Frenkie de Jong, Pedri, Ousmane Dembélé, Robert Lewandowski
+
+MATCH: 3886702 | niedz., 28.05.2023 | RCD Mallorca
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Jules Koundé, Jordi Alba, Alejandro Balde, Sergio Busquets, Frenkie de Jong, Gavi, Ansu Fati, Ousmane Dembélé, Robert Lewandowski
+
+MATCH: 3886323 | niedz., 16.10.2022 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Eric García, Jules Koundé, Alejandro Balde, Sergi Roberto, Sergio Busquets, Pedri, Frenkie de Jong, Ousmane Dembélé, Raphinha, Robert Lewandowski
+
+MATCH: 3886496 | śr., 01.02.2023 | Real Betis Balompié
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Andreas Christensen, Alejandro Balde, Jules Koundé, Sergio Busquets, Pedri, Frenkie de Jong, Gavi, Raphinha, Robert Lewandowski
+
+MATCH: 4004792 | śr., 25.01.2023 | Real Sociedad
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Andreas Christensen, Alejandro Balde, Jules Koundé, Sergio Busquets, Pedri, Frenkie de Jong, Gavi, Ousmane Dembélé, Robert Lewandowski
+
+MATCH: 3886417 | sob., 05.11.2022 | UD Almería
+PLAYERS: Marc-André ter Stegen, Marcos Alonso, Gerard Piqué, Jordi Alba, Alejandro Balde, Sergio Busquets, Pedri, Frenkie de Jong, Ferran Torres, Ousmane Dembélé, Robert Lewandowski
+
+MATCH: 3911786 | śr., 07.09.2022 | FC Viktoria Pilzno
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Jules Koundé, Jordi Alba, Sergi Roberto, Frenkie de Jong, Pedri, Franck Kessié, Ansu Fati, Ousmane Dembélé, Robert Lewandowski
+
+MATCH: 3886330 | czw., 20.10.2022 | Villarreal CF
+PLAYERS: Marc-André ter Stegen, Marcos Alonso, Jules Koundé, Jordi Alba, Sergi Roberto, Frenkie de Jong, Pedri, Gavi, Ansu Fati, Ferran Torres, Robert Lewandowski
+
+MATCH: 3886389 | sob., 29.10.2022 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Eric García, Jules Koundé, Jordi Alba, Alejandro Balde, Sergio Busquets, Pedri, Frenkie de Jong, Ansu Fati, Ousmane Dembélé, Robert Lewandowski
+
+MATCH: 3885857 | sob., 03.09.2022 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Eric García, Alejandro Balde, Jules Koundé, Sergio Busquets, Pedri, Gavi, Ousmane Dembélé, Raphinha, Robert Lewandowski
+
+MATCH: 3886662 | wt., 02.05.2023 | CA Osasuna
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Andreas Christensen, Alejandro Balde, Jules Koundé, Sergio Busquets, Frenkie de Jong, Pedri, Gavi, Raphinha, Robert Lewandowski
+
+MATCH: 3886502 | niedz., 22.01.2023 | Getafe CF
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Jules Koundé, Alejandro Balde, Sergi Roberto, Sergio Busquets, Pedri, Gavi, Raphinha, Ousmane Dembélé, Ansu Fati
+
+MATCH: 3997409 | czw., 19.01.2023 | AD Ceuta FC
+PLAYERS: Iñaki Peña, Marcos Alonso, Eric García, Jordi Alba, Héctor Bellerín, Sergi Roberto, Franck Kessié, Pablo Torre, Ferran Torres, Raphinha, Robert Lewandowski
+
+MATCH: 3886696 | wt., 23.05.2023 | Real Valladolid CF
+PLAYERS: Marc-André ter Stegen, Marcos Alonso, Andreas Christensen, Alejandro Balde, Sergi Roberto, Eric García, Frenkie de Jong, Pablo Torre, Gavi, Raphinha, Robert Lewandowski
+
+MATCH: 3911763 | wt., 01.11.2022 | FC Viktoria Pilzno
+PLAYERS: Iñaki Peña, Marcos Alonso, Gerard Piqué, Jordi Alba, Héctor Bellerín, Franck Kessié, Gavi, Pablo Torre, Ansu Fati, Raphinha, Ferran Torres
+
+MATCH: 3989534 | śr., 04.01.2023 | CF Intercity
+PLAYERS: Iñaki Peña, Ronald Araujo, Jules Koundé, Jordi Alba, Héctor Bellerín, Sergio Busquets, Franck Kessié, Pablo Torre, Ferran Torres, Ousmane Dembélé, Memphis Depay
+
+MATCH: 4017422 | śr., 05.04.2023 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Marcos Alonso, Jules Koundé, Alejandro Balde, Ronald Araujo, Sergio Busquets, Franck Kessié, Sergi Roberto, Gavi, Raphinha, Robert Lewandowski
+
+MATCH: 3886580 | niedz., 12.03.2023 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Jules Koundé, Alejandro Balde, Sergi Roberto, Sergio Busquets, Gavi, Frenkie de Jong, Ferran Torres, Raphinha, Robert Lewandowski
+
+MATCH: 3886625 | niedz., 16.04.2023 | Getafe CF
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Jules Koundé, Jordi Alba, Sergi Roberto, Sergio Busquets, Franck Kessié, Gavi, Alejandro Balde, Raphinha, Robert Lewandowski
+
+MATCH: 3886570 | niedz., 05.03.2023 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Andreas Christensen, Alejandro Balde, Jules Koundé, Sergio Busquets, Sergi Roberto, Frenkie de Jong, Ansu Fati, Raphinha, Ferran Torres
+
+MATCH: 3886605 | sob., 01.04.2023 | Elche CF
+PLAYERS: Marc-André ter Stegen, Marcos Alonso, Ronald Araujo, Jordi Alba, Jules Koundé, Eric García, Sergi Roberto, Gavi, Ansu Fati, Ferran Torres, Robert Lewandowski
+
+MATCH: 3911788 | wt., 04.10.2022 | Inter Mediolan
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Eric García, Marcos Alonso, Sergi Roberto, Sergio Busquets, Pedri, Gavi, Raphinha, Ousmane Dembélé, Robert Lewandowski
+
+MATCH: 3885848 | niedz., 28.08.2022 | Real Valladolid CF
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Eric García, Alejandro Balde, Jules Koundé, Sergio Busquets, Pedri, Gavi, Ousmane Dembélé, Raphinha, Robert Lewandowski
+
+MATCH: 3886289 | sob., 01.10.2022 | RCD Mallorca
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Andreas Christensen, Jordi Alba, Alejandro Balde, Sergio Busquets, Franck Kessié, Gavi, Ansu Fati, Ousmane Dembélé, Robert Lewandowski
+
+MATCH: 3886451 | wt., 08.11.2022 | CA Osasuna
+PLAYERS: Marc-André ter Stegen, Marcos Alonso, Andreas Christensen, Jordi Alba, Alejandro Balde, Sergio Busquets, Pedri, Frenkie de Jong, Ferran Torres, Ousmane Dembélé, Robert Lewandowski
+
+MATCH: 3886591 | niedz., 19.03.2023 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Jules Koundé, Alejandro Balde, Ronald Araujo, Sergio Busquets, Sergi Roberto, Frenkie de Jong, Gavi, Raphinha, Robert Lewandowski
+
+MATCH: 4017421 | czw., 02.03.2023 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Marcos Alonso, Jules Koundé, Alejandro Balde, Ronald Araujo, Sergio Busquets, Franck Kessié, Frenkie de Jong, Gavi, Raphinha, Ferran Torres
+
+MATCH: 3956716 | czw., 23.02.2023 | Manchester United
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Andreas Christensen, Alejandro Balde, Jules Koundé, Sergio Busquets, Franck Kessié, Frenkie de Jong, Sergi Roberto, Raphinha, Robert Lewandowski
+
+MATCH: 3886563 | niedz., 26.02.2023 | UD Almería
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Eric García, Jordi Alba, Sergi Roberto, Sergio Busquets, Franck Kessié, Frenkie de Jong, Gavi, Ferran Torres, Robert Lewandowski
+
+MATCH: 3886305 | niedz., 09.10.2022 | Celta de Vigo
+PLAYERS: Marc-André ter Stegen, Marcos Alonso, Gerard Piqué, Jordi Alba, Alejandro Balde, Sergio Busquets, Pedri, Gavi, Ferran Torres, Raphinha, Robert Lewandowski
+
+MATCH: 3844553 | niedz., 04.06.2023 | Celta de Vigo
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Jules Koundé, Marcos Alonso, Sergi Roberto, Eric García, Franck Kessié, Frenkie de Jong, Ferran Torres, Raphinha, Robert Lewandowski
+
+MATCH: 3998377 | czw., 12.01.2023 | Real Betis Balompié
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Jules Koundé, Jordi Alba, Sergi Roberto, Frenkie de Jong, Pedri, Gavi, Ousmane Dembélé, Raphinha, Robert Lewandowski
+
+MATCH: 3886674 | niedz., 14.05.2023 | RCD Espanyol
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Andreas Christensen, Alejandro Balde, Jules Koundé, Sergio Busquets, Pedri, Frenkie de Jong, Gavi, Raphinha, Robert Lewandowski
+
+MATCH: 3886515 | sob., 28.01.2023 | Girona FC
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Eric García, Marcos Alonso, Jules Koundé, Sergio Busquets, Frenkie de Jong, Gavi, Ousmane Dembélé, Raphinha, Ansu Fati
+
+MATCH: 3886650 | sob., 29.04.2023 | Real Betis Balompié
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Andreas Christensen, Alejandro Balde, Jules Koundé, Sergio Busquets, Pedri, Frenkie de Jong, Gavi, Raphinha, Robert Lewandowski
+
+MATCH: 3844598 | niedz., 21.08.2022 | Real Sociedad
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Eric García, Alejandro Balde, Ronald Araujo, Frenkie de Jong, Pedri, Gavi, Ferran Torres, Ousmane Dembélé, Robert Lewandowski
+
+MATCH: 3886464 | sob., 31.12.2022 | RCD Espanyol
+PLAYERS: Marc-André ter Stegen, Marcos Alonso, Andreas Christensen, Jordi Alba, Sergi Roberto, Frenkie de Jong, Pedri, Gavi, Ansu Fati, Raphinha, Robert Lewandowski
+
+MATCH: 3886522 | niedz., 05.02.2023 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Andreas Christensen, Jordi Alba, Jules Koundé, Sergio Busquets, Pedri, Frenkie de Jong, Gavi, Raphinha, Robert Lewandowski
+
+MATCH: 3911765 | wt., 13.09.2022 | Bayern Monachium
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Andreas Christensen, Marcos Alonso, Jules Koundé, Sergio Busquets, Pedri, Gavi, Ousmane Dembélé, Raphinha, Robert Lewandowski
+
+MATCH: 3844089 | sob., 13.08.2022 | Rayo Vallecano
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Eric García, Jordi Alba, Ronald Araujo, Sergio Busquets, Pedri, Gavi, Ousmane Dembélé, Raphinha, Robert Lewandowski
+
+MATCH: 4001330 | niedz., 15.01.2023 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Jules Koundé, Alejandro Balde, Ronald Araujo, Sergio Busquets, Pedri, Frenkie de Jong, Gavi, Ousmane Dembélé, Robert Lewandowski
+
+MATCH: 3956708 | czw., 16.02.2023 | Manchester United
+PLAYERS: Marc-André ter Stegen, Marcos Alonso, Jules Koundé, Jordi Alba, Ronald Araujo, Frenkie de Jong, Pedri, Franck Kessié, Gavi, Raphinha, Robert Lewandowski
+
+MATCH: 3911767 | śr., 12.10.2022 | Inter Mediolan
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Eric García, Marcos Alonso, Sergi Roberto, Sergio Busquets, Pedri, Gavi, Raphinha, Ousmane Dembélé, Robert Lewandowski
+
+MATCH: 3886297 | sob., 10.09.2022 | Cádiz CF
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Alejandro Balde, Héctor Bellerín, Sergio Busquets, Frenkie de Jong, Gavi, Ferran Torres, Raphinha, Memphis Depay
+
+MATCH: 3858321 | sob., 17.09.2022 | Elche CF
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Eric García, Alejandro Balde, Jules Koundé, Frenkie de Jong, Pedri, Franck Kessié, Memphis Depay, Ousmane Dembélé, Robert Lewandowski
+
+MATCH: 3886682 | sob., 20.05.2023 | Real Sociedad
+PLAYERS: Marc-André ter Stegen, Andreas Christensen, Jules Koundé, Jordi Alba, Alejandro Balde, Sergio Busquets, Franck Kessié, Frenkie de Jong, Ousmane Dembélé, Raphinha, Robert Lewandowski
+

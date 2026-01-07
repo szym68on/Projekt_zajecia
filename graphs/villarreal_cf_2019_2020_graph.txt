@@ -1,0 +1,276 @@
+# Graph for Java/GraphStream
+# Nodes: 27
+# Edges: 270
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Sergio Asenjo | Pau Torres | 29 | 34 | 35
+EDGE Sergio Asenjo | Raúl Albiol | 32 | 34 | 38
+EDGE Sergio Asenjo | Xavi Quintillà | 15 | 34 | 20
+EDGE Sergio Asenjo | Mario Gaspar | 20 | 34 | 24
+EDGE Sergio Asenjo | Frank Anguissa | 26 | 34 | 31
+EDGE Sergio Asenjo | Manu Trigueros | 17 | 34 | 19
+EDGE Sergio Asenjo | Manu Morlanes | 3 | 34 | 7
+EDGE Sergio Asenjo | Moi Gómez | 23 | 34 | 28
+EDGE Sergio Asenjo | Gerard Moreno | 29 | 34 | 34
+EDGE Sergio Asenjo | Karl Toko Ekambi | 9 | 34 | 12
+EDGE Sergio Asenjo | Ramiro Funes Mori | 5 | 34 | 10
+EDGE Sergio Asenjo | Rubén Peña | 19 | 34 | 24
+EDGE Sergio Asenjo | Vicente Iborra | 29 | 34 | 34
+EDGE Sergio Asenjo | Santi Cazorla | 25 | 34 | 32
+EDGE Sergio Asenjo | Paco Alcácer | 11 | 34 | 11
+EDGE Sergio Asenjo | Soufiane Chakla | 2 | 34 | 3
+EDGE Sergio Asenjo | Alberto Moreno | 15 | 34 | 18
+EDGE Sergio Asenjo | Javi Ontiveros | 7 | 34 | 12
+EDGE Sergio Asenjo | Carlos Bacca | 7 | 34 | 11
+EDGE Sergio Asenjo | Samuel Chukwueze | 16 | 34 | 22
+EDGE Sergio Asenjo | Fer Niño | 1 | 34 | 1
+EDGE Pau Torres | Raúl Albiol | 31 | 35 | 38
+EDGE Pau Torres | Xavi Quintillà | 18 | 35 | 20
+EDGE Pau Torres | Mario Gaspar | 18 | 35 | 24
+EDGE Pau Torres | Frank Anguissa | 29 | 35 | 31
+EDGE Pau Torres | Manu Trigueros | 13 | 35 | 19
+EDGE Pau Torres | Manu Morlanes | 4 | 35 | 7
+EDGE Pau Torres | Moi Gómez | 22 | 35 | 28
+EDGE Pau Torres | Gerard Moreno | 29 | 35 | 34
+EDGE Pau Torres | Karl Toko Ekambi | 12 | 35 | 12
+EDGE Pau Torres | Alberto Moreno | 15 | 35 | 18
+EDGE Pau Torres | Rubén Peña | 19 | 35 | 24
+EDGE Pau Torres | Vicente Iborra | 28 | 35 | 34
+EDGE Pau Torres | Santi Cazorla | 26 | 35 | 32
+EDGE Pau Torres | Javi Ontiveros | 8 | 35 | 12
+EDGE Pau Torres | Samuel Chukwueze | 19 | 35 | 22
+EDGE Pau Torres | Carlos Bacca | 7 | 35 | 11
+EDGE Pau Torres | Andrés Fernández | 6 | 35 | 9
+EDGE Pau Torres | Bruno Soriano | 1 | 35 | 1
+EDGE Pau Torres | Paco Alcácer | 8 | 35 | 11
+EDGE Pau Torres | Soufiane Chakla | 1 | 35 | 3
+EDGE Pau Torres | Ramiro Funes Mori | 3 | 35 | 10
+EDGE Pau Torres | Miguel Leal | 1 | 35 | 1
+EDGE Pau Torres | Sergio Lozano | 1 | 35 | 1
+EDGE Pau Torres | Leo Suárez | 1 | 35 | 1
+EDGE Pau Torres | Fer Niño | 1 | 35 | 1
+EDGE Raúl Albiol | Xavi Quintillà | 16 | 38 | 20
+EDGE Raúl Albiol | Mario Gaspar | 22 | 38 | 24
+EDGE Raúl Albiol | Frank Anguissa | 27 | 38 | 31
+EDGE Raúl Albiol | Manu Trigueros | 19 | 38 | 19
+EDGE Raúl Albiol | Manu Morlanes | 4 | 38 | 7
+EDGE Raúl Albiol | Moi Gómez | 26 | 38 | 28
+EDGE Raúl Albiol | Gerard Moreno | 31 | 38 | 34
+EDGE Raúl Albiol | Karl Toko Ekambi | 10 | 38 | 12
+EDGE Raúl Albiol | Ramiro Funes Mori | 6 | 38 | 10
+EDGE Raúl Albiol | Rubén Peña | 20 | 38 | 24
+EDGE Raúl Albiol | Vicente Iborra | 32 | 38 | 34
+EDGE Raúl Albiol | Santi Cazorla | 29 | 38 | 32
+EDGE Raúl Albiol | Paco Alcácer | 11 | 38 | 11
+EDGE Raúl Albiol | Soufiane Chakla | 1 | 38 | 3
+EDGE Raúl Albiol | Alberto Moreno | 18 | 38 | 18
+EDGE Raúl Albiol | Javi Ontiveros | 9 | 38 | 12
+EDGE Raúl Albiol | Carlos Bacca | 9 | 38 | 11
+EDGE Raúl Albiol | Samuel Chukwueze | 19 | 38 | 22
+EDGE Raúl Albiol | Andrés Fernández | 6 | 38 | 9
+EDGE Raúl Albiol | Bruno Soriano | 1 | 38 | 1
+EDGE Raúl Albiol | Fer Niño | 1 | 38 | 1
+EDGE Xavi Quintillà | Mario Gaspar | 11 | 20 | 24
+EDGE Xavi Quintillà | Frank Anguissa | 19 | 20 | 31
+EDGE Xavi Quintillà | Manu Trigueros | 7 | 20 | 19
+EDGE Xavi Quintillà | Manu Morlanes | 4 | 20 | 7
+EDGE Xavi Quintillà | Moi Gómez | 14 | 20 | 28
+EDGE Xavi Quintillà | Gerard Moreno | 17 | 20 | 34
+EDGE Xavi Quintillà | Karl Toko Ekambi | 7 | 20 | 12
+EDGE Xavi Quintillà | Rubén Peña | 10 | 20 | 24
+EDGE Xavi Quintillà | Vicente Iborra | 16 | 20 | 34
+EDGE Xavi Quintillà | Santi Cazorla | 12 | 20 | 32
+EDGE Xavi Quintillà | Samuel Chukwueze | 13 | 20 | 22
+EDGE Xavi Quintillà | Andrés Fernández | 5 | 20 | 9
+EDGE Xavi Quintillà | Ramiro Funes Mori | 4 | 20 | 10
+EDGE Xavi Quintillà | Javi Ontiveros | 5 | 20 | 12
+EDGE Xavi Quintillà | Carlos Bacca | 4 | 20 | 11
+EDGE Xavi Quintillà | Soufiane Chakla | 2 | 20 | 3
+EDGE Xavi Quintillà | Paco Alcácer | 1 | 20 | 11
+EDGE Mario Gaspar | Frank Anguissa | 17 | 24 | 31
+EDGE Mario Gaspar | Manu Trigueros | 13 | 24 | 19
+EDGE Mario Gaspar | Manu Morlanes | 3 | 24 | 7
+EDGE Mario Gaspar | Moi Gómez | 16 | 24 | 28
+EDGE Mario Gaspar | Gerard Moreno | 19 | 24 | 34
+EDGE Mario Gaspar | Karl Toko Ekambi | 6 | 24 | 12
+EDGE Mario Gaspar | Ramiro Funes Mori | 6 | 24 | 10
+EDGE Mario Gaspar | Rubén Peña | 5 | 24 | 24
+EDGE Mario Gaspar | Vicente Iborra | 20 | 24 | 34
+EDGE Mario Gaspar | Santi Cazorla | 17 | 24 | 32
+EDGE Mario Gaspar | Paco Alcácer | 8 | 24 | 11
+EDGE Mario Gaspar | Alberto Moreno | 9 | 24 | 18
+EDGE Mario Gaspar | Samuel Chukwueze | 16 | 24 | 22
+EDGE Mario Gaspar | Carlos Bacca | 5 | 24 | 11
+EDGE Mario Gaspar | Andrés Fernández | 4 | 24 | 9
+EDGE Mario Gaspar | Javi Ontiveros | 3 | 24 | 12
+EDGE Mario Gaspar | Soufiane Chakla | 2 | 24 | 3
+EDGE Frank Anguissa | Manu Trigueros | 11 | 31 | 19
+EDGE Frank Anguissa | Manu Morlanes | 4 | 31 | 7
+EDGE Frank Anguissa | Moi Gómez | 19 | 31 | 28
+EDGE Frank Anguissa | Gerard Moreno | 25 | 31 | 34
+EDGE Frank Anguissa | Karl Toko Ekambi | 9 | 31 | 12
+EDGE Frank Anguissa | Alberto Moreno | 11 | 31 | 18
+EDGE Frank Anguissa | Rubén Peña | 16 | 31 | 24
+EDGE Frank Anguissa | Vicente Iborra | 24 | 31 | 34
+EDGE Frank Anguissa | Santi Cazorla | 22 | 31 | 32
+EDGE Frank Anguissa | Javi Ontiveros | 8 | 31 | 12
+EDGE Frank Anguissa | Samuel Chukwueze | 18 | 31 | 22
+EDGE Frank Anguissa | Carlos Bacca | 7 | 31 | 11
+EDGE Frank Anguissa | Andrés Fernández | 5 | 31 | 9
+EDGE Frank Anguissa | Ramiro Funes Mori | 4 | 31 | 10
+EDGE Frank Anguissa | Bruno Soriano | 1 | 31 | 1
+EDGE Frank Anguissa | Soufiane Chakla | 2 | 31 | 3
+EDGE Frank Anguissa | Paco Alcácer | 5 | 31 | 11
+EDGE Frank Anguissa | Fer Niño | 1 | 31 | 1
+EDGE Manu Trigueros | Manu Morlanes | 3 | 19 | 7
+EDGE Manu Trigueros | Moi Gómez | 14 | 19 | 28
+EDGE Manu Trigueros | Gerard Moreno | 12 | 19 | 34
+EDGE Manu Trigueros | Karl Toko Ekambi | 2 | 19 | 12
+EDGE Manu Trigueros | Ramiro Funes Mori | 6 | 19 | 10
+EDGE Manu Trigueros | Rubén Peña | 9 | 19 | 24
+EDGE Manu Trigueros | Vicente Iborra | 13 | 19 | 34
+EDGE Manu Trigueros | Santi Cazorla | 11 | 19 | 32
+EDGE Manu Trigueros | Paco Alcácer | 7 | 19 | 11
+EDGE Manu Trigueros | Alberto Moreno | 9 | 19 | 18
+EDGE Manu Trigueros | Samuel Chukwueze | 9 | 19 | 22
+EDGE Manu Trigueros | Carlos Bacca | 6 | 19 | 11
+EDGE Manu Trigueros | Andrés Fernández | 2 | 19 | 9
+EDGE Manu Trigueros | Javi Ontiveros | 6 | 19 | 12
+EDGE Manu Trigueros | Fer Niño | 1 | 19 | 1
+EDGE Manu Morlanes | Moi Gómez | 5 | 7 | 28
+EDGE Manu Morlanes | Gerard Moreno | 3 | 7 | 34
+EDGE Manu Morlanes | Karl Toko Ekambi | 2 | 7 | 12
+EDGE Manu Morlanes | Soufiane Chakla | 2 | 7 | 3
+EDGE Manu Morlanes | Alberto Moreno | 2 | 7 | 18
+EDGE Manu Morlanes | Rubén Peña | 5 | 7 | 24
+EDGE Manu Morlanes | Vicente Iborra | 1 | 7 | 34
+EDGE Manu Morlanes | Javi Ontiveros | 5 | 7 | 12
+EDGE Manu Morlanes | Carlos Bacca | 5 | 7 | 11
+EDGE Manu Morlanes | Andrés Fernández | 4 | 7 | 9
+EDGE Manu Morlanes | Ramiro Funes Mori | 4 | 7 | 10
+EDGE Manu Morlanes | Santi Cazorla | 2 | 7 | 32
+EDGE Manu Morlanes | Samuel Chukwueze | 2 | 7 | 22
+EDGE Manu Morlanes | Miguel Leal | 1 | 7 | 1
+EDGE Manu Morlanes | Sergio Lozano | 1 | 7 | 1
+EDGE Manu Morlanes | Leo Suárez | 1 | 7 | 1
+EDGE Moi Gómez | Gerard Moreno | 24 | 28 | 34
+EDGE Moi Gómez | Karl Toko Ekambi | 8 | 28 | 12
+EDGE Moi Gómez | Ramiro Funes Mori | 6 | 28 | 10
+EDGE Moi Gómez | Rubén Peña | 17 | 28 | 24
+EDGE Moi Gómez | Vicente Iborra | 22 | 28 | 34
+EDGE Moi Gómez | Santi Cazorla | 19 | 28 | 32
+EDGE Moi Gómez | Paco Alcácer | 6 | 28 | 11
+EDGE Moi Gómez | Soufiane Chakla | 2 | 28 | 3
+EDGE Moi Gómez | Alberto Moreno | 10 | 28 | 18
+EDGE Moi Gómez | Javi Ontiveros | 5 | 28 | 12
+EDGE Moi Gómez | Carlos Bacca | 7 | 28 | 11
+EDGE Moi Gómez | Andrés Fernández | 5 | 28 | 9
+EDGE Moi Gómez | Samuel Chukwueze | 9 | 28 | 22
+EDGE Moi Gómez | Fer Niño | 1 | 28 | 1
+EDGE Gerard Moreno | Karl Toko Ekambi | 10 | 34 | 12
+EDGE Gerard Moreno | Ramiro Funes Mori | 5 | 34 | 10
+EDGE Gerard Moreno | Rubén Peña | 20 | 34 | 24
+EDGE Gerard Moreno | Vicente Iborra | 31 | 34 | 34
+EDGE Gerard Moreno | Santi Cazorla | 26 | 34 | 32
+EDGE Gerard Moreno | Paco Alcácer | 10 | 34 | 11
+EDGE Gerard Moreno | Soufiane Chakla | 3 | 34 | 3
+EDGE Gerard Moreno | Alberto Moreno | 13 | 34 | 18
+EDGE Gerard Moreno | Javi Ontiveros | 6 | 34 | 12
+EDGE Gerard Moreno | Carlos Bacca | 4 | 34 | 11
+EDGE Gerard Moreno | Samuel Chukwueze | 17 | 34 | 22
+EDGE Gerard Moreno | Andrés Fernández | 5 | 34 | 9
+EDGE Gerard Moreno | Bruno Soriano | 1 | 34 | 1
+EDGE Karl Toko Ekambi | Rubén Peña | 7 | 12 | 24
+EDGE Karl Toko Ekambi | Vicente Iborra | 10 | 12 | 34
+EDGE Karl Toko Ekambi | Santi Cazorla | 9 | 12 | 32
+EDGE Karl Toko Ekambi | Samuel Chukwueze | 5 | 12 | 22
+EDGE Karl Toko Ekambi | Alberto Moreno | 3 | 12 | 18
+EDGE Karl Toko Ekambi | Andrés Fernández | 3 | 12 | 9
+EDGE Karl Toko Ekambi | Javi Ontiveros | 2 | 12 | 12
+EDGE Karl Toko Ekambi | Ramiro Funes Mori | 2 | 12 | 10
+EDGE Karl Toko Ekambi | Miguel Leal | 1 | 12 | 1
+EDGE Karl Toko Ekambi | Sergio Lozano | 1 | 12 | 1
+EDGE Karl Toko Ekambi | Leo Suárez | 1 | 12 | 1
+EDGE Karl Toko Ekambi | Carlos Bacca | 1 | 12 | 11
+EDGE Ramiro Funes Mori | Rubén Peña | 7 | 10 | 24
+EDGE Ramiro Funes Mori | Vicente Iborra | 6 | 10 | 34
+EDGE Ramiro Funes Mori | Santi Cazorla | 8 | 10 | 32
+EDGE Ramiro Funes Mori | Paco Alcácer | 3 | 10 | 11
+EDGE Ramiro Funes Mori | Andrés Fernández | 5 | 10 | 9
+EDGE Ramiro Funes Mori | Alberto Moreno | 2 | 10 | 18
+EDGE Ramiro Funes Mori | Javi Ontiveros | 5 | 10 | 12
+EDGE Ramiro Funes Mori | Samuel Chukwueze | 4 | 10 | 22
+EDGE Ramiro Funes Mori | Carlos Bacca | 5 | 10 | 11
+EDGE Ramiro Funes Mori | Miguel Leal | 1 | 10 | 1
+EDGE Ramiro Funes Mori | Sergio Lozano | 1 | 10 | 1
+EDGE Ramiro Funes Mori | Leo Suárez | 1 | 10 | 1
+EDGE Ramiro Funes Mori | Soufiane Chakla | 1 | 10 | 3
+EDGE Rubén Peña | Vicente Iborra | 18 | 24 | 34
+EDGE Rubén Peña | Santi Cazorla | 19 | 24 | 32
+EDGE Rubén Peña | Paco Alcácer | 6 | 24 | 11
+EDGE Rubén Peña | Soufiane Chakla | 2 | 24 | 3
+EDGE Rubén Peña | Alberto Moreno | 9 | 24 | 18
+EDGE Rubén Peña | Javi Ontiveros | 9 | 24 | 12
+EDGE Rubén Peña | Carlos Bacca | 6 | 24 | 11
+EDGE Rubén Peña | Samuel Chukwueze | 7 | 24 | 22
+EDGE Rubén Peña | Andrés Fernández | 5 | 24 | 9
+EDGE Rubén Peña | Bruno Soriano | 1 | 24 | 1
+EDGE Rubén Peña | Miguel Leal | 1 | 24 | 1
+EDGE Rubén Peña | Sergio Lozano | 1 | 24 | 1
+EDGE Rubén Peña | Leo Suárez | 1 | 24 | 1
+EDGE Rubén Peña | Fer Niño | 1 | 24 | 1
+EDGE Vicente Iborra | Santi Cazorla | 28 | 34 | 32
+EDGE Vicente Iborra | Paco Alcácer | 10 | 34 | 11
+EDGE Vicente Iborra | Soufiane Chakla | 2 | 34 | 3
+EDGE Vicente Iborra | Alberto Moreno | 14 | 34 | 18
+EDGE Vicente Iborra | Javi Ontiveros | 6 | 34 | 12
+EDGE Vicente Iborra | Carlos Bacca | 5 | 34 | 11
+EDGE Vicente Iborra | Samuel Chukwueze | 19 | 34 | 22
+EDGE Vicente Iborra | Andrés Fernández | 5 | 34 | 9
+EDGE Vicente Iborra | Bruno Soriano | 1 | 34 | 1
+EDGE Santi Cazorla | Paco Alcácer | 11 | 32 | 11
+EDGE Santi Cazorla | Alberto Moreno | 16 | 32 | 18
+EDGE Santi Cazorla | Javi Ontiveros | 7 | 32 | 12
+EDGE Santi Cazorla | Samuel Chukwueze | 16 | 32 | 22
+EDGE Santi Cazorla | Carlos Bacca | 7 | 32 | 11
+EDGE Santi Cazorla | Andrés Fernández | 7 | 32 | 9
+EDGE Santi Cazorla | Bruno Soriano | 1 | 32 | 1
+EDGE Santi Cazorla | Fer Niño | 1 | 32 | 1
+EDGE Santi Cazorla | Soufiane Chakla | 1 | 32 | 3
+EDGE Paco Alcácer | Alberto Moreno | 7 | 11 | 18
+EDGE Paco Alcácer | Javi Ontiveros | 1 | 11 | 12
+EDGE Paco Alcácer | Samuel Chukwueze | 4 | 11 | 22
+EDGE Paco Alcácer | Carlos Bacca | 1 | 11 | 11
+EDGE Soufiane Chakla | Alberto Moreno | 1 | 3 | 18
+EDGE Soufiane Chakla | Javi Ontiveros | 2 | 3 | 12
+EDGE Soufiane Chakla | Carlos Bacca | 1 | 3 | 11
+EDGE Soufiane Chakla | Samuel Chukwueze | 2 | 3 | 22
+EDGE Soufiane Chakla | Andrés Fernández | 1 | 3 | 9
+EDGE Alberto Moreno | Javi Ontiveros | 6 | 18 | 12
+EDGE Alberto Moreno | Carlos Bacca | 6 | 18 | 11
+EDGE Alberto Moreno | Samuel Chukwueze | 9 | 18 | 22
+EDGE Alberto Moreno | Andrés Fernández | 3 | 18 | 9
+EDGE Alberto Moreno | Bruno Soriano | 1 | 18 | 1
+EDGE Alberto Moreno | Fer Niño | 1 | 18 | 1
+EDGE Javi Ontiveros | Carlos Bacca | 6 | 12 | 11
+EDGE Javi Ontiveros | Samuel Chukwueze | 5 | 12 | 22
+EDGE Javi Ontiveros | Andrés Fernández | 5 | 12 | 9
+EDGE Javi Ontiveros | Miguel Leal | 1 | 12 | 1
+EDGE Javi Ontiveros | Sergio Lozano | 1 | 12 | 1
+EDGE Javi Ontiveros | Leo Suárez | 1 | 12 | 1
+EDGE Javi Ontiveros | Fer Niño | 1 | 12 | 1
+EDGE Carlos Bacca | Samuel Chukwueze | 4 | 11 | 22
+EDGE Carlos Bacca | Andrés Fernández | 4 | 11 | 9
+EDGE Carlos Bacca | Miguel Leal | 1 | 11 | 1
+EDGE Carlos Bacca | Sergio Lozano | 1 | 11 | 1
+EDGE Carlos Bacca | Leo Suárez | 1 | 11 | 1
+EDGE Samuel Chukwueze | Andrés Fernández | 6 | 22 | 9
+EDGE Samuel Chukwueze | Bruno Soriano | 1 | 22 | 1
+EDGE Andrés Fernández | Bruno Soriano | 1 | 9 | 1
+EDGE Andrés Fernández | Miguel Leal | 1 | 9 | 1
+EDGE Andrés Fernández | Sergio Lozano | 1 | 9 | 1
+EDGE Andrés Fernández | Leo Suárez | 1 | 9 | 1
+EDGE Miguel Leal | Sergio Lozano | 1 | 1 | 1
+EDGE Miguel Leal | Leo Suárez | 1 | 1 | 1
+EDGE Sergio Lozano | Leo Suárez | 1 | 1 | 1

@@ -1,0 +1,127 @@
+# Team: Atlético Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 58646 | niedz., 25.02.2007 | Real Madryt
+PLAYERS: Leo Franco, Zé Castro, Luis Amaranto Perea, Antonio López, Georgios Seitaridis, Peter Luccin, Maniche, José Manuel Jurado, Luciano Galletti, Sergio Agüero, Fernando Torres
+
+MATCH: 58536 | niedz., 03.12.2006 | Real Betis Balompié
+PLAYERS: Leo Franco, Luis Amaranto Perea, Zé Castro, Antonio López, Mariano Pernía, Georgios Seitaridis, Peter Luccin, Maniche, Luciano Galletti, Sergio Agüero, Fernando Torres
+
+MATCH: 58707 | niedz., 15.04.2007 | Levante UD
+PLAYERS: Leo Franco, Fabiano Eller, Luis Amaranto Perea, Pablo Ibáñez, Mariano Pernía, Costinha, Gabi, José Manuel Jurado, Luciano Galletti, Mista, Fernando Torres
+
+MATCH: 58518 | niedz., 19.11.2006 | Levante UD
+PLAYERS: Leo Franco, Luis Amaranto Perea, Zé Castro, Antonio López, Mariano Pernía, Georgios Seitaridis, Peter Luccin, Maniche, Luciano Galletti, Sergio Agüero, Fernando Torres
+
+MATCH: 2283279 | wt., 09.01.2007 | CA Osasuna
+PLAYERS: Iván Cuéllar, Zé Castro, Pablo Ibáñez, Antonio López, Luis Amaranto Perea, Peter Luccin, Costinha, José Manuel Jurado, Mista, Fernando Torres, Sergio Agüero
+
+MATCH: 58427 | sob., 09.09.2006 | Valencia CF
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, Juan Valera, Peter Luccin, Costinha, José Manuel Jurado, Martin Petrov, Mista, Fernando Torres
+
+MATCH: 58506 | sob., 11.11.2006 | Villarreal CF
+PLAYERS: Leo Franco, Luis Amaranto Perea, Zé Castro, Antonio López, Mariano Pernía, Georgios Seitaridis, Peter Luccin, Maniche, Luciano Galletti, Sergio Agüero, Fernando Torres
+
+MATCH: 58576 | niedz., 07.01.2007 | Gimnàstic de Tarragona
+PLAYERS: Leo Franco, Zé Castro, Pablo Ibáñez, Antonio López, Mariano Pernía, Juan Valera, Gabi, José Manuel Jurado, Luciano Galletti, Fernando Torres, Sergio Agüero
+
+MATCH: 58685 | niedz., 18.03.2007 | Real Zaragoza
+PLAYERS: Leo Franco, Fabiano Eller, Zé Castro, Mariano Pernía, Georgios Seitaridis, Peter Luccin, Gabi, José Manuel Jurado, Luciano Galletti, Fernando Torres, Sergio Agüero
+
+MATCH: 58776 | sob., 09.06.2007 | Celta de Vigo
+PLAYERS: Leo Franco, Fabiano Eller, Pablo Ibáñez, Antonio López, Georgios Seitaridis, Peter Luccin, Maniche, Maxi Rodríguez, Luciano Galletti, Martin Petrov, Fernando Torres
+
+MATCH: 58486 | niedz., 29.10.2006 | Real Zaragoza
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Georgios Seitaridis, Peter Luccin, Costinha, Maniche, Víctor Bravo, Luciano Galletti, Fernando Torres
+
+MATCH: 58478 | sob., 21.10.2006 | Deportivo de La Coruña
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, Juan Valera, Peter Luccin, Costinha, Maniche, Luciano Galletti, Mista, Fernando Torres
+
+MATCH: 58790 | niedz., 17.06.2007 | CA Osasuna
+PLAYERS: Leo Franco, Fabiano Eller, Zé Castro, Antonio López, Georgios Seitaridis, Costinha, Maniche, Martin Petrov, Maxi Rodríguez, Fernando Torres, Sergio Agüero
+
+MATCH: 58496 | sob., 04.11.2006 | RCD Mallorca
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Georgios Seitaridis, Peter Luccin, Costinha, Maniche, Víctor Bravo, Luciano Galletti, Fernando Torres
+
+MATCH: 58567 | śr., 20.12.2006 | FC Barcelona
+PLAYERS: Leo Franco, Zé Castro, Pablo Ibáñez, Antonio López, Georgios Seitaridis, Peter Luccin, Maniche, José Manuel Jurado, Luciano Galletti, Sergio Agüero, Fernando Torres
+
+MATCH: 58723 | sob., 21.04.2007 | Real Sociedad
+PLAYERS: Leo Franco, Fabiano Eller, Luis Amaranto Perea, Pablo Ibáñez, Mariano Pernía, Peter Luccin, Gabi, José Manuel Jurado, Luciano Galletti, Fernando Torres, Sergio Agüero
+
+MATCH: 58737 | niedz., 06.05.2007 | RCD Espanyol
+PLAYERS: Iván Cuéllar, Fabiano Eller, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Mariano Pernía, Costinha, José Manuel Jurado, Luciano Galletti, Mista, Sergio Agüero
+
+MATCH: 58459 | niedz., 01.10.2006 | Real Madryt
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Mariano Pernía, Georgios Seitaridis, Peter Luccin, Maniche, Martin Petrov, Maxi Rodríguez, Mista, Fernando Torres
+
+MATCH: 58749 | niedz., 13.05.2007 | Getafe CF
+PLAYERS: Iván Cuéllar, Fabiano Eller, Zé Castro, Antonio López, Georgios Seitaridis, Peter Luccin, Maniche, José Manuel Jurado, Martin Petrov, Luciano Galletti, Fernando Torres
+
+MATCH: 58596 | niedz., 21.01.2007 | CA Osasuna
+PLAYERS: Iván Cuéllar, Luis Amaranto Perea, Zé Castro, Antonio López, Georgios Seitaridis, Peter Luccin, Maniche, José Manuel Jurado, Luciano Galletti, Sergio Agüero, Fernando Torres
+
+MATCH: 58661 | niedz., 04.03.2007 | Recreativo Huelva
+PLAYERS: Leo Franco, Luis Amaranto Perea, Zé Castro, Mariano Pernía, Antonio López, Georgios Seitaridis, Costinha, Maniche, José Manuel Jurado, Fernando Torres, Sergio Agüero
+
+MATCH: 58704 | niedz., 08.04.2007 | Villarreal CF
+PLAYERS: Leo Franco, Fabiano Eller, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, Peter Luccin, Gabi, José Manuel Jurado, Luciano Galletti, Sergio Agüero, Fernando Torres
+
+MATCH: 58625 | sob., 03.02.2007 | Valencia CF
+PLAYERS: Leo Franco, Pablo Ibáñez, Zé Castro, Antonio López, Georgios Seitaridis, Peter Luccin, Maniche, José Manuel Jurado, Mista, Sergio Agüero, Fernando Torres
+
+MATCH: 58423 | niedz., 27.08.2006 | Racing Santander
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Antonio López, Georgios Seitaridis, Peter Luccin, Costinha, José Manuel Jurado, Martin Petrov, Mista, Fernando Torres
+
+MATCH: 58686 | niedz., 01.04.2007 | RCD Mallorca
+PLAYERS: Leo Franco, Fabiano Eller, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, Peter Luccin, Gabi, José Manuel Jurado, Luciano Galletti, Mista, Fernando Torres
+
+MATCH: 58466 | sob., 14.10.2006 | Recreativo Huelva
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, Georgios Seitaridis, Peter Luccin, Maniche, Martin Petrov, Luciano Galletti, Mista, Fernando Torres
+
+MATCH: 58587 | niedz., 14.01.2007 | Celta de Vigo
+PLAYERS: Iván Cuéllar, Zé Castro, Luis Amaranto Perea, Antonio López, Georgios Seitaridis, Peter Luccin, Maniche, José Manuel Jurado, Luciano Galletti, Fernando Torres, Sergio Agüero
+
+MATCH: 2283302 | śr., 13.12.2006 | Levante UD
+PLAYERS: Leo Franco, Luis Amaranto Perea, Pablo Ibáñez, Mariano Pernía, Georgios Seitaridis, Juan Valera, Costinha, Gabi, José Manuel Jurado, Mista, Fernando Torres
+
+MATCH: 58439 | niedz., 17.09.2006 | Athletic Bilbao
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, Georgios Seitaridis, Peter Luccin, Costinha, Martin Petrov, Maxi Rodríguez, Mista, Sergio Agüero
+
+MATCH: 58727 | sob., 28.04.2007 | Real Betis Balompié
+PLAYERS: Leo Franco, Pablo Ibáñez, Zé Castro, Antonio López, Mariano Pernía, Georgios Seitaridis, Costinha, José Manuel Jurado, Luciano Galletti, Fernando Torres, Sergio Agüero
+
+MATCH: 58527 | sob., 25.11.2006 | Real Sociedad
+PLAYERS: Leo Franco, Luis Amaranto Perea, Zé Castro, Antonio López, Mariano Pernía, Georgios Seitaridis, Peter Luccin, Maniche, Luciano Galletti, Sergio Agüero, Fernando Torres
+
+MATCH: 58756 | niedz., 20.05.2007 | FC Barcelona
+PLAYERS: Iván Cuéllar, Fabiano Eller, Zé Castro, Antonio López, Georgios Seitaridis, Peter Luccin, Maniche, José Manuel Jurado, Martin Petrov, Luciano Galletti, Fernando Torres
+
+MATCH: 58769 | niedz., 27.05.2007 | Gimnàstic de Tarragona
+PLAYERS: Leo Franco, Fabiano Eller, Pablo Ibáñez, Mariano Pernía, Georgios Seitaridis, Costinha, Gabi, Martin Petrov, Maxi Rodríguez, Luciano Galletti, Fernando Torres
+
+MATCH: 2283272 | śr., 17.01.2007 | CA Osasuna
+PLAYERS: Iván Cuéllar, Zé Castro, Luis Amaranto Perea, Antonio López, Mariano Pernía, Georgios Seitaridis, Peter Luccin, Maniche, Luciano Galletti, Mista, Fernando Torres
+
+MATCH: 2283319 | wt., 24.10.2006 | Levante UD
+PLAYERS: Leo Franco, Zé Castro, Luis Amaranto Perea, Mariano Pernía, Georgios Seitaridis, Costinha, Maniche, Peter Luccin, José Manuel Jurado, Fernando Torres, Sergio Agüero
+
+MATCH: 58666 | niedz., 11.03.2007 | Deportivo de La Coruña
+PLAYERS: Leo Franco, Fabiano Eller, Zé Castro, Antonio López, Juan Valera, Peter Luccin, Maniche, José Manuel Jurado, Luciano Galletti, Sergio Agüero, Fernando Torres
+
+MATCH: 58556 | niedz., 17.12.2006 | Getafe CF
+PLAYERS: Leo Franco, Pablo Ibáñez, Zé Castro, Antonio López, Georgios Seitaridis, Peter Luccin, Maniche, José Manuel Jurado, Luciano Galletti, Sergio Agüero, Fernando Torres
+
+MATCH: 58446 | niedz., 24.09.2006 | Sevilla FC
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Antonio López, Georgios Seitaridis, Peter Luccin, Costinha, Martin Petrov, Maxi Rodríguez, Sergio Agüero, Fernando Torres
+
+MATCH: 58547 | niedz., 10.12.2006 | RCD Espanyol
+PLAYERS: Leo Franco, Luis Amaranto Perea, Zé Castro, Antonio López, Mariano Pernía, Georgios Seitaridis, Peter Luccin, Maniche, Luciano Galletti, Sergio Agüero, Fernando Torres
+
+MATCH: 58606 | niedz., 28.01.2007 | Racing Santander
+PLAYERS: Iván Cuéllar, Pablo Ibáñez, Zé Castro, Antonio López, Georgios Seitaridis, Peter Luccin, Maniche, José Manuel Jurado, Luciano Galletti, Sergio Agüero, Fernando Torres
+
+MATCH: 58643 | niedz., 18.02.2007 | Sevilla FC
+PLAYERS: Leo Franco, Pablo Ibáñez, Luis Amaranto Perea, Mariano Pernía, Georgios Seitaridis, Costinha, Peter Luccin, Maniche, Mista, Sergio Agüero, Fernando Torres
+

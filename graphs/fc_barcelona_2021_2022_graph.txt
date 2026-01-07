@@ -1,0 +1,411 @@
+# Graph for Java/GraphStream
+# Nodes: 35
+# Edges: 405
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Marc-André ter Stegen | Gerard Piqué | 34 | 49 | 36
+EDGE Marc-André ter Stegen | Ronald Araujo | 34 | 49 | 36
+EDGE Marc-André ter Stegen | Jordi Alba | 40 | 49 | 44
+EDGE Marc-André ter Stegen | Dani Alves | 14 | 49 | 16
+EDGE Marc-André ter Stegen | Sergio Busquets | 45 | 49 | 49
+EDGE Marc-André ter Stegen | Pedri | 17 | 49 | 19
+EDGE Marc-André ter Stegen | Gavi | 35 | 49 | 36
+EDGE Marc-André ter Stegen | Abde Ezzalzouli | 7 | 49 | 7
+EDGE Marc-André ter Stegen | Ferran Torres | 24 | 49 | 25
+EDGE Marc-André ter Stegen | Ferran Jutglà | 5 | 49 | 6
+EDGE Marc-André ter Stegen | Eric García | 28 | 49 | 32
+EDGE Marc-André ter Stegen | Frenkie de Jong | 38 | 49 | 41
+EDGE Marc-André ter Stegen | Sergi Roberto | 6 | 49 | 6
+EDGE Marc-André ter Stegen | Sergiño Dest | 21 | 49 | 23
+EDGE Marc-André ter Stegen | Memphis Depay | 24 | 49 | 27
+EDGE Marc-André ter Stegen | Luuk de Jong | 10 | 49 | 10
+EDGE Marc-André ter Stegen | Ousmane Dembélé | 17 | 49 | 18
+EDGE Marc-André ter Stegen | Nico González | 16 | 49 | 17
+EDGE Marc-André ter Stegen | Ansu Fati | 4 | 49 | 4
+EDGE Marc-André ter Stegen | Pierre-Emerick Aubameyang | 18 | 49 | 18
+EDGE Marc-André ter Stegen | Adama Traoré | 9 | 49 | 9
+EDGE Marc-André ter Stegen | Óscar Mingueza | 13 | 49 | 14
+EDGE Marc-André ter Stegen | Philippe Coutinho | 5 | 49 | 5
+EDGE Marc-André ter Stegen | Clément Lenglet | 11 | 49 | 11
+EDGE Marc-André ter Stegen | Samuel Umtiti | 1 | 49 | 1
+EDGE Marc-André ter Stegen | Yusuf Demir | 3 | 49 | 3
+EDGE Marc-André ter Stegen | Ilias Akhomach | 2 | 49 | 3
+EDGE Marc-André ter Stegen | Emerson Royal | 1 | 49 | 1
+EDGE Marc-André ter Stegen | Martin Braithwaite | 1 | 49 | 3
+EDGE Marc-André ter Stegen | Antoine Griezmann | 1 | 49 | 3
+EDGE Marc-André ter Stegen | Riqui Puig | 2 | 49 | 3
+EDGE Marc-André ter Stegen | Alejandro Balde | 2 | 49 | 2
+EDGE Marc-André ter Stegen | Sergio Agüero | 2 | 49 | 2
+EDGE Gerard Piqué | Ronald Araujo | 23 | 36 | 36
+EDGE Gerard Piqué | Jordi Alba | 29 | 36 | 44
+EDGE Gerard Piqué | Dani Alves | 10 | 36 | 16
+EDGE Gerard Piqué | Sergio Busquets | 34 | 36 | 49
+EDGE Gerard Piqué | Pedri | 17 | 36 | 19
+EDGE Gerard Piqué | Gavi | 24 | 36 | 36
+EDGE Gerard Piqué | Abde Ezzalzouli | 5 | 36 | 7
+EDGE Gerard Piqué | Ferran Torres | 15 | 36 | 25
+EDGE Gerard Piqué | Ferran Jutglà | 4 | 36 | 6
+EDGE Gerard Piqué | Eric García | 19 | 36 | 32
+EDGE Gerard Piqué | Frenkie de Jong | 28 | 36 | 41
+EDGE Gerard Piqué | Sergi Roberto | 4 | 36 | 6
+EDGE Gerard Piqué | Sergiño Dest | 17 | 36 | 23
+EDGE Gerard Piqué | Memphis Depay | 17 | 36 | 27
+EDGE Gerard Piqué | Luuk de Jong | 10 | 36 | 10
+EDGE Gerard Piqué | Ousmane Dembélé | 10 | 36 | 18
+EDGE Gerard Piqué | Nico González | 11 | 36 | 17
+EDGE Gerard Piqué | Ansu Fati | 2 | 36 | 4
+EDGE Gerard Piqué | Pierre-Emerick Aubameyang | 11 | 36 | 18
+EDGE Gerard Piqué | Neto | 2 | 36 | 4
+EDGE Gerard Piqué | Martin Braithwaite | 2 | 36 | 3
+EDGE Gerard Piqué | Antoine Griezmann | 2 | 36 | 3
+EDGE Gerard Piqué | Óscar Mingueza | 9 | 36 | 14
+EDGE Gerard Piqué | Philippe Coutinho | 3 | 36 | 5
+EDGE Gerard Piqué | Samuel Umtiti | 1 | 36 | 1
+EDGE Gerard Piqué | Clément Lenglet | 3 | 36 | 11
+EDGE Gerard Piqué | Yusuf Demir | 2 | 36 | 3
+EDGE Gerard Piqué | Ilias Akhomach | 2 | 36 | 3
+EDGE Gerard Piqué | Adama Traoré | 7 | 36 | 9
+EDGE Gerard Piqué | Riqui Puig | 1 | 36 | 3
+EDGE Gerard Piqué | Sergio Agüero | 2 | 36 | 2
+EDGE Ronald Araujo | Jordi Alba | 29 | 36 | 44
+EDGE Ronald Araujo | Dani Alves | 13 | 36 | 16
+EDGE Ronald Araujo | Sergio Busquets | 33 | 36 | 49
+EDGE Ronald Araujo | Pedri | 14 | 36 | 19
+EDGE Ronald Araujo | Gavi | 24 | 36 | 36
+EDGE Ronald Araujo | Abde Ezzalzouli | 7 | 36 | 7
+EDGE Ronald Araujo | Ferran Torres | 20 | 36 | 25
+EDGE Ronald Araujo | Ferran Jutglà | 5 | 36 | 6
+EDGE Ronald Araujo | Eric García | 17 | 36 | 32
+EDGE Ronald Araujo | Frenkie de Jong | 30 | 36 | 41
+EDGE Ronald Araujo | Sergi Roberto | 4 | 36 | 6
+EDGE Ronald Araujo | Sergiño Dest | 13 | 36 | 23
+EDGE Ronald Araujo | Memphis Depay | 14 | 36 | 27
+EDGE Ronald Araujo | Luuk de Jong | 7 | 36 | 10
+EDGE Ronald Araujo | Ousmane Dembélé | 15 | 36 | 18
+EDGE Ronald Araujo | Nico González | 9 | 36 | 17
+EDGE Ronald Araujo | Pierre-Emerick Aubameyang | 14 | 36 | 18
+EDGE Ronald Araujo | Adama Traoré | 7 | 36 | 9
+EDGE Ronald Araujo | Clément Lenglet | 6 | 36 | 11
+EDGE Ronald Araujo | Samuel Umtiti | 1 | 36 | 1
+EDGE Ronald Araujo | Yusuf Demir | 3 | 36 | 3
+EDGE Ronald Araujo | Emerson Royal | 1 | 36 | 1
+EDGE Ronald Araujo | Martin Braithwaite | 1 | 36 | 3
+EDGE Ronald Araujo | Antoine Griezmann | 1 | 36 | 3
+EDGE Ronald Araujo | Óscar Mingueza | 5 | 36 | 14
+EDGE Ronald Araujo | Riqui Puig | 2 | 36 | 3
+EDGE Ronald Araujo | Ilias Akhomach | 2 | 36 | 3
+EDGE Ronald Araujo | Neto | 2 | 36 | 4
+EDGE Ronald Araujo | Alejandro Balde | 1 | 36 | 2
+EDGE Ronald Araujo | Philippe Coutinho | 3 | 36 | 5
+EDGE Jordi Alba | Dani Alves | 14 | 44 | 16
+EDGE Jordi Alba | Sergio Busquets | 41 | 44 | 49
+EDGE Jordi Alba | Pedri | 17 | 44 | 19
+EDGE Jordi Alba | Gavi | 30 | 44 | 36
+EDGE Jordi Alba | Abde Ezzalzouli | 6 | 44 | 7
+EDGE Jordi Alba | Ferran Torres | 23 | 44 | 25
+EDGE Jordi Alba | Ferran Jutglà | 5 | 44 | 6
+EDGE Jordi Alba | Eric García | 28 | 44 | 32
+EDGE Jordi Alba | Frenkie de Jong | 35 | 44 | 41
+EDGE Jordi Alba | Ousmane Dembélé | 17 | 44 | 18
+EDGE Jordi Alba | Nico González | 13 | 44 | 17
+EDGE Jordi Alba | Memphis Depay | 21 | 44 | 27
+EDGE Jordi Alba | Sergi Roberto | 4 | 44 | 6
+EDGE Jordi Alba | Sergiño Dest | 17 | 44 | 23
+EDGE Jordi Alba | Ansu Fati | 4 | 44 | 4
+EDGE Jordi Alba | Pierre-Emerick Aubameyang | 16 | 44 | 18
+EDGE Jordi Alba | Neto | 4 | 44 | 4
+EDGE Jordi Alba | Martin Braithwaite | 3 | 44 | 3
+EDGE Jordi Alba | Antoine Griezmann | 3 | 44 | 3
+EDGE Jordi Alba | Adama Traoré | 8 | 44 | 9
+EDGE Jordi Alba | Clément Lenglet | 10 | 44 | 11
+EDGE Jordi Alba | Yusuf Demir | 1 | 44 | 3
+EDGE Jordi Alba | Óscar Mingueza | 9 | 44 | 14
+EDGE Jordi Alba | Ilias Akhomach | 2 | 44 | 3
+EDGE Jordi Alba | Emerson Royal | 1 | 44 | 1
+EDGE Jordi Alba | Riqui Puig | 1 | 44 | 3
+EDGE Jordi Alba | Luuk de Jong | 5 | 44 | 10
+EDGE Jordi Alba | Philippe Coutinho | 2 | 44 | 5
+EDGE Jordi Alba | Sergio Agüero | 2 | 44 | 2
+EDGE Dani Alves | Sergio Busquets | 15 | 16 | 49
+EDGE Dani Alves | Pedri | 6 | 16 | 19
+EDGE Dani Alves | Gavi | 13 | 16 | 36
+EDGE Dani Alves | Abde Ezzalzouli | 1 | 16 | 7
+EDGE Dani Alves | Ferran Torres | 13 | 16 | 25
+EDGE Dani Alves | Ferran Jutglà | 3 | 16 | 6
+EDGE Dani Alves | Frenkie de Jong | 10 | 16 | 41
+EDGE Dani Alves | Ousmane Dembélé | 9 | 16 | 18
+EDGE Dani Alves | Pierre-Emerick Aubameyang | 10 | 16 | 18
+EDGE Dani Alves | Clément Lenglet | 2 | 16 | 11
+EDGE Dani Alves | Adama Traoré | 3 | 16 | 9
+EDGE Dani Alves | Neto | 2 | 16 | 4
+EDGE Dani Alves | Eric García | 6 | 16 | 32
+EDGE Dani Alves | Óscar Mingueza | 2 | 16 | 14
+EDGE Dani Alves | Nico González | 3 | 16 | 17
+EDGE Dani Alves | Riqui Puig | 2 | 16 | 3
+EDGE Dani Alves | Ilias Akhomach | 1 | 16 | 3
+EDGE Dani Alves | Sergiño Dest | 1 | 16 | 23
+EDGE Dani Alves | Memphis Depay | 4 | 16 | 27
+EDGE Dani Alves | Luuk de Jong | 2 | 16 | 10
+EDGE Dani Alves | Alejandro Balde | 1 | 16 | 2
+EDGE Sergio Busquets | Pedri | 17 | 49 | 19
+EDGE Sergio Busquets | Gavi | 35 | 49 | 36
+EDGE Sergio Busquets | Abde Ezzalzouli | 7 | 49 | 7
+EDGE Sergio Busquets | Ferran Torres | 22 | 49 | 25
+EDGE Sergio Busquets | Ferran Jutglà | 5 | 49 | 6
+EDGE Sergio Busquets | Eric García | 28 | 49 | 32
+EDGE Sergio Busquets | Frenkie de Jong | 37 | 49 | 41
+EDGE Sergio Busquets | Sergi Roberto | 6 | 49 | 6
+EDGE Sergio Busquets | Sergiño Dest | 22 | 49 | 23
+EDGE Sergio Busquets | Memphis Depay | 25 | 49 | 27
+EDGE Sergio Busquets | Luuk de Jong | 9 | 49 | 10
+EDGE Sergio Busquets | Ousmane Dembélé | 17 | 49 | 18
+EDGE Sergio Busquets | Nico González | 14 | 49 | 17
+EDGE Sergio Busquets | Ansu Fati | 4 | 49 | 4
+EDGE Sergio Busquets | Pierre-Emerick Aubameyang | 16 | 49 | 18
+EDGE Sergio Busquets | Neto | 4 | 49 | 4
+EDGE Sergio Busquets | Martin Braithwaite | 3 | 49 | 3
+EDGE Sergio Busquets | Antoine Griezmann | 3 | 49 | 3
+EDGE Sergio Busquets | Óscar Mingueza | 12 | 49 | 14
+EDGE Sergio Busquets | Philippe Coutinho | 5 | 49 | 5
+EDGE Sergio Busquets | Clément Lenglet | 11 | 49 | 11
+EDGE Sergio Busquets | Adama Traoré | 7 | 49 | 9
+EDGE Sergio Busquets | Samuel Umtiti | 1 | 49 | 1
+EDGE Sergio Busquets | Yusuf Demir | 3 | 49 | 3
+EDGE Sergio Busquets | Ilias Akhomach | 2 | 49 | 3
+EDGE Sergio Busquets | Emerson Royal | 1 | 49 | 1
+EDGE Sergio Busquets | Riqui Puig | 2 | 49 | 3
+EDGE Sergio Busquets | Alejandro Balde | 2 | 49 | 2
+EDGE Sergio Busquets | Sergio Agüero | 2 | 49 | 2
+EDGE Pedri | Gavi | 8 | 19 | 36
+EDGE Pedri | Abde Ezzalzouli | 2 | 19 | 7
+EDGE Pedri | Ferran Torres | 14 | 19 | 25
+EDGE Pedri | Ferran Jutglà | 1 | 19 | 6
+EDGE Pedri | Eric García | 11 | 19 | 32
+EDGE Pedri | Frenkie de Jong | 14 | 19 | 41
+EDGE Pedri | Sergi Roberto | 2 | 19 | 6
+EDGE Pedri | Sergiño Dest | 9 | 19 | 23
+EDGE Pedri | Memphis Depay | 5 | 19 | 27
+EDGE Pedri | Luuk de Jong | 3 | 19 | 10
+EDGE Pedri | Neto | 2 | 19 | 4
+EDGE Pedri | Martin Braithwaite | 2 | 19 | 3
+EDGE Pedri | Antoine Griezmann | 2 | 19 | 3
+EDGE Pedri | Nico González | 2 | 19 | 17
+EDGE Pedri | Adama Traoré | 8 | 19 | 9
+EDGE Pedri | Pierre-Emerick Aubameyang | 10 | 19 | 18
+EDGE Pedri | Óscar Mingueza | 2 | 19 | 14
+EDGE Pedri | Ousmane Dembélé | 5 | 19 | 18
+EDGE Gavi | Abde Ezzalzouli | 6 | 36 | 7
+EDGE Gavi | Ferran Torres | 17 | 36 | 25
+EDGE Gavi | Ferran Jutglà | 4 | 36 | 6
+EDGE Gavi | Eric García | 19 | 36 | 32
+EDGE Gavi | Frenkie de Jong | 26 | 36 | 41
+EDGE Gavi | Ousmane Dembélé | 15 | 36 | 18
+EDGE Gavi | Nico González | 11 | 36 | 17
+EDGE Gavi | Memphis Depay | 19 | 36 | 27
+EDGE Gavi | Sergi Roberto | 1 | 36 | 6
+EDGE Gavi | Sergiño Dest | 14 | 36 | 23
+EDGE Gavi | Ansu Fati | 4 | 36 | 4
+EDGE Gavi | Pierre-Emerick Aubameyang | 12 | 36 | 18
+EDGE Gavi | Óscar Mingueza | 11 | 36 | 14
+EDGE Gavi | Philippe Coutinho | 3 | 36 | 5
+EDGE Gavi | Luuk de Jong | 6 | 36 | 10
+EDGE Gavi | Clément Lenglet | 10 | 36 | 11
+EDGE Gavi | Adama Traoré | 5 | 36 | 9
+EDGE Gavi | Samuel Umtiti | 1 | 36 | 1
+EDGE Gavi | Yusuf Demir | 2 | 36 | 3
+EDGE Gavi | Ilias Akhomach | 1 | 36 | 3
+EDGE Gavi | Alejandro Balde | 1 | 36 | 2
+EDGE Gavi | Riqui Puig | 1 | 36 | 3
+EDGE Gavi | Sergio Agüero | 1 | 36 | 2
+EDGE Gavi | Neto | 1 | 36 | 4
+EDGE Abde Ezzalzouli | Ferran Torres | 2 | 7 | 25
+EDGE Abde Ezzalzouli | Ferran Jutglà | 3 | 7 | 6
+EDGE Abde Ezzalzouli | Eric García | 3 | 7 | 32
+EDGE Abde Ezzalzouli | Frenkie de Jong | 5 | 7 | 41
+EDGE Abde Ezzalzouli | Ousmane Dembélé | 3 | 7 | 18
+EDGE Abde Ezzalzouli | Nico González | 3 | 7 | 17
+EDGE Abde Ezzalzouli | Memphis Depay | 2 | 7 | 27
+EDGE Abde Ezzalzouli | Samuel Umtiti | 1 | 7 | 1
+EDGE Abde Ezzalzouli | Luuk de Jong | 2 | 7 | 10
+EDGE Abde Ezzalzouli | Clément Lenglet | 2 | 7 | 11
+EDGE Abde Ezzalzouli | Sergiño Dest | 2 | 7 | 23
+EDGE Abde Ezzalzouli | Philippe Coutinho | 1 | 7 | 5
+EDGE Ferran Torres | Ferran Jutglà | 1 | 25 | 6
+EDGE Ferran Torres | Frenkie de Jong | 19 | 25 | 41
+EDGE Ferran Torres | Ousmane Dembélé | 12 | 25 | 18
+EDGE Ferran Torres | Pierre-Emerick Aubameyang | 17 | 25 | 18
+EDGE Ferran Torres | Eric García | 13 | 25 | 32
+EDGE Ferran Torres | Sergiño Dest | 9 | 25 | 23
+EDGE Ferran Torres | Nico González | 3 | 25 | 17
+EDGE Ferran Torres | Memphis Depay | 6 | 25 | 27
+EDGE Ferran Torres | Adama Traoré | 9 | 25 | 9
+EDGE Ferran Torres | Clément Lenglet | 3 | 25 | 11
+EDGE Ferran Torres | Óscar Mingueza | 3 | 25 | 14
+EDGE Ferran Torres | Luuk de Jong | 2 | 25 | 10
+EDGE Ferran Torres | Alejandro Balde | 1 | 25 | 2
+EDGE Ferran Torres | Riqui Puig | 1 | 25 | 3
+EDGE Ferran Torres | Neto | 1 | 25 | 4
+EDGE Ferran Jutglà | Eric García | 5 | 6 | 32
+EDGE Ferran Jutglà | Frenkie de Jong | 3 | 6 | 41
+EDGE Ferran Jutglà | Ousmane Dembélé | 3 | 6 | 18
+EDGE Ferran Jutglà | Óscar Mingueza | 2 | 6 | 14
+EDGE Ferran Jutglà | Nico González | 3 | 6 | 17
+EDGE Ferran Jutglà | Riqui Puig | 2 | 6 | 3
+EDGE Ferran Jutglà | Ilias Akhomach | 2 | 6 | 3
+EDGE Ferran Jutglà | Luuk de Jong | 2 | 6 | 10
+EDGE Ferran Jutglà | Neto | 1 | 6 | 4
+EDGE Ferran Jutglà | Clément Lenglet | 1 | 6 | 11
+EDGE Eric García | Frenkie de Jong | 24 | 32 | 41
+EDGE Eric García | Sergi Roberto | 5 | 32 | 6
+EDGE Eric García | Sergiño Dest | 14 | 32 | 23
+EDGE Eric García | Memphis Depay | 18 | 32 | 27
+EDGE Eric García | Luuk de Jong | 5 | 32 | 10
+EDGE Eric García | Ousmane Dembélé | 12 | 32 | 18
+EDGE Eric García | Nico González | 13 | 32 | 17
+EDGE Eric García | Ansu Fati | 4 | 32 | 4
+EDGE Eric García | Neto | 4 | 32 | 4
+EDGE Eric García | Martin Braithwaite | 2 | 32 | 3
+EDGE Eric García | Antoine Griezmann | 2 | 32 | 3
+EDGE Eric García | Adama Traoré | 4 | 32 | 9
+EDGE Eric García | Óscar Mingueza | 10 | 32 | 14
+EDGE Eric García | Philippe Coutinho | 3 | 32 | 5
+EDGE Eric García | Pierre-Emerick Aubameyang | 10 | 32 | 18
+EDGE Eric García | Ilias Akhomach | 3 | 32 | 3
+EDGE Eric García | Riqui Puig | 2 | 32 | 3
+EDGE Eric García | Clément Lenglet | 4 | 32 | 11
+EDGE Eric García | Sergio Agüero | 2 | 32 | 2
+EDGE Eric García | Alejandro Balde | 1 | 32 | 2
+EDGE Eric García | Yusuf Demir | 1 | 32 | 3
+EDGE Frenkie de Jong | Sergi Roberto | 5 | 41 | 6
+EDGE Frenkie de Jong | Sergiño Dest | 18 | 41 | 23
+EDGE Frenkie de Jong | Memphis Depay | 22 | 41 | 27
+EDGE Frenkie de Jong | Luuk de Jong | 8 | 41 | 10
+EDGE Frenkie de Jong | Ousmane Dembélé | 15 | 41 | 18
+EDGE Frenkie de Jong | Nico González | 11 | 41 | 17
+EDGE Frenkie de Jong | Ansu Fati | 4 | 41 | 4
+EDGE Frenkie de Jong | Pierre-Emerick Aubameyang | 13 | 41 | 18
+EDGE Frenkie de Jong | Neto | 3 | 41 | 4
+EDGE Frenkie de Jong | Martin Braithwaite | 3 | 41 | 3
+EDGE Frenkie de Jong | Antoine Griezmann | 3 | 41 | 3
+EDGE Frenkie de Jong | Adama Traoré | 7 | 41 | 9
+EDGE Frenkie de Jong | Clément Lenglet | 9 | 41 | 11
+EDGE Frenkie de Jong | Samuel Umtiti | 1 | 41 | 1
+EDGE Frenkie de Jong | Yusuf Demir | 3 | 41 | 3
+EDGE Frenkie de Jong | Óscar Mingueza | 9 | 41 | 14
+EDGE Frenkie de Jong | Ilias Akhomach | 2 | 41 | 3
+EDGE Frenkie de Jong | Emerson Royal | 1 | 41 | 1
+EDGE Frenkie de Jong | Riqui Puig | 1 | 41 | 3
+EDGE Frenkie de Jong | Alejandro Balde | 1 | 41 | 2
+EDGE Frenkie de Jong | Philippe Coutinho | 2 | 41 | 5
+EDGE Sergi Roberto | Sergiño Dest | 4 | 6 | 23
+EDGE Sergi Roberto | Memphis Depay | 6 | 6 | 27
+EDGE Sergi Roberto | Luuk de Jong | 2 | 6 | 10
+EDGE Sergi Roberto | Ansu Fati | 1 | 6 | 4
+EDGE Sergi Roberto | Clément Lenglet | 1 | 6 | 11
+EDGE Sergi Roberto | Emerson Royal | 1 | 6 | 1
+EDGE Sergi Roberto | Martin Braithwaite | 1 | 6 | 3
+EDGE Sergi Roberto | Antoine Griezmann | 1 | 6 | 3
+EDGE Sergi Roberto | Nico González | 1 | 6 | 17
+EDGE Sergi Roberto | Philippe Coutinho | 2 | 6 | 5
+EDGE Sergi Roberto | Sergio Agüero | 1 | 6 | 2
+EDGE Sergi Roberto | Alejandro Balde | 1 | 6 | 2
+EDGE Sergi Roberto | Yusuf Demir | 1 | 6 | 3
+EDGE Sergiño Dest | Memphis Depay | 16 | 23 | 27
+EDGE Sergiño Dest | Luuk de Jong | 5 | 23 | 10
+EDGE Sergiño Dest | Ansu Fati | 2 | 23 | 4
+EDGE Sergiño Dest | Neto | 2 | 23 | 4
+EDGE Sergiño Dest | Martin Braithwaite | 2 | 23 | 3
+EDGE Sergiño Dest | Antoine Griezmann | 2 | 23 | 3
+EDGE Sergiño Dest | Nico González | 6 | 23 | 17
+EDGE Sergiño Dest | Adama Traoré | 5 | 23 | 9
+EDGE Sergiño Dest | Óscar Mingueza | 6 | 23 | 14
+EDGE Sergiño Dest | Philippe Coutinho | 5 | 23 | 5
+EDGE Sergiño Dest | Ousmane Dembélé | 4 | 23 | 18
+EDGE Sergiño Dest | Pierre-Emerick Aubameyang | 5 | 23 | 18
+EDGE Sergiño Dest | Clément Lenglet | 4 | 23 | 11
+EDGE Sergiño Dest | Yusuf Demir | 2 | 23 | 3
+EDGE Sergiño Dest | Sergio Agüero | 2 | 23 | 2
+EDGE Sergiño Dest | Alejandro Balde | 1 | 23 | 2
+EDGE Memphis Depay | Luuk de Jong | 5 | 27 | 10
+EDGE Memphis Depay | Nico González | 11 | 27 | 17
+EDGE Memphis Depay | Ansu Fati | 4 | 27 | 4
+EDGE Memphis Depay | Neto | 3 | 27 | 4
+EDGE Memphis Depay | Martin Braithwaite | 3 | 27 | 3
+EDGE Memphis Depay | Antoine Griezmann | 3 | 27 | 3
+EDGE Memphis Depay | Adama Traoré | 1 | 27 | 9
+EDGE Memphis Depay | Óscar Mingueza | 10 | 27 | 14
+EDGE Memphis Depay | Philippe Coutinho | 5 | 27 | 5
+EDGE Memphis Depay | Clément Lenglet | 9 | 27 | 11
+EDGE Memphis Depay | Yusuf Demir | 3 | 27 | 3
+EDGE Memphis Depay | Ilias Akhomach | 1 | 27 | 3
+EDGE Memphis Depay | Emerson Royal | 1 | 27 | 1
+EDGE Memphis Depay | Pierre-Emerick Aubameyang | 3 | 27 | 18
+EDGE Memphis Depay | Ousmane Dembélé | 4 | 27 | 18
+EDGE Memphis Depay | Alejandro Balde | 2 | 27 | 2
+EDGE Memphis Depay | Riqui Puig | 1 | 27 | 3
+EDGE Memphis Depay | Sergio Agüero | 2 | 27 | 2
+EDGE Luuk de Jong | Óscar Mingueza | 4 | 10 | 14
+EDGE Luuk de Jong | Nico González | 4 | 10 | 17
+EDGE Luuk de Jong | Philippe Coutinho | 1 | 10 | 5
+EDGE Luuk de Jong | Samuel Umtiti | 1 | 10 | 1
+EDGE Luuk de Jong | Ousmane Dembélé | 3 | 10 | 18
+EDGE Luuk de Jong | Riqui Puig | 1 | 10 | 3
+EDGE Luuk de Jong | Ilias Akhomach | 1 | 10 | 3
+EDGE Luuk de Jong | Yusuf Demir | 1 | 10 | 3
+EDGE Luuk de Jong | Clément Lenglet | 1 | 10 | 11
+EDGE Ousmane Dembélé | Pierre-Emerick Aubameyang | 10 | 18 | 18
+EDGE Ousmane Dembélé | Samuel Umtiti | 1 | 18 | 1
+EDGE Ousmane Dembélé | Nico González | 3 | 18 | 17
+EDGE Ousmane Dembélé | Óscar Mingueza | 1 | 18 | 14
+EDGE Ousmane Dembélé | Clément Lenglet | 3 | 18 | 11
+EDGE Ousmane Dembélé | Neto | 1 | 18 | 4
+EDGE Nico González | Adama Traoré | 2 | 17 | 9
+EDGE Nico González | Óscar Mingueza | 9 | 17 | 14
+EDGE Nico González | Philippe Coutinho | 4 | 17 | 5
+EDGE Nico González | Samuel Umtiti | 1 | 17 | 1
+EDGE Nico González | Clément Lenglet | 4 | 17 | 11
+EDGE Nico González | Yusuf Demir | 1 | 17 | 3
+EDGE Nico González | Ilias Akhomach | 3 | 17 | 3
+EDGE Nico González | Riqui Puig | 2 | 17 | 3
+EDGE Nico González | Neto | 1 | 17 | 4
+EDGE Nico González | Pierre-Emerick Aubameyang | 2 | 17 | 18
+EDGE Nico González | Ansu Fati | 2 | 17 | 4
+EDGE Nico González | Sergio Agüero | 2 | 17 | 2
+EDGE Ansu Fati | Óscar Mingueza | 3 | 4 | 14
+EDGE Ansu Fati | Clément Lenglet | 2 | 4 | 11
+EDGE Pierre-Emerick Aubameyang | Clément Lenglet | 2 | 18 | 11
+EDGE Pierre-Emerick Aubameyang | Adama Traoré | 6 | 18 | 9
+EDGE Pierre-Emerick Aubameyang | Óscar Mingueza | 3 | 18 | 14
+EDGE Pierre-Emerick Aubameyang | Alejandro Balde | 1 | 18 | 2
+EDGE Pierre-Emerick Aubameyang | Riqui Puig | 1 | 18 | 3
+EDGE Neto | Martin Braithwaite | 2 | 4 | 3
+EDGE Neto | Antoine Griezmann | 2 | 4 | 3
+EDGE Neto | Óscar Mingueza | 1 | 4 | 14
+EDGE Neto | Riqui Puig | 1 | 4 | 3
+EDGE Neto | Ilias Akhomach | 1 | 4 | 3
+EDGE Martin Braithwaite | Antoine Griezmann | 3 | 3 | 3
+EDGE Martin Braithwaite | Clément Lenglet | 1 | 3 | 11
+EDGE Martin Braithwaite | Emerson Royal | 1 | 3 | 1
+EDGE Antoine Griezmann | Clément Lenglet | 1 | 3 | 11
+EDGE Antoine Griezmann | Emerson Royal | 1 | 3 | 1
+EDGE Adama Traoré | Clément Lenglet | 1 | 9 | 11
+EDGE Adama Traoré | Óscar Mingueza | 1 | 9 | 14
+EDGE Óscar Mingueza | Philippe Coutinho | 2 | 14 | 5
+EDGE Óscar Mingueza | Ilias Akhomach | 3 | 14 | 3
+EDGE Óscar Mingueza | Riqui Puig | 3 | 14 | 3
+EDGE Óscar Mingueza | Yusuf Demir | 1 | 14 | 3
+EDGE Óscar Mingueza | Clément Lenglet | 4 | 14 | 11
+EDGE Óscar Mingueza | Alejandro Balde | 1 | 14 | 2
+EDGE Óscar Mingueza | Sergio Agüero | 1 | 14 | 2
+EDGE Philippe Coutinho | Sergio Agüero | 1 | 5 | 2
+EDGE Philippe Coutinho | Alejandro Balde | 1 | 5 | 2
+EDGE Philippe Coutinho | Yusuf Demir | 1 | 5 | 3
+EDGE Philippe Coutinho | Clément Lenglet | 1 | 5 | 11
+EDGE Clément Lenglet | Yusuf Demir | 1 | 11 | 3
+EDGE Clément Lenglet | Emerson Royal | 1 | 11 | 1
+EDGE Clément Lenglet | Alejandro Balde | 1 | 11 | 2
+EDGE Clément Lenglet | Riqui Puig | 1 | 11 | 3
+EDGE Yusuf Demir | Alejandro Balde | 1 | 3 | 2
+EDGE Ilias Akhomach | Riqui Puig | 2 | 3 | 3
+EDGE Riqui Puig | Alejandro Balde | 1 | 3 | 2

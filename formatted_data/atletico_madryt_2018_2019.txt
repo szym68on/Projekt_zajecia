@@ -1,0 +1,157 @@
+# Team: Atlético Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3079446 | sob., 03.11.2018 | CD Leganés
+PLAYERS: Jan Oblak, Stefan Savic, Lucas Hernández, Filipe Luís, Santiago Arias, Rodri, Saúl Ñíguez, Thomas Lemar, Ángel Correa, Gelson Martins, Antoine Griezmann
+
+MATCH: 3079506 | sob., 22.12.2018 | RCD Espanyol
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Saúl Ñíguez, Santiago Arias, Thomas Partey, Rodri, Koke, Ángel Correa, Antoine Griezmann, Nikola Kalinić
+
+MATCH: 3097979 | śr., 03.10.2018 | FC Brügge
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Lucas Hernández, Thomas Partey, Santiago Arias, Saúl Ñíguez, Koke, Thomas Lemar, Antoine Griezmann, Diego Costa
+
+MATCH: 3142970 | śr., 16.01.2019 | Girona FC
+PLAYERS: Antonio Adán, Diego Godín, José María Giménez, Juanfran Torres, Santiago Arias, Thomas Partey, Saúl Ñíguez, Koke, Thomas Lemar, Ángel Correa, Nikola Kalinić
+
+MATCH: 3097956 | wt., 18.09.2018 | AS Monaco
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Lucas Hernández, Juanfran Torres, Rodri, Saúl Ñíguez, Koke, Ángel Correa, Antoine Griezmann, Diego Costa
+
+MATCH: 3098043 | wt., 11.12.2018 | FC Brügge
+PLAYERS: Jan Oblak, Javi Montero, Diego Godín, Saúl Ñíguez, Santiago Arias, Rodri, Thomas Partey, Koke, Thomas Lemar, Gelson Martins, Antoine Griezmann
+
+MATCH: 3080814 | niedz., 24.02.2019 | Villarreal CF
+PLAYERS: Jan Oblak, Stefan Savic, José María Giménez, Filipe Luís, Santiago Arias, Rodri, Koke, Saúl Ñíguez, Thomas Lemar, Antoine Griezmann, Álvaro Morata
+
+MATCH: 3079404 | sob., 29.09.2018 | Real Madryt
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Rodri, Saúl Ñíguez, Koke, Thomas Lemar, Antoine Griezmann, Diego Costa
+
+MATCH: 3079315 | sob., 25.08.2018 | Rayo Vallecano
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Lucas Hernández, Juanfran Torres, Rodri, Saúl Ñíguez, Thomas Lemar, Ángel Correa, Antoine Griezmann, Diego Costa
+
+MATCH: 3080834 | sob., 09.03.2019 | CD Leganés
+PLAYERS: Jan Oblak, Stefan Savic, José María Giménez, Andrés Solano, Santiago Arias, Thomas Partey, Rodri, Vitolo, Ángel Correa, Antoine Griezmann, Nikola Kalinić
+
+MATCH: 3079425 | sob., 20.10.2018 | Villarreal CF
+PLAYERS: Jan Oblak, José María Giménez, Lucas Hernández, Filipe Luís, Juanfran Torres, Thomas Partey, Rodri, Saúl Ñíguez, Koke, Antoine Griezmann, Nikola Kalinić
+
+MATCH: 3135814 | wt., 12.03.2019 | Juventus Turyn
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Juanfran Torres, Santiago Arias, Rodri, Saúl Ñíguez, Koke, Thomas Lemar, Antoine Griezmann, Álvaro Morata
+
+MATCH: 3080771 | sob., 19.01.2019 | SD Huesca
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Lucas Hernández, Santiago Arias, Thomas Partey, Rodri, Koke, Thomas Lemar, Ángel Correa, Antoine Griezmann
+
+MATCH: 3079490 | sob., 08.12.2018 | Deportivo Alavés
+PLAYERS: Jan Oblak, Stefan Savic, Lucas Hernández, Saúl Ñíguez, Santiago Arias, Thomas Partey, Rodri, Thomas Lemar, Ángel Correa, Antoine Griezmann, Nikola Kalinić
+
+MATCH: 3079520 | niedz., 06.01.2019 | Sevilla FC
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Saúl Ñíguez, Juanfran Torres, Rodri, Koke, Thomas Partey, Thomas Lemar, Ángel Correa, Antoine Griezmann
+
+MATCH: 3080898 | sob., 20.04.2019 | SD Eibar
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Saúl Ñíguez, Santiago Arias, Thomas Partey, Rodri, Koke, Vitolo, Ángel Correa, Álvaro Morata
+
+MATCH: 3079434 | sob., 27.10.2018 | Real Sociedad
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Lucas Hernández, Santiago Arias, Rodri, Saúl Ñíguez, Koke, Ángel Correa, Antoine Griezmann, Diego Costa
+
+MATCH: 3080792 | sob., 09.02.2019 | Real Madryt
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Lucas Hernández, Santiago Arias, Thomas Partey, Saúl Ñíguez, Thomas Lemar, Ángel Correa, Antoine Griezmann, Álvaro Morata
+
+MATCH: 3080852 | sob., 30.03.2019 | Deportivo Alavés
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Thomas Partey, Koke, Saúl Ñíguez, Antoine Griezmann, Diego Costa, Álvaro Morata
+
+MATCH: 3080877 | sob., 06.04.2019 | FC Barcelona
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Santiago Arias, Thomas Partey, Rodri, Koke, Saúl Ñíguez, Antoine Griezmann, Diego Costa
+
+MATCH: 3081112 | niedz., 12.05.2019 | Sevilla FC
+PLAYERS: Jan Oblak, Javi Montero, Diego Godín, Filipe Luís, Juanfran Torres, Thomas Partey, Rodri, Koke, Saúl Ñíguez, Antoine Griezmann, Álvaro Morata
+
+MATCH: 3079412 | niedz., 07.10.2018 | Real Betis Balompié
+PLAYERS: Jan Oblak, Diego Godín, Lucas Hernández, Filipe Luís, Juanfran Torres, Rodri, Saúl Ñíguez, Koke, Thomas Lemar, Antoine Griezmann, Nikola Kalinić
+
+MATCH: 3118584 | wt., 30.10.2018 | UE Sant Andreu
+PLAYERS: Antonio Adán, Javi Montero, Stefan Savic, Juanfran Torres, Santiago Arias, Thomas Partey, Rodri, Thomas Lemar, Vitolo, Gelson Martins, Nikola Kalinić
+
+MATCH: 3079392 | wt., 25.09.2018 | SD Huesca
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Carlos Isaac, Thomas Partey, Koke, Thomas Lemar, Ángel Correa, Antoine Griezmann, Diego Costa
+
+MATCH: 3135799 | śr., 20.02.2019 | Juventus Turyn
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Thomas Partey, Rodri, Koke, Saúl Ñíguez, Antoine Griezmann, Diego Costa
+
+MATCH: 3118599 | śr., 05.12.2018 | UE Sant Andreu
+PLAYERS: Antonio Adán, Stefan Savic, Lucas Hernández, Saúl Ñíguez, Santiago Arias, Koke, Toni Moya, Vitolo, Ángel Correa, Gelson Martins, Nikola Kalinić
+
+MATCH: 3081127 | sob., 18.05.2019 | Levante UD
+PLAYERS: Antonio Adán, Javi Montero, Diego Godín, Filipe Luís, Juanfran Torres, Thomas Partey, Rodri, Koke, Thomas Lemar, Ángel Correa, Antoine Griezmann
+
+MATCH: 3080829 | niedz., 03.03.2019 | Real Sociedad
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Rodri, Saúl Ñíguez, Koke, Thomas Lemar, Antoine Griezmann, Álvaro Morata
+
+MATCH: 3079458 | sob., 10.11.2018 | Athletic Bilbao
+PLAYERS: Jan Oblak, Javi Montero, Diego Godín, Filipe Luís, Santiago Arias, Thomas Partey, Rodri, Saúl Ñíguez, Ángel Correa, Antoine Griezmann, Diego Costa
+
+MATCH: 3080807 | sob., 16.02.2019 | Rayo Vallecano
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Santiago Arias, Rodri, Saúl Ñíguez, Vitolo, Ángel Correa, Antoine Griezmann, Álvaro Morata
+
+MATCH: 3081107 | sob., 04.05.2019 | RCD Espanyol
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Juanfran Torres, Rodri, Saúl Ñíguez, Koke, Thomas Lemar, Antoine Griezmann, Álvaro Morata
+
+MATCH: 3080883 | sob., 13.04.2019 | Celta de Vigo
+PLAYERS: Jan Oblak, Javi Montero, Toni Moya, Filipe Luís, Juanfran Torres, Rodri, Saúl Ñíguez, Koke, Vitolo, Ángel Correa, Antoine Griezmann
+
+MATCH: 3098027 | śr., 28.11.2018 | AS Monaco
+PLAYERS: Jan Oblak, Stefan Savic, Lucas Hernández, Filipe Luís, Santiago Arias, Thomas Partey, Rodri, Koke, Thomas Lemar, Antoine Griezmann, Ángel Correa
+
+MATCH: 3097996 | śr., 24.10.2018 | Borussia Dortmund
+PLAYERS: Jan Oblak, Diego Godín, Lucas Hernández, Filipe Luís, Juanfran Torres, Thomas Partey, Koke, Saúl Ñíguez, Thomas Lemar, Antoine Griezmann, Diego Costa
+
+MATCH: 3079310 | pon., 20.08.2018 | Valencia CF
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Juanfran Torres, Saúl Ñíguez, Koke, Thomas Lemar, Ángel Correa, Antoine Griezmann, Diego Costa
+
+MATCH: 3079526 | niedz., 13.01.2019 | Levante UD
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Juanfran Torres, Santiago Arias, Thomas Partey, Rodri, Koke, Vitolo, Ángel Correa, Antoine Griezmann
+
+MATCH: 3080788 | niedz., 03.02.2019 | Real Betis Balompié
+PLAYERS: Jan Oblak, José María Giménez, Lucas Hernández, Juanfran Torres, Santiago Arias, Thomas Partey, Rodri, Thomas Lemar, Ángel Correa, Antoine Griezmann, Álvaro Morata
+
+MATCH: 3079461 | sob., 24.11.2018 | FC Barcelona
+PLAYERS: Jan Oblak, Stefan Savic, Lucas Hernández, Filipe Luís, Santiago Arias, Rodri, Saúl Ñíguez, Koke, Thomas Lemar, Antoine Griezmann, Diego Costa
+
+MATCH: 3080774 | sob., 26.01.2019 | Getafe CF
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Lucas Hernández, Santiago Arias, Thomas Partey, Rodri, Saúl Ñíguez, Thomas Lemar, Antoine Griezmann, Nikola Kalinić
+
+MATCH: 3079477 | niedz., 02.12.2018 | Girona FC
+PLAYERS: Jan Oblak, Stefan Savic, Lucas Hernández, Saúl Ñíguez, Santiago Arias, Thomas Partey, Rodri, Koke, Thomas Lemar, Antoine Griezmann, Diego Costa
+
+MATCH: 3098011 | wt., 06.11.2018 | Borussia Dortmund
+PLAYERS: Jan Oblak, José María Giménez, Lucas Hernández, Filipe Luís, Juanfran Torres, Thomas Partey, Rodri, Saúl Ñíguez, Ángel Correa, Antoine Griezmann, Nikola Kalinić
+
+MATCH: 3079371 | sob., 15.09.2018 | SD Eibar
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Rodri, Saúl Ñíguez, Koke, Thomas Lemar, Antoine Griezmann, Diego Costa
+
+MATCH: 3079387 | sob., 22.09.2018 | Getafe CF
+PLAYERS: Jan Oblak, José María Giménez, Lucas Hernández, Filipe Luís, Juanfran Torres, Rodri, Saúl Ñíguez, Koke, Thomas Lemar, Antoine Griezmann, Diego Costa
+
+MATCH: 3080863 | wt., 02.04.2019 | Girona FC
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Santiago Arias, Thomas Partey, Rodri, Koke, Saúl Ñíguez, Antoine Griezmann, Álvaro Morata
+
+MATCH: 3045430 | śr., 15.08.2018 | Real Madryt
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Lucas Hernández, Juanfran Torres, Rodri, Saúl Ñíguez, Koke, Thomas Lemar, Antoine Griezmann, Diego Costa
+
+MATCH: 3080842 | sob., 16.03.2019 | Athletic Bilbao
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Saúl Ñíguez, Juanfran Torres, Rodri, Thomas Partey, Koke, Antoine Griezmann, Diego Costa, Álvaro Morata
+
+MATCH: 3079500 | sob., 15.12.2018 | Real Valladolid CF
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Santiago Arias, Rodri, Koke, Saúl Ñíguez, Ángel Correa, Antoine Griezmann, Nikola Kalinić
+
+MATCH: 3081091 | sob., 27.04.2019 | Real Valladolid CF
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Santiago Arias, Thomas Partey, Saúl Ñíguez, Koke, Thomas Lemar, Antoine Griezmann, Álvaro Morata
+
+MATCH: 3142945 | śr., 09.01.2019 | Girona FC
+PLAYERS: Antonio Adán, Diego Godín, José María Giménez, Javi Montero, Santiago Arias, Rodri, Saúl Ñíguez, Koke, Thomas Lemar, Antoine Griezmann, Nikola Kalinić
+
+MATCH: 3081082 | śr., 24.04.2019 | Valencia CF
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Juanfran Torres, Rodri, Saúl Ñíguez, Koke, Thomas Lemar, Antoine Griezmann, Álvaro Morata
+
+MATCH: 3079330 | sob., 01.09.2018 | Celta de Vigo
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, José María Giménez, Thomas Partey, Saúl Ñíguez, Koke, Ángel Correa, Antoine Griezmann, Diego Costa
+

@@ -1,0 +1,67 @@
+# Team: Atlético Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2528139 | śr., 21.01.2015 | FC Barcelona
+PLAYERS: Jan Oblak, Diego Godín, Miranda, Guilherme Siqueira, Juanfran Torres, Mario Suárez, Gabi, Koke, Arda Turan, Antoine Griezmann, Fernando Torres
+
+MATCH: 2475223 | śr., 24.09.2014 | UD Almería
+PLAYERS: Miguel Ángel Moyá, Diego Godín, Miranda, Guilherme Siqueira, Juanfran Torres, Mario Suárez, Tiago Mendes, Koke, Arda Turan, Antoine Griezmann, Raúl García
+
+MATCH: 2505178 | śr., 03.12.2014 | CE L'Hospitalet
+PLAYERS: Jan Oblak, José María Giménez, Lucas Hernández, Guilherme Siqueira, Jesús Gámez, Mario Suárez, Saúl Ñíguez, Gabi, Cristian Rodríguez, Alessio Cerci, Raúl Jiménez
+
+MATCH: 2475553 | sob., 23.05.2015 | Granada CF
+PLAYERS: Jan Oblak, Diego Godín, Miranda, Guilherme Siqueira, Juanfran Torres, Tiago Mendes, Gabi, Saúl Ñíguez, Koke, Raúl García, Antoine Griezmann
+
+MATCH: 2475501 | sob., 25.04.2015 | Elche CF
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Guilherme Siqueira, Jesús Gámez, Tiago Mendes, Gabi, Raúl García, Koke, Antoine Griezmann, Fernando Torres
+
+MATCH: 2475372 | sob., 24.01.2015 | Rayo Vallecano
+PLAYERS: Miguel Ángel Moyá, Miranda, José María Giménez, Guilherme Siqueira, Juanfran Torres, Tiago Mendes, Mario Suárez, Gabi, Antoine Griezmann, Arda Turan, Mario Mandžukić
+
+MATCH: 2475233 | sob., 27.09.2014 | Sevilla FC
+PLAYERS: Miguel Ángel Moyá, Diego Godín, Miranda, Cristian Ansaldi, Juanfran Torres, Tiago Mendes, Saúl Ñíguez, Gabi, Koke, Arda Turan, Mario Mandžukić
+
+MATCH: 2475300 | niedz., 30.11.2014 | Deportivo de La Coruña
+PLAYERS: Miguel Ángel Moyá, Diego Godín, José María Giménez, Cristian Ansaldi, Juanfran Torres, Saúl Ñíguez, Tiago Mendes, Arda Turan, Koke, Antoine Griezmann, Mario Mandžukić
+
+MATCH: 2475532 | niedz., 10.05.2015 | Levante UD
+PLAYERS: Jan Oblak, Miranda, José María Giménez, Guilherme Siqueira, Juanfran Torres, Tiago Mendes, Gabi, Koke, Arda Turan, Antoine Griezmann, Mario Mandžukić
+
+MATCH: 2475342 | sob., 03.01.2015 | Levante UD
+PLAYERS: Miguel Ángel Moyá, Diego Godín, José María Giménez, Guilherme Siqueira, Juanfran Torres, Tiago Mendes, Gabi, Koke, Arda Turan, Antoine Griezmann, Mario Mandžukić
+
+MATCH: 2475311 | sob., 06.12.2014 | Elche CF
+PLAYERS: Miguel Ángel Moyá, Diego Godín, José María Giménez, Guilherme Siqueira, Juanfran Torres, Tiago Mendes, Gabi, Koke, Arda Turan, Raúl García, Mario Mandžukić
+
+MATCH: 2490842 | wt., 16.09.2014 | Olympiakos Pireus
+PLAYERS: Jan Oblak, Diego Godín, Miranda, Cristian Ansaldi, Juanfran Torres, Mario Suárez, Gabi, Koke, Arda Turan, Raúl García, Mario Mandžukić
+
+MATCH: 2475404 | niedz., 15.02.2015 | Celta de Vigo
+PLAYERS: Miguel Ángel Moyá, Diego Godín, Miranda, Guilherme Siqueira, Juanfran Torres, Tiago Mendes, Gabi, Saúl Ñíguez, Antoine Griezmann, Mario Mandžukić, Fernando Torres
+
+MATCH: 2475195 | sob., 30.08.2014 | SD Eibar
+PLAYERS: Miguel Ángel Moyá, Diego Godín, Miranda, Guilherme Siqueira, Juanfran Torres, Mario Suárez, Gabi, Raúl García, Koke, Antoine Griezmann, Mario Mandžukić
+
+MATCH: 2475442 | sob., 14.03.2015 | RCD Espanyol
+PLAYERS: Miguel Ángel Moyá, Diego Godín, Miranda, Jesús Gámez, Juanfran Torres, Tiago Mendes, Gabi, Raúl García, Koke, Antoine Griezmann, Fernando Torres
+
+MATCH: 2481146 | pt., 22.08.2014 | Real Madryt
+PLAYERS: Miguel Ángel Moyá, Diego Godín, Miranda, Guilherme Siqueira, Juanfran Torres, Tiago Mendes, Gabi, Raúl García, Koke, Antoine Griezmann, Mario Mandžukić
+
+MATCH: 2547350 | wt., 14.04.2015 | Real Madryt
+PLAYERS: Jan Oblak, Diego Godín, Miranda, Guilherme Siqueira, Juanfran Torres, Mario Suárez, Gabi, Arda Turan, Koke, Antoine Griezmann, Mario Mandžukić
+
+MATCH: 2495319 | śr., 22.10.2014 | Malmö FF
+PLAYERS: Miguel Ángel Moyá, Diego Godín, Miranda, Guilherme Siqueira, Juanfran Torres, Mario Suárez, Saúl Ñíguez, Koke, Antoine Griezmann, Arda Turan, Mario Mandžukić
+
+MATCH: 2475332 | niedz., 21.12.2014 | Athletic Bilbao
+PLAYERS: Miguel Ángel Moyá, Diego Godín, José María Giménez, Guilherme Siqueira, Juanfran Torres, Tiago Mendes, Saúl Ñíguez, Gabi, Raúl García, Arda Turan, Antoine Griezmann
+
+MATCH: 2475413 | sob., 21.02.2015 | UD Almería
+PLAYERS: Miguel Ángel Moyá, Diego Godín, Miranda, Guilherme Siqueira, Juanfran Torres, Tiago Mendes, Gabi, Saúl Ñíguez, Arda Turan, Antoine Griezmann, Mario Mandžukić
+
+MATCH: 2475353 | niedz., 11.01.2015 | FC Barcelona
+PLAYERS: Miguel Ángel Moyá, Diego Godín, José María Giménez, Jesús Gámez, Juanfran Torres, Tiago Mendes, Gabi, Koke, Arda Turan, Antoine Griezmann, Mario Mandžukić
+

@@ -1,0 +1,219 @@
+# Graph for Java/GraphStream
+# Nodes: 22
+# Edges: 213
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Leo Franco | Zé Castro | 16 | 33 | 23
+EDGE Leo Franco | Luis Amaranto Perea | 23 | 33 | 28
+EDGE Leo Franco | Antonio López | 25 | 33 | 33
+EDGE Leo Franco | Georgios Seitaridis | 25 | 33 | 31
+EDGE Leo Franco | Peter Luccin | 26 | 33 | 33
+EDGE Leo Franco | Maniche | 20 | 33 | 26
+EDGE Leo Franco | José Manuel Jurado | 17 | 33 | 24
+EDGE Leo Franco | Luciano Galletti | 22 | 33 | 29
+EDGE Leo Franco | Sergio Agüero | 21 | 33 | 26
+EDGE Leo Franco | Fernando Torres | 32 | 33 | 39
+EDGE Leo Franco | Mariano Pernía | 16 | 33 | 18
+EDGE Leo Franco | Fabiano Eller | 9 | 33 | 12
+EDGE Leo Franco | Pablo Ibáñez | 22 | 33 | 25
+EDGE Leo Franco | Costinha | 15 | 33 | 17
+EDGE Leo Franco | Gabi | 8 | 33 | 8
+EDGE Leo Franco | Mista | 11 | 33 | 14
+EDGE Leo Franco | Juan Valera | 5 | 33 | 5
+EDGE Leo Franco | Martin Petrov | 9 | 33 | 11
+EDGE Leo Franco | Maxi Rodríguez | 6 | 33 | 6
+EDGE Leo Franco | Víctor Bravo | 2 | 33 | 2
+EDGE Zé Castro | Luis Amaranto Perea | 12 | 23 | 28
+EDGE Zé Castro | Antonio López | 21 | 23 | 33
+EDGE Zé Castro | Georgios Seitaridis | 20 | 23 | 31
+EDGE Zé Castro | Peter Luccin | 19 | 23 | 33
+EDGE Zé Castro | Maniche | 19 | 23 | 26
+EDGE Zé Castro | José Manuel Jurado | 16 | 23 | 24
+EDGE Zé Castro | Luciano Galletti | 18 | 23 | 29
+EDGE Zé Castro | Sergio Agüero | 20 | 23 | 26
+EDGE Zé Castro | Fernando Torres | 23 | 23 | 39
+EDGE Zé Castro | Mariano Pernía | 11 | 23 | 18
+EDGE Zé Castro | Iván Cuéllar | 7 | 23 | 8
+EDGE Zé Castro | Pablo Ibáñez | 7 | 23 | 25
+EDGE Zé Castro | Costinha | 5 | 23 | 17
+EDGE Zé Castro | Mista | 3 | 23 | 14
+EDGE Zé Castro | Juan Valera | 2 | 23 | 5
+EDGE Zé Castro | Gabi | 2 | 23 | 8
+EDGE Zé Castro | Fabiano Eller | 5 | 23 | 12
+EDGE Zé Castro | Martin Petrov | 3 | 23 | 11
+EDGE Zé Castro | Maxi Rodríguez | 1 | 23 | 6
+EDGE Luis Amaranto Perea | Antonio López | 22 | 28 | 33
+EDGE Luis Amaranto Perea | Georgios Seitaridis | 20 | 28 | 31
+EDGE Luis Amaranto Perea | Peter Luccin | 24 | 28 | 33
+EDGE Luis Amaranto Perea | Maniche | 17 | 28 | 26
+EDGE Luis Amaranto Perea | José Manuel Jurado | 14 | 28 | 24
+EDGE Luis Amaranto Perea | Luciano Galletti | 18 | 28 | 29
+EDGE Luis Amaranto Perea | Sergio Agüero | 17 | 28 | 26
+EDGE Luis Amaranto Perea | Fernando Torres | 26 | 28 | 39
+EDGE Luis Amaranto Perea | Mariano Pernía | 14 | 28 | 18
+EDGE Luis Amaranto Perea | Fabiano Eller | 5 | 28 | 12
+EDGE Luis Amaranto Perea | Pablo Ibáñez | 17 | 28 | 25
+EDGE Luis Amaranto Perea | Costinha | 14 | 28 | 17
+EDGE Luis Amaranto Perea | Gabi | 5 | 28 | 8
+EDGE Luis Amaranto Perea | Mista | 13 | 28 | 14
+EDGE Luis Amaranto Perea | Iván Cuéllar | 5 | 28 | 8
+EDGE Luis Amaranto Perea | Juan Valera | 3 | 28 | 5
+EDGE Luis Amaranto Perea | Martin Petrov | 6 | 28 | 11
+EDGE Luis Amaranto Perea | Víctor Bravo | 2 | 28 | 2
+EDGE Luis Amaranto Perea | Maxi Rodríguez | 3 | 28 | 6
+EDGE Antonio López | Georgios Seitaridis | 25 | 33 | 31
+EDGE Antonio López | Peter Luccin | 28 | 33 | 33
+EDGE Antonio López | Maniche | 23 | 33 | 26
+EDGE Antonio López | José Manuel Jurado | 19 | 33 | 24
+EDGE Antonio López | Luciano Galletti | 25 | 33 | 29
+EDGE Antonio López | Sergio Agüero | 22 | 33 | 26
+EDGE Antonio López | Fernando Torres | 31 | 33 | 39
+EDGE Antonio López | Mariano Pernía | 10 | 33 | 18
+EDGE Antonio López | Iván Cuéllar | 8 | 33 | 8
+EDGE Antonio López | Pablo Ibáñez | 19 | 33 | 25
+EDGE Antonio López | Costinha | 12 | 33 | 17
+EDGE Antonio López | Mista | 10 | 33 | 14
+EDGE Antonio López | Juan Valera | 4 | 33 | 5
+EDGE Antonio López | Martin Petrov | 9 | 33 | 11
+EDGE Antonio López | Gabi | 3 | 33 | 8
+EDGE Antonio López | Fabiano Eller | 8 | 33 | 12
+EDGE Antonio López | Maxi Rodríguez | 4 | 33 | 6
+EDGE Antonio López | Víctor Bravo | 2 | 33 | 2
+EDGE Georgios Seitaridis | Peter Luccin | 26 | 31 | 33
+EDGE Georgios Seitaridis | Maniche | 24 | 31 | 26
+EDGE Georgios Seitaridis | José Manuel Jurado | 15 | 31 | 24
+EDGE Georgios Seitaridis | Luciano Galletti | 21 | 31 | 29
+EDGE Georgios Seitaridis | Sergio Agüero | 20 | 31 | 26
+EDGE Georgios Seitaridis | Fernando Torres | 30 | 31 | 39
+EDGE Georgios Seitaridis | Mariano Pernía | 14 | 31 | 18
+EDGE Georgios Seitaridis | Fabiano Eller | 6 | 31 | 12
+EDGE Georgios Seitaridis | Gabi | 3 | 31 | 8
+EDGE Georgios Seitaridis | Pablo Ibáñez | 16 | 31 | 25
+EDGE Georgios Seitaridis | Maxi Rodríguez | 6 | 31 | 6
+EDGE Georgios Seitaridis | Martin Petrov | 10 | 31 | 11
+EDGE Georgios Seitaridis | Costinha | 12 | 31 | 17
+EDGE Georgios Seitaridis | Víctor Bravo | 2 | 31 | 2
+EDGE Georgios Seitaridis | Mista | 8 | 31 | 14
+EDGE Georgios Seitaridis | Iván Cuéllar | 6 | 31 | 8
+EDGE Georgios Seitaridis | Juan Valera | 1 | 31 | 5
+EDGE Peter Luccin | Maniche | 24 | 33 | 26
+EDGE Peter Luccin | José Manuel Jurado | 18 | 33 | 24
+EDGE Peter Luccin | Luciano Galletti | 24 | 33 | 29
+EDGE Peter Luccin | Sergio Agüero | 21 | 33 | 26
+EDGE Peter Luccin | Fernando Torres | 32 | 33 | 39
+EDGE Peter Luccin | Mariano Pernía | 11 | 33 | 18
+EDGE Peter Luccin | Iván Cuéllar | 7 | 33 | 8
+EDGE Peter Luccin | Pablo Ibáñez | 19 | 33 | 25
+EDGE Peter Luccin | Costinha | 10 | 33 | 17
+EDGE Peter Luccin | Mista | 11 | 33 | 14
+EDGE Peter Luccin | Juan Valera | 3 | 33 | 5
+EDGE Peter Luccin | Martin Petrov | 9 | 33 | 11
+EDGE Peter Luccin | Fabiano Eller | 8 | 33 | 12
+EDGE Peter Luccin | Gabi | 4 | 33 | 8
+EDGE Peter Luccin | Maxi Rodríguez | 4 | 33 | 6
+EDGE Peter Luccin | Víctor Bravo | 2 | 33 | 2
+EDGE Maniche | José Manuel Jurado | 12 | 26 | 24
+EDGE Maniche | Luciano Galletti | 20 | 26 | 29
+EDGE Maniche | Sergio Agüero | 17 | 26 | 26
+EDGE Maniche | Fernando Torres | 26 | 26 | 39
+EDGE Maniche | Mariano Pernía | 10 | 26 | 18
+EDGE Maniche | Fabiano Eller | 5 | 26 | 12
+EDGE Maniche | Pablo Ibáñez | 11 | 26 | 25
+EDGE Maniche | Maxi Rodríguez | 3 | 26 | 6
+EDGE Maniche | Martin Petrov | 6 | 26 | 11
+EDGE Maniche | Costinha | 7 | 26 | 17
+EDGE Maniche | Víctor Bravo | 2 | 26 | 2
+EDGE Maniche | Juan Valera | 2 | 26 | 5
+EDGE Maniche | Mista | 6 | 26 | 14
+EDGE Maniche | Iván Cuéllar | 6 | 26 | 8
+EDGE José Manuel Jurado | Luciano Galletti | 17 | 24 | 29
+EDGE José Manuel Jurado | Sergio Agüero | 17 | 24 | 26
+EDGE José Manuel Jurado | Fernando Torres | 23 | 24 | 39
+EDGE José Manuel Jurado | Fabiano Eller | 9 | 24 | 12
+EDGE José Manuel Jurado | Pablo Ibáñez | 15 | 24 | 25
+EDGE José Manuel Jurado | Mariano Pernía | 9 | 24 | 18
+EDGE José Manuel Jurado | Costinha | 9 | 24 | 17
+EDGE José Manuel Jurado | Gabi | 7 | 24 | 8
+EDGE José Manuel Jurado | Mista | 8 | 24 | 14
+EDGE José Manuel Jurado | Iván Cuéllar | 7 | 24 | 8
+EDGE José Manuel Jurado | Juan Valera | 4 | 24 | 5
+EDGE José Manuel Jurado | Martin Petrov | 4 | 24 | 11
+EDGE Luciano Galletti | Sergio Agüero | 18 | 29 | 26
+EDGE Luciano Galletti | Fernando Torres | 28 | 29 | 39
+EDGE Luciano Galletti | Mariano Pernía | 13 | 29 | 18
+EDGE Luciano Galletti | Fabiano Eller | 11 | 29 | 12
+EDGE Luciano Galletti | Pablo Ibáñez | 16 | 29 | 25
+EDGE Luciano Galletti | Costinha | 7 | 29 | 17
+EDGE Luciano Galletti | Gabi | 7 | 29 | 8
+EDGE Luciano Galletti | Mista | 6 | 29 | 14
+EDGE Luciano Galletti | Juan Valera | 3 | 29 | 5
+EDGE Luciano Galletti | Maxi Rodríguez | 2 | 29 | 6
+EDGE Luciano Galletti | Martin Petrov | 5 | 29 | 11
+EDGE Luciano Galletti | Víctor Bravo | 2 | 29 | 2
+EDGE Luciano Galletti | Iván Cuéllar | 7 | 29 | 8
+EDGE Sergio Agüero | Fernando Torres | 24 | 26 | 39
+EDGE Sergio Agüero | Mariano Pernía | 13 | 26 | 18
+EDGE Sergio Agüero | Iván Cuéllar | 5 | 26 | 8
+EDGE Sergio Agüero | Pablo Ibáñez | 13 | 26 | 25
+EDGE Sergio Agüero | Costinha | 9 | 26 | 17
+EDGE Sergio Agüero | Mista | 5 | 26 | 14
+EDGE Sergio Agüero | Juan Valera | 2 | 26 | 5
+EDGE Sergio Agüero | Gabi | 4 | 26 | 8
+EDGE Sergio Agüero | Fabiano Eller | 6 | 26 | 12
+EDGE Sergio Agüero | Martin Petrov | 3 | 26 | 11
+EDGE Sergio Agüero | Maxi Rodríguez | 3 | 26 | 6
+EDGE Fernando Torres | Mariano Pernía | 17 | 39 | 18
+EDGE Fernando Torres | Fabiano Eller | 11 | 39 | 12
+EDGE Fernando Torres | Pablo Ibáñez | 23 | 39 | 25
+EDGE Fernando Torres | Costinha | 15 | 39 | 17
+EDGE Fernando Torres | Gabi | 8 | 39 | 8
+EDGE Fernando Torres | Mista | 12 | 39 | 14
+EDGE Fernando Torres | Iván Cuéllar | 7 | 39 | 8
+EDGE Fernando Torres | Juan Valera | 5 | 39 | 5
+EDGE Fernando Torres | Martin Petrov | 10 | 39 | 11
+EDGE Fernando Torres | Maxi Rodríguez | 5 | 39 | 6
+EDGE Fernando Torres | Víctor Bravo | 2 | 39 | 2
+EDGE Mariano Pernía | Fabiano Eller | 5 | 18 | 12
+EDGE Mariano Pernía | Pablo Ibáñez | 9 | 18 | 25
+EDGE Mariano Pernía | Costinha | 8 | 18 | 17
+EDGE Mariano Pernía | Gabi | 6 | 18 | 8
+EDGE Mariano Pernía | Mista | 6 | 18 | 14
+EDGE Mariano Pernía | Juan Valera | 2 | 18 | 5
+EDGE Mariano Pernía | Iván Cuéllar | 2 | 18 | 8
+EDGE Mariano Pernía | Martin Petrov | 2 | 18 | 11
+EDGE Mariano Pernía | Maxi Rodríguez | 2 | 18 | 6
+EDGE Fabiano Eller | Pablo Ibáñez | 7 | 12 | 25
+EDGE Fabiano Eller | Costinha | 4 | 12 | 17
+EDGE Fabiano Eller | Gabi | 6 | 12 | 8
+EDGE Fabiano Eller | Mista | 3 | 12 | 14
+EDGE Fabiano Eller | Maxi Rodríguez | 3 | 12 | 6
+EDGE Fabiano Eller | Martin Petrov | 5 | 12 | 11
+EDGE Fabiano Eller | Iván Cuéllar | 3 | 12 | 8
+EDGE Fabiano Eller | Juan Valera | 1 | 12 | 5
+EDGE Pablo Ibáñez | Costinha | 14 | 25 | 17
+EDGE Pablo Ibáñez | Gabi | 7 | 25 | 8
+EDGE Pablo Ibáñez | Mista | 13 | 25 | 14
+EDGE Pablo Ibáñez | Iván Cuéllar | 3 | 25 | 8
+EDGE Pablo Ibáñez | Juan Valera | 4 | 25 | 5
+EDGE Pablo Ibáñez | Martin Petrov | 8 | 25 | 11
+EDGE Pablo Ibáñez | Maxi Rodríguez | 5 | 25 | 6
+EDGE Pablo Ibáñez | Víctor Bravo | 2 | 25 | 2
+EDGE Costinha | Gabi | 3 | 17 | 8
+EDGE Costinha | Mista | 9 | 17 | 14
+EDGE Costinha | Iván Cuéllar | 2 | 17 | 8
+EDGE Costinha | Juan Valera | 3 | 17 | 5
+EDGE Costinha | Martin Petrov | 6 | 17 | 11
+EDGE Costinha | Víctor Bravo | 2 | 17 | 2
+EDGE Costinha | Maxi Rodríguez | 4 | 17 | 6
+EDGE Gabi | Mista | 3 | 8 | 14
+EDGE Gabi | Juan Valera | 2 | 8 | 5
+EDGE Gabi | Martin Petrov | 1 | 8 | 11
+EDGE Gabi | Maxi Rodríguez | 1 | 8 | 6
+EDGE Mista | Iván Cuéllar | 3 | 14 | 8
+EDGE Mista | Juan Valera | 3 | 14 | 5
+EDGE Mista | Martin Petrov | 5 | 14 | 11
+EDGE Mista | Maxi Rodríguez | 2 | 14 | 6
+EDGE Iván Cuéllar | Martin Petrov | 2 | 8 | 11
+EDGE Juan Valera | Martin Petrov | 1 | 5 | 11
+EDGE Martin Petrov | Maxi Rodríguez | 6 | 11 | 6

@@ -1,0 +1,285 @@
+# Graph for Java/GraphStream
+# Nodes: 25
+# Edges: 279
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Marc-André ter Stegen | Iñigo Martínez | 14 | 36 | 16
+EDGE Marc-André ter Stegen | Pau Cubarsí | 18 | 36 | 21
+EDGE Marc-André ter Stegen | João Cancelo | 29 | 36 | 38
+EDGE Marc-André ter Stegen | Jules Koundé | 30 | 36 | 45
+EDGE Marc-André ter Stegen | Andreas Christensen | 25 | 36 | 37
+EDGE Marc-André ter Stegen | Pedri | 11 | 36 | 21
+EDGE Marc-André ter Stegen | İlkay Gündoğan | 32 | 36 | 45
+EDGE Marc-André ter Stegen | Raphinha | 17 | 36 | 25
+EDGE Marc-André ter Stegen | Lamine Yamal | 23 | 36 | 30
+EDGE Marc-André ter Stegen | Robert Lewandowski | 29 | 36 | 44
+EDGE Marc-André ter Stegen | Ronald Araujo | 19 | 36 | 33
+EDGE Marc-André ter Stegen | Frenkie de Jong | 15 | 36 | 30
+EDGE Marc-André ter Stegen | Oriol Romeu | 12 | 36 | 17
+EDGE Marc-André ter Stegen | Gavi | 13 | 36 | 13
+EDGE Marc-André ter Stegen | Alejandro Balde | 12 | 36 | 22
+EDGE Marc-André ter Stegen | Fermín López | 15 | 36 | 19
+EDGE Marc-André ter Stegen | João Félix | 16 | 36 | 24
+EDGE Marc-André ter Stegen | Sergi Roberto | 9 | 36 | 15
+EDGE Marc-André ter Stegen | Ferran Torres | 10 | 36 | 20
+EDGE Marc-André ter Stegen | Vitor Roque | 2 | 36 | 2
+EDGE Marc-André ter Stegen | Marcos Alonso | 5 | 36 | 5
+EDGE Marc-André ter Stegen | Héctor Fort | 3 | 36 | 6
+EDGE Marc-André ter Stegen | Marc Guiu | 1 | 36 | 2
+EDGE Iñigo Martínez | Pau Cubarsí | 7 | 16 | 21
+EDGE Iñigo Martínez | João Cancelo | 15 | 16 | 38
+EDGE Iñigo Martínez | Jules Koundé | 11 | 16 | 45
+EDGE Iñigo Martínez | Andreas Christensen | 8 | 16 | 37
+EDGE Iñigo Martínez | Pedri | 8 | 16 | 21
+EDGE Iñigo Martínez | İlkay Gündoğan | 14 | 16 | 45
+EDGE Iñigo Martínez | Raphinha | 6 | 16 | 25
+EDGE Iñigo Martínez | Lamine Yamal | 11 | 16 | 30
+EDGE Iñigo Martínez | Robert Lewandowski | 11 | 16 | 44
+EDGE Iñigo Martínez | Iñaki Peña | 2 | 16 | 17
+EDGE Iñigo Martínez | Alejandro Balde | 5 | 16 | 22
+EDGE Iñigo Martínez | Oriol Romeu | 4 | 16 | 17
+EDGE Iñigo Martínez | Frenkie de Jong | 4 | 16 | 30
+EDGE Iñigo Martínez | Ferran Torres | 6 | 16 | 20
+EDGE Iñigo Martínez | Ronald Araujo | 7 | 16 | 33
+EDGE Iñigo Martínez | Fermín López | 9 | 16 | 19
+EDGE Iñigo Martínez | João Félix | 8 | 16 | 24
+EDGE Iñigo Martínez | Sergi Roberto | 3 | 16 | 15
+EDGE Iñigo Martínez | Gavi | 4 | 16 | 13
+EDGE Iñigo Martínez | Héctor Fort | 1 | 16 | 6
+EDGE Iñigo Martínez | Marcos Alonso | 1 | 16 | 5
+EDGE Iñigo Martínez | Marc Guiu | 1 | 16 | 2
+EDGE Pau Cubarsí | João Cancelo | 17 | 21 | 38
+EDGE Pau Cubarsí | Jules Koundé | 20 | 21 | 45
+EDGE Pau Cubarsí | Andreas Christensen | 13 | 21 | 37
+EDGE Pau Cubarsí | Pedri | 10 | 21 | 21
+EDGE Pau Cubarsí | İlkay Gündoğan | 18 | 21 | 45
+EDGE Pau Cubarsí | Raphinha | 12 | 21 | 25
+EDGE Pau Cubarsí | Lamine Yamal | 17 | 21 | 30
+EDGE Pau Cubarsí | Robert Lewandowski | 19 | 21 | 44
+EDGE Pau Cubarsí | Ronald Araujo | 13 | 21 | 33
+EDGE Pau Cubarsí | Frenkie de Jong | 10 | 21 | 30
+EDGE Pau Cubarsí | Sergi Roberto | 7 | 21 | 15
+EDGE Pau Cubarsí | Fermín López | 9 | 21 | 19
+EDGE Pau Cubarsí | Vitor Roque | 2 | 21 | 2
+EDGE Pau Cubarsí | Iñaki Peña | 3 | 21 | 17
+EDGE Pau Cubarsí | Alejandro Balde | 1 | 21 | 22
+EDGE Pau Cubarsí | Ferran Torres | 4 | 21 | 20
+EDGE Pau Cubarsí | João Félix | 4 | 21 | 24
+EDGE Pau Cubarsí | Héctor Fort | 3 | 21 | 6
+EDGE Pau Cubarsí | Marcos Alonso | 1 | 21 | 5
+EDGE Pau Cubarsí | Oriol Romeu | 1 | 21 | 17
+EDGE Pau Cubarsí | Marc Guiu | 1 | 21 | 2
+EDGE João Cancelo | Jules Koundé | 31 | 38 | 45
+EDGE João Cancelo | Andreas Christensen | 25 | 38 | 37
+EDGE João Cancelo | Pedri | 15 | 38 | 21
+EDGE João Cancelo | İlkay Gündoğan | 35 | 38 | 45
+EDGE João Cancelo | Raphinha | 21 | 38 | 25
+EDGE João Cancelo | Lamine Yamal | 22 | 38 | 30
+EDGE João Cancelo | Robert Lewandowski | 32 | 38 | 44
+EDGE João Cancelo | Ronald Araujo | 25 | 38 | 33
+EDGE João Cancelo | Frenkie de Jong | 19 | 38 | 30
+EDGE João Cancelo | Iñaki Peña | 9 | 38 | 17
+EDGE João Cancelo | Alejandro Balde | 13 | 38 | 22
+EDGE João Cancelo | Oriol Romeu | 8 | 38 | 17
+EDGE João Cancelo | Ferran Torres | 11 | 38 | 20
+EDGE João Cancelo | Fermín López | 13 | 38 | 19
+EDGE João Cancelo | João Félix | 19 | 38 | 24
+EDGE João Cancelo | Sergi Roberto | 6 | 38 | 15
+EDGE João Cancelo | Gavi | 10 | 38 | 13
+EDGE João Cancelo | Vitor Roque | 1 | 38 | 2
+EDGE João Cancelo | Marcos Alonso | 3 | 38 | 5
+EDGE João Cancelo | Marc Guiu | 1 | 38 | 2
+EDGE Jules Koundé | Andreas Christensen | 31 | 45 | 37
+EDGE Jules Koundé | Pedri | 20 | 45 | 21
+EDGE Jules Koundé | İlkay Gündoğan | 39 | 45 | 45
+EDGE Jules Koundé | Raphinha | 22 | 45 | 25
+EDGE Jules Koundé | Lamine Yamal | 28 | 45 | 30
+EDGE Jules Koundé | Robert Lewandowski | 41 | 45 | 44
+EDGE Jules Koundé | Ronald Araujo | 28 | 45 | 33
+EDGE Jules Koundé | Frenkie de Jong | 29 | 45 | 30
+EDGE Jules Koundé | Oriol Romeu | 11 | 45 | 17
+EDGE Jules Koundé | Gavi | 9 | 45 | 13
+EDGE Jules Koundé | Alejandro Balde | 17 | 45 | 22
+EDGE Jules Koundé | Fermín López | 14 | 45 | 19
+EDGE Jules Koundé | João Félix | 18 | 45 | 24
+EDGE Jules Koundé | Sergi Roberto | 13 | 45 | 15
+EDGE Jules Koundé | Ferran Torres | 13 | 45 | 20
+EDGE Jules Koundé | Iñaki Peña | 15 | 45 | 17
+EDGE Jules Koundé | Héctor Fort | 5 | 45 | 6
+EDGE Jules Koundé | Vitor Roque | 1 | 45 | 2
+EDGE Jules Koundé | Marc Guiu | 2 | 45 | 2
+EDGE Jules Koundé | Marcos Alonso | 2 | 45 | 5
+EDGE Andreas Christensen | Pedri | 14 | 37 | 21
+EDGE Andreas Christensen | İlkay Gündoğan | 30 | 37 | 45
+EDGE Andreas Christensen | Raphinha | 16 | 37 | 25
+EDGE Andreas Christensen | Lamine Yamal | 20 | 37 | 30
+EDGE Andreas Christensen | Robert Lewandowski | 30 | 37 | 44
+EDGE Andreas Christensen | Ronald Araujo | 20 | 37 | 33
+EDGE Andreas Christensen | Frenkie de Jong | 23 | 37 | 30
+EDGE Andreas Christensen | Iñaki Peña | 12 | 37 | 17
+EDGE Andreas Christensen | Alejandro Balde | 16 | 37 | 22
+EDGE Andreas Christensen | Oriol Romeu | 14 | 37 | 17
+EDGE Andreas Christensen | Ferran Torres | 14 | 37 | 20
+EDGE Andreas Christensen | Gavi | 10 | 37 | 13
+EDGE Andreas Christensen | João Félix | 16 | 37 | 24
+EDGE Andreas Christensen | Héctor Fort | 4 | 37 | 6
+EDGE Andreas Christensen | Sergi Roberto | 9 | 37 | 15
+EDGE Andreas Christensen | Fermín López | 12 | 37 | 19
+EDGE Andreas Christensen | Vitor Roque | 2 | 37 | 2
+EDGE Andreas Christensen | Marc Guiu | 2 | 37 | 2
+EDGE Andreas Christensen | Marcos Alonso | 4 | 37 | 5
+EDGE Pedri | İlkay Gündoğan | 18 | 21 | 45
+EDGE Pedri | Raphinha | 8 | 21 | 25
+EDGE Pedri | Lamine Yamal | 14 | 21 | 30
+EDGE Pedri | Robert Lewandowski | 21 | 21 | 44
+EDGE Pedri | Iñaki Peña | 10 | 21 | 17
+EDGE Pedri | Alejandro Balde | 7 | 21 | 22
+EDGE Pedri | Oriol Romeu | 3 | 21 | 17
+EDGE Pedri | Frenkie de Jong | 17 | 21 | 30
+EDGE Pedri | Ferran Torres | 6 | 21 | 20
+EDGE Pedri | Gavi | 1 | 21 | 13
+EDGE Pedri | Ronald Araujo | 15 | 21 | 33
+EDGE Pedri | Fermín López | 3 | 21 | 19
+EDGE Pedri | João Félix | 5 | 21 | 24
+EDGE Pedri | Vitor Roque | 1 | 21 | 2
+EDGE Pedri | Sergi Roberto | 2 | 21 | 15
+EDGE Pedri | Héctor Fort | 1 | 21 | 6
+EDGE İlkay Gündoğan | Raphinha | 24 | 45 | 25
+EDGE İlkay Gündoğan | Lamine Yamal | 26 | 45 | 30
+EDGE İlkay Gündoğan | Robert Lewandowski | 39 | 45 | 44
+EDGE İlkay Gündoğan | Ronald Araujo | 31 | 45 | 33
+EDGE İlkay Gündoğan | Frenkie de Jong | 25 | 45 | 30
+EDGE İlkay Gündoğan | Oriol Romeu | 11 | 45 | 17
+EDGE İlkay Gündoğan | Gavi | 12 | 45 | 13
+EDGE İlkay Gündoğan | Alejandro Balde | 18 | 45 | 22
+EDGE İlkay Gündoğan | Fermín López | 14 | 45 | 19
+EDGE İlkay Gündoğan | João Félix | 20 | 45 | 24
+EDGE İlkay Gündoğan | Sergi Roberto | 11 | 45 | 15
+EDGE İlkay Gündoğan | Iñaki Peña | 13 | 45 | 17
+EDGE İlkay Gündoğan | Héctor Fort | 2 | 45 | 6
+EDGE İlkay Gündoğan | Ferran Torres | 13 | 45 | 20
+EDGE İlkay Gündoğan | Marcos Alonso | 4 | 45 | 5
+EDGE İlkay Gündoğan | Marc Guiu | 1 | 45 | 2
+EDGE Raphinha | Lamine Yamal | 10 | 25 | 30
+EDGE Raphinha | Robert Lewandowski | 22 | 25 | 44
+EDGE Raphinha | Ronald Araujo | 19 | 25 | 33
+EDGE Raphinha | Frenkie de Jong | 14 | 25 | 30
+EDGE Raphinha | Sergi Roberto | 7 | 25 | 15
+EDGE Raphinha | Fermín López | 7 | 25 | 19
+EDGE Raphinha | Iñaki Peña | 8 | 25 | 17
+EDGE Raphinha | Alejandro Balde | 8 | 25 | 22
+EDGE Raphinha | João Félix | 12 | 25 | 24
+EDGE Raphinha | Ferran Torres | 5 | 25 | 20
+EDGE Raphinha | Oriol Romeu | 4 | 25 | 17
+EDGE Raphinha | Gavi | 4 | 25 | 13
+EDGE Raphinha | Marcos Alonso | 1 | 25 | 5
+EDGE Raphinha | Marc Guiu | 1 | 25 | 2
+EDGE Raphinha | Héctor Fort | 2 | 25 | 6
+EDGE Lamine Yamal | Robert Lewandowski | 27 | 30 | 44
+EDGE Lamine Yamal | Ronald Araujo | 16 | 30 | 33
+EDGE Lamine Yamal | Frenkie de Jong | 15 | 30 | 30
+EDGE Lamine Yamal | Iñaki Peña | 7 | 30 | 17
+EDGE Lamine Yamal | Alejandro Balde | 9 | 30 | 22
+EDGE Lamine Yamal | Oriol Romeu | 8 | 30 | 17
+EDGE Lamine Yamal | Ferran Torres | 8 | 30 | 20
+EDGE Lamine Yamal | Gavi | 6 | 30 | 13
+EDGE Lamine Yamal | Fermín López | 11 | 30 | 19
+EDGE Lamine Yamal | João Félix | 7 | 30 | 24
+EDGE Lamine Yamal | Sergi Roberto | 8 | 30 | 15
+EDGE Lamine Yamal | Héctor Fort | 3 | 30 | 6
+EDGE Lamine Yamal | Vitor Roque | 1 | 30 | 2
+EDGE Lamine Yamal | Marcos Alonso | 2 | 30 | 5
+EDGE Lamine Yamal | Marc Guiu | 1 | 30 | 2
+EDGE Robert Lewandowski | Ronald Araujo | 29 | 44 | 33
+EDGE Robert Lewandowski | Frenkie de Jong | 28 | 44 | 30
+EDGE Robert Lewandowski | Iñaki Peña | 15 | 44 | 17
+EDGE Robert Lewandowski | Alejandro Balde | 17 | 44 | 22
+EDGE Robert Lewandowski | Oriol Romeu | 11 | 44 | 17
+EDGE Robert Lewandowski | Ferran Torres | 12 | 44 | 20
+EDGE Robert Lewandowski | Gavi | 9 | 44 | 13
+EDGE Robert Lewandowski | Fermín López | 12 | 44 | 19
+EDGE Robert Lewandowski | João Félix | 15 | 44 | 24
+EDGE Robert Lewandowski | Sergi Roberto | 13 | 44 | 15
+EDGE Robert Lewandowski | Héctor Fort | 4 | 44 | 6
+EDGE Robert Lewandowski | Vitor Roque | 1 | 44 | 2
+EDGE Robert Lewandowski | Marcos Alonso | 3 | 44 | 5
+EDGE Ronald Araujo | Frenkie de Jong | 21 | 33 | 30
+EDGE Ronald Araujo | Fermín López | 10 | 33 | 19
+EDGE Ronald Araujo | João Félix | 15 | 33 | 24
+EDGE Ronald Araujo | Iñaki Peña | 14 | 33 | 17
+EDGE Ronald Araujo | Héctor Fort | 3 | 33 | 6
+EDGE Ronald Araujo | Oriol Romeu | 7 | 33 | 17
+EDGE Ronald Araujo | Sergi Roberto | 7 | 33 | 15
+EDGE Ronald Araujo | Vitor Roque | 1 | 33 | 2
+EDGE Ronald Araujo | Alejandro Balde | 12 | 33 | 22
+EDGE Ronald Araujo | Ferran Torres | 11 | 33 | 20
+EDGE Ronald Araujo | Gavi | 5 | 33 | 13
+EDGE Ronald Araujo | Marcos Alonso | 2 | 33 | 5
+EDGE Frenkie de Jong | Iñaki Peña | 15 | 30 | 17
+EDGE Frenkie de Jong | Alejandro Balde | 13 | 30 | 22
+EDGE Frenkie de Jong | Oriol Romeu | 10 | 30 | 17
+EDGE Frenkie de Jong | Ferran Torres | 11 | 30 | 20
+EDGE Frenkie de Jong | Gavi | 5 | 30 | 13
+EDGE Frenkie de Jong | João Félix | 11 | 30 | 24
+EDGE Frenkie de Jong | Héctor Fort | 2 | 30 | 6
+EDGE Frenkie de Jong | Vitor Roque | 1 | 30 | 2
+EDGE Frenkie de Jong | Sergi Roberto | 7 | 30 | 15
+EDGE Frenkie de Jong | Fermín López | 2 | 30 | 19
+EDGE Frenkie de Jong | Marc Guiu | 1 | 30 | 2
+EDGE Frenkie de Jong | Marcos Alonso | 2 | 30 | 5
+EDGE Iñaki Peña | Alejandro Balde | 10 | 17 | 22
+EDGE Iñaki Peña | Oriol Romeu | 5 | 17 | 17
+EDGE Iñaki Peña | Ferran Torres | 10 | 17 | 20
+EDGE Iñaki Peña | Héctor Fort | 3 | 17 | 6
+EDGE Iñaki Peña | João Félix | 8 | 17 | 24
+EDGE Iñaki Peña | Sergi Roberto | 6 | 17 | 15
+EDGE Iñaki Peña | Fermín López | 4 | 17 | 19
+EDGE Iñaki Peña | Marc Guiu | 1 | 17 | 2
+EDGE Alejandro Balde | Oriol Romeu | 10 | 22 | 17
+EDGE Alejandro Balde | Ferran Torres | 13 | 22 | 20
+EDGE Alejandro Balde | Gavi | 11 | 22 | 13
+EDGE Alejandro Balde | João Félix | 12 | 22 | 24
+EDGE Alejandro Balde | Fermín López | 7 | 22 | 19
+EDGE Alejandro Balde | Sergi Roberto | 7 | 22 | 15
+EDGE Alejandro Balde | Marc Guiu | 1 | 22 | 2
+EDGE Alejandro Balde | Héctor Fort | 1 | 22 | 6
+EDGE Oriol Romeu | Ferran Torres | 11 | 17 | 20
+EDGE Oriol Romeu | Gavi | 8 | 17 | 13
+EDGE Oriol Romeu | João Félix | 10 | 17 | 24
+EDGE Oriol Romeu | Héctor Fort | 4 | 17 | 6
+EDGE Oriol Romeu | Fermín López | 6 | 17 | 19
+EDGE Oriol Romeu | Sergi Roberto | 5 | 17 | 15
+EDGE Oriol Romeu | Marc Guiu | 1 | 17 | 2
+EDGE Oriol Romeu | Marcos Alonso | 5 | 17 | 5
+EDGE Oriol Romeu | Vitor Roque | 1 | 17 | 2
+EDGE Ferran Torres | Gavi | 6 | 20 | 13
+EDGE Ferran Torres | João Félix | 10 | 20 | 24
+EDGE Ferran Torres | Fermín López | 9 | 20 | 19
+EDGE Ferran Torres | Sergi Roberto | 7 | 20 | 15
+EDGE Ferran Torres | Marc Guiu | 1 | 20 | 2
+EDGE Ferran Torres | Héctor Fort | 4 | 20 | 6
+EDGE Ferran Torres | Marcos Alonso | 4 | 20 | 5
+EDGE Ferran Torres | Vitor Roque | 1 | 20 | 2
+EDGE Gavi | João Félix | 9 | 13 | 24
+EDGE Gavi | Fermín López | 4 | 13 | 19
+EDGE Gavi | Marcos Alonso | 2 | 13 | 5
+EDGE Gavi | Sergi Roberto | 2 | 13 | 15
+EDGE Fermín López | João Félix | 11 | 19 | 24
+EDGE Fermín López | Sergi Roberto | 9 | 19 | 15
+EDGE Fermín López | Marc Guiu | 1 | 19 | 2
+EDGE Fermín López | Héctor Fort | 5 | 19 | 6
+EDGE Fermín López | Marcos Alonso | 2 | 19 | 5
+EDGE Fermín López | Vitor Roque | 1 | 19 | 2
+EDGE João Félix | Héctor Fort | 4 | 24 | 6
+EDGE João Félix | Sergi Roberto | 4 | 24 | 15
+EDGE João Félix | Marc Guiu | 2 | 24 | 2
+EDGE João Félix | Marcos Alonso | 3 | 24 | 5
+EDGE João Félix | Vitor Roque | 1 | 24 | 2
+EDGE Sergi Roberto | Marc Guiu | 1 | 15 | 2
+EDGE Sergi Roberto | Héctor Fort | 4 | 15 | 6
+EDGE Sergi Roberto | Marcos Alonso | 2 | 15 | 5
+EDGE Sergi Roberto | Vitor Roque | 1 | 15 | 2
+EDGE Héctor Fort | Marcos Alonso | 1 | 6 | 5
+EDGE Héctor Fort | Vitor Roque | 1 | 6 | 2
+EDGE Vitor Roque | Marcos Alonso | 1 | 2 | 5

@@ -1,0 +1,82 @@
+# Team: Athletic Bilbao
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3451424 | śr., 28.04.2021 | Real Valladolid CF
+PLAYERS: Unai Simón, Iñigo Martínez, Unai Núñez, Mikel Balenziaga, Óscar de Marcos, Dani García, Unai López, Álex Berenguer, Jon Morcillo, Oihan Sancet, Asier Villalibre
+
+MATCH: 3451039 | sob., 12.12.2020 | Valencia CF
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Mikel Vesga, Dani García, Iker Muniain, Álex Berenguer, Iñaki Williams, Asier Villalibre
+
+MATCH: 3451444 | sob., 08.05.2021 | CA Osasuna
+PLAYERS: Unai Simón, Iñigo Martínez, Unai Núñez, Mikel Balenziaga, Óscar de Marcos, Mikel Vesga, Unai Vencedor, Álex Berenguer, Jon Morcillo, Oihan Sancet, Asier Villalibre
+
+MATCH: 3451096 | wt., 15.12.2020 | Real Madryt
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Dani García, Unai Vencedor, Óscar de Marcos, Raúl García, Álex Berenguer, Iñaki Williams
+
+MATCH: 3451059 | wt., 22.12.2020 | Villarreal CF
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Mikel Vesga, Unai Vencedor, Óscar de Marcos, Álex Berenguer, Iker Muniain, Iñaki Williams
+
+MATCH: 3450997 | niedz., 08.11.2020 | Real Valladolid CF
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Dani García, Unai López, Iker Muniain, Jon Morcillo, Iñaki Williams, Raúl García
+
+MATCH: 3451180 | pt., 26.02.2021 | Levante UD
+PLAYERS: Unai Simón, Iñigo Martínez, Unai Núñez, Mikel Balenziaga, Ander Capa, Mikel Vesga, Unai Vencedor, Álex Berenguer, Iker Muniain, Raúl García, Iñaki Williams
+
+MATCH: 3451001 | pon., 23.11.2020 | Real Betis Balompié
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Mikel Vesga, Unai Vencedor, Iker Muniain, Álex Berenguer, Iñaki Williams, Asier Villalibre
+
+MATCH: 3451060 | czw., 31.12.2020 | Real Sociedad
+PLAYERS: Unai Simón, Iñigo Martínez, Unai Núñez, Yuri Berchiche, Ander Capa, Mikel Vesga, Unai Vencedor, Iker Muniain, Álex Berenguer, Iñaki Williams, Asier Villalibre
+
+MATCH: 3451071 | niedz., 03.01.2021 | Elche CF
+PLAYERS: Unai Simón, Iñigo Martínez, Unai Núñez, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Unai Vencedor, Iker Muniain, Álex Berenguer, Iñaki Williams, Raúl García
+
+MATCH: 3451458 | śr., 12.05.2021 | SD Huesca
+PLAYERS: Unai Simón, Iñigo Martínez, Unai Núñez, Mikel Balenziaga, Óscar de Marcos, Mikel Vesga, Unai López, Ibai Gómez, Jon Morcillo, Oihan Sancet, Asier Villalibre
+
+MATCH: 3451040 | pt., 18.12.2020 | SD Huesca
+PLAYERS: Unai Simón, Iñigo Martínez, Unai Núñez, Yuri Berchiche, Ander Capa, Mikel Vesga, Dani García, Iker Muniain, Álex Berenguer, Iñaki Williams, Asier Villalibre
+
+MATCH: 3451475 | sob., 22.05.2021 | Elche CF
+PLAYERS: Jokin Ezkieta, Unai Núñez, Yeray Álvarez, Mikel Balenziaga, Iñigo Lekue, Mikel Vesga, Unai López, Álex Berenguer, Ibai Gómez, Oihan Sancet, Asier Villalibre
+
+MATCH: 3503945 | czw., 21.01.2021 | UD Ibiza
+PLAYERS: Jokin Ezkieta, Unai Núñez, Yeray Álvarez, Mikel Balenziaga, Iñigo Lekue, Mikel Vesga, Unai Vencedor, Oihan Sancet, Jon Morcillo, Álex Berenguer, Asier Villalibre
+
+MATCH: 3451192 | niedz., 07.03.2021 | Granada CF
+PLAYERS: Unai Simón, Unai Núñez, Mikel Balenziaga, Iñigo Lekue, Ander Capa, Dani García, Unai Vencedor, Oihan Sancet, Jon Morcillo, Ibai Gómez, Asier Villalibre
+
+MATCH: 3451021 | pt., 04.12.2020 | Celta de Vigo
+PLAYERS: Unai Simón, Unai Núñez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Mikel Vesga, Unai Vencedor, Álex Berenguer, Iker Muniain, Iñaki Williams, Asier Villalibre
+
+MATCH: 3451148 | pon., 15.02.2021 | Cádiz CF
+PLAYERS: Unai Simón, Unai Núñez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Mikel Vesga, Unai López, Álex Berenguer, Iker Muniain, Raúl García, Iñaki Williams
+
+MATCH: 3431909 | sob., 12.09.2020 | Granada CF
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Mikel Balenziaga, Ander Capa, Mikel Vesga, Dani García, Óscar de Marcos, Jon Morcillo, Iker Muniain, Raúl García
+
+MATCH: 3451411 | śr., 21.04.2021 | Real Betis Balompié
+PLAYERS: Unai Simón, Unai Núñez, Mikel Balenziaga, Iñigo Lekue, Óscar de Marcos, Mikel Vesga, Unai Vencedor, Álex Berenguer, Jon Morcillo, Oihan Sancet, Asier Villalibre
+
+MATCH: 3531491 | sob., 17.04.2021 | FC Barcelona
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Mikel Balenziaga, Óscar de Marcos, Dani García, Unai López, Iker Muniain, Álex Berenguer, Raúl García, Iñaki Williams
+
+MATCH: 3431934 | czw., 01.10.2020 | Cádiz CF
+PLAYERS: Unai Simón, Iñigo Martínez, Unai Núñez, Yuri Berchiche, Ander Capa, Dani García, Unai López, Iker Muniain, Jon Morcillo, Raúl García, Iñaki Williams
+
+MATCH: 3431928 | niedz., 27.09.2020 | SD Eibar
+PLAYERS: Unai Simón, Iñigo Martínez, Unai Núñez, Yuri Berchiche, Ander Capa, Dani García, Unai López, Iker Muniain, Jon Morcillo, Iñaki Williams, Raúl García
+
+MATCH: 3451013 | niedz., 29.11.2020 | Getafe CF
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Yuri Berchiche, Ander Capa, Mikel Vesga, Unai Vencedor, Iker Muniain, Álex Berenguer, Iñaki Williams, Asier Villalibre
+
+MATCH: 3450961 | niedz., 18.10.2020 | Levante UD
+PLAYERS: Unai Simón, Iñigo Martínez, Yeray Álvarez, Mikel Balenziaga, Ander Capa, Dani García, Unai López, Raúl García, Álex Berenguer, Iker Muniain, Iñaki Williams
+
+MATCH: 3441588 | niedz., 04.10.2020 | Deportivo Alavés
+PLAYERS: Unai Simón, Iñigo Martínez, Unai Núñez, Yuri Berchiche, Ander Capa, Dani García, Unai López, Oihan Sancet, Iñigo Córdoba, Iñaki Williams, Raúl García
+
+MATCH: 3518102 | czw., 04.03.2021 | Levante UD
+PLAYERS: Unai Simón, Unai Núñez, Yeray Álvarez, Yuri Berchiche, Óscar de Marcos, Mikel Vesga, Unai López, Iker Muniain, Álex Berenguer, Raúl García, Iñaki Williams
+

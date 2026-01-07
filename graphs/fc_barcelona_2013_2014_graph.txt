@@ -1,0 +1,214 @@
+# Graph for Java/GraphStream
+# Nodes: 21
+# Edges: 208
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE José Manuel Pinto | Marc Bartra | 13 | 25 | 24
+EDGE José Manuel Pinto | Javier Mascherano | 19 | 25 | 43
+EDGE José Manuel Pinto | Jordi Alba | 9 | 25 | 24
+EDGE José Manuel Pinto | Dani Alves | 15 | 25 | 41
+EDGE José Manuel Pinto | Sergio Busquets | 19 | 25 | 46
+EDGE José Manuel Pinto | Cesc Fàbregas | 19 | 25 | 44
+EDGE José Manuel Pinto | Xavi | 14 | 25 | 41
+EDGE José Manuel Pinto | Andrés Iniesta | 18 | 25 | 41
+EDGE José Manuel Pinto | Neymar | 12 | 25 | 32
+EDGE José Manuel Pinto | Lionel Messi | 15 | 25 | 43
+EDGE José Manuel Pinto | Carles Puyol | 7 | 25 | 12
+EDGE José Manuel Pinto | Adriano | 16 | 25 | 35
+EDGE José Manuel Pinto | Alex Song | 9 | 25 | 18
+EDGE José Manuel Pinto | Sergi Roberto | 8 | 25 | 8
+EDGE José Manuel Pinto | Cristian Tello | 4 | 25 | 6
+EDGE José Manuel Pinto | Pedro | 18 | 25 | 38
+EDGE José Manuel Pinto | Alexis Sánchez | 15 | 25 | 38
+EDGE José Manuel Pinto | Gerard Piqué | 11 | 25 | 39
+EDGE José Manuel Pinto | Martín Montoya | 9 | 25 | 17
+EDGE Marc Bartra | Javier Mascherano | 9 | 24 | 43
+EDGE Marc Bartra | Jordi Alba | 7 | 24 | 24
+EDGE Marc Bartra | Dani Alves | 15 | 24 | 41
+EDGE Marc Bartra | Sergio Busquets | 15 | 24 | 46
+EDGE Marc Bartra | Cesc Fàbregas | 16 | 24 | 44
+EDGE Marc Bartra | Xavi | 14 | 24 | 41
+EDGE Marc Bartra | Andrés Iniesta | 18 | 24 | 41
+EDGE Marc Bartra | Neymar | 11 | 24 | 32
+EDGE Marc Bartra | Lionel Messi | 16 | 24 | 43
+EDGE Marc Bartra | Víctor Valdés | 11 | 24 | 34
+EDGE Marc Bartra | Adriano | 18 | 24 | 35
+EDGE Marc Bartra | Alex Song | 13 | 24 | 18
+EDGE Marc Bartra | Alexis Sánchez | 16 | 24 | 38
+EDGE Marc Bartra | Carles Puyol | 7 | 24 | 12
+EDGE Marc Bartra | Sergi Roberto | 4 | 24 | 8
+EDGE Marc Bartra | Cristian Tello | 4 | 24 | 6
+EDGE Marc Bartra | Pedro | 17 | 24 | 38
+EDGE Marc Bartra | Gerard Piqué | 8 | 24 | 39
+EDGE Marc Bartra | Martín Montoya | 8 | 24 | 17
+EDGE Javier Mascherano | Jordi Alba | 21 | 43 | 24
+EDGE Javier Mascherano | Dani Alves | 33 | 43 | 41
+EDGE Javier Mascherano | Sergio Busquets | 37 | 43 | 46
+EDGE Javier Mascherano | Cesc Fàbregas | 31 | 43 | 44
+EDGE Javier Mascherano | Xavi | 34 | 43 | 41
+EDGE Javier Mascherano | Andrés Iniesta | 31 | 43 | 41
+EDGE Javier Mascherano | Neymar | 24 | 43 | 32
+EDGE Javier Mascherano | Lionel Messi | 35 | 43 | 43
+EDGE Javier Mascherano | Víctor Valdés | 24 | 43 | 34
+EDGE Javier Mascherano | Adriano | 22 | 43 | 35
+EDGE Javier Mascherano | Alex Song | 7 | 43 | 18
+EDGE Javier Mascherano | Alexis Sánchez | 28 | 43 | 38
+EDGE Javier Mascherano | Gerard Piqué | 30 | 43 | 39
+EDGE Javier Mascherano | Pedro | 26 | 43 | 38
+EDGE Javier Mascherano | Martín Montoya | 9 | 43 | 17
+EDGE Javier Mascherano | Carles Puyol | 4 | 43 | 12
+EDGE Javier Mascherano | Sergi Roberto | 4 | 43 | 8
+EDGE Javier Mascherano | Cristian Tello | 2 | 43 | 6
+EDGE Jordi Alba | Dani Alves | 18 | 24 | 41
+EDGE Jordi Alba | Sergio Busquets | 21 | 24 | 46
+EDGE Jordi Alba | Cesc Fàbregas | 21 | 24 | 44
+EDGE Jordi Alba | Xavi | 19 | 24 | 41
+EDGE Jordi Alba | Andrés Iniesta | 17 | 24 | 41
+EDGE Jordi Alba | Neymar | 11 | 24 | 32
+EDGE Jordi Alba | Lionel Messi | 18 | 24 | 43
+EDGE Jordi Alba | Víctor Valdés | 15 | 24 | 34
+EDGE Jordi Alba | Adriano | 3 | 24 | 35
+EDGE Jordi Alba | Alex Song | 5 | 24 | 18
+EDGE Jordi Alba | Alexis Sánchez | 15 | 24 | 38
+EDGE Jordi Alba | Gerard Piqué | 19 | 24 | 39
+EDGE Jordi Alba | Pedro | 14 | 24 | 38
+EDGE Jordi Alba | Martín Montoya | 3 | 24 | 17
+EDGE Jordi Alba | Cristian Tello | 1 | 24 | 6
+EDGE Jordi Alba | Carles Puyol | 1 | 24 | 12
+EDGE Jordi Alba | Sergi Roberto | 2 | 24 | 8
+EDGE Dani Alves | Sergio Busquets | 36 | 41 | 46
+EDGE Dani Alves | Cesc Fàbregas | 29 | 41 | 44
+EDGE Dani Alves | Xavi | 32 | 41 | 41
+EDGE Dani Alves | Andrés Iniesta | 28 | 41 | 41
+EDGE Dani Alves | Neymar | 21 | 41 | 32
+EDGE Dani Alves | Lionel Messi | 37 | 41 | 43
+EDGE Dani Alves | Víctor Valdés | 26 | 41 | 34
+EDGE Dani Alves | Gerard Piqué | 28 | 41 | 39
+EDGE Dani Alves | Adriano | 21 | 41 | 35
+EDGE Dani Alves | Carles Puyol | 6 | 41 | 12
+EDGE Dani Alves | Alex Song | 6 | 41 | 18
+EDGE Dani Alves | Sergi Roberto | 3 | 41 | 8
+EDGE Dani Alves | Cristian Tello | 4 | 41 | 6
+EDGE Dani Alves | Pedro | 24 | 41 | 38
+EDGE Dani Alves | Alexis Sánchez | 26 | 41 | 38
+EDGE Dani Alves | Martín Montoya | 2 | 41 | 17
+EDGE Sergio Busquets | Cesc Fàbregas | 34 | 46 | 44
+EDGE Sergio Busquets | Xavi | 32 | 46 | 41
+EDGE Sergio Busquets | Andrés Iniesta | 34 | 46 | 41
+EDGE Sergio Busquets | Neymar | 25 | 46 | 32
+EDGE Sergio Busquets | Lionel Messi | 36 | 46 | 43
+EDGE Sergio Busquets | Víctor Valdés | 27 | 46 | 34
+EDGE Sergio Busquets | Gerard Piqué | 33 | 46 | 39
+EDGE Sergio Busquets | Adriano | 25 | 46 | 35
+EDGE Sergio Busquets | Pedro | 29 | 46 | 38
+EDGE Sergio Busquets | Alexis Sánchez | 31 | 46 | 38
+EDGE Sergio Busquets | Martín Montoya | 10 | 46 | 17
+EDGE Sergio Busquets | Carles Puyol | 6 | 46 | 12
+EDGE Sergio Busquets | Alex Song | 5 | 46 | 18
+EDGE Sergio Busquets | Sergi Roberto | 4 | 46 | 8
+EDGE Sergio Busquets | Cristian Tello | 1 | 46 | 6
+EDGE Cesc Fàbregas | Xavi | 27 | 44 | 41
+EDGE Cesc Fàbregas | Andrés Iniesta | 28 | 44 | 41
+EDGE Cesc Fàbregas | Neymar | 25 | 44 | 32
+EDGE Cesc Fàbregas | Lionel Messi | 29 | 44 | 43
+EDGE Cesc Fàbregas | Víctor Valdés | 25 | 44 | 34
+EDGE Cesc Fàbregas | Adriano | 24 | 44 | 35
+EDGE Cesc Fàbregas | Alex Song | 14 | 44 | 18
+EDGE Cesc Fàbregas | Alexis Sánchez | 26 | 44 | 38
+EDGE Cesc Fàbregas | Gerard Piqué | 30 | 44 | 39
+EDGE Cesc Fàbregas | Carles Puyol | 11 | 44 | 12
+EDGE Cesc Fàbregas | Sergi Roberto | 6 | 44 | 8
+EDGE Cesc Fàbregas | Cristian Tello | 4 | 44 | 6
+EDGE Cesc Fàbregas | Pedro | 28 | 44 | 38
+EDGE Cesc Fàbregas | Martín Montoya | 13 | 44 | 17
+EDGE Xavi | Andrés Iniesta | 27 | 41 | 41
+EDGE Xavi | Neymar | 23 | 41 | 32
+EDGE Xavi | Lionel Messi | 32 | 41 | 43
+EDGE Xavi | Víctor Valdés | 27 | 41 | 34
+EDGE Xavi | Gerard Piqué | 30 | 41 | 39
+EDGE Xavi | Adriano | 20 | 41 | 35
+EDGE Xavi | Martín Montoya | 10 | 41 | 17
+EDGE Xavi | Alexis Sánchez | 25 | 41 | 38
+EDGE Xavi | Pedro | 25 | 41 | 38
+EDGE Xavi | Carles Puyol | 5 | 41 | 12
+EDGE Xavi | Sergi Roberto | 2 | 41 | 8
+EDGE Xavi | Alex Song | 9 | 41 | 18
+EDGE Xavi | Cristian Tello | 3 | 41 | 6
+EDGE Andrés Iniesta | Neymar | 22 | 41 | 32
+EDGE Andrés Iniesta | Lionel Messi | 29 | 41 | 43
+EDGE Andrés Iniesta | Víctor Valdés | 23 | 41 | 34
+EDGE Andrés Iniesta | Adriano | 24 | 41 | 35
+EDGE Andrés Iniesta | Alex Song | 10 | 41 | 18
+EDGE Andrés Iniesta | Alexis Sánchez | 27 | 41 | 38
+EDGE Andrés Iniesta | Gerard Piqué | 28 | 41 | 39
+EDGE Andrés Iniesta | Pedro | 24 | 41 | 38
+EDGE Andrés Iniesta | Martín Montoya | 12 | 41 | 17
+EDGE Andrés Iniesta | Carles Puyol | 5 | 41 | 12
+EDGE Andrés Iniesta | Sergi Roberto | 3 | 41 | 8
+EDGE Andrés Iniesta | Cristian Tello | 2 | 41 | 6
+EDGE Neymar | Lionel Messi | 23 | 32 | 43
+EDGE Neymar | Víctor Valdés | 20 | 32 | 34
+EDGE Neymar | Adriano | 19 | 32 | 35
+EDGE Neymar | Alex Song | 10 | 32 | 18
+EDGE Neymar | Alexis Sánchez | 13 | 32 | 38
+EDGE Neymar | Gerard Piqué | 23 | 32 | 39
+EDGE Neymar | Carles Puyol | 6 | 32 | 12
+EDGE Neymar | Sergi Roberto | 3 | 32 | 8
+EDGE Neymar | Cristian Tello | 4 | 32 | 6
+EDGE Neymar | Martín Montoya | 12 | 32 | 17
+EDGE Neymar | Pedro | 13 | 32 | 38
+EDGE Lionel Messi | Víctor Valdés | 28 | 43 | 34
+EDGE Lionel Messi | Adriano | 24 | 43 | 35
+EDGE Lionel Messi | Alex Song | 10 | 43 | 18
+EDGE Lionel Messi | Alexis Sánchez | 26 | 43 | 38
+EDGE Lionel Messi | Gerard Piqué | 28 | 43 | 39
+EDGE Lionel Messi | Carles Puyol | 6 | 43 | 12
+EDGE Lionel Messi | Sergi Roberto | 2 | 43 | 8
+EDGE Lionel Messi | Cristian Tello | 3 | 43 | 6
+EDGE Lionel Messi | Pedro | 26 | 43 | 38
+EDGE Lionel Messi | Martín Montoya | 7 | 43 | 17
+EDGE Víctor Valdés | Adriano | 19 | 34 | 35
+EDGE Víctor Valdés | Alex Song | 9 | 34 | 18
+EDGE Víctor Valdés | Alexis Sánchez | 23 | 34 | 38
+EDGE Víctor Valdés | Gerard Piqué | 28 | 34 | 39
+EDGE Víctor Valdés | Pedro | 20 | 34 | 38
+EDGE Víctor Valdés | Carles Puyol | 5 | 34 | 12
+EDGE Víctor Valdés | Martín Montoya | 8 | 34 | 17
+EDGE Víctor Valdés | Cristian Tello | 2 | 34 | 6
+EDGE Adriano | Alex Song | 14 | 35 | 18
+EDGE Adriano | Alexis Sánchez | 25 | 35 | 38
+EDGE Adriano | Gerard Piqué | 19 | 35 | 39
+EDGE Adriano | Carles Puyol | 10 | 35 | 12
+EDGE Adriano | Sergi Roberto | 7 | 35 | 8
+EDGE Adriano | Cristian Tello | 5 | 35 | 6
+EDGE Adriano | Pedro | 24 | 35 | 38
+EDGE Adriano | Martín Montoya | 11 | 35 | 17
+EDGE Alex Song | Alexis Sánchez | 10 | 18 | 38
+EDGE Alex Song | Carles Puyol | 8 | 18 | 12
+EDGE Alex Song | Sergi Roberto | 5 | 18 | 8
+EDGE Alex Song | Cristian Tello | 5 | 18 | 6
+EDGE Alex Song | Pedro | 13 | 18 | 38
+EDGE Alex Song | Gerard Piqué | 8 | 18 | 39
+EDGE Alex Song | Martín Montoya | 10 | 18 | 17
+EDGE Alexis Sánchez | Pedro | 25 | 38 | 38
+EDGE Alexis Sánchez | Gerard Piqué | 26 | 38 | 39
+EDGE Alexis Sánchez | Martín Montoya | 10 | 38 | 17
+EDGE Alexis Sánchez | Carles Puyol | 6 | 38 | 12
+EDGE Alexis Sánchez | Sergi Roberto | 5 | 38 | 8
+EDGE Alexis Sánchez | Cristian Tello | 2 | 38 | 6
+EDGE Gerard Piqué | Martín Montoya | 11 | 39 | 17
+EDGE Gerard Piqué | Pedro | 24 | 39 | 38
+EDGE Gerard Piqué | Sergi Roberto | 2 | 39 | 8
+EDGE Gerard Piqué | Carles Puyol | 2 | 39 | 12
+EDGE Gerard Piqué | Cristian Tello | 2 | 39 | 6
+EDGE Carles Puyol | Sergi Roberto | 6 | 12 | 8
+EDGE Carles Puyol | Cristian Tello | 4 | 12 | 6
+EDGE Carles Puyol | Pedro | 9 | 12 | 38
+EDGE Carles Puyol | Martín Montoya | 6 | 12 | 17
+EDGE Sergi Roberto | Cristian Tello | 4 | 8 | 6
+EDGE Sergi Roberto | Martín Montoya | 4 | 8 | 17
+EDGE Sergi Roberto | Pedro | 6 | 8 | 38
+EDGE Cristian Tello | Martín Montoya | 2 | 6 | 17
+EDGE Cristian Tello | Pedro | 2 | 6 | 38
+EDGE Pedro | Martín Montoya | 13 | 38 | 17

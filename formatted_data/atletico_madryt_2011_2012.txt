@@ -1,0 +1,181 @@
+# Team: Atlético Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 1145835 | czw., 29.09.2011 | Stade Rennais FC
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Miranda, Filipe Luís, Luis Amaranto Perea, Mario Suárez, Gabi, Arda Turan, Diego, Adrián López, Radamel Falcao
+
+MATCH: 1187756 | czw., 08.03.2012 | Besiktas JK
+PLAYERS: Thibaut Courtois, Diego Godín, Luis Amaranto Perea, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Eduardo Salvio, Adrián López, Radamel Falcao
+
+MATCH: 1125537 | śr., 11.04.2012 | Real Madryt
+PLAYERS: Thibaut Courtois, Diego Godín, Luis Amaranto Perea, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Diego, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 1187764 | czw., 15.03.2012 | Besiktas JK
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Arda Turan, Koke, Adrián López, Radamel Falcao
+
+MATCH: 1125494 | niedz., 18.03.2012 | RCD Mallorca
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Adrián López, Eduardo Salvio, Radamel Falcao
+
+MATCH: 1125297 | sob., 15.10.2011 | Granada CF
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Tiago Mendes, Gabi, Diego, José Antonio Reyes, Radamel Falcao
+
+MATCH: 1125304 | niedz., 23.10.2011 | RCD Mallorca
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Sílvio, Mario Suárez, Tiago Mendes, Diego, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 2208246 | śr., 09.05.2012 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Diego, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 1125545 | niedz., 25.03.2012 | Real Zaragoza
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Diego Godín, Filipe Luís, Luis Amaranto Perea, Paulo Assunção, Koke, Arda Turan, Eduardo Salvio, Adrián López, Radamel Falcao
+
+MATCH: 2206125 | czw., 19.04.2012 | Valencia CF
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Diego, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 1182359 | czw., 23.02.2012 | Lazio Rzym
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Álvaro Domínguez, Luis Amaranto Perea, Paulo Assunção, Gabi, Juanfran Torres, Koke, Eduardo Salvio, Adrián López
+
+MATCH: 1145879 | czw., 03.11.2011 | Udinese Calcio
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Diego Godín, Antonio López, Luis Amaranto Perea, Mario Suárez, Gabi, Arda Turan, Diego, Adrián López, Radamel Falcao
+
+MATCH: 1125452 | niedz., 19.02.2012 | Sporting Gijón
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Diego, Adrián López, Radamel Falcao
+
+MATCH: 1125262 | śr., 21.09.2011 | Sporting Gijón
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Miranda, Filipe Luís, Sílvio, Paulo Assunção, Gabi, Koke, Arda Turan, Eduardo Salvio, Radamel Falcao
+
+MATCH: 1158639 | czw., 08.12.2011 | Albacete Balompié
+PLAYERS: Sergio Asenjo, Álvaro Domínguez, Jorge Pulido, Antonio López, Juanfran Torres, Javier Manquillo, Paulo Assunção, Koke, Pizzi, Eduardo Salvio, Adrián López
+
+MATCH: 1125315 | czw., 27.10.2011 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Sílvio, Paulo Assunção, Gabi, Diego, Arda Turan, José Antonio Reyes, Radamel Falcao
+
+MATCH: 1125357 | sob., 26.11.2011 | Real Madryt
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Diego Godín, Filipe Luís, Luis Amaranto Perea, Paulo Assunção, Gabi, Diego, Arda Turan, Eduardo Salvio, Adrián López
+
+MATCH: 2206127 | czw., 26.04.2012 | Valencia CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Tiago Mendes, Diego, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 1125599 | niedz., 13.05.2012 | Villarreal CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Diego, Adrián López, Eduardo Salvio, Radamel Falcao
+
+MATCH: 1125325 | niedz., 30.10.2011 | Real Zaragoza
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Diego Godín, Filipe Luís, Sílvio, Mario Suárez, Gabi, Arda Turan, Diego, Adrián López, Radamel Falcao
+
+MATCH: 1125505 | śr., 21.03.2012 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Adrián López, Arda Turan, Radamel Falcao
+
+MATCH: 1135772 | czw., 25.08.2011 | Vitoria Guimarães SC
+PLAYERS: Thibaut Courtois, Luis Amaranto Perea, Miranda, Filipe Luís, Sílvio, Mario Suárez, Tiago Mendes, Gabi, José Antonio Reyes, Eduardo Salvio, Adrián López
+
+MATCH: 1146156 | śr., 30.11.2011 | Celtic Glasgow
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Luis Amaranto Perea, Mario Suárez, Gabi, Diego, Arda Turan, Eduardo Salvio, Adrián López
+
+MATCH: 1125423 | pon., 30.01.2012 | CA Osasuna
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Tiago Mendes, Koke, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 1125388 | niedz., 18.12.2011 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Diego Godín, Filipe Luís, Juanfran Torres, Paulo Assunção, Gabi, Arda Turan, Diego, Adrián López, Radamel Falcao
+
+MATCH: 1125409 | niedz., 15.01.2012 | Villarreal CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Diego, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 1125589 | sob., 05.05.2012 | Málaga CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Tiago Mendes, Diego, Adrián López, Eduardo Salvio, Radamel Falcao
+
+MATCH: 1125463 | niedz., 26.02.2012 | FC Barcelona
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 1129180 | czw., 04.08.2011 | Strømsgodset IF
+PLAYERS: Joel Robles, Álvaro Domínguez, Luis Amaranto Perea, Antonio López, Sílvio, Paulo Assunção, Gabi, José Antonio Reyes, Eduardo Salvio, Diego Forlán, Adrián López
+
+MATCH: 1125568 | niedz., 22.04.2012 | RCD Espanyol
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Diego Godín, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Diego, Arda Turan, Eduardo Salvio, Radamel Falcao
+
+MATCH: 1125378 | niedz., 11.12.2011 | RCD Espanyol
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Luis Amaranto Perea, Mario Suárez, Gabi, Diego, Arda Turan, Eduardo Salvio, Radamel Falcao
+
+MATCH: 1125061 | sob., 21.01.2012 | Real Sociedad
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Diego, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 1144548 | czw., 15.09.2011 | Celtic Glasgow
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Antonio López, Luis Amaranto Perea, Gabi, Mario Suárez, Koke, Diego, Arda Turan, Radamel Falcao
+
+MATCH: 1158647 | śr., 21.12.2011 | Albacete Balompié
+PLAYERS: Sergio Asenjo, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Paulo Assunção, Gabi, Diego, Koke, Adrián López, Radamel Falcao
+
+MATCH: 1125432 | niedz., 05.02.2012 | Valencia CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Diego, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 1125273 | sob., 24.09.2011 | FC Barcelona
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Antonio López, Luis Amaranto Perea, Mario Suárez, Tiago Mendes, Gabi, Diego, José Antonio Reyes, Radamel Falcao
+
+MATCH: 1125442 | sob., 11.02.2012 | Racing Santander
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Luis Amaranto Perea, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Diego, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 1125412 | śr., 02.05.2012 | Real Sociedad
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 1125487 | niedz., 11.03.2012 | Granada CF
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Álvaro Domínguez, Juanfran Torres, Mario Suárez, Gabi, Eduardo Salvio, Koke, Adrián López, Radamel Falcao
+
+MATCH: 1125473 | sob., 03.03.2012 | Sevilla FC
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Tiago Mendes, Eduardo Salvio, Koke, Gabi, Adrián López
+
+MATCH: 2193114 | czw., 29.03.2012 | Hannover 96
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 1129179 | czw., 28.07.2011 | Strømsgodset IF
+PLAYERS: Joel Robles, Álvaro Domínguez, Miranda, Filipe Luís, Sílvio, Tiago Mendes, Gabi, Juanfran Torres, José Antonio Reyes, Diego Forlán, Adrián López
+
+MATCH: 1125399 | sob., 07.01.2012 | Málaga CF
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Diego Godín, Filipe Luís, Luis Amaranto Perea, Tiago Mendes, Gabi, Juanfran Torres, Eduardo Salvio, Diego, Radamel Falcao
+
+MATCH: 1125578 | niedz., 29.04.2012 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Diego Godín, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Diego, Adrián López, Eduardo Salvio, Radamel Falcao
+
+MATCH: 1146235 | czw., 15.12.2011 | Stade Rennais FC
+PLAYERS: Sergio Asenjo, Álvaro Domínguez, Diego Godín, Filipe Luís, Luis Amaranto Perea, Paulo Assunção, Koke, Diego, Arda Turan, Adrián López, Radamel Falcao
+
+MATCH: 1125367 | niedz., 04.12.2011 | Rayo Vallecano
+PLAYERS: Sergio Asenjo, Álvaro Domínguez, Miranda, Filipe Luís, Luis Amaranto Perea, Mario Suárez, Gabi, Koke, Diego, José Antonio Reyes, Radamel Falcao
+
+MATCH: 1125233 | niedz., 28.08.2011 | CA Osasuna
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Luis Amaranto Perea, Filipe Luís, Sílvio, Mario Suárez, Tiago Mendes, Gabi, José Antonio Reyes, Eduardo Salvio, Adrián López
+
+MATCH: 1134011 | niedz., 01.04.2012 | Getafe CF
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Luis Amaranto Perea, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Diego, Arda Turan, Eduardo Salvio, Radamel Falcao
+
+MATCH: 1182334 | czw., 16.02.2012 | Lazio Rzym
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Koke, Diego, Adrián López, Radamel Falcao
+
+MATCH: 1125252 | niedz., 18.09.2011 | Racing Santander
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Miranda, Filipe Luís, Luis Amaranto Perea, Mario Suárez, Tiago Mendes, Diego, Arda Turan, José Antonio Reyes, Radamel Falcao
+
+MATCH: 1145857 | czw., 20.10.2011 | Udinese Calcio
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Luis Amaranto Perea, Paulo Assunção, Gabi, Diego, Pizzi, Juanfran Torres, Radamel Falcao
+
+MATCH: 1125242 | sob., 10.09.2011 | Valencia CF
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Miranda, Filipe Luís, Sílvio, Mario Suárez, Tiago Mendes, Gabi, Adrián López, José Antonio Reyes, Radamel Falcao
+
+MATCH: 1135771 | czw., 18.08.2011 | Vitoria Guimarães SC
+PLAYERS: Joel Robles, Álvaro Domínguez, Luis Amaranto Perea, Filipe Luís, Sílvio, Mario Suárez, Tiago Mendes, Gabi, José Antonio Reyes, Eduardo Salvio, Adrián López
+
+MATCH: 1125283 | niedz., 02.10.2011 | Sevilla FC
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Diego Godín, Filipe Luís, Sílvio, Mario Suárez, Tiago Mendes, Diego, Arda Turan, José Antonio Reyes, Radamel Falcao
+
+MATCH: 1125346 | niedz., 20.11.2011 | Levante UD
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Miranda, Filipe Luís, Sílvio, Mario Suárez, Tiago Mendes, Diego, Arda Turan, Eduardo Salvio, Adrián López
+
+MATCH: 1125526 | niedz., 08.04.2012 | Levante UD
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Gabi, Diego, Arda Turan, Eduardo Salvio, Adrián López
+
+MATCH: 2193115 | czw., 05.04.2012 | Hannover 96
+PLAYERS: Thibaut Courtois, Diego Godín, Miranda, Filipe Luís, Luis Amaranto Perea, Tiago Mendes, Mario Suárez, Koke, Diego, Adrián López, Radamel Falcao
+
+MATCH: 1125336 | niedz., 06.11.2011 | Getafe CF
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Diego Godín, Filipe Luís, Antonio López, Tiago Mendes, Gabi, Arda Turan, Diego, Adrián López, Radamel Falcao
+
+MATCH: 1125557 | niedz., 15.04.2012 | Rayo Vallecano
+PLAYERS: Thibaut Courtois, Álvaro Domínguez, Miranda, Filipe Luís, Juanfran Torres, Mario Suárez, Tiago Mendes, Diego, Adrián López, Eduardo Salvio, Radamel Falcao
+

@@ -1,0 +1,157 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3209999 | sob., 07.03.2020 | Real Sociedad
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Frenkie de Jong, Martin Braithwaite, Antoine Griezmann, Lionel Messi
+
+MATCH: 3310294 | czw., 30.01.2020 | CD Leganés
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Frenkie de Jong, Arturo Vidal, Ansu Fati, Lionel Messi, Antoine Griezmann
+
+MATCH: 3210036 | wt., 16.06.2020 | CD Leganés
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Junior Firpo, Sergi Roberto, Sergio Busquets, Arthur Melo, Ivan Rakitic, Ansu Fati, Lionel Messi, Antoine Griezmann
+
+MATCH: 3208697 | sob., 28.09.2019 | Getafe CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Junior Firpo, Sergi Roberto, Sergio Busquets, Arthur Melo, Frenkie de Jong, Antoine Griezmann, Carles Pérez, Luis Suárez
+
+MATCH: 3208776 | sob., 23.11.2019 | CD Leganés
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Junior Firpo, Moussa Wagué, Sergio Busquets, Frenkie de Jong, Antoine Griezmann, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3208765 | sob., 09.11.2019 | Celta de Vigo
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Junior Firpo, Nélson Semedo, Frenkie de Jong, Arthur Melo, Sergi Roberto, Ansu Fati, Lionel Messi, Antoine Griezmann
+
+MATCH: 3414688 | pt., 14.08.2020 | Bayern Monachium
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Frenkie de Jong, Sergi Roberto, Arturo Vidal, Lionel Messi, Luis Suárez
+
+MATCH: 3291942 | sob., 08.08.2020 | SSC Napoli
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Ivan Rakitic, Sergi Roberto, Frenkie de Jong, Antoine Griezmann, Lionel Messi, Luis Suárez
+
+MATCH: 3252197 | śr., 23.10.2019 | SK Slavia Praga
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Arthur Melo, Frenkie de Jong, Antoine Griezmann, Lionel Messi, Luis Suárez
+
+MATCH: 3209959 | sob., 15.02.2020 | Getafe CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Arthur Melo, Frenkie de Jong, Ansu Fati, Lionel Messi, Antoine Griezmann
+
+MATCH: 3208655 | sob., 31.08.2019 | CA Osasuna
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Sergi Roberto, Frenkie de Jong, Rafinha, Carles Pérez, Antoine Griezmann
+
+MATCH: 3252173 | śr., 02.10.2019 | Inter Mediolan
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Nélson Semedo, Sergi Roberto, Sergio Busquets, Arthur Melo, Frenkie de Jong, Antoine Griezmann, Lionel Messi, Luis Suárez
+
+MATCH: 3208744 | wt., 29.10.2019 | Real Valladolid CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Frenkie de Jong, Arturo Vidal, Ansu Fati, Lionel Messi, Luis Suárez
+
+MATCH: 3210132 | sob., 11.07.2020 | Real Valladolid CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Arturo Vidal, Nélson Semedo, Riqui Puig, Lionel Messi, Antoine Griezmann
+
+MATCH: 3209970 | sob., 22.02.2020 | SD Eibar
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Junior Firpo, Nélson Semedo, Sergio Busquets, Arthur Melo, Ivan Rakitic, Arturo Vidal, Lionel Messi, Antoine Griezmann
+
+MATCH: 3208812 | sob., 21.12.2019 | Deportivo Alavés
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Carles Aleñá, Arturo Vidal, Antoine Griezmann, Lionel Messi, Luis Suárez
+
+MATCH: 3210062 | pt., 19.06.2020 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Arturo Vidal, Martin Braithwaite, Lionel Messi, Luis Suárez
+
+MATCH: 3208660 | sob., 14.09.2019 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Arthur Melo, Frenkie de Jong, Ansu Fati, Carles Pérez, Antoine Griezmann
+
+MATCH: 3208633 | niedz., 19.07.2020 | Deportivo Alavés
+PLAYERS: Neto, Clément Lenglet, Ronald Araujo, Jordi Alba, Sergi Roberto, Sergio Busquets, Arturo Vidal, Riqui Puig, Ansu Fati, Lionel Messi, Luis Suárez
+
+MATCH: 3208850 | sob., 25.01.2020 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Sergi Roberto, Sergio Busquets, Arthur Melo, Frenkie de Jong, Ansu Fati, Jordi Alba, Lionel Messi, Antoine Griezmann
+
+MATCH: 3210085 | sob., 27.06.2020 | Celta de Vigo
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Nélson Semedo, Ivan Rakitic, Arturo Vidal, Riqui Puig, Ansu Fati, Lionel Messi, Luis Suárez
+
+MATCH: 3252228 | śr., 27.11.2019 | Borussia Dortmund
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Samuel Umtiti, Junior Firpo, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Frenkie de Jong, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3208833 | niedz., 19.01.2020 | Granada CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Arturo Vidal, Antoine Griezmann, Ansu Fati, Lionel Messi
+
+MATCH: 3208716 | sob., 19.10.2019 | SD Eibar
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Samuel Umtiti, Jordi Alba, Sergi Roberto, Sergio Busquets, Arthur Melo, Frenkie de Jong, Antoine Griezmann, Lionel Messi, Luis Suárez
+
+MATCH: 3210074 | wt., 23.06.2020 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Arthur Melo, Arturo Vidal, Antoine Griezmann, Lionel Messi, Luis Suárez
+
+MATCH: 3210134 | czw., 16.07.2020 | CA Osasuna
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Junior Firpo, Nélson Semedo, Ivan Rakitic, Sergi Roberto, Riqui Puig, Ansu Fati, Lionel Messi, Martin Braithwaite
+
+MATCH: 3307692 | śr., 22.01.2020 | UD Ibiza
+PLAYERS: Neto, Clément Lenglet, Junior Firpo, Sergi Roberto, Frenkie de Jong, Ivan Rakitic, Riqui Puig, Nélson Semedo, Ansu Fati, Carles Pérez, Antoine Griezmann
+
+MATCH: 3280660 | czw., 09.01.2020 | Atlético Madryt
+PLAYERS: Neto, Samuel Umtiti, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Frenkie de Jong, Arturo Vidal, Antoine Griezmann, Lionel Messi, Luis Suárez
+
+MATCH: 3252204 | wt., 05.11.2019 | SK Slavia Praga
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Frenkie de Jong, Arturo Vidal, Antoine Griezmann, Ousmane Dembélé, Lionel Messi
+
+MATCH: 3208640 | niedz., 25.08.2019 | Real Betis Balompié
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Sergi Roberto, Frenkie de Jong, Rafinha, Carles Pérez, Antoine Griezmann
+
+MATCH: 3208627 | pt., 16.08.2019 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Frenkie de Jong, Carles Aleñá, Sergi Roberto, Antoine Griezmann, Ousmane Dembélé, Luis Suárez
+
+MATCH: 3252157 | wt., 17.09.2019 | Borussia Dortmund
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Arthur Melo, Frenkie de Jong, Antoine Griezmann, Ansu Fati, Luis Suárez
+
+MATCH: 3208673 | sob., 21.09.2019 | Granada CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Junior Firpo, Nélson Semedo, Frenkie de Jong, Ivan Rakitic, Sergi Roberto, Antoine Griezmann, Carles Pérez, Luis Suárez
+
+MATCH: 3208784 | niedz., 01.12.2019 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Junior Firpo, Sergi Roberto, Ivan Rakitic, Arthur Melo, Frenkie de Jong, Antoine Griezmann, Lionel Messi, Luis Suárez
+
+MATCH: 3210111 | niedz., 05.07.2020 | Villarreal CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Sergi Roberto, Arturo Vidal, Lionel Messi, Antoine Griezmann, Luis Suárez
+
+MATCH: 3312783 | czw., 06.02.2020 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Frenkie de Jong, Ansu Fati, Sergi Roberto, Lionel Messi
+
+MATCH: 3208679 | wt., 24.09.2019 | Villarreal CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Junior Firpo, Nélson Semedo, Sergio Busquets, Arthur Melo, Sergi Roberto, Antoine Griezmann, Lionel Messi, Luis Suárez
+
+MATCH: 3209804 | niedz., 09.02.2020 | Real Betis Balompié
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Samuel Umtiti, Junior Firpo, Nélson Semedo, Sergio Busquets, Sergi Roberto, Frenkie de Jong, Arturo Vidal, Lionel Messi, Antoine Griezmann
+
+MATCH: 3210021 | sob., 13.06.2020 | RCD Mallorca
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Ronald Araujo, Jordi Alba, Sergi Roberto, Sergio Busquets, Frenkie de Jong, Arturo Vidal, Martin Braithwaite, Lionel Messi, Antoine Griezmann
+
+MATCH: 3210114 | śr., 08.07.2020 | RCD Espanyol
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Sergi Roberto, Lionel Messi, Antoine Griezmann, Luis Suárez
+
+MATCH: 3208792 | sob., 07.12.2019 | RCD Mallorca
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Junior Firpo, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Frenkie de Jong, Antoine Griezmann, Lionel Messi, Luis Suárez
+
+MATCH: 3208703 | niedz., 06.10.2019 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Jean-Clair Todibo, Nélson Semedo, Sergi Roberto, Frenkie de Jong, Arthur Melo, Arturo Vidal, Ousmane Dembélé, Lionel Messi, Luis Suárez
+
+MATCH: 3209793 | niedz., 02.02.2020 | Levante UD
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Frenkie de Jong, Ansu Fati, Lionel Messi, Antoine Griezmann
+
+MATCH: 3252237 | wt., 10.12.2019 | Inter Mediolan
+PLAYERS: Neto, Clément Lenglet, Samuel Umtiti, Jean-Clair Todibo, Ivan Rakitic, Carles Aleñá, Arturo Vidal, Moussa Wagué, Junior Firpo, Carles Pérez, Antoine Griezmann
+
+MATCH: 3208825 | sob., 04.01.2020 | RCD Espanyol
+PLAYERS: Neto, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Frenkie de Jong, Antoine Griezmann, Lionel Messi, Luis Suárez
+
+MATCH: 3209984 | niedz., 01.03.2020 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Arthur Melo, Arturo Vidal, Frenkie de Jong, Lionel Messi, Antoine Griezmann
+
+MATCH: 3291934 | wt., 25.02.2020 | SSC Napoli
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Junior Firpo, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Frenkie de Jong, Antoine Griezmann, Arturo Vidal, Lionel Messi
+
+MATCH: 3208724 | śr., 18.12.2019 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Ivan Rakitic, Sergi Roberto, Frenkie de Jong, Antoine Griezmann, Lionel Messi, Luis Suárez
+
+MATCH: 3210094 | wt., 30.06.2020 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Nélson Semedo, Sergio Busquets, Ivan Rakitic, Arturo Vidal, Riqui Puig, Lionel Messi, Luis Suárez
+
+MATCH: 3208809 | sob., 14.12.2019 | Real Sociedad
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Ivan Rakitic, Frenkie de Jong, Antoine Griezmann, Lionel Messi, Luis Suárez
+
+MATCH: 3208756 | sob., 02.11.2019 | Levante UD
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Nélson Semedo, Sergi Roberto, Frenkie de Jong, Arthur Melo, Arturo Vidal, Antoine Griezmann, Lionel Messi, Luis Suárez
+

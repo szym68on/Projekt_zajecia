@@ -1,0 +1,166 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3605046 | pon., 16.08.2021 | Granada CF
+PLAYERS: Gerónimo Rulli, Raúl Albiol, Aïssa Mandi, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Manu Trigueros, Alberto Moreno, Yéremy Pino, Gerard Moreno, Boulaye Dia
+
+MATCH: 3607598 | niedz., 12.12.2021 | Rayo Vallecano
+PLAYERS: Gerónimo Rulli, Pau Torres, Aïssa Mandi, Alfonso Pedraza, Mario Gaspar, Vicente Iborra, Dani Parejo, Manu Trigueros, Yéremy Pino, Gerard Moreno, Boulaye Dia
+
+MATCH: 3607553 | sob., 20.11.2021 | Celta de Vigo
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Vicente Iborra, Dani Parejo, Rubén Peña, Alberto Moreno, Manu Trigueros, Boulaye Dia
+
+MATCH: 3651087 | śr., 20.10.2021 | BSC Young Boys
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Juan Foyth, Étienne Capoue, Francis Coquelin, Dani Parejo, Yéremy Pino, Alfonso Pedraza, Arnaut Danjuma, Gerard Moreno
+
+MATCH: 3611447 | sob., 09.04.2022 | Athletic Bilbao
+PLAYERS: Sergio Asenjo, Aïssa Mandi, Serge Aurier, Alfonso Pedraza, Mario Gaspar, Vicente Iborra, Manu Trigueros, Samuel Chukwueze, Yéremy Pino, Moi Gómez, Paco Alcácer
+
+MATCH: 3700897 | wt., 30.11.2021 | Victoria CF
+PLAYERS: Sergio Asenjo, Aïssa Mandi, Adrián Dela, Pervis Estupiñán, Mario Gaspar, Vicente Iborra, Dani Raba, Rubén Peña, Alberto Moreno, Samuel Chukwueze, Paco Alcácer
+
+MATCH: 3610364 | sob., 19.02.2022 | Granada CF
+PLAYERS: Sergio Asenjo, Pau Torres, Aïssa Mandi, Pervis Estupiñán, Serge Aurier, Vicente Iborra, Dani Parejo, Manu Trigueros, Yéremy Pino, Giovani Lo Celso, Arnaut Danjuma
+
+MATCH: 3610439 | sob., 12.03.2022 | Celta de Vigo
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Serge Aurier, Vicente Iborra, Dani Parejo, Manu Trigueros, Giovani Lo Celso, Samuel Chukwueze, Arnaut Danjuma
+
+MATCH: 3716586 | czw., 06.01.2022 | Sporting Gijón
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Mario Gaspar, Étienne Capoue, Manu Trigueros, Moi Gómez, Alberto Moreno, Dani Raba, Nicolas Jackson
+
+MATCH: 3610379 | niedz., 27.02.2022 | RCD Espanyol
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Serge Aurier, Étienne Capoue, Dani Parejo, Manu Trigueros, Yéremy Pino, Giovani Lo Celso, Arnaut Danjuma
+
+MATCH: 3607538 | sob., 30.10.2021 | Valencia CF
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Serge Aurier, Étienne Capoue, Francis Coquelin, Dani Parejo, Arnaut Danjuma, Yéremy Pino, Moi Gómez
+
+MATCH: 3707326 | śr., 15.12.2021 | Atlético Sanluqueño CF
+PLAYERS: Gerónimo Rulli, Juan Foyth, Aïssa Mandi, Alfonso Pedraza, Rubén Peña, Vicente Iborra, Manu Trigueros, Dani Raba, Moi Gómez, Samuel Chukwueze, Paco Alcácer
+
+MATCH: 3610322 | niedz., 06.02.2022 | Real Betis Balompié
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Alberto Moreno, Samuel Chukwueze, Gerard Moreno, Paco Alcácer
+
+MATCH: 3607550 | niedz., 07.11.2021 | Getafe CF
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Serge Aurier, Étienne Capoue, Dani Parejo, Manu Trigueros, Francis Coquelin, Arnaut Danjuma, Paco Alcácer
+
+MATCH: 3610349 | sob., 12.02.2022 | Real Madryt
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Vicente Iborra, Dani Parejo, Alberto Moreno, Samuel Chukwueze, Giovani Lo Celso, Arnaut Danjuma
+
+MATCH: 3639329 | śr., 11.08.2021 | Chelsea FC
+PLAYERS: Sergio Asenjo, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Manu Trigueros, Alberto Moreno, Yéremy Pino, Gerard Moreno, Boulaye Dia
+
+MATCH: 3605209 | niedz., 19.09.2021 | RCD Mallorca
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Juan Foyth, Francis Coquelin, Étienne Capoue, Manu Trigueros, Arnaut Danjuma, Moi Gómez, Boulaye Dia
+
+MATCH: 3714219 | wt., 22.02.2022 | Juventus Turyn
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alberto Moreno, Juan Foyth, Étienne Capoue, Dani Parejo, Alfonso Pedraza, Giovani Lo Celso, Samuel Chukwueze, Arnaut Danjuma
+
+MATCH: 3611510 | niedz., 22.05.2022 | FC Barcelona
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Mario Gaspar, Étienne Capoue, Dani Parejo, Manu Trigueros, Moi Gómez, Giovani Lo Celso, Paco Alcácer
+
+MATCH: 3607628 | niedz., 09.01.2022 | Atlético Madryt
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Juan Foyth, Étienne Capoue, Dani Parejo, Alberto Moreno, Moi Gómez, Manu Trigueros, Gerard Moreno
+
+MATCH: 3607530 | wt., 26.10.2021 | Cádiz CF
+PLAYERS: Sergio Asenjo, Pau Torres, Aïssa Mandi, Alfonso Pedraza, Mario Gaspar, Vicente Iborra, Dani Parejo, Manu Trigueros, Arnaut Danjuma, Yéremy Pino, Paco Alcácer
+
+MATCH: 3651072 | śr., 29.09.2021 | Manchester United
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alberto Moreno, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Arnaut Danjuma, Yéremy Pino, Paco Alcácer
+
+MATCH: 3610561 | niedz., 20.03.2022 | Cádiz CF
+PLAYERS: Sergio Asenjo, Pau Torres, Aïssa Mandi, Alfonso Pedraza, Mario Gaspar, Vicente Iborra, Dani Parejo, Moi Gómez, Samuel Chukwueze, Giovani Lo Celso, Boulaye Dia
+
+MATCH: 3611469 | sob., 30.04.2022 | Deportivo Alavés
+PLAYERS: Sergio Asenjo, Pau Torres, Aïssa Mandi, Alfonso Pedraza, Serge Aurier, Vicente Iborra, Dani Parejo, Manu Trigueros, Moi Gómez, Samuel Chukwueze, Boulaye Dia
+
+MATCH: 3651111 | wt., 23.11.2021 | Manchester United
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Juan Foyth, Étienne Capoue, Dani Parejo, Moi Gómez, Yéremy Pino, Manu Trigueros, Arnaut Danjuma
+
+MATCH: 3607617 | pon., 03.01.2022 | Levante UD
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Serge Aurier, Vicente Iborra, Manu Trigueros, Moi Gómez, Samuel Chukwueze, Gerard Moreno, Boulaye Dia
+
+MATCH: 3611488 | niedz., 08.05.2022 | Sevilla FC
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Juan Foyth, Étienne Capoue, Dani Parejo, Francis Coquelin, Samuel Chukwueze, Giovani Lo Celso, Boulaye Dia
+
+MATCH: 3651136 | czw., 09.12.2021 | Atalanta BC
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Juan Foyth, Étienne Capoue, Dani Parejo, Moi Gómez, Alberto Moreno, Arnaut Danjuma, Gerard Moreno
+
+MATCH: 3605302 | niedz., 03.10.2021 | Real Betis Balompié
+PLAYERS: Gerónimo Rulli, Pau Torres, Aïssa Mandi, Pervis Estupiñán, Juan Foyth, Étienne Capoue, Francis Coquelin, Dani Parejo, Manu Trigueros, Arnaut Danjuma, Yéremy Pino
+
+MATCH: 3605281 | sob., 25.09.2021 | Real Madryt
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alberto Moreno, Juan Foyth, Étienne Capoue, Francis Coquelin, Dani Parejo, Arnaut Danjuma, Yéremy Pino, Paco Alcácer
+
+MATCH: 3651095 | wt., 02.11.2021 | BSC Young Boys
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Mario Gaspar, Étienne Capoue, Dani Parejo, Francis Coquelin, Yéremy Pino, Arnaut Danjuma, Boulaye Dia
+
+MATCH: 3773446 | śr., 06.04.2022 | Bayern Monachium
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Juan Foyth, Étienne Capoue, Francis Coquelin, Dani Parejo, Giovani Lo Celso, Arnaut Danjuma, Gerard Moreno
+
+MATCH: 3611453 | sob., 16.04.2022 | Getafe CF
+PLAYERS: Gerónimo Rulli, Pau Torres, Aïssa Mandi, Alfonso Pedraza, Serge Aurier, Vicente Iborra, Dani Parejo, Manu Trigueros, Paco Alcácer, Samuel Chukwueze, Gerard Moreno
+
+MATCH: 3610299 | sob., 22.01.2022 | RCD Mallorca
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Mario Gaspar, Vicente Iborra, Dani Parejo, Moi Gómez, Yéremy Pino, Alberto Moreno, Manu Trigueros
+
+MATCH: 3651032 | wt., 14.09.2021 | Atalanta BC
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Yéremy Pino, Gerard Moreno, Boulaye Dia
+
+MATCH: 3773450 | wt., 12.04.2022 | Bayern Monachium
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Juan Foyth, Étienne Capoue, Dani Parejo, Giovani Lo Celso, Francis Coquelin, Arnaut Danjuma, Gerard Moreno
+
+MATCH: 3796967 | śr., 27.04.2022 | FC Liverpool
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Juan Foyth, Étienne Capoue, Dani Parejo, Samuel Chukwueze, Francis Coquelin, Giovani Lo Celso, Arnaut Danjuma
+
+MATCH: 3605054 | sob., 21.08.2021 | RCD Espanyol
+PLAYERS: Gerónimo Rulli, Raúl Albiol, Aïssa Mandi, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Manu Trigueros, Alberto Moreno, Moi Gómez, Gerard Moreno, Boulaye Dia
+
+MATCH: 3605058 | niedz., 29.08.2021 | Atlético Madryt
+PLAYERS: Gerónimo Rulli, Raúl Albiol, Aïssa Mandi, Pervis Estupiñán, Juan Foyth, Étienne Capoue, Manu Trigueros, Alberto Moreno, Yéremy Pino, Gerard Moreno, Boulaye Dia
+
+MATCH: 3610279 | niedz., 16.01.2022 | Elche CF
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Juan Foyth, Étienne Capoue, Dani Parejo, Alberto Moreno, Moi Gómez, Yéremy Pino, Gerard Moreno
+
+MATCH: 3610406 | sob., 05.03.2022 | CA Osasuna
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Serge Aurier, Étienne Capoue, Dani Parejo, Alberto Moreno, Yéremy Pino, Giovani Lo Celso, Arnaut Danjuma
+
+MATCH: 3605203 | wt., 21.12.2021 | Deportivo Alavés
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Samuel Chukwueze, Gerard Moreno, Boulaye Dia
+
+MATCH: 3611468 | wt., 19.04.2022 | Valencia CF
+PLAYERS: Gerónimo Rulli, Raúl Albiol, Aïssa Mandi, Pervis Estupiñán, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Yéremy Pino, Giovani Lo Celso, Arnaut Danjuma
+
+MATCH: 3607578 | sob., 04.12.2021 | Sevilla FC
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Moi Gómez, Yéremy Pino, Manu Trigueros, Paco Alcácer
+
+MATCH: 3610575 | sob., 02.04.2022 | Levante UD
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Yéremy Pino, Arnaut Danjuma, Gerard Moreno
+
+MATCH: 3605223 | śr., 22.09.2021 | Elche CF
+PLAYERS: Sergio Asenjo, Pau Torres, Aïssa Mandi, Alfonso Pedraza, Mario Gaspar, Étienne Capoue, Dani Parejo, Manu Trigueros, Arnaut Danjuma, Yéremy Pino, Paco Alcácer
+
+MATCH: 3611497 | czw., 12.05.2022 | Rayo Vallecano
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Giovani Lo Celso, Samuel Chukwueze, Paco Alcácer
+
+MATCH: 3605322 | sob., 23.10.2021 | Athletic Bilbao
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Juan Foyth, Étienne Capoue, Dani Parejo, Francis Coquelin, Yéremy Pino, Arnaut Danjuma, Gerard Moreno
+
+MATCH: 3605313 | niedz., 17.10.2021 | CA Osasuna
+PLAYERS: Gerónimo Rulli, Pau Torres, Aïssa Mandi, Alberto Moreno, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Arnaut Danjuma, Yéremy Pino, Gerard Moreno
+
+MATCH: 3714227 | śr., 16.03.2022 | Juventus Turyn
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Serge Aurier, Étienne Capoue, Dani Parejo, Manu Trigueros, Giovani Lo Celso, Yéremy Pino, Arnaut Danjuma
+
+MATCH: 3796969 | wt., 03.05.2022 | FC Liverpool
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Juan Foyth, Étienne Capoue, Dani Parejo, Giovani Lo Celso, Francis Coquelin, Gerard Moreno, Boulaye Dia
+
+MATCH: 3611508 | niedz., 15.05.2022 | Real Sociedad
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Juan Foyth, Étienne Capoue, Dani Parejo, Francis Coquelin, Samuel Chukwueze, Giovani Lo Celso, Boulaye Dia
+
+MATCH: 3607570 | sob., 27.11.2021 | FC Barcelona
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Moi Gómez, Yéremy Pino, Manu Trigueros, Arnaut Danjuma
+
+MATCH: 3607606 | sob., 18.12.2021 | Real Sociedad
+PLAYERS: Gerónimo Rulli, Pau Torres, Raúl Albiol, Pervis Estupiñán, Juan Foyth, Étienne Capoue, Dani Parejo, Alberto Moreno, Yéremy Pino, Gerard Moreno, Boulaye Dia
+

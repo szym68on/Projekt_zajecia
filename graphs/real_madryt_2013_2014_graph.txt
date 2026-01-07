@@ -1,0 +1,240 @@
+# Graph for Java/GraphStream
+# Nodes: 23
+# Edges: 234
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Iker Casillas | Pepe | 18 | 24 | 47
+EDGE Iker Casillas | Sergio Ramos | 21 | 24 | 51
+EDGE Iker Casillas | Álvaro Arbeloa | 12 | 24 | 26
+EDGE Iker Casillas | Daniel Carvajal | 13 | 24 | 37
+EDGE Iker Casillas | Sami Khedira | 6 | 24 | 17
+EDGE Iker Casillas | Luka Modrić | 17 | 24 | 45
+EDGE Iker Casillas | Isco | 14 | 24 | 35
+EDGE Iker Casillas | Cristiano Ronaldo | 18 | 24 | 47
+EDGE Iker Casillas | Ángel Di María | 18 | 24 | 43
+EDGE Iker Casillas | Karim Benzema | 17 | 24 | 49
+EDGE Iker Casillas | Fábio Coentrão | 11 | 24 | 18
+EDGE Iker Casillas | Xabi Alonso | 14 | 24 | 36
+EDGE Iker Casillas | Marcelo | 9 | 24 | 32
+EDGE Iker Casillas | Asier Illarramendi | 13 | 24 | 27
+EDGE Iker Casillas | Gareth Bale | 13 | 24 | 36
+EDGE Iker Casillas | Casemiro | 3 | 24 | 4
+EDGE Iker Casillas | Jesé | 8 | 24 | 12
+EDGE Iker Casillas | Raphaël Varane | 6 | 24 | 17
+EDGE Iker Casillas | Nacho Fernández | 6 | 24 | 13
+EDGE Iker Casillas | Álvaro Morata | 3 | 24 | 6
+EDGE Pepe | Sergio Ramos | 38 | 47 | 51
+EDGE Pepe | Álvaro Arbeloa | 19 | 47 | 26
+EDGE Pepe | Daniel Carvajal | 31 | 47 | 37
+EDGE Pepe | Sami Khedira | 12 | 47 | 17
+EDGE Pepe | Luka Modrić | 38 | 47 | 45
+EDGE Pepe | Isco | 24 | 47 | 35
+EDGE Pepe | Cristiano Ronaldo | 37 | 47 | 47
+EDGE Pepe | Ángel Di María | 35 | 47 | 43
+EDGE Pepe | Karim Benzema | 42 | 47 | 49
+EDGE Pepe | Fábio Coentrão | 14 | 47 | 18
+EDGE Pepe | Xabi Alonso | 29 | 47 | 36
+EDGE Pepe | Marcelo | 25 | 47 | 32
+EDGE Pepe | Asier Illarramendi | 19 | 47 | 27
+EDGE Pepe | Gareth Bale | 30 | 47 | 36
+EDGE Pepe | Diego López | 29 | 47 | 36
+EDGE Pepe | Mesut Özil | 2 | 47 | 2
+EDGE Pepe | Nacho Fernández | 7 | 47 | 13
+EDGE Pepe | Casemiro | 2 | 47 | 4
+EDGE Pepe | Jesé | 9 | 47 | 12
+EDGE Pepe | Raphaël Varane | 8 | 47 | 17
+EDGE Pepe | Álvaro Morata | 2 | 47 | 6
+EDGE Sergio Ramos | Álvaro Arbeloa | 21 | 51 | 26
+EDGE Sergio Ramos | Daniel Carvajal | 30 | 51 | 37
+EDGE Sergio Ramos | Sami Khedira | 14 | 51 | 17
+EDGE Sergio Ramos | Luka Modrić | 39 | 51 | 45
+EDGE Sergio Ramos | Isco | 30 | 51 | 35
+EDGE Sergio Ramos | Cristiano Ronaldo | 41 | 51 | 47
+EDGE Sergio Ramos | Ángel Di María | 38 | 51 | 43
+EDGE Sergio Ramos | Karim Benzema | 41 | 51 | 49
+EDGE Sergio Ramos | Fábio Coentrão | 17 | 51 | 18
+EDGE Sergio Ramos | Xabi Alonso | 31 | 51 | 36
+EDGE Sergio Ramos | Marcelo | 28 | 51 | 32
+EDGE Sergio Ramos | Asier Illarramendi | 21 | 51 | 27
+EDGE Sergio Ramos | Gareth Bale | 30 | 51 | 36
+EDGE Sergio Ramos | Diego López | 30 | 51 | 36
+EDGE Sergio Ramos | Mesut Özil | 2 | 51 | 2
+EDGE Sergio Ramos | Casemiro | 3 | 51 | 4
+EDGE Sergio Ramos | Jesé | 10 | 51 | 12
+EDGE Sergio Ramos | Raphaël Varane | 11 | 51 | 17
+EDGE Sergio Ramos | Nacho Fernández | 9 | 51 | 13
+EDGE Sergio Ramos | Álvaro Morata | 5 | 51 | 6
+EDGE Álvaro Arbeloa | Daniel Carvajal | 8 | 26 | 37
+EDGE Álvaro Arbeloa | Sami Khedira | 10 | 26 | 17
+EDGE Álvaro Arbeloa | Luka Modrić | 16 | 26 | 45
+EDGE Álvaro Arbeloa | Isco | 18 | 26 | 35
+EDGE Álvaro Arbeloa | Cristiano Ronaldo | 20 | 26 | 47
+EDGE Álvaro Arbeloa | Ángel Di María | 19 | 26 | 43
+EDGE Álvaro Arbeloa | Karim Benzema | 19 | 26 | 49
+EDGE Álvaro Arbeloa | Marcelo | 11 | 26 | 32
+EDGE Álvaro Arbeloa | Asier Illarramendi | 14 | 26 | 27
+EDGE Álvaro Arbeloa | Diego López | 14 | 26 | 36
+EDGE Álvaro Arbeloa | Mesut Özil | 1 | 26 | 2
+EDGE Álvaro Arbeloa | Nacho Fernández | 7 | 26 | 13
+EDGE Álvaro Arbeloa | Casemiro | 4 | 26 | 4
+EDGE Álvaro Arbeloa | Gareth Bale | 11 | 26 | 36
+EDGE Álvaro Arbeloa | Jesé | 9 | 26 | 12
+EDGE Álvaro Arbeloa | Raphaël Varane | 5 | 26 | 17
+EDGE Álvaro Arbeloa | Xabi Alonso | 12 | 26 | 36
+EDGE Álvaro Arbeloa | Álvaro Morata | 3 | 26 | 6
+EDGE Álvaro Arbeloa | Fábio Coentrão | 7 | 26 | 18
+EDGE Daniel Carvajal | Sami Khedira | 9 | 37 | 17
+EDGE Daniel Carvajal | Luka Modrić | 28 | 37 | 45
+EDGE Daniel Carvajal | Isco | 19 | 37 | 35
+EDGE Daniel Carvajal | Cristiano Ronaldo | 28 | 37 | 47
+EDGE Daniel Carvajal | Ángel Di María | 26 | 37 | 43
+EDGE Daniel Carvajal | Karim Benzema | 32 | 37 | 49
+EDGE Daniel Carvajal | Fábio Coentrão | 8 | 37 | 18
+EDGE Daniel Carvajal | Xabi Alonso | 25 | 37 | 36
+EDGE Daniel Carvajal | Gareth Bale | 27 | 37 | 36
+EDGE Daniel Carvajal | Diego López | 24 | 37 | 36
+EDGE Daniel Carvajal | Nacho Fernández | 5 | 37 | 13
+EDGE Daniel Carvajal | Asier Illarramendi | 16 | 37 | 27
+EDGE Daniel Carvajal | Raphaël Varane | 11 | 37 | 17
+EDGE Daniel Carvajal | Marcelo | 19 | 37 | 32
+EDGE Daniel Carvajal | Mesut Özil | 1 | 37 | 2
+EDGE Daniel Carvajal | Casemiro | 2 | 37 | 4
+EDGE Daniel Carvajal | Jesé | 5 | 37 | 12
+EDGE Daniel Carvajal | Álvaro Morata | 3 | 37 | 6
+EDGE Sami Khedira | Luka Modrić | 12 | 17 | 45
+EDGE Sami Khedira | Isco | 11 | 17 | 35
+EDGE Sami Khedira | Cristiano Ronaldo | 15 | 17 | 47
+EDGE Sami Khedira | Ángel Di María | 12 | 17 | 43
+EDGE Sami Khedira | Karim Benzema | 14 | 17 | 49
+EDGE Sami Khedira | Marcelo | 10 | 17 | 32
+EDGE Sami Khedira | Asier Illarramendi | 7 | 17 | 27
+EDGE Sami Khedira | Diego López | 11 | 17 | 36
+EDGE Sami Khedira | Nacho Fernández | 2 | 17 | 13
+EDGE Sami Khedira | Raphaël Varane | 8 | 17 | 17
+EDGE Sami Khedira | Gareth Bale | 6 | 17 | 36
+EDGE Sami Khedira | Xabi Alonso | 3 | 17 | 36
+EDGE Sami Khedira | Fábio Coentrão | 4 | 17 | 18
+EDGE Sami Khedira | Casemiro | 1 | 17 | 4
+EDGE Sami Khedira | Álvaro Morata | 2 | 17 | 6
+EDGE Sami Khedira | Mesut Özil | 1 | 17 | 2
+EDGE Luka Modrić | Isco | 22 | 45 | 35
+EDGE Luka Modrić | Cristiano Ronaldo | 37 | 45 | 47
+EDGE Luka Modrić | Ángel Di María | 32 | 45 | 43
+EDGE Luka Modrić | Karim Benzema | 41 | 45 | 49
+EDGE Luka Modrić | Fábio Coentrão | 13 | 45 | 18
+EDGE Luka Modrić | Xabi Alonso | 29 | 45 | 36
+EDGE Luka Modrić | Marcelo | 27 | 45 | 32
+EDGE Luka Modrić | Asier Illarramendi | 12 | 45 | 27
+EDGE Luka Modrić | Gareth Bale | 29 | 45 | 36
+EDGE Luka Modrić | Diego López | 28 | 45 | 36
+EDGE Luka Modrić | Mesut Özil | 2 | 45 | 2
+EDGE Luka Modrić | Raphaël Varane | 12 | 45 | 17
+EDGE Luka Modrić | Nacho Fernández | 8 | 45 | 13
+EDGE Luka Modrić | Casemiro | 1 | 45 | 4
+EDGE Luka Modrić | Álvaro Morata | 2 | 45 | 6
+EDGE Luka Modrić | Jesé | 5 | 45 | 12
+EDGE Isco | Cristiano Ronaldo | 26 | 35 | 47
+EDGE Isco | Ángel Di María | 22 | 35 | 43
+EDGE Isco | Karim Benzema | 25 | 35 | 49
+EDGE Isco | Fábio Coentrão | 11 | 35 | 18
+EDGE Isco | Xabi Alonso | 18 | 35 | 36
+EDGE Isco | Gareth Bale | 15 | 35 | 36
+EDGE Isco | Diego López | 21 | 35 | 36
+EDGE Isco | Marcelo | 16 | 35 | 32
+EDGE Isco | Mesut Özil | 2 | 35 | 2
+EDGE Isco | Nacho Fernández | 13 | 35 | 13
+EDGE Isco | Asier Illarramendi | 18 | 35 | 27
+EDGE Isco | Casemiro | 4 | 35 | 4
+EDGE Isco | Jesé | 6 | 35 | 12
+EDGE Isco | Raphaël Varane | 9 | 35 | 17
+EDGE Isco | Álvaro Morata | 6 | 35 | 6
+EDGE Cristiano Ronaldo | Ángel Di María | 32 | 47 | 43
+EDGE Cristiano Ronaldo | Karim Benzema | 40 | 47 | 49
+EDGE Cristiano Ronaldo | Fábio Coentrão | 15 | 47 | 18
+EDGE Cristiano Ronaldo | Xabi Alonso | 29 | 47 | 36
+EDGE Cristiano Ronaldo | Marcelo | 26 | 47 | 32
+EDGE Cristiano Ronaldo | Asier Illarramendi | 18 | 47 | 27
+EDGE Cristiano Ronaldo | Diego López | 29 | 47 | 36
+EDGE Cristiano Ronaldo | Mesut Özil | 2 | 47 | 2
+EDGE Cristiano Ronaldo | Nacho Fernández | 8 | 47 | 13
+EDGE Cristiano Ronaldo | Raphaël Varane | 14 | 47 | 17
+EDGE Cristiano Ronaldo | Gareth Bale | 26 | 47 | 36
+EDGE Cristiano Ronaldo | Jesé | 6 | 47 | 12
+EDGE Cristiano Ronaldo | Álvaro Morata | 3 | 47 | 6
+EDGE Ángel Di María | Karim Benzema | 35 | 43 | 49
+EDGE Ángel Di María | Fábio Coentrão | 16 | 43 | 18
+EDGE Ángel Di María | Xabi Alonso | 23 | 43 | 36
+EDGE Ángel Di María | Marcelo | 22 | 43 | 32
+EDGE Ángel Di María | Asier Illarramendi | 18 | 43 | 27
+EDGE Ángel Di María | Gareth Bale | 22 | 43 | 36
+EDGE Ángel Di María | Diego López | 25 | 43 | 36
+EDGE Ángel Di María | Mesut Özil | 1 | 43 | 2
+EDGE Ángel Di María | Nacho Fernández | 8 | 43 | 13
+EDGE Ángel Di María | Casemiro | 3 | 43 | 4
+EDGE Ángel Di María | Jesé | 10 | 43 | 12
+EDGE Ángel Di María | Raphaël Varane | 9 | 43 | 17
+EDGE Ángel Di María | Álvaro Morata | 4 | 43 | 6
+EDGE Karim Benzema | Fábio Coentrão | 15 | 49 | 18
+EDGE Karim Benzema | Xabi Alonso | 31 | 49 | 36
+EDGE Karim Benzema | Marcelo | 27 | 49 | 32
+EDGE Karim Benzema | Asier Illarramendi | 18 | 49 | 27
+EDGE Karim Benzema | Gareth Bale | 33 | 49 | 36
+EDGE Karim Benzema | Diego López | 32 | 49 | 36
+EDGE Karim Benzema | Mesut Özil | 2 | 49 | 2
+EDGE Karim Benzema | Nacho Fernández | 7 | 49 | 13
+EDGE Karim Benzema | Raphaël Varane | 13 | 49 | 17
+EDGE Karim Benzema | Jesé | 6 | 49 | 12
+EDGE Fábio Coentrão | Xabi Alonso | 13 | 18 | 36
+EDGE Fábio Coentrão | Gareth Bale | 9 | 18 | 36
+EDGE Fábio Coentrão | Raphaël Varane | 4 | 18 | 17
+EDGE Fábio Coentrão | Diego López | 7 | 18 | 36
+EDGE Fábio Coentrão | Asier Illarramendi | 7 | 18 | 27
+EDGE Fábio Coentrão | Jesé | 4 | 18 | 12
+EDGE Fábio Coentrão | Nacho Fernández | 4 | 18 | 13
+EDGE Fábio Coentrão | Álvaro Morata | 1 | 18 | 6
+EDGE Xabi Alonso | Gareth Bale | 26 | 36 | 36
+EDGE Xabi Alonso | Diego López | 22 | 36 | 36
+EDGE Xabi Alonso | Marcelo | 18 | 36 | 32
+EDGE Xabi Alonso | Raphaël Varane | 9 | 36 | 17
+EDGE Xabi Alonso | Asier Illarramendi | 11 | 36 | 27
+EDGE Xabi Alonso | Nacho Fernández | 7 | 36 | 13
+EDGE Xabi Alonso | Casemiro | 1 | 36 | 4
+EDGE Xabi Alonso | Álvaro Morata | 2 | 36 | 6
+EDGE Xabi Alonso | Jesé | 7 | 36 | 12
+EDGE Marcelo | Asier Illarramendi | 12 | 32 | 27
+EDGE Marcelo | Diego López | 23 | 32 | 36
+EDGE Marcelo | Mesut Özil | 2 | 32 | 2
+EDGE Marcelo | Casemiro | 2 | 32 | 4
+EDGE Marcelo | Gareth Bale | 21 | 32 | 36
+EDGE Marcelo | Jesé | 5 | 32 | 12
+EDGE Marcelo | Raphaël Varane | 10 | 32 | 17
+EDGE Marcelo | Nacho Fernández | 4 | 32 | 13
+EDGE Marcelo | Álvaro Morata | 3 | 32 | 6
+EDGE Asier Illarramendi | Diego López | 14 | 27 | 36
+EDGE Asier Illarramendi | Nacho Fernández | 9 | 27 | 13
+EDGE Asier Illarramendi | Casemiro | 3 | 27 | 4
+EDGE Asier Illarramendi | Gareth Bale | 16 | 27 | 36
+EDGE Asier Illarramendi | Jesé | 9 | 27 | 12
+EDGE Asier Illarramendi | Raphaël Varane | 10 | 27 | 17
+EDGE Asier Illarramendi | Álvaro Morata | 5 | 27 | 6
+EDGE Gareth Bale | Casemiro | 1 | 36 | 4
+EDGE Gareth Bale | Jesé | 5 | 36 | 12
+EDGE Gareth Bale | Diego López | 23 | 36 | 36
+EDGE Gareth Bale | Raphaël Varane | 13 | 36 | 17
+EDGE Gareth Bale | Nacho Fernández | 4 | 36 | 13
+EDGE Diego López | Mesut Özil | 2 | 36 | 2
+EDGE Diego López | Nacho Fernández | 7 | 36 | 13
+EDGE Diego López | Raphaël Varane | 11 | 36 | 17
+EDGE Diego López | Casemiro | 1 | 36 | 4
+EDGE Diego López | Álvaro Morata | 3 | 36 | 6
+EDGE Diego López | Jesé | 4 | 36 | 12
+EDGE Nacho Fernández | Casemiro | 3 | 13 | 4
+EDGE Nacho Fernández | Álvaro Morata | 5 | 13 | 6
+EDGE Nacho Fernández | Raphaël Varane | 3 | 13 | 17
+EDGE Nacho Fernández | Jesé | 4 | 13 | 12
+EDGE Casemiro | Jesé | 3 | 4 | 12
+EDGE Casemiro | Álvaro Morata | 3 | 4 | 6
+EDGE Jesé | Raphaël Varane | 2 | 12 | 17
+EDGE Jesé | Álvaro Morata | 3 | 12 | 6
+EDGE Raphaël Varane | Álvaro Morata | 2 | 17 | 6

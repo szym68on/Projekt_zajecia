@@ -1,0 +1,181 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 1036224 | niedz., 19.12.2010 | Sevilla FC
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Álvaro Arbeloa, Sergio Ramos, Lassana Diarra, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1088514 | śr., 13.04.2011 | Tottenham Hotspur
+PLAYERS: Iker Casillas, Ricardo Carvalho, Raúl Albiol, Álvaro Arbeloa, Sergio Ramos, Xabi Alonso, Sami Khedira, Marcelo, Mesut Özil, Cristiano Ronaldo, Emmanuel Adebayor
+
+MATCH: 1036076 | sob., 11.09.2010 | CA Osasuna
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Karim Benzema, Gonzalo Higuaín
+
+MATCH: 1093390 | wt., 03.05.2011 | FC Barcelona
+PLAYERS: Iker Casillas, Ricardo Carvalho, Raúl Albiol, Marcelo, Álvaro Arbeloa, Lassana Diarra, Xabi Alonso, Kaká, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1036120 | niedz., 03.10.2010 | Deportivo de La Coruña
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1036292 | niedz., 13.02.2011 | RCD Espanyol
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Álvaro Arbeloa, Sami Khedira, Xabi Alonso, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Emmanuel Adebayor
+
+MATCH: 1036385 | sob., 16.04.2011 | FC Barcelona
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Raúl Albiol, Xabi Alonso, Sami Khedira, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1036402 | sob., 30.04.2011 | Real Zaragoza
+PLAYERS: Iker Casillas, Ricardo Carvalho, Ezequiel Garay, Nacho Fernández, Sergio Ramos, Pepe, Esteban Granero, Sergio Canales, Kaká, Karim Benzema, Gonzalo Higuaín
+
+MATCH: 1036276 | niedz., 30.01.2011 | CA Osasuna
+PLAYERS: Iker Casillas, Ricardo Carvalho, Raúl Albiol, Álvaro Arbeloa, Sergio Ramos, Lassana Diarra, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1036357 | sob., 19.03.2011 | Atlético Madryt
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Lassana Diarra, Sami Khedira, Cristiano Ronaldo, Mesut Özil, Karim Benzema
+
+MATCH: 1036263 | niedz., 23.01.2011 | RCD Mallorca
+PLAYERS: Iker Casillas, Ricardo Carvalho, Sergio Ramos, Marcelo, Álvaro Arbeloa, Fernando Gago, Esteban Granero, Kaká, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1036090 | sob., 18.09.2010 | Real Sociedad
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Sami Khedira, Mesut Özil, Ángel Di María, Cristiano Ronaldo, Gonzalo Higuaín
+
+MATCH: 1055145 | wt., 26.10.2010 | Real Murcia CF
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Álvaro Arbeloa, Sergio Ramos, Mahamadou Diarra, Esteban Granero, Sergio Canales, Cristiano Ronaldo, Pedro León, Karim Benzema
+
+MATCH: 1036157 | sob., 30.10.2010 | Hércules CF
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1064193 | śr., 22.12.2010 | Levante UD
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Marcelo, Lassana Diarra, Xabi Alonso, Esteban Granero, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1036148 | sob., 23.10.2010 | Racing Santander
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1050089 | wt., 28.09.2010 | AJ Auxerre
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Lassana Diarra, Sami Khedira, Cristiano Ronaldo, Karim Benzema, Gonzalo Higuaín
+
+MATCH: 1036205 | sob., 04.12.2010 | Valencia CF
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Marcelo, Álvaro Arbeloa, Xabi Alonso, Lassana Diarra, Sami Khedira, Mesut Özil, Ángel Di María, Cristiano Ronaldo
+
+MATCH: 1036212 | niedz., 12.12.2010 | Real Zaragoza
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Álvaro Arbeloa, Lassana Diarra, Xabi Alonso, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1036328 | czw., 03.03.2011 | Málaga CF
+PLAYERS: Iker Casillas, Ricardo Carvalho, Raúl Albiol, Marcelo, Sergio Ramos, Lassana Diarra, Xabi Alonso, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1074399 | śr., 26.01.2011 | Sevilla FC
+PLAYERS: Iker Casillas, Ricardo Carvalho, Raúl Albiol, Álvaro Arbeloa, Sergio Ramos, Xabi Alonso, Lassana Diarra, Sami Khedira, Cristiano Ronaldo, Mesut Özil, Karim Benzema
+
+MATCH: 1036233 | pon., 03.01.2011 | Getafe CF
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Lassana Diarra, Xabi Alonso, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1036433 | niedz., 15.05.2011 | Villarreal CF
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Sergio Ramos, Xabi Alonso, Esteban Granero, Álvaro Arbeloa, Marcelo, Kaká, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 1072027 | czw., 13.01.2011 | Atlético Madryt
+PLAYERS: Iker Casillas, Ricardo Carvalho, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1036107 | sob., 25.09.2010 | Levante UD
+PLAYERS: Iker Casillas, Ricardo Carvalho, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1050104 | wt., 19.10.2010 | AC Milan
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1036042 | niedz., 29.08.2010 | RCD Mallorca
+PLAYERS: Iker Casillas, Ricardo Carvalho, Sergio Ramos, Marcelo, Álvaro Arbeloa, Lassana Diarra, Xabi Alonso, Sergio Canales, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1036243 | niedz., 09.01.2011 | Villarreal CF
+PLAYERS: Iker Casillas, Ricardo Carvalho, Raúl Albiol, Marcelo, Sergio Ramos, Lassana Diarra, Xabi Alonso, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1076632 | śr., 20.04.2011 | FC Barcelona
+PLAYERS: Iker Casillas, Ricardo Carvalho, Sergio Ramos, Marcelo, Álvaro Arbeloa, Pepe, Xabi Alonso, Sami Khedira, Ángel Di María, Mesut Özil, Cristiano Ronaldo
+
+MATCH: 1036092 | wt., 21.09.2010 | RCD Espanyol
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Lassana Diarra, Xabi Alonso, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1036395 | sob., 23.04.2011 | Valencia CF
+PLAYERS: Iker Casillas, Ricardo Carvalho, Ezequiel Garay, Nacho Fernández, Raúl Albiol, Lassana Diarra, Esteban Granero, Sergio Canales, Kaká, Karim Benzema, Gonzalo Higuaín
+
+MATCH: 1069435 | wt., 22.02.2011 | Olympique Lyon
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Álvaro Arbeloa, Sergio Ramos, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Emmanuel Adebayor
+
+MATCH: 1036307 | sob., 19.02.2011 | Levante UD
+PLAYERS: Antonio Adán, Ricardo Carvalho, Raúl Albiol, Marcelo, Sergio Ramos, Lassana Diarra, Sami Khedira, Kaká, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1036347 | sob., 12.03.2011 | Hércules CF
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Lassana Diarra, Esteban Granero, Ángel Di María, Karim Benzema, Mesut Özil, Emmanuel Adebayor
+
+MATCH: 1050162 | śr., 08.12.2010 | AJ Auxerre
+PLAYERS: Jerzy Dudek, Ricardo Carvalho, Raúl Albiol, Marcelo, Álvaro Arbeloa, Mahamadou Diarra, Lassana Diarra, Pedro León, Esteban Granero, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 1036167 | niedz., 07.11.2010 | Atlético Madryt
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1036414 | sob., 07.05.2011 | Sevilla FC
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Lassana Diarra, Xabi Alonso, Mesut Özil, Cristiano Ronaldo, Kaká, Karim Benzema
+
+MATCH: 1036443 | sob., 21.05.2011 | UD Almería
+PLAYERS: Jerzy Dudek, Pepe, Sergio Ramos, Álvaro Arbeloa, Raúl Albiol, Xabi Alonso, Mesut Özil, Kaká, Cristiano Ronaldo, Karim Benzema, Emmanuel Adebayor
+
+MATCH: 1088510 | wt., 05.04.2011 | Tottenham Hotspur
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Emmanuel Adebayor
+
+MATCH: 1050080 | śr., 15.09.2010 | Ajax Amsterdam
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1036320 | sob., 26.02.2011 | Deportivo de La Coruña
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Lassana Diarra, Xabi Alonso, Mesut Özil, Cristiano Ronaldo, Kaká, Karim Benzema
+
+MATCH: 1074401 | śr., 02.02.2011 | Sevilla FC
+PLAYERS: Iker Casillas, Ricardo Carvalho, Raúl Albiol, Álvaro Arbeloa, Sergio Ramos, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1050129 | śr., 03.11.2010 | AC Milan
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1036175 | niedz., 14.11.2010 | Sporting Gijón
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1083674 | śr., 16.03.2011 | Olympique Lyon
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1036256 | niedz., 16.01.2011 | UD Almería
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Kaká, Ángel Di María, Cristiano Ronaldo
+
+MATCH: 1036138 | sob., 16.10.2010 | Málaga CF
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1036376 | sob., 09.04.2011 | Athletic Bilbao
+PLAYERS: Iker Casillas, Raúl Albiol, Ezequiel Garay, Álvaro Arbeloa, Sergio Ramos, Pepe, Lassana Diarra, Esteban Granero, Kaká, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1072031 | czw., 20.01.2011 | Atlético Madryt
+PLAYERS: Iker Casillas, Ricardo Carvalho, Raúl Albiol, Álvaro Arbeloa, Sergio Ramos, Xabi Alonso, Sami Khedira, Marcelo, Mesut Özil, Ángel Di María, Cristiano Ronaldo
+
+MATCH: 1036195 | pon., 29.11.2010 | FC Barcelona
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 1036365 | sob., 02.04.2011 | Sporting Gijón
+PLAYERS: Iker Casillas, Ricardo Carvalho, Sergio Ramos, Álvaro Arbeloa, Raúl Albiol, Lassana Diarra, Sami Khedira, Esteban Granero, Ángel Di María, Mesut Özil, Emmanuel Adebayor
+
+MATCH: 1036290 | niedz., 06.02.2011 | Real Sociedad
+PLAYERS: Iker Casillas, Ricardo Carvalho, Ezequiel Garay, Marcelo, Álvaro Arbeloa, Lassana Diarra, Xabi Alonso, Kaká, Cristiano Ronaldo, Mesut Özil, Emmanuel Adebayor
+
+MATCH: 1036423 | wt., 10.05.2011 | Getafe CF
+PLAYERS: Antonio Adán, Ricardo Carvalho, Pepe, Marcelo, Álvaro Arbeloa, Lassana Diarra, Xabi Alonso, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1050138 | wt., 23.11.2010 | Ajax Amsterdam
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Lassana Diarra, Xabi Alonso, Pedro León, Mesut Özil, Cristiano Ronaldo, Karim Benzema
+
+MATCH: 1093389 | śr., 27.04.2011 | FC Barcelona
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Pepe, Lassana Diarra, Xabi Alonso, Ángel Di María, Mesut Özil, Cristiano Ronaldo
+
+MATCH: 1036186 | sob., 20.11.2010 | Athletic Bilbao
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 1055161 | śr., 10.11.2010 | Real Murcia CF
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Mahamadou Diarra, Esteban Granero, Sergio Canales, Gonzalo Higuaín, Pedro León, Karim Benzema
+
+MATCH: 1036338 | niedz., 06.03.2011 | Racing Santander
+PLAYERS: Iker Casillas, Ricardo Carvalho, Pepe, Marcelo, Sergio Ramos, Xabi Alonso, Esteban Granero, Mesut Özil, Ángel Di María, Karim Benzema, Emmanuel Adebayor
+
+MATCH: 1064209 | czw., 06.01.2011 | Levante UD
+PLAYERS: Antonio Adán, Ricardo Carvalho, Ezequiel Garay, Álvaro Arbeloa, David Mateos, Sami Khedira, Fernando Gago, Esteban Granero, Sergio Canales, Pedro León, Karim Benzema
+

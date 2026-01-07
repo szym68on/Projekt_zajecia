@@ -1,0 +1,249 @@
+# Graph for Java/GraphStream
+# Nodes: 24
+# Edges: 243
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Jan Oblak | José María Giménez | 25 | 38 | 33
+EDGE Jan Oblak | Stefan Savic | 27 | 38 | 29
+EDGE Jan Oblak | Reinildo Mandava | 28 | 38 | 31
+EDGE Jan Oblak | Yannick Carrasco | 23 | 38 | 31
+EDGE Jan Oblak | Nahuel Molina | 32 | 38 | 43
+EDGE Jan Oblak | Axel Witsel | 22 | 38 | 33
+EDGE Jan Oblak | Koke | 29 | 38 | 38
+EDGE Jan Oblak | Antoine Griezmann | 30 | 38 | 39
+EDGE Jan Oblak | Ángel Correa | 15 | 38 | 18
+EDGE Jan Oblak | Matheus Cunha | 2 | 38 | 2
+EDGE Jan Oblak | Mario Hermoso | 21 | 38 | 31
+EDGE Jan Oblak | Marcos Llorente | 27 | 38 | 28
+EDGE Jan Oblak | Thomas Lemar | 15 | 38 | 21
+EDGE Jan Oblak | Álvaro Morata | 23 | 38 | 31
+EDGE Jan Oblak | Pablo Barrios | 7 | 38 | 8
+EDGE Jan Oblak | Felipe | 2 | 38 | 3
+EDGE Jan Oblak | Rodrigo De Paul | 18 | 38 | 27
+EDGE Jan Oblak | Saúl Ñíguez | 10 | 38 | 15
+EDGE Jan Oblak | João Félix | 10 | 38 | 11
+EDGE Jan Oblak | Geoffrey Kondogbia | 11 | 38 | 13
+EDGE Jan Oblak | Memphis Depay | 3 | 38 | 3
+EDGE José María Giménez | Stefan Savic | 18 | 33 | 29
+EDGE José María Giménez | Reinildo Mandava | 16 | 33 | 31
+EDGE José María Giménez | Yannick Carrasco | 25 | 33 | 31
+EDGE José María Giménez | Nahuel Molina | 28 | 33 | 43
+EDGE José María Giménez | Axel Witsel | 22 | 33 | 33
+EDGE José María Giménez | Koke | 26 | 33 | 38
+EDGE José María Giménez | Antoine Griezmann | 28 | 33 | 39
+EDGE José María Giménez | Ángel Correa | 10 | 33 | 18
+EDGE José María Giménez | Matheus Cunha | 2 | 33 | 2
+EDGE José María Giménez | Mario Hermoso | 20 | 33 | 31
+EDGE José María Giménez | Pablo Barrios | 4 | 33 | 8
+EDGE José María Giménez | Marcos Llorente | 17 | 33 | 28
+EDGE José María Giménez | Thomas Lemar | 14 | 33 | 21
+EDGE José María Giménez | Álvaro Morata | 20 | 33 | 31
+EDGE José María Giménez | Ivo Grbic | 8 | 33 | 11
+EDGE José María Giménez | Rodrigo De Paul | 19 | 33 | 27
+EDGE José María Giménez | Saúl Ñíguez | 10 | 33 | 15
+EDGE José María Giménez | João Félix | 6 | 33 | 11
+EDGE José María Giménez | Geoffrey Kondogbia | 8 | 33 | 13
+EDGE José María Giménez | Memphis Depay | 3 | 33 | 3
+EDGE José María Giménez | Sergio Reguilón | 1 | 33 | 2
+EDGE Stefan Savic | Reinildo Mandava | 20 | 29 | 31
+EDGE Stefan Savic | Yannick Carrasco | 16 | 29 | 31
+EDGE Stefan Savic | Nahuel Molina | 26 | 29 | 43
+EDGE Stefan Savic | Axel Witsel | 15 | 29 | 33
+EDGE Stefan Savic | Koke | 20 | 29 | 38
+EDGE Stefan Savic | Antoine Griezmann | 24 | 29 | 39
+EDGE Stefan Savic | Ángel Correa | 10 | 29 | 18
+EDGE Stefan Savic | Matheus Cunha | 2 | 29 | 2
+EDGE Stefan Savic | Mario Hermoso | 15 | 29 | 31
+EDGE Stefan Savic | Pablo Barrios | 7 | 29 | 8
+EDGE Stefan Savic | Marcos Llorente | 18 | 29 | 28
+EDGE Stefan Savic | Thomas Lemar | 12 | 29 | 21
+EDGE Stefan Savic | Álvaro Morata | 18 | 29 | 31
+EDGE Stefan Savic | Felipe | 1 | 29 | 3
+EDGE Stefan Savic | Rodrigo De Paul | 13 | 29 | 27
+EDGE Stefan Savic | Saúl Ñíguez | 8 | 29 | 15
+EDGE Stefan Savic | João Félix | 6 | 29 | 11
+EDGE Stefan Savic | Geoffrey Kondogbia | 8 | 29 | 13
+EDGE Stefan Savic | Memphis Depay | 3 | 29 | 3
+EDGE Stefan Savic | Ivo Grbic | 2 | 29 | 11
+EDGE Stefan Savic | Sergio Reguilón | 1 | 29 | 2
+EDGE Reinildo Mandava | Yannick Carrasco | 14 | 31 | 31
+EDGE Reinildo Mandava | Nahuel Molina | 28 | 31 | 43
+EDGE Reinildo Mandava | Axel Witsel | 20 | 31 | 33
+EDGE Reinildo Mandava | Koke | 22 | 31 | 38
+EDGE Reinildo Mandava | Antoine Griezmann | 22 | 31 | 39
+EDGE Reinildo Mandava | Ángel Correa | 14 | 31 | 18
+EDGE Reinildo Mandava | Matheus Cunha | 2 | 31 | 2
+EDGE Reinildo Mandava | Mario Hermoso | 13 | 31 | 31
+EDGE Reinildo Mandava | Marcos Llorente | 19 | 31 | 28
+EDGE Reinildo Mandava | Thomas Lemar | 11 | 31 | 21
+EDGE Reinildo Mandava | Álvaro Morata | 21 | 31 | 31
+EDGE Reinildo Mandava | Felipe | 3 | 31 | 3
+EDGE Reinildo Mandava | Rodrigo De Paul | 16 | 31 | 27
+EDGE Reinildo Mandava | Ivo Grbic | 3 | 31 | 11
+EDGE Reinildo Mandava | Saúl Ñíguez | 11 | 31 | 15
+EDGE Reinildo Mandava | João Félix | 10 | 31 | 11
+EDGE Reinildo Mandava | Pablo Barrios | 5 | 31 | 8
+EDGE Reinildo Mandava | Geoffrey Kondogbia | 12 | 31 | 13
+EDGE Yannick Carrasco | Nahuel Molina | 26 | 31 | 43
+EDGE Yannick Carrasco | Axel Witsel | 22 | 31 | 33
+EDGE Yannick Carrasco | Koke | 24 | 31 | 38
+EDGE Yannick Carrasco | Antoine Griezmann | 25 | 31 | 39
+EDGE Yannick Carrasco | Ángel Correa | 8 | 31 | 18
+EDGE Yannick Carrasco | Matheus Cunha | 1 | 31 | 2
+EDGE Yannick Carrasco | Mario Hermoso | 21 | 31 | 31
+EDGE Yannick Carrasco | Pablo Barrios | 4 | 31 | 8
+EDGE Yannick Carrasco | Marcos Llorente | 19 | 31 | 28
+EDGE Yannick Carrasco | Thomas Lemar | 12 | 31 | 21
+EDGE Yannick Carrasco | Álvaro Morata | 19 | 31 | 31
+EDGE Yannick Carrasco | Ivo Grbic | 8 | 31 | 11
+EDGE Yannick Carrasco | Rodrigo De Paul | 18 | 31 | 27
+EDGE Yannick Carrasco | Felipe | 2 | 31 | 3
+EDGE Yannick Carrasco | João Félix | 6 | 31 | 11
+EDGE Yannick Carrasco | Memphis Depay | 3 | 31 | 3
+EDGE Yannick Carrasco | Saúl Ñíguez | 7 | 31 | 15
+EDGE Yannick Carrasco | Geoffrey Kondogbia | 6 | 31 | 13
+EDGE Yannick Carrasco | Sergio Reguilón | 1 | 31 | 2
+EDGE Nahuel Molina | Axel Witsel | 28 | 43 | 33
+EDGE Nahuel Molina | Koke | 33 | 43 | 38
+EDGE Nahuel Molina | Antoine Griezmann | 36 | 43 | 39
+EDGE Nahuel Molina | Ángel Correa | 18 | 43 | 18
+EDGE Nahuel Molina | Matheus Cunha | 2 | 43 | 2
+EDGE Nahuel Molina | Mario Hermoso | 28 | 43 | 31
+EDGE Nahuel Molina | Marcos Llorente | 22 | 43 | 28
+EDGE Nahuel Molina | Thomas Lemar | 19 | 43 | 21
+EDGE Nahuel Molina | Álvaro Morata | 27 | 43 | 31
+EDGE Nahuel Molina | Ivo Grbic | 11 | 43 | 11
+EDGE Nahuel Molina | Rodrigo De Paul | 24 | 43 | 27
+EDGE Nahuel Molina | Felipe | 2 | 43 | 3
+EDGE Nahuel Molina | Saúl Ñíguez | 13 | 43 | 15
+EDGE Nahuel Molina | João Félix | 7 | 43 | 11
+EDGE Nahuel Molina | Pablo Barrios | 6 | 43 | 8
+EDGE Nahuel Molina | Geoffrey Kondogbia | 10 | 43 | 13
+EDGE Nahuel Molina | Memphis Depay | 2 | 43 | 3
+EDGE Nahuel Molina | Sergio Reguilón | 2 | 43 | 2
+EDGE Axel Witsel | Koke | 25 | 33 | 38
+EDGE Axel Witsel | Antoine Griezmann | 23 | 33 | 39
+EDGE Axel Witsel | Ángel Correa | 13 | 33 | 18
+EDGE Axel Witsel | Matheus Cunha | 2 | 33 | 2
+EDGE Axel Witsel | Mario Hermoso | 19 | 33 | 31
+EDGE Axel Witsel | Marcos Llorente | 17 | 33 | 28
+EDGE Axel Witsel | Thomas Lemar | 14 | 33 | 21
+EDGE Axel Witsel | Álvaro Morata | 22 | 33 | 31
+EDGE Axel Witsel | Pablo Barrios | 2 | 33 | 8
+EDGE Axel Witsel | Ivo Grbic | 11 | 33 | 11
+EDGE Axel Witsel | Rodrigo De Paul | 17 | 33 | 27
+EDGE Axel Witsel | Felipe | 3 | 33 | 3
+EDGE Axel Witsel | Saúl Ñíguez | 13 | 33 | 15
+EDGE Axel Witsel | João Félix | 9 | 33 | 11
+EDGE Axel Witsel | Geoffrey Kondogbia | 8 | 33 | 13
+EDGE Axel Witsel | Memphis Depay | 1 | 33 | 3
+EDGE Axel Witsel | Sergio Reguilón | 2 | 33 | 2
+EDGE Koke | Antoine Griezmann | 30 | 38 | 39
+EDGE Koke | Ángel Correa | 12 | 38 | 18
+EDGE Koke | Matheus Cunha | 2 | 38 | 2
+EDGE Koke | Mario Hermoso | 26 | 38 | 31
+EDGE Koke | Marcos Llorente | 24 | 38 | 28
+EDGE Koke | Thomas Lemar | 18 | 38 | 21
+EDGE Koke | Álvaro Morata | 22 | 38 | 31
+EDGE Koke | Pablo Barrios | 6 | 38 | 8
+EDGE Koke | Ivo Grbic | 9 | 38 | 11
+EDGE Koke | Rodrigo De Paul | 19 | 38 | 27
+EDGE Koke | Felipe | 2 | 38 | 3
+EDGE Koke | Saúl Ñíguez | 12 | 38 | 15
+EDGE Koke | João Félix | 9 | 38 | 11
+EDGE Koke | Geoffrey Kondogbia | 5 | 38 | 13
+EDGE Koke | Memphis Depay | 3 | 38 | 3
+EDGE Koke | Sergio Reguilón | 2 | 38 | 2
+EDGE Antoine Griezmann | Ángel Correa | 16 | 39 | 18
+EDGE Antoine Griezmann | Matheus Cunha | 1 | 39 | 2
+EDGE Antoine Griezmann | Mario Hermoso | 28 | 39 | 31
+EDGE Antoine Griezmann | Marcos Llorente | 20 | 39 | 28
+EDGE Antoine Griezmann | Thomas Lemar | 17 | 39 | 21
+EDGE Antoine Griezmann | Álvaro Morata | 21 | 39 | 31
+EDGE Antoine Griezmann | Ivo Grbic | 9 | 39 | 11
+EDGE Antoine Griezmann | Rodrigo De Paul | 23 | 39 | 27
+EDGE Antoine Griezmann | Felipe | 2 | 39 | 3
+EDGE Antoine Griezmann | Saúl Ñíguez | 8 | 39 | 15
+EDGE Antoine Griezmann | João Félix | 5 | 39 | 11
+EDGE Antoine Griezmann | Pablo Barrios | 7 | 39 | 8
+EDGE Antoine Griezmann | Geoffrey Kondogbia | 10 | 39 | 13
+EDGE Antoine Griezmann | Memphis Depay | 3 | 39 | 3
+EDGE Antoine Griezmann | Sergio Reguilón | 2 | 39 | 2
+EDGE Ángel Correa | Matheus Cunha | 1 | 18 | 2
+EDGE Ángel Correa | Mario Hermoso | 13 | 18 | 31
+EDGE Ángel Correa | Marcos Llorente | 5 | 18 | 28
+EDGE Ángel Correa | Thomas Lemar | 8 | 18 | 21
+EDGE Ángel Correa | Álvaro Morata | 7 | 18 | 31
+EDGE Ángel Correa | Rodrigo De Paul | 10 | 18 | 27
+EDGE Ángel Correa | Saúl Ñíguez | 6 | 18 | 15
+EDGE Ángel Correa | João Félix | 2 | 18 | 11
+EDGE Ángel Correa | Geoffrey Kondogbia | 6 | 18 | 13
+EDGE Ángel Correa | Ivo Grbic | 3 | 18 | 11
+EDGE Ángel Correa | Sergio Reguilón | 1 | 18 | 2
+EDGE Ángel Correa | Pablo Barrios | 2 | 18 | 8
+EDGE Matheus Cunha | Saúl Ñíguez | 1 | 2 | 15
+EDGE Matheus Cunha | Marcos Llorente | 1 | 2 | 28
+EDGE Matheus Cunha | Álvaro Morata | 1 | 2 | 31
+EDGE Mario Hermoso | Marcos Llorente | 17 | 31 | 28
+EDGE Mario Hermoso | Thomas Lemar | 16 | 31 | 21
+EDGE Mario Hermoso | Álvaro Morata | 18 | 31 | 31
+EDGE Mario Hermoso | Pablo Barrios | 7 | 31 | 8
+EDGE Mario Hermoso | Ivo Grbic | 10 | 31 | 11
+EDGE Mario Hermoso | Rodrigo De Paul | 18 | 31 | 27
+EDGE Mario Hermoso | Felipe | 1 | 31 | 3
+EDGE Mario Hermoso | Saúl Ñíguez | 6 | 31 | 15
+EDGE Mario Hermoso | João Félix | 3 | 31 | 11
+EDGE Mario Hermoso | Memphis Depay | 3 | 31 | 3
+EDGE Mario Hermoso | Geoffrey Kondogbia | 5 | 31 | 13
+EDGE Mario Hermoso | Sergio Reguilón | 2 | 31 | 2
+EDGE Marcos Llorente | Thomas Lemar | 9 | 28 | 21
+EDGE Marcos Llorente | Álvaro Morata | 18 | 28 | 31
+EDGE Marcos Llorente | Pablo Barrios | 6 | 28 | 8
+EDGE Marcos Llorente | Felipe | 3 | 28 | 3
+EDGE Marcos Llorente | Rodrigo De Paul | 11 | 28 | 27
+EDGE Marcos Llorente | Ivo Grbic | 1 | 28 | 11
+EDGE Marcos Llorente | Saúl Ñíguez | 7 | 28 | 15
+EDGE Marcos Llorente | João Félix | 10 | 28 | 11
+EDGE Marcos Llorente | Memphis Depay | 3 | 28 | 3
+EDGE Marcos Llorente | Geoffrey Kondogbia | 6 | 28 | 13
+EDGE Thomas Lemar | Álvaro Morata | 15 | 21 | 31
+EDGE Thomas Lemar | Pablo Barrios | 2 | 21 | 8
+EDGE Thomas Lemar | Ivo Grbic | 6 | 21 | 11
+EDGE Thomas Lemar | Rodrigo De Paul | 11 | 21 | 27
+EDGE Thomas Lemar | Geoffrey Kondogbia | 5 | 21 | 13
+EDGE Thomas Lemar | Saúl Ñíguez | 2 | 21 | 15
+EDGE Thomas Lemar | Memphis Depay | 2 | 21 | 3
+EDGE Thomas Lemar | João Félix | 2 | 21 | 11
+EDGE Álvaro Morata | Pablo Barrios | 4 | 31 | 8
+EDGE Álvaro Morata | Ivo Grbic | 8 | 31 | 11
+EDGE Álvaro Morata | Rodrigo De Paul | 18 | 31 | 27
+EDGE Álvaro Morata | Felipe | 2 | 31 | 3
+EDGE Álvaro Morata | Saúl Ñíguez | 9 | 31 | 15
+EDGE Álvaro Morata | João Félix | 7 | 31 | 11
+EDGE Álvaro Morata | Geoffrey Kondogbia | 10 | 31 | 13
+EDGE Pablo Barrios | João Félix | 2 | 8 | 11
+EDGE Pablo Barrios | Ivo Grbic | 1 | 8 | 11
+EDGE Pablo Barrios | Sergio Reguilón | 1 | 8 | 2
+EDGE Pablo Barrios | Saúl Ñíguez | 2 | 8 | 15
+EDGE Pablo Barrios | Geoffrey Kondogbia | 2 | 8 | 13
+EDGE Pablo Barrios | Rodrigo De Paul | 3 | 8 | 27
+EDGE Ivo Grbic | Rodrigo De Paul | 9 | 11 | 27
+EDGE Ivo Grbic | Felipe | 1 | 11 | 3
+EDGE Ivo Grbic | Saúl Ñíguez | 5 | 11 | 15
+EDGE Ivo Grbic | João Félix | 1 | 11 | 11
+EDGE Ivo Grbic | Geoffrey Kondogbia | 2 | 11 | 13
+EDGE Ivo Grbic | Sergio Reguilón | 2 | 11 | 2
+EDGE Rodrigo De Paul | Felipe | 2 | 27 | 3
+EDGE Rodrigo De Paul | Saúl Ñíguez | 7 | 27 | 15
+EDGE Rodrigo De Paul | João Félix | 4 | 27 | 11
+EDGE Rodrigo De Paul | Geoffrey Kondogbia | 8 | 27 | 13
+EDGE Rodrigo De Paul | Sergio Reguilón | 1 | 27 | 2
+EDGE Rodrigo De Paul | Memphis Depay | 1 | 27 | 3
+EDGE Felipe | Saúl Ñíguez | 1 | 3 | 15
+EDGE Felipe | João Félix | 2 | 3 | 11
+EDGE Felipe | Geoffrey Kondogbia | 1 | 3 | 13
+EDGE Saúl Ñíguez | João Félix | 6 | 15 | 11
+EDGE Saúl Ñíguez | Geoffrey Kondogbia | 4 | 15 | 13
+EDGE Saúl Ñíguez | Sergio Reguilón | 2 | 15 | 2
+EDGE João Félix | Geoffrey Kondogbia | 3 | 11 | 13

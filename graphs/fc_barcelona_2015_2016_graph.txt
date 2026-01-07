@@ -1,0 +1,312 @@
+# Graph for Java/GraphStream
+# Nodes: 29
+# Edges: 306
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Marc-André ter Stegen | Thomas Vermaelen | 8 | 25 | 15
+EDGE Marc-André ter Stegen | Javier Mascherano | 20 | 25 | 49
+EDGE Marc-André ter Stegen | Jérémy Mathieu | 9 | 25 | 23
+EDGE Marc-André ter Stegen | Dani Alves | 19 | 25 | 43
+EDGE Marc-André ter Stegen | Sergi Roberto | 12 | 25 | 31
+EDGE Marc-André ter Stegen | Ivan Rakitic | 20 | 25 | 48
+EDGE Marc-André ter Stegen | Arda Turan | 4 | 25 | 13
+EDGE Marc-André ter Stegen | Munir El Haddadi | 6 | 25 | 16
+EDGE Marc-André ter Stegen | Aleix Vidal | 3 | 25 | 9
+EDGE Marc-André ter Stegen | Lionel Messi | 19 | 25 | 47
+EDGE Marc-André ter Stegen | Marc Bartra | 6 | 25 | 10
+EDGE Marc-André ter Stegen | Adriano | 6 | 25 | 10
+EDGE Marc-André ter Stegen | Rafinha | 3 | 25 | 5
+EDGE Marc-André ter Stegen | Pedro | 1 | 25 | 2
+EDGE Marc-André ter Stegen | Luis Suárez | 20 | 25 | 53
+EDGE Marc-André ter Stegen | Gerard Piqué | 17 | 25 | 46
+EDGE Marc-André ter Stegen | Jordi Alba | 14 | 25 | 42
+EDGE Marc-André ter Stegen | Sergio Busquets | 20 | 25 | 51
+EDGE Marc-André ter Stegen | Andrés Iniesta | 16 | 25 | 40
+EDGE Marc-André ter Stegen | Neymar | 20 | 25 | 49
+EDGE Marc-André ter Stegen | Sergi Samper | 2 | 25 | 4
+EDGE Marc-André ter Stegen | Wilfrid Kaptoum | 1 | 25 | 2
+EDGE Marc-André ter Stegen | Sandro Ramírez | 4 | 25 | 9
+EDGE Thomas Vermaelen | Javier Mascherano | 10 | 15 | 49
+EDGE Thomas Vermaelen | Jérémy Mathieu | 6 | 15 | 23
+EDGE Thomas Vermaelen | Dani Alves | 8 | 15 | 43
+EDGE Thomas Vermaelen | Sergi Roberto | 10 | 15 | 31
+EDGE Thomas Vermaelen | Ivan Rakitic | 11 | 15 | 48
+EDGE Thomas Vermaelen | Arda Turan | 3 | 15 | 13
+EDGE Thomas Vermaelen | Munir El Haddadi | 6 | 15 | 16
+EDGE Thomas Vermaelen | Aleix Vidal | 4 | 15 | 9
+EDGE Thomas Vermaelen | Lionel Messi | 10 | 15 | 47
+EDGE Thomas Vermaelen | Claudio Bravo | 5 | 15 | 35
+EDGE Thomas Vermaelen | Jordi Alba | 6 | 15 | 42
+EDGE Thomas Vermaelen | Sergio Busquets | 7 | 15 | 51
+EDGE Thomas Vermaelen | Andrés Iniesta | 5 | 15 | 40
+EDGE Thomas Vermaelen | Neymar | 7 | 15 | 49
+EDGE Thomas Vermaelen | Luis Suárez | 10 | 15 | 53
+EDGE Thomas Vermaelen | Marc Bartra | 5 | 15 | 10
+EDGE Thomas Vermaelen | Adriano | 7 | 15 | 10
+EDGE Thomas Vermaelen | Rafinha | 3 | 15 | 5
+EDGE Thomas Vermaelen | Pedro | 1 | 15 | 2
+EDGE Thomas Vermaelen | Gerard Piqué | 3 | 15 | 46
+EDGE Thomas Vermaelen | Jordi Masip | 2 | 15 | 2
+EDGE Thomas Vermaelen | Douglas | 1 | 15 | 1
+EDGE Thomas Vermaelen | Gerard Gumbau | 1 | 15 | 1
+EDGE Thomas Vermaelen | Sergi Samper | 4 | 15 | 4
+EDGE Thomas Vermaelen | Wilfrid Kaptoum | 2 | 15 | 2
+EDGE Thomas Vermaelen | Sandro Ramírez | 4 | 15 | 9
+EDGE Thomas Vermaelen | Aitor Cantalapiedra | 1 | 15 | 1
+EDGE Javier Mascherano | Jérémy Mathieu | 13 | 49 | 23
+EDGE Javier Mascherano | Dani Alves | 39 | 49 | 43
+EDGE Javier Mascherano | Sergi Roberto | 22 | 49 | 31
+EDGE Javier Mascherano | Ivan Rakitic | 40 | 49 | 48
+EDGE Javier Mascherano | Arda Turan | 8 | 49 | 13
+EDGE Javier Mascherano | Munir El Haddadi | 10 | 49 | 16
+EDGE Javier Mascherano | Aleix Vidal | 3 | 49 | 9
+EDGE Javier Mascherano | Lionel Messi | 39 | 49 | 47
+EDGE Javier Mascherano | Claudio Bravo | 28 | 49 | 35
+EDGE Javier Mascherano | Jordi Alba | 32 | 49 | 42
+EDGE Javier Mascherano | Sergio Busquets | 43 | 49 | 51
+EDGE Javier Mascherano | Andrés Iniesta | 36 | 49 | 40
+EDGE Javier Mascherano | Neymar | 39 | 49 | 49
+EDGE Javier Mascherano | Luis Suárez | 44 | 49 | 53
+EDGE Javier Mascherano | Gerard Piqué | 36 | 49 | 46
+EDGE Javier Mascherano | Marc Bartra | 7 | 49 | 10
+EDGE Javier Mascherano | Adriano | 6 | 49 | 10
+EDGE Javier Mascherano | Rafinha | 5 | 49 | 5
+EDGE Javier Mascherano | Pedro | 2 | 49 | 2
+EDGE Javier Mascherano | Sandro Ramírez | 5 | 49 | 9
+EDGE Javier Mascherano | Jordi Masip | 1 | 49 | 2
+EDGE Javier Mascherano | Sergi Samper | 1 | 49 | 4
+EDGE Javier Mascherano | Aitor Cantalapiedra | 1 | 49 | 1
+EDGE Jérémy Mathieu | Dani Alves | 14 | 23 | 43
+EDGE Jérémy Mathieu | Sergi Roberto | 14 | 23 | 31
+EDGE Jérémy Mathieu | Ivan Rakitic | 15 | 23 | 48
+EDGE Jérémy Mathieu | Arda Turan | 6 | 23 | 13
+EDGE Jérémy Mathieu | Munir El Haddadi | 8 | 23 | 16
+EDGE Jérémy Mathieu | Aleix Vidal | 6 | 23 | 9
+EDGE Jérémy Mathieu | Lionel Messi | 15 | 23 | 47
+EDGE Jérémy Mathieu | Claudio Bravo | 12 | 23 | 35
+EDGE Jérémy Mathieu | Gerard Piqué | 16 | 23 | 46
+EDGE Jérémy Mathieu | Jordi Alba | 10 | 23 | 42
+EDGE Jérémy Mathieu | Sergio Busquets | 16 | 23 | 51
+EDGE Jérémy Mathieu | Neymar | 17 | 23 | 49
+EDGE Jérémy Mathieu | Luis Suárez | 18 | 23 | 53
+EDGE Jérémy Mathieu | Adriano | 4 | 23 | 10
+EDGE Jérémy Mathieu | Andrés Iniesta | 12 | 23 | 40
+EDGE Jérémy Mathieu | Jordi Masip | 2 | 23 | 2
+EDGE Jérémy Mathieu | Marc Bartra | 3 | 23 | 10
+EDGE Jérémy Mathieu | Douglas | 1 | 23 | 1
+EDGE Jérémy Mathieu | Gerard Gumbau | 1 | 23 | 1
+EDGE Jérémy Mathieu | Sergi Samper | 3 | 23 | 4
+EDGE Jérémy Mathieu | Wilfrid Kaptoum | 1 | 23 | 2
+EDGE Jérémy Mathieu | Sandro Ramírez | 5 | 23 | 9
+EDGE Jérémy Mathieu | Pedro | 1 | 23 | 2
+EDGE Jérémy Mathieu | Rafinha | 1 | 23 | 5
+EDGE Jérémy Mathieu | Aitor Cantalapiedra | 1 | 23 | 1
+EDGE Dani Alves | Sergi Roberto | 18 | 43 | 31
+EDGE Dani Alves | Ivan Rakitic | 34 | 43 | 48
+EDGE Dani Alves | Arda Turan | 6 | 43 | 13
+EDGE Dani Alves | Munir El Haddadi | 10 | 43 | 16
+EDGE Dani Alves | Aleix Vidal | 1 | 43 | 9
+EDGE Dani Alves | Lionel Messi | 32 | 43 | 47
+EDGE Dani Alves | Claudio Bravo | 23 | 43 | 35
+EDGE Dani Alves | Gerard Piqué | 33 | 43 | 46
+EDGE Dani Alves | Jordi Alba | 29 | 43 | 42
+EDGE Dani Alves | Sergio Busquets | 37 | 43 | 51
+EDGE Dani Alves | Neymar | 34 | 43 | 49
+EDGE Dani Alves | Luis Suárez | 38 | 43 | 53
+EDGE Dani Alves | Andrés Iniesta | 30 | 43 | 40
+EDGE Dani Alves | Marc Bartra | 6 | 43 | 10
+EDGE Dani Alves | Adriano | 4 | 43 | 10
+EDGE Dani Alves | Rafinha | 4 | 43 | 5
+EDGE Dani Alves | Pedro | 2 | 43 | 2
+EDGE Dani Alves | Sandro Ramírez | 6 | 43 | 9
+EDGE Dani Alves | Jordi Masip | 1 | 43 | 2
+EDGE Dani Alves | Sergi Samper | 1 | 43 | 4
+EDGE Dani Alves | Aitor Cantalapiedra | 1 | 43 | 1
+EDGE Sergi Roberto | Ivan Rakitic | 22 | 31 | 48
+EDGE Sergi Roberto | Arda Turan | 8 | 31 | 13
+EDGE Sergi Roberto | Munir El Haddadi | 10 | 31 | 16
+EDGE Sergi Roberto | Aleix Vidal | 5 | 31 | 9
+EDGE Sergi Roberto | Lionel Messi | 20 | 31 | 47
+EDGE Sergi Roberto | Claudio Bravo | 19 | 31 | 35
+EDGE Sergi Roberto | Gerard Piqué | 23 | 31 | 46
+EDGE Sergi Roberto | Jordi Alba | 20 | 31 | 42
+EDGE Sergi Roberto | Sergio Busquets | 23 | 31 | 51
+EDGE Sergi Roberto | Neymar | 27 | 31 | 49
+EDGE Sergi Roberto | Luis Suárez | 26 | 31 | 53
+EDGE Sergi Roberto | Andrés Iniesta | 16 | 31 | 40
+EDGE Sergi Roberto | Marc Bartra | 4 | 31 | 10
+EDGE Sergi Roberto | Adriano | 4 | 31 | 10
+EDGE Sergi Roberto | Rafinha | 3 | 31 | 5
+EDGE Sergi Roberto | Pedro | 1 | 31 | 2
+EDGE Sergi Roberto | Sandro Ramírez | 2 | 31 | 9
+EDGE Sergi Roberto | Sergi Samper | 1 | 31 | 4
+EDGE Ivan Rakitic | Arda Turan | 6 | 48 | 13
+EDGE Ivan Rakitic | Munir El Haddadi | 9 | 48 | 16
+EDGE Ivan Rakitic | Aleix Vidal | 5 | 48 | 9
+EDGE Ivan Rakitic | Lionel Messi | 37 | 48 | 47
+EDGE Ivan Rakitic | Claudio Bravo | 28 | 48 | 35
+EDGE Ivan Rakitic | Gerard Piqué | 37 | 48 | 46
+EDGE Ivan Rakitic | Jordi Alba | 34 | 48 | 42
+EDGE Ivan Rakitic | Sergio Busquets | 42 | 48 | 51
+EDGE Ivan Rakitic | Neymar | 39 | 48 | 49
+EDGE Ivan Rakitic | Luis Suárez | 43 | 48 | 53
+EDGE Ivan Rakitic | Andrés Iniesta | 32 | 48 | 40
+EDGE Ivan Rakitic | Adriano | 6 | 48 | 10
+EDGE Ivan Rakitic | Marc Bartra | 6 | 48 | 10
+EDGE Ivan Rakitic | Sergi Samper | 2 | 48 | 4
+EDGE Ivan Rakitic | Wilfrid Kaptoum | 1 | 48 | 2
+EDGE Ivan Rakitic | Sandro Ramírez | 7 | 48 | 9
+EDGE Ivan Rakitic | Pedro | 1 | 48 | 2
+EDGE Ivan Rakitic | Rafinha | 3 | 48 | 5
+EDGE Arda Turan | Munir El Haddadi | 6 | 13 | 16
+EDGE Arda Turan | Aleix Vidal | 7 | 13 | 9
+EDGE Arda Turan | Lionel Messi | 12 | 13 | 47
+EDGE Arda Turan | Claudio Bravo | 9 | 13 | 35
+EDGE Arda Turan | Gerard Piqué | 10 | 13 | 46
+EDGE Arda Turan | Adriano | 2 | 13 | 10
+EDGE Arda Turan | Sergio Busquets | 9 | 13 | 51
+EDGE Arda Turan | Neymar | 10 | 13 | 49
+EDGE Arda Turan | Luis Suárez | 9 | 13 | 53
+EDGE Arda Turan | Jordi Alba | 8 | 13 | 42
+EDGE Arda Turan | Andrés Iniesta | 6 | 13 | 40
+EDGE Arda Turan | Rafinha | 1 | 13 | 5
+EDGE Munir El Haddadi | Aleix Vidal | 4 | 16 | 9
+EDGE Munir El Haddadi | Lionel Messi | 7 | 16 | 47
+EDGE Munir El Haddadi | Claudio Bravo | 8 | 16 | 35
+EDGE Munir El Haddadi | Gerard Piqué | 9 | 16 | 46
+EDGE Munir El Haddadi | Jordi Alba | 8 | 16 | 42
+EDGE Munir El Haddadi | Sergio Busquets | 10 | 16 | 51
+EDGE Munir El Haddadi | Neymar | 8 | 16 | 49
+EDGE Munir El Haddadi | Luis Suárez | 7 | 16 | 53
+EDGE Munir El Haddadi | Jordi Masip | 2 | 16 | 2
+EDGE Munir El Haddadi | Marc Bartra | 6 | 16 | 10
+EDGE Munir El Haddadi | Douglas | 1 | 16 | 1
+EDGE Munir El Haddadi | Gerard Gumbau | 1 | 16 | 1
+EDGE Munir El Haddadi | Sergi Samper | 4 | 16 | 4
+EDGE Munir El Haddadi | Wilfrid Kaptoum | 2 | 16 | 2
+EDGE Munir El Haddadi | Adriano | 6 | 16 | 10
+EDGE Munir El Haddadi | Sandro Ramírez | 5 | 16 | 9
+EDGE Munir El Haddadi | Rafinha | 1 | 16 | 5
+EDGE Munir El Haddadi | Andrés Iniesta | 5 | 16 | 40
+EDGE Munir El Haddadi | Aitor Cantalapiedra | 1 | 16 | 1
+EDGE Aleix Vidal | Lionel Messi | 8 | 9 | 47
+EDGE Aleix Vidal | Claudio Bravo | 6 | 9 | 35
+EDGE Aleix Vidal | Gerard Piqué | 6 | 9 | 46
+EDGE Aleix Vidal | Adriano | 3 | 9 | 10
+EDGE Aleix Vidal | Sergio Busquets | 5 | 9 | 51
+EDGE Aleix Vidal | Neymar | 6 | 9 | 49
+EDGE Aleix Vidal | Luis Suárez | 6 | 9 | 53
+EDGE Aleix Vidal | Jordi Alba | 5 | 9 | 42
+EDGE Aleix Vidal | Andrés Iniesta | 4 | 9 | 40
+EDGE Aleix Vidal | Marc Bartra | 1 | 9 | 10
+EDGE Aleix Vidal | Sergi Samper | 1 | 9 | 4
+EDGE Aleix Vidal | Sandro Ramírez | 1 | 9 | 9
+EDGE Lionel Messi | Claudio Bravo | 28 | 47 | 35
+EDGE Lionel Messi | Jordi Alba | 33 | 47 | 42
+EDGE Lionel Messi | Sergio Busquets | 39 | 47 | 51
+EDGE Lionel Messi | Andrés Iniesta | 33 | 47 | 40
+EDGE Lionel Messi | Neymar | 38 | 47 | 49
+EDGE Lionel Messi | Luis Suárez | 42 | 47 | 53
+EDGE Lionel Messi | Gerard Piqué | 36 | 47 | 46
+EDGE Lionel Messi | Marc Bartra | 5 | 47 | 10
+EDGE Lionel Messi | Adriano | 6 | 47 | 10
+EDGE Lionel Messi | Rafinha | 4 | 47 | 5
+EDGE Lionel Messi | Pedro | 2 | 47 | 2
+EDGE Lionel Messi | Sergi Samper | 1 | 47 | 4
+EDGE Lionel Messi | Wilfrid Kaptoum | 1 | 47 | 2
+EDGE Lionel Messi | Sandro Ramírez | 3 | 47 | 9
+EDGE Claudio Bravo | Gerard Piqué | 29 | 35 | 46
+EDGE Claudio Bravo | Jordi Alba | 28 | 35 | 42
+EDGE Claudio Bravo | Sergio Busquets | 31 | 35 | 51
+EDGE Claudio Bravo | Neymar | 29 | 35 | 49
+EDGE Claudio Bravo | Luis Suárez | 33 | 35 | 53
+EDGE Claudio Bravo | Andrés Iniesta | 24 | 35 | 40
+EDGE Claudio Bravo | Adriano | 2 | 35 | 10
+EDGE Claudio Bravo | Pedro | 1 | 35 | 2
+EDGE Claudio Bravo | Marc Bartra | 2 | 35 | 10
+EDGE Claudio Bravo | Sandro Ramírez | 3 | 35 | 9
+EDGE Claudio Bravo | Rafinha | 2 | 35 | 5
+EDGE Gerard Piqué | Jordi Alba | 35 | 46 | 42
+EDGE Gerard Piqué | Sergio Busquets | 42 | 46 | 51
+EDGE Gerard Piqué | Neymar | 41 | 46 | 49
+EDGE Gerard Piqué | Luis Suárez | 43 | 46 | 53
+EDGE Gerard Piqué | Andrés Iniesta | 32 | 46 | 40
+EDGE Gerard Piqué | Adriano | 2 | 46 | 10
+EDGE Gerard Piqué | Marc Bartra | 3 | 46 | 10
+EDGE Gerard Piqué | Pedro | 1 | 46 | 2
+EDGE Gerard Piqué | Sandro Ramírez | 4 | 46 | 9
+EDGE Gerard Piqué | Rafinha | 2 | 46 | 5
+EDGE Jordi Alba | Sergio Busquets | 37 | 42 | 51
+EDGE Jordi Alba | Neymar | 37 | 42 | 49
+EDGE Jordi Alba | Luis Suárez | 40 | 42 | 53
+EDGE Jordi Alba | Andrés Iniesta | 31 | 42 | 40
+EDGE Jordi Alba | Marc Bartra | 4 | 42 | 10
+EDGE Jordi Alba | Adriano | 1 | 42 | 10
+EDGE Jordi Alba | Sergi Samper | 1 | 42 | 4
+EDGE Jordi Alba | Wilfrid Kaptoum | 1 | 42 | 2
+EDGE Jordi Alba | Sandro Ramírez | 4 | 42 | 9
+EDGE Jordi Alba | Rafinha | 2 | 42 | 5
+EDGE Sergio Busquets | Neymar | 44 | 51 | 49
+EDGE Sergio Busquets | Luis Suárez | 48 | 51 | 53
+EDGE Sergio Busquets | Andrés Iniesta | 37 | 51 | 40
+EDGE Sergio Busquets | Adriano | 5 | 51 | 10
+EDGE Sergio Busquets | Marc Bartra | 5 | 51 | 10
+EDGE Sergio Busquets | Pedro | 1 | 51 | 2
+EDGE Sergio Busquets | Sandro Ramírez | 5 | 51 | 9
+EDGE Sergio Busquets | Rafinha | 4 | 51 | 5
+EDGE Neymar | Luis Suárez | 45 | 49 | 53
+EDGE Neymar | Andrés Iniesta | 34 | 49 | 40
+EDGE Neymar | Adriano | 4 | 49 | 10
+EDGE Neymar | Marc Bartra | 5 | 49 | 10
+EDGE Neymar | Sandro Ramírez | 4 | 49 | 9
+EDGE Neymar | Rafinha | 2 | 49 | 5
+EDGE Luis Suárez | Andrés Iniesta | 38 | 53 | 40
+EDGE Luis Suárez | Marc Bartra | 5 | 53 | 10
+EDGE Luis Suárez | Adriano | 5 | 53 | 10
+EDGE Luis Suárez | Rafinha | 4 | 53 | 5
+EDGE Luis Suárez | Pedro | 2 | 53 | 2
+EDGE Luis Suárez | Sandro Ramírez | 4 | 53 | 9
+EDGE Andrés Iniesta | Pedro | 1 | 40 | 2
+EDGE Andrés Iniesta | Sandro Ramírez | 2 | 40 | 9
+EDGE Andrés Iniesta | Rafinha | 3 | 40 | 5
+EDGE Andrés Iniesta | Marc Bartra | 1 | 40 | 10
+EDGE Andrés Iniesta | Adriano | 2 | 40 | 10
+EDGE Marc Bartra | Adriano | 7 | 10 | 10
+EDGE Marc Bartra | Rafinha | 1 | 10 | 5
+EDGE Marc Bartra | Pedro | 1 | 10 | 2
+EDGE Marc Bartra | Jordi Masip | 2 | 10 | 2
+EDGE Marc Bartra | Douglas | 1 | 10 | 1
+EDGE Marc Bartra | Gerard Gumbau | 1 | 10 | 1
+EDGE Marc Bartra | Sergi Samper | 4 | 10 | 4
+EDGE Marc Bartra | Wilfrid Kaptoum | 2 | 10 | 2
+EDGE Marc Bartra | Sandro Ramírez | 6 | 10 | 9
+EDGE Marc Bartra | Aitor Cantalapiedra | 1 | 10 | 1
+EDGE Adriano | Rafinha | 1 | 10 | 5
+EDGE Adriano | Pedro | 1 | 10 | 2
+EDGE Adriano | Jordi Masip | 2 | 10 | 2
+EDGE Adriano | Douglas | 1 | 10 | 1
+EDGE Adriano | Gerard Gumbau | 1 | 10 | 1
+EDGE Adriano | Sergi Samper | 4 | 10 | 4
+EDGE Adriano | Wilfrid Kaptoum | 2 | 10 | 2
+EDGE Adriano | Sandro Ramírez | 5 | 10 | 9
+EDGE Adriano | Aitor Cantalapiedra | 1 | 10 | 1
+EDGE Rafinha | Pedro | 1 | 5 | 2
+EDGE Jordi Masip | Douglas | 1 | 2 | 1
+EDGE Jordi Masip | Gerard Gumbau | 1 | 2 | 1
+EDGE Jordi Masip | Sergi Samper | 2 | 2 | 4
+EDGE Jordi Masip | Wilfrid Kaptoum | 1 | 2 | 2
+EDGE Jordi Masip | Sandro Ramírez | 2 | 2 | 9
+EDGE Jordi Masip | Aitor Cantalapiedra | 1 | 2 | 1
+EDGE Douglas | Gerard Gumbau | 1 | 1 | 1
+EDGE Douglas | Sergi Samper | 1 | 1 | 4
+EDGE Douglas | Wilfrid Kaptoum | 1 | 1 | 2
+EDGE Douglas | Sandro Ramírez | 1 | 1 | 9
+EDGE Gerard Gumbau | Sergi Samper | 1 | 1 | 4
+EDGE Gerard Gumbau | Wilfrid Kaptoum | 1 | 1 | 2
+EDGE Gerard Gumbau | Sandro Ramírez | 1 | 1 | 9
+EDGE Sergi Samper | Wilfrid Kaptoum | 2 | 4 | 2
+EDGE Sergi Samper | Sandro Ramírez | 4 | 4 | 9
+EDGE Sergi Samper | Aitor Cantalapiedra | 1 | 4 | 1
+EDGE Wilfrid Kaptoum | Sandro Ramírez | 2 | 2 | 9
+EDGE Sandro Ramírez | Aitor Cantalapiedra | 1 | 9 | 1

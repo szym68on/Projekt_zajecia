@@ -1,0 +1,282 @@
+# Graph for Java/GraphStream
+# Nodes: 25
+# Edges: 276
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Miguel Ángel Moyá | Stefan Savic | 5 | 6 | 20
+EDGE Miguel Ángel Moyá | José María Giménez | 2 | 6 | 36
+EDGE Miguel Ángel Moyá | Guilherme Siqueira | 3 | 6 | 7
+EDGE Miguel Ángel Moyá | Jesús Gámez | 5 | 6 | 13
+EDGE Miguel Ángel Moyá | Matías Kranevitter | 2 | 6 | 5
+EDGE Miguel Ángel Moyá | Thomas Partey | 4 | 6 | 7
+EDGE Miguel Ángel Moyá | Augusto Fernández | 2 | 6 | 18
+EDGE Miguel Ángel Moyá | Óliver Torres | 3 | 6 | 14
+EDGE Miguel Ángel Moyá | Yannick Carrasco | 4 | 6 | 26
+EDGE Miguel Ángel Moyá | Fernando Torres | 2 | 6 | 25
+EDGE Miguel Ángel Moyá | Diego Godín | 3 | 6 | 46
+EDGE Miguel Ángel Moyá | Filipe Luís | 3 | 6 | 45
+EDGE Miguel Ángel Moyá | Gabi | 2 | 6 | 48
+EDGE Miguel Ángel Moyá | Koke | 5 | 6 | 50
+EDGE Miguel Ángel Moyá | Antoine Griezmann | 2 | 6 | 51
+EDGE Miguel Ángel Moyá | Jackson Martínez | 2 | 6 | 13
+EDGE Miguel Ángel Moyá | Lucas Hernández | 2 | 6 | 12
+EDGE Miguel Ángel Moyá | Saúl Ñíguez | 3 | 6 | 40
+EDGE Miguel Ángel Moyá | Ángel Correa | 3 | 6 | 12
+EDGE Miguel Ángel Moyá | Luciano Vietto | 2 | 6 | 17
+EDGE Miguel Ángel Moyá | Juanfran Torres | 1 | 6 | 47
+EDGE Stefan Savic | José María Giménez | 3 | 20 | 36
+EDGE Stefan Savic | Guilherme Siqueira | 5 | 20 | 7
+EDGE Stefan Savic | Jesús Gámez | 6 | 20 | 13
+EDGE Stefan Savic | Matías Kranevitter | 2 | 20 | 5
+EDGE Stefan Savic | Thomas Partey | 5 | 20 | 7
+EDGE Stefan Savic | Augusto Fernández | 8 | 20 | 18
+EDGE Stefan Savic | Óliver Torres | 5 | 20 | 14
+EDGE Stefan Savic | Yannick Carrasco | 9 | 20 | 26
+EDGE Stefan Savic | Fernando Torres | 11 | 20 | 25
+EDGE Stefan Savic | Jan Oblak | 15 | 20 | 51
+EDGE Stefan Savic | Filipe Luís | 14 | 20 | 45
+EDGE Stefan Savic | Juanfran Torres | 14 | 20 | 47
+EDGE Stefan Savic | Gabi | 15 | 20 | 48
+EDGE Stefan Savic | Saúl Ñíguez | 15 | 20 | 40
+EDGE Stefan Savic | Koke | 17 | 20 | 50
+EDGE Stefan Savic | Ángel Correa | 6 | 20 | 12
+EDGE Stefan Savic | Diego Godín | 15 | 20 | 46
+EDGE Stefan Savic | Antoine Griezmann | 15 | 20 | 51
+EDGE Stefan Savic | Luciano Vietto | 4 | 20 | 17
+EDGE Stefan Savic | Jackson Martínez | 5 | 20 | 13
+EDGE Stefan Savic | Lucas Hernández | 3 | 20 | 12
+EDGE Stefan Savic | Tiago Mendes | 3 | 20 | 17
+EDGE José María Giménez | Guilherme Siqueira | 3 | 36 | 7
+EDGE José María Giménez | Jesús Gámez | 8 | 36 | 13
+EDGE José María Giménez | Matías Kranevitter | 4 | 36 | 5
+EDGE José María Giménez | Thomas Partey | 3 | 36 | 7
+EDGE José María Giménez | Augusto Fernández | 10 | 36 | 18
+EDGE José María Giménez | Óliver Torres | 10 | 36 | 14
+EDGE José María Giménez | Yannick Carrasco | 15 | 36 | 26
+EDGE José María Giménez | Fernando Torres | 14 | 36 | 25
+EDGE José María Giménez | Jan Oblak | 34 | 36 | 51
+EDGE José María Giménez | Diego Godín | 28 | 36 | 46
+EDGE José María Giménez | Filipe Luís | 29 | 36 | 45
+EDGE José María Giménez | Juanfran Torres | 31 | 36 | 47
+EDGE José María Giménez | Tiago Mendes | 14 | 36 | 17
+EDGE José María Giménez | Gabi | 31 | 36 | 48
+EDGE José María Giménez | Koke | 31 | 36 | 50
+EDGE José María Giménez | Antoine Griezmann | 33 | 36 | 51
+EDGE José María Giménez | Jackson Martínez | 8 | 36 | 13
+EDGE José María Giménez | Luciano Vietto | 13 | 36 | 17
+EDGE José María Giménez | Saúl Ñíguez | 24 | 36 | 40
+EDGE José María Giménez | Lucas Hernández | 5 | 36 | 12
+EDGE José María Giménez | Ángel Correa | 7 | 36 | 12
+EDGE Guilherme Siqueira | Jesús Gámez | 3 | 7 | 13
+EDGE Guilherme Siqueira | Matías Kranevitter | 1 | 7 | 5
+EDGE Guilherme Siqueira | Thomas Partey | 3 | 7 | 7
+EDGE Guilherme Siqueira | Augusto Fernández | 1 | 7 | 18
+EDGE Guilherme Siqueira | Óliver Torres | 4 | 7 | 14
+EDGE Guilherme Siqueira | Yannick Carrasco | 3 | 7 | 26
+EDGE Guilherme Siqueira | Fernando Torres | 4 | 7 | 25
+EDGE Guilherme Siqueira | Jan Oblak | 4 | 7 | 51
+EDGE Guilherme Siqueira | Diego Godín | 4 | 7 | 46
+EDGE Guilherme Siqueira | Juanfran Torres | 4 | 7 | 47
+EDGE Guilherme Siqueira | Saúl Ñíguez | 6 | 7 | 40
+EDGE Guilherme Siqueira | Tiago Mendes | 3 | 7 | 17
+EDGE Guilherme Siqueira | Koke | 4 | 7 | 50
+EDGE Guilherme Siqueira | Antoine Griezmann | 4 | 7 | 51
+EDGE Guilherme Siqueira | Luciano Vietto | 2 | 7 | 17
+EDGE Guilherme Siqueira | Jackson Martínez | 2 | 7 | 13
+EDGE Guilherme Siqueira | Lucas Hernández | 2 | 7 | 12
+EDGE Guilherme Siqueira | Ángel Correa | 2 | 7 | 12
+EDGE Guilherme Siqueira | Gabi | 3 | 7 | 48
+EDGE Jesús Gámez | Matías Kranevitter | 4 | 13 | 5
+EDGE Jesús Gámez | Thomas Partey | 6 | 13 | 7
+EDGE Jesús Gámez | Augusto Fernández | 2 | 13 | 18
+EDGE Jesús Gámez | Óliver Torres | 7 | 13 | 14
+EDGE Jesús Gámez | Yannick Carrasco | 7 | 13 | 26
+EDGE Jesús Gámez | Fernando Torres | 6 | 13 | 25
+EDGE Jesús Gámez | Jan Oblak | 8 | 13 | 51
+EDGE Jesús Gámez | Diego Godín | 7 | 13 | 46
+EDGE Jesús Gámez | Juanfran Torres | 3 | 13 | 47
+EDGE Jesús Gámez | Saúl Ñíguez | 6 | 13 | 40
+EDGE Jesús Gámez | Koke | 10 | 13 | 50
+EDGE Jesús Gámez | Antoine Griezmann | 8 | 13 | 51
+EDGE Jesús Gámez | Lucas Hernández | 5 | 13 | 12
+EDGE Jesús Gámez | Gabi | 7 | 13 | 48
+EDGE Jesús Gámez | Ángel Correa | 6 | 13 | 12
+EDGE Jesús Gámez | Filipe Luís | 6 | 13 | 45
+EDGE Jesús Gámez | Tiago Mendes | 4 | 13 | 17
+EDGE Jesús Gámez | Luciano Vietto | 3 | 13 | 17
+EDGE Jesús Gámez | Jackson Martínez | 3 | 13 | 13
+EDGE Matías Kranevitter | Thomas Partey | 3 | 5 | 7
+EDGE Matías Kranevitter | Augusto Fernández | 1 | 5 | 18
+EDGE Matías Kranevitter | Óliver Torres | 2 | 5 | 14
+EDGE Matías Kranevitter | Yannick Carrasco | 2 | 5 | 26
+EDGE Matías Kranevitter | Fernando Torres | 1 | 5 | 25
+EDGE Matías Kranevitter | Jan Oblak | 3 | 5 | 51
+EDGE Matías Kranevitter | Lucas Hernández | 3 | 5 | 12
+EDGE Matías Kranevitter | Filipe Luís | 3 | 5 | 45
+EDGE Matías Kranevitter | Saúl Ñíguez | 2 | 5 | 40
+EDGE Matías Kranevitter | Koke | 3 | 5 | 50
+EDGE Matías Kranevitter | Antoine Griezmann | 2 | 5 | 51
+EDGE Matías Kranevitter | Ángel Correa | 3 | 5 | 12
+EDGE Matías Kranevitter | Luciano Vietto | 3 | 5 | 17
+EDGE Matías Kranevitter | Juanfran Torres | 2 | 5 | 47
+EDGE Matías Kranevitter | Gabi | 2 | 5 | 48
+EDGE Matías Kranevitter | Diego Godín | 1 | 5 | 46
+EDGE Matías Kranevitter | Jackson Martínez | 1 | 5 | 13
+EDGE Thomas Partey | Augusto Fernández | 2 | 7 | 18
+EDGE Thomas Partey | Óliver Torres | 4 | 7 | 14
+EDGE Thomas Partey | Yannick Carrasco | 3 | 7 | 26
+EDGE Thomas Partey | Fernando Torres | 3 | 7 | 25
+EDGE Thomas Partey | Jan Oblak | 3 | 7 | 51
+EDGE Thomas Partey | Saúl Ñíguez | 4 | 7 | 40
+EDGE Thomas Partey | Lucas Hernández | 4 | 7 | 12
+EDGE Thomas Partey | Gabi | 2 | 7 | 48
+EDGE Thomas Partey | Koke | 5 | 7 | 50
+EDGE Thomas Partey | Ángel Correa | 5 | 7 | 12
+EDGE Thomas Partey | Antoine Griezmann | 2 | 7 | 51
+EDGE Thomas Partey | Luciano Vietto | 2 | 7 | 17
+EDGE Thomas Partey | Diego Godín | 2 | 7 | 46
+EDGE Thomas Partey | Filipe Luís | 2 | 7 | 45
+EDGE Thomas Partey | Juanfran Torres | 2 | 7 | 47
+EDGE Thomas Partey | Jackson Martínez | 1 | 7 | 13
+EDGE Augusto Fernández | Óliver Torres | 1 | 18 | 14
+EDGE Augusto Fernández | Yannick Carrasco | 6 | 18 | 26
+EDGE Augusto Fernández | Fernando Torres | 10 | 18 | 25
+EDGE Augusto Fernández | Jan Oblak | 16 | 18 | 51
+EDGE Augusto Fernández | Diego Godín | 14 | 18 | 46
+EDGE Augusto Fernández | Filipe Luís | 17 | 18 | 45
+EDGE Augusto Fernández | Juanfran Torres | 16 | 18 | 47
+EDGE Augusto Fernández | Gabi | 16 | 18 | 48
+EDGE Augusto Fernández | Saúl Ñíguez | 15 | 18 | 40
+EDGE Augusto Fernández | Koke | 17 | 18 | 50
+EDGE Augusto Fernández | Antoine Griezmann | 16 | 18 | 51
+EDGE Augusto Fernández | Ángel Correa | 1 | 18 | 12
+EDGE Augusto Fernández | Luciano Vietto | 4 | 18 | 17
+EDGE Augusto Fernández | Jackson Martínez | 1 | 18 | 13
+EDGE Augusto Fernández | Nacho Monsalve | 1 | 18 | 1
+EDGE Augusto Fernández | Lucas Hernández | 3 | 18 | 12
+EDGE Óliver Torres | Yannick Carrasco | 3 | 14 | 26
+EDGE Óliver Torres | Fernando Torres | 7 | 14 | 25
+EDGE Óliver Torres | Jan Oblak | 11 | 14 | 51
+EDGE Óliver Torres | Diego Godín | 10 | 14 | 46
+EDGE Óliver Torres | Juanfran Torres | 10 | 14 | 47
+EDGE Óliver Torres | Saúl Ñíguez | 7 | 14 | 40
+EDGE Óliver Torres | Koke | 8 | 14 | 50
+EDGE Óliver Torres | Antoine Griezmann | 10 | 14 | 51
+EDGE Óliver Torres | Filipe Luís | 7 | 14 | 45
+EDGE Óliver Torres | Tiago Mendes | 7 | 14 | 17
+EDGE Óliver Torres | Gabi | 9 | 14 | 48
+EDGE Óliver Torres | Jackson Martínez | 3 | 14 | 13
+EDGE Óliver Torres | Ángel Correa | 5 | 14 | 12
+EDGE Óliver Torres | Lucas Hernández | 3 | 14 | 12
+EDGE Óliver Torres | Luciano Vietto | 4 | 14 | 17
+EDGE Yannick Carrasco | Fernando Torres | 11 | 26 | 25
+EDGE Yannick Carrasco | Jan Oblak | 22 | 26 | 51
+EDGE Yannick Carrasco | Diego Godín | 23 | 26 | 46
+EDGE Yannick Carrasco | Juanfran Torres | 20 | 26 | 47
+EDGE Yannick Carrasco | Saúl Ñíguez | 17 | 26 | 40
+EDGE Yannick Carrasco | Koke | 23 | 26 | 50
+EDGE Yannick Carrasco | Antoine Griezmann | 24 | 26 | 51
+EDGE Yannick Carrasco | Lucas Hernández | 6 | 26 | 12
+EDGE Yannick Carrasco | Gabi | 23 | 26 | 48
+EDGE Yannick Carrasco | Ángel Correa | 2 | 26 | 12
+EDGE Yannick Carrasco | Filipe Luís | 20 | 26 | 45
+EDGE Yannick Carrasco | Tiago Mendes | 6 | 26 | 17
+EDGE Yannick Carrasco | Luciano Vietto | 5 | 26 | 17
+EDGE Yannick Carrasco | Jackson Martínez | 6 | 26 | 13
+EDGE Fernando Torres | Jan Oblak | 23 | 25 | 51
+EDGE Fernando Torres | Diego Godín | 19 | 25 | 46
+EDGE Fernando Torres | Juanfran Torres | 21 | 25 | 47
+EDGE Fernando Torres | Saúl Ñíguez | 18 | 25 | 40
+EDGE Fernando Torres | Koke | 22 | 25 | 50
+EDGE Fernando Torres | Antoine Griezmann | 22 | 25 | 51
+EDGE Fernando Torres | Filipe Luís | 18 | 25 | 45
+EDGE Fernando Torres | Gabi | 21 | 25 | 48
+EDGE Fernando Torres | Tiago Mendes | 6 | 25 | 17
+EDGE Fernando Torres | Lucas Hernández | 6 | 25 | 12
+EDGE Fernando Torres | Ángel Correa | 4 | 25 | 12
+EDGE Fernando Torres | Nacho Monsalve | 1 | 25 | 1
+EDGE Jan Oblak | Diego Godín | 43 | 51 | 46
+EDGE Jan Oblak | Filipe Luís | 42 | 51 | 45
+EDGE Jan Oblak | Juanfran Torres | 46 | 51 | 47
+EDGE Jan Oblak | Tiago Mendes | 17 | 51 | 17
+EDGE Jan Oblak | Gabi | 46 | 51 | 48
+EDGE Jan Oblak | Koke | 45 | 51 | 50
+EDGE Jan Oblak | Antoine Griezmann | 49 | 51 | 51
+EDGE Jan Oblak | Jackson Martínez | 11 | 51 | 13
+EDGE Jan Oblak | Luciano Vietto | 15 | 51 | 17
+EDGE Jan Oblak | Saúl Ñíguez | 37 | 51 | 40
+EDGE Jan Oblak | Lucas Hernández | 10 | 51 | 12
+EDGE Jan Oblak | Ángel Correa | 9 | 51 | 12
+EDGE Jan Oblak | Nacho Monsalve | 1 | 51 | 1
+EDGE Diego Godín | Filipe Luís | 39 | 46 | 45
+EDGE Diego Godín | Juanfran Torres | 41 | 46 | 47
+EDGE Diego Godín | Tiago Mendes | 17 | 46 | 17
+EDGE Diego Godín | Gabi | 41 | 46 | 48
+EDGE Diego Godín | Koke | 41 | 46 | 50
+EDGE Diego Godín | Antoine Griezmann | 45 | 46 | 51
+EDGE Diego Godín | Jackson Martínez | 13 | 46 | 13
+EDGE Diego Godín | Luciano Vietto | 13 | 46 | 17
+EDGE Diego Godín | Saúl Ñíguez | 31 | 46 | 40
+EDGE Diego Godín | Lucas Hernández | 4 | 46 | 12
+EDGE Diego Godín | Ángel Correa | 6 | 46 | 12
+EDGE Filipe Luís | Juanfran Torres | 39 | 45 | 47
+EDGE Filipe Luís | Tiago Mendes | 13 | 45 | 17
+EDGE Filipe Luís | Gabi | 41 | 45 | 48
+EDGE Filipe Luís | Koke | 42 | 45 | 50
+EDGE Filipe Luís | Antoine Griezmann | 43 | 45 | 51
+EDGE Filipe Luís | Jackson Martínez | 11 | 45 | 13
+EDGE Filipe Luís | Luciano Vietto | 14 | 45 | 17
+EDGE Filipe Luís | Saúl Ñíguez | 31 | 45 | 40
+EDGE Filipe Luís | Lucas Hernández | 7 | 45 | 12
+EDGE Filipe Luís | Ángel Correa | 8 | 45 | 12
+EDGE Filipe Luís | Nacho Monsalve | 1 | 45 | 1
+EDGE Juanfran Torres | Tiago Mendes | 14 | 47 | 17
+EDGE Juanfran Torres | Gabi | 43 | 47 | 48
+EDGE Juanfran Torres | Koke | 42 | 47 | 50
+EDGE Juanfran Torres | Antoine Griezmann | 45 | 47 | 51
+EDGE Juanfran Torres | Jackson Martínez | 10 | 47 | 13
+EDGE Juanfran Torres | Luciano Vietto | 15 | 47 | 17
+EDGE Juanfran Torres | Saúl Ñíguez | 35 | 47 | 40
+EDGE Juanfran Torres | Lucas Hernández | 8 | 47 | 12
+EDGE Juanfran Torres | Ángel Correa | 7 | 47 | 12
+EDGE Juanfran Torres | Nacho Monsalve | 1 | 47 | 1
+EDGE Tiago Mendes | Gabi | 15 | 17 | 48
+EDGE Tiago Mendes | Koke | 13 | 17 | 50
+EDGE Tiago Mendes | Antoine Griezmann | 17 | 17 | 51
+EDGE Tiago Mendes | Jackson Martínez | 10 | 17 | 13
+EDGE Tiago Mendes | Luciano Vietto | 3 | 17 | 17
+EDGE Tiago Mendes | Saúl Ñíguez | 5 | 17 | 40
+EDGE Tiago Mendes | Ángel Correa | 3 | 17 | 12
+EDGE Gabi | Koke | 42 | 48 | 50
+EDGE Gabi | Antoine Griezmann | 46 | 48 | 51
+EDGE Gabi | Jackson Martínez | 11 | 48 | 13
+EDGE Gabi | Luciano Vietto | 13 | 48 | 17
+EDGE Gabi | Saúl Ñíguez | 33 | 48 | 40
+EDGE Gabi | Lucas Hernández | 9 | 48 | 12
+EDGE Gabi | Ángel Correa | 8 | 48 | 12
+EDGE Gabi | Nacho Monsalve | 1 | 48 | 1
+EDGE Koke | Antoine Griezmann | 46 | 50 | 51
+EDGE Koke | Jackson Martínez | 10 | 50 | 13
+EDGE Koke | Luciano Vietto | 16 | 50 | 17
+EDGE Koke | Saúl Ñíguez | 37 | 50 | 40
+EDGE Koke | Lucas Hernández | 11 | 50 | 12
+EDGE Koke | Ángel Correa | 9 | 50 | 12
+EDGE Koke | Nacho Monsalve | 1 | 50 | 1
+EDGE Antoine Griezmann | Jackson Martínez | 12 | 51 | 13
+EDGE Antoine Griezmann | Luciano Vietto | 15 | 51 | 17
+EDGE Antoine Griezmann | Saúl Ñíguez | 37 | 51 | 40
+EDGE Antoine Griezmann | Lucas Hernández | 9 | 51 | 12
+EDGE Antoine Griezmann | Ángel Correa | 7 | 51 | 12
+EDGE Antoine Griezmann | Nacho Monsalve | 1 | 51 | 1
+EDGE Jackson Martínez | Luciano Vietto | 2 | 13 | 17
+EDGE Jackson Martínez | Saúl Ñíguez | 4 | 13 | 40
+EDGE Jackson Martínez | Ángel Correa | 4 | 13 | 12
+EDGE Luciano Vietto | Lucas Hernández | 4 | 17 | 12
+EDGE Luciano Vietto | Saúl Ñíguez | 15 | 17 | 40
+EDGE Luciano Vietto | Ángel Correa | 3 | 17 | 12
+EDGE Saúl Ñíguez | Lucas Hernández | 10 | 40 | 12
+EDGE Saúl Ñíguez | Ángel Correa | 7 | 40 | 12
+EDGE Saúl Ñíguez | Nacho Monsalve | 1 | 40 | 1
+EDGE Lucas Hernández | Ángel Correa | 5 | 12 | 12
+EDGE Lucas Hernández | Nacho Monsalve | 1 | 12 | 1

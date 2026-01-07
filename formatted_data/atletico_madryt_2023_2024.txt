@@ -1,0 +1,166 @@
+# Team: Atlético Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 4113068 | czw., 28.09.2023 | CA Osasuna
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Axel Witsel, Marcos Llorente, Saúl Ñíguez, Koke, Nahuel Molina, Samuel Lino, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4112881 | niedz., 10.12.2023 | UD Almería
+PLAYERS: Jan Oblak, César Azpilicueta, Stefan Savic, Axel Witsel, Rodrigo De Paul, Koke, Marcos Llorente, Samuel Lino, Ángel Correa, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4113176 | sob., 17.02.2024 | UD Las Palmas
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Reinildo Mandava, Koke, Saúl Ñíguez, Pablo Barrios, Nahuel Molina, Samuel Lino, Marcos Llorente, Ángel Correa
+
+MATCH: 4171279 | wt., 19.09.2023 | Lazio Rzym
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Axel Witsel, Samuel Lino, Nahuel Molina, Saúl Ñíguez, Pablo Barrios, Marcos Llorente, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4275926 | czw., 29.02.2024 | Athletic Bilbao
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Axel Witsel, Koke, Marcos Llorente, Rodrigo De Paul, Nahuel Molina, Samuel Lino, Ángel Correa, Álvaro Morata
+
+MATCH: 4113016 | sob., 13.04.2024 | Girona FC
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Reinildo Mandava, Nahuel Molina, Rodrigo De Paul, Koke, Saúl Ñíguez, Rodrigo Riquelme, Ángel Correa, Antoine Griezmann
+
+MATCH: 4112890 | niedz., 11.02.2024 | Sevilla FC
+PLAYERS: Jan Oblak, Mario Hermoso, Gabriel Paulista, Axel Witsel, Koke, Rodrigo De Paul, Pablo Barrios, Marcos Llorente, Samuel Lino, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4112929 | niedz., 21.04.2024 | Deportivo Alavés
+PLAYERS: Jan Oblak, José María Giménez, César Azpilicueta, Stefan Savic, Koke, Rodrigo De Paul, Pablo Barrios, Nahuel Molina, Samuel Lino, Ángel Correa, Antoine Griezmann
+
+MATCH: 4112941 | sob., 27.04.2024 | Athletic Bilbao
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Axel Witsel, Koke, Marcos Llorente, Rodrigo De Paul, Nahuel Molina, Samuel Lino, Ángel Correa, Antoine Griezmann
+
+MATCH: 4112956 | niedz., 12.05.2024 | Celta de Vigo
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Axel Witsel, Marcos Llorente, Koke, Samuel Lino, César Azpilicueta, Rodrigo Riquelme, Ángel Correa, Antoine Griezmann
+
+MATCH: 4270171 | czw., 25.01.2024 | Sevilla FC
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Axel Witsel, Koke, Saúl Ñíguez, Rodrigo De Paul, Nahuel Molina, Samuel Lino, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4113055 | niedz., 08.10.2023 | Real Sociedad
+PLAYERS: Jan Oblak, Mario Hermoso, César Azpilicueta, Axel Witsel, Marcos Llorente, Rodrigo De Paul, Koke, Nahuel Molina, Samuel Lino, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4243699 | śr., 13.03.2024 | Inter Mediolan
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Axel Witsel, Marcos Llorente, Rodrigo De Paul, Koke, Nahuel Molina, Samuel Lino, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4171277 | wt., 07.11.2023 | Celtic Glasgow
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Axel Witsel, Koke, Pablo Barrios, Nahuel Molina, Rodrigo Riquelme, Antoine Griezmann, Ángel Correa, Álvaro Morata
+
+MATCH: 4113002 | sob., 09.03.2024 | Cádiz CF
+PLAYERS: Jan Oblak, Mario Hermoso, Gabriel Paulista, Axel Witsel, Koke, Saúl Ñíguez, Rodrigo De Paul, Marcos Llorente, Samuel Lino, Memphis Depay, Álvaro Morata
+
+MATCH: 4113042 | niedz., 04.02.2024 | Real Madryt
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Axel Witsel, Koke, Saúl Ñíguez, Rodrigo De Paul, Marcos Llorente, Rodrigo Riquelme, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4113153 | niedz., 29.10.2023 | Deportivo Alavés
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Axel Witsel, Saúl Ñíguez, Rodrigo De Paul, Koke, Nahuel Molina, Rodrigo Riquelme, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4112817 | śr., 31.01.2024 | Rayo Vallecano
+PLAYERS: Jan Oblak, Mario Hermoso, Reinildo Mandava, Axel Witsel, Arthur Vermeeren, Saúl Ñíguez, Pablo Barrios, Marcos Llorente, Rodrigo Riquelme, Ángel Correa, Memphis Depay
+
+MATCH: 4113155 | niedz., 20.08.2023 | Real Betis Balompié
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Axel Witsel, Marcos Llorente, Rodrigo De Paul, Thomas Lemar, César Azpilicueta, Yannick Carrasco, Antoine Griezmann, Memphis Depay
+
+MATCH: 4113075 | sob., 25.11.2023 | RCD Mallorca
+PLAYERS: Jan Oblak, Mario Hermoso, César Azpilicueta, Axel Witsel, Koke, Pablo Barrios, Marcos Llorente, Samuel Lino, Ángel Correa, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4312022 | śr., 10.04.2024 | Borussia Dortmund
+PLAYERS: Jan Oblak, José María Giménez, César Azpilicueta, Axel Witsel, Koke, Marcos Llorente, Rodrigo De Paul, Nahuel Molina, Samuel Lino, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4112985 | niedz., 17.03.2024 | FC Barcelona
+PLAYERS: Jan Oblak, Stefan Savic, Reinildo Mandava, Axel Witsel, Rodrigo De Paul, Pablo Barrios, Nahuel Molina, Samuel Lino, Marcos Llorente, Rodrigo Riquelme, Álvaro Morata
+
+MATCH: 4275924 | śr., 07.02.2024 | Athletic Bilbao
+PLAYERS: Jan Oblak, Stefan Savic, Reinildo Mandava, Axel Witsel, Koke, Rodrigo De Paul, Pablo Barrios, Nahuel Molina, Samuel Lino, Antoine Griezmann, Memphis Depay
+
+MATCH: 4113148 | niedz., 03.12.2023 | FC Barcelona
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Axel Witsel, Rodrigo Riquelme, Nahuel Molina, Koke, Rodrigo De Paul, Marcos Llorente, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4243691 | wt., 20.02.2024 | Inter Mediolan
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Axel Witsel, Koke, Saúl Ñíguez, Rodrigo De Paul, Nahuel Molina, Samuel Lino, Marcos Llorente, Antoine Griezmann
+
+MATCH: 4113092 | niedz., 12.11.2023 | Villarreal CF
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Axel Witsel, Saúl Ñíguez, Rodrigo De Paul, Koke, Nahuel Molina, Rodrigo Riquelme, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4112866 | wt., 19.12.2023 | Getafe CF
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Axel Witsel, Koke, Rodrigo De Paul, Samuel Lino, Marcos Llorente, Rodrigo Riquelme, Antoine Griezmann, Memphis Depay
+
+MATCH: 4112982 | pon., 01.04.2024 | Villarreal CF
+PLAYERS: Jan Oblak, José María Giménez, Reinildo Mandava, Axel Witsel, Koke, Pablo Barrios, Samuel Lino, Marcos Llorente, Rodrigo Riquelme, Antoine Griezmann, Memphis Depay
+
+MATCH: 4240831 | sob., 06.01.2024 | CD Lugo
+PLAYERS: Jan Oblak, Çağlar Söyüncü, José María Giménez, César Azpilicueta, Javi Galán, Nahuel Molina, Axel Witsel, Saúl Ñíguez, Rodrigo Riquelme, Ángel Correa, Memphis Depay
+
+MATCH: 4113006 | niedz., 03.03.2024 | Real Betis Balompié
+PLAYERS: Jan Oblak, Mario Hermoso, Gabriel Paulista, Axel Witsel, Koke, Rodrigo De Paul, Pablo Barrios, Marcos Llorente, Samuel Lino, Memphis Depay, Álvaro Morata
+
+MATCH: 4113117 | niedz., 24.09.2023 | Real Madryt
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Samuel Lino, Nahuel Molina, Koke, Marcos Llorente, Saúl Ñíguez, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4112948 | sob., 04.05.2024 | RCD Mallorca
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Axel Witsel, Koke, Pablo Barrios, César Azpilicueta, Rodrigo Riquelme, Marcos Llorente, Samuel Lino, Ángel Correa
+
+MATCH: 4112919 | śr., 15.05.2024 | Getafe CF
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Axel Witsel, Rodrigo De Paul, Koke, Pablo Barrios, Marcos Llorente, Samuel Lino, Ángel Correa, Antoine Griezmann
+
+MATCH: 4113046 | sob., 23.12.2023 | Sevilla FC
+PLAYERS: Jan Oblak, José María Giménez, César Azpilicueta, Axel Witsel, Samuel Lino, Nahuel Molina, Rodrigo De Paul, Koke, Rodrigo Riquelme, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4112969 | niedz., 01.10.2023 | Cádiz CF
+PLAYERS: Jan Oblak, Mario Hermoso, César Azpilicueta, Axel Witsel, Marcos Llorente, Saúl Ñíguez, Koke, Nahuel Molina, Rodrigo Riquelme, Ángel Correa, Antoine Griezmann
+
+MATCH: 4113170 | sob., 16.09.2023 | Valencia CF
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Axel Witsel, Pablo Barrios, César Azpilicueta, Rodrigo Riquelme, Marcos Llorente, Thomas Lemar, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4112842 | niedz., 28.01.2024 | Valencia CF
+PLAYERS: Jan Oblak, José María Giménez, Stefan Savic, Reinildo Mandava, Koke, Rodrigo De Paul, Pablo Barrios, Nahuel Molina, Samuel Lino, Antoine Griezmann, Memphis Depay
+
+MATCH: 4112901 | sob., 25.05.2024 | Real Sociedad
+PLAYERS: Jan Oblak, José María Giménez, César Azpilicueta, Axel Witsel, Arthur Vermeeren, Rodrigo De Paul, Koke, Marcos Llorente, Samuel Lino, Ángel Correa, Antoine Griezmann
+
+MATCH: 4171275 | śr., 04.10.2023 | Feyenoord Rotterdam
+PLAYERS: Jan Oblak, Mario Hermoso, César Azpilicueta, Axel Witsel, Koke, Saúl Ñíguez, Rodrigo De Paul, Nahuel Molina, Samuel Lino, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4113090 | pon., 28.08.2023 | Rayo Vallecano
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Axel Witsel, Pablo Barrios, Saúl Ñíguez, Rodrigo De Paul, Nahuel Molina, Yannick Carrasco, Antoine Griezmann, Memphis Depay
+
+MATCH: 4171282 | śr., 25.10.2023 | Celtic Glasgow
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Axel Witsel, Koke, Saúl Ñíguez, Rodrigo De Paul, Nahuel Molina, Javi Galán, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4171272 | wt., 28.11.2023 | Feyenoord Rotterdam
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Axel Witsel, Koke, Rodrigo De Paul, Nahuel Molina, Rodrigo Riquelme, Marcos Llorente, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4112859 | śr., 03.01.2024 | Girona FC
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Axel Witsel, Koke, Rodrigo Riquelme, Samuel Lino, Marcos Llorente, Rodrigo De Paul, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4112830 | pon., 22.01.2024 | Granada CF
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Axel Witsel, Marcos Llorente, Saúl Ñíguez, Pablo Barrios, Nahuel Molina, Rodrigo Riquelme, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4112807 | pon., 14.08.2023 | Granada CF
+PLAYERS: Jan Oblak, Mario Hermoso, César Azpilicueta, Stefan Savic, Rodrigo De Paul, Koke, Thomas Lemar, Marcos Llorente, Yannick Carrasco, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4112846 | sob., 16.12.2023 | Athletic Bilbao
+PLAYERS: Jan Oblak, Mario Hermoso, Çağlar Söyüncü, Axel Witsel, Marcos Llorente, Saúl Ñíguez, Koke, Nahuel Molina, Samuel Lino, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4112906 | niedz., 19.05.2024 | CA Osasuna
+PLAYERS: Jan Oblak, Mario Hermoso, Gabriel Paulista, Stefan Savic, Marcos Llorente, Rodrigo De Paul, Koke, César Azpilicueta, Samuel Lino, Ángel Correa, Antoine Griezmann
+
+MATCH: 4171276 | śr., 13.12.2023 | Lazio Rzym
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Axel Witsel, Saúl Ñíguez, Rodrigo De Paul, Nahuel Molina, Samuel Lino, Ángel Correa, Antoine Griezmann
+
+MATCH: 4312026 | wt., 16.04.2024 | Borussia Dortmund
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Axel Witsel, Koke, Marcos Llorente, Rodrigo De Paul, Nahuel Molina, César Azpilicueta, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4259187 | czw., 18.01.2024 | Real Madryt
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Axel Witsel, Koke, Saúl Ñíguez, Rodrigo De Paul, Marcos Llorente, Samuel Lino, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4259012 | śr., 10.01.2024 | Real Madryt
+PLAYERS: Jan Oblak, Mario Hermoso, José María Giménez, Stefan Savic, Koke, Saúl Ñíguez, Rodrigo De Paul, Marcos Llorente, Samuel Lino, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4113025 | sob., 24.02.2024 | UD Almería
+PLAYERS: Jan Oblak, Gabriel Paulista, Stefan Savic, Reinildo Mandava, Koke, Rodrigo De Paul, Pablo Barrios, Nahuel Molina, Samuel Lino, Ángel Correa, Memphis Depay
+
+MATCH: 4113125 | sob., 21.10.2023 | Celta de Vigo
+PLAYERS: Jan Oblak, Mario Hermoso, César Azpilicueta, Axel Witsel, Koke, Saúl Ñíguez, Pablo Barrios, Marcos Llorente, Samuel Lino, Antoine Griezmann, Álvaro Morata
+
+MATCH: 4113115 | pt., 03.11.2023 | UD Las Palmas
+PLAYERS: Jan Oblak, Mario Hermoso, Stefan Savic, Axel Witsel, Rodrigo De Paul, Koke, Pablo Barrios, Nahuel Molina, Rodrigo Riquelme, Antoine Griezmann, Álvaro Morata
+

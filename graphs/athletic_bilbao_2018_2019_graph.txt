@@ -1,0 +1,285 @@
+# Graph for Java/GraphStream
+# Nodes: 26
+# Edges: 279
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Unai Simón | Iñigo Martínez | 7 | 11 | 35
+EDGE Unai Simón | Yeray Álvarez | 8 | 11 | 32
+EDGE Unai Simón | Mikel Balenziaga | 4 | 11 | 8
+EDGE Unai Simón | Óscar de Marcos | 9 | 11 | 30
+EDGE Unai Simón | Dani García | 7 | 11 | 30
+EDGE Unai Simón | Beñat Etxebarria | 7 | 11 | 27
+EDGE Unai Simón | Yuri Berchiche | 9 | 11 | 37
+EDGE Unai Simón | Raúl García | 7 | 11 | 28
+EDGE Unai Simón | Markel Susaeta | 9 | 11 | 18
+EDGE Unai Simón | Iñaki Williams | 8 | 11 | 37
+EDGE Unai Simón | Peru Nolaskoain | 4 | 11 | 6
+EDGE Unai Simón | Mikel San José | 3 | 11 | 19
+EDGE Unai Simón | Iker Muniain | 6 | 11 | 28
+EDGE Unai Simón | Gorka Guruzeta | 3 | 11 | 3
+EDGE Unai Simón | Aritz Aduriz | 4 | 11 | 13
+EDGE Unai Simón | Unai Núñez | 3 | 11 | 13
+EDGE Unai Simón | Ander Iturraspe | 3 | 11 | 3
+EDGE Unai Simón | Unai López | 2 | 11 | 4
+EDGE Unai Simón | Ibai Gómez | 1 | 11 | 7
+EDGE Unai Simón | Ander Capa | 3 | 11 | 19
+EDGE Unai Simón | Iñigo Córdoba | 3 | 11 | 17
+EDGE Iñigo Martínez | Yeray Álvarez | 26 | 35 | 32
+EDGE Iñigo Martínez | Mikel Balenziaga | 6 | 35 | 8
+EDGE Iñigo Martínez | Óscar de Marcos | 24 | 35 | 30
+EDGE Iñigo Martínez | Dani García | 25 | 35 | 30
+EDGE Iñigo Martínez | Beñat Etxebarria | 26 | 35 | 27
+EDGE Iñigo Martínez | Yuri Berchiche | 33 | 35 | 37
+EDGE Iñigo Martínez | Raúl García | 25 | 35 | 28
+EDGE Iñigo Martínez | Markel Susaeta | 14 | 35 | 18
+EDGE Iñigo Martínez | Iñaki Williams | 32 | 35 | 37
+EDGE Iñigo Martínez | Iago Herrerín | 28 | 35 | 31
+EDGE Iñigo Martínez | Unai Núñez | 8 | 35 | 13
+EDGE Iñigo Martínez | Peru Nolaskoain | 3 | 35 | 6
+EDGE Iñigo Martínez | Mikel San José | 15 | 35 | 19
+EDGE Iñigo Martínez | Cristian Ganea | 1 | 35 | 1
+EDGE Iñigo Martínez | Iker Muniain | 24 | 35 | 28
+EDGE Iñigo Martínez | Aritz Aduriz | 10 | 35 | 13
+EDGE Iñigo Martínez | Gorka Guruzeta | 1 | 35 | 3
+EDGE Iñigo Martínez | Ibai Gómez | 5 | 35 | 7
+EDGE Iñigo Martínez | Ander Capa | 16 | 35 | 19
+EDGE Iñigo Martínez | Unai López | 2 | 35 | 4
+EDGE Iñigo Martínez | Iñigo Córdoba | 13 | 35 | 17
+EDGE Iñigo Martínez | Iñigo Lekue | 2 | 35 | 2
+EDGE Iñigo Martínez | Mikel Rico | 3 | 35 | 3
+EDGE Iñigo Martínez | Ander Iturraspe | 1 | 35 | 3
+EDGE Yeray Álvarez | Mikel Balenziaga | 5 | 32 | 8
+EDGE Yeray Álvarez | Óscar de Marcos | 20 | 32 | 30
+EDGE Yeray Álvarez | Dani García | 27 | 32 | 30
+EDGE Yeray Álvarez | Beñat Etxebarria | 19 | 32 | 27
+EDGE Yeray Álvarez | Yuri Berchiche | 30 | 32 | 37
+EDGE Yeray Álvarez | Raúl García | 24 | 32 | 28
+EDGE Yeray Álvarez | Markel Susaeta | 13 | 32 | 18
+EDGE Yeray Álvarez | Iñaki Williams | 28 | 32 | 37
+EDGE Yeray Álvarez | Iago Herrerín | 24 | 32 | 31
+EDGE Yeray Álvarez | Iker Muniain | 20 | 32 | 28
+EDGE Yeray Álvarez | Ibai Gómez | 6 | 32 | 7
+EDGE Yeray Álvarez | Ander Capa | 16 | 32 | 19
+EDGE Yeray Álvarez | Mikel San José | 13 | 32 | 19
+EDGE Yeray Álvarez | Unai López | 2 | 32 | 4
+EDGE Yeray Álvarez | Aritz Aduriz | 10 | 32 | 13
+EDGE Yeray Álvarez | Iñigo Córdoba | 15 | 32 | 17
+EDGE Yeray Álvarez | Unai Núñez | 5 | 32 | 13
+EDGE Yeray Álvarez | Iñigo Lekue | 2 | 32 | 2
+EDGE Yeray Álvarez | Mikel Rico | 3 | 32 | 3
+EDGE Yeray Álvarez | Ander Iturraspe | 1 | 32 | 3
+EDGE Yeray Álvarez | Gorka Guruzeta | 1 | 32 | 3
+EDGE Yeray Álvarez | Peru Nolaskoain | 2 | 32 | 6
+EDGE Mikel Balenziaga | Óscar de Marcos | 6 | 8 | 30
+EDGE Mikel Balenziaga | Dani García | 4 | 8 | 30
+EDGE Mikel Balenziaga | Beñat Etxebarria | 6 | 8 | 27
+EDGE Mikel Balenziaga | Yuri Berchiche | 5 | 8 | 37
+EDGE Mikel Balenziaga | Raúl García | 5 | 8 | 28
+EDGE Mikel Balenziaga | Markel Susaeta | 7 | 8 | 18
+EDGE Mikel Balenziaga | Iñaki Williams | 6 | 8 | 37
+EDGE Mikel Balenziaga | Unai Núñez | 4 | 8 | 13
+EDGE Mikel Balenziaga | Peru Nolaskoain | 1 | 8 | 6
+EDGE Mikel Balenziaga | Mikel San José | 4 | 8 | 19
+EDGE Mikel Balenziaga | Ander Iturraspe | 2 | 8 | 3
+EDGE Mikel Balenziaga | Unai López | 1 | 8 | 4
+EDGE Mikel Balenziaga | Ibai Gómez | 1 | 8 | 7
+EDGE Mikel Balenziaga | Gorka Guruzeta | 2 | 8 | 3
+EDGE Mikel Balenziaga | Iago Herrerín | 4 | 8 | 31
+EDGE Mikel Balenziaga | Iker Muniain | 3 | 8 | 28
+EDGE Mikel Balenziaga | Ander Capa | 2 | 8 | 19
+EDGE Mikel Balenziaga | Iñigo Córdoba | 1 | 8 | 17
+EDGE Mikel Balenziaga | Aritz Aduriz | 1 | 8 | 13
+EDGE Óscar de Marcos | Dani García | 22 | 30 | 30
+EDGE Óscar de Marcos | Beñat Etxebarria | 19 | 30 | 27
+EDGE Óscar de Marcos | Yuri Berchiche | 26 | 30 | 37
+EDGE Óscar de Marcos | Raúl García | 20 | 30 | 28
+EDGE Óscar de Marcos | Markel Susaeta | 13 | 30 | 18
+EDGE Óscar de Marcos | Iñaki Williams | 29 | 30 | 37
+EDGE Óscar de Marcos | Iago Herrerín | 21 | 30 | 31
+EDGE Óscar de Marcos | Unai Núñez | 11 | 30 | 13
+EDGE Óscar de Marcos | Peru Nolaskoain | 6 | 30 | 6
+EDGE Óscar de Marcos | Mikel San José | 13 | 30 | 19
+EDGE Óscar de Marcos | Cristian Ganea | 1 | 30 | 1
+EDGE Óscar de Marcos | Iker Muniain | 21 | 30 | 28
+EDGE Óscar de Marcos | Aritz Aduriz | 7 | 30 | 13
+EDGE Óscar de Marcos | Gorka Guruzeta | 2 | 30 | 3
+EDGE Óscar de Marcos | Ander Iturraspe | 2 | 30 | 3
+EDGE Óscar de Marcos | Unai López | 4 | 30 | 4
+EDGE Óscar de Marcos | Ibai Gómez | 4 | 30 | 7
+EDGE Óscar de Marcos | Iñigo Córdoba | 10 | 30 | 17
+EDGE Óscar de Marcos | Ander Capa | 9 | 30 | 19
+EDGE Óscar de Marcos | Mikel Rico | 1 | 30 | 3
+EDGE Dani García | Beñat Etxebarria | 18 | 30 | 27
+EDGE Dani García | Yuri Berchiche | 29 | 30 | 37
+EDGE Dani García | Raúl García | 22 | 30 | 28
+EDGE Dani García | Markel Susaeta | 12 | 30 | 18
+EDGE Dani García | Iñaki Williams | 27 | 30 | 37
+EDGE Dani García | Iago Herrerín | 23 | 30 | 31
+EDGE Dani García | Iker Muniain | 20 | 30 | 28
+EDGE Dani García | Ibai Gómez | 6 | 30 | 7
+EDGE Dani García | Unai López | 3 | 30 | 4
+EDGE Dani García | Aritz Aduriz | 9 | 30 | 13
+EDGE Dani García | Mikel San José | 8 | 30 | 19
+EDGE Dani García | Iñigo Córdoba | 13 | 30 | 17
+EDGE Dani García | Ander Capa | 15 | 30 | 19
+EDGE Dani García | Unai Núñez | 5 | 30 | 13
+EDGE Dani García | Peru Nolaskoain | 3 | 30 | 6
+EDGE Dani García | Mikel Rico | 2 | 30 | 3
+EDGE Beñat Etxebarria | Yuri Berchiche | 24 | 27 | 37
+EDGE Beñat Etxebarria | Raúl García | 21 | 27 | 28
+EDGE Beñat Etxebarria | Markel Susaeta | 11 | 27 | 18
+EDGE Beñat Etxebarria | Iñaki Williams | 25 | 27 | 37
+EDGE Beñat Etxebarria | Iago Herrerín | 20 | 27 | 31
+EDGE Beñat Etxebarria | Unai Núñez | 8 | 27 | 13
+EDGE Beñat Etxebarria | Peru Nolaskoain | 2 | 27 | 6
+EDGE Beñat Etxebarria | Mikel San José | 8 | 27 | 19
+EDGE Beñat Etxebarria | Cristian Ganea | 1 | 27 | 1
+EDGE Beñat Etxebarria | Iker Muniain | 19 | 27 | 28
+EDGE Beñat Etxebarria | Aritz Aduriz | 6 | 27 | 13
+EDGE Beñat Etxebarria | Gorka Guruzeta | 1 | 27 | 3
+EDGE Beñat Etxebarria | Ibai Gómez | 3 | 27 | 7
+EDGE Beñat Etxebarria | Ander Capa | 14 | 27 | 19
+EDGE Beñat Etxebarria | Iñigo Córdoba | 10 | 27 | 17
+EDGE Beñat Etxebarria | Iñigo Lekue | 1 | 27 | 2
+EDGE Beñat Etxebarria | Ander Iturraspe | 1 | 27 | 3
+EDGE Yuri Berchiche | Raúl García | 26 | 37 | 28
+EDGE Yuri Berchiche | Markel Susaeta | 15 | 37 | 18
+EDGE Yuri Berchiche | Iñaki Williams | 34 | 37 | 37
+EDGE Yuri Berchiche | Peru Nolaskoain | 4 | 37 | 6
+EDGE Yuri Berchiche | Mikel San José | 15 | 37 | 19
+EDGE Yuri Berchiche | Iker Muniain | 26 | 37 | 28
+EDGE Yuri Berchiche | Gorka Guruzeta | 1 | 37 | 3
+EDGE Yuri Berchiche | Aritz Aduriz | 10 | 37 | 13
+EDGE Yuri Berchiche | Iago Herrerín | 28 | 37 | 31
+EDGE Yuri Berchiche | Ibai Gómez | 6 | 37 | 7
+EDGE Yuri Berchiche | Ander Capa | 17 | 37 | 19
+EDGE Yuri Berchiche | Unai Núñez | 8 | 37 | 13
+EDGE Yuri Berchiche | Unai López | 3 | 37 | 4
+EDGE Yuri Berchiche | Iñigo Córdoba | 15 | 37 | 17
+EDGE Yuri Berchiche | Iñigo Lekue | 2 | 37 | 2
+EDGE Yuri Berchiche | Mikel Rico | 3 | 37 | 3
+EDGE Yuri Berchiche | Ander Iturraspe | 1 | 37 | 3
+EDGE Raúl García | Markel Susaeta | 13 | 28 | 18
+EDGE Raúl García | Iñaki Williams | 25 | 28 | 37
+EDGE Raúl García | Iago Herrerín | 21 | 28 | 31
+EDGE Raúl García | Iker Muniain | 17 | 28 | 28
+EDGE Raúl García | Ibai Gómez | 4 | 28 | 7
+EDGE Raúl García | Ander Capa | 12 | 28 | 19
+EDGE Raúl García | Mikel San José | 10 | 28 | 19
+EDGE Raúl García | Unai López | 1 | 28 | 4
+EDGE Raúl García | Aritz Aduriz | 7 | 28 | 13
+EDGE Raúl García | Iñigo Córdoba | 9 | 28 | 17
+EDGE Raúl García | Unai Núñez | 6 | 28 | 13
+EDGE Raúl García | Mikel Rico | 2 | 28 | 3
+EDGE Raúl García | Iñigo Lekue | 1 | 28 | 2
+EDGE Raúl García | Ander Iturraspe | 1 | 28 | 3
+EDGE Raúl García | Peru Nolaskoain | 1 | 28 | 6
+EDGE Markel Susaeta | Iñaki Williams | 13 | 18 | 37
+EDGE Markel Susaeta | Unai Núñez | 5 | 18 | 13
+EDGE Markel Susaeta | Peru Nolaskoain | 4 | 18 | 6
+EDGE Markel Susaeta | Mikel San José | 8 | 18 | 19
+EDGE Markel Susaeta | Ander Iturraspe | 2 | 18 | 3
+EDGE Markel Susaeta | Unai López | 3 | 18 | 4
+EDGE Markel Susaeta | Ibai Gómez | 1 | 18 | 7
+EDGE Markel Susaeta | Gorka Guruzeta | 2 | 18 | 3
+EDGE Markel Susaeta | Iago Herrerín | 9 | 18 | 31
+EDGE Markel Susaeta | Ander Capa | 5 | 18 | 19
+EDGE Markel Susaeta | Iker Muniain | 10 | 18 | 28
+EDGE Markel Susaeta | Aritz Aduriz | 6 | 18 | 13
+EDGE Markel Susaeta | Mikel Rico | 1 | 18 | 3
+EDGE Markel Susaeta | Iñigo Córdoba | 4 | 18 | 17
+EDGE Iñaki Williams | Iago Herrerín | 29 | 37 | 31
+EDGE Iñaki Williams | Unai Núñez | 11 | 37 | 13
+EDGE Iñaki Williams | Peru Nolaskoain | 5 | 37 | 6
+EDGE Iñaki Williams | Mikel San José | 16 | 37 | 19
+EDGE Iñaki Williams | Cristian Ganea | 1 | 37 | 1
+EDGE Iñaki Williams | Iker Muniain | 28 | 37 | 28
+EDGE Iñaki Williams | Aritz Aduriz | 9 | 37 | 13
+EDGE Iñaki Williams | Gorka Guruzeta | 1 | 37 | 3
+EDGE Iñaki Williams | Ibai Gómez | 6 | 37 | 7
+EDGE Iñaki Williams | Ander Capa | 15 | 37 | 19
+EDGE Iñaki Williams | Unai López | 3 | 37 | 4
+EDGE Iñaki Williams | Iñigo Córdoba | 14 | 37 | 17
+EDGE Iñaki Williams | Iñigo Lekue | 2 | 37 | 2
+EDGE Iñaki Williams | Mikel Rico | 2 | 37 | 3
+EDGE Iñaki Williams | Ander Iturraspe | 1 | 37 | 3
+EDGE Iago Herrerín | Unai Núñez | 10 | 31 | 13
+EDGE Iago Herrerín | Peru Nolaskoain | 2 | 31 | 6
+EDGE Iago Herrerín | Mikel San José | 16 | 31 | 19
+EDGE Iago Herrerín | Cristian Ganea | 1 | 31 | 1
+EDGE Iago Herrerín | Iker Muniain | 22 | 31 | 28
+EDGE Iago Herrerín | Aritz Aduriz | 9 | 31 | 13
+EDGE Iago Herrerín | Ibai Gómez | 6 | 31 | 7
+EDGE Iago Herrerín | Ander Capa | 16 | 31 | 19
+EDGE Iago Herrerín | Unai López | 2 | 31 | 4
+EDGE Iago Herrerín | Iñigo Córdoba | 14 | 31 | 17
+EDGE Iago Herrerín | Iñigo Lekue | 2 | 31 | 2
+EDGE Iago Herrerín | Mikel Rico | 3 | 31 | 3
+EDGE Unai Núñez | Peru Nolaskoain | 2 | 13 | 6
+EDGE Unai Núñez | Mikel San José | 9 | 13 | 19
+EDGE Unai Núñez | Cristian Ganea | 1 | 13 | 1
+EDGE Unai Núñez | Iker Muniain | 8 | 13 | 28
+EDGE Unai Núñez | Aritz Aduriz | 4 | 13 | 13
+EDGE Unai Núñez | Ander Iturraspe | 3 | 13 | 3
+EDGE Unai Núñez | Unai López | 1 | 13 | 4
+EDGE Unai Núñez | Ibai Gómez | 2 | 13 | 7
+EDGE Unai Núñez | Gorka Guruzeta | 2 | 13 | 3
+EDGE Unai Núñez | Iñigo Lekue | 1 | 13 | 2
+EDGE Unai Núñez | Mikel Rico | 1 | 13 | 3
+EDGE Unai Núñez | Iñigo Córdoba | 6 | 13 | 17
+EDGE Unai Núñez | Ander Capa | 6 | 13 | 19
+EDGE Peru Nolaskoain | Mikel San José | 3 | 6 | 19
+EDGE Peru Nolaskoain | Cristian Ganea | 1 | 6 | 1
+EDGE Peru Nolaskoain | Iker Muniain | 5 | 6 | 28
+EDGE Peru Nolaskoain | Aritz Aduriz | 4 | 6 | 13
+EDGE Peru Nolaskoain | Gorka Guruzeta | 2 | 6 | 3
+EDGE Peru Nolaskoain | Ander Iturraspe | 1 | 6 | 3
+EDGE Peru Nolaskoain | Unai López | 3 | 6 | 4
+EDGE Peru Nolaskoain | Ibai Gómez | 1 | 6 | 7
+EDGE Peru Nolaskoain | Iñigo Córdoba | 1 | 6 | 17
+EDGE Mikel San José | Cristian Ganea | 1 | 19 | 1
+EDGE Mikel San José | Iker Muniain | 12 | 19 | 28
+EDGE Mikel San José | Aritz Aduriz | 6 | 19 | 13
+EDGE Mikel San José | Gorka Guruzeta | 3 | 19 | 3
+EDGE Mikel San José | Ander Iturraspe | 2 | 19 | 3
+EDGE Mikel San José | Unai López | 1 | 19 | 4
+EDGE Mikel San José | Ibai Gómez | 4 | 19 | 7
+EDGE Mikel San José | Ander Capa | 7 | 19 | 19
+EDGE Mikel San José | Iñigo Córdoba | 8 | 19 | 17
+EDGE Mikel San José | Iñigo Lekue | 2 | 19 | 2
+EDGE Mikel San José | Mikel Rico | 3 | 19 | 3
+EDGE Cristian Ganea | Iker Muniain | 1 | 1 | 28
+EDGE Cristian Ganea | Aritz Aduriz | 1 | 1 | 13
+EDGE Iker Muniain | Aritz Aduriz | 6 | 28 | 13
+EDGE Iker Muniain | Gorka Guruzeta | 1 | 28 | 3
+EDGE Iker Muniain | Ibai Gómez | 5 | 28 | 7
+EDGE Iker Muniain | Ander Capa | 12 | 28 | 19
+EDGE Iker Muniain | Unai López | 3 | 28 | 4
+EDGE Iker Muniain | Iñigo Córdoba | 9 | 28 | 17
+EDGE Iker Muniain | Iñigo Lekue | 1 | 28 | 2
+EDGE Iker Muniain | Ander Iturraspe | 1 | 28 | 3
+EDGE Aritz Aduriz | Gorka Guruzeta | 2 | 13 | 3
+EDGE Aritz Aduriz | Unai López | 3 | 13 | 4
+EDGE Aritz Aduriz | Iñigo Lekue | 1 | 13 | 2
+EDGE Aritz Aduriz | Mikel Rico | 3 | 13 | 3
+EDGE Aritz Aduriz | Iñigo Córdoba | 5 | 13 | 17
+EDGE Aritz Aduriz | Ander Capa | 6 | 13 | 19
+EDGE Aritz Aduriz | Ander Iturraspe | 1 | 13 | 3
+EDGE Gorka Guruzeta | Ander Iturraspe | 2 | 3 | 3
+EDGE Gorka Guruzeta | Unai López | 1 | 3 | 4
+EDGE Gorka Guruzeta | Ibai Gómez | 1 | 3 | 7
+EDGE Gorka Guruzeta | Ander Capa | 1 | 3 | 19
+EDGE Gorka Guruzeta | Iñigo Córdoba | 1 | 3 | 17
+EDGE Ander Iturraspe | Unai López | 1 | 3 | 4
+EDGE Ander Iturraspe | Ibai Gómez | 1 | 3 | 7
+EDGE Ander Iturraspe | Ander Capa | 2 | 3 | 19
+EDGE Ander Iturraspe | Iñigo Córdoba | 1 | 3 | 17
+EDGE Unai López | Ibai Gómez | 1 | 4 | 7
+EDGE Ibai Gómez | Iñigo Córdoba | 3 | 7 | 17
+EDGE Ibai Gómez | Ander Capa | 3 | 7 | 19
+EDGE Ander Capa | Iñigo Córdoba | 12 | 19 | 17
+EDGE Ander Capa | Mikel Rico | 1 | 19 | 3
+EDGE Iñigo Córdoba | Iñigo Lekue | 2 | 17 | 2
+EDGE Iñigo Córdoba | Mikel Rico | 1 | 17 | 3
+EDGE Iñigo Lekue | Mikel Rico | 1 | 2 | 3

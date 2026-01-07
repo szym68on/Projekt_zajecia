@@ -1,0 +1,254 @@
+# Graph for Java/GraphStream
+# Nodes: 26
+# Edges: 248
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Miguel San Román | José María Giménez | 1 | 1 | 25
+EDGE Miguel San Román | Felipe | 1 | 1 | 29
+EDGE Miguel San Román | Renan Lodi | 1 | 1 | 18
+EDGE Miguel San Román | Ricard Sánchez | 1 | 1 | 2
+EDGE Miguel San Román | Geoffrey Kondogbia | 1 | 1 | 6
+EDGE Miguel San Román | Lucas Torreira | 1 | 1 | 5
+EDGE Miguel San Román | Saúl Ñíguez | 1 | 1 | 30
+EDGE Miguel San Román | Vitolo | 1 | 1 | 5
+EDGE Miguel San Román | João Félix | 1 | 1 | 23
+EDGE Miguel San Román | Ángel Correa | 1 | 1 | 36
+EDGE José María Giménez | Felipe | 8 | 25 | 29
+EDGE José María Giménez | Renan Lodi | 10 | 25 | 18
+EDGE José María Giménez | Ricard Sánchez | 1 | 25 | 2
+EDGE José María Giménez | Geoffrey Kondogbia | 4 | 25 | 6
+EDGE José María Giménez | Lucas Torreira | 2 | 25 | 5
+EDGE José María Giménez | Saúl Ñíguez | 18 | 25 | 30
+EDGE José María Giménez | Vitolo | 2 | 25 | 5
+EDGE José María Giménez | João Félix | 12 | 25 | 23
+EDGE José María Giménez | Ángel Correa | 20 | 25 | 36
+EDGE José María Giménez | Jan Oblak | 24 | 25 | 46
+EDGE José María Giménez | Mario Hermoso | 16 | 25 | 34
+EDGE José María Giménez | Stefan Savic | 20 | 25 | 41
+EDGE José María Giménez | Koke | 21 | 25 | 41
+EDGE José María Giménez | Héctor Herrera | 6 | 25 | 11
+EDGE José María Giménez | Kieran Trippier | 17 | 25 | 35
+EDGE José María Giménez | Yannick Carrasco | 16 | 25 | 30
+EDGE José María Giménez | Sime Vrsaljko | 4 | 25 | 6
+EDGE José María Giménez | Marcos Llorente | 23 | 25 | 41
+EDGE José María Giménez | Thomas Lemar | 9 | 25 | 21
+EDGE José María Giménez | Luis Suárez | 16 | 25 | 36
+EDGE Felipe | Renan Lodi | 11 | 29 | 18
+EDGE Felipe | Ricard Sánchez | 2 | 29 | 2
+EDGE Felipe | Geoffrey Kondogbia | 5 | 29 | 6
+EDGE Felipe | Lucas Torreira | 4 | 29 | 5
+EDGE Felipe | Saúl Ñíguez | 18 | 29 | 30
+EDGE Felipe | Vitolo | 4 | 29 | 5
+EDGE Felipe | João Félix | 13 | 29 | 23
+EDGE Felipe | Ángel Correa | 21 | 29 | 36
+EDGE Felipe | Jan Oblak | 27 | 29 | 46
+EDGE Felipe | Mario Hermoso | 20 | 29 | 34
+EDGE Felipe | Stefan Savic | 22 | 29 | 41
+EDGE Felipe | Marcos Llorente | 24 | 29 | 41
+EDGE Felipe | Koke | 24 | 29 | 41
+EDGE Felipe | Kieran Trippier | 18 | 29 | 35
+EDGE Felipe | Yannick Carrasco | 16 | 29 | 30
+EDGE Felipe | Thomas Lemar | 14 | 29 | 21
+EDGE Felipe | Luis Suárez | 25 | 29 | 36
+EDGE Felipe | Héctor Herrera | 5 | 29 | 11
+EDGE Felipe | Ivo Grbic | 1 | 29 | 1
+EDGE Felipe | Sime Vrsaljko | 4 | 29 | 6
+EDGE Felipe | Thomas Partey | 2 | 29 | 2
+EDGE Felipe | Diego Costa | 1 | 29 | 2
+EDGE Renan Lodi | Ricard Sánchez | 2 | 18 | 2
+EDGE Renan Lodi | Geoffrey Kondogbia | 4 | 18 | 6
+EDGE Renan Lodi | Lucas Torreira | 2 | 18 | 5
+EDGE Renan Lodi | Saúl Ñíguez | 14 | 18 | 30
+EDGE Renan Lodi | Vitolo | 3 | 18 | 5
+EDGE Renan Lodi | João Félix | 11 | 18 | 23
+EDGE Renan Lodi | Ángel Correa | 13 | 18 | 36
+EDGE Renan Lodi | Jan Oblak | 16 | 18 | 46
+EDGE Renan Lodi | Stefan Savic | 13 | 18 | 41
+EDGE Renan Lodi | Kieran Trippier | 14 | 18 | 35
+EDGE Renan Lodi | Héctor Herrera | 6 | 18 | 11
+EDGE Renan Lodi | Koke | 14 | 18 | 41
+EDGE Renan Lodi | Marcos Llorente | 14 | 18 | 41
+EDGE Renan Lodi | Yannick Carrasco | 8 | 18 | 30
+EDGE Renan Lodi | Luis Suárez | 10 | 18 | 36
+EDGE Renan Lodi | Ivo Grbic | 1 | 18 | 1
+EDGE Renan Lodi | Mario Hermoso | 6 | 18 | 34
+EDGE Renan Lodi | Thomas Lemar | 4 | 18 | 21
+EDGE Renan Lodi | Thomas Partey | 2 | 18 | 2
+EDGE Renan Lodi | Diego Costa | 1 | 18 | 2
+EDGE Ricard Sánchez | Geoffrey Kondogbia | 2 | 2 | 6
+EDGE Ricard Sánchez | Lucas Torreira | 2 | 2 | 5
+EDGE Ricard Sánchez | Saúl Ñíguez | 2 | 2 | 30
+EDGE Ricard Sánchez | Vitolo | 2 | 2 | 5
+EDGE Ricard Sánchez | João Félix | 1 | 2 | 23
+EDGE Ricard Sánchez | Ángel Correa | 2 | 2 | 36
+EDGE Ricard Sánchez | Ivo Grbic | 1 | 2 | 1
+EDGE Ricard Sánchez | Mario Hermoso | 1 | 2 | 34
+EDGE Ricard Sánchez | Thomas Lemar | 1 | 2 | 21
+EDGE Geoffrey Kondogbia | Lucas Torreira | 2 | 6 | 5
+EDGE Geoffrey Kondogbia | Saúl Ñíguez | 4 | 6 | 30
+EDGE Geoffrey Kondogbia | Vitolo | 2 | 6 | 5
+EDGE Geoffrey Kondogbia | João Félix | 2 | 6 | 23
+EDGE Geoffrey Kondogbia | Ángel Correa | 6 | 6 | 36
+EDGE Geoffrey Kondogbia | Ivo Grbic | 1 | 6 | 1
+EDGE Geoffrey Kondogbia | Mario Hermoso | 4 | 6 | 34
+EDGE Geoffrey Kondogbia | Thomas Lemar | 2 | 6 | 21
+EDGE Geoffrey Kondogbia | Jan Oblak | 4 | 6 | 46
+EDGE Geoffrey Kondogbia | Stefan Savic | 3 | 6 | 41
+EDGE Geoffrey Kondogbia | Marcos Llorente | 4 | 6 | 41
+EDGE Geoffrey Kondogbia | Koke | 3 | 6 | 41
+EDGE Geoffrey Kondogbia | Yannick Carrasco | 2 | 6 | 30
+EDGE Geoffrey Kondogbia | Luis Suárez | 4 | 6 | 36
+EDGE Geoffrey Kondogbia | Kieran Trippier | 1 | 6 | 35
+EDGE Lucas Torreira | Saúl Ñíguez | 3 | 5 | 30
+EDGE Lucas Torreira | Vitolo | 2 | 5 | 5
+EDGE Lucas Torreira | João Félix | 2 | 5 | 23
+EDGE Lucas Torreira | Ángel Correa | 4 | 5 | 36
+EDGE Lucas Torreira | Ivo Grbic | 1 | 5 | 1
+EDGE Lucas Torreira | Mario Hermoso | 3 | 5 | 34
+EDGE Lucas Torreira | Thomas Lemar | 4 | 5 | 21
+EDGE Lucas Torreira | Jan Oblak | 3 | 5 | 46
+EDGE Lucas Torreira | Stefan Savic | 3 | 5 | 41
+EDGE Lucas Torreira | Kieran Trippier | 2 | 5 | 35
+EDGE Lucas Torreira | Marcos Llorente | 2 | 5 | 41
+EDGE Lucas Torreira | Koke | 3 | 5 | 41
+EDGE Lucas Torreira | Luis Suárez | 3 | 5 | 36
+EDGE Lucas Torreira | Manu Sánchez | 1 | 5 | 1
+EDGE Lucas Torreira | Diego Costa | 1 | 5 | 2
+EDGE Saúl Ñíguez | Vitolo | 4 | 30 | 5
+EDGE Saúl Ñíguez | João Félix | 14 | 30 | 23
+EDGE Saúl Ñíguez | Ángel Correa | 24 | 30 | 36
+EDGE Saúl Ñíguez | Ivo Grbic | 1 | 30 | 1
+EDGE Saúl Ñíguez | Mario Hermoso | 18 | 30 | 34
+EDGE Saúl Ñíguez | Thomas Lemar | 8 | 30 | 21
+EDGE Saúl Ñíguez | Jan Oblak | 28 | 30 | 46
+EDGE Saúl Ñíguez | Stefan Savic | 25 | 30 | 41
+EDGE Saúl Ñíguez | Koke | 24 | 30 | 41
+EDGE Saúl Ñíguez | Héctor Herrera | 7 | 30 | 11
+EDGE Saúl Ñíguez | Kieran Trippier | 21 | 30 | 35
+EDGE Saúl Ñíguez | Yannick Carrasco | 17 | 30 | 30
+EDGE Saúl Ñíguez | Marcos Llorente | 24 | 30 | 41
+EDGE Saúl Ñíguez | Luis Suárez | 19 | 30 | 36
+EDGE Saúl Ñíguez | Thomas Partey | 2 | 30 | 2
+EDGE Saúl Ñíguez | Sime Vrsaljko | 3 | 30 | 6
+EDGE Saúl Ñíguez | Diego Costa | 1 | 30 | 2
+EDGE Vitolo | João Félix | 3 | 5 | 23
+EDGE Vitolo | Ángel Correa | 4 | 5 | 36
+EDGE Vitolo | Ivo Grbic | 1 | 5 | 1
+EDGE Vitolo | Mario Hermoso | 4 | 5 | 34
+EDGE Vitolo | Thomas Lemar | 2 | 5 | 21
+EDGE Vitolo | Jan Oblak | 3 | 5 | 46
+EDGE Vitolo | Kieran Trippier | 3 | 5 | 35
+EDGE Vitolo | Thomas Partey | 1 | 5 | 2
+EDGE Vitolo | Marcos Llorente | 2 | 5 | 41
+EDGE Vitolo | Luis Suárez | 2 | 5 | 36
+EDGE Vitolo | Stefan Savic | 2 | 5 | 41
+EDGE Vitolo | Héctor Herrera | 2 | 5 | 11
+EDGE Vitolo | Koke | 1 | 5 | 41
+EDGE João Félix | Ángel Correa | 12 | 23 | 36
+EDGE João Félix | Jan Oblak | 22 | 23 | 46
+EDGE João Félix | Stefan Savic | 20 | 23 | 41
+EDGE João Félix | Kieran Trippier | 17 | 23 | 35
+EDGE João Félix | Héctor Herrera | 7 | 23 | 11
+EDGE João Félix | Koke | 20 | 23 | 41
+EDGE João Félix | Marcos Llorente | 19 | 23 | 41
+EDGE João Félix | Yannick Carrasco | 13 | 23 | 30
+EDGE João Félix | Luis Suárez | 16 | 23 | 36
+EDGE João Félix | Mario Hermoso | 14 | 23 | 34
+EDGE João Félix | Thomas Partey | 2 | 23 | 2
+EDGE João Félix | Thomas Lemar | 6 | 23 | 21
+EDGE João Félix | Sime Vrsaljko | 2 | 23 | 6
+EDGE João Félix | Diego Costa | 1 | 23 | 2
+EDGE Ángel Correa | Jan Oblak | 34 | 36 | 46
+EDGE Ángel Correa | Mario Hermoso | 25 | 36 | 34
+EDGE Ángel Correa | Stefan Savic | 31 | 36 | 41
+EDGE Ángel Correa | Marcos Llorente | 29 | 36 | 41
+EDGE Ángel Correa | Koke | 30 | 36 | 41
+EDGE Ángel Correa | Kieran Trippier | 26 | 36 | 35
+EDGE Ángel Correa | Yannick Carrasco | 22 | 36 | 30
+EDGE Ángel Correa | Thomas Lemar | 15 | 36 | 21
+EDGE Ángel Correa | Luis Suárez | 24 | 36 | 36
+EDGE Ángel Correa | Ivo Grbic | 1 | 36 | 1
+EDGE Ángel Correa | Héctor Herrera | 8 | 36 | 11
+EDGE Ángel Correa | Sime Vrsaljko | 4 | 36 | 6
+EDGE Ángel Correa | Thomas Partey | 1 | 36 | 2
+EDGE Ángel Correa | Manu Sánchez | 1 | 36 | 1
+EDGE Ángel Correa | Diego Costa | 2 | 36 | 2
+EDGE Jan Oblak | Mario Hermoso | 33 | 46 | 34
+EDGE Jan Oblak | Stefan Savic | 41 | 46 | 41
+EDGE Jan Oblak | Marcos Llorente | 41 | 46 | 41
+EDGE Jan Oblak | Koke | 41 | 46 | 41
+EDGE Jan Oblak | Kieran Trippier | 35 | 46 | 35
+EDGE Jan Oblak | Yannick Carrasco | 30 | 46 | 30
+EDGE Jan Oblak | Thomas Lemar | 20 | 46 | 21
+EDGE Jan Oblak | Luis Suárez | 36 | 46 | 36
+EDGE Jan Oblak | Héctor Herrera | 11 | 46 | 11
+EDGE Jan Oblak | Sime Vrsaljko | 6 | 46 | 6
+EDGE Jan Oblak | Thomas Partey | 2 | 46 | 2
+EDGE Jan Oblak | Manu Sánchez | 1 | 46 | 1
+EDGE Jan Oblak | Diego Costa | 2 | 46 | 2
+EDGE Mario Hermoso | Stefan Savic | 28 | 34 | 41
+EDGE Mario Hermoso | Marcos Llorente | 30 | 34 | 41
+EDGE Mario Hermoso | Koke | 30 | 34 | 41
+EDGE Mario Hermoso | Kieran Trippier | 25 | 34 | 35
+EDGE Mario Hermoso | Yannick Carrasco | 22 | 34 | 30
+EDGE Mario Hermoso | Thomas Lemar | 19 | 34 | 21
+EDGE Mario Hermoso | Luis Suárez | 28 | 34 | 36
+EDGE Mario Hermoso | Ivo Grbic | 1 | 34 | 1
+EDGE Mario Hermoso | Héctor Herrera | 5 | 34 | 11
+EDGE Mario Hermoso | Sime Vrsaljko | 5 | 34 | 6
+EDGE Mario Hermoso | Thomas Partey | 1 | 34 | 2
+EDGE Mario Hermoso | Manu Sánchez | 1 | 34 | 1
+EDGE Mario Hermoso | Diego Costa | 1 | 34 | 2
+EDGE Stefan Savic | Marcos Llorente | 36 | 41 | 41
+EDGE Stefan Savic | Koke | 37 | 41 | 41
+EDGE Stefan Savic | Kieran Trippier | 32 | 41 | 35
+EDGE Stefan Savic | Yannick Carrasco | 28 | 41 | 30
+EDGE Stefan Savic | Thomas Lemar | 18 | 41 | 21
+EDGE Stefan Savic | Luis Suárez | 31 | 41 | 36
+EDGE Stefan Savic | Héctor Herrera | 11 | 41 | 11
+EDGE Stefan Savic | Thomas Partey | 1 | 41 | 2
+EDGE Stefan Savic | Sime Vrsaljko | 5 | 41 | 6
+EDGE Stefan Savic | Manu Sánchez | 1 | 41 | 1
+EDGE Stefan Savic | Diego Costa | 2 | 41 | 2
+EDGE Marcos Llorente | Koke | 37 | 41 | 41
+EDGE Marcos Llorente | Kieran Trippier | 30 | 41 | 35
+EDGE Marcos Llorente | Yannick Carrasco | 28 | 41 | 30
+EDGE Marcos Llorente | Thomas Lemar | 18 | 41 | 21
+EDGE Marcos Llorente | Luis Suárez | 33 | 41 | 36
+EDGE Marcos Llorente | Héctor Herrera | 9 | 41 | 11
+EDGE Marcos Llorente | Sime Vrsaljko | 6 | 41 | 6
+EDGE Marcos Llorente | Thomas Partey | 1 | 41 | 2
+EDGE Koke | Kieran Trippier | 31 | 41 | 35
+EDGE Koke | Yannick Carrasco | 28 | 41 | 30
+EDGE Koke | Thomas Lemar | 17 | 41 | 21
+EDGE Koke | Luis Suárez | 31 | 41 | 36
+EDGE Koke | Héctor Herrera | 9 | 41 | 11
+EDGE Koke | Sime Vrsaljko | 5 | 41 | 6
+EDGE Koke | Thomas Partey | 1 | 41 | 2
+EDGE Koke | Manu Sánchez | 1 | 41 | 1
+EDGE Koke | Diego Costa | 2 | 41 | 2
+EDGE Kieran Trippier | Yannick Carrasco | 24 | 35 | 30
+EDGE Kieran Trippier | Thomas Lemar | 13 | 35 | 21
+EDGE Kieran Trippier | Luis Suárez | 25 | 35 | 36
+EDGE Kieran Trippier | Héctor Herrera | 11 | 35 | 11
+EDGE Kieran Trippier | Thomas Partey | 2 | 35 | 2
+EDGE Kieran Trippier | Manu Sánchez | 1 | 35 | 1
+EDGE Kieran Trippier | Diego Costa | 2 | 35 | 2
+EDGE Yannick Carrasco | Thomas Lemar | 12 | 30 | 21
+EDGE Yannick Carrasco | Luis Suárez | 22 | 30 | 36
+EDGE Yannick Carrasco | Héctor Herrera | 6 | 30 | 11
+EDGE Yannick Carrasco | Sime Vrsaljko | 5 | 30 | 6
+EDGE Yannick Carrasco | Diego Costa | 1 | 30 | 2
+EDGE Thomas Lemar | Luis Suárez | 19 | 21 | 36
+EDGE Thomas Lemar | Ivo Grbic | 1 | 21 | 1
+EDGE Thomas Lemar | Sime Vrsaljko | 5 | 21 | 6
+EDGE Thomas Lemar | Héctor Herrera | 1 | 21 | 11
+EDGE Thomas Lemar | Manu Sánchez | 1 | 21 | 1
+EDGE Thomas Lemar | Diego Costa | 1 | 21 | 2
+EDGE Luis Suárez | Héctor Herrera | 6 | 36 | 11
+EDGE Luis Suárez | Sime Vrsaljko | 6 | 36 | 6
+EDGE Luis Suárez | Thomas Partey | 2 | 36 | 2
+EDGE Luis Suárez | Manu Sánchez | 1 | 36 | 1
+EDGE Luis Suárez | Diego Costa | 1 | 36 | 2
+EDGE Manu Sánchez | Diego Costa | 1 | 1 | 2

@@ -1,0 +1,273 @@
+# Graph for Java/GraphStream
+# Nodes: 26
+# Edges: 267
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Víctor Valdés | Gerard Piqué | 36 | 49 | 44
+EDGE Víctor Valdés | Rafa Márquez | 33 | 49 | 36
+EDGE Víctor Valdés | Carles Puyol | 36 | 49 | 41
+EDGE Víctor Valdés | Dani Alves | 43 | 49 | 52
+EDGE Víctor Valdés | Seydou Keita | 22 | 49 | 29
+EDGE Víctor Valdés | Andrés Iniesta | 33 | 49 | 38
+EDGE Víctor Valdés | Xavi | 46 | 49 | 49
+EDGE Víctor Valdés | Thierry Henry | 35 | 49 | 36
+EDGE Víctor Valdés | Lionel Messi | 37 | 49 | 41
+EDGE Víctor Valdés | Samuel Eto'o | 42 | 49 | 46
+EDGE Víctor Valdés | Martín Cáceres | 6 | 49 | 16
+EDGE Víctor Valdés | Sylvinho | 11 | 49 | 22
+EDGE Víctor Valdés | Yaya Touré | 32 | 49 | 39
+EDGE Víctor Valdés | Éric Abidal | 28 | 49 | 31
+EDGE Víctor Valdés | Sergio Busquets | 22 | 49 | 31
+EDGE Víctor Valdés | Eidur Gudjohnsen | 9 | 49 | 17
+EDGE Víctor Valdés | Bojan Krkic | 5 | 49 | 18
+EDGE Víctor Valdés | Aleksandr Hleb | 8 | 49 | 19
+EDGE Víctor Valdés | Víctor Sánchez | 3 | 49 | 6
+EDGE Víctor Valdés | Pedro | 3 | 49 | 6
+EDGE Gerard Piqué | Rafa Márquez | 22 | 44 | 36
+EDGE Gerard Piqué | Carles Puyol | 29 | 44 | 41
+EDGE Gerard Piqué | Dani Alves | 37 | 44 | 52
+EDGE Gerard Piqué | Seydou Keita | 24 | 44 | 29
+EDGE Gerard Piqué | Andrés Iniesta | 28 | 44 | 38
+EDGE Gerard Piqué | Xavi | 37 | 44 | 49
+EDGE Gerard Piqué | Thierry Henry | 26 | 44 | 36
+EDGE Gerard Piqué | Lionel Messi | 29 | 44 | 41
+EDGE Gerard Piqué | Samuel Eto'o | 34 | 44 | 46
+EDGE Gerard Piqué | Éric Abidal | 20 | 44 | 31
+EDGE Gerard Piqué | Sergio Busquets | 24 | 44 | 31
+EDGE Gerard Piqué | Eidur Gudjohnsen | 7 | 44 | 17
+EDGE Gerard Piqué | Sylvinho | 13 | 44 | 22
+EDGE Gerard Piqué | Yaya Touré | 29 | 44 | 39
+EDGE Gerard Piqué | Bojan Krkic | 11 | 44 | 18
+EDGE Gerard Piqué | Aleksandr Hleb | 11 | 44 | 19
+EDGE Gerard Piqué | Albert Jorquera | 1 | 44 | 1
+EDGE Gerard Piqué | Martín Cáceres | 7 | 44 | 16
+EDGE Gerard Piqué | Víctor Sánchez | 4 | 44 | 6
+EDGE Gerard Piqué | Víctor Vázquez | 1 | 44 | 1
+EDGE Gerard Piqué | Pedro | 3 | 44 | 6
+EDGE Gerard Piqué | José Manuel Pinto | 7 | 44 | 11
+EDGE Rafa Márquez | Carles Puyol | 23 | 36 | 41
+EDGE Rafa Márquez | Dani Alves | 30 | 36 | 52
+EDGE Rafa Márquez | Seydou Keita | 12 | 36 | 29
+EDGE Rafa Márquez | Andrés Iniesta | 25 | 36 | 38
+EDGE Rafa Márquez | Xavi | 30 | 36 | 49
+EDGE Rafa Márquez | Thierry Henry | 27 | 36 | 36
+EDGE Rafa Márquez | Lionel Messi | 25 | 36 | 41
+EDGE Rafa Márquez | Samuel Eto'o | 27 | 36 | 46
+EDGE Rafa Márquez | Martín Cáceres | 6 | 36 | 16
+EDGE Rafa Márquez | Sylvinho | 12 | 36 | 22
+EDGE Rafa Márquez | Yaya Touré | 25 | 36 | 39
+EDGE Rafa Márquez | Éric Abidal | 14 | 36 | 31
+EDGE Rafa Márquez | Sergio Busquets | 15 | 36 | 31
+EDGE Rafa Márquez | Eidur Gudjohnsen | 11 | 36 | 17
+EDGE Rafa Márquez | José Manuel Pinto | 3 | 36 | 11
+EDGE Rafa Márquez | Aleksandr Hleb | 8 | 36 | 19
+EDGE Rafa Márquez | Bojan Krkic | 7 | 36 | 18
+EDGE Rafa Márquez | Víctor Sánchez | 3 | 36 | 6
+EDGE Rafa Márquez | Pedro | 2 | 36 | 6
+EDGE Carles Puyol | Dani Alves | 34 | 41 | 52
+EDGE Carles Puyol | Seydou Keita | 19 | 41 | 29
+EDGE Carles Puyol | Andrés Iniesta | 24 | 41 | 38
+EDGE Carles Puyol | Xavi | 37 | 41 | 49
+EDGE Carles Puyol | Thierry Henry | 26 | 41 | 36
+EDGE Carles Puyol | Lionel Messi | 31 | 41 | 41
+EDGE Carles Puyol | Samuel Eto'o | 33 | 41 | 46
+EDGE Carles Puyol | Éric Abidal | 20 | 41 | 31
+EDGE Carles Puyol | Sergio Busquets | 22 | 41 | 31
+EDGE Carles Puyol | Eidur Gudjohnsen | 10 | 41 | 17
+EDGE Carles Puyol | Sylvinho | 10 | 41 | 22
+EDGE Carles Puyol | Yaya Touré | 24 | 41 | 39
+EDGE Carles Puyol | Bojan Krkic | 8 | 41 | 18
+EDGE Carles Puyol | Aleksandr Hleb | 10 | 41 | 19
+EDGE Carles Puyol | José Manuel Pinto | 5 | 41 | 11
+EDGE Carles Puyol | Martín Cáceres | 4 | 41 | 16
+EDGE Carles Puyol | Víctor Sánchez | 2 | 41 | 6
+EDGE Carles Puyol | Pedro | 3 | 41 | 6
+EDGE Dani Alves | Seydou Keita | 25 | 52 | 29
+EDGE Dani Alves | Andrés Iniesta | 32 | 52 | 38
+EDGE Dani Alves | Xavi | 43 | 52 | 49
+EDGE Dani Alves | Thierry Henry | 32 | 52 | 36
+EDGE Dani Alves | Lionel Messi | 38 | 52 | 41
+EDGE Dani Alves | Samuel Eto'o | 39 | 52 | 46
+EDGE Dani Alves | Martín Cáceres | 12 | 52 | 16
+EDGE Dani Alves | Sylvinho | 14 | 52 | 22
+EDGE Dani Alves | Yaya Touré | 36 | 52 | 39
+EDGE Dani Alves | Bojan Krkic | 13 | 52 | 18
+EDGE Dani Alves | Aleksandr Hleb | 13 | 52 | 19
+EDGE Dani Alves | Éric Abidal | 28 | 52 | 31
+EDGE Dani Alves | José Manuel Pinto | 8 | 52 | 11
+EDGE Dani Alves | Sergio Busquets | 24 | 52 | 31
+EDGE Dani Alves | Eidur Gudjohnsen | 12 | 52 | 17
+EDGE Dani Alves | Víctor Sánchez | 2 | 52 | 6
+EDGE Dani Alves | Pedro | 3 | 52 | 6
+EDGE Dani Alves | Oier Olazábal | 1 | 52 | 1
+EDGE Dani Alves | Xavi Torres | 1 | 52 | 2
+EDGE Seydou Keita | Andrés Iniesta | 18 | 29 | 38
+EDGE Seydou Keita | Xavi | 23 | 29 | 49
+EDGE Seydou Keita | Thierry Henry | 11 | 29 | 36
+EDGE Seydou Keita | Lionel Messi | 16 | 29 | 41
+EDGE Seydou Keita | Samuel Eto'o | 23 | 29 | 46
+EDGE Seydou Keita | Sylvinho | 8 | 29 | 22
+EDGE Seydou Keita | Yaya Touré | 17 | 29 | 39
+EDGE Seydou Keita | Bojan Krkic | 9 | 29 | 18
+EDGE Seydou Keita | Aleksandr Hleb | 8 | 29 | 19
+EDGE Seydou Keita | José Manuel Pinto | 6 | 29 | 11
+EDGE Seydou Keita | Martín Cáceres | 8 | 29 | 16
+EDGE Seydou Keita | Sergio Busquets | 14 | 29 | 31
+EDGE Seydou Keita | Eidur Gudjohnsen | 3 | 29 | 17
+EDGE Seydou Keita | Éric Abidal | 16 | 29 | 31
+EDGE Seydou Keita | Albert Jorquera | 1 | 29 | 1
+EDGE Seydou Keita | Víctor Sánchez | 2 | 29 | 6
+EDGE Seydou Keita | Víctor Vázquez | 1 | 29 | 1
+EDGE Seydou Keita | Pedro | 4 | 29 | 6
+EDGE Andrés Iniesta | Xavi | 30 | 38 | 49
+EDGE Andrés Iniesta | Thierry Henry | 23 | 38 | 36
+EDGE Andrés Iniesta | Lionel Messi | 25 | 38 | 41
+EDGE Andrés Iniesta | Samuel Eto'o | 29 | 38 | 46
+EDGE Andrés Iniesta | Martín Cáceres | 9 | 38 | 16
+EDGE Andrés Iniesta | Sylvinho | 12 | 38 | 22
+EDGE Andrés Iniesta | Yaya Touré | 24 | 38 | 39
+EDGE Andrés Iniesta | Éric Abidal | 20 | 38 | 31
+EDGE Andrés Iniesta | Sergio Busquets | 19 | 38 | 31
+EDGE Andrés Iniesta | Eidur Gudjohnsen | 6 | 38 | 17
+EDGE Andrés Iniesta | José Manuel Pinto | 5 | 38 | 11
+EDGE Andrés Iniesta | Aleksandr Hleb | 6 | 38 | 19
+EDGE Andrés Iniesta | Bojan Krkic | 8 | 38 | 18
+EDGE Andrés Iniesta | Víctor Sánchez | 2 | 38 | 6
+EDGE Andrés Iniesta | Pedro | 2 | 38 | 6
+EDGE Xavi | Thierry Henry | 32 | 49 | 36
+EDGE Xavi | Lionel Messi | 38 | 49 | 41
+EDGE Xavi | Samuel Eto'o | 43 | 49 | 46
+EDGE Xavi | Martín Cáceres | 6 | 49 | 16
+EDGE Xavi | Sylvinho | 11 | 49 | 22
+EDGE Xavi | Yaya Touré | 33 | 49 | 39
+EDGE Xavi | Éric Abidal | 27 | 49 | 31
+EDGE Xavi | Sergio Busquets | 22 | 49 | 31
+EDGE Xavi | Eidur Gudjohnsen | 10 | 49 | 17
+EDGE Xavi | Bojan Krkic | 6 | 49 | 18
+EDGE Xavi | Aleksandr Hleb | 9 | 49 | 19
+EDGE Xavi | José Manuel Pinto | 3 | 49 | 11
+EDGE Xavi | Víctor Sánchez | 1 | 49 | 6
+EDGE Xavi | Pedro | 3 | 49 | 6
+EDGE Thierry Henry | Lionel Messi | 27 | 36 | 41
+EDGE Thierry Henry | Samuel Eto'o | 30 | 36 | 46
+EDGE Thierry Henry | Martín Cáceres | 4 | 36 | 16
+EDGE Thierry Henry | Sylvinho | 8 | 36 | 22
+EDGE Thierry Henry | Yaya Touré | 25 | 36 | 39
+EDGE Thierry Henry | Éric Abidal | 19 | 36 | 31
+EDGE Thierry Henry | Sergio Busquets | 13 | 36 | 31
+EDGE Thierry Henry | Víctor Sánchez | 3 | 36 | 6
+EDGE Thierry Henry | Eidur Gudjohnsen | 9 | 36 | 17
+EDGE Thierry Henry | Bojan Krkic | 3 | 36 | 18
+EDGE Thierry Henry | Aleksandr Hleb | 5 | 36 | 19
+EDGE Thierry Henry | Pedro | 1 | 36 | 6
+EDGE Thierry Henry | José Manuel Pinto | 1 | 36 | 11
+EDGE Lionel Messi | Samuel Eto'o | 32 | 41 | 46
+EDGE Lionel Messi | Martín Cáceres | 7 | 41 | 16
+EDGE Lionel Messi | Sylvinho | 11 | 41 | 22
+EDGE Lionel Messi | Yaya Touré | 27 | 41 | 39
+EDGE Lionel Messi | Éric Abidal | 20 | 41 | 31
+EDGE Lionel Messi | Sergio Busquets | 21 | 41 | 31
+EDGE Lionel Messi | Eidur Gudjohnsen | 10 | 41 | 17
+EDGE Lionel Messi | José Manuel Pinto | 4 | 41 | 11
+EDGE Lionel Messi | Aleksandr Hleb | 5 | 41 | 19
+EDGE Lionel Messi | Bojan Krkic | 7 | 41 | 18
+EDGE Samuel Eto'o | Martín Cáceres | 7 | 46 | 16
+EDGE Samuel Eto'o | Sylvinho | 10 | 46 | 22
+EDGE Samuel Eto'o | Yaya Touré | 31 | 46 | 39
+EDGE Samuel Eto'o | Éric Abidal | 28 | 46 | 31
+EDGE Samuel Eto'o | Sergio Busquets | 18 | 46 | 31
+EDGE Samuel Eto'o | Eidur Gudjohnsen | 8 | 46 | 17
+EDGE Samuel Eto'o | Bojan Krkic | 5 | 46 | 18
+EDGE Samuel Eto'o | Aleksandr Hleb | 7 | 46 | 19
+EDGE Samuel Eto'o | Víctor Sánchez | 3 | 46 | 6
+EDGE Samuel Eto'o | Pedro | 5 | 46 | 6
+EDGE Samuel Eto'o | José Manuel Pinto | 3 | 46 | 11
+EDGE Samuel Eto'o | Xavi Torres | 2 | 46 | 2
+EDGE Samuel Eto'o | Oier Olazábal | 1 | 46 | 1
+EDGE Martín Cáceres | Sylvinho | 11 | 16 | 22
+EDGE Martín Cáceres | Yaya Touré | 7 | 16 | 39
+EDGE Martín Cáceres | José Manuel Pinto | 8 | 16 | 11
+EDGE Martín Cáceres | Sergio Busquets | 11 | 16 | 31
+EDGE Martín Cáceres | Aleksandr Hleb | 11 | 16 | 19
+EDGE Martín Cáceres | Bojan Krkic | 11 | 16 | 18
+EDGE Martín Cáceres | Eidur Gudjohnsen | 8 | 16 | 17
+EDGE Martín Cáceres | Albert Jorquera | 1 | 16 | 1
+EDGE Martín Cáceres | Víctor Sánchez | 3 | 16 | 6
+EDGE Martín Cáceres | Víctor Vázquez | 1 | 16 | 1
+EDGE Martín Cáceres | Pedro | 3 | 16 | 6
+EDGE Martín Cáceres | Éric Abidal | 6 | 16 | 31
+EDGE Martín Cáceres | Xavi Torres | 2 | 16 | 2
+EDGE Martín Cáceres | Oier Olazábal | 1 | 16 | 1
+EDGE Sylvinho | Yaya Touré | 12 | 22 | 39
+EDGE Sylvinho | Bojan Krkic | 16 | 22 | 18
+EDGE Sylvinho | Aleksandr Hleb | 13 | 22 | 19
+EDGE Sylvinho | José Manuel Pinto | 9 | 22 | 11
+EDGE Sylvinho | Sergio Busquets | 13 | 22 | 31
+EDGE Sylvinho | Eidur Gudjohnsen | 10 | 22 | 17
+EDGE Sylvinho | Albert Jorquera | 1 | 22 | 1
+EDGE Sylvinho | Víctor Sánchez | 4 | 22 | 6
+EDGE Sylvinho | Víctor Vázquez | 1 | 22 | 1
+EDGE Sylvinho | Pedro | 4 | 22 | 6
+EDGE Sylvinho | Éric Abidal | 3 | 22 | 31
+EDGE Sylvinho | Xavi Torres | 2 | 22 | 2
+EDGE Sylvinho | Oier Olazábal | 1 | 22 | 1
+EDGE Yaya Touré | Bojan Krkic | 10 | 39 | 18
+EDGE Yaya Touré | Aleksandr Hleb | 9 | 39 | 19
+EDGE Yaya Touré | Éric Abidal | 19 | 39 | 31
+EDGE Yaya Touré | Sergio Busquets | 12 | 39 | 31
+EDGE Yaya Touré | José Manuel Pinto | 7 | 39 | 11
+EDGE Yaya Touré | Víctor Sánchez | 3 | 39 | 6
+EDGE Yaya Touré | Eidur Gudjohnsen | 8 | 39 | 17
+EDGE Éric Abidal | Sergio Busquets | 12 | 31 | 31
+EDGE Éric Abidal | Eidur Gudjohnsen | 7 | 31 | 17
+EDGE Éric Abidal | Víctor Sánchez | 4 | 31 | 6
+EDGE Éric Abidal | José Manuel Pinto | 2 | 31 | 11
+EDGE Éric Abidal | Aleksandr Hleb | 7 | 31 | 19
+EDGE Éric Abidal | Bojan Krkic | 3 | 31 | 18
+EDGE Éric Abidal | Pedro | 4 | 31 | 6
+EDGE Éric Abidal | Xavi Torres | 2 | 31 | 2
+EDGE Éric Abidal | Oier Olazábal | 1 | 31 | 1
+EDGE Sergio Busquets | Eidur Gudjohnsen | 8 | 31 | 17
+EDGE Sergio Busquets | José Manuel Pinto | 8 | 31 | 11
+EDGE Sergio Busquets | Aleksandr Hleb | 12 | 31 | 19
+EDGE Sergio Busquets | Bojan Krkic | 12 | 31 | 18
+EDGE Sergio Busquets | Albert Jorquera | 1 | 31 | 1
+EDGE Sergio Busquets | Víctor Sánchez | 3 | 31 | 6
+EDGE Sergio Busquets | Víctor Vázquez | 1 | 31 | 1
+EDGE Sergio Busquets | Pedro | 3 | 31 | 6
+EDGE Eidur Gudjohnsen | José Manuel Pinto | 7 | 17 | 11
+EDGE Eidur Gudjohnsen | Aleksandr Hleb | 11 | 17 | 19
+EDGE Eidur Gudjohnsen | Bojan Krkic | 9 | 17 | 18
+EDGE Eidur Gudjohnsen | Víctor Sánchez | 2 | 17 | 6
+EDGE Eidur Gudjohnsen | Xavi Torres | 2 | 17 | 2
+EDGE Eidur Gudjohnsen | Pedro | 2 | 17 | 6
+EDGE Eidur Gudjohnsen | Oier Olazábal | 1 | 17 | 1
+EDGE Bojan Krkic | Aleksandr Hleb | 14 | 18 | 19
+EDGE Bojan Krkic | José Manuel Pinto | 11 | 18 | 11
+EDGE Bojan Krkic | Albert Jorquera | 1 | 18 | 1
+EDGE Bojan Krkic | Víctor Sánchez | 4 | 18 | 6
+EDGE Bojan Krkic | Víctor Vázquez | 1 | 18 | 1
+EDGE Bojan Krkic | Pedro | 3 | 18 | 6
+EDGE Bojan Krkic | Xavi Torres | 2 | 18 | 2
+EDGE Bojan Krkic | Oier Olazábal | 1 | 18 | 1
+EDGE Aleksandr Hleb | José Manuel Pinto | 9 | 19 | 11
+EDGE Aleksandr Hleb | Albert Jorquera | 1 | 19 | 1
+EDGE Aleksandr Hleb | Víctor Sánchez | 5 | 19 | 6
+EDGE Aleksandr Hleb | Víctor Vázquez | 1 | 19 | 1
+EDGE Aleksandr Hleb | Pedro | 4 | 19 | 6
+EDGE Aleksandr Hleb | Xavi Torres | 2 | 19 | 2
+EDGE Aleksandr Hleb | Oier Olazábal | 1 | 19 | 1
+EDGE José Manuel Pinto | Víctor Sánchez | 2 | 11 | 6
+EDGE José Manuel Pinto | Xavi Torres | 1 | 11 | 2
+EDGE José Manuel Pinto | Pedro | 1 | 11 | 6
+EDGE Albert Jorquera | Víctor Sánchez | 1 | 1 | 6
+EDGE Albert Jorquera | Víctor Vázquez | 1 | 1 | 1
+EDGE Albert Jorquera | Pedro | 1 | 1 | 6
+EDGE Víctor Sánchez | Víctor Vázquez | 1 | 6 | 1
+EDGE Víctor Sánchez | Pedro | 2 | 6 | 6
+EDGE Víctor Sánchez | Xavi Torres | 1 | 6 | 2
+EDGE Víctor Vázquez | Pedro | 1 | 1 | 6
+EDGE Pedro | Xavi Torres | 2 | 6 | 2
+EDGE Pedro | Oier Olazábal | 1 | 6 | 1
+EDGE Xavi Torres | Oier Olazábal | 1 | 2 | 1

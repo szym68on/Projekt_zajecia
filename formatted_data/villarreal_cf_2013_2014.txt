@@ -1,0 +1,130 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2341199 | sob., 21.12.2013 | Sevilla FC
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Gabriel Paulista, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Giovani dos Santos, Javier Aquino, Hernán Pérez, Ikechukwu Uche
+
+MATCH: 2341319 | pon., 17.03.2014 | Athletic Bilbao
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Gabriel Paulista, Bojan Jokic, Mario Gaspar, Bruno Soriano, Tomás Pina, Cani, Óliver Torres, Giovani dos Santos, Ikechukwu Uche
+
+MATCH: 2341170 | niedz., 27.10.2013 | Valencia CF
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Cani, Hernán Pérez, Giovani dos Santos, Ikechukwu Uche
+
+MATCH: 2341120 | sob., 24.08.2013 | Real Valladolid CF
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Cani, Javier Aquino, Giovani dos Santos, Jonathan Pereira
+
+MATCH: 2341094 | sob., 14.09.2013 | Real Madryt
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Cani, Javier Aquino, Giovani dos Santos, Jonathan Pereira
+
+MATCH: 2382253 | wt., 17.12.2013 | Elche CF
+PLAYERS: Juan Carlos, Chechu Dorado, Gabriel Paulista, Bojan Jokic, Aleksandar Pantic, Bruno Soriano, Tomás Pina, Moi Gómez, Javier Aquino, Jérémy Perbet, Jonathan Pereira
+
+MATCH: 2341053 | sob., 31.08.2013 | CA Osasuna
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Cani, Javier Aquino, Jérémy Perbet, Jonathan Pereira
+
+MATCH: 2341040 | sob., 25.01.2014 | Real Valladolid CF
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Moi Gómez, Giovani dos Santos, Javier Aquino, Ikechukwu Uche
+
+MATCH: 2341289 | niedz., 24.11.2013 | Levante UD
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Gabriel Paulista, Bojan Jokic, Mario Gaspar, Bruno Soriano, Manu Trigueros, Hernán Pérez, Cani, Ikechukwu Uche, Jonathan Pereira
+
+MATCH: 2341105 | sob., 08.03.2014 | Granada CF
+PLAYERS: Sergio Asenjo, Gabriel Paulista, Bruno Soriano, Jaume Costa, Mario Gaspar, Tomás Pina, Óliver Torres, Manu Trigueros, Moi Gómez, Ikechukwu Uche, Jonathan Pereira
+
+MATCH: 2341030 | pon., 03.02.2014 | CA Osasuna
+PLAYERS: Sergio Asenjo, Chechu Dorado, Gabriel Paulista, Jaume Costa, Mario Gaspar, Tomás Pina, Manu Trigueros, Moi Gómez, Giovani dos Santos, Javier Aquino, Ikechukwu Uche
+
+MATCH: 2341237 | pt., 29.11.2013 | Málaga CF
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Gabriel Paulista, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Cani, Javier Aquino, Ikechukwu Uche, Jonathan Pereira
+
+MATCH: 2341360 | niedz., 27.04.2014 | FC Barcelona
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Gabriel Paulista, Bojan Jokic, Mario Gaspar, Bruno Soriano, Tomás Pina, Manu Trigueros, Cani, Giovani dos Santos, Jérémy Perbet
+
+MATCH: 2341273 | niedz., 18.05.2014 | Real Sociedad
+PLAYERS: Juan Carlos, Mateo Musacchio, Gabriel Paulista, Bojan Jokic, Mario Gaspar, Bruno Soriano, Javier Aquino, Manu Trigueros, Moi Gómez, Giovani dos Santos, Ikechukwu Uche
+
+MATCH: 2388765 | czw., 09.01.2014 | Real Sociedad
+PLAYERS: Juan Carlos, Mateo Musacchio, Gabriel Paulista, Bojan Jokic, Aleksandar Pantic, Bruno Soriano, Tomás Pina, Javier Aquino, Jaume Costa, Giovani dos Santos, Jonathan Pereira
+
+MATCH: 2341305 | pon., 04.11.2013 | Elche CF
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Gabriel Paulista, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Cani, Hernán Pérez, Giovani dos Santos, Ikechukwu Uche
+
+MATCH: 2341309 | czw., 27.03.2014 | Getafe CF
+PLAYERS: Sergio Asenjo, Aleksandar Pantic, Gabriel Paulista, Bojan Jokic, Jaume Costa, Bruno Soriano, Manu Trigueros, Óliver Torres, Moi Gómez, Jérémy Perbet, Ikechukwu Uche
+
+MATCH: 2341087 | niedz., 22.09.2013 | Celta de Vigo
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Cani, Javier Aquino, Giovani dos Santos, Jonathan Pereira
+
+MATCH: 2341142 | pon., 24.02.2014 | RCD Espanyol
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Gabriel Paulista, Bojan Jokic, Mario Gaspar, Bruno Soriano, Tomás Pina, Matías Nahuel, Moi Gómez, Giovani dos Santos, Jérémy Perbet
+
+MATCH: 2341280 | sob., 05.04.2014 | Atlético Madryt
+PLAYERS: Sergio Asenjo, Aleksandar Pantic, Gabriel Paulista, Bojan Jokic, Mario Gaspar, Bruno Soriano, Tomás Pina, Manu Trigueros, Cani, Joan Román, Jérémy Perbet
+
+MATCH: 2341334 | niedz., 10.11.2013 | Atlético Madryt
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Gabriel Paulista, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Cani, Hernán Pérez, Ikechukwu Uche, Jonathan Pereira
+
+MATCH: 2341056 | pon., 13.01.2014 | Real Sociedad
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Moi Gómez, Javier Aquino, Giovani dos Santos, Ikechukwu Uche
+
+MATCH: 2341324 | pon., 21.04.2014 | Málaga CF
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Aleksandar Pantic, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Manu Trigueros, Cani, Javier Aquino, Jérémy Perbet
+
+MATCH: 2341274 | sob., 14.12.2013 | FC Barcelona
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Tomás Pina, Edu Ramos, Manu Trigueros, Hernán Pérez, Javier Aquino, Giovani dos Santos
+
+MATCH: 2341138 | czw., 31.10.2013 | Getafe CF
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Pablo Iñiguez, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Cani, Giovani dos Santos, Javier Aquino, Jérémy Perbet
+
+MATCH: 2346412 | pon., 19.08.2013 | UD Almería
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Pablo Iñiguez, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Cani, Hernán Pérez, Giovani dos Santos, Ikechukwu Uche
+
+MATCH: 2341005 | sob., 15.02.2014 | Celta de Vigo
+PLAYERS: Juan Carlos, Chechu Dorado, Mateo Musacchio, Bojan Jokic, Mario Gaspar, Bruno Soriano, Tomás Pina, Manu Trigueros, Moi Gómez, Giovani dos Santos, Jérémy Perbet
+
+MATCH: 2341122 | niedz., 02.03.2014 | Real Betis Balompié
+PLAYERS: Sergio Asenjo, Aleksandar Pantic, Gabriel Paulista, Bojan Jokic, Mario Gaspar, Bruno Soriano, Tomás Pina, Matías Nahuel, Moi Gómez, Giovani dos Santos, Jérémy Perbet
+
+MATCH: 2341337 | sob., 12.04.2014 | Levante UD
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Aleksandar Pantic, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Óliver Torres, Cani, Jérémy Perbet, Jonathan Pereira
+
+MATCH: 2382236 | pt., 06.12.2013 | Elche CF
+PLAYERS: Juan Carlos, Chechu Dorado, Mateo Musacchio, Aleksandar Pantic, Bojan Jokic, Javier Aquino, Tomás Pina, Manu Trigueros, Cani, Giovani dos Santos, Jérémy Perbet
+
+MATCH: 2341298 | niedz., 23.03.2014 | Valencia CF
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Bojan Jokic, Jaume Costa, Bruno Soriano, Tomás Pina, Óliver Torres, Cani, Giovani dos Santos, Ikechukwu Uche
+
+MATCH: 2341185 | pt., 04.10.2013 | Granada CF
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Bojan Jokic, Mario Gaspar, Bruno Soriano, Tomás Pina, Javier Aquino, Cani, Giovani dos Santos, Jonathan Pereira
+
+MATCH: 2341231 | pon., 06.01.2014 | Rayo Vallecano
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Tomás Pina, Manu Trigueros, Hernán Pérez, Moi Gómez, Jérémy Perbet, Ikechukwu Uche
+
+MATCH: 2341180 | czw., 26.09.2013 | RCD Espanyol
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Pablo Iñiguez, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Cani, Hernán Pérez, Giovani dos Santos, Jérémy Perbet
+
+MATCH: 2341355 | niedz., 04.05.2014 | Sevilla FC
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Gabriel Paulista, Bojan Jokic, Mario Gaspar, Bruno Soriano, Moi Gómez, Óliver Torres, Cani, Giovani dos Santos, Jonathan Pereira
+
+MATCH: 2341372 | sob., 10.05.2014 | Rayo Vallecano
+PLAYERS: Juan Carlos, Mateo Musacchio, Gabriel Paulista, Bojan Jokic, Mario Gaspar, Bruno Soriano, Manu Trigueros, Moi Gómez, Cani, Giovani dos Santos, Ikechukwu Uche
+
+MATCH: 2341007 | sob., 08.02.2014 | Real Madryt
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Edu Ramos, Javier Aquino, Moi Gómez, Giovani dos Santos, Jonathan Pereira
+
+MATCH: 2341169 | pon., 21.10.2013 | Athletic Bilbao
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Cani, Javier Aquino, Giovani dos Santos, Jonathan Pereira
+
+MATCH: 2341293 | niedz., 30.03.2014 | Elche CF
+PLAYERS: Sergio Asenjo, Aleksandar Pantic, Gabriel Paulista, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Moi Gómez, Cani, Jérémy Perbet, Jonathan Pereira
+
+MATCH: 2341036 | niedz., 19.01.2014 | UD Almería
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Moi Gómez, Javier Aquino, Giovani dos Santos, Ikechukwu Uche
+
+MATCH: 2341208 | niedz., 29.09.2013 | Real Betis Balompié
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Bojan Jokic, Mario Gaspar, Bruno Soriano, Manu Trigueros, Cani, Javier Aquino, Ikechukwu Uche, Jonathan Pereira
+
+MATCH: 2396430 | czw., 16.01.2014 | Real Sociedad
+PLAYERS: Juan Carlos, Mateo Musacchio, Aleksandar Pantic, Gabriel Paulista, Bojan Jokic, Bruno Soriano, Tomás Pina, Moi Gómez, Hernán Pérez, Jérémy Perbet, Jonathan Pereira
+

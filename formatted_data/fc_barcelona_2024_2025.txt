@@ -1,0 +1,184 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 4445064 | śr., 23.10.2024 | Bayern Monachium
+PLAYERS: Iñaki Peña, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Marc Casadó, Pedri, Fermín López, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407555 | niedz., 30.03.2025 | Girona FC
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Ronald Araujo, Gerard Martín, Jules Koundé, Eric García, Pedri, Fermín López, Gavi, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4527518 | śr., 15.01.2025 | Real Betis Balompié
+PLAYERS: Iñaki Peña, Pau Cubarsí, Ronald Araujo, Gerard Martín, Jules Koundé, Frenkie de Jong, Gavi, Pedri, Raphinha, Lamine Yamal, Dani Olmo
+
+MATCH: 4405334 | niedz., 22.09.2024 | Villarreal CF
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Sergi Domínguez, Gerard Martín, Jules Koundé, Eric García, Pedri, Pablo Torre, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4364906 | sob., 31.08.2024 | Real Valladolid CF
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Marc Casadó, Pedri, Dani Olmo, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4445066 | wt., 01.10.2024 | BSC Young Boys
+PLAYERS: Iñaki Peña, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Marc Casadó, Pedri, Raphinha, Ferran Torres, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407705 | niedz., 15.12.2024 | CD Leganés
+PLAYERS: Iñaki Peña, Iñigo Martínez, Eric García, Alejandro Balde, Jules Koundé, Marc Casadó, Pedri, Dani Olmo, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407595 | niedz., 11.05.2025 | Real Madryt
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Pau Cubarsí, Gerard Martín, Eric García, Pedri, Frenkie de Jong, Dani Olmo, Raphinha, Lamine Yamal, Ferran Torres
+
+MATCH: 4557606 | wt., 25.02.2025 | Atlético Madryt
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Frenkie de Jong, Pedri, Dani Olmo, Raphinha, Lamine Yamal, Ferran Torres
+
+MATCH: 4405361 | niedz., 06.10.2024 | Deportivo Alavés
+PLAYERS: Iñaki Peña, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Héctor Fort, Marc Casadó, Pedri, Raphinha, Ferran Torres, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4445124 | śr., 06.11.2024 | Crvena Zvezda Belgrad
+PLAYERS: Iñaki Peña, Iñigo Martínez, Pau Cubarsí, Gerard Martín, Jules Koundé, Marc Casadó, Frenkie de Jong, Pedri, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4445065 | śr., 29.01.2025 | Atalanta BC
+PLAYERS: Wojciech Szczesny, Ronald Araujo, Eric García, Alejandro Balde, Jules Koundé, Frenkie de Jong, Pedri, Gavi, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4527785 | śr., 08.01.2025 | Athletic Bilbao
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Marc Casadó, Gavi, Pedri, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4547654 | wt., 06.05.2025 | Inter Mediolan
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Pau Cubarsí, Gerard Martín, Eric García, Frenkie de Jong, Pedri, Dani Olmo, Raphinha, Lamine Yamal, Ferran Torres
+
+MATCH: 4405370 | niedz., 20.10.2024 | Sevilla FC
+PLAYERS: Iñaki Peña, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Marc Casadó, Pedri, Raphinha, Ansu Fati, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407564 | niedz., 25.05.2025 | Athletic Bilbao
+PLAYERS: Iñaki Peña, Pau Cubarsí, Ronald Araujo, Alejandro Balde, Eric García, Gavi, Pedri, Fermín López, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407746 | niedz., 26.01.2025 | Valencia CF
+PLAYERS: Wojciech Szczesny, Pau Cubarsí, Eric García, Alejandro Balde, Jules Koundé, Marc Casadó, Frenkie de Jong, Fermín López, Raphinha, Lamine Yamal, Ferran Torres
+
+MATCH: 4407770 | niedz., 09.02.2025 | Sevilla FC
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Ronald Araujo, Alejandro Balde, Jules Koundé, Frenkie de Jong, Gavi, Pedri, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4445152 | czw., 19.09.2024 | AS Monaco
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Eric García, Marc Casadó, Pedri, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407783 | niedz., 02.02.2025 | Deportivo Alavés
+PLAYERS: Wojciech Szczesny, Pau Cubarsí, Ronald Araujo, Alejandro Balde, Jules Koundé, Marc Casadó, Gavi, Pedri, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4405353 | sob., 28.09.2024 | CA Osasuna
+PLAYERS: Iñaki Peña, Pau Cubarsí, Sergi Domínguez, Gerard Martín, Jules Koundé, Eric García, Pedri, Pablo Torre, Pau Víctor, Ferran Torres, Robert Lewandowski
+
+MATCH: 4361550 | sob., 17.08.2024 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Marc Bernal, Marc Casadó, Raphinha, Ferran Torres, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407729 | sob., 18.01.2025 | Getafe CF
+PLAYERS: Iñaki Peña, Pau Cubarsí, Ronald Araujo, Alejandro Balde, Jules Koundé, Marc Casadó, Gavi, Pedri, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407518 | sob., 26.10.2024 | Real Madryt
+PLAYERS: Iñaki Peña, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Marc Casadó, Pedri, Fermín López, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4445085 | wt., 21.01.2025 | Benfika Lizbona
+PLAYERS: Wojciech Szczesny, Pau Cubarsí, Ronald Araujo, Alejandro Balde, Jules Koundé, Marc Casadó, Pedri, Gavi, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407544 | sob., 05.04.2025 | Real Betis Balompié
+PLAYERS: Wojciech Szczesny, Pau Cubarsí, Ronald Araujo, Alejandro Balde, Jules Koundé, Pedri, Frenkie de Jong, Gavi, Ferran Torres, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407755 | pon., 17.02.2025 | Rayo Vallecano
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Héctor Fort, Frenkie de Jong, Gavi, Pedri, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407649 | sob., 23.11.2024 | Celta de Vigo
+PLAYERS: Iñaki Peña, Iñigo Martínez, Pau Cubarsí, Gerard Martín, Jules Koundé, Marc Casadó, Gavi, Pedri, Dani Olmo, Raphinha, Robert Lewandowski
+
+MATCH: 4407629 | sob., 12.04.2025 | CD Leganés
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Ronald Araujo, Alejandro Balde, Jules Koundé, Eric García, Pedri, Fermín López, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4405339 | śr., 25.09.2024 | Getafe CF
+PLAYERS: Iñaki Peña, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Eric García, Marc Casadó, Pablo Torre, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4547649 | wt., 15.04.2025 | Borussia Dortmund
+PLAYERS: Wojciech Szczesny, Pau Cubarsí, Ronald Araujo, Gerard Martín, Jules Koundé, Frenkie de Jong, Gavi, Fermín López, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4361561 | sob., 24.08.2024 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Marc Bernal, Pedri, Raphinha, Ferran Torres, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407670 | niedz., 10.11.2024 | Real Sociedad
+PLAYERS: Iñaki Peña, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Marc Casadó, Pedri, Frenkie de Jong, Raphinha, Fermín López, Robert Lewandowski
+
+MATCH: 4407681 | sob., 21.12.2024 | Atlético Madryt
+PLAYERS: Iñaki Peña, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Marc Casadó, Gavi, Pedri, Fermín López, Raphinha, Robert Lewandowski
+
+MATCH: 4407575 | czw., 15.05.2025 | RCD Espanyol
+PLAYERS: Wojciech Szczesny, Ronald Araujo, Andreas Christensen, Gerard Martín, Eric García, Frenkie de Jong, Pedri, Dani Olmo, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407734 | niedz., 02.03.2025 | Real Sociedad
+PLAYERS: Wojciech Szczesny, Pau Cubarsí, Ronald Araujo, Gerard Martín, Jules Koundé, Marc Casadó, Pedri, Dani Olmo, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4547645 | śr., 09.04.2025 | Borussia Dortmund
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Frenkie de Jong, Pedri, Fermín López, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4547652 | śr., 30.04.2025 | Inter Mediolan
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Pau Cubarsí, Gerard Martín, Jules Koundé, Frenkie de Jong, Pedri, Dani Olmo, Raphinha, Lamine Yamal, Ferran Torres
+
+MATCH: 4407524 | niedz., 16.03.2025 | Atlético Madryt
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Marc Casadó, Pedri, Dani Olmo, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4547632 | śr., 05.03.2025 | Benfika Lizbona
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Frenkie de Jong, Pedri, Dani Olmo, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407720 | wt., 03.12.2024 | RCD Mallorca
+PLAYERS: Iñaki Peña, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Marc Casadó, Pedri, Dani Olmo, Raphinha, Lamine Yamal, Ferran Torres
+
+MATCH: 4407690 | sob., 07.12.2024 | Real Betis Balompié
+PLAYERS: Iñaki Peña, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Marc Casadó, Pedri, Dani Olmo, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407585 | niedz., 18.05.2025 | Villarreal CF
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Pau Cubarsí, Gerard Martín, Eric García, Gavi, Pedri, Fermín López, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407616 | wt., 22.04.2025 | RCD Mallorca
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Ronald Araujo, Héctor Fort, Eric García, Gavi, Pedri, Dani Olmo, Ansu Fati, Lamine Yamal, Ferran Torres
+
+MATCH: 4506875 | sob., 04.01.2025 | UD Barbastro
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Ronald Araujo, Gerard Martín, Jules Koundé, Eric García, Frenkie de Jong, Pedri, Fermín López, Pablo Torre, Robert Lewandowski
+
+MATCH: 4557608 | śr., 02.04.2025 | Atlético Madryt
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Pedri, Frenkie de Jong, Fermín López, Raphinha, Lamine Yamal, Ferran Torres
+
+MATCH: 4445056 | śr., 11.12.2024 | Borussia Dortmund
+PLAYERS: Iñaki Peña, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Marc Casadó, Pedri, Dani Olmo, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4588078 | sob., 26.04.2025 | Real Madryt
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Pau Cubarsí, Gerard Martín, Jules Koundé, Frenkie de Jong, Pedri, Dani Olmo, Raphinha, Lamine Yamal, Ferran Torres
+
+MATCH: 4407654 | sob., 30.11.2024 | UD Las Palmas
+PLAYERS: Iñaki Peña, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Gavi, Pedri, Fermín López, Pablo Torre, Raphinha, Robert Lewandowski
+
+MATCH: 4407609 | sob., 03.05.2025 | Real Valladolid CF
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Andreas Christensen, Gerard Martín, Héctor Fort, Gavi, Pedri, Fermín López, Ansu Fati, Dani Rodríguez, Pau Víctor
+
+MATCH: 4540704 | czw., 06.02.2025 | Valencia CF
+PLAYERS: Wojciech Szczesny, Pau Cubarsí, Eric García, Alejandro Balde, Jules Koundé, Frenkie de Jong, Pedri, Fermín López, Raphinha, Lamine Yamal, Ferran Torres
+
+MATCH: 4405324 | niedz., 15.09.2024 | Girona FC
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Marc Casadó, Pedri, Dani Olmo, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407634 | sob., 19.04.2025 | Celta de Vigo
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Pau Cubarsí, Gerard Martín, Jules Koundé, Frenkie de Jong, Pedri, Fermín López, Ferran Torres, Raphinha, Robert Lewandowski
+
+MATCH: 4547639 | wt., 11.03.2025 | Benfika Lizbona
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Ronald Araujo, Alejandro Balde, Jules Koundé, Pedri, Frenkie de Jong, Dani Olmo, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4530083 | niedz., 12.01.2025 | Real Madryt
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Jules Koundé, Marc Casadó, Gavi, Pedri, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4445067 | wt., 26.11.2024 | Stade Brestois 29
+PLAYERS: Iñaki Peña, Iñigo Martínez, Pau Cubarsí, Gerard Martín, Jules Koundé, Marc Casadó, Pedri, Dani Olmo, Fermín López, Raphinha, Robert Lewandowski
+
+MATCH: 4407785 | czw., 27.03.2025 | CA Osasuna
+PLAYERS: Wojciech Szczesny, Iñigo Martínez, Eric García, Alejandro Balde, Jules Koundé, Frenkie de Jong, Pedri, Dani Olmo, Gavi, Lamine Yamal, Ferran Torres
+
+MATCH: 4407703 | niedz., 03.11.2024 | RCD Espanyol
+PLAYERS: Iñaki Peña, Iñigo Martínez, Pau Cubarsí, Alejandro Balde, Héctor Fort, Marc Casadó, Pedri, Dani Olmo, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4407539 | sob., 22.02.2025 | UD Las Palmas
+PLAYERS: Wojciech Szczesny, Pau Cubarsí, Eric García, Alejandro Balde, Jules Koundé, Marc Casadó, Pedri, Fermín López, Raphinha, Lamine Yamal, Robert Lewandowski
+
+MATCH: 4361568 | wt., 27.08.2024 | Rayo Vallecano
+PLAYERS: Marc-André ter Stegen, Iñigo Martínez, Pau Cubarsí, Gerard Martín, Jules Koundé, Marc Bernal, Pedri, Raphinha, Ferran Torres, Lamine Yamal, Robert Lewandowski
+

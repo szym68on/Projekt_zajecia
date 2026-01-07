@@ -1,0 +1,377 @@
+# Graph for Java/GraphStream
+# Nodes: 34
+# Edges: 371
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Mariano Barbosa | Pau Torres | 2 | 20 | 4
+EDGE Mariano Barbosa | Álvaro González | 13 | 20 | 37
+EDGE Mariano Barbosa | Antonio Rukavina | 8 | 20 | 21
+EDGE Mariano Barbosa | Mario Gaspar | 14 | 20 | 37
+EDGE Mariano Barbosa | Manu Trigueros | 18 | 20 | 41
+EDGE Mariano Barbosa | Ramiro Guerra | 4 | 20 | 5
+EDGE Mariano Barbosa | Denis Cheryshev | 2 | 20 | 12
+EDGE Mariano Barbosa | Samu Castillejo | 9 | 20 | 29
+EDGE Mariano Barbosa | Dani Raba | 4 | 20 | 18
+EDGE Mariano Barbosa | Enes Ünal | 5 | 20 | 17
+EDGE Mariano Barbosa | Víctor Ruiz | 15 | 20 | 34
+EDGE Mariano Barbosa | Jaume Costa | 13 | 20 | 35
+EDGE Mariano Barbosa | Rodri | 16 | 20 | 43
+EDGE Mariano Barbosa | Roberto Soriano | 8 | 20 | 17
+EDGE Mariano Barbosa | Pablo Fornals | 17 | 20 | 38
+EDGE Mariano Barbosa | Carlos Bacca | 14 | 20 | 37
+EDGE Mariano Barbosa | Cédric Bakambu | 14 | 20 | 18
+EDGE Mariano Barbosa | Daniele Bonera | 7 | 20 | 20
+EDGE Mariano Barbosa | Adrián Marín | 5 | 20 | 7
+EDGE Mariano Barbosa | Rúben Semedo | 2 | 20 | 4
+EDGE Mariano Barbosa | Nicola Sansone | 4 | 20 | 8
+EDGE Mariano Barbosa | Genís Montolio | 1 | 20 | 1
+EDGE Mariano Barbosa | Chuca | 2 | 20 | 3
+EDGE Mariano Barbosa | Manu Morlanes | 1 | 20 | 1
+EDGE Mariano Barbosa | Mario González | 1 | 20 | 1
+EDGE Mariano Barbosa | Darío Poveda | 1 | 20 | 1
+EDGE Pau Torres | Álvaro González | 1 | 4 | 37
+EDGE Pau Torres | Antonio Rukavina | 4 | 4 | 21
+EDGE Pau Torres | Mario Gaspar | 1 | 4 | 37
+EDGE Pau Torres | Manu Trigueros | 1 | 4 | 41
+EDGE Pau Torres | Ramiro Guerra | 3 | 4 | 5
+EDGE Pau Torres | Denis Cheryshev | 2 | 4 | 12
+EDGE Pau Torres | Samu Castillejo | 2 | 4 | 29
+EDGE Pau Torres | Dani Raba | 2 | 4 | 18
+EDGE Pau Torres | Enes Ünal | 2 | 4 | 17
+EDGE Pau Torres | Sergio Asenjo | 1 | 4 | 26
+EDGE Pau Torres | Víctor Ruiz | 1 | 4 | 34
+EDGE Pau Torres | Jaume Costa | 1 | 4 | 35
+EDGE Pau Torres | Rodri | 1 | 4 | 43
+EDGE Pau Torres | Chuca | 2 | 4 | 3
+EDGE Pau Torres | Roberto Soriano | 3 | 4 | 17
+EDGE Pau Torres | Nicola Sansone | 1 | 4 | 8
+EDGE Pau Torres | Cédric Bakambu | 1 | 4 | 18
+EDGE Pau Torres | Genís Montolio | 1 | 4 | 1
+EDGE Pau Torres | Adrián Marín | 2 | 4 | 7
+EDGE Pau Torres | Manu Morlanes | 1 | 4 | 1
+EDGE Pau Torres | Mario González | 1 | 4 | 1
+EDGE Pau Torres | Darío Poveda | 1 | 4 | 1
+EDGE Pau Torres | Ander Cantero | 1 | 4 | 1
+EDGE Pau Torres | Daniele Bonera | 1 | 4 | 20
+EDGE Pau Torres | Leo Suárez | 1 | 4 | 1
+EDGE Álvaro González | Antonio Rukavina | 14 | 37 | 21
+EDGE Álvaro González | Mario Gaspar | 30 | 37 | 37
+EDGE Álvaro González | Manu Trigueros | 32 | 37 | 41
+EDGE Álvaro González | Ramiro Guerra | 1 | 37 | 5
+EDGE Álvaro González | Denis Cheryshev | 10 | 37 | 12
+EDGE Álvaro González | Samu Castillejo | 23 | 37 | 29
+EDGE Álvaro González | Dani Raba | 15 | 37 | 18
+EDGE Álvaro González | Enes Ünal | 11 | 37 | 17
+EDGE Álvaro González | Sergio Asenjo | 21 | 37 | 26
+EDGE Álvaro González | Daniele Bonera | 10 | 37 | 20
+EDGE Álvaro González | Jaume Costa | 25 | 37 | 35
+EDGE Álvaro González | Rodri | 35 | 37 | 43
+EDGE Álvaro González | Javi Fuego | 6 | 37 | 7
+EDGE Álvaro González | Pablo Fornals | 30 | 37 | 38
+EDGE Álvaro González | Carlos Bacca | 28 | 37 | 37
+EDGE Álvaro González | Víctor Ruiz | 24 | 37 | 34
+EDGE Álvaro González | Roger Martínez | 2 | 37 | 2
+EDGE Álvaro González | Roberto Soriano | 9 | 37 | 17
+EDGE Álvaro González | Cédric Bakambu | 14 | 37 | 18
+EDGE Álvaro González | Andrés Fernández | 3 | 37 | 3
+EDGE Álvaro González | Rúben Semedo | 3 | 37 | 4
+EDGE Álvaro González | Alfred N'Diaye | 1 | 37 | 1
+EDGE Álvaro González | Adrián Marín | 4 | 37 | 7
+EDGE Álvaro González | Nicola Sansone | 5 | 37 | 8
+EDGE Antonio Rukavina | Mario Gaspar | 9 | 21 | 37
+EDGE Antonio Rukavina | Manu Trigueros | 16 | 21 | 41
+EDGE Antonio Rukavina | Ramiro Guerra | 4 | 21 | 5
+EDGE Antonio Rukavina | Denis Cheryshev | 8 | 21 | 12
+EDGE Antonio Rukavina | Samu Castillejo | 11 | 21 | 29
+EDGE Antonio Rukavina | Dani Raba | 11 | 21 | 18
+EDGE Antonio Rukavina | Enes Ünal | 10 | 21 | 17
+EDGE Antonio Rukavina | Sergio Asenjo | 11 | 21 | 26
+EDGE Antonio Rukavina | Daniele Bonera | 6 | 21 | 20
+EDGE Antonio Rukavina | Jaume Costa | 9 | 21 | 35
+EDGE Antonio Rukavina | Rodri | 16 | 21 | 43
+EDGE Antonio Rukavina | Javi Fuego | 4 | 21 | 7
+EDGE Antonio Rukavina | Pablo Fornals | 11 | 21 | 38
+EDGE Antonio Rukavina | Carlos Bacca | 14 | 21 | 37
+EDGE Antonio Rukavina | Víctor Ruiz | 15 | 21 | 34
+EDGE Antonio Rukavina | Rúben Semedo | 1 | 21 | 4
+EDGE Antonio Rukavina | Cédric Bakambu | 5 | 21 | 18
+EDGE Antonio Rukavina | Roberto Soriano | 6 | 21 | 17
+EDGE Antonio Rukavina | Chuca | 2 | 21 | 3
+EDGE Antonio Rukavina | Nicola Sansone | 3 | 21 | 8
+EDGE Antonio Rukavina | Genís Montolio | 1 | 21 | 1
+EDGE Antonio Rukavina | Adrián Marín | 4 | 21 | 7
+EDGE Antonio Rukavina | Manu Morlanes | 1 | 21 | 1
+EDGE Antonio Rukavina | Mario González | 1 | 21 | 1
+EDGE Antonio Rukavina | Darío Poveda | 1 | 21 | 1
+EDGE Antonio Rukavina | Ander Cantero | 1 | 21 | 1
+EDGE Antonio Rukavina | Leo Suárez | 1 | 21 | 1
+EDGE Antonio Rukavina | Roger Martínez | 1 | 21 | 2
+EDGE Antonio Rukavina | Andrés Fernández | 1 | 21 | 3
+EDGE Mario Gaspar | Manu Trigueros | 31 | 37 | 41
+EDGE Mario Gaspar | Ramiro Guerra | 2 | 37 | 5
+EDGE Mario Gaspar | Denis Cheryshev | 11 | 37 | 12
+EDGE Mario Gaspar | Samu Castillejo | 24 | 37 | 29
+EDGE Mario Gaspar | Dani Raba | 14 | 37 | 18
+EDGE Mario Gaspar | Enes Ünal | 11 | 37 | 17
+EDGE Mario Gaspar | Sergio Asenjo | 22 | 37 | 26
+EDGE Mario Gaspar | Víctor Ruiz | 26 | 37 | 34
+EDGE Mario Gaspar | Jaume Costa | 26 | 37 | 35
+EDGE Mario Gaspar | Javi Fuego | 5 | 37 | 7
+EDGE Mario Gaspar | Pablo Fornals | 29 | 37 | 38
+EDGE Mario Gaspar | Carlos Bacca | 27 | 37 | 37
+EDGE Mario Gaspar | Roger Martínez | 2 | 37 | 2
+EDGE Mario Gaspar | Rodri | 34 | 37 | 43
+EDGE Mario Gaspar | Roberto Soriano | 11 | 37 | 17
+EDGE Mario Gaspar | Cédric Bakambu | 14 | 37 | 18
+EDGE Mario Gaspar | Daniele Bonera | 14 | 37 | 20
+EDGE Mario Gaspar | Adrián Marín | 3 | 37 | 7
+EDGE Mario Gaspar | Rúben Semedo | 3 | 37 | 4
+EDGE Mario Gaspar | Andrés Fernández | 1 | 37 | 3
+EDGE Mario Gaspar | Nicola Sansone | 5 | 37 | 8
+EDGE Mario Gaspar | Chuca | 1 | 37 | 3
+EDGE Manu Trigueros | Ramiro Guerra | 3 | 41 | 5
+EDGE Manu Trigueros | Denis Cheryshev | 9 | 41 | 12
+EDGE Manu Trigueros | Samu Castillejo | 26 | 41 | 29
+EDGE Manu Trigueros | Dani Raba | 14 | 41 | 18
+EDGE Manu Trigueros | Enes Ünal | 12 | 41 | 17
+EDGE Manu Trigueros | Sergio Asenjo | 21 | 41 | 26
+EDGE Manu Trigueros | Daniele Bonera | 16 | 41 | 20
+EDGE Manu Trigueros | Jaume Costa | 31 | 41 | 35
+EDGE Manu Trigueros | Rodri | 36 | 41 | 43
+EDGE Manu Trigueros | Javi Fuego | 4 | 41 | 7
+EDGE Manu Trigueros | Pablo Fornals | 33 | 41 | 38
+EDGE Manu Trigueros | Carlos Bacca | 34 | 41 | 37
+EDGE Manu Trigueros | Víctor Ruiz | 29 | 41 | 34
+EDGE Manu Trigueros | Roger Martínez | 1 | 41 | 2
+EDGE Manu Trigueros | Roberto Soriano | 11 | 41 | 17
+EDGE Manu Trigueros | Cédric Bakambu | 16 | 41 | 18
+EDGE Manu Trigueros | Andrés Fernández | 2 | 41 | 3
+EDGE Manu Trigueros | Rúben Semedo | 4 | 41 | 4
+EDGE Manu Trigueros | Alfred N'Diaye | 1 | 41 | 1
+EDGE Manu Trigueros | Adrián Marín | 4 | 41 | 7
+EDGE Manu Trigueros | Nicola Sansone | 5 | 41 | 8
+EDGE Ramiro Guerra | Denis Cheryshev | 2 | 5 | 12
+EDGE Ramiro Guerra | Samu Castillejo | 2 | 5 | 29
+EDGE Ramiro Guerra | Dani Raba | 1 | 5 | 18
+EDGE Ramiro Guerra | Enes Ünal | 3 | 5 | 17
+EDGE Ramiro Guerra | Víctor Ruiz | 2 | 5 | 34
+EDGE Ramiro Guerra | Daniele Bonera | 3 | 5 | 20
+EDGE Ramiro Guerra | Jaume Costa | 2 | 5 | 35
+EDGE Ramiro Guerra | Pablo Fornals | 2 | 5 | 38
+EDGE Ramiro Guerra | Roberto Soriano | 4 | 5 | 17
+EDGE Ramiro Guerra | Carlos Bacca | 2 | 5 | 37
+EDGE Ramiro Guerra | Genís Montolio | 1 | 5 | 1
+EDGE Ramiro Guerra | Adrián Marín | 2 | 5 | 7
+EDGE Ramiro Guerra | Chuca | 1 | 5 | 3
+EDGE Ramiro Guerra | Manu Morlanes | 1 | 5 | 1
+EDGE Ramiro Guerra | Mario González | 1 | 5 | 1
+EDGE Ramiro Guerra | Darío Poveda | 1 | 5 | 1
+EDGE Ramiro Guerra | Ander Cantero | 1 | 5 | 1
+EDGE Ramiro Guerra | Leo Suárez | 1 | 5 | 1
+EDGE Ramiro Guerra | Cédric Bakambu | 1 | 5 | 18
+EDGE Denis Cheryshev | Samu Castillejo | 10 | 12 | 29
+EDGE Denis Cheryshev | Dani Raba | 7 | 12 | 18
+EDGE Denis Cheryshev | Enes Ünal | 5 | 12 | 17
+EDGE Denis Cheryshev | Sergio Asenjo | 9 | 12 | 26
+EDGE Denis Cheryshev | Víctor Ruiz | 9 | 12 | 34
+EDGE Denis Cheryshev | Rodri | 10 | 12 | 43
+EDGE Denis Cheryshev | Carlos Bacca | 7 | 12 | 37
+EDGE Denis Cheryshev | Jaume Costa | 5 | 12 | 35
+EDGE Denis Cheryshev | Pablo Fornals | 4 | 12 | 38
+EDGE Denis Cheryshev | Daniele Bonera | 2 | 12 | 20
+EDGE Denis Cheryshev | Ander Cantero | 1 | 12 | 1
+EDGE Denis Cheryshev | Adrián Marín | 1 | 12 | 7
+EDGE Denis Cheryshev | Roberto Soriano | 1 | 12 | 17
+EDGE Denis Cheryshev | Leo Suárez | 1 | 12 | 1
+EDGE Denis Cheryshev | Javi Fuego | 2 | 12 | 7
+EDGE Denis Cheryshev | Roger Martínez | 1 | 12 | 2
+EDGE Denis Cheryshev | Cédric Bakambu | 1 | 12 | 18
+EDGE Samu Castillejo | Dani Raba | 9 | 29 | 18
+EDGE Samu Castillejo | Enes Ünal | 9 | 29 | 17
+EDGE Samu Castillejo | Sergio Asenjo | 18 | 29 | 26
+EDGE Samu Castillejo | Víctor Ruiz | 20 | 29 | 34
+EDGE Samu Castillejo | Jaume Costa | 22 | 29 | 35
+EDGE Samu Castillejo | Javi Fuego | 2 | 29 | 7
+EDGE Samu Castillejo | Pablo Fornals | 21 | 29 | 38
+EDGE Samu Castillejo | Carlos Bacca | 22 | 29 | 37
+EDGE Samu Castillejo | Roger Martínez | 1 | 29 | 2
+EDGE Samu Castillejo | Daniele Bonera | 9 | 29 | 20
+EDGE Samu Castillejo | Rodri | 25 | 29 | 43
+EDGE Samu Castillejo | Andrés Fernández | 1 | 29 | 3
+EDGE Samu Castillejo | Rúben Semedo | 3 | 29 | 4
+EDGE Samu Castillejo | Alfred N'Diaye | 1 | 29 | 1
+EDGE Samu Castillejo | Cédric Bakambu | 9 | 29 | 18
+EDGE Samu Castillejo | Nicola Sansone | 4 | 29 | 8
+EDGE Samu Castillejo | Roberto Soriano | 4 | 29 | 17
+EDGE Samu Castillejo | Ander Cantero | 1 | 29 | 1
+EDGE Samu Castillejo | Adrián Marín | 1 | 29 | 7
+EDGE Samu Castillejo | Leo Suárez | 1 | 29 | 1
+EDGE Dani Raba | Enes Ünal | 5 | 18 | 17
+EDGE Dani Raba | Sergio Asenjo | 14 | 18 | 26
+EDGE Dani Raba | Daniele Bonera | 6 | 18 | 20
+EDGE Dani Raba | Jaume Costa | 9 | 18 | 35
+EDGE Dani Raba | Rodri | 17 | 18 | 43
+EDGE Dani Raba | Pablo Fornals | 10 | 18 | 38
+EDGE Dani Raba | Carlos Bacca | 13 | 18 | 37
+EDGE Dani Raba | Víctor Ruiz | 12 | 18 | 34
+EDGE Dani Raba | Adrián Marín | 3 | 18 | 7
+EDGE Dani Raba | Cédric Bakambu | 3 | 18 | 18
+EDGE Dani Raba | Chuca | 1 | 18 | 3
+EDGE Dani Raba | Roberto Soriano | 4 | 18 | 17
+EDGE Dani Raba | Nicola Sansone | 2 | 18 | 8
+EDGE Dani Raba | Rúben Semedo | 1 | 18 | 4
+EDGE Dani Raba | Javi Fuego | 2 | 18 | 7
+EDGE Dani Raba | Roger Martínez | 1 | 18 | 2
+EDGE Enes Ünal | Sergio Asenjo | 9 | 17 | 26
+EDGE Enes Ünal | Daniele Bonera | 10 | 17 | 20
+EDGE Enes Ünal | Jaume Costa | 10 | 17 | 35
+EDGE Enes Ünal | Rodri | 13 | 17 | 43
+EDGE Enes Ünal | Javi Fuego | 6 | 17 | 7
+EDGE Enes Ünal | Pablo Fornals | 13 | 17 | 38
+EDGE Enes Ünal | Carlos Bacca | 9 | 17 | 37
+EDGE Enes Ünal | Víctor Ruiz | 9 | 17 | 34
+EDGE Enes Ünal | Rúben Semedo | 2 | 17 | 4
+EDGE Enes Ünal | Cédric Bakambu | 1 | 17 | 18
+EDGE Enes Ünal | Andrés Fernández | 2 | 17 | 3
+EDGE Enes Ünal | Adrián Marín | 3 | 17 | 7
+EDGE Enes Ünal | Roberto Soriano | 4 | 17 | 17
+EDGE Enes Ünal | Nicola Sansone | 3 | 17 | 8
+EDGE Enes Ünal | Ander Cantero | 1 | 17 | 1
+EDGE Enes Ünal | Leo Suárez | 1 | 17 | 1
+EDGE Enes Ünal | Roger Martínez | 1 | 17 | 2
+EDGE Sergio Asenjo | Daniele Bonera | 11 | 26 | 20
+EDGE Sergio Asenjo | Jaume Costa | 20 | 26 | 35
+EDGE Sergio Asenjo | Rodri | 24 | 26 | 43
+EDGE Sergio Asenjo | Javi Fuego | 6 | 26 | 7
+EDGE Sergio Asenjo | Pablo Fornals | 18 | 26 | 38
+EDGE Sergio Asenjo | Carlos Bacca | 21 | 26 | 37
+EDGE Sergio Asenjo | Víctor Ruiz | 18 | 26 | 34
+EDGE Sergio Asenjo | Roger Martínez | 2 | 26 | 2
+EDGE Sergio Asenjo | Chuca | 1 | 26 | 3
+EDGE Sergio Asenjo | Roberto Soriano | 7 | 26 | 17
+EDGE Sergio Asenjo | Nicola Sansone | 2 | 26 | 8
+EDGE Sergio Asenjo | Cédric Bakambu | 3 | 26 | 18
+EDGE Sergio Asenjo | Rúben Semedo | 1 | 26 | 4
+EDGE Daniele Bonera | Jaume Costa | 16 | 20 | 35
+EDGE Daniele Bonera | Rodri | 16 | 20 | 43
+EDGE Daniele Bonera | Javi Fuego | 4 | 20 | 7
+EDGE Daniele Bonera | Pablo Fornals | 18 | 20 | 38
+EDGE Daniele Bonera | Carlos Bacca | 16 | 20 | 37
+EDGE Daniele Bonera | Adrián Marín | 4 | 20 | 7
+EDGE Daniele Bonera | Cédric Bakambu | 4 | 20 | 18
+EDGE Daniele Bonera | Andrés Fernández | 1 | 20 | 3
+EDGE Daniele Bonera | Roberto Soriano | 10 | 20 | 17
+EDGE Daniele Bonera | Nicola Sansone | 4 | 20 | 8
+EDGE Daniele Bonera | Víctor Ruiz | 8 | 20 | 34
+EDGE Daniele Bonera | Ander Cantero | 1 | 20 | 1
+EDGE Daniele Bonera | Leo Suárez | 1 | 20 | 1
+EDGE Daniele Bonera | Rúben Semedo | 1 | 20 | 4
+EDGE Daniele Bonera | Chuca | 1 | 20 | 3
+EDGE Jaume Costa | Rodri | 31 | 35 | 43
+EDGE Jaume Costa | Javi Fuego | 4 | 35 | 7
+EDGE Jaume Costa | Pablo Fornals | 30 | 35 | 38
+EDGE Jaume Costa | Carlos Bacca | 29 | 35 | 37
+EDGE Jaume Costa | Víctor Ruiz | 25 | 35 | 34
+EDGE Jaume Costa | Roger Martínez | 1 | 35 | 2
+EDGE Jaume Costa | Roberto Soriano | 13 | 35 | 17
+EDGE Jaume Costa | Cédric Bakambu | 14 | 35 | 18
+EDGE Jaume Costa | Andrés Fernández | 2 | 35 | 3
+EDGE Jaume Costa | Rúben Semedo | 3 | 35 | 4
+EDGE Jaume Costa | Alfred N'Diaye | 1 | 35 | 1
+EDGE Jaume Costa | Nicola Sansone | 6 | 35 | 8
+EDGE Jaume Costa | Chuca | 2 | 35 | 3
+EDGE Rodri | Javi Fuego | 5 | 43 | 7
+EDGE Rodri | Pablo Fornals | 35 | 43 | 38
+EDGE Rodri | Carlos Bacca | 33 | 43 | 37
+EDGE Rodri | Víctor Ruiz | 30 | 43 | 34
+EDGE Rodri | Roberto Soriano | 12 | 43 | 17
+EDGE Rodri | Cédric Bakambu | 17 | 43 | 18
+EDGE Rodri | Andrés Fernández | 3 | 43 | 3
+EDGE Rodri | Rúben Semedo | 4 | 43 | 4
+EDGE Rodri | Alfred N'Diaye | 1 | 43 | 1
+EDGE Rodri | Adrián Marín | 5 | 43 | 7
+EDGE Rodri | Nicola Sansone | 8 | 43 | 8
+EDGE Rodri | Chuca | 2 | 43 | 3
+EDGE Rodri | Roger Martínez | 1 | 43 | 2
+EDGE Javi Fuego | Pablo Fornals | 5 | 7 | 38
+EDGE Javi Fuego | Carlos Bacca | 4 | 7 | 37
+EDGE Javi Fuego | Víctor Ruiz | 4 | 7 | 34
+EDGE Javi Fuego | Roger Martínez | 2 | 7 | 2
+EDGE Javi Fuego | Andrés Fernández | 1 | 7 | 3
+EDGE Javi Fuego | Adrián Marín | 1 | 7 | 7
+EDGE Javi Fuego | Roberto Soriano | 2 | 7 | 17
+EDGE Javi Fuego | Nicola Sansone | 1 | 7 | 8
+EDGE Pablo Fornals | Carlos Bacca | 31 | 38 | 37
+EDGE Pablo Fornals | Víctor Ruiz | 25 | 38 | 34
+EDGE Pablo Fornals | Roger Martínez | 1 | 38 | 2
+EDGE Pablo Fornals | Roberto Soriano | 12 | 38 | 17
+EDGE Pablo Fornals | Cédric Bakambu | 15 | 38 | 18
+EDGE Pablo Fornals | Andrés Fernández | 3 | 38 | 3
+EDGE Pablo Fornals | Rúben Semedo | 3 | 38 | 4
+EDGE Pablo Fornals | Alfred N'Diaye | 1 | 38 | 1
+EDGE Pablo Fornals | Adrián Marín | 5 | 38 | 7
+EDGE Pablo Fornals | Nicola Sansone | 7 | 38 | 8
+EDGE Pablo Fornals | Chuca | 1 | 38 | 3
+EDGE Carlos Bacca | Víctor Ruiz | 28 | 37 | 34
+EDGE Carlos Bacca | Roger Martínez | 1 | 37 | 2
+EDGE Carlos Bacca | Roberto Soriano | 12 | 37 | 17
+EDGE Carlos Bacca | Cédric Bakambu | 13 | 37 | 18
+EDGE Carlos Bacca | Andrés Fernández | 2 | 37 | 3
+EDGE Carlos Bacca | Rúben Semedo | 1 | 37 | 4
+EDGE Carlos Bacca | Alfred N'Diaye | 1 | 37 | 1
+EDGE Carlos Bacca | Adrián Marín | 4 | 37 | 7
+EDGE Carlos Bacca | Chuca | 1 | 37 | 3
+EDGE Carlos Bacca | Nicola Sansone | 3 | 37 | 8
+EDGE Víctor Ruiz | Roger Martínez | 2 | 34 | 2
+EDGE Víctor Ruiz | Roberto Soriano | 11 | 34 | 17
+EDGE Víctor Ruiz | Cédric Bakambu | 15 | 34 | 18
+EDGE Víctor Ruiz | Nicola Sansone | 5 | 34 | 8
+EDGE Víctor Ruiz | Chuca | 2 | 34 | 3
+EDGE Víctor Ruiz | Rúben Semedo | 1 | 34 | 4
+EDGE Víctor Ruiz | Adrián Marín | 3 | 34 | 7
+EDGE Víctor Ruiz | Andrés Fernández | 1 | 34 | 3
+EDGE Roberto Soriano | Cédric Bakambu | 8 | 17 | 18
+EDGE Roberto Soriano | Andrés Fernández | 1 | 17 | 3
+EDGE Roberto Soriano | Adrián Marín | 4 | 17 | 7
+EDGE Roberto Soriano | Nicola Sansone | 3 | 17 | 8
+EDGE Roberto Soriano | Chuca | 3 | 17 | 3
+EDGE Roberto Soriano | Genís Montolio | 1 | 17 | 1
+EDGE Roberto Soriano | Manu Morlanes | 1 | 17 | 1
+EDGE Roberto Soriano | Mario González | 1 | 17 | 1
+EDGE Roberto Soriano | Darío Poveda | 1 | 17 | 1
+EDGE Roberto Soriano | Ander Cantero | 1 | 17 | 1
+EDGE Roberto Soriano | Leo Suárez | 1 | 17 | 1
+EDGE Roberto Soriano | Rúben Semedo | 1 | 17 | 4
+EDGE Cédric Bakambu | Andrés Fernández | 1 | 18 | 3
+EDGE Cédric Bakambu | Rúben Semedo | 3 | 18 | 4
+EDGE Cédric Bakambu | Alfred N'Diaye | 1 | 18 | 1
+EDGE Cédric Bakambu | Adrián Marín | 2 | 18 | 7
+EDGE Cédric Bakambu | Nicola Sansone | 3 | 18 | 8
+EDGE Cédric Bakambu | Chuca | 2 | 18 | 3
+EDGE Andrés Fernández | Rúben Semedo | 1 | 3 | 4
+EDGE Andrés Fernández | Alfred N'Diaye | 1 | 3 | 1
+EDGE Andrés Fernández | Adrián Marín | 1 | 3 | 7
+EDGE Andrés Fernández | Nicola Sansone | 2 | 3 | 8
+EDGE Rúben Semedo | Alfred N'Diaye | 1 | 4 | 1
+EDGE Rúben Semedo | Nicola Sansone | 1 | 4 | 8
+EDGE Adrián Marín | Nicola Sansone | 2 | 7 | 8
+EDGE Adrián Marín | Genís Montolio | 1 | 7 | 1
+EDGE Adrián Marín | Chuca | 1 | 7 | 3
+EDGE Adrián Marín | Manu Morlanes | 1 | 7 | 1
+EDGE Adrián Marín | Mario González | 1 | 7 | 1
+EDGE Adrián Marín | Darío Poveda | 1 | 7 | 1
+EDGE Adrián Marín | Ander Cantero | 1 | 7 | 1
+EDGE Adrián Marín | Leo Suárez | 1 | 7 | 1
+EDGE Nicola Sansone | Chuca | 1 | 8 | 3
+EDGE Chuca | Genís Montolio | 1 | 3 | 1
+EDGE Chuca | Manu Morlanes | 1 | 3 | 1
+EDGE Chuca | Mario González | 1 | 3 | 1
+EDGE Chuca | Darío Poveda | 1 | 3 | 1
+EDGE Genís Montolio | Manu Morlanes | 1 | 1 | 1
+EDGE Genís Montolio | Mario González | 1 | 1 | 1
+EDGE Genís Montolio | Darío Poveda | 1 | 1 | 1
+EDGE Manu Morlanes | Mario González | 1 | 1 | 1
+EDGE Manu Morlanes | Darío Poveda | 1 | 1 | 1
+EDGE Mario González | Darío Poveda | 1 | 1 | 1
+EDGE Ander Cantero | Leo Suárez | 1 | 1 | 1

@@ -1,0 +1,151 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 4113091 | niedz., 27.08.2023 | FC Barcelona
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Matteo Gabbia, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Ramón Terrats, Dani Parejo, Álex Baena, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4112884 | sob., 09.12.2023 | Real Sociedad
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Álex Baena, Adrià Altimira, Gerard Moreno, José Luis Morales
+
+MATCH: 4112899 | sob., 25.05.2024 | CA Osasuna
+PLAYERS: Pepe Reina, Yerson Mosquera, Aïssa Mandi, Jorge Cuenca, Kiko Femenía, Ramón Terrats, Santi Comesaña, Manu Trigueros, Bertrand Traoré, Álex Baena, Alexander Sørloth
+
+MATCH: 4172121 | czw., 05.10.2023 | Stade Rennais FC
+PLAYERS: Pepe Reina, Matteo Gabbia, Aïssa Mandi, Alberto Moreno, Kiko Femenía, Étienne Capoue, Dani Parejo, Manu Trigueros, Álex Baena, Yéremy Pino, Alexander Sørloth
+
+MATCH: 4112967 | sob., 30.09.2023 | Getafe CF
+PLAYERS: Filip Jørgensen, Matteo Gabbia, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Yéremy Pino, José Luis Morales, Álex Baena, Alexander Sørloth
+
+MATCH: 4113140 | pon., 30.10.2023 | Granada CF
+PLAYERS: Filip Jørgensen, Matteo Gabbia, Raúl Albiol, Alberto Moreno, Adrià Altimira, Étienne Capoue, Dani Parejo, Álex Baena, Ilias Akhomach, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4112963 | sob., 11.05.2024 | Sevilla FC
+PLAYERS: Filip Jørgensen, Yerson Mosquera, Eric Bailly, Jorge Cuenca, Kiko Femenía, Francis Coquelin, Dani Parejo, Álex Baena, Ilias Akhomach, Gonçalo Guedes, Alexander Sørloth
+
+MATCH: 4112843 | sob., 27.01.2024 | FC Barcelona
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Eric Bailly, Alberto Moreno, Kiko Femenía, Francis Coquelin, Santi Comesaña, Álex Baena, Ilias Akhomach, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4113144 | niedz., 03.12.2023 | Sevilla FC
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Santi Comesaña, Dani Parejo, Álex Baena, Adrià Altimira, Gerard Moreno, José Luis Morales
+
+MATCH: 4112997 | niedz., 10.03.2024 | Real Betis Balompié
+PLAYERS: Filip Jørgensen, Eric Bailly, Aïssa Mandi, Alberto Moreno, Kiko Femenía, Santi Comesaña, Dani Parejo, Álex Baena, Bertrand Traoré, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4112945 | niedz., 05.05.2024 | Celta de Vigo
+PLAYERS: Filip Jørgensen, Yerson Mosquera, Raúl Albiol, Alberto Moreno, Kiko Femenía, Santi Comesaña, Dani Parejo, Ilias Akhomach, Álex Baena, Gonçalo Guedes, Alexander Sørloth
+
+MATCH: 4113182 | pt., 16.02.2024 | Getafe CF
+PLAYERS: Filip Jørgensen, Yerson Mosquera, Raúl Albiol, Alberto Moreno, Kiko Femenía, Francis Coquelin, Santi Comesaña, Álex Baena, Ilias Akhomach, Gonçalo Guedes, Gerard Moreno
+
+MATCH: 4112925 | niedz., 21.04.2024 | UD Almería
+PLAYERS: Filip Jørgensen, Yerson Mosquera, Aïssa Mandi, Alfonso Pedraza, Kiko Femenía, Francis Coquelin, Dani Parejo, Álex Baena, Ilias Akhomach, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4172130 | czw., 21.09.2023 | Panathinaikos FC
+PLAYERS: Pepe Reina, Matteo Gabbia, Aïssa Mandi, Alfonso Pedraza, Kiko Femenía, Étienne Capoue, Santi Comesaña, Manu Trigueros, José Luis Morales, Denis Suárez, Ben Brereton Díaz
+
+MATCH: 4203995 | czw., 02.11.2023 | Chiclana CF
+PLAYERS: Pepe Reina, Jorge Cuenca, Aïssa Mandi, Carlos Romero, Kiko Femenía, Ramón Terrats, Santi Comesaña, Manu Trigueros, Ben Brereton Díaz, Ilias Akhomach, Jorge Pascual
+
+MATCH: 4227818 | śr., 22.11.2023 | Zamora CF
+PLAYERS: Pepe Reina, Jorge Cuenca, Raúl Albiol, Alfonso Pedraza, Kiko Femenía, Santi Comesaña, Dani Parejo, Alberto Moreno, Manu Trigueros, Adrià Altimira, José Luis Morales
+
+MATCH: 4112833 | sob., 20.01.2024 | RCD Mallorca
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Eric Bailly, Alberto Moreno, Kiko Femenía, Francis Coquelin, Santi Comesaña, Álex Baena, Ilias Akhomach, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4112914 | niedz., 19.05.2024 | Real Madryt
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Eric Bailly, Alberto Moreno, Yerson Mosquera, Santi Comesaña, Dani Parejo, Gonçalo Guedes, Ilias Akhomach, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4113071 | śr., 27.09.2023 | Girona FC
+PLAYERS: Filip Jørgensen, Raúl Albiol, Aïssa Mandi, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Álex Baena, José Luis Morales, Yéremy Pino, Alexander Sørloth
+
+MATCH: 4112943 | niedz., 28.04.2024 | Rayo Vallecano
+PLAYERS: Filip Jørgensen, Yerson Mosquera, Raúl Albiol, Alberto Moreno, Kiko Femenía, Santi Comesaña, Dani Parejo, Álex Baena, Ilias Akhomach, Gonçalo Guedes, Alexander Sørloth
+
+MATCH: 4172123 | czw., 30.11.2023 | Panathinaikos FC
+PLAYERS: Pepe Reina, Jorge Cuenca, Raúl Albiol, Alberto Moreno, Juan Foyth, Santi Comesaña, Dani Parejo, Manu Trigueros, Álex Baena, Ilias Akhomach, José Luis Morales
+
+MATCH: 4112982 | pon., 01.04.2024 | Atlético Madryt
+PLAYERS: Filip Jørgensen, Raúl Albiol, Aïssa Mandi, Jorge Cuenca, Yerson Mosquera, Dani Parejo, Étienne Capoue, Francis Coquelin, Gonçalo Guedes, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4112849 | niedz., 17.12.2023 | Real Madryt
+PLAYERS: Filip Jørgensen, Raúl Albiol, Aïssa Mandi, Alfonso Pedraza, Adrià Altimira, Étienne Capoue, Dani Parejo, Álex Baena, Ilias Akhomach, Gerard Moreno, José Luis Morales
+
+MATCH: 4113015 | niedz., 14.04.2024 | Athletic Bilbao
+PLAYERS: Filip Jørgensen, Yerson Mosquera, Raúl Albiol, Alberto Moreno, Kiko Femenía, Santi Comesaña, Dani Parejo, Álex Baena, Bertrand Traoré, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4172122 | śr., 06.12.2023 | Maccabi Haifa
+PLAYERS: Pepe Reina, Jorge Cuenca, Matteo Gabbia, Adrià Altimira, Juan Foyth, Étienne Capoue, Santi Comesaña, Manu Trigueros, Álex Baena, Ilias Akhomach, Ben Brereton Díaz
+
+MATCH: 4113097 | niedz., 26.11.2023 | CA Osasuna
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Álex Baena, Adrià Altimira, Gerard Moreno, José Luis Morales
+
+MATCH: 4113142 | niedz., 24.09.2023 | Rayo Vallecano
+PLAYERS: Filip Jørgensen, Raúl Albiol, Aïssa Mandi, Alberto Moreno, Juan Foyth, Santi Comesaña, Dani Parejo, Álex Baena, Yéremy Pino, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4112874 | śr., 20.12.2023 | Celta de Vigo
+PLAYERS: Filip Jørgensen, Raúl Albiol, Aïssa Mandi, Alfonso Pedraza, Adrià Altimira, Santi Comesaña, Dani Parejo, Alberto Moreno, Álex Baena, Ilias Akhomach, Alexander Sørloth
+
+MATCH: 4295484 | czw., 07.03.2024 | Olympique Marseille
+PLAYERS: Pepe Reina, Yerson Mosquera, Eric Bailly, Jorge Cuenca, Aïssa Mandi, Francis Coquelin, Santi Comesaña, Álex Baena, Ilias Akhomach, Gonçalo Guedes, Gerard Moreno
+
+MATCH: 4295491 | czw., 14.03.2024 | Olympique Marseille
+PLAYERS: Filip Jørgensen, Eric Bailly, Aïssa Mandi, Jorge Cuenca, Kiko Femenía, Dani Parejo, Étienne Capoue, Francis Coquelin, Gonçalo Guedes, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4113141 | pt., 18.08.2023 | RCD Mallorca
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Matteo Gabbia, Alfonso Pedraza, Juan Foyth, Dani Parejo, Ramón Terrats, Álex Baena, Ben Brereton Díaz, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4112889 | sob., 10.02.2024 | Deportivo Alavés
+PLAYERS: Filip Jørgensen, Yerson Mosquera, Raúl Albiol, Jorge Cuenca, Kiko Femenía, Francis Coquelin, Santi Comesaña, Álex Baena, Ilias Akhomach, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4113165 | niedz., 17.09.2023 | UD Almería
+PLAYERS: Filip Jørgensen, Matteo Gabbia, Raúl Albiol, Carlos Romero, Juan Foyth, Étienne Capoue, Dani Parejo, Álex Baena, Yéremy Pino, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4113048 | pt., 01.09.2023 | Cádiz CF
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Raúl Albiol, Alfonso Pedraza, Juan Foyth, Denis Suárez, Ramón Terrats, Álex Baena, Yéremy Pino, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4113013 | niedz., 03.03.2024 | Granada CF
+PLAYERS: Pepe Reina, Yerson Mosquera, Eric Bailly, Alberto Moreno, Kiko Femenía, Étienne Capoue, Dani Parejo, Álex Baena, Bertrand Traoré, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4113111 | niedz., 05.11.2023 | Athletic Bilbao
+PLAYERS: Filip Jørgensen, Matteo Gabbia, Raúl Albiol, Carlos Romero, Adrià Altimira, Étienne Capoue, Dani Parejo, Álex Baena, Ilias Akhomach, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4172127 | czw., 09.11.2023 | Maccabi Haifa
+PLAYERS: Pepe Reina, Matteo Gabbia, Aïssa Mandi, Alberto Moreno, Adrià Altimira, Santi Comesaña, Ramón Terrats, Manu Trigueros, Ben Brereton Díaz, Ilias Akhomach, Alexander Sørloth
+
+MATCH: 4113151 | niedz., 22.10.2023 | Deportivo Alavés
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Raúl Albiol, Aïssa Mandi, Dani Parejo, Étienne Capoue, Santi Comesaña, Kiko Femenía, Alfonso Pedraza, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4112812 | niedz., 13.08.2023 | Real Betis Balompié
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Aïssa Mandi, Alberto Moreno, Juan Foyth, Dani Parejo, Ramón Terrats, Santi Comesaña, Álex Baena, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4113043 | niedz., 04.02.2024 | Cádiz CF
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Raúl Albiol, Alberto Moreno, Kiko Femenía, Francis Coquelin, Santi Comesaña, Álex Baena, Ilias Akhomach, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4113064 | niedz., 08.10.2023 | UD Las Palmas
+PLAYERS: Filip Jørgensen, Raúl Albiol, Aïssa Mandi, Alfonso Pedraza, Juan Foyth, Étienne Capoue, Dani Parejo, Manu Trigueros, Ben Brereton Díaz, Yéremy Pino, Alexander Sørloth
+
+MATCH: 4113030 | pt., 23.02.2024 | Real Sociedad
+PLAYERS: Filip Jørgensen, Raúl Albiol, Eric Bailly, Alberto Moreno, Yerson Mosquera, Francis Coquelin, Santi Comesaña, Álex Baena, Ilias Akhomach, Gonçalo Guedes, Gerard Moreno
+
+MATCH: 4112856 | wt., 02.01.2024 | Valencia CF
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Raúl Albiol, Alberto Moreno, Adrià Altimira, Étienne Capoue, Ramón Terrats, Dani Parejo, José Luis Morales, Ilias Akhomach, Gerard Moreno
+
+MATCH: 4112822 | sob., 13.01.2024 | UD Las Palmas
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Eric Bailly, Alfonso Pedraza, Adrià Altimira, Santi Comesaña, Dani Parejo, Álex Baena, Ilias Akhomach, Gerard Moreno, José Luis Morales
+
+MATCH: 4113092 | niedz., 12.11.2023 | Atlético Madryt
+PLAYERS: Filip Jørgensen, Jorge Cuenca, Raúl Albiol, Alberto Moreno, Adrià Altimira, Étienne Capoue, Dani Parejo, Álex Baena, Yéremy Pino, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4112992 | niedz., 17.03.2024 | Valencia CF
+PLAYERS: Filip Jørgensen, Yerson Mosquera, Aïssa Mandi, Jorge Cuenca, Kiko Femenía, Francis Coquelin, Santi Comesaña, Álex Baena, Bertrand Traoré, Gonçalo Guedes, Alexander Sørloth
+
+MATCH: 4172124 | czw., 14.12.2023 | Stade Rennais FC
+PLAYERS: Pepe Reina, Matteo Gabbia, Raúl Albiol, Adrià Altimira, Juan Foyth, Étienne Capoue, Dani Parejo, Álex Baena, Ilias Akhomach, Gerard Moreno, Alexander Sørloth
+
+MATCH: 4240833 | pon., 08.01.2024 | Unionistas CF
+PLAYERS: Pepe Reina, Jorge Cuenca, Eric Bailly, Alberto Moreno, Adrià Altimira, Santi Comesaña, Dani Parejo, Álex Baena, Ilias Akhomach, Gerard Moreno, José Luis Morales
+
+MATCH: 4112916 | wt., 14.05.2024 | Girona FC
+PLAYERS: Filip Jørgensen, Yerson Mosquera, Eric Bailly, Jorge Cuenca, Kiko Femenía, Santi Comesaña, Dani Parejo, Bertrand Traoré, Álex Baena, Gonçalo Guedes, Alexander Sørloth
+

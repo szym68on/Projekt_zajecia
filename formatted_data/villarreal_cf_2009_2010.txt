@@ -1,0 +1,160 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 957246 | niedz., 22.11.2009 | Real Valladolid CF
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Robert Pirès, Damián Escudero, Giuseppe Rossi, Nilmar
+
+MATCH: 957324 | niedz., 20.12.2009 | Racing Santander
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Robert Pirès, Cani, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 957624 | wt., 13.04.2010 | Getafe CF
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Ariel Ibagaza, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 957457 | niedz., 21.03.2010 | Málaga CF
+PLAYERS: Diego López, Diego Godín, Mateo Musacchio, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, David Fuster, Damián Escudero, Cani, Joseba Llorente
+
+MATCH: 988809 | czw., 18.02.2010 | VfL Wolfsburg
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Robert Pirès, Ariel Ibagaza, Joseba Llorente, Nilmar
+
+MATCH: 955857 | niedz., 27.09.2009 | Deportivo de La Coruña
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Joan Capdevila, Javi Venta, Sebastián Eguren, Marcos Senna, Cani, Santi Cazorla, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 957694 | sob., 15.05.2010 | Real Zaragoza
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Ángel López, Bruno Soriano, Santi Cazorla, Ariel Ibagaza, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 957501 | niedz., 28.03.2010 | Sevilla FC
+PLAYERS: Diego López, Gonzalo Rodríguez, Mateo Musacchio, Joan Capdevila, Ángel López, Bruno Soriano, Ariel Ibagaza, Cani, Nilmar, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 957684 | sob., 08.05.2010 | Valencia CF
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Ariel Ibagaza, Cani, Santi Cazorla, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 957345 | sob., 09.01.2010 | UD Almería
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Nilmar
+
+MATCH: 971689 | czw., 22.10.2009 | Lazio Rzym
+PLAYERS: Diego López, Iván Marcano, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Sebastián Eguren, Marcos Senna, Robert Pirès, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 955830 | śr., 23.09.2009 | Real Madryt
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Ángel López, Bruno Soriano, Sebastián Eguren, Cani, Santi Cazorla, Giuseppe Rossi, Nilmar
+
+MATCH: 976420 | czw., 29.10.2009 | UD Puertollano
+PLAYERS: Xavier Oliva, Iván Marcano, Gonzalo Rodríguez, Kiko Olivas, Ángel López, Bruno Soriano, Marcos Gullón, Robert Pirès, Damián Escudero, Giuseppe Rossi, Jonathan Pereira
+
+MATCH: 965991 | czw., 20.08.2009 | NAC Breda
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Marcos Senna, Santi Cazorla, Ariel Ibagaza, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 955786 | niedz., 30.08.2009 | CA Osasuna
+PLAYERS: Diego López, Diego Godín, Kiko Olivas, Joan Capdevila, Ángel López, Marcos Senna, Sebastián Eguren, Santi Cazorla, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 955895 | niedz., 25.10.2009 | Málaga CF
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Joan Capdevila, Javi Venta, Sebastián Eguren, Marcos Senna, Damián Escudero, Cani, Joseba Llorente, Nilmar
+
+MATCH: 971690 | czw., 05.11.2009 | Lazio Rzym
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Ángel López, Bruno Soriano, Sebastián Eguren, Robert Pirès, Cani, Joseba Llorente, Nilmar
+
+MATCH: 957652 | niedz., 25.04.2010 | Racing Santander
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Ariel Ibagaza, Cani, Giuseppe Rossi, Nilmar, Joseba Llorente
+
+MATCH: 955898 | niedz., 01.11.2009 | CD Tenerife
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Joan Capdevila, Javi Venta, Bruno Soriano, Sebastián Eguren, Robert Pirès, Cani, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 957366 | niedz., 24.01.2010 | Real Zaragoza
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Nilmar
+
+MATCH: 976436 | wt., 10.11.2009 | UD Puertollano
+PLAYERS: Xavier Oliva, Iván Marcano, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Damián Escudero, Cani, Joseba Llorente, Nilmar
+
+MATCH: 957335 | sob., 02.01.2010 | FC Barcelona
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Cani, Santi Cazorla, David Fuster, Nilmar
+
+MATCH: 957429 | niedz., 07.03.2010 | RCD Espanyol
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Ariel Ibagaza, David Fuster, Joseba Llorente, Nilmar
+
+MATCH: 955876 | niedz., 18.10.2009 | Xerez CD
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 957412 | niedz., 28.02.2010 | Deportivo de La Coruña
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, David Fuster, Ariel Ibagaza, Joseba Llorente, Nilmar
+
+MATCH: 957608 | sob., 10.04.2010 | Sporting Gijón
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Cani, Giuseppe Rossi, Nilmar, Joseba Llorente
+
+MATCH: 957592 | niedz., 04.04.2010 | Real Valladolid CF
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Ariel Ibagaza, Cani, Giuseppe Rossi, Nilmar, Joseba Llorente
+
+MATCH: 957303 | niedz., 06.12.2009 | Getafe CF
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Robert Pirès, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 965994 | czw., 27.08.2009 | NAC Breda
+PLAYERS: Diego López, Diego Godín, Fabricio Fuentes, Joan Capdevila, Ángel López, Marcos Senna, Santi Cazorla, Ariel Ibagaza, Cani, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 971691 | śr., 02.12.2009 | Levski Sofia
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Joan Capdevila, Ángel López, Sebastián Eguren, Ariel Ibagaza, Robert Pirès, David Fuster, Damián Escudero, Giuseppe Rossi
+
+MATCH: 957393 | sob., 13.02.2010 | Athletic Bilbao
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Javi Venta, Marcos Senna, Javier Matilla, Robert Pirès, David Fuster, Cani, Nilmar
+
+MATCH: 986480 | wt., 12.01.2010 | Celta de Vigo
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Santi Cazorla, David Fuster, Cani, Joseba Llorente
+
+MATCH: 955910 | niedz., 08.11.2009 | Sevilla FC
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Joan Capdevila, Javi Venta, Bruno Soriano, Sebastián Eguren, David Fuster, Robert Pirès, Cani, Giuseppe Rossi
+
+MATCH: 957356 | niedz., 17.01.2010 | Valencia CF
+PLAYERS: Diego López, Diego Godín, Kiko Olivas, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Cani, Santi Cazorla, David Fuster, Nilmar
+
+MATCH: 971134 | czw., 17.12.2009 | Red Bull Salzburg
+PLAYERS: Xavier Oliva, Gonzalo Rodríguez, Kiko Olivas, Iván Marcano, Ángel López, Bruno Soriano, Sebastián Eguren, Damián Escudero, Jonathan Pereira, Joseba Llorente, Nilmar
+
+MATCH: 988811 | czw., 25.02.2010 | VfL Wolfsburg
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Robert Pirès, David Fuster, Cani, Nilmar
+
+MATCH: 957642 | sob., 17.04.2010 | Atlético Madryt
+PLAYERS: Diego López, Diego Godín, Mateo Musacchio, Joan Capdevila, Ángel López, Bruno Soriano, Ariel Ibagaza, Cani, Giuseppe Rossi, Nilmar, Joseba Llorente
+
+MATCH: 955811 | niedz., 20.09.2009 | Athletic Bilbao
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Joan Capdevila, Ángel López, Sebastián Eguren, Cani, Santi Cazorla, Ariel Ibagaza, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 957384 | niedz., 07.02.2010 | RCD Mallorca
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Robert Pirès, David Fuster, Joseba Llorente, Nilmar
+
+MATCH: 957663 | sob., 01.05.2010 | FC Barcelona
+PLAYERS: Diego López, Gonzalo Rodríguez, Diego Godín, Joan Capdevila, Ángel López, Bruno Soriano, Ariel Ibagaza, Santi Cazorla, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 986472 | śr., 06.01.2010 | Celta de Vigo
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Joan Oriol, Ángel López, Sebastián Eguren, Damián Escudero, Ariel Ibagaza, Cani, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 957378 | niedz., 31.01.2010 | CA Osasuna
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Robert Pirès, Cani, Joseba Llorente, Nilmar
+
+MATCH: 971688 | czw., 01.10.2009 | Red Bull Salzburg
+PLAYERS: Diego López, Iván Marcano, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Sebastián Eguren, Santi Cazorla, Cani, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 971687 | czw., 17.09.2009 | Levski Sofia
+PLAYERS: Diego López, Iván Marcano, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Bruno Soriano, Sebastián Eguren, Cani, Robert Pirès, Nilmar, Jonathan Pereira
+
+MATCH: 955802 | niedz., 13.09.2009 | RCD Mallorca
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Sebastián Eguren, Santi Cazorla, Ariel Ibagaza, Cani, Giuseppe Rossi, Joseba Llorente
+
+MATCH: 957403 | niedz., 21.02.2010 | Real Madryt
+PLAYERS: Diego López, Iván Marcano, Mateo Musacchio, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Javier Matilla, Nilmar, David Fuster, Marco Ruben
+
+MATCH: 957460 | śr., 24.03.2010 | CD Tenerife
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, David Fuster, Ariel Ibagaza, Giuseppe Rossi, Nilmar
+
+MATCH: 957314 | niedz., 13.12.2009 | Atlético Madryt
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Joan Capdevila, Javi Venta, Bruno Soriano, Marcos Senna, Cani, Santi Cazorla, David Fuster, Giuseppe Rossi
+
+MATCH: 957257 | sob., 28.11.2009 | Sporting Gijón
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Robert Pirès, Cani, Giuseppe Rossi, Nilmar
+
+MATCH: 955867 | niedz., 04.10.2009 | RCD Espanyol
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Javi Venta, Marcos Senna, Sebastián Eguren, Santi Cazorla, Robert Pirès, Giuseppe Rossi, Nilmar
+
+MATCH: 957673 | wt., 04.05.2010 | UD Almería
+PLAYERS: Diego López, Iván Marcano, Diego Godín, Mateo Musacchio, Javi Venta, Bruno Soriano, Marcos Senna, Santi Cazorla, Giuseppe Rossi, Nilmar, Joseba Llorente
+
+MATCH: 957438 | niedz., 14.03.2010 | Xerez CD
+PLAYERS: Diego López, Diego Godín, Gonzalo Rodríguez, Joan Capdevila, Ángel López, Bruno Soriano, Marcos Senna, Ariel Ibagaza, Cani, Joseba Llorente, Nilmar
+

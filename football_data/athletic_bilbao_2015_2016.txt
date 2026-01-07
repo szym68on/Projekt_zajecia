@@ -1,0 +1,3604 @@
+====================================================================================================
+                        FOOTBALL TEAM - SEASON MATCHES REPORT
+====================================================================================================
+
+📅 Generated: 2026-01-05 18:18:26
+⚽ Total matches: 62
+👥 Total players tracked: 1729
+📊 Average players per match: 27.9
+
+🏆 Competitions breakdown:
+   • Unknown: 24 matches
+   • LALIGA: 38 matches
+
+====================================================================================================
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #01
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Augsburg
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  czw., 26.11.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-augsburg_athletic-bilbao/aufstellung/spielbericht/2618796
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC AUGSBURG - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       35. Marwin Hitz
+        5. Ragnar Klavan
+       16. Christoph Janker
+        3. Konstantinos Stafylidis
+        2. Paul Verhaegh
+       10. Daniel Baier
+       21. Dominik Kohr
+       15. Piotr Trochowski
+       22. Dong-won Ji
+       11. Alexander Esswein
+        7. Halil Altıntop
+
+   🔄 SUBSTITUTES IN (3):
+       19. Ja-cheol Koo
+       30. Caiuby
+       25. Raúl Bobadilla
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+       18. Carlos Gurpegui
+       24. Mikel Balenziaga
+        2. Eneko Bóveda
+        6. Mikel San José
+       17. Mikel Rico
+        5. Javi Eraso
+       25. Sabin Merino
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        8. Ander Iturraspe
+       22. Raúl García
+       15. Iñaki Williams
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 26.11.2015|Unknown|Unknown|FC Augsburg|Athletic Bilbao|Marwin Hitz|Ragnar Klavan|Christoph Janker|Konstantinos Stafylidis|Paul Verhaegh|Daniel Baier|Dominik Kohr|Piotr Trochowski|Dong-won Ji|Alexander Esswein|Halil Altıntop|Ja-cheol Koo|Caiuby|Raúl Bobadilla|Iago Herrerín|Aymeric Laporte|Carlos Gurpegui|Mikel Balenziaga|Eneko Bóveda|Mikel San José|Mikel Rico|Javi Eraso|Sabin Merino|Markel Susaeta|Aritz Aduriz|Ander Iturraspe|Raúl García|Iñaki Williams
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #02
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  SD Eibar
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 30.08.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 2. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/sd-eibar_athletic-bilbao/aufstellung/spielbericht/2594485
+
+----------------------------------------------------------------------------------------------------
+
+🏠 SD EIBAR - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Asier Riesgo
+        4. Iván Ramis
+       15. Mauro dos Santos
+       19. Antonio Luna
+        7. Ander Capa
+       14. Dani García
+        5. Gonzalo Escalante
+       24. Adrián González
+       21. Saúl Berjón
+       20. Keko Gontán
+        9. Sergi Enrich
+
+   🔄 SUBSTITUTES IN (3):
+       17. David Juncà
+       10. Mikel Arruabarrena
+       18. Borja Bastón
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       30. Iñigo Lekue
+        2. Eneko Bóveda
+        3. Gorka Elustondo
+        7. Beñat Etxebarria
+       10. Óscar de Marcos
+        5. Javi Eraso
+       11. Ibai Gómez
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       23. Ager Aketxe
+       14. Markel Susaeta
+       25. Sabin Merino
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 30.08.2015|LALIGA|2. Kolejka|SD Eibar|Athletic Bilbao|Asier Riesgo|Iván Ramis|Mauro dos Santos|Antonio Luna|Ander Capa|Dani García|Gonzalo Escalante|Adrián González|Saúl Berjón|Keko Gontán|Sergi Enrich|David Juncà|Mikel Arruabarrena|Borja Bastón|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Iñigo Lekue|Eneko Bóveda|Gorka Elustondo|Beñat Etxebarria|Óscar de Marcos|Javi Eraso|Ibai Gómez|Aritz Aduriz|Ager Aketxe|Markel Susaeta|Sabin Merino
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #03
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Málaga CF
+📅 DATE:  niedz., 06.12.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 14. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_málaga-cf/aufstellung/spielbericht/2594610
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+       16. Xabi Etxeita
+       18. Carlos Gurpegui
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       14. Markel Susaeta
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        2. Eneko Bóveda
+        8. Ander Iturraspe
+        9. Kike Sola
+
+✈️  MÁLAGA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Carlos Kameni
+        2. Raúl Albentosa
+       15. Marcos Angeleri
+        7. Juankar
+       18. Roberto Rosales
+       21. Egor Filipenko
+       14. Recio
+       31. Pablo Fornals
+       17. Duda
+       11. Nordin Amrabat
+        9. Charles
+
+   🔄 SUBSTITUTES IN (3):
+       28. Juanpi
+       39. Javi Ontiveros
+       24. Roque Santa Cruz
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 06.12.2015|LALIGA|14. Kolejka|Athletic Bilbao|Málaga CF|Gorka Iraizoz|Xabi Etxeita|Carlos Gurpegui|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Markel Susaeta|Iñaki Williams|Aritz Aduriz|Eneko Bóveda|Ander Iturraspe|Kike Sola|Carlos Kameni|Raúl Albentosa|Marcos Angeleri|Juankar|Roberto Rosales|Egor Filipenko|Recio|Pablo Fornals|Duda|Nordin Amrabat|Charles|Juanpi|Javi Ontiveros|Roque Santa Cruz
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #04
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Celta de Vigo
+📅 DATE:  niedz., 01.05.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 36. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_celta-de-vigo/aufstellung/spielbericht/2594828
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+       16. Xabi Etxeita
+        2. Eneko Bóveda
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       19. Iker Muniain
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        8. Ander Iturraspe
+       15. Iñaki Williams
+       21. Borja Viguera
+
+✈️  CELTA DE VIGO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Sergio Álvarez
+       20. Sergi Gómez
+       22. Gustavo Cabral
+       19. Jonny Otto
+        2. Hugo Mallo
+        5. Marcelo Díaz
+       18. Daniel Wass
+        8. Pablo Hernández
+       10. Nolito
+       14. Fabián Orellana
+        9. Iago Aspas
+
+   🔄 SUBSTITUTES IN (3):
+       21. Carles Planas
+        6. Nemanja Radoja
+       11. John Guidetti
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 01.05.2016|LALIGA|36. Kolejka|Athletic Bilbao|Celta de Vigo|Gorka Iraizoz|Xabi Etxeita|Eneko Bóveda|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Iker Muniain|Markel Susaeta|Aritz Aduriz|Ander Iturraspe|Iñaki Williams|Borja Viguera|Sergio Álvarez|Sergi Gómez|Gustavo Cabral|Jonny Otto|Hugo Mallo|Marcelo Díaz|Daniel Wass|Pablo Hernández|Nolito|Fabián Orellana|Iago Aspas|Carles Planas|Nemanja Radoja|John Guidetti
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #05
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FK Keshla
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  czw., 06.08.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fk-keshla_athletic-bilbao/aufstellung/spielbericht/2604372
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FK KESHLA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Salahat Agayev
+        4. Lasha Kasradze
+        5. Dênis
+       14. Zurab Khizanishvili
+       24. Fuad Bayramov
+        7. Nika Kvekveskiri
+       22. Ilkin Qyrtymov
+        8. Nizami Hajiev
+       19. Mirhuseyn Seyidov
+       11. Rauf Aliyev
+       23. Dhiego Martins
+
+   🔄 SUBSTITUTES IN (2):
+       10. Elnur Abdullayev
+       20. Yuriy Fomenko
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+        5. Javi Eraso
+       23. Ager Aketxe
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        3. Gorka Elustondo
+       11. Ibai Gómez
+       27. Sabin Merino
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 06.08.2015|Unknown|Unknown|FK Keshla|Athletic Bilbao|Salahat Agayev|Lasha Kasradze|Dênis|Zurab Khizanishvili|Fuad Bayramov|Nika Kvekveskiri|Ilkin Qyrtymov|Nizami Hajiev|Mirhuseyn Seyidov|Rauf Aliyev|Dhiego Martins|Elnur Abdullayev|Yuriy Fomenko|Iago Herrerín|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Javi Eraso|Ager Aketxe|Markel Susaeta|Aritz Aduriz|Gorka Elustondo|Ibai Gómez|Sabin Merino
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #06
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  pon., 17.08.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_athletic-bilbao/aufstellung/spielbericht/2613603
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Claudio Bravo
+        3. Gerard Piqué
+       14. Javier Mascherano
+       24. Jérémy Mathieu
+        6. Dani Alves
+        5. Sergio Busquets
+        8. Andrés Iniesta
+        4. Ivan Rakitic
+        7. Pedro
+       10. Lionel Messi
+        9. Luis Suárez
+
+   🔄 SUBSTITUTES IN (2):
+       17. Munir El Haddadi
+       16. Sandro Ramírez
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+        2. Eneko Bóveda
+       18. Carlos Gurpegui
+        7. Beñat Etxebarria
+       10. Óscar de Marcos
+        5. Javi Eraso
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        3. Gorka Elustondo
+       17. Mikel Rico
+        9. Kike Sola
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pon., 17.08.2015|Unknown|Unknown|FC Barcelona|Athletic Bilbao|Claudio Bravo|Gerard Piqué|Javier Mascherano|Jérémy Mathieu|Dani Alves|Sergio Busquets|Andrés Iniesta|Ivan Rakitic|Pedro|Lionel Messi|Luis Suárez|Munir El Haddadi|Sandro Ramírez|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Eneko Bóveda|Carlos Gurpegui|Beñat Etxebarria|Óscar de Marcos|Javi Eraso|Markel Susaeta|Aritz Aduriz|Gorka Elustondo|Mikel Rico|Kike Sola
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #07
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Sociedad
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 27.09.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 6. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-sociedad_athletic-bilbao/aufstellung/spielbericht/2594527
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL SOCIEDAD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gerónimo Rulli
+        6. Iñigo Martínez
+       23. Diego Reyes
+       24. Alberto de la Bella
+       30. Aritz Elustondo
+        4. Asier Illarramendi
+       14. Rubén Pardo
+       17. David Zurutuza
+       16. Sergio Canales
+       11. Carlos Vela
+        9. Imanol Agirretxe
+
+   🔄 SUBSTITUTES IN (3):
+       10. Xabi Prieto
+        7. Bruma
+       22. Jonathas
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       25. Sabin Merino
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       30. Iñigo Lekue
+        8. Ander Iturraspe
+       15. Iñaki Williams
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 27.09.2015|LALIGA|6. Kolejka|Real Sociedad|Athletic Bilbao|Gerónimo Rulli|Iñigo Martínez|Diego Reyes|Alberto de la Bella|Aritz Elustondo|Asier Illarramendi|Rubén Pardo|David Zurutuza|Sergio Canales|Carlos Vela|Imanol Agirretxe|Xabi Prieto|Bruma|Jonathas|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Sabin Merino|Markel Susaeta|Aritz Aduriz|Iñigo Lekue|Ander Iturraspe|Iñaki Williams
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #08
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  AZ Alkmaar
+📅 DATE:  czw., 10.12.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_az-alkmaar/aufstellung/spielbericht/2618794
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+       18. Carlos Gurpegui
+        3. Gorka Elustondo
+       25. Enric Saborit
+        2. Eneko Bóveda
+        6. Mikel San José
+       17. Mikel Rico
+        5. Javi Eraso
+       27. Sabin Merino
+       14. Markel Susaeta
+        9. Kike Sola
+
+   🔄 SUBSTITUTES IN (3):
+        8. Ander Iturraspe
+       23. Ager Aketxe
+       21. Borja Viguera
+
+✈️  AZ ALKMAAR - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       16. Gino Coutinho
+        3. Jeffrey Gouweleeuw
+       23. Derrick Luckassen
+       38. Thomas Ouwejan
+        2. Mattias Johansson
+        6. Celso Ortiz
+       17. Ben Rienstra
+        8. Joris van Overeem
+       20. Thom Haye
+        7. Guus Hupperts
+       18. Vincent Janssen
+
+   🔄 SUBSTITUTES IN (3):
+       33. Pantelis Hatzidiakos
+       11. Muamer Tankovic
+       21. Robert Mühren
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 10.12.2015|Unknown|Unknown|Athletic Bilbao|AZ Alkmaar|Iago Herrerín|Carlos Gurpegui|Gorka Elustondo|Enric Saborit|Eneko Bóveda|Mikel San José|Mikel Rico|Javi Eraso|Sabin Merino|Markel Susaeta|Kike Sola|Ander Iturraspe|Ager Aketxe|Borja Viguera|Gino Coutinho|Jeffrey Gouweleeuw|Derrick Luckassen|Thomas Ouwejan|Mattias Johansson|Celso Ortiz|Ben Rienstra|Joris van Overeem|Thom Haye|Guus Hupperts|Vincent Janssen|Pantelis Hatzidiakos|Muamer Tankovic|Robert Mühren
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #09
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Rayo Vallecano
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 29.11.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 13. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rayo-vallecano_athletic-bilbao/aufstellung/spielbericht/2594600
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RAYO VALLECANO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Juan Carlos
+        4. Antonio Amaya
+       27. Diego Llorente
+        3. Nacho Martínez
+        2. Tito
+        8. Raúl Baena
+       10. Roberto Trashorras
+       21. Jozabed Sánchez
+       14. Pablo Hernández
+       11. Adrián Embarba
+       24. Javi Guerra
+
+   🔄 SUBSTITUTES IN (3):
+       23. Bebé
+       19. Lass Bangoura
+        9. Manucho
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        8. Ander Iturraspe
+        7. Beñat Etxebarria
+       30. Iñigo Lekue
+       22. Raúl García
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        2. Eneko Bóveda
+        3. Gorka Elustondo
+        6. Mikel San José
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 29.11.2015|LALIGA|13. Kolejka|Rayo Vallecano|Athletic Bilbao|Juan Carlos|Antonio Amaya|Diego Llorente|Nacho Martínez|Tito|Raúl Baena|Roberto Trashorras|Jozabed Sánchez|Pablo Hernández|Adrián Embarba|Javi Guerra|Bebé|Lass Bangoura|Manucho|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Ander Iturraspe|Beñat Etxebarria|Iñigo Lekue|Raúl García|Iñaki Williams|Aritz Aduriz|Eneko Bóveda|Gorka Elustondo|Mikel San José
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #10
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Celta de Vigo
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  śr., 30.12.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 17. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/celta-de-vigo_athletic-bilbao/aufstellung/spielbericht/2594638
+
+----------------------------------------------------------------------------------------------------
+
+🏠 CELTA DE VIGO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Sergio Álvarez
+       20. Sergi Gómez
+       22. Gustavo Cabral
+       19. Jonny Otto
+        2. Hugo Mallo
+       24. Augusto Fernández
+        8. Pablo Hernández
+       18. Daniel Wass
+        7. Théo Bongonda
+       14. Fabián Orellana
+        9. Iago Aspas
+
+   🔄 SUBSTITUTES IN (3):
+        6. Nemanja Radoja
+       16. Dejan Drazic
+       11. John Guidetti
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       25. Sabin Merino
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        5. Javi Eraso
+       19. Iker Muniain
+        9. Kike Sola
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 30.12.2015|LALIGA|17. Kolejka|Celta de Vigo|Athletic Bilbao|Sergio Álvarez|Sergi Gómez|Gustavo Cabral|Jonny Otto|Hugo Mallo|Augusto Fernández|Pablo Hernández|Daniel Wass|Théo Bongonda|Fabián Orellana|Iago Aspas|Nemanja Radoja|Dejan Drazic|John Guidetti|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Sabin Merino|Iñaki Williams|Aritz Aduriz|Javi Eraso|Iker Muniain|Kike Sola
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #11
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Deportivo de La Coruña
+📅 DATE:  śr., 02.03.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 27. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_deportivo-de-la-coruña/aufstellung/spielbericht/2594738
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       30. Iñigo Lekue
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       19. Iker Muniain
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       24. Mikel Balenziaga
+       17. Mikel Rico
+       25. Sabin Merino
+
+✈️  DEPORTIVO DE LA CORUÑA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Stipe Pletikosa
+       14. Alejandro Arribas
+       23. Alberto Lopo
+        3. Fernando Navarro
+       15. Laure
+        5. Pedro Mosquera
+       22. Celso Borges
+       19. Fayçal Fajr
+       24. Jonás Gutiérrez
+        7. Lucas Pérez
+        9. Oriol Riera
+
+   🔄 SUBSTITUTES IN (3):
+        2. Manuel Pablo
+       11. Juanfran Moreno
+       17. Fede Cartabia
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 02.03.2016|LALIGA|27. Kolejka|Athletic Bilbao|Deportivo de La Coruña|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Iñigo Lekue|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Iker Muniain|Markel Susaeta|Aritz Aduriz|Mikel Balenziaga|Mikel Rico|Sabin Merino|Stipe Pletikosa|Alejandro Arribas|Alberto Lopo|Fernando Navarro|Laure|Pedro Mosquera|Celso Borges|Fayçal Fajr|Jonás Gutiérrez|Lucas Pérez|Oriol Riera|Manuel Pablo|Juanfran Moreno|Fede Cartabia
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #12
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Valencia CF
+📅 DATE:  czw., 10.03.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_valencia-cf/aufstellung/spielbericht/2668338
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        8. Ander Iturraspe
+        7. Beñat Etxebarria
+       22. Raúl García
+       19. Iker Muniain
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        3. Gorka Elustondo
+       17. Mikel Rico
+       25. Sabin Merino
+
+✈️  VALENCIA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Mathew Ryan
+       23. Aymen Abdennour
+        5. Shkodran Mustafi
+       14. José Gayà
+       19. Antonio Barragán
+       12. Danilo Barbosa
+       18. Javi Fuego
+       10. Dani Parejo
+       11. Pablo Piatti
+       17. Rodrigo
+        7. Álvaro Negredo
+
+   🔄 SUBSTITUTES IN (3):
+       21. André Gomes
+        8. Sofiane Feghouli
+        9. Paco Alcácer
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 10.03.2016|Unknown|Unknown|Athletic Bilbao|Valencia CF|Iago Herrerín|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Ander Iturraspe|Beñat Etxebarria|Raúl García|Iker Muniain|Markel Susaeta|Aritz Aduriz|Gorka Elustondo|Mikel Rico|Sabin Merino|Mathew Ryan|Aymen Abdennour|Shkodran Mustafi|José Gayà|Antonio Barragán|Danilo Barbosa|Javi Fuego|Dani Parejo|Pablo Piatti|Rodrigo|Álvaro Negredo|André Gomes|Sofiane Feghouli|Paco Alcácer
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #13
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Getafe CF
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  sob., 30.01.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 22. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/getafe-cf_athletic-bilbao/aufstellung/spielbericht/2594685
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GETAFE CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Vicente Guaita
+        4. Emiliano Velázquez
+        6. Juan Cala
+        3. Roberto Lago
+       19. Damián Suárez
+        8. Mehdi Lacen
+       22. Juan Rodríguez
+       18. Víctor Rodríguez
+       21. Moi Gómez
+       14. Pedro León
+       12. Stefan Scepovic
+
+   🔄 SUBSTITUTES IN (3):
+       30. Wanderson
+       11. Karim Yoda
+        9. Álvaro Vázquez
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+       16. Xabi Etxeita
+       18. Carlos Gurpegui
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+        5. Javi Eraso
+       25. Sabin Merino
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        4. Aymeric Laporte
+       30. Iñigo Lekue
+       21. Borja Viguera
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 30.01.2016|LALIGA|22. Kolejka|Getafe CF|Athletic Bilbao|Vicente Guaita|Emiliano Velázquez|Juan Cala|Roberto Lago|Damián Suárez|Mehdi Lacen|Juan Rodríguez|Víctor Rodríguez|Moi Gómez|Pedro León|Stefan Scepovic|Wanderson|Karim Yoda|Álvaro Vázquez|Gorka Iraizoz|Xabi Etxeita|Carlos Gurpegui|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Javi Eraso|Sabin Merino|Iñaki Williams|Aritz Aduriz|Aymeric Laporte|Iñigo Lekue|Borja Viguera
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #14
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  AZ Alkmaar
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  czw., 01.10.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/az-alkmaar_athletic-bilbao/aufstellung/spielbericht/2618768
+
+----------------------------------------------------------------------------------------------------
+
+🏠 AZ ALKMAAR - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       16. Gino Coutinho
+       14. Jop van der Linden
+        3. Jeffrey Gouweleeuw
+       24. Ridgeciano Haps
+        2. Mattias Johansson
+        8. Joris van Overeem
+       17. Ben Rienstra
+       10. Markus Henriksen
+       19. Dabney dos Santos
+       11. Muamer Tankovic
+       18. Vincent Janssen
+
+   🔄 SUBSTITUTES IN (3):
+       23. Derrick Luckassen
+       20. Thom Haye
+        9. Alireza Jahanbakhsh
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+       18. Carlos Gurpegui
+       30. Iñigo Lekue
+        2. Eneko Bóveda
+        8. Ander Iturraspe
+        5. Javi Eraso
+       17. Mikel Rico
+       23. Ager Aketxe
+        9. Kike Sola
+       21. Borja Viguera
+
+   🔄 SUBSTITUTES IN (3):
+       22. Raúl García
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 01.10.2015|Unknown|Unknown|AZ Alkmaar|Athletic Bilbao|Gino Coutinho|Jop van der Linden|Jeffrey Gouweleeuw|Ridgeciano Haps|Mattias Johansson|Joris van Overeem|Ben Rienstra|Markus Henriksen|Dabney dos Santos|Muamer Tankovic|Vincent Janssen|Derrick Luckassen|Thom Haye|Alireza Jahanbakhsh|Iago Herrerín|Aymeric Laporte|Carlos Gurpegui|Iñigo Lekue|Eneko Bóveda|Ander Iturraspe|Javi Eraso|Mikel Rico|Ager Aketxe|Kike Sola|Borja Viguera|Raúl García|Iñaki Williams|Aritz Aduriz
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #15
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  FK Keshla
+📅 DATE:  czw., 30.07.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_fk-keshla/aufstellung/spielbericht/2604371
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+       16. Xabi Etxeita
+       18. Carlos Gurpegui
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        8. Ander Iturraspe
+        7. Beñat Etxebarria
+        5. Javi Eraso
+       11. Ibai Gómez
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        3. Gorka Elustondo
+       23. Ager Aketxe
+       21. Borja Viguera
+
+✈️  FK KESHLA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Salahat Agayev
+        4. Lasha Kasradze
+        5. Dênis
+        3. Juanfran
+       22. Ilkin Qyrtymov
+       14. Zurab Khizanishvili
+        7. Nika Kvekveskiri
+        8. Nizami Hajiev
+       24. Fuad Bayramov
+       15. Stjepan Poljak
+       11. Rauf Aliyev
+
+   🔄 SUBSTITUTES IN (3):
+       30. Abbas Hüseynov
+       10. Elnur Abdullayev
+       20. Yuriy Fomenko
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 30.07.2015|Unknown|Unknown|Athletic Bilbao|FK Keshla|Iago Herrerín|Xabi Etxeita|Carlos Gurpegui|Mikel Balenziaga|Óscar de Marcos|Ander Iturraspe|Beñat Etxebarria|Javi Eraso|Ibai Gómez|Markel Susaeta|Aritz Aduriz|Gorka Elustondo|Ager Aketxe|Borja Viguera|Salahat Agayev|Lasha Kasradze|Dênis|Juanfran|Ilkin Qyrtymov|Zurab Khizanishvili|Nika Kvekveskiri|Nizami Hajiev|Fuad Bayramov|Stjepan Poljak|Rauf Aliyev|Abbas Hüseynov|Elnur Abdullayev|Yuriy Fomenko
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #16
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  MSK Zilina
+📅 DATE:  czw., 27.08.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_msk-zilina/aufstellung/spielbericht/2618365
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+       18. Carlos Gurpegui
+       30. Iñigo Lekue
+       10. Óscar de Marcos
+        3. Gorka Elustondo
+        7. Beñat Etxebarria
+        5. Javi Eraso
+       21. Borja Viguera
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       17. Mikel Rico
+       23. Ager Aketxe
+       27. Sabin Merino
+
+✈️  MSK ZILINA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Milos Volesak
+        3. Milan Škriniar
+       19. Denis Vavro
+       14. Robert Mazan
+       45. Ernest Mabouka
+       12. Viktor Pecovsky
+        6. Miroslav Kacer
+       22. László Bénes
+        9. Matej Jelic
+        7. Jakub Paur
+       10. William
+
+   🔄 SUBSTITUTES IN (3):
+       23. Jaroslav Mihalik
+       11. Nikolas Spalek
+       17. Lukas Cmelik
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 27.08.2015|Unknown|Unknown|Athletic Bilbao|MSK Zilina|Iago Herrerín|Aymeric Laporte|Carlos Gurpegui|Iñigo Lekue|Óscar de Marcos|Gorka Elustondo|Beñat Etxebarria|Javi Eraso|Borja Viguera|Markel Susaeta|Aritz Aduriz|Mikel Rico|Ager Aketxe|Sabin Merino|Milos Volesak|Milan Škriniar|Denis Vavro|Robert Mazan|Ernest Mabouka|Viktor Pecovsky|Miroslav Kacer|László Bénes|Matej Jelic|Jakub Paur|William|Jaroslav Mihalik|Nikolas Spalek|Lukas Cmelik
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #17
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  śr., 13.01.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_athletic-bilbao/aufstellung/spielbericht/2647666
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Mariano Barbosa
+        5. Mateo Musacchio
+       24. Eric Bailly
+       27. Adrián Marín
+       22. Antonio Rukavina
+       29. Rodri
+        4. Tomás Pina
+       19. Samu Castillejo
+       26. Matías Nahuel
+        7. Samu García
+       10. Léo Baptistão
+
+   🔄 SUBSTITUTES IN (3):
+        8. Jonathan dos Santos
+       18. Denis Suárez
+        9. Roberto Soldado
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        8. Ander Iturraspe
+        7. Beñat Etxebarria
+        5. Javi Eraso
+       14. Markel Susaeta
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        2. Eneko Bóveda
+       30. Iñigo Lekue
+        6. Mikel San José
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 13.01.2016|Unknown|Unknown|Villarreal CF|Athletic Bilbao|Mariano Barbosa|Mateo Musacchio|Eric Bailly|Adrián Marín|Antonio Rukavina|Rodri|Tomás Pina|Samu Castillejo|Matías Nahuel|Samu García|Léo Baptistão|Jonathan dos Santos|Denis Suárez|Roberto Soldado|Iago Herrerín|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Ander Iturraspe|Beñat Etxebarria|Javi Eraso|Markel Susaeta|Iñaki Williams|Aritz Aduriz|Eneko Bóveda|Iñigo Lekue|Mikel San José
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #18
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  śr., 27.01.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_athletic-bilbao/aufstellung/spielbericht/2656747
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 12 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc-André ter Stegen
+       23. Thomas Vermaelen
+        3. Gerard Piqué
+       24. Jérémy Mathieu
+        6. Dani Alves
+       14. Javier Mascherano
+        4. Ivan Rakitic
+       20. Sergi Roberto
+       11. Neymar
+       10. Lionel Messi
+        9. Luis Suárez
+
+   🔄 SUBSTITUTES IN (1):
+        5. Sergio Busquets
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+        2. Eneko Bóveda
+       24. Mikel Balenziaga
+       30. Iñigo Lekue
+        6. Mikel San José
+       17. Mikel Rico
+        5. Javi Eraso
+       14. Markel Susaeta
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        7. Beñat Etxebarria
+       19. Iker Muniain
+       25. Sabin Merino
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 27.01.2016|Unknown|Unknown|FC Barcelona|Athletic Bilbao|Marc-André ter Stegen|Thomas Vermaelen|Gerard Piqué|Jérémy Mathieu|Dani Alves|Javier Mascherano|Ivan Rakitic|Sergi Roberto|Neymar|Lionel Messi|Luis Suárez|Sergio Busquets|Iago Herrerín|Aymeric Laporte|Eneko Bóveda|Mikel Balenziaga|Iñigo Lekue|Mikel San José|Mikel Rico|Javi Eraso|Markel Susaeta|Iñaki Williams|Aritz Aduriz|Beñat Etxebarria|Iker Muniain|Sabin Merino
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #19
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Villarreal CF
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 20.09.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 4. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/villarreal-cf_athletic-bilbao/aufstellung/spielbericht/2594506
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VILLARREAL CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Alphonse Areola
+        6. Víctor Ruiz
+       24. Eric Bailly
+       11. Jaume Costa
+        2. Mario Gaspar
+       21. Bruno Soriano
+        4. Tomás Pina
+       19. Samu Castillejo
+       26. Matías Nahuel
+        9. Roberto Soldado
+       17. Cédric Bakambu
+
+   🔄 SUBSTITUTES IN (3):
+       18. Denis Suárez
+       10. Léo Baptistão
+       20. Adrián López
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       18. Carlos Gurpegui
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+       17. Mikel Rico
+        5. Javi Eraso
+       23. Ager Aketxe
+       25. Sabin Merino
+        9. Kike Sola
+
+   🔄 SUBSTITUTES IN (3):
+        7. Beñat Etxebarria
+       22. Raúl García
+       20. Aritz Aduriz
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 20.09.2015|LALIGA|4. Kolejka|Villarreal CF|Athletic Bilbao|Alphonse Areola|Víctor Ruiz|Eric Bailly|Jaume Costa|Mario Gaspar|Bruno Soriano|Tomás Pina|Samu Castillejo|Matías Nahuel|Roberto Soldado|Cédric Bakambu|Denis Suárez|Léo Baptistão|Adrián López|Gorka Iraizoz|Aymeric Laporte|Carlos Gurpegui|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Mikel Rico|Javi Eraso|Ager Aketxe|Sabin Merino|Kike Sola|Beñat Etxebarria|Raúl García|Aritz Aduriz
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #20
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Valencia CF
+📅 DATE:  niedz., 04.10.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 7. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_valencia-cf/aufstellung/spielbericht/2594537
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       15. Iñaki Williams
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        5. Javi Eraso
+       17. Mikel Rico
+       25. Sabin Merino
+
+✈️  VALENCIA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       24. Jaume Doménech
+        3. Rúben Vezo
+        5. Shkodran Mustafi
+        6. Lucas Orbán
+        2. João Cancelo
+       18. Javi Fuego
+       10. Dani Parejo
+       21. André Gomes
+       16. Zakaria Bakkali
+        8. Sofiane Feghouli
+        7. Álvaro Negredo
+
+   🔄 SUBSTITUTES IN (3):
+       20. Rodrigo De Paul
+       17. Rodrigo
+        9. Paco Alcácer
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 04.10.2015|LALIGA|7. Kolejka|Athletic Bilbao|Valencia CF|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Iñaki Williams|Markel Susaeta|Aritz Aduriz|Javi Eraso|Mikel Rico|Sabin Merino|Jaume Doménech|Rúben Vezo|Shkodran Mustafi|Lucas Orbán|João Cancelo|Javi Fuego|Dani Parejo|André Gomes|Zakaria Bakkali|Sofiane Feghouli|Álvaro Negredo|Rodrigo De Paul|Rodrigo|Paco Alcácer
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #21
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Levante UD
+📅 DATE:  niedz., 20.12.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 16. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_levante-ud/aufstellung/spielbericht/2594629
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       14. Markel Susaeta
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        2. Eneko Bóveda
+       17. Mikel Rico
+       19. Iker Muniain
+
+✈️  LEVANTE UD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Diego Mariño
+       24. Zouhair Feddal
+        4. David Navarro
+        3. Toño García
+       19. Pedro López
+        5. Simão
+        8. Jefferson Lerma
+        6. Víctor Camarasa
+       10. Rubén García
+       17. Jordi Xumetra
+       23. Nabil Ghilas
+
+   🔄 SUBSTITUTES IN (3):
+        7. Verza
+       20. Deyverson
+       11. José Luis Morales
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 20.12.2015|LALIGA|16. Kolejka|Athletic Bilbao|Levante UD|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Markel Susaeta|Iñaki Williams|Aritz Aduriz|Eneko Bóveda|Mikel Rico|Iker Muniain|Diego Mariño|Zouhair Feddal|David Navarro|Toño García|Pedro López|Simão|Jefferson Lerma|Víctor Camarasa|Rubén García|Jordi Xumetra|Nabil Ghilas|Verza|Deyverson|José Luis Morales
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #22
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FK Partizan Belgrad
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  czw., 22.10.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/fk-partizan-belgrad_athletic-bilbao/aufstellung/spielbericht/2618798
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FK PARTIZAN BELGRAD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Zivko Zivkovic
+       44. Fabrício
+       40. Milos Ostojic
+        3. Nikola Lekovic
+        4. Miroslav Vulicevic
+        5. Nemanja Petrovic
+       20. Saša Lukić
+       11. Nikola Ninkovic
+       91. Alen Stevanovic
+       17. Andrija Zivkovic
+       86. Valeri Bozhinov
+
+   🔄 SUBSTITUTES IN (3):
+       14. Petar Grbic
+       33. Ivan Saponjic
+       92. Nikola Trujic
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       15. Iñaki Williams
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        2. Eneko Bóveda
+        3. Gorka Elustondo
+       27. Sabin Merino
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 22.10.2015|Unknown|Unknown|FK Partizan Belgrad|Athletic Bilbao|Zivko Zivkovic|Fabrício|Milos Ostojic|Nikola Lekovic|Miroslav Vulicevic|Nemanja Petrovic|Saša Lukić|Nikola Ninkovic|Alen Stevanovic|Andrija Zivkovic|Valeri Bozhinov|Petar Grbic|Ivan Saponjic|Nikola Trujic|Iago Herrerín|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Iñaki Williams|Markel Susaeta|Aritz Aduriz|Eneko Bóveda|Gorka Elustondo|Sabin Merino
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #23
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  FK Partizan Belgrad
+📅 DATE:  czw., 05.11.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_fk-partizan-belgrad/aufstellung/spielbericht/2618800
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+        2. Eneko Bóveda
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       15. Iñaki Williams
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       10. Óscar de Marcos
+        3. Gorka Elustondo
+        5. Javi Eraso
+
+✈️  FK PARTIZAN BELGRAD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       12. Filip Kljajic
+       44. Fabrício
+        6. Gregor Balazic
+       19. Aleksandar Subic
+        4. Miroslav Vulicevic
+       21. Marko Jevtovic
+       20. Saša Lukić
+       10. Stefan Babovic
+       91. Alen Stevanovic
+       14. Petar Grbic
+       15. Aboubakar Oumarou
+
+   🔄 SUBSTITUTES IN (3):
+       13. Lazar Cirkovic
+       11. Nikola Ninkovic
+       33. Ivan Saponjic
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 05.11.2015|Unknown|Unknown|Athletic Bilbao|FK Partizan Belgrad|Iago Herrerín|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Eneko Bóveda|Mikel San José|Beñat Etxebarria|Raúl García|Iñaki Williams|Markel Susaeta|Aritz Aduriz|Óscar de Marcos|Gorka Elustondo|Javi Eraso|Filip Kljajic|Fabrício|Gregor Balazic|Aleksandar Subic|Miroslav Vulicevic|Marko Jevtovic|Saša Lukić|Stefan Babovic|Alen Stevanovic|Petar Grbic|Aboubakar Oumarou|Lazar Cirkovic|Nikola Ninkovic|Ivan Saponjic
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #24
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Sevilla FC
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  czw., 14.04.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/sevilla-fc_athletic-bilbao/aufstellung/spielbericht/2675307
+
+----------------------------------------------------------------------------------------------------
+
+🏠 SEVILLA FC - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       31. David Soria
+        5. Timothée Kolodziejczak
+        3. Adil Rami
+       18. Sergio Escudero
+       25. Mariano
+        4. Grzegorz Krychowiak
+       15. Steven Nzonzi
+        7. Michael Krohn-Dehli
+        8. Vicente Iborra
+       20. Vitolo
+        9. Kévin Gameiro
+
+   🔄 SUBSTITUTES IN (3):
+       23. Coke
+       14. Sebastián Cristóforo
+       22. Yevgen Konoplyanka
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+       16. Xabi Etxeita
+        2. Eneko Bóveda
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       30. Iñigo Lekue
+       22. Raúl García
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        8. Ander Iturraspe
+       19. Iker Muniain
+       21. Borja Viguera
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 14.04.2016|Unknown|Unknown|Sevilla FC|Athletic Bilbao|David Soria|Timothée Kolodziejczak|Adil Rami|Sergio Escudero|Mariano|Grzegorz Krychowiak|Steven Nzonzi|Michael Krohn-Dehli|Vicente Iborra|Vitolo|Kévin Gameiro|Coke|Sebastián Cristóforo|Yevgen Konoplyanka|Iago Herrerín|Xabi Etxeita|Eneko Bóveda|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Iñigo Lekue|Raúl García|Markel Susaeta|Aritz Aduriz|Ander Iturraspe|Iker Muniain|Borja Viguera
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #25
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  UD Las Palmas
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 08.05.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 37. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/ud-las-palmas_athletic-bilbao/aufstellung/spielbericht/2594838
+
+----------------------------------------------------------------------------------------------------
+
+🏠 UD LAS PALMAS - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Raúl Lizoain
+       17. Pedro Bigas
+       16. Aythami Artiles
+       23. Dani Castellano
+        5. David García
+        4. Vicente Gómez
+       14. Hernán Santana
+       21. Juan Carlos Valerón
+       20. Jonathan Viera
+       24. Tana
+        8. Willian José
+
+   🔄 SUBSTITUTES IN (3):
+        6. Ángel López
+       11. Momo
+        7. Nauzet Alemán
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        2. Eneko Bóveda
+        3. Gorka Elustondo
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       19. Iker Muniain
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       18. Carlos Gurpegui
+        8. Ander Iturraspe
+       14. Markel Susaeta
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 08.05.2016|LALIGA|37. Kolejka|UD Las Palmas|Athletic Bilbao|Raúl Lizoain|Pedro Bigas|Aythami Artiles|Dani Castellano|David García|Vicente Gómez|Hernán Santana|Juan Carlos Valerón|Jonathan Viera|Tana|Willian José|Ángel López|Momo|Nauzet Alemán|Gorka Iraizoz|Eneko Bóveda|Gorka Elustondo|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Iker Muniain|Iñaki Williams|Aritz Aduriz|Carlos Gurpegui|Ander Iturraspe|Markel Susaeta
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #26
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Granada CF
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 22.11.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 12. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/granada-cf_athletic-bilbao/aufstellung/spielbericht/2594590
+
+----------------------------------------------------------------------------------------------------
+
+🏠 GRANADA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Andrés Fernández
+        2. David Lombán
+        6. Jean-Sylvain Babin
+        3. Cristiano Biraghi
+       25. Miguel Lopes
+       20. Rubén Pérez
+        8. Javi Márquez
+        4. Fran Rico
+       11. Isaac Success
+        7. Rober Ibáñez
+       27. Adalberto Peñaranda
+
+   🔄 SUBSTITUTES IN (3):
+       22. Dimitri Foulquier
+       23. Rubén Rochina
+       15. Nicolás López
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       14. Markel Susaeta
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        2. Eneko Bóveda
+       21. Borja Viguera
+       25. Sabin Merino
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 22.11.2015|LALIGA|12. Kolejka|Granada CF|Athletic Bilbao|Andrés Fernández|David Lombán|Jean-Sylvain Babin|Cristiano Biraghi|Miguel Lopes|Rubén Pérez|Javi Márquez|Fran Rico|Isaac Success|Rober Ibáñez|Adalberto Peñaranda|Dimitri Foulquier|Rubén Rochina|Nicolás López|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Markel Susaeta|Iñaki Williams|Aritz Aduriz|Eneko Bóveda|Borja Viguera|Sabin Merino
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #27
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Sevilla FC
+📅 DATE:  sob., 14.05.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 38. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_sevilla-fc/aufstellung/spielbericht/2594847
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+       18. Carlos Gurpegui
+        2. Eneko Bóveda
+       24. Mikel Balenziaga
+       30. Iñigo Lekue
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       14. Markel Susaeta
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        3. Gorka Elustondo
+       17. Mikel Rico
+       19. Iker Muniain
+
+✈️  SEVILLA FC - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Sergio Rico
+        5. Timothée Kolodziejczak
+        3. Adil Rami
+       34. Diego González
+       26. David Carmona
+       15. Steven Nzonzi
+       14. Sebastián Cristóforo
+        8. Vicente Iborra
+       22. Yevgen Konoplyanka
+       36. Curro Sánchez
+       11. Juan Muñoz
+
+   🔄 SUBSTITUTES IN (3):
+        6. Daniel Carriço
+       18. Sergio Escudero
+        4. Grzegorz Krychowiak
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 14.05.2016|LALIGA|38. Kolejka|Athletic Bilbao|Sevilla FC|Gorka Iraizoz|Carlos Gurpegui|Eneko Bóveda|Mikel Balenziaga|Iñigo Lekue|Mikel San José|Beñat Etxebarria|Raúl García|Markel Susaeta|Iñaki Williams|Aritz Aduriz|Gorka Elustondo|Mikel Rico|Iker Muniain|Sergio Rico|Timothée Kolodziejczak|Adil Rami|Diego González|David Carmona|Steven Nzonzi|Sebastián Cristóforo|Vicente Iborra|Yevgen Konoplyanka|Curro Sánchez|Juan Muñoz|Daniel Carriço|Sergio Escudero|Grzegorz Krychowiak
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #28
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Olympique Marseille
+📅 DATE:  czw., 25.02.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_olympique-marseille/aufstellung/spielbericht/2646028
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        8. Ander Iturraspe
+       30. Iñigo Lekue
+       22. Raúl García
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       17. Mikel Rico
+       19. Iker Muniain
+       27. Sabin Merino
+
+✈️  OLYMPIQUE MARSEILLE - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       30. Steve Mandanda
+        4. Karim Rekik
+        3. Nicolas N'Koulou
+       23. Benjamin Mendy
+        2. Javier Manquillo
+       18. Mauricio Isla
+       10. Lassana Diarra
+       14. Georges-Kevin N'Koudou
+       13. Rémy Cabella
+        9. Steven Fletcher
+       22. Michy Batshuayi
+
+   🔄 SUBSTITUTES IN (2):
+       11. Romain Alessandrini
+       24. Florian Thauvin
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 25.02.2016|Unknown|Unknown|Athletic Bilbao|Olympique Marseille|Iago Herrerín|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Ander Iturraspe|Iñigo Lekue|Raúl García|Markel Susaeta|Aritz Aduriz|Mikel Rico|Iker Muniain|Sabin Merino|Steve Mandanda|Karim Rekik|Nicolas N'Koulou|Benjamin Mendy|Javier Manquillo|Mauricio Isla|Lassana Diarra|Georges-Kevin N'Koudou|Rémy Cabella|Steven Fletcher|Michy Batshuayi|Romain Alessandrini|Florian Thauvin
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #29
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  FC Barcelona
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 17.01.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 20. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/fc-barcelona_athletic-bilbao/aufstellung/spielbericht/2594661
+
+----------------------------------------------------------------------------------------------------
+
+🏠 FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Claudio Bravo
+        3. Gerard Piqué
+       14. Javier Mascherano
+       18. Jordi Alba
+       22. Aleix Vidal
+        5. Sergio Busquets
+        8. Andrés Iniesta
+        4. Ivan Rakitic
+       11. Neymar
+       10. Lionel Messi
+        9. Luis Suárez
+
+   🔄 SUBSTITUTES IN (3):
+       15. Marc Bartra
+       20. Sergi Roberto
+        7. Arda Turan
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+        2. Eneko Bóveda
+        6. Mikel San José
+        7. Beñat Etxebarria
+        5. Javi Eraso
+       19. Iker Muniain
+       10. Óscar de Marcos
+       15. Iñaki Williams
+
+   🔄 SUBSTITUTES IN (3):
+       13. Iago Herrerín
+        8. Ander Iturraspe
+       25. Sabin Merino
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 17.01.2016|LALIGA|20. Kolejka|FC Barcelona|Athletic Bilbao|Claudio Bravo|Gerard Piqué|Javier Mascherano|Jordi Alba|Aleix Vidal|Sergio Busquets|Andrés Iniesta|Ivan Rakitic|Neymar|Lionel Messi|Luis Suárez|Marc Bartra|Sergi Roberto|Arda Turan|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Eneko Bóveda|Mikel San José|Beñat Etxebarria|Javi Eraso|Iker Muniain|Óscar de Marcos|Iñaki Williams|Iago Herrerín|Ander Iturraspe|Sabin Merino
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #30
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  FC Barcelona
+📅 DATE:  śr., 20.01.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_fc-barcelona/aufstellung/spielbericht/2656743
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       30. Iñigo Lekue
+       10. Óscar de Marcos
+        8. Ander Iturraspe
+        7. Beñat Etxebarria
+        5. Javi Eraso
+       14. Markel Susaeta
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        6. Mikel San José
+       19. Iker Muniain
+       25. Sabin Merino
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc-André ter Stegen
+        3. Gerard Piqué
+       14. Javier Mascherano
+       20. Sergi Roberto
+        6. Dani Alves
+        5. Sergio Busquets
+        8. Andrés Iniesta
+        4. Ivan Rakitic
+       11. Neymar
+        7. Arda Turan
+       17. Munir El Haddadi
+
+   🔄 SUBSTITUTES IN (3):
+       21. Adriano
+       22. Aleix Vidal
+       19. Sandro Ramírez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 20.01.2016|Unknown|Unknown|Athletic Bilbao|FC Barcelona|Iago Herrerín|Aymeric Laporte|Xabi Etxeita|Iñigo Lekue|Óscar de Marcos|Ander Iturraspe|Beñat Etxebarria|Javi Eraso|Markel Susaeta|Iñaki Williams|Aritz Aduriz|Mikel San José|Iker Muniain|Sabin Merino|Marc-André ter Stegen|Gerard Piqué|Javier Mascherano|Sergi Roberto|Dani Alves|Sergio Busquets|Andrés Iniesta|Ivan Rakitic|Neymar|Arda Turan|Munir El Haddadi|Adriano|Aleix Vidal|Sandro Ramírez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #31
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Málaga CF
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 17.04.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 33. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/málaga-cf_athletic-bilbao/aufstellung/spielbericht/2594800
+
+----------------------------------------------------------------------------------------------------
+
+🏠 MÁLAGA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Guillermo Ochoa
+        3. Weligton
+        2. Raúl Albentosa
+       15. Federico Ricca
+       23. Miguel Torres
+        6. Ignacio Camacho
+       14. Recio
+       28. Juanpi
+        5. Chory Castro
+        9. Charles
+       20. Duje Cop
+
+   🔄 SUBSTITUTES IN (3):
+       31. Pablo Fornals
+       11. Christian Atsu
+       24. Roque Santa Cruz
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+       18. Carlos Gurpegui
+        6. Mikel San José
+       24. Mikel Balenziaga
+        2. Eneko Bóveda
+        8. Ander Iturraspe
+       17. Mikel Rico
+       30. Iñigo Lekue
+       22. Raúl García
+       19. Iker Muniain
+       21. Borja Viguera
+
+   🔄 SUBSTITUTES IN (3):
+       16. Xabi Etxeita
+       10. Óscar de Marcos
+        7. Beñat Etxebarria
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 17.04.2016|LALIGA|33. Kolejka|Málaga CF|Athletic Bilbao|Guillermo Ochoa|Weligton|Raúl Albentosa|Federico Ricca|Miguel Torres|Ignacio Camacho|Recio|Juanpi|Chory Castro|Charles|Duje Cop|Pablo Fornals|Christian Atsu|Roque Santa Cruz|Gorka Iraizoz|Carlos Gurpegui|Mikel San José|Mikel Balenziaga|Eneko Bóveda|Ander Iturraspe|Mikel Rico|Iñigo Lekue|Raúl García|Iker Muniain|Borja Viguera|Xabi Etxeita|Óscar de Marcos|Beñat Etxebarria
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #32
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Getafe CF
+📅 DATE:  niedz., 13.09.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 3. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_getafe-cf/aufstellung/spielbericht/2594495
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+       16. Xabi Etxeita
+       18. Carlos Gurpegui
+       30. Iñigo Lekue
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       23. Ager Aketxe
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        5. Javi Eraso
+       17. Mikel Rico
+       11. Ibai Gómez
+
+✈️  GETAFE CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Vicente Guaita
+        2. Alexis Ruano
+        4. Emiliano Velázquez
+        3. Roberto Lago
+       15. Carlos Vigaray
+        8. Mehdi Lacen
+       22. Juan Rodríguez
+       18. Víctor Rodríguez
+        7. Ángel Lafita
+       14. Pedro León
+       12. Stefan Scepovic
+
+   🔄 SUBSTITUTES IN (3):
+       23. Álvaro Medrán
+       30. Wanderson
+        9. Álvaro Vázquez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 13.09.2015|LALIGA|3. Kolejka|Athletic Bilbao|Getafe CF|Gorka Iraizoz|Xabi Etxeita|Carlos Gurpegui|Iñigo Lekue|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Ager Aketxe|Markel Susaeta|Aritz Aduriz|Javi Eraso|Mikel Rico|Ibai Gómez|Vicente Guaita|Alexis Ruano|Emiliano Velázquez|Roberto Lago|Carlos Vigaray|Mehdi Lacen|Juan Rodríguez|Víctor Rodríguez|Ángel Lafita|Pedro León|Stefan Scepovic|Álvaro Medrán|Wanderson|Álvaro Vázquez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #33
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Levante UD
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 24.04.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 35. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/levante-ud_athletic-bilbao/aufstellung/spielbericht/2594819
+
+----------------------------------------------------------------------------------------------------
+
+🏠 LEVANTE UD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Diego Mariño
+       24. Zouhair Feddal
+       14. Carl Medjani
+       12. Juanfran
+       19. Pedro López
+        8. Jefferson Lerma
+        6. Víctor Camarasa
+       11. José Luis Morales
+        9. Mauricio Cuero
+       18. Víctor Casadesús
+       21. Giuseppe Rossi
+
+   🔄 SUBSTITUTES IN (3):
+       25. Joan Verdú
+       10. Rubén García
+       20. Deyverson
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+       16. Xabi Etxeita
+        6. Mikel San José
+       24. Mikel Balenziaga
+        2. Eneko Bóveda
+        8. Ander Iturraspe
+        7. Beñat Etxebarria
+       22. Raúl García
+       19. Iker Muniain
+       15. Iñaki Williams
+       21. Borja Viguera
+
+   🔄 SUBSTITUTES IN (3):
+       30. Iñigo Lekue
+        3. Gorka Elustondo
+       14. Markel Susaeta
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 24.04.2016|LALIGA|35. Kolejka|Levante UD|Athletic Bilbao|Diego Mariño|Zouhair Feddal|Carl Medjani|Juanfran|Pedro López|Jefferson Lerma|Víctor Camarasa|José Luis Morales|Mauricio Cuero|Víctor Casadesús|Giuseppe Rossi|Joan Verdú|Rubén García|Deyverson|Gorka Iraizoz|Xabi Etxeita|Mikel San José|Mikel Balenziaga|Eneko Bóveda|Ander Iturraspe|Beñat Etxebarria|Raúl García|Iker Muniain|Iñaki Williams|Borja Viguera|Iñigo Lekue|Gorka Elustondo|Markel Susaeta
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #34
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  RCD Espanyol
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 20.03.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 30. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/rcd-espanyol_athletic-bilbao/aufstellung/spielbericht/2594769
+
+----------------------------------------------------------------------------------------------------
+
+🏠 RCD ESPANYOL - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Pau López
+        6. Enzo Roco
+       24. Óscar Duarte
+        3. Rubén Duarte
+       22. Álvaro González
+       12. Pape Diop
+        4. Víctor Sánchez
+       10. Abraham González
+       17. Hernán Pérez
+       25. Marco Asensio
+        7. Gerard Moreno
+
+   🔄 SUBSTITUTES IN (3):
+       16. Javi López
+       20. Felipe Caicedo
+       28. Mamadou Sylla
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+        2. Eneko Bóveda
+        8. Ander Iturraspe
+       17. Mikel Rico
+       10. Óscar de Marcos
+       30. Iñigo Lekue
+        5. Javi Eraso
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 20.03.2016|LALIGA|30. Kolejka|RCD Espanyol|Athletic Bilbao|Pau López|Enzo Roco|Óscar Duarte|Rubén Duarte|Álvaro González|Pape Diop|Víctor Sánchez|Abraham González|Hernán Pérez|Marco Asensio|Gerard Moreno|Javi López|Felipe Caicedo|Mamadou Sylla|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Eneko Bóveda|Ander Iturraspe|Mikel Rico|Óscar de Marcos|Iñigo Lekue|Javi Eraso|Aritz Aduriz|Mikel San José|Beñat Etxebarria|Raúl García
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #35
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Atlético Madryt
+📅 DATE:  śr., 20.04.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 34. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_atlético-madryt/aufstellung/spielbericht/2594809
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+       16. Xabi Etxeita
+        2. Eneko Bóveda
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       19. Iker Muniain
+       14. Markel Susaeta
+       21. Borja Viguera
+
+   🔄 SUBSTITUTES IN (3):
+       30. Iñigo Lekue
+        8. Ander Iturraspe
+       15. Iñaki Williams
+
+✈️  ATLÉTICO MADRYT - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       15. Stefan Savic
+        3. Filipe Luís
+       20. Juanfran Torres
+       22. Thomas Partey
+       12. Augusto Fernández
+       17. Saúl Ñíguez
+        6. Koke
+        7. Antoine Griezmann
+        9. Fernando Torres
+
+   🔄 SUBSTITUTES IN (2):
+       19. Lucas Hernández
+       21. Yannick Carrasco
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 20.04.2016|LALIGA|34. Kolejka|Athletic Bilbao|Atlético Madryt|Gorka Iraizoz|Xabi Etxeita|Eneko Bóveda|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Iker Muniain|Markel Susaeta|Borja Viguera|Iñigo Lekue|Ander Iturraspe|Iñaki Williams|Jan Oblak|Diego Godín|Stefan Savic|Filipe Luís|Juanfran Torres|Thomas Partey|Augusto Fernández|Saúl Ñíguez|Koke|Antoine Griezmann|Fernando Torres|Lucas Hernández|Yannick Carrasco
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #36
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Madryt
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  sob., 13.02.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 24. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-madryt_athletic-bilbao/aufstellung/spielbericht/2594706
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Keylor Navas
+        2. Raphaël Varane
+        4. Sergio Ramos
+       15. Daniel Carvajal
+       23. Danilo
+        8. Toni Kroos
+       16. Mateo Kovacic
+       19. Luka Modrić
+        7. Cristiano Ronaldo
+       10. James Rodríguez
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (3):
+        6. Nacho Fernández
+       18. Lucas Vázquez
+       22. Isco
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        8. Ander Iturraspe
+        7. Beñat Etxebarria
+       30. Iñigo Lekue
+        5. Javi Eraso
+       25. Sabin Merino
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        3. Gorka Elustondo
+       19. Iker Muniain
+       21. Borja Viguera
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 13.02.2016|LALIGA|24. Kolejka|Real Madryt|Athletic Bilbao|Keylor Navas|Raphaël Varane|Sergio Ramos|Daniel Carvajal|Danilo|Toni Kroos|Mateo Kovacic|Luka Modrić|Cristiano Ronaldo|James Rodríguez|Karim Benzema|Nacho Fernández|Lucas Vázquez|Isco|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Ander Iturraspe|Beñat Etxebarria|Iñigo Lekue|Javi Eraso|Sabin Merino|Aritz Aduriz|Gorka Elustondo|Iker Muniain|Borja Viguera
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #37
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Real Betis Balompié
+📅 DATE:  niedz., 13.03.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 29. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_real-betis-balompié/aufstellung/spielbericht/2594759
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       18. Carlos Gurpegui
+       30. Iñigo Lekue
+        2. Eneko Bóveda
+        6. Mikel San José
+       17. Mikel Rico
+       22. Raúl García
+       19. Iker Muniain
+       14. Markel Susaeta
+       25. Sabin Merino
+
+   🔄 SUBSTITUTES IN (3):
+       16. Xabi Etxeita
+        3. Gorka Elustondo
+       20. Aritz Aduriz
+
+✈️  REAL BETIS BALOMPIÉ - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Antonio Adán
+        4. Bruno González
+       20. Germán Pezzella
+        3. Martín Montoya
+        2. Francisco Molinero
+       18. Alfred N'Diaye
+       25. Petros
+        8. Charly Musonda Jr.
+        7. Joaquín
+       19. Jorge Molina
+       24. Rubén Castro
+
+   🔄 SUBSTITUTES IN (3):
+       52. Fabián Ruiz
+       10. Dani Ceballos
+       16. Álvaro Cejudo
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 13.03.2016|LALIGA|29. Kolejka|Athletic Bilbao|Real Betis Balompié|Gorka Iraizoz|Aymeric Laporte|Carlos Gurpegui|Iñigo Lekue|Eneko Bóveda|Mikel San José|Mikel Rico|Raúl García|Iker Muniain|Markel Susaeta|Sabin Merino|Xabi Etxeita|Gorka Elustondo|Aritz Aduriz|Antonio Adán|Bruno González|Germán Pezzella|Martín Montoya|Francisco Molinero|Alfred N'Diaye|Petros|Charly Musonda Jr.|Joaquín|Jorge Molina|Rubén Castro|Fabián Ruiz|Dani Ceballos|Álvaro Cejudo
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #38
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Real Madryt
+📅 DATE:  śr., 23.09.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 5. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_real-madryt/aufstellung/spielbericht/2594516
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       25. Sabin Merino
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       17. Mikel Rico
+       11. Ibai Gómez
+        9. Kike Sola
+
+✈️  REAL MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Keylor Navas
+        2. Raphaël Varane
+        3. Pepe
+       12. Marcelo
+       15. Daniel Carvajal
+        8. Toni Kroos
+       19. Luka Modrić
+       16. Mateo Kovacic
+        7. Cristiano Ronaldo
+       22. Isco
+        9. Karim Benzema
+
+   🔄 SUBSTITUTES IN (3):
+       18. Lucas Vázquez
+       14. Casemiro
+       20. Jesé
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 23.09.2015|LALIGA|5. Kolejka|Athletic Bilbao|Real Madryt|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Sabin Merino|Markel Susaeta|Aritz Aduriz|Mikel Rico|Ibai Gómez|Kike Sola|Keylor Navas|Raphaël Varane|Pepe|Marcelo|Daniel Carvajal|Toni Kroos|Luka Modrić|Mateo Kovacic|Cristiano Ronaldo|Isco|Karim Benzema|Lucas Vázquez|Casemiro|Jesé
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #39
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  FC Barcelona
+📅 DATE:  niedz., 23.08.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 1. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_fc-barcelona/aufstellung/spielbericht/2594471
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+        3. Gorka Elustondo
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        7. Beñat Etxebarria
+       17. Mikel Rico
+        5. Javi Eraso
+       25. Sabin Merino
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       18. Carlos Gurpegui
+        2. Eneko Bóveda
+       11. Ibai Gómez
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Claudio Bravo
+       23. Thomas Vermaelen
+       14. Javier Mascherano
+       18. Jordi Alba
+        6. Dani Alves
+        5. Sergio Busquets
+        8. Andrés Iniesta
+        4. Ivan Rakitic
+       12. Rafinha
+       10. Lionel Messi
+        9. Luis Suárez
+
+   🔄 SUBSTITUTES IN (3):
+       15. Marc Bartra
+       20. Sergi Roberto
+       19. Sandro Ramírez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 23.08.2015|LALIGA|1. Kolejka|Athletic Bilbao|FC Barcelona|Gorka Iraizoz|Aymeric Laporte|Gorka Elustondo|Mikel Balenziaga|Óscar de Marcos|Beñat Etxebarria|Mikel Rico|Javi Eraso|Sabin Merino|Markel Susaeta|Aritz Aduriz|Carlos Gurpegui|Eneko Bóveda|Ibai Gómez|Claudio Bravo|Thomas Vermaelen|Javier Mascherano|Jordi Alba|Dani Alves|Sergio Busquets|Andrés Iniesta|Ivan Rakitic|Rafinha|Lionel Messi|Luis Suárez|Marc Bartra|Sergi Roberto|Sandro Ramírez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #40
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Valencia CF
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 28.02.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 26. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/valencia-cf_athletic-bilbao/aufstellung/spielbericht/2594727
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VALENCIA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Diego Alves
+        4. Aderllan Santos
+        5. Shkodran Mustafi
+       14. José Gayà
+        2. João Cancelo
+       15. Enzo Pérez
+       10. Dani Parejo
+       21. André Gomes
+       24. Denis Cheryshev
+       22. Santi Mina
+        7. Álvaro Negredo
+
+   🔄 SUBSTITUTES IN (3):
+       11. Pablo Piatti
+        8. Sofiane Feghouli
+        9. Paco Alcácer
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+        2. Eneko Bóveda
+        3. Gorka Elustondo
+        7. Beñat Etxebarria
+       17. Mikel Rico
+       10. Óscar de Marcos
+       25. Sabin Merino
+       19. Iker Muniain
+
+   🔄 SUBSTITUTES IN (3):
+        6. Mikel San José
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 28.02.2016|LALIGA|26. Kolejka|Valencia CF|Athletic Bilbao|Diego Alves|Aderllan Santos|Shkodran Mustafi|José Gayà|João Cancelo|Enzo Pérez|Dani Parejo|André Gomes|Denis Cheryshev|Santi Mina|Álvaro Negredo|Pablo Piatti|Sofiane Feghouli|Paco Alcácer|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Eneko Bóveda|Gorka Elustondo|Beñat Etxebarria|Mikel Rico|Óscar de Marcos|Sabin Merino|Iker Muniain|Mikel San José|Markel Susaeta|Aritz Aduriz
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #41
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Villarreal CF
+📅 DATE:  sob., 06.02.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 23. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_villarreal-cf/aufstellung/spielbericht/2594696
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+        2. Eneko Bóveda
+       24. Mikel Balenziaga
+       30. Iñigo Lekue
+        6. Mikel San José
+        7. Beñat Etxebarria
+        5. Javi Eraso
+       14. Markel Susaeta
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        8. Ander Iturraspe
+       19. Iker Muniain
+       25. Sabin Merino
+
+✈️  VILLARREAL CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Alphonse Areola
+        6. Víctor Ruiz
+        5. Mateo Musacchio
+       11. Jaume Costa
+        2. Mario Gaspar
+       21. Bruno Soriano
+       14. Manu Trigueros
+        8. Jonathan dos Santos
+       18. Denis Suárez
+        9. Roberto Soldado
+       17. Cédric Bakambu
+
+   🔄 SUBSTITUTES IN (3):
+       23. Daniele Bonera
+       19. Samu Castillejo
+       10. Léo Baptistão
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 06.02.2016|LALIGA|23. Kolejka|Athletic Bilbao|Villarreal CF|Gorka Iraizoz|Aymeric Laporte|Eneko Bóveda|Mikel Balenziaga|Iñigo Lekue|Mikel San José|Beñat Etxebarria|Javi Eraso|Markel Susaeta|Iñaki Williams|Aritz Aduriz|Ander Iturraspe|Iker Muniain|Sabin Merino|Alphonse Areola|Víctor Ruiz|Mateo Musacchio|Jaume Costa|Mario Gaspar|Bruno Soriano|Manu Trigueros|Jonathan dos Santos|Denis Suárez|Roberto Soldado|Cédric Bakambu|Daniele Bonera|Samu Castillejo|Léo Baptistão
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #42
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  FC Augsburg
+📅 DATE:  czw., 17.09.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_fc-augsburg/aufstellung/spielbericht/2618744
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       30. Iñigo Lekue
+       10. Óscar de Marcos
+        3. Gorka Elustondo
+        7. Beñat Etxebarria
+       22. Raúl García
+       11. Ibai Gómez
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       18. Carlos Gurpegui
+       17. Mikel Rico
+       27. Sabin Merino
+
+✈️  FC AUGSBURG - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       35. Marwin Hitz
+        5. Ragnar Klavan
+       18. Jan-Ingwer Callsen-Bracker
+        8. Markus Feulner
+        2. Paul Verhaegh
+       10. Daniel Baier
+       21. Dominik Kohr
+       22. Dong-won Ji
+       11. Alexander Esswein
+        7. Halil Altıntop
+       23. Tim Matavz
+
+   🔄 SUBSTITUTES IN (3):
+       19. Ja-cheol Koo
+       15. Piotr Trochowski
+       13. Tobias Werner
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 17.09.2015|Unknown|Unknown|Athletic Bilbao|FC Augsburg|Iago Herrerín|Aymeric Laporte|Xabi Etxeita|Iñigo Lekue|Óscar de Marcos|Gorka Elustondo|Beñat Etxebarria|Raúl García|Ibai Gómez|Markel Susaeta|Aritz Aduriz|Carlos Gurpegui|Mikel Rico|Sabin Merino|Marwin Hitz|Ragnar Klavan|Jan-Ingwer Callsen-Bracker|Markus Feulner|Paul Verhaegh|Daniel Baier|Dominik Kohr|Dong-won Ji|Alexander Esswein|Halil Altıntop|Tim Matavz|Ja-cheol Koo|Piotr Trochowski|Tobias Werner
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #43
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Deportivo de La Coruña
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 18.10.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 8. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/deportivo-de-la-coruña_athletic-bilbao/aufstellung/spielbericht/2594548
+
+----------------------------------------------------------------------------------------------------
+
+🏠 DEPORTIVO DE LA CORUÑA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Germán Lux
+       12. Sidnei
+       14. Alejandro Arribas
+        3. Fernando Navarro
+       11. Juanfran Moreno
+        5. Pedro Mosquera
+       10. Juan Domínguez
+       21. Luis Alberto
+       19. Fayçal Fajr
+        6. Cani
+        7. Lucas Pérez
+
+   🔄 SUBSTITUTES IN (3):
+       22. Celso Borges
+       17. Fede Cartabia
+        9. Oriol Riera
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       14. Markel Susaeta
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       30. Iñigo Lekue
+        5. Javi Eraso
+       25. Sabin Merino
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 18.10.2015|LALIGA|8. Kolejka|Deportivo de La Coruña|Athletic Bilbao|Germán Lux|Sidnei|Alejandro Arribas|Fernando Navarro|Juanfran Moreno|Pedro Mosquera|Juan Domínguez|Luis Alberto|Fayçal Fajr|Cani|Lucas Pérez|Celso Borges|Fede Cartabia|Oriol Riera|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Markel Susaeta|Iñaki Williams|Aritz Aduriz|Iñigo Lekue|Javi Eraso|Sabin Merino
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #44
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  UD Las Palmas
+📅 DATE:  niedz., 03.01.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 18. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_ud-las-palmas/aufstellung/spielbericht/2594648
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+       16. Xabi Etxeita
+       18. Carlos Gurpegui
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+       17. Mikel Rico
+       22. Raúl García
+       14. Markel Susaeta
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        8. Ander Iturraspe
+        5. Javi Eraso
+       19. Iker Muniain
+
+✈️  UD LAS PALMAS - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Javi Varas
+        5. David García
+       16. Aythami Artiles
+       23. Dani Castellano
+        2. David Simón
+        4. Vicente Gómez
+       19. Emmanuel Culio
+       24. Tana
+       20. Jonathan Viera
+       25. Nabil El Zhar
+       10. Sergio Araujo
+
+   🔄 SUBSTITUTES IN (3):
+       12. Mubarak Wakaso
+       11. Momo
+        7. Nauzet Alemán
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 03.01.2016|LALIGA|18. Kolejka|Athletic Bilbao|UD Las Palmas|Gorka Iraizoz|Xabi Etxeita|Carlos Gurpegui|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Mikel Rico|Raúl García|Markel Susaeta|Iñaki Williams|Aritz Aduriz|Ander Iturraspe|Javi Eraso|Iker Muniain|Javi Varas|David García|Aythami Artiles|Dani Castellano|David Simón|Vicente Gómez|Emmanuel Culio|Tana|Jonathan Viera|Nabil El Zhar|Sergio Araujo|Mubarak Wakaso|Momo|Nauzet Alemán
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #45
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Betis Balompié
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 01.11.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 10. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/real-betis-balompié_athletic-bilbao/aufstellung/spielbericht/2594569
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL BETIS BALOMPIÉ - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Antonio Adán
+        4. Bruno González
+       20. Germán Pezzella
+        2. Francisco Molinero
+       12. Cristiano Piccini
+       18. Alfred N'Diaye
+       10. Dani Ceballos
+       22. Francisco Portillo
+        7. Joaquín
+        9. Ricky van Wolfswinkel
+       24. Rubén Castro
+
+   🔄 SUBSTITUTES IN (3):
+       33. Fran Varela
+       15. Didier Digard
+       19. Jorge Molina
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       25. Sabin Merino
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        2. Eneko Bóveda
+       30. Iñigo Lekue
+        3. Gorka Elustondo
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 01.11.2015|LALIGA|10. Kolejka|Real Betis Balompié|Athletic Bilbao|Antonio Adán|Bruno González|Germán Pezzella|Francisco Molinero|Cristiano Piccini|Alfred N'Diaye|Dani Ceballos|Francisco Portillo|Joaquín|Ricky van Wolfswinkel|Rubén Castro|Fran Varela|Didier Digard|Jorge Molina|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Sabin Merino|Iñaki Williams|Aritz Aduriz|Eneko Bóveda|Iñigo Lekue|Gorka Elustondo
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #46
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  MSK Zilina
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  czw., 20.08.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/msk-zilina_athletic-bilbao/aufstellung/spielbericht/2615059
+
+----------------------------------------------------------------------------------------------------
+
+🏠 MSK ZILINA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Milos Volesak
+        3. Milan Škriniar
+       19. Denis Vavro
+       21. Bojan Letic
+       45. Ernest Mabouka
+       12. Viktor Pecovsky
+        6. Miroslav Kacer
+       22. László Bénes
+       17. Lukas Cmelik
+        7. Jakub Paur
+        9. Matej Jelic
+
+   🔄 SUBSTITUTES IN (3):
+       20. Michal Skvarka
+       23. Jaroslav Mihalik
+       10. William
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+        3. Gorka Elustondo
+       30. Iñigo Lekue
+        2. Eneko Bóveda
+       18. Carlos Gurpegui
+       17. Mikel Rico
+       23. Ager Aketxe
+       11. Ibai Gómez
+       25. Sabin Merino
+        9. Kike Sola
+
+   🔄 SUBSTITUTES IN (3):
+       10. Óscar de Marcos
+        7. Beñat Etxebarria
+       15. Iñaki Williams
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 20.08.2015|Unknown|Unknown|MSK Zilina|Athletic Bilbao|Milos Volesak|Milan Škriniar|Denis Vavro|Bojan Letic|Ernest Mabouka|Viktor Pecovsky|Miroslav Kacer|László Bénes|Lukas Cmelik|Jakub Paur|Matej Jelic|Michal Skvarka|Jaroslav Mihalik|William|Iago Herrerín|Aymeric Laporte|Gorka Elustondo|Iñigo Lekue|Eneko Bóveda|Carlos Gurpegui|Mikel Rico|Ager Aketxe|Ibai Gómez|Sabin Merino|Kike Sola|Óscar de Marcos|Beñat Etxebarria|Iñaki Williams
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #47
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Real Balompédica Linense
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  czw., 03.12.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/real-balompédica-linense_athletic-bilbao/aufstellung/spielbericht/2633814
+
+----------------------------------------------------------------------------------------------------
+
+🏠 REAL BALOMPÉDICA LINENSE - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Lolo Soler
+        5. Olmo González
+        4. Joe
+        3. Manolo León
+        2. Manu Palancar
+        6. Ismael Chico
+        8. Ximo Forner
+       10. Canario
+       11. Damián Zamorano
+        7. José Ramón
+        9. Miguel Ángel Espinar
+
+   🔄 SUBSTITUTES IN (3):
+       12. Carlos Guerra
+       14. Mauri
+       16. Copi
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+        3. Gorka Elustondo
+       30. Iñigo Lekue
+        2. Eneko Bóveda
+        8. Ander Iturraspe
+       17. Mikel Rico
+        5. Javi Eraso
+       21. Borja Viguera
+       27. Sabin Merino
+        9. Kike Sola
+
+   🔄 SUBSTITUTES IN (3):
+       10. Óscar de Marcos
+        6. Mikel San José
+       23. Ager Aketxe
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 03.12.2015|Unknown|Unknown|Real Balompédica Linense|Athletic Bilbao|Lolo Soler|Olmo González|Joe|Manolo León|Manu Palancar|Ismael Chico|Ximo Forner|Canario|Damián Zamorano|José Ramón|Miguel Ángel Espinar|Carlos Guerra|Mauri|Copi|Iago Herrerín|Aymeric Laporte|Gorka Elustondo|Iñigo Lekue|Eneko Bóveda|Ander Iturraspe|Mikel Rico|Javi Eraso|Borja Viguera|Sabin Merino|Kike Sola|Óscar de Marcos|Mikel San José|Ager Aketxe
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #48
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Real Sociedad
+📅 DATE:  niedz., 21.02.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 25. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_real-sociedad/aufstellung/spielbericht/2594717
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       18. Carlos Gurpegui
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       14. Markel Susaeta
+       19. Iker Muniain
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        8. Ander Iturraspe
+       22. Raúl García
+       21. Borja Viguera
+
+✈️  REAL SOCIEDAD - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gerónimo Rulli
+        6. Iñigo Martínez
+        3. Mikel González
+       19. Yuri Berchiche
+       30. Aritz Elustondo
+       23. Diego Reyes
+        4. Asier Illarramendi
+       10. Xabi Prieto
+       28. Mikel Oyarzabal
+       11. Carlos Vela
+       22. Jonathas
+
+   🔄 SUBSTITUTES IN (3):
+        5. Markel Bergara
+       14. Rubén Pardo
+       17. David Zurutuza
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 21.02.2016|LALIGA|25. Kolejka|Athletic Bilbao|Real Sociedad|Gorka Iraizoz|Aymeric Laporte|Carlos Gurpegui|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Markel Susaeta|Iker Muniain|Iñaki Williams|Aritz Aduriz|Ander Iturraspe|Raúl García|Borja Viguera|Gerónimo Rulli|Iñigo Martínez|Mikel González|Yuri Berchiche|Aritz Elustondo|Diego Reyes|Asier Illarramendi|Xabi Prieto|Mikel Oyarzabal|Carlos Vela|Jonathas|Markel Bergara|Rubén Pardo|David Zurutuza
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #49
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Atlético Madryt
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 13.12.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 15. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/atlético-madryt_athletic-bilbao/aufstellung/spielbericht/2594619
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATLÉTICO MADRYT - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Jan Oblak
+        2. Diego Godín
+       24. José María Giménez
+        3. Filipe Luís
+       20. Juanfran Torres
+       14. Gabi
+        6. Koke
+       17. Saúl Ñíguez
+       21. Yannick Carrasco
+        7. Antoine Griezmann
+       23. Luciano Vietto
+
+   🔄 SUBSTITUTES IN (3):
+       15. Stefan Savic
+       16. Ángel Correa
+        9. Fernando Torres
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+        2. Eneko Bóveda
+        8. Ander Iturraspe
+        7. Beñat Etxebarria
+       10. Óscar de Marcos
+       22. Raúl García
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       17. Mikel Rico
+       14. Markel Susaeta
+        9. Kike Sola
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 13.12.2015|LALIGA|15. Kolejka|Atlético Madryt|Athletic Bilbao|Jan Oblak|Diego Godín|José María Giménez|Filipe Luís|Juanfran Torres|Gabi|Koke|Saúl Ñíguez|Yannick Carrasco|Antoine Griezmann|Luciano Vietto|Stefan Savic|Ángel Correa|Fernando Torres|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Eneko Bóveda|Ander Iturraspe|Beñat Etxebarria|Óscar de Marcos|Raúl García|Iñaki Williams|Aritz Aduriz|Mikel Rico|Markel Susaeta|Kike Sola
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #50
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Olympique Marseille
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  czw., 18.02.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/olympique-marseille_athletic-bilbao/aufstellung/spielbericht/2646013
+
+----------------------------------------------------------------------------------------------------
+
+🏠 OLYMPIQUE MARSEILLE - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       30. Steve Mandanda
+        3. Nicolas N'Koulou
+        6. Rolando
+        2. Javier Manquillo
+       18. Mauricio Isla
+       10. Lassana Diarra
+       20. Alaixys Romao
+       19. Abdelaziz Barrada
+       14. Georges-Kevin N'Koudou
+       11. Romain Alessandrini
+        9. Steven Fletcher
+
+   🔄 SUBSTITUTES IN (3):
+       17. Bouna Sarr
+       24. Florian Thauvin
+       22. Michy Batshuayi
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        5. Javi Eraso
+        7. Beñat Etxebarria
+       25. Sabin Merino
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        2. Eneko Bóveda
+        3. Gorka Elustondo
+       17. Mikel Rico
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 18.02.2016|Unknown|Unknown|Olympique Marseille|Athletic Bilbao|Steve Mandanda|Nicolas N'Koulou|Rolando|Javier Manquillo|Mauricio Isla|Lassana Diarra|Alaixys Romao|Abdelaziz Barrada|Georges-Kevin N'Koudou|Romain Alessandrini|Steven Fletcher|Bouna Sarr|Florian Thauvin|Michy Batshuayi|Iago Herrerín|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Javi Eraso|Beñat Etxebarria|Sabin Merino|Iñaki Williams|Aritz Aduriz|Eneko Bóveda|Gorka Elustondo|Mikel Rico
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #51
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Sporting Gijón
+📅 DATE:  pon., 26.10.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 9. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_sporting-gijón/aufstellung/spielbericht/2594558
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       14. Markel Susaeta
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        2. Eneko Bóveda
+        5. Javi Eraso
+       11. Ibai Gómez
+
+✈️  SPORTING GIJÓN - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Alberto García
+        2. Luis Hernández
+        5. Bernardo Espinosa
+       18. Isma López
+       11. Alberto Lora
+       17. Omar Mascarell
+        6. Sergio Álvarez
+       10. Nacho Cases
+       23. Jony
+       25. Alen Halilovic
+        9. Miguel Ángel Guerrero
+
+   🔄 SUBSTITUTES IN (3):
+       22. Pablo Pérez
+       19. Carlos Carmona
+       27. Sergio Mendi
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pon., 26.10.2015|LALIGA|9. Kolejka|Athletic Bilbao|Sporting Gijón|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Markel Susaeta|Iñaki Williams|Aritz Aduriz|Eneko Bóveda|Javi Eraso|Ibai Gómez|Alberto García|Luis Hernández|Bernardo Espinosa|Isma López|Alberto Lora|Omar Mascarell|Sergio Álvarez|Nacho Cases|Jony|Alen Halilovic|Miguel Ángel Guerrero|Pablo Pérez|Carlos Carmona|Sergio Mendi
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #52
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Sporting Gijón
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  niedz., 06.03.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 28. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/sporting-gijón_athletic-bilbao/aufstellung/spielbericht/2594748
+
+----------------------------------------------------------------------------------------------------
+
+🏠 SPORTING GIJÓN - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Iván Cuéllar
+        2. Luis Hernández
+       28. Jorge Meré
+       15. Roberto Canella
+       21. Ognjen Vranjes
+       17. Omar Mascarell
+       24. Rachid Aït-Atmane
+       33. Dani Ndi
+       23. Jony
+       25. Alen Halilovic
+       20. Antonio Sanabria
+
+   🔄 SUBSTITUTES IN (3):
+        3. Álex Menéndez
+       18. Isma López
+       16. Carlos Castro
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       19. Iker Muniain
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       18. Carlos Gurpegui
+        5. Javi Eraso
+       25. Sabin Merino
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 06.03.2016|LALIGA|28. Kolejka|Sporting Gijón|Athletic Bilbao|Iván Cuéllar|Luis Hernández|Jorge Meré|Roberto Canella|Ognjen Vranjes|Omar Mascarell|Rachid Aït-Atmane|Dani Ndi|Jony|Alen Halilovic|Antonio Sanabria|Álex Menéndez|Isma López|Carlos Castro|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Iker Muniain|Markel Susaeta|Aritz Aduriz|Carlos Gurpegui|Javi Eraso|Sabin Merino
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #53
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Rayo Vallecano
+📅 DATE:  niedz., 10.04.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 32. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_rayo-vallecano/aufstellung/spielbericht/2594790
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+       16. Xabi Etxeita
+        2. Eneko Bóveda
+       30. Iñigo Lekue
+       10. Óscar de Marcos
+        8. Ander Iturraspe
+       17. Mikel Rico
+       22. Raúl García
+       19. Iker Muniain
+       14. Markel Susaeta
+       15. Iñaki Williams
+
+   🔄 SUBSTITUTES IN (3):
+        6. Mikel San José
+        7. Beñat Etxebarria
+       20. Aritz Aduriz
+
+✈️  RAYO VALLECANO - 13 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Juan Carlos
+       18. Zé Castro
+       22. José Crespo
+        3. Nacho Martínez
+       17. Quini
+        8. Raúl Baena
+       10. Roberto Trashorras
+       23. Bebé
+       14. Pablo Hernández
+        7. Miku
+       24. Javi Guerra
+
+   🔄 SUBSTITUTES IN (2):
+       11. Adrián Embarba
+        9. Manucho
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 10.04.2016|LALIGA|32. Kolejka|Athletic Bilbao|Rayo Vallecano|Gorka Iraizoz|Xabi Etxeita|Eneko Bóveda|Iñigo Lekue|Óscar de Marcos|Ander Iturraspe|Mikel Rico|Raúl García|Iker Muniain|Markel Susaeta|Iñaki Williams|Mikel San José|Beñat Etxebarria|Aritz Aduriz|Juan Carlos|Zé Castro|José Crespo|Nacho Martínez|Quini|Raúl Baena|Roberto Trashorras|Bebé|Pablo Hernández|Miku|Javi Guerra|Adrián Embarba|Manucho
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #54
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Valencia CF
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  czw., 17.03.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/valencia-cf_athletic-bilbao/aufstellung/spielbericht/2668346
+
+----------------------------------------------------------------------------------------------------
+
+🏠 VALENCIA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Mathew Ryan
+        4. Aderllan Santos
+        5. Shkodran Mustafi
+       14. José Gayà
+        3. Rúben Vezo
+       12. Danilo Barbosa
+       18. Javi Fuego
+       21. André Gomes
+       17. Rodrigo
+       22. Santi Mina
+        7. Álvaro Negredo
+
+   🔄 SUBSTITUTES IN (3):
+       10. Dani Parejo
+        8. Sofiane Feghouli
+        9. Paco Alcácer
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       19. Iker Muniain
+       27. Sabin Merino
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       30. Iñigo Lekue
+        8. Ander Iturraspe
+       14. Markel Susaeta
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 17.03.2016|Unknown|Unknown|Valencia CF|Athletic Bilbao|Mathew Ryan|Aderllan Santos|Shkodran Mustafi|José Gayà|Rúben Vezo|Danilo Barbosa|Javi Fuego|André Gomes|Rodrigo|Santi Mina|Álvaro Negredo|Dani Parejo|Sofiane Feghouli|Paco Alcácer|Iago Herrerín|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Iker Muniain|Sabin Merino|Aritz Aduriz|Iñigo Lekue|Ander Iturraspe|Markel Susaeta
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #55
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Real Balompédica Linense
+📅 DATE:  śr., 16.12.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_real-balompédica-linense/aufstellung/spielbericht/2633845
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+       16. Xabi Etxeita
+       18. Carlos Gurpegui
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        5. Javi Eraso
+       22. Raúl García
+       25. Sabin Merino
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        7. Beñat Etxebarria
+       17. Mikel Rico
+        9. Kike Sola
+
+✈️  REAL BALOMPÉDICA LINENSE - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Francisco Mateo
+        5. Roberto Chen
+        4. Joe
+        3. Javi Gallardo
+        2. Manu Palancar
+        8. Carlos Guerra
+        6. Ismael Chico
+        9. Damián Zamorano
+        7. Juampe
+       11. Mauri
+       10. Copi
+
+   🔄 SUBSTITUTES IN (3):
+       15. Ximo Forner
+       16. Canario
+       14. Diego Buitrago
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 16.12.2015|Unknown|Unknown|Athletic Bilbao|Real Balompédica Linense|Iago Herrerín|Xabi Etxeita|Carlos Gurpegui|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Javi Eraso|Raúl García|Sabin Merino|Iñaki Williams|Aritz Aduriz|Beñat Etxebarria|Mikel Rico|Kike Sola|Francisco Mateo|Roberto Chen|Joe|Javi Gallardo|Manu Palancar|Carlos Guerra|Ismael Chico|Damián Zamorano|Juampe|Mauri|Copi|Ximo Forner|Canario|Diego Buitrago
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #56
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  SD Eibar
+📅 DATE:  niedz., 24.01.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 21. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_sd-eibar/aufstellung/spielbericht/2594675
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+        2. Eneko Bóveda
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       19. Iker Muniain
+       25. Sabin Merino
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       30. Iñigo Lekue
+       17. Mikel Rico
+       21. Borja Viguera
+
+✈️  SD EIBAR - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Asier Riesgo
+        4. Iván Ramis
+       15. Mauro dos Santos
+       17. David Juncà
+        7. Ander Capa
+       14. Dani García
+       24. Adrián González
+       21. Saúl Berjón
+       20. Keko Gontán
+        9. Sergi Enrich
+       18. Borja Bastón
+
+   🔄 SUBSTITUTES IN (3):
+        3. Aleksandar Pantic
+        5. Gonzalo Escalante
+       22. Jota Peleteiro
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 24.01.2016|LALIGA|21. Kolejka|Athletic Bilbao|SD Eibar|Iago Herrerín|Aymeric Laporte|Eneko Bóveda|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Iker Muniain|Sabin Merino|Markel Susaeta|Aritz Aduriz|Iñigo Lekue|Mikel Rico|Borja Viguera|Asier Riesgo|Iván Ramis|Mauro dos Santos|David Juncà|Ander Capa|Dani García|Adrián González|Saúl Berjón|Keko Gontán|Sergi Enrich|Borja Bastón|Aleksandar Pantic|Gonzalo Escalante|Jota Peleteiro
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #57
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Granada CF
+📅 DATE:  niedz., 03.04.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 31. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_granada-cf/aufstellung/spielbericht/2594780
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+       16. Xabi Etxeita
+       18. Carlos Gurpegui
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       25. Sabin Merino
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       30. Iñigo Lekue
+       17. Mikel Rico
+       15. Iñaki Williams
+
+✈️  GRANADA CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Andrés Fernández
+        2. David Lombán
+        6. Jean-Sylvain Babin
+        3. Cristiano Biraghi
+       22. Dimitri Foulquier
+       20. Rubén Pérez
+        8. Javi Márquez
+       16. Abdoulaye Doucouré
+       27. Adalberto Peñaranda
+       19. Isaac Cuenca
+        9. Youssef El Arabi
+
+   🔄 SUBSTITUTES IN (3):
+        4. Fran Rico
+        7. Rober Ibáñez
+       15. David Barral
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 03.04.2016|LALIGA|31. Kolejka|Athletic Bilbao|Granada CF|Gorka Iraizoz|Xabi Etxeita|Carlos Gurpegui|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Sabin Merino|Markel Susaeta|Aritz Aduriz|Iñigo Lekue|Mikel Rico|Iñaki Williams|Andrés Fernández|David Lombán|Jean-Sylvain Babin|Cristiano Biraghi|Dimitri Foulquier|Rubén Pérez|Javi Márquez|Abdoulaye Doucouré|Adalberto Peñaranda|Isaac Cuenca|Youssef El Arabi|Fran Rico|Rober Ibáñez|David Barral
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #58
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Sevilla FC
+✈️  AWAY:  Athletic Bilbao
+📅 DATE:  sob., 09.01.2016
+🏆 COMP:  LALIGA
+🔢 ROUND: 19. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/sevilla-fc_athletic-bilbao/aufstellung/spielbericht/2594657
+
+----------------------------------------------------------------------------------------------------
+
+🏠 SEVILLA FC - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Sergio Rico
+        5. Timothée Kolodziejczak
+        6. Daniel Carriço
+        2. Benoît Trémoulinas
+       23. Coke
+        4. Grzegorz Krychowiak
+       14. Sebastián Cristóforo
+       19. Éver Banega
+        7. Michael Krohn-Dehli
+       20. Vitolo
+        9. Kévin Gameiro
+
+   🔄 SUBSTITUTES IN (3):
+        8. Vicente Iborra
+       22. Yevgen Konoplyanka
+       24. Fernando Llorente
+
+✈️  ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       18. Carlos Gurpegui
+       24. Mikel Balenziaga
+       30. Iñigo Lekue
+        6. Mikel San José
+        7. Beñat Etxebarria
+       10. Óscar de Marcos
+       15. Iñaki Williams
+       22. Raúl García
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        5. Javi Eraso
+       19. Iker Muniain
+       25. Sabin Merino
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+sob., 09.01.2016|LALIGA|19. Kolejka|Sevilla FC|Athletic Bilbao|Sergio Rico|Timothée Kolodziejczak|Daniel Carriço|Benoît Trémoulinas|Coke|Grzegorz Krychowiak|Sebastián Cristóforo|Éver Banega|Michael Krohn-Dehli|Vitolo|Kévin Gameiro|Vicente Iborra|Yevgen Konoplyanka|Fernando Llorente|Gorka Iraizoz|Aymeric Laporte|Carlos Gurpegui|Mikel Balenziaga|Iñigo Lekue|Mikel San José|Beñat Etxebarria|Óscar de Marcos|Iñaki Williams|Raúl García|Aritz Aduriz|Javi Eraso|Iker Muniain|Sabin Merino
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #59
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Sevilla FC
+📅 DATE:  czw., 07.04.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_sevilla-fc/aufstellung/spielbericht/2675303
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+       16. Xabi Etxeita
+        2. Eneko Bóveda
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        7. Beñat Etxebarria
+        6. Mikel San José
+        5. Javi Eraso
+       15. Iñaki Williams
+       19. Iker Muniain
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       30. Iñigo Lekue
+       14. Markel Susaeta
+       21. Borja Viguera
+
+✈️  SEVILLA FC - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       31. David Soria
+        5. Timothée Kolodziejczak
+        3. Adil Rami
+        2. Benoît Trémoulinas
+       23. Coke
+        4. Grzegorz Krychowiak
+       15. Steven Nzonzi
+       19. Éver Banega
+        7. Michael Krohn-Dehli
+       20. Vitolo
+        9. Kévin Gameiro
+
+   🔄 SUBSTITUTES IN (3):
+       40. Federico Fazio
+        8. Vicente Iborra
+       22. Yevgen Konoplyanka
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+czw., 07.04.2016|Unknown|Unknown|Athletic Bilbao|Sevilla FC|Iago Herrerín|Xabi Etxeita|Eneko Bóveda|Mikel Balenziaga|Óscar de Marcos|Beñat Etxebarria|Mikel San José|Javi Eraso|Iñaki Williams|Iker Muniain|Aritz Aduriz|Iñigo Lekue|Markel Susaeta|Borja Viguera|David Soria|Timothée Kolodziejczak|Adil Rami|Benoît Trémoulinas|Coke|Grzegorz Krychowiak|Steven Nzonzi|Éver Banega|Michael Krohn-Dehli|Vitolo|Kévin Gameiro|Federico Fazio|Vicente Iborra|Yevgen Konoplyanka
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #60
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  FC Barcelona
+📅 DATE:  pt., 14.08.2015
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_fc-barcelona/aufstellung/spielbericht/2613602
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+        5. Javi Eraso
+       25. Sabin Merino
+       14. Markel Susaeta
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+       18. Carlos Gurpegui
+        2. Eneko Bóveda
+       30. Iñigo Lekue
+
+✈️  FC BARCELONA - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Marc-André ter Stegen
+       23. Thomas Vermaelen
+       15. Marc Bartra
+       21. Adriano
+        6. Dani Alves
+       14. Javier Mascherano
+       20. Sergi Roberto
+       12. Rafinha
+        7. Pedro
+       10. Lionel Messi
+        9. Luis Suárez
+
+   🔄 SUBSTITUTES IN (3):
+        8. Andrés Iniesta
+        4. Ivan Rakitic
+       16. Sandro Ramírez
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+pt., 14.08.2015|Unknown|Unknown|Athletic Bilbao|FC Barcelona|Gorka Iraizoz|Aymeric Laporte|Xabi Etxeita|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Javi Eraso|Sabin Merino|Markel Susaeta|Aritz Aduriz|Carlos Gurpegui|Eneko Bóveda|Iñigo Lekue|Marc-André ter Stegen|Thomas Vermaelen|Marc Bartra|Adriano|Dani Alves|Javier Mascherano|Sergi Roberto|Rafinha|Pedro|Lionel Messi|Luis Suárez|Andrés Iniesta|Ivan Rakitic|Sandro Ramírez
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #61
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  RCD Espanyol
+📅 DATE:  niedz., 08.11.2015
+🏆 COMP:  LALIGA
+🔢 ROUND: 11. Kolejka
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_rcd-espanyol/aufstellung/spielbericht/2594579
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+        1. Gorka Iraizoz
+       16. Xabi Etxeita
+       18. Carlos Gurpegui
+       24. Mikel Balenziaga
+       10. Óscar de Marcos
+        6. Mikel San José
+        7. Beñat Etxebarria
+       22. Raúl García
+       27. Sabin Merino
+       15. Iñaki Williams
+       20. Aritz Aduriz
+
+   🔄 SUBSTITUTES IN (3):
+        2. Eneko Bóveda
+        3. Gorka Elustondo
+       14. Markel Susaeta
+
+✈️  RCD ESPANYOL - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Pau López
+        6. Enzo Roco
+       22. Álvaro González
+       18. Juan Rafael Fuentes
+       16. Javi López
+       12. Pape Diop
+        4. Víctor Sánchez
+       25. Marco Asensio
+        5. Víctor Álvarez
+       17. Hernán Pérez
+       20. Felipe Caicedo
+
+   🔄 SUBSTITUTES IN (3):
+       10. Abraham González
+        9. Burgui
+       28. Mamadou Sylla
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+niedz., 08.11.2015|LALIGA|11. Kolejka|Athletic Bilbao|RCD Espanyol|Gorka Iraizoz|Xabi Etxeita|Carlos Gurpegui|Mikel Balenziaga|Óscar de Marcos|Mikel San José|Beñat Etxebarria|Raúl García|Sabin Merino|Iñaki Williams|Aritz Aduriz|Eneko Bóveda|Gorka Elustondo|Markel Susaeta|Pau López|Enzo Roco|Álvaro González|Juan Rafael Fuentes|Javi López|Pape Diop|Víctor Sánchez|Marco Asensio|Víctor Álvarez|Hernán Pérez|Felipe Caicedo|Abraham González|Burgui|Mamadou Sylla
+
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+MATCH #62
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+
+🏠 HOME:  Athletic Bilbao
+✈️  AWAY:  Villarreal CF
+📅 DATE:  śr., 06.01.2016
+🏆 COMP:  Unknown
+🔢 ROUND: Unknown
+🔗 URL:   https://www.transfermarkt.pl/athletic-bilbao_villarreal-cf/aufstellung/spielbericht/2647657
+
+----------------------------------------------------------------------------------------------------
+
+🏠 ATHLETIC BILBAO - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       13. Iago Herrerín
+        4. Aymeric Laporte
+       16. Xabi Etxeita
+       30. Iñigo Lekue
+       10. Óscar de Marcos
+        8. Ander Iturraspe
+        7. Beñat Etxebarria
+       22. Raúl García
+       19. Iker Muniain
+       14. Markel Susaeta
+       15. Iñaki Williams
+
+   🔄 SUBSTITUTES IN (3):
+       24. Mikel Balenziaga
+        6. Mikel San José
+       20. Aritz Aduriz
+
+✈️  VILLARREAL CF - 14 players
+----------------------------------------------------------------------------------------------------
+   ⭐ STARTING XI:
+       25. Mariano Barbosa
+        6. Víctor Ruiz
+       24. Eric Bailly
+       27. Adrián Marín
+       22. Antonio Rukavina
+       29. Rodri
+        4. Tomás Pina
+       19. Samu Castillejo
+       26. Matías Nahuel
+        7. Samu García
+       10. Léo Baptistão
+
+   🔄 SUBSTITUTES IN (3):
+        2. Mario Gaspar
+       21. Bruno Soriano
+       17. Cédric Bakambu
+
+----------------------------------------------------------------------------------------------------
+📋 PARSE FORMAT:
+śr., 06.01.2016|Unknown|Unknown|Athletic Bilbao|Villarreal CF|Iago Herrerín|Aymeric Laporte|Xabi Etxeita|Iñigo Lekue|Óscar de Marcos|Ander Iturraspe|Beñat Etxebarria|Raúl García|Iker Muniain|Markel Susaeta|Iñaki Williams|Mikel Balenziaga|Mikel San José|Aritz Aduriz|Mariano Barbosa|Víctor Ruiz|Eric Bailly|Adrián Marín|Antonio Rukavina|Rodri|Tomás Pina|Samu Castillejo|Matías Nahuel|Samu García|Léo Baptistão|Mario Gaspar|Bruno Soriano|Cédric Bakambu
+

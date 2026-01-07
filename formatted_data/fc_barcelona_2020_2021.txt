@@ -1,0 +1,166 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3451384 | pon., 05.04.2021 | Real Valladolid CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Óscar Mingueza, Frenkie de Jong, Sergio Busquets, Pedri, Sergiño Dest, Jordi Alba, Lionel Messi, Antoine Griezmann, Ousmane Dembélé
+
+MATCH: 3451474 | sob., 22.05.2021 | SD Eibar
+PLAYERS: Neto, Ronald Araujo, Óscar Mingueza, Frenkie de Jong, Sergio Busquets, Ilaix Moriba, Sergiño Dest, Junior Firpo, Antoine Griezmann, Francisco Trincão, Ousmane Dembélé
+
+MATCH: 3461746 | śr., 28.10.2020 | Juventus Turyn
+PLAYERS: Neto, Clément Lenglet, Ronald Araujo, Jordi Alba, Sergi Roberto, Frenkie de Jong, Miralem Pjanić, Pedri, Ousmane Dembélé, Lionel Messi, Antoine Griezmann
+
+MATCH: 3431906 | śr., 24.02.2021 | Elche CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Jordi Alba, Óscar Mingueza, Miralem Pjanić, Frenkie de Jong, Pedri, Martin Braithwaite, Francisco Trincão, Lionel Messi
+
+MATCH: 3451062 | wt., 29.12.2020 | SD Eibar
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Ronald Araujo, Óscar Mingueza, Miralem Pjanić, Frenkie de Jong, Sergiño Dest, Junior Firpo, Pedri, Antoine Griezmann, Martin Braithwaite
+
+MATCH: 3451030 | niedz., 13.12.2020 | Levante UD
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Ronald Araujo, Jordi Alba, Sergiño Dest, Sergio Busquets, Frenkie de Jong, Philippe Coutinho, Martin Braithwaite, Antoine Griezmann, Lionel Messi
+
+MATCH: 3451042 | sob., 19.12.2020 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Óscar Mingueza, Jordi Alba, Sergiño Dest, Sergio Busquets, Pedri, Philippe Coutinho, Martin Braithwaite, Antoine Griezmann, Lionel Messi
+
+MATCH: 3451158 | niedz., 21.02.2021 | Cádiz CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergiño Dest, Sergio Busquets, Frenkie de Jong, Pedri, Antoine Griezmann, Ousmane Dembélé, Lionel Messi
+
+MATCH: 3451459 | wt., 11.05.2021 | Levante UD
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Ronald Araujo, Sergio Busquets, Pedri, Frenkie de Jong, Jordi Alba, Ousmane Dembélé, Lionel Messi, Antoine Griezmann
+
+MATCH: 3503944 | czw., 21.01.2021 | UE Cornellà
+PLAYERS: Neto, Clément Lenglet, Ronald Araujo, Junior Firpo, Óscar Mingueza, Miralem Pjanić, Riqui Puig, Ilaix Moriba, Antoine Griezmann, Francisco Trincão, Martin Braithwaite
+
+MATCH: 3451074 | niedz., 03.01.2021 | SD Huesca
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Ronald Araujo, Jordi Alba, Sergiño Dest, Sergio Busquets, Frenkie de Jong, Pedri, Ousmane Dembélé, Lionel Messi, Martin Braithwaite
+
+MATCH: 3451405 | czw., 22.04.2021 | Getafe CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Óscar Mingueza, Sergio Busquets, Pedri, Frenkie de Jong, Sergi Roberto, Jordi Alba, Lionel Messi, Antoine Griezmann
+
+MATCH: 3431914 | śr., 06.01.2021 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Ronald Araujo, Jordi Alba, Sergiño Dest, Sergio Busquets, Pedri, Frenkie de Jong, Antoine Griezmann, Ousmane Dembélé, Lionel Messi
+
+MATCH: 3451135 | niedz., 07.02.2021 | Real Betis Balompié
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Ronald Araujo, Jordi Alba, Óscar Mingueza, Sergio Busquets, Miralem Pjanić, Riqui Puig, Martin Braithwaite, Ousmane Dembélé, Antoine Griezmann
+
+MATCH: 3431926 | niedz., 27.09.2020 | Villarreal CF
+PLAYERS: Neto, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Frenkie de Jong, Philippe Coutinho, Ansu Fati, Antoine Griezmann, Lionel Messi
+
+MATCH: 3431935 | czw., 01.10.2020 | Celta de Vigo
+PLAYERS: Neto, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Frenkie de Jong, Philippe Coutinho, Ansu Fati, Antoine Griezmann, Lionel Messi
+
+MATCH: 3518099 | śr., 10.02.2021 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Óscar Mingueza, Jordi Alba, Junior Firpo, Sergio Busquets, Pedri, Frenkie de Jong, Antoine Griezmann, Ousmane Dembélé, Lionel Messi
+
+MATCH: 3451057 | wt., 22.12.2020 | Real Valladolid CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Ronald Araujo, Óscar Mingueza, Miralem Pjanić, Frenkie de Jong, Sergiño Dest, Jordi Alba, Pedri, Lionel Messi, Martin Braithwaite
+
+MATCH: 3450991 | sob., 07.11.2020 | Real Betis Balompié
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Frenkie de Jong, Antoine Griezmann, Pedri, Ousmane Dembélé, Ansu Fati
+
+MATCH: 3461789 | śr., 02.12.2020 | Ferencvárosi TC
+PLAYERS: Neto, Clément Lenglet, Óscar Mingueza, Jordi Alba, Sergiño Dest, Sergio Busquets, Miralem Pjanić, Ousmane Dembélé, Francisco Trincão, Antoine Griezmann, Martin Braithwaite
+
+MATCH: 3450971 | sob., 24.10.2020 | Real Madryt
+PLAYERS: Neto, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergiño Dest, Sergio Busquets, Frenkie de Jong, Pedri, Philippe Coutinho, Lionel Messi, Ansu Fati
+
+MATCH: 3451084 | sob., 09.01.2021 | Granada CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Óscar Mingueza, Jordi Alba, Sergiño Dest, Sergio Busquets, Pedri, Frenkie de Jong, Antoine Griezmann, Ousmane Dembélé, Lionel Messi
+
+MATCH: 3496461 | śr., 10.03.2021 | FC Paris Saint-Germain
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Óscar Mingueza, Frenkie de Jong, Sergio Busquets, Pedri, Sergiño Dest, Jordi Alba, Lionel Messi, Antoine Griezmann, Ousmane Dembélé
+
+MATCH: 3451441 | niedz., 02.05.2021 | Valencia CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Ronald Araujo, Sergio Busquets, Pedri, Frenkie de Jong, Sergiño Dest, Jordi Alba, Lionel Messi, Antoine Griezmann
+
+MATCH: 3451379 | niedz., 21.03.2021 | Real Sociedad
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Óscar Mingueza, Frenkie de Jong, Sergio Busquets, Pedri, Sergiño Dest, Jordi Alba, Lionel Messi, Antoine Griezmann, Ousmane Dembélé
+
+MATCH: 3451182 | sob., 27.02.2021 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Óscar Mingueza, Sergio Busquets, Frenkie de Jong, Sergiño Dest, Jordi Alba, Pedri, Lionel Messi, Ousmane Dembélé
+
+MATCH: 3451146 | sob., 13.02.2021 | Deportivo Alavés
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Frenkie de Jong, Junior Firpo, Óscar Mingueza, Sergio Busquets, Riqui Puig, Ilaix Moriba, Antoine Griezmann, Francisco Trincão, Lionel Messi
+
+MATCH: 3461820 | wt., 08.12.2020 | Juventus Turyn
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Ronald Araujo, Jordi Alba, Sergiño Dest, Frenkie de Jong, Miralem Pjanić, Pedri, Francisco Trincão, Lionel Messi, Antoine Griezmann
+
+MATCH: 3451445 | sob., 08.05.2021 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Óscar Mingueza, Sergio Busquets, Pedri, Frenkie de Jong, Sergiño Dest, Jordi Alba, Lionel Messi, Antoine Griezmann
+
+MATCH: 3450964 | sob., 17.10.2020 | Getafe CF
+PLAYERS: Neto, Clément Lenglet, Gerard Piqué, Sergiño Dest, Sergi Roberto, Sergio Busquets, Frenkie de Jong, Pedri, Ousmane Dembélé, Lionel Messi, Antoine Griezmann
+
+MATCH: 3508601 | śr., 27.01.2021 | Rayo Vallecano
+PLAYERS: Neto, Clément Lenglet, Ronald Araujo, Junior Firpo, Óscar Mingueza, Sergio Busquets, Riqui Puig, Frenkie de Jong, Antoine Griezmann, Francisco Trincão, Lionel Messi
+
+MATCH: 3531491 | sob., 17.04.2021 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Óscar Mingueza, Sergio Busquets, Pedri, Frenkie de Jong, Sergiño Dest, Jordi Alba, Lionel Messi, Antoine Griezmann
+
+MATCH: 3451010 | niedz., 29.11.2020 | CA Osasuna
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Óscar Mingueza, Jordi Alba, Sergiño Dest, Frenkie de Jong, Pedri, Philippe Coutinho, Antoine Griezmann, Lionel Messi, Martin Braithwaite
+
+MATCH: 3497553 | śr., 13.01.2021 | Real Sociedad
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Ronald Araujo, Jordi Alba, Óscar Mingueza, Sergio Busquets, Frenkie de Jong, Pedri, Martin Braithwaite, Ousmane Dembélé, Antoine Griezmann
+
+MATCH: 3441590 | niedz., 04.10.2020 | Sevilla FC
+PLAYERS: Neto, Gerard Piqué, Ronald Araujo, Jordi Alba, Sergi Roberto, Sergio Busquets, Frenkie de Jong, Philippe Coutinho, Ansu Fati, Antoine Griezmann, Lionel Messi
+
+MATCH: 3451002 | sob., 21.11.2020 | Atlético Madryt
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Miralem Pjanić, Frenkie de Jong, Pedri, Ousmane Dembélé, Lionel Messi, Antoine Griezmann
+
+MATCH: 3506295 | niedz., 17.01.2021 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Ronald Araujo, Jordi Alba, Sergiño Dest, Sergio Busquets, Pedri, Frenkie de Jong, Antoine Griezmann, Ousmane Dembélé, Lionel Messi
+
+MATCH: 3451091 | śr., 16.12.2020 | Real Sociedad
+PLAYERS: Marc-André ter Stegen, Ronald Araujo, Óscar Mingueza, Jordi Alba, Sergiño Dest, Sergio Busquets, Frenkie de Jong, Pedri, Antoine Griezmann, Lionel Messi, Martin Braithwaite
+
+MATCH: 3496453 | wt., 16.02.2021 | FC Paris Saint-Germain
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergiño Dest, Sergio Busquets, Frenkie de Jong, Pedri, Antoine Griezmann, Ousmane Dembélé, Lionel Messi
+
+MATCH: 3451466 | niedz., 16.05.2021 | Celta de Vigo
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Ronald Araujo, Sergio Busquets, Pedri, Ilaix Moriba, Jordi Alba, Ousmane Dembélé, Lionel Messi, Antoine Griezmann
+
+MATCH: 3451399 | sob., 10.04.2021 | Real Madryt
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Ronald Araujo, Óscar Mingueza, Sergio Busquets, Frenkie de Jong, Sergiño Dest, Jordi Alba, Pedri, Lionel Messi, Ousmane Dembélé
+
+MATCH: 3451110 | niedz., 31.01.2021 | Athletic Bilbao
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Ronald Araujo, Jordi Alba, Óscar Mingueza, Frenkie de Jong, Miralem Pjanić, Pedri, Antoine Griezmann, Ousmane Dembélé, Lionel Messi
+
+MATCH: 3461778 | wt., 24.11.2020 | Dynamo Kijów
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Óscar Mingueza, Junior Firpo, Sergiño Dest, Miralem Pjanić, Carles Aleñá, Pedri, Philippe Coutinho, Francisco Trincão, Martin Braithwaite
+
+MATCH: 3451104 | niedz., 24.01.2021 | Elche CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Ronald Araujo, Jordi Alba, Óscar Mingueza, Sergio Busquets, Pedri, Frenkie de Jong, Martin Braithwaite, Ousmane Dembélé, Antoine Griezmann
+
+MATCH: 3512436 | śr., 03.02.2021 | Granada CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Ronald Araujo, Jordi Alba, Sergi Roberto, Sergio Busquets, Frenkie de Jong, Pedri, Antoine Griezmann, Francisco Trincão, Lionel Messi
+
+MATCH: 3451422 | niedz., 25.04.2021 | Villarreal CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Óscar Mingueza, Sergio Busquets, Pedri, Frenkie de Jong, Sergiño Dest, Jordi Alba, Lionel Messi, Antoine Griezmann
+
+MATCH: 3451197 | sob., 06.03.2021 | CA Osasuna
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Samuel Umtiti, Óscar Mingueza, Sergio Busquets, Frenkie de Jong, Sergiño Dest, Jordi Alba, Pedri, Lionel Messi, Antoine Griezmann
+
+MATCH: 3451205 | pon., 15.03.2021 | SD Huesca
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Óscar Mingueza, Frenkie de Jong, Sergio Busquets, Pedri, Sergiño Dest, Jordi Alba, Lionel Messi, Antoine Griezmann, Ousmane Dembélé
+
+MATCH: 3518101 | śr., 03.03.2021 | Sevilla FC
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Gerard Piqué, Óscar Mingueza, Sergio Busquets, Frenkie de Jong, Sergiño Dest, Jordi Alba, Pedri, Lionel Messi, Ousmane Dembélé
+
+MATCH: 3461761 | śr., 04.11.2020 | Dynamo Kijów
+PLAYERS: Marc-André ter Stegen, Gerard Piqué, Frenkie de Jong, Jordi Alba, Sergiño Dest, Sergio Busquets, Miralem Pjanić, Pedri, Ansu Fati, Lionel Messi, Antoine Griezmann
+
+MATCH: 3461723 | wt., 20.10.2020 | Ferencvárosi TC
+PLAYERS: Neto, Clément Lenglet, Gerard Piqué, Sergiño Dest, Sergi Roberto, Frenkie de Jong, Miralem Pjanić, Philippe Coutinho, Ansu Fati, Francisco Trincão, Lionel Messi
+
+MATCH: 3451023 | sob., 05.12.2020 | Cádiz CF
+PLAYERS: Marc-André ter Stegen, Clément Lenglet, Óscar Mingueza, Jordi Alba, Sergiño Dest, Sergio Busquets, Frenkie de Jong, Philippe Coutinho, Lionel Messi, Antoine Griezmann, Martin Braithwaite
+
+MATCH: 3451426 | czw., 29.04.2021 | Granada CF
+PLAYERS: Marc-André ter Stegen, Samuel Umtiti, Gerard Piqué, Óscar Mingueza, Sergio Busquets, Frenkie de Jong, Ilaix Moriba, Sergi Roberto, Jordi Alba, Lionel Messi, Antoine Griezmann
+
+MATCH: 3450980 | sob., 31.10.2020 | Deportivo Alavés
+PLAYERS: Neto, Clément Lenglet, Gerard Piqué, Jordi Alba, Sergi Roberto, Sergio Busquets, Frenkie de Jong, Ansu Fati, Ousmane Dembélé, Lionel Messi, Antoine Griezmann
+

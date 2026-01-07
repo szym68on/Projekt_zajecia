@@ -1,0 +1,187 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2244389 | śr., 29.08.2012 | FC Barcelona
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2244382 | niedz., 19.08.2012 | Valencia CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Lassana Diarra, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2243194 | niedz., 14.04.2013 | Athletic Bilbao
+PLAYERS: Diego López, Pepe, Raúl Albiol, Marcelo, Sergio Ramos, Xabi Alonso, Sami Khedira, Luka Modrić, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2243131 | niedz., 17.02.2013 | Rayo Vallecano
+PLAYERS: Diego López, Raphaël Varane, Pepe, Fábio Coentrão, Sergio Ramos, Michael Essien, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Kaká, Álvaro Morata
+
+MATCH: 2243166 | sob., 16.03.2013 | RCD Mallorca
+PLAYERS: Diego López, Raphaël Varane, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Pepe, Luka Modrić, Kaká, Cristiano Ronaldo, Álvaro Morata, Gonzalo Higuaín
+
+MATCH: 2242994 | sob., 11.05.2013 | RCD Espanyol
+PLAYERS: Diego López, Ricardo Carvalho, Raúl Albiol, Nacho Fernández, Raphaël Varane, Michael Essien, Luka Modrić, Kaká, Álvaro Morata, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2242959 | niedz., 26.05.2013 | Real Sociedad
+PLAYERS: Diego López, Ricardo Carvalho, Raúl Albiol, Marcelo, Álvaro Arbeloa, Michael Essien, Sami Khedira, Luka Modrić, Kaká, José Callejón, Gonzalo Higuaín
+
+MATCH: 2243046 | sob., 22.12.2012 | Málaga CF
+PLAYERS: Antonio Adán, Pepe, Sergio Ramos, Álvaro Arbeloa, Michael Essien, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2243029 | sob., 08.12.2012 | Real Valladolid CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Nacho Fernández, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, José Callejón, Karim Benzema
+
+MATCH: 2243104 | niedz., 27.01.2013 | Getafe CF
+PLAYERS: Antonio Adán, Ricardo Carvalho, Raúl Albiol, Fábio Coentrão, Sergio Ramos, Michael Essien, Luka Modrić, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2242853 | niedz., 07.10.2012 | FC Barcelona
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2242976 | śr., 08.05.2013 | Málaga CF
+PLAYERS: Diego López, Raphaël Varane, Raúl Albiol, Fábio Coentrão, Nacho Fernández, Xabi Alonso, Michael Essien, Luka Modrić, Cristiano Ronaldo, Mesut Özil, Karim Benzema
+
+MATCH: 2288676 | wt., 26.02.2013 | FC Barcelona
+PLAYERS: Diego López, Raphaël Varane, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2242938 | sob., 04.05.2013 | Real Valladolid CF
+PLAYERS: Diego López, Pepe, Ricardo Carvalho, Fábio Coentrão, Nacho Fernández, Sami Khedira, Luka Modrić, Kaká, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2269532 | śr., 31.10.2012 | CD Alcoyano
+PLAYERS: Antonio Adán, Raphaël Varane, Ricardo Carvalho, Nacho Fernández, Raúl Albiol, Michael Essien, Álex Fernández, Kaká, Álvaro Morata, José Callejón, Karim Benzema
+
+MATCH: 2242843 | niedz., 30.09.2012 | Deportivo de La Coruña
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Marcelo, Sergio Ramos, Sami Khedira, Luka Modrić, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2243042 | sob., 01.12.2012 | Atlético Madryt
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2243020 | sob., 01.06.2013 | CA Osasuna
+PLAYERS: Jesús Fernández, Ricardo Carvalho, Raúl Albiol, Álvaro Arbeloa, José Callejón, Michael Essien, Luka Modrić, Mesut Özil, Karim Benzema, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2243154 | niedz., 10.03.2013 | Celta de Vigo
+PLAYERS: Diego López, Pepe, Raúl Albiol, Marcelo, Michael Essien, Sami Khedira, Luka Modrić, Mesut Özil, Cristiano Ronaldo, José Callejón, Karim Benzema
+
+MATCH: 2243004 | sob., 17.11.2012 | Athletic Bilbao
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Luka Modrić, Mesut Özil, Cristiano Ronaldo, José Callejón, Karim Benzema
+
+MATCH: 2243056 | niedz., 16.12.2012 | RCD Espanyol
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Luka Modrić, Mesut Özil, José Callejón, Cristiano Ronaldo
+
+MATCH: 2242834 | niedz., 26.08.2012 | Getafe CF
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Marcelo, Álvaro Arbeloa, Xabi Alonso, Lassana Diarra, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2243144 | sob., 02.03.2013 | FC Barcelona
+PLAYERS: Diego López, Raphaël Varane, Sergio Ramos, Fábio Coentrão, Michael Essien, Pepe, Luka Modrić, Kaká, Álvaro Morata, José Callejón, Karim Benzema
+
+MATCH: 2262234 | wt., 04.12.2012 | Ajax Amsterdam
+PLAYERS: Antonio Adán, Raphaël Varane, Ricardo Carvalho, Fábio Coentrão, Nacho Fernández, Sami Khedira, Luka Modrić, Kaká, Cristiano Ronaldo, José Callejón, Karim Benzema
+
+MATCH: 2312109 | śr., 24.04.2013 | Borussia Dortmund
+PLAYERS: Diego López, Raphaël Varane, Pepe, Fábio Coentrão, Sergio Ramos, Xabi Alonso, Sami Khedira, Luka Modrić, Cristiano Ronaldo, Mesut Özil, Gonzalo Higuaín
+
+MATCH: 2284450 | śr., 13.02.2013 | Manchester United
+PLAYERS: Diego López, Raphaël Varane, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2262202 | wt., 06.11.2012 | Borussia Dortmund
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Álvaro Arbeloa, Sergio Ramos, Xabi Alonso, Luka Modrić, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2242930 | sob., 27.04.2013 | Atlético Madryt
+PLAYERS: Diego López, Pepe, Ricardo Carvalho, Nacho Fernández, Raúl Albiol, Michael Essien, Sami Khedira, Kaká, Álvaro Morata, Ángel Di María, Karim Benzema
+
+MATCH: 2242871 | sob., 03.11.2012 | Real Zaragoza
+PLAYERS: Iker Casillas, Pepe, Raúl Albiol, Álvaro Arbeloa, Sergio Ramos, Michael Essien, Luka Modrić, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2242922 | sob., 15.09.2012 | Sevilla FC
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2286544 | śr., 23.01.2013 | Valencia CF
+PLAYERS: Iker Casillas, Raphaël Varane, Raúl Albiol, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2242854 | sob., 20.10.2012 | Celta de Vigo
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Michael Essien, Sergio Ramos, Xabi Alonso, Luka Modrić, Kaká, Cristiano Ronaldo, Mesut Özil, Gonzalo Higuaín
+
+MATCH: 2243125 | sob., 09.02.2013 | Sevilla FC
+PLAYERS: Diego López, Sergio Ramos, Raúl Albiol, Fábio Coentrão, Álvaro Arbeloa, Michael Essien, Luka Modrić, Kaká, Cristiano Ronaldo, Karim Benzema, Gonzalo Higuaín
+
+MATCH: 2282723 | śr., 09.01.2013 | Celta de Vigo
+PLAYERS: Iker Casillas, Sergio Ramos, Ricardo Carvalho, Álvaro Arbeloa, Michael Essien, Xabi Alonso, Sami Khedira, Luka Modrić, Cristiano Ronaldo, Mesut Özil, Karim Benzema
+
+MATCH: 2299544 | pt., 17.05.2013 | Atlético Madryt
+PLAYERS: Diego López, Sergio Ramos, Raúl Albiol, Fábio Coentrão, Michael Essien, Xabi Alonso, Sami Khedira, Luka Modrić, Cristiano Ronaldo, Mesut Özil, Karim Benzema
+
+MATCH: 2242882 | niedz., 02.09.2012 | Granada CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Luka Modrić, Cristiano Ronaldo, José Callejón, Karim Benzema
+
+MATCH: 2242888 | niedz., 28.10.2012 | RCD Mallorca
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Michael Essien, Sergio Ramos, Xabi Alonso, Luka Modrić, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2282714 | śr., 12.12.2012 | Celta de Vigo
+PLAYERS: Antonio Adán, Pepe, Ricardo Carvalho, Álvaro Arbeloa, Raphaël Varane, Xabi Alonso, Michael Essien, Luka Modrić, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2262153 | wt., 18.09.2012 | Manchester City
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Marcelo, Álvaro Arbeloa, Xabi Alonso, Michael Essien, Sami Khedira, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2301902 | wt., 09.04.2013 | Galatasaray
+PLAYERS: Diego López, Raphaël Varane, Pepe, Fábio Coentrão, Michael Essien, Sami Khedira, Luka Modrić, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2243139 | sob., 23.02.2013 | Deportivo de La Coruña
+PLAYERS: Diego López, Pepe, Ricardo Carvalho, Marcelo, Álvaro Arbeloa, Michael Essien, Luka Modrić, Kaká, José Callejón, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2262177 | śr., 03.10.2012 | Ajax Amsterdam
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Michael Essien, Kaká, Cristiano Ronaldo, José Callejón, Karim Benzema
+
+MATCH: 2312110 | wt., 30.04.2013 | Borussia Dortmund
+PLAYERS: Diego López, Raphaël Varane, Sergio Ramos, Fábio Coentrão, Michael Essien, Xabi Alonso, Luka Modrić, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2288674 | śr., 30.01.2013 | FC Barcelona
+PLAYERS: Diego López, Raphaël Varane, Ricardo Carvalho, Álvaro Arbeloa, Michael Essien, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, José Callejón, Karim Benzema
+
+MATCH: 2242897 | pon., 24.09.2012 | Rayo Vallecano
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Michael Essien, Luka Modrić, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2242995 | sob., 24.11.2012 | Real Betis Balompié
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2243074 | sob., 12.01.2013 | CA Osasuna
+PLAYERS: Iker Casillas, Raphaël Varane, Raúl Albiol, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Luka Modrić, José Callejón, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2243082 | niedz., 20.01.2013 | Valencia CF
+PLAYERS: Iker Casillas, Raphaël Varane, Raúl Albiol, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2243047 | niedz., 06.01.2013 | Real Sociedad
+PLAYERS: Antonio Adán, Raphaël Varane, Ricardo Carvalho, Álvaro Arbeloa, Michael Essien, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, José Callejón, Karim Benzema
+
+MATCH: 2243189 | sob., 06.04.2013 | Levante UD
+PLAYERS: Diego López, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Xabi Alonso, Luka Modrić, Kaká, Karim Benzema, José Callejón, Gonzalo Higuaín
+
+MATCH: 2243177 | sob., 30.03.2013 | Real Zaragoza
+PLAYERS: Diego López, Pepe, Sergio Ramos, Marcelo, Álvaro Arbeloa, Michael Essien, Luka Modrić, Kaká, Cristiano Ronaldo, José Callejón, Gonzalo Higuaín
+
+MATCH: 2262193 | śr., 24.10.2012 | Borussia Dortmund
+PLAYERS: Iker Casillas, Raphaël Varane, Pepe, Michael Essien, Sergio Ramos, Sami Khedira, Xabi Alonso, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2301898 | śr., 03.04.2013 | Galatasaray
+PLAYERS: Diego López, Raphaël Varane, Sergio Ramos, Fábio Coentrão, Michael Essien, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2269547 | wt., 27.11.2012 | CD Alcoyano
+PLAYERS: Antonio Adán, Raphaël Varane, Ricardo Carvalho, Nacho Fernández, Raúl Albiol, José Rodríguez, Luka Modrić, Mesut Özil, Denis Cheryshev, José Callejón, Álvaro Morata
+
+MATCH: 2286539 | wt., 15.01.2013 | Valencia CF
+PLAYERS: Iker Casillas, Ricardo Carvalho, Raúl Albiol, Marcelo, Michael Essien, Xabi Alonso, Sami Khedira, Luka Modrić, Cristiano Ronaldo, Mesut Özil, Karim Benzema
+
+MATCH: 2242945 | sob., 20.04.2013 | Real Betis Balompié
+PLAYERS: Diego López, Ricardo Carvalho, Raúl Albiol, Marcelo, Nacho Fernández, Casemiro, Luka Modrić, Mesut Özil, Cristiano Ronaldo, José Callejón, Karim Benzema
+
+MATCH: 2244388 | czw., 23.08.2012 | FC Barcelona
+PLAYERS: Iker Casillas, Sergio Ramos, Raúl Albiol, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, José Callejón, Karim Benzema
+
+MATCH: 2243096 | sob., 02.02.2013 | Granada CF
+PLAYERS: Diego López, Raphaël Varane, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Luka Modrić, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2284451 | wt., 05.03.2013 | Manchester United
+PLAYERS: Diego López, Raphaël Varane, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Mesut Özil, Cristiano Ronaldo, Ángel Di María, Gonzalo Higuaín
+
+MATCH: 2262225 | śr., 21.11.2012 | Manchester City
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Sami Khedira, Luka Modrić, Cristiano Ronaldo, Ángel Di María, Karim Benzema
+
+MATCH: 2242915 | niedz., 11.11.2012 | Levante UD
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Fábio Coentrão, Álvaro Arbeloa, Xabi Alonso, Michael Essien, Mesut Özil, José Callejón, Ángel Di María, Cristiano Ronaldo
+

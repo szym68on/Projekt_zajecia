@@ -1,0 +1,154 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 58771 | sob., 26.05.2007 | Deportivo de La Coruña
+PLAYERS: Iker Casillas, Fabio Cannavaro, Sergio Ramos, Roberto Carlos, Miguel Torres, Mahamadou Diarra, Fernando Gago, David Beckham, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 58535 | niedz., 26.11.2006 | Valencia CF
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Roberto Carlos, Míchel Salgado, Mahamadou Diarra, Emerson, Raúl, José Antonio Reyes, Robinho, Ruud van Nistelrooy
+
+MATCH: 58431 | niedz., 10.09.2006 | Levante UD
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Roberto Carlos, Míchel Salgado, Mahamadou Diarra, Emerson, David Beckham, Raúl, Antonio Cassano, Ruud van Nistelrooy
+
+MATCH: 66500 | wt., 20.02.2007 | Bayern Monachium
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Roberto Carlos, Miguel Torres, Fernando Gago, Guti, David Beckham, Raúl, Ruud van Nistelrooy, Gonzalo Higuaín
+
+MATCH: 58762 | niedz., 20.05.2007 | Recreativo Huelva
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Roberto Carlos, Miguel Torres, Mahamadou Diarra, Fernando Gago, David Beckham, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 58660 | niedz., 04.03.2007 | Getafe CF
+PLAYERS: Iker Casillas, Sergio Ramos, Iván Helguera, Roberto Carlos, Miguel Torres, Fernando Gago, David Beckham, Robinho, José Antonio Reyes, Gonzalo Higuaín, Ruud van Nistelrooy
+
+MATCH: 58490 | sob., 28.10.2006 | Gimnàstic de Tarragona
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Roberto Carlos, Sergio Ramos, Mahamadou Diarra, Emerson, Guti, Raúl, Robinho, Ruud van Nistelrooy
+
+MATCH: 58785 | sob., 09.06.2007 | Real Zaragoza
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Roberto Carlos, Sergio Ramos, Mahamadou Diarra, Emerson, David Beckham, Raúl, Robinho, Ruud van Nistelrooy
+
+MATCH: 2283303 | śr., 25.10.2006 | Écija Balompié
+PLAYERS: Diego López, Francisco Pavón, Álvaro Mejía, Raúl Bravo, Miguel Torres, Mahamadou Diarra, Javi García, David Beckham, José Antonio Reyes, Antonio Cassano, Ronaldo
+
+MATCH: 58591 | niedz., 14.01.2007 | Real Zaragoza
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Raúl Bravo, Miguel Torres, Mahamadou Diarra, Fernando Gago, Raúl, José Antonio Reyes, Gonzalo Higuaín, Ruud van Nistelrooy
+
+MATCH: 58726 | niedz., 29.04.2007 | Athletic Bilbao
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Miguel Torres, Cicinho, Mahamadou Diarra, Emerson, David Beckham, Raúl, Robinho, Ruud van Nistelrooy
+
+MATCH: 66357 | śr., 06.12.2006 | Dynamo Kijów
+PLAYERS: Diego López, Álvaro Mejía, Miguel Torres, Roberto Carlos, Míchel Salgado, Mahamadou Diarra, Rubén de la Red, David Beckham, Miguel Ángel Nieto, Antonio Cassano, Ronaldo
+
+MATCH: 58614 | niedz., 28.01.2007 | Villarreal CF
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Miguel Torres, Sergio Ramos, Fernando Gago, Mahamadou Diarra, Robinho, José Antonio Reyes, Gonzalo Higuaín, Ruud van Nistelrooy
+
+MATCH: 58447 | sob., 23.09.2006 | Real Betis Balompié
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Roberto Carlos, Cicinho, Mahamadou Diarra, Emerson, Guti, José Antonio Reyes, Antonio Cassano, Ruud van Nistelrooy
+
+MATCH: 58572 | śr., 20.12.2006 | Recreativo Huelva
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Roberto Carlos, Míchel Salgado, Emerson, Guti, David Beckham, Raúl, Ronaldo, Ruud van Nistelrooy
+
+MATCH: 64824 | śr., 13.09.2006 | Olympique Lyon
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Roberto Carlos, Cicinho, Mahamadou Diarra, Emerson, David Beckham, Raúl, Antonio Cassano, Ruud van Nistelrooy
+
+MATCH: 58701 | niedz., 08.04.2007 | CA Osasuna
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Miguel Torres, Sergio Ramos, Mahamadou Diarra, Emerson, Robinho, Raúl, Gonzalo Higuaín, Ruud van Nistelrooy
+
+MATCH: 58602 | niedz., 21.01.2007 | RCD Mallorca
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Miguel Torres, Sergio Ramos, Mahamadou Diarra, Fernando Gago, Robinho, José Antonio Reyes, Gonzalo Higuaín, Ruud van Nistelrooy
+
+MATCH: 58421 | niedz., 27.08.2006 | Villarreal CF
+PLAYERS: Iker Casillas, Raúl Bravo, Fabio Cannavaro, Roberto Carlos, Míchel Salgado, Emerson, Mahamadou Diarra, David Beckham, Raúl, Antonio Cassano, Ruud van Nistelrooy
+
+MATCH: 58580 | niedz., 07.01.2007 | Deportivo de La Coruña
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Sergio Ramos, Míchel Salgado, Fernando Gago, Emerson, Guti, Raúl, José Antonio Reyes, Ruud van Nistelrooy
+
+MATCH: 58667 | sob., 10.03.2007 | FC Barcelona
+PLAYERS: Iker Casillas, Sergio Ramos, Iván Helguera, Miguel Torres, Míchel Salgado, Fernando Gago, Mahamadou Diarra, Guti, Gonzalo Higuaín, Raúl, Ruud van Nistelrooy
+
+MATCH: 58501 | niedz., 05.11.2006 | Celta de Vigo
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Roberto Carlos, Sergio Ramos, Mahamadou Diarra, Emerson, Guti, Raúl, Robinho, Ronaldo
+
+MATCH: 66352 | wt., 17.10.2006 | Steaua Bukarest
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Roberto Carlos, Sergio Ramos, Mahamadou Diarra, Emerson, Guti, Raúl, Robinho, Ruud van Nistelrooy
+
+MATCH: 58520 | sob., 18.11.2006 | Racing Santander
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Roberto Carlos, Sergio Ramos, Mahamadou Diarra, Emerson, Guti, José Antonio Reyes, Raúl, Ruud van Nistelrooy
+
+MATCH: 58646 | niedz., 25.02.2007 | Atlético Madryt
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Miguel Torres, Míchel Salgado, Fernando Gago, Emerson, Guti, José Antonio Reyes, Gonzalo Higuaín, Raúl
+
+MATCH: 58485 | niedz., 22.10.2006 | FC Barcelona
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Roberto Carlos, Sergio Ramos, Emerson, Mahamadou Diarra, Guti, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 58680 | niedz., 18.03.2007 | Gimnàstic de Tarragona
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Miguel Torres, Míchel Salgado, Mahamadou Diarra, Guti, Raúl, Gonzalo Higuaín, Antonio Cassano, Ruud van Nistelrooy
+
+MATCH: 58791 | niedz., 17.06.2007 | RCD Mallorca
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Roberto Carlos, Míchel Salgado, Mahamadou Diarra, Emerson, David Beckham, Raúl, Robinho, Ruud van Nistelrooy
+
+MATCH: 58634 | sob., 10.02.2007 | Real Sociedad
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Miguel Torres, Sergio Ramos, Emerson, Fernando Gago, David Beckham, Guti, Raúl, Ruud van Nistelrooy
+
+MATCH: 66355 | wt., 21.11.2006 | Olympique Lyon
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Roberto Carlos, Sergio Ramos, Mahamadou Diarra, Emerson, Guti, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 58459 | niedz., 01.10.2006 | Atlético Madryt
+PLAYERS: Iker Casillas, Fabio Cannavaro, Álvaro Mejía, Roberto Carlos, Sergio Ramos, Mahamadou Diarra, Emerson, Guti, Raúl, José Antonio Reyes, Ruud van Nistelrooy
+
+MATCH: 64839 | wt., 26.09.2006 | Dynamo Kijów
+PLAYERS: Iker Casillas, Fabio Cannavaro, Álvaro Mejía, Roberto Carlos, Sergio Ramos, Emerson, Mahamadou Diarra, Guti, José Antonio Reyes, Raúl, Ruud van Nistelrooy
+
+MATCH: 2283287 | czw., 09.11.2006 | Écija Balompié
+PLAYERS: Diego López, Francisco Pavón, Álvaro Mejía, Raúl Bravo, Sergio Ramos, Mahamadou Diarra, Javi García, David Beckham, José Antonio Reyes, Ronaldo, Ruud van Nistelrooy
+
+MATCH: 58640 | sob., 17.02.2007 | Real Betis Balompié
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Miguel Torres, Sergio Ramos, Emerson, Fernando Gago, David Beckham, Guti, Robinho, Ruud van Nistelrooy
+
+MATCH: 58689 | niedz., 01.04.2007 | Celta de Vigo
+PLAYERS: Iker Casillas, Sergio Ramos, Iván Helguera, Miguel Torres, Míchel Salgado, Fernando Gago, Mahamadou Diarra, Guti, Raúl, Gonzalo Higuaín, Ruud van Nistelrooy
+
+MATCH: 58714 | sob., 14.04.2007 | Racing Santander
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Marcelo, Sergio Ramos, Mahamadou Diarra, Emerson, Robinho, Raúl, Gonzalo Higuaín, Ruud van Nistelrooy
+
+MATCH: 58443 | niedz., 17.09.2006 | Real Sociedad
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Roberto Carlos, Cicinho, Mahamadou Diarra, Emerson, Guti, Raúl, José Antonio Reyes, Ruud van Nistelrooy
+
+MATCH: 67337 | śr., 07.03.2007 | Bayern Monachium
+PLAYERS: Iker Casillas, Sergio Ramos, Iván Helguera, Roberto Carlos, Miguel Torres, Mahamadou Diarra, Fernando Gago, Emerson, Raúl, Ruud van Nistelrooy, Gonzalo Higuaín
+
+MATCH: 58720 | sob., 21.04.2007 | Valencia CF
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Miguel Torres, Míchel Salgado, Fernando Gago, Mahamadou Diarra, Robinho, Raúl, Gonzalo Higuaín, Ruud van Nistelrooy
+
+MATCH: 2283278 | czw., 18.01.2007 | Real Betis Balompié
+PLAYERS: Diego López, Raúl Bravo, Iván Helguera, Miguel Torres, Sergio Ramos, Mahamadou Diarra, Fernando Gago, Robinho, José Antonio Reyes, Ruud van Nistelrooy, Gonzalo Higuaín
+
+MATCH: 58621 | niedz., 04.02.2007 | Levante UD
+PLAYERS: Iker Casillas, Sergio Ramos, Iván Helguera, Miguel Torres, Míchel Salgado, Mahamadou Diarra, Guti, Raúl, José Antonio Reyes, Gonzalo Higuaín, Ruud van Nistelrooy
+
+MATCH: 58512 | niedz., 12.11.2006 | CA Osasuna
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Roberto Carlos, Sergio Ramos, Mahamadou Diarra, Emerson, Guti, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 2283286 | czw., 11.01.2007 | Real Betis Balompié
+PLAYERS: Diego López, Sergio Ramos, Iván Helguera, Roberto Carlos, Miguel Torres, Mahamadou Diarra, Fernando Gago, Robinho, José Antonio Reyes, Ruud van Nistelrooy, Gonzalo Higuaín
+
+MATCH: 58469 | sob., 14.10.2006 | Getafe CF
+PLAYERS: Iker Casillas, Iván Helguera, Álvaro Mejía, Roberto Carlos, Raúl Bravo, Mahamadou Diarra, Emerson, David Beckham, Guti, Antonio Cassano, Ruud van Nistelrooy
+
+MATCH: 58752 | sob., 12.05.2007 | RCD Espanyol
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Roberto Carlos, Cicinho, Mahamadou Diarra, Emerson, Guti, Raúl, Gonzalo Higuaín, Ruud van Nistelrooy
+
+MATCH: 58541 | niedz., 03.12.2006 | Athletic Bilbao
+PLAYERS: Iker Casillas, Sergio Ramos, Álvaro Mejía, Roberto Carlos, Míchel Salgado, Emerson, Mahamadou Diarra, José Antonio Reyes, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 58741 | niedz., 06.05.2007 | Sevilla FC
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Miguel Torres, Cicinho, Mahamadou Diarra, Emerson, David Beckham, Raúl, Robinho, Ruud van Nistelrooy
+
+MATCH: 66353 | śr., 01.11.2006 | Steaua Bukarest
+PLAYERS: Iker Casillas, Fabio Cannavaro, Iván Helguera, Roberto Carlos, Sergio Ramos, Mahamadou Diarra, Emerson, Guti, Raúl, Robinho, Ruud van Nistelrooy
+
+MATCH: 58558 | niedz., 17.12.2006 | RCD Espanyol
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Roberto Carlos, Míchel Salgado, Emerson, Guti, José Antonio Reyes, Robinho, Raúl, Ruud van Nistelrooy
+
+MATCH: 58554 | niedz., 10.12.2006 | Sevilla FC
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Roberto Carlos, Míchel Salgado, Emerson, Guti, David Beckham, Raúl, Ronaldo, Ruud van Nistelrooy
+

@@ -1,0 +1,154 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 920382 | sob., 27.09.2008 | Real Betis Balompié
+PLAYERS: Iker Casillas, Gabriel Heinze, Pepe, Marcelo, Sergio Ramos, Mahamadou Diarra, Rubén de la Red, Rafael van der Vaart, Raúl, Arjen Robben, Ruud van Nistelrooy
+
+MATCH: 920420 | niedz., 02.11.2008 | UD Almería
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Mahamadou Diarra, Fernando Gago, Wesley Sneijder, Raúl, Arjen Robben, Gonzalo Higuaín
+
+MATCH: 920639 | sob., 18.04.2009 | Recreativo Huelva
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Marcelo, Sergio Ramos, Lassana Diarra, Fernando Gago, Raúl, Arjen Robben, Klaas-Jan Huntelaar, Gonzalo Higuaín
+
+MATCH: 920373 | śr., 24.09.2008 | Sporting Gijón
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Marcelo, Miguel Torres, Mahamadou Diarra, Rubén de la Red, Rafael van der Vaart, Raúl, Arjen Robben, Gonzalo Higuaín
+
+MATCH: 920620 | sob., 04.04.2009 | Málaga CF
+PLAYERS: Iker Casillas, Pepe, Christoph Metzelder, Miguel Torres, Sergio Ramos, Fernando Gago, Rafael van der Vaart, Wesley Sneijder, Gonzalo Higuaín, Raúl, Klaas-Jan Huntelaar
+
+MATCH: 923854 | wt., 30.09.2008 | Zenit Petersburg
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Mahamadou Diarra, Rubén de la Red, Rafael van der Vaart, Arjen Robben, Gonzalo Higuaín, Ruud van Nistelrooy
+
+MATCH: 923059 | niedz., 24.08.2008 | Valencia CF
+PLAYERS: Iker Casillas, Gabriel Heinze, Pepe, Miguel Torres, Sergio Ramos, Mahamadou Diarra, Guti, Rafael van der Vaart, Arjen Robben, Raúl, Ruud van Nistelrooy
+
+MATCH: 920458 | sob., 29.11.2008 | Getafe CF
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Miguel Torres, Fernando Gago, Guti, Wesley Sneijder, Royston Drenthe, Javier Saviola, Raúl
+
+MATCH: 923903 | wt., 25.11.2008 | BATE Borysów
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Gabriel Heinze, Miguel Torres, Fernando Gago, Guti, Wesley Sneijder, Royston Drenthe, Javier Saviola, Raúl
+
+MATCH: 920698 | niedz., 24.05.2009 | RCD Mallorca
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Marcelo, Miguel Torres, Lassana Diarra, Rafael van der Vaart, Raúl, Arjen Robben, Klaas-Jan Huntelaar, Gonzalo Higuaín
+
+MATCH: 920439 | sob., 15.11.2008 | Real Valladolid CF
+PLAYERS: Iker Casillas, Gabriel Heinze, Fabio Cannavaro, Marcelo, Sergio Ramos, Fernando Gago, Javi García, Rafael van der Vaart, Guti, Raúl, Gonzalo Higuaín
+
+MATCH: 920667 | sob., 02.05.2009 | FC Barcelona
+PLAYERS: Iker Casillas, Fabio Cannavaro, Christoph Metzelder, Gabriel Heinze, Sergio Ramos, Lassana Diarra, Fernando Gago, Arjen Robben, Marcelo, Raúl, Gonzalo Higuaín
+
+MATCH: 920610 | niedz., 22.03.2009 | UD Almería
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Lassana Diarra, Wesley Sneijder, Marcelo, Arjen Robben, Raúl, Klaas-Jan Huntelaar
+
+MATCH: 920468 | niedz., 07.12.2008 | Sevilla FC
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Marcelo, Míchel Salgado, Fernando Gago, Guti, Rafael van der Vaart, Raúl, Arjen Robben, Gonzalo Higuaín
+
+MATCH: 920563 | niedz., 15.02.2009 | Sporting Gijón
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Lassana Diarra, Fernando Gago, Marcelo, Gonzalo Higuaín, Raúl, Klaas-Jan Huntelaar
+
+MATCH: 920648 | wt., 21.04.2009 | Getafe CF
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Marcelo, Sergio Ramos, Guti, Rafael van der Vaart, Fernando Gago, Gonzalo Higuaín, Raúl, Klaas-Jan Huntelaar
+
+MATCH: 920572 | sob., 21.02.2009 | Real Betis Balompié
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Lassana Diarra, Fernando Gago, Marcelo, Gonzalo Higuaín, Raúl, Klaas-Jan Huntelaar
+
+MATCH: 923743 | śr., 17.09.2008 | BATE Borysów
+PLAYERS: Iker Casillas, Gabriel Heinze, Fabio Cannavaro, Marcelo, Sergio Ramos, Fernando Gago, Guti, Rafael van der Vaart, Arjen Robben, Raúl, Ruud van Nistelrooy
+
+MATCH: 920411 | niedz., 26.10.2008 | Athletic Bilbao
+PLAYERS: Iker Casillas, Gabriel Heinze, Pepe, Marcelo, Míchel Salgado, Fernando Gago, Rafael van der Vaart, Wesley Sneijder, Gonzalo Higuaín, Arjen Robben, Raúl
+
+MATCH: 920449 | sob., 22.11.2008 | Recreativo Huelva
+PLAYERS: Iker Casillas, Pepe, Sergio Ramos, Marcelo, Miguel Torres, Fernando Gago, Guti, Royston Drenthe, Wesley Sneijder, Raúl, Gonzalo Higuaín
+
+MATCH: 920500 | niedz., 04.01.2009 | Villarreal CF
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Lassana Diarra, Fernando Gago, Wesley Sneijder, Arjen Robben, Raúl, Klaas-Jan Huntelaar
+
+MATCH: 920582 | sob., 28.02.2009 | RCD Espanyol
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Lassana Diarra, Wesley Sneijder, Gonzalo Higuaín, Arjen Robben, Raúl, Klaas-Jan Huntelaar
+
+MATCH: 920401 | sob., 18.10.2008 | Atlético Madryt
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Marcelo, Sergio Ramos, Fernando Gago, Rubén de la Red, Wesley Sneijder, Raúl, Gonzalo Higuaín, Ruud van Nistelrooy
+
+MATCH: 920363 | niedz., 21.09.2008 | Racing Santander
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Mahamadou Diarra, Guti, Rubén de la Red, Raúl, Gonzalo Higuaín, Ruud van Nistelrooy
+
+MATCH: 920708 | niedz., 31.05.2009 | CA Osasuna
+PLAYERS: Iker Casillas, Christoph Metzelder, Gary Kagelmacher, Miguel Torres, Míchel Salgado, Lassana Diarra, Rafael van der Vaart, Marcelo, Arjen Robben, Raúl, Gonzalo Higuaín
+
+MATCH: 920346 | niedz., 31.08.2008 | Deportivo de La Coruña
+PLAYERS: Iker Casillas, Gabriel Heinze, Pepe, Marcelo, Sergio Ramos, Mahamadou Diarra, Guti, Gonzalo Higuaín, Arjen Robben, Raúl, Ruud van Nistelrooy
+
+MATCH: 920487 | sob., 20.12.2008 | Valencia CF
+PLAYERS: Iker Casillas, Fabio Cannavaro, Christoph Metzelder, Marcelo, Míchel Salgado, Fernando Gago, Guti, Rafael van der Vaart, Royston Drenthe, Arjen Robben, Gonzalo Higuaín
+
+MATCH: 920544 | sob., 31.01.2009 | CD Numancia
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Lassana Diarra, Fernando Gago, Arjen Robben, Wesley Sneijder, Raúl, Gonzalo Higuaín
+
+MATCH: 923870 | wt., 21.10.2008 | Juventus Turyn
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Fernando Gago, Rafael van der Vaart, Wesley Sneijder, Raúl, Gonzalo Higuaín, Ruud van Nistelrooy
+
+MATCH: 926958 | czw., 30.10.2008 | Real Unión Club
+PLAYERS: Jerzy Dudek, Gabriel Heinze, Christoph Metzelder, Marcelo, Míchel Salgado, Mahamadou Diarra, Guti, Rubén de la Red, Royston Drenthe, Javier Saviola, Gonzalo Higuaín
+
+MATCH: 933253 | wt., 10.03.2009 | FC Liverpool
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Fernando Gago, Lassana Diarra, Arjen Robben, Wesley Sneijder, Raúl, Gonzalo Higuaín
+
+MATCH: 920430 | sob., 08.11.2008 | Málaga CF
+PLAYERS: Iker Casillas, Gabriel Heinze, Fabio Cannavaro, Marcelo, Sergio Ramos, Fernando Gago, Guti, Rafael van der Vaart, Royston Drenthe, Wesley Sneijder, Gonzalo Higuaín
+
+MATCH: 920477 | sob., 13.12.2008 | FC Barcelona
+PLAYERS: Iker Casillas, Fabio Cannavaro, Christoph Metzelder, Sergio Ramos, Míchel Salgado, Fernando Gago, Wesley Sneijder, Royston Drenthe, Guti, Raúl, Gonzalo Higuaín
+
+MATCH: 920687 | sob., 16.05.2009 | Villarreal CF
+PLAYERS: Iker Casillas, Gabriel Heinze, Fabio Cannavaro, Miguel Torres, Sergio Ramos, Javi García, Lassana Diarra, Rafael van der Vaart, Arjen Robben, Raúl, Klaas-Jan Huntelaar
+
+MATCH: 920658 | niedz., 26.04.2009 | Sevilla FC
+PLAYERS: Iker Casillas, Fabio Cannavaro, Christoph Metzelder, Miguel Torres, Sergio Ramos, Lassana Diarra, Fernando Gago, Guti, Marcelo, Raúl, Gonzalo Higuaín
+
+MATCH: 920629 | niedz., 12.04.2009 | Real Valladolid CF
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Miguel Torres, Lassana Diarra, Wesley Sneijder, Raúl, Arjen Robben, Klaas-Jan Huntelaar, Gonzalo Higuaín
+
+MATCH: 923926 | śr., 10.12.2008 | Zenit Petersburg
+PLAYERS: Jerzy Dudek, Sergio Ramos, Fabio Cannavaro, Marcelo, Míchel Salgado, Fernando Gago, Guti, Rafael van der Vaart, Arjen Robben, Raúl, Gonzalo Higuaín
+
+MATCH: 923058 | niedz., 17.08.2008 | Valencia CF
+PLAYERS: Iker Casillas, Miguel Torres, Javi García, Gabriel Heinze, Míchel Salgado, Mahamadou Diarra, Rubén de la Red, Rafael van der Vaart, Raúl, Robinho, Ruud van Nistelrooy
+
+MATCH: 920553 | sob., 07.02.2009 | Racing Santander
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Lassana Diarra, Rafael van der Vaart, Wesley Sneijder, Arjen Robben, Raúl, Gonzalo Higuaín
+
+MATCH: 926974 | wt., 11.11.2008 | Real Unión Club
+PLAYERS: Jerzy Dudek, Fabio Cannavaro, Christoph Metzelder, Marcelo, Míchel Salgado, Fernando Gago, Wesley Sneijder, Rafael van der Vaart, Royston Drenthe, Javier Saviola, Raúl
+
+MATCH: 920508 | niedz., 11.01.2009 | RCD Mallorca
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Lassana Diarra, Fernando Gago, Wesley Sneijder, Arjen Robben, Raúl, Gonzalo Higuaín
+
+MATCH: 923894 | śr., 05.11.2008 | Juventus Turyn
+PLAYERS: Iker Casillas, Gabriel Heinze, Fabio Cannavaro, Marcelo, Sergio Ramos, Mahamadou Diarra, Guti, Wesley Sneijder, Royston Drenthe, Raúl, Ruud van Nistelrooy
+
+MATCH: 920534 | niedz., 25.01.2009 | Deportivo de La Coruña
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Lassana Diarra, Fernando Gago, Wesley Sneijder, Raúl, Arjen Robben, Gonzalo Higuaín
+
+MATCH: 933245 | śr., 25.02.2009 | FC Liverpool
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Fernando Gago, Lassana Diarra, Marcelo, Arjen Robben, Raúl, Gonzalo Higuaín
+
+MATCH: 920591 | sob., 07.03.2009 | Atlético Madryt
+PLAYERS: Iker Casillas, Sergio Ramos, Fabio Cannavaro, Gabriel Heinze, Lassana Diarra, Fernando Gago, Guti, Marcelo, Arjen Robben, Raúl, Klaas-Jan Huntelaar
+
+MATCH: 920601 | sob., 14.03.2009 | Athletic Bilbao
+PLAYERS: Iker Casillas, Pepe, Christoph Metzelder, Gabriel Heinze, Sergio Ramos, Lassana Diarra, Wesley Sneijder, Marcelo, Arjen Robben, Raúl, Klaas-Jan Huntelaar
+
+MATCH: 920677 | sob., 09.05.2009 | Valencia CF
+PLAYERS: Iker Casillas, Fabio Cannavaro, Christoph Metzelder, Gabriel Heinze, Sergio Ramos, Javi García, Fernando Gago, Marcelo, Arjen Robben, Raúl, Gonzalo Higuaín
+
+MATCH: 920518 | niedz., 18.01.2009 | CA Osasuna
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Lassana Diarra, Fernando Gago, Wesley Sneijder, Arjen Robben, Raúl, Gonzalo Higuaín
+
+MATCH: 920392 | niedz., 05.10.2008 | RCD Espanyol
+PLAYERS: Iker Casillas, Pepe, Fabio Cannavaro, Gabriel Heinze, Sergio Ramos, Mahamadou Diarra, Rubén de la Red, Rafael van der Vaart, Gonzalo Higuaín, Raúl, Ruud van Nistelrooy
+
+MATCH: 920354 | niedz., 14.09.2008 | CD Numancia
+PLAYERS: Iker Casillas, Pepe, Christoph Metzelder, Marcelo, Míchel Salgado, Mahamadou Diarra, Guti, Rafael van der Vaart, Gonzalo Higuaín, Arjen Robben, Ruud van Nistelrooy
+

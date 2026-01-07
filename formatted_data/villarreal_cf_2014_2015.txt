@@ -1,0 +1,178 @@
+# Team: Villarreal CF
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2475445 | niedz., 15.03.2015 | UD Almería
+PLAYERS: Sergio Asenjo, Chechu Dorado, Eric Bailly, Jaume Costa, Antonio Rukavina, Sergio Marcos, Tomás Pina, Moi Gómez, Joel Campbell, Giovani dos Santos, Gerard Moreno
+
+MATCH: 2475416 | niedz., 22.02.2015 | SD Eibar
+PLAYERS: Sergio Asenjo, Chechu Dorado, Eric Bailly, Jaume Costa, Antonio Rukavina, Jonathan dos Santos, Sergio Marcos, Moi Gómez, Joel Campbell, Giovani dos Santos, Gerard Moreno
+
+MATCH: 2517538 | czw., 19.02.2015 | Red Bull Salzburg
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Tomás Pina, Manu Trigueros, Jonathan dos Santos, Denis Cheryshev, Luciano Vietto, Ikechukwu Uche
+
+MATCH: 2483417 | czw., 21.08.2014 | FC Astana
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Gabriel Paulista, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Denis Cheryshev, Cani, Giovani dos Santos, Ikechukwu Uche
+
+MATCH: 2492348 | czw., 18.09.2014 | Borussia Mönchengladbach
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Gabriel Paulista, Mario Gaspar, Bruno Soriano, Tomás Pina, Cani, Denis Cheryshev, Moi Gómez, Luciano Vietto
+
+MATCH: 2475350 | sob., 10.01.2015 | Málaga CF
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Gabriel Paulista, Antonio Rukavina, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Cheryshev, Luciano Vietto, Ikechukwu Uche
+
+MATCH: 2475331 | niedz., 21.12.2014 | Deportivo de La Coruña
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Gabriel Paulista, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Cheryshev, Luciano Vietto, Ikechukwu Uche
+
+MATCH: 2538959 | czw., 12.03.2015 | Sevilla FC
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Eric Bailly, Jaume Costa, Mario Gaspar, Jonathan dos Santos, Manu Trigueros, Denis Cheryshev, Moi Gómez, Luciano Vietto, Ikechukwu Uche
+
+MATCH: 2475371 | sob., 24.01.2015 | Levante UD
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Moi Gómez, Luciano Vietto, Ikechukwu Uche
+
+MATCH: 2475207 | niedz., 14.09.2014 | Granada CF
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Gabriel Paulista, Adrián Marín, Mario Gaspar, Bruno Soriano, Manu Trigueros, Javier Espinosa, Moi Gómez, Gerard Moreno, Luciano Vietto
+
+MATCH: 2475550 | sob., 23.05.2015 | Athletic Bilbao
+PLAYERS: Juan Carlos, Víctor Ruiz, Chechu Dorado, Bojan Jokic, Mario Gaspar, Bruno Soriano, Manu Trigueros, Antonio Rukavina, Jaume Costa, Joel Campbell, Gerard Moreno
+
+MATCH: 2492351 | czw., 02.10.2014 | Apollon Limassol
+PLAYERS: Juan Carlos, Víctor Ruiz, Gabriel Paulista, Adrián Marín, Antonio Rukavina, Bruno Soriano, Jonathan dos Santos, Cani, Javier Espinosa, Gerard Moreno, Luciano Vietto
+
+MATCH: 2475454 | niedz., 22.03.2015 | Sevilla FC
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Eric Bailly, Antonio Rukavina, Mario Gaspar, Jonathan dos Santos, Tomás Pina, Joel Campbell, Moi Gómez, Giovani dos Santos, Gerard Moreno
+
+MATCH: 2492354 | czw., 06.11.2014 | FC Zürich
+PLAYERS: Juan Carlos, Víctor Ruiz, Gabriel Paulista, Adrián Marín, Antonio Rukavina, Tomás Pina, Jonathan dos Santos, Javier Espinosa, Moi Gómez, Giovani dos Santos, Gerard Moreno
+
+MATCH: 2475502 | sob., 25.04.2015 | Real Sociedad
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Chechu Dorado, Bojan Jokic, Mario Gaspar, Tomás Pina, Manu Trigueros, Jonathan dos Santos, Jaume Costa, Joel Campbell, Gerard Moreno
+
+MATCH: 2475274 | niedz., 02.11.2014 | Valencia CF
+PLAYERS: Sergio Asenjo, Chechu Dorado, Gabriel Paulista, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Denis Cheryshev, Moi Gómez, Giovani dos Santos, Ikechukwu Uche
+
+MATCH: 2475340 | sob., 03.01.2015 | Elche CF
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Gabriel Paulista, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Denis Cheryshev, Moi Gómez, Luciano Vietto, Ikechukwu Uche
+
+MATCH: 2475397 | sob., 07.02.2015 | Granada CF
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Jaume Costa, Antonio Rukavina, Bruno Soriano, Manu Trigueros, Moi Gómez, Joel Campbell, Gerard Moreno, Ikechukwu Uche
+
+MATCH: 2475530 | niedz., 10.05.2015 | Elche CF
+PLAYERS: Juan Carlos, Chechu Dorado, Eric Bailly, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Joel Campbell, Gerard Moreno, Luciano Vietto
+
+MATCH: 2475226 | śr., 24.09.2014 | SD Eibar
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Gabriel Paulista, Antonio Rukavina, Mario Gaspar, Jonathan dos Santos, Tomás Pina, Denis Cheryshev, Javier Espinosa, Gerard Moreno, Ikechukwu Uche
+
+MATCH: 2492352 | czw., 23.10.2014 | FC Zürich
+PLAYERS: Juan Carlos, Víctor Ruiz, Gabriel Paulista, Adrián Marín, Mario Gaspar, Bruno Soriano, Jonathan dos Santos, Cani, Javier Espinosa, Gerard Moreno, Luciano Vietto
+
+MATCH: 2475360 | sob., 17.01.2015 | Athletic Bilbao
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Gabriel Paulista, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Jonathan dos Santos, Denis Cheryshev, Luciano Vietto, Ikechukwu Uche
+
+MATCH: 2527975 | czw., 29.01.2015 | Getafe CF
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Chechu Dorado, Antonio Rukavina, Mario Gaspar, Tomás Pina, Manu Trigueros, Moi Gómez, Joel Campbell, Gerard Moreno, Ikechukwu Uche
+
+MATCH: 2483447 | czw., 28.08.2014 | FC Astana
+PLAYERS: Juan Carlos, Mateo Musacchio, Gabriel Paulista, Jaume Costa, Mario Gaspar, Tomás Pina, Manu Trigueros, Moi Gómez, Javier Espinosa, Gerard Moreno, Luciano Vietto
+
+MATCH: 2475245 | niedz., 05.10.2014 | Celta de Vigo
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Gabriel Paulista, Adrián Marín, Mario Gaspar, Bruno Soriano, Manu Trigueros, Denis Cheryshev, Moi Gómez, Giovani dos Santos, Ikechukwu Uche
+
+MATCH: 2475483 | niedz., 12.04.2015 | Getafe CF
+PLAYERS: Sergio Asenjo, Chechu Dorado, Eric Bailly, Bojan Jokic, Mario Gaspar, Tomás Pina, Manu Trigueros, Antonio Rukavina, Moi Gómez, Ikechukwu Uche, Gerard Moreno
+
+MATCH: 2532386 | śr., 11.02.2015 | FC Barcelona
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Jonathan dos Santos, Denis Cheryshev, Giovani dos Santos, Luciano Vietto
+
+MATCH: 2475435 | niedz., 08.03.2015 | Celta de Vigo
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Jaume Costa, Antonio Rukavina, Tomás Pina, Sergio Marcos, Moi Gómez, Joel Campbell, Giovani dos Santos, Gerard Moreno
+
+MATCH: 2492356 | czw., 27.11.2014 | Borussia Mönchengladbach
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Gabriel Paulista, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Denis Cheryshev, Cani, Luciano Vietto, Ikechukwu Uche
+
+MATCH: 2475511 | śr., 29.04.2015 | Atlético Madryt
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Eric Bailly, Bojan Jokic, Mario Gaspar, Tomás Pina, Manu Trigueros, Antonio Rukavina, Jaume Costa, Joel Campbell, Gerard Moreno
+
+MATCH: 2492358 | czw., 11.12.2014 | Apollon Limassol
+PLAYERS: Sergio Asenjo, Chechu Dorado, Gabriel Paulista, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Antonio Rukavina, Moi Gómez, Gerard Moreno, Luciano Vietto
+
+MATCH: 2475264 | niedz., 26.10.2014 | Sevilla FC
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Gabriel Paulista, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Moi Gómez, Denis Cheryshev, Giovani dos Santos, Ikechukwu Uche
+
+MATCH: 2527960 | śr., 21.01.2015 | Getafe CF
+PLAYERS: Sergio Asenjo, Chechu Dorado, Gabriel Paulista, Jaume Costa, Mario Gaspar, Tomás Pina, Manu Trigueros, Denis Cheryshev, Antonio Rukavina, Giovani dos Santos, Gerard Moreno
+
+MATCH: 2475426 | niedz., 01.03.2015 | Real Madryt
+PLAYERS: Sergio Asenjo, Chechu Dorado, Eric Bailly, Jaume Costa, Mario Gaspar, Sergio Marcos, Tomás Pina, Moi Gómez, Joel Campbell, Giovani dos Santos, Gerard Moreno
+
+MATCH: 2518525 | śr., 07.01.2015 | Real Sociedad
+PLAYERS: Sergio Asenjo, Chechu Dorado, Gabriel Paulista, Jaume Costa, Mario Gaspar, Jonathan dos Santos, Tomás Pina, Antonio Rukavina, Moi Gómez, Giovani dos Santos, Gerard Moreno
+
+MATCH: 2475521 | sob., 02.05.2015 | Deportivo de La Coruña
+PLAYERS: Juan Carlos, Víctor Ruiz, Eric Bailly, Bojan Jokic, Mario Gaspar, Tomás Pina, Manu Trigueros, Jonathan dos Santos, Jaume Costa, Joel Campbell, Gerard Moreno
+
+MATCH: 2505180 | czw., 04.12.2014 | Cádiz CF
+PLAYERS: Juan Carlos, Chechu Dorado, Israel Puerto, Adrián Marín, Antonio Rukavina, Jonathan dos Santos, Tomás Pina, Matías Nahuel, Javier Espinosa, José Naranjo, Gerard Moreno
+
+MATCH: 2475492 | niedz., 19.04.2015 | Córdoba CF
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Eric Bailly, Jaume Costa, Mario Gaspar, Tomás Pina, Manu Trigueros, Denis Cheryshev, Joel Campbell, Gerard Moreno, Ikechukwu Uche
+
+MATCH: 2475293 | niedz., 23.11.2014 | Getafe CF
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Gabriel Paulista, Jaume Costa, Mario Gaspar, Tomás Pina, Manu Trigueros, Denis Cheryshev, Moi Gómez, Gerard Moreno, Luciano Vietto
+
+MATCH: 2475388 | niedz., 01.02.2015 | FC Barcelona
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Jonathan dos Santos, Denis Cheryshev, Giovani dos Santos, Luciano Vietto
+
+MATCH: 2475181 | niedz., 24.08.2014 | Levante UD
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Gabriel Paulista, Jaume Costa, Antonio Rukavina, Bruno Soriano, Manu Trigueros, Denis Cheryshev, Cani, Ikechukwu Uche, Giovani dos Santos
+
+MATCH: 2538967 | czw., 19.03.2015 | Sevilla FC
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Eric Bailly, Antonio Rukavina, Mario Gaspar, Tomás Pina, Manu Trigueros, Jonathan dos Santos, Joel Campbell, Luciano Vietto, Ikechukwu Uche
+
+MATCH: 2475236 | sob., 27.09.2014 | Real Madryt
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Gabriel Paulista, Mario Gaspar, Bruno Soriano, Manu Trigueros, Moi Gómez, Cani, Luciano Vietto, Ikechukwu Uche
+
+MATCH: 2475540 | niedz., 17.05.2015 | Málaga CF
+PLAYERS: Juan Carlos, Víctor Ruiz, Chechu Dorado, Bojan Jokic, Antonio Rukavina, Bruno Soriano, Manu Trigueros, Jaume Costa, Joel Campbell, Giovani dos Santos, Luciano Vietto
+
+MATCH: 2475321 | niedz., 14.12.2014 | Atlético Madryt
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Gabriel Paulista, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Cheryshev, Luciano Vietto, Ikechukwu Uche
+
+MATCH: 2531147 | czw., 26.02.2015 | Red Bull Salzburg
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Tomás Pina, Manu Trigueros, Jonathan dos Santos, Denis Cheryshev, Luciano Vietto, Ikechukwu Uche
+
+MATCH: 2532388 | śr., 04.03.2015 | FC Barcelona
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Tomás Pina, Manu Trigueros, Jonathan dos Santos, Denis Cheryshev, Luciano Vietto, Ikechukwu Uche
+
+MATCH: 2475198 | niedz., 31.08.2014 | FC Barcelona
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Bruno Soriano, Tomás Pina, Manu Trigueros, Denis Cheryshev, Cani, Giovani dos Santos
+
+MATCH: 2475312 | niedz., 07.12.2014 | Real Sociedad
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Gabriel Paulista, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Cheryshev, Luciano Vietto, Ikechukwu Uche
+
+MATCH: 2475407 | niedz., 15.02.2015 | Rayo Vallecano
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Chechu Dorado, Antonio Rukavina, Mario Gaspar, Sergio Marcos, Tomás Pina, Moi Gómez, Joel Campbell, Giovani dos Santos, Gerard Moreno
+
+MATCH: 2475283 | niedz., 09.11.2014 | RCD Espanyol
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Gabriel Paulista, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Jonathan dos Santos, Denis Cheryshev, Luciano Vietto, Ikechukwu Uche
+
+MATCH: 2475255 | niedz., 19.10.2014 | UD Almería
+PLAYERS: Sergio Asenjo, Chechu Dorado, Gabriel Paulista, Jaume Costa, Mario Gaspar, Bruno Soriano, Manu Trigueros, Cani, Moi Gómez, Giovani dos Santos, Ikechukwu Uche
+
+MATCH: 2475464 | niedz., 05.04.2015 | Valencia CF
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Eric Bailly, Jaume Costa, Mario Gaspar, Tomás Pina, Manu Trigueros, Jonathan dos Santos, Joel Campbell, Gerard Moreno, Luciano Vietto
+
+MATCH: 2475473 | czw., 09.04.2015 | RCD Espanyol
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Mateo Musacchio, Jaume Costa, Mario Gaspar, Tomás Pina, Manu Trigueros, Jonathan dos Santos, Joel Campbell, Giovani dos Santos, Luciano Vietto
+
+MATCH: 2475302 | niedz., 30.11.2014 | Córdoba CF
+PLAYERS: Sergio Asenjo, Víctor Ruiz, Gabriel Paulista, Adrián Marín, Mario Gaspar, Bruno Soriano, Jonathan dos Santos, Antonio Rukavina, Denis Cheryshev, Gerard Moreno, Luciano Vietto
+
+MATCH: 2505201 | śr., 17.12.2014 | Cádiz CF
+PLAYERS: Juan Carlos, Chechu Dorado, Israel Puerto, Jaume Costa, Antonio Rukavina, Tomás Pina, Manu Trigueros, Matías Nahuel, Javier Espinosa, José Naranjo, Gerard Moreno
+
+MATCH: 2475217 | niedz., 21.09.2014 | Rayo Vallecano
+PLAYERS: Sergio Asenjo, Mateo Musacchio, Gabriel Paulista, Adrián Marín, Antonio Rukavina, Bruno Soriano, Manu Trigueros, Cani, Denis Cheryshev, Javier Espinosa, Ikechukwu Uche
+
+MATCH: 2518533 | śr., 14.01.2015 | Real Sociedad
+PLAYERS: Sergio Asenjo, Chechu Dorado, Mateo Musacchio, Jaume Costa, Antonio Rukavina, Tomás Pina, Manu Trigueros, Matías Nahuel, Moi Gómez, Giovani dos Santos, Gerard Moreno
+

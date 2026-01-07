@@ -1,0 +1,190 @@
+# Team: FC Barcelona
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 1036048 | niedz., 29.08.2010 | Racing Santander
+PLAYERS: Víctor Valdés, Gerard Piqué, Éric Abidal, Maxwell, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Andrés Iniesta, Lionel Messi, David Villa
+
+MATCH: 1036396 | sob., 23.04.2011 | CA Osasuna
+PLAYERS: Víctor Valdés, Gabriel Milito, Javier Mascherano, Maxwell, Dani Alves, Sergio Busquets, Seydou Keita, Thiago Alcántara, Ibrahim Afellay, Jeffrén, David Villa
+
+MATCH: 1036110 | sob., 25.09.2010 | Athletic Bilbao
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Adriano, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Andrés Iniesta, Pedro, David Villa
+
+MATCH: 1050114 | śr., 20.10.2010 | FC Kopenhaga
+PLAYERS: José Manuel Pinto, Gerard Piqué, Carles Puyol, Éric Abidal, Javier Mascherano, Sergio Busquets, Dani Alves, Maxwell, Andrés Iniesta, Lionel Messi, David Villa
+
+MATCH: 1036310 | niedz., 20.02.2011 | Athletic Bilbao
+PLAYERS: José Manuel Pinto, Gerard Piqué, Sergio Busquets, Éric Abidal, Dani Alves, Javier Mascherano, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1093390 | wt., 03.05.2011 | Real Madryt
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Carles Puyol, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1074400 | śr., 26.01.2011 | UD Almería
+PLAYERS: José Manuel Pinto, Gerard Piqué, Éric Abidal, Maxwell, Adriano, Javier Mascherano, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036214 | niedz., 12.12.2010 | Real Sociedad
+PLAYERS: Víctor Valdés, Carles Puyol, Éric Abidal, Maxwell, Dani Alves, Javier Mascherano, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036450 | sob., 21.05.2011 | Málaga CF
+PLAYERS: José Manuel Pinto, Marc Bartra, Éric Abidal, Maxwell, Adriano, Andreu Fontàs, Sergi Roberto, Thiago Alcántara, Ibrahim Afellay, Jeffrén, Bojan Krkic
+
+MATCH: 1064188 | wt., 21.12.2010 | Athletic Bilbao
+PLAYERS: José Manuel Pinto, Gerard Piqué, Éric Abidal, Maxwell, Dani Alves, Javier Mascherano, Seydou Keita, Xavi, Andrés Iniesta, Pedro, Bojan Krkic
+
+MATCH: 1036363 | sob., 02.04.2011 | Villarreal CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Sergio Busquets, Adriano, Dani Alves, Javier Mascherano, Seydou Keita, Thiago Alcántara, Andrés Iniesta, Ibrahim Afellay, David Villa
+
+MATCH: 1036385 | sob., 16.04.2011 | Real Madryt
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Adriano, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036417 | niedz., 08.05.2011 | RCD Espanyol
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Andreu Fontàs, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036354 | sob., 19.03.2011 | Getafe CF
+PLAYERS: Víctor Valdés, Gabriel Milito, Gerard Piqué, Adriano, Dani Alves, Javier Mascherano, Andrés Iniesta, Xavi, Bojan Krkic, Lionel Messi, David Villa
+
+MATCH: 1050074 | wt., 14.09.2010 | Panathinaikos FC
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036185 | sob., 20.11.2010 | UD Almería
+PLAYERS: Víctor Valdés, Andreu Fontàs, Carles Puyol, Maxwell, Dani Alves, Javier Mascherano, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036132 | sob., 16.10.2010 | Valencia CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Maxwell, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, David Villa, Andrés Iniesta, Lionel Messi
+
+MATCH: 1036112 | niedz., 03.10.2010 | RCD Mallorca
+PLAYERS: Víctor Valdés, Gabriel Milito, Gerard Piqué, Éric Abidal, Dani Alves, Javier Mascherano, Seydou Keita, Andrés Iniesta, Bojan Krkic, Pedro, Lionel Messi
+
+MATCH: 1036427 | śr., 11.05.2011 | Levante UD
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Éric Abidal, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, David Villa, Ibrahim Afellay, Lionel Messi
+
+MATCH: 1083668 | wt., 08.03.2011 | FC Arsenal
+PLAYERS: Víctor Valdés, Éric Abidal, Javier Mascherano, Adriano, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036143 | sob., 23.10.2010 | Real Zaragoza
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Seydou Keita, Andrés Iniesta, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036279 | sob., 29.01.2011 | Hércules CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Éric Abidal, Maxwell, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036322 | śr., 02.03.2011 | Valencia CF
+PLAYERS: José Manuel Pinto, Gerard Piqué, Éric Abidal, Sergio Busquets, Javier Mascherano, Andrés Iniesta, Xavi, Dani Alves, Adriano, Lionel Messi, David Villa
+
+MATCH: 1055164 | śr., 10.11.2010 | Club Atlético de Ceuta
+PLAYERS: José Manuel Pinto, Gabriel Milito, Marc Bartra, Maxwell, Adriano, Javier Mascherano, Seydou Keita, Thiago Alcántara, Nolito, Pedro, Bojan Krkic
+
+MATCH: 1036079 | sob., 11.09.2010 | Hércules CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Éric Abidal, Maxwell, Adriano, Javier Mascherano, Seydou Keita, Andrés Iniesta, Bojan Krkic, Lionel Messi, David Villa
+
+MATCH: 1050123 | wt., 02.11.2010 | FC Kopenhaga
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Andrés Iniesta, Lionel Messi, David Villa
+
+MATCH: 1036095 | śr., 22.09.2010 | Sporting Gijón
+PLAYERS: Víctor Valdés, Gabriel Milito, Carles Puyol, Maxwell, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Andrés Iniesta, Bojan Krkic, David Villa
+
+MATCH: 1036269 | sob., 22.01.2011 | Racing Santander
+PLAYERS: Víctor Valdés, Carles Puyol, Éric Abidal, Maxwell, Adriano, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036333 | sob., 05.03.2011 | Real Zaragoza
+PLAYERS: Víctor Valdés, Gabriel Milito, Gerard Piqué, Maxwell, Dani Alves, Javier Mascherano, Seydou Keita, Xavi, Pedro, Lionel Messi, Bojan Krkic
+
+MATCH: 1030720 | sob., 21.08.2010 | Sevilla FC
+PLAYERS: Víctor Valdés, Gerard Piqué, Éric Abidal, Maxwell, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Pedro, Lionel Messi, Bojan Krkic
+
+MATCH: 1076632 | śr., 20.04.2011 | Real Madryt
+PLAYERS: José Manuel Pinto, Gerard Piqué, Javier Mascherano, Adriano, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1050147 | śr., 24.11.2010 | Panathinaikos FC
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Adriano, Dani Alves, Javier Mascherano, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036173 | sob., 13.11.2010 | Villarreal CF
+PLAYERS: Víctor Valdés, Carles Puyol, Éric Abidal, Maxwell, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036295 | sob., 12.02.2011 | Sporting Gijón
+PLAYERS: Víctor Valdés, Gabriel Milito, Gerard Piqué, Maxwell, Dani Alves, Javier Mascherano, Andrés Iniesta, Xavi, David Villa, Ibrahim Afellay, Lionel Messi
+
+MATCH: 1069436 | śr., 16.02.2011 | FC Arsenal
+PLAYERS: Víctor Valdés, Gerard Piqué, Éric Abidal, Maxwell, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1050156 | wt., 07.12.2010 | Rubin Kazań
+PLAYERS: José Manuel Pinto, Andreu Fontàs, Gerard Piqué, Javier Mascherano, Sergio Busquets, Thiago Alcántara, Jeffrén, Maxwell, Adriano, Jonathan dos Santos, Bojan Krkic
+
+MATCH: 1064204 | śr., 05.01.2011 | Athletic Bilbao
+PLAYERS: José Manuel Pinto, Gerard Piqué, Éric Abidal, Adriano, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1072030 | śr., 19.01.2011 | Real Betis Balompié
+PLAYERS: José Manuel Pinto, Gabriel Milito, Gerard Piqué, Maxwell, Adriano, Javier Mascherano, Seydou Keita, Xavi, Ibrahim Afellay, Lionel Messi, Bojan Krkic
+
+MATCH: 1102390 | sob., 28.05.2011 | Manchester United
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Pedro, David Villa, Lionel Messi
+
+MATCH: 1036248 | sob., 08.01.2011 | Deportivo de La Coruña
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Adriano, Javier Mascherano, Seydou Keita, Andrés Iniesta, David Villa, Pedro, Lionel Messi
+
+MATCH: 1055148 | wt., 26.10.2010 | Club Atlético de Ceuta
+PLAYERS: José Manuel Pinto, Andreu Fontàs, Marc Bartra, Maxwell, Adriano, Javier Mascherano, Seydou Keita, Thiago Alcántara, Jeffrén, Pedro, Bojan Krkic
+
+MATCH: 1036283 | sob., 05.02.2011 | Atlético Madryt
+PLAYERS: Víctor Valdés, Gerard Piqué, Éric Abidal, Maxwell, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1072026 | śr., 12.01.2011 | Real Betis Balompié
+PLAYERS: José Manuel Pinto, Gerard Piqué, Carles Puyol, Maxwell, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1030719 | sob., 14.08.2010 | Sevilla FC
+PLAYERS: Rubén Miño, Gabriel Milito, Sergi Gómez, Éric Abidal, Dani Alves, Oriol Romeu, Jonathan dos Santos, Seydou Keita, Maxwell, Bojan Krkic, Zlatan Ibrahimović
+
+MATCH: 1036206 | sob., 04.12.2010 | CA Osasuna
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036375 | sob., 09.04.2011 | UD Almería
+PLAYERS: José Manuel Pinto, Gabriel Milito, Gerard Piqué, Maxwell, Dani Alves, Javier Mascherano, Xavi, Thiago Alcántara, Andrés Iniesta, Bojan Krkic, Lionel Messi
+
+MATCH: 1088516 | wt., 12.04.2011 | Szachtar Donieck
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Adriano, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Ibrahim Afellay, David Villa, Lionel Messi
+
+MATCH: 1088512 | śr., 06.04.2011 | Szachtar Donieck
+PLAYERS: Víctor Valdés, Gerard Piqué, Sergio Busquets, Adriano, Dani Alves, Javier Mascherano, Seydou Keita, Xavi, Andrés Iniesta, David Villa, Lionel Messi
+
+MATCH: 1050098 | śr., 29.09.2010 | Rubin Kazań
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Maxwell, Dani Alves, Javier Mascherano, Sergio Busquets, Xavi, Andrés Iniesta, Pedro, David Villa
+
+MATCH: 1036164 | niedz., 07.11.2010 | Getafe CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Maxwell, Dani Alves, Javier Mascherano, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036237 | niedz., 02.01.2011 | Levante UD
+PLAYERS: Víctor Valdés, Éric Abidal, Sergio Busquets, Maxwell, Dani Alves, Javier Mascherano, Andrés Iniesta, Xavi, David Villa, Pedro, Bojan Krkic
+
+MATCH: 1036195 | pon., 29.11.2010 | Real Madryt
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036312 | sob., 26.02.2011 | RCD Mallorca
+PLAYERS: José Manuel Pinto, Gerard Piqué, Éric Abidal, Maxwell, Adriano, Sergio Busquets, Seydou Keita, Andrés Iniesta, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036253 | niedz., 16.01.2011 | Málaga CF
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036227 | sob., 18.12.2010 | RCD Espanyol
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+
+MATCH: 1036343 | niedz., 13.03.2011 | Sevilla FC
+PLAYERS: Víctor Valdés, Gerard Piqué, Éric Abidal, Adriano, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Pedro, Lionel Messi, David Villa
+
+MATCH: 1093389 | śr., 27.04.2011 | Real Madryt
+PLAYERS: Víctor Valdés, Gerard Piqué, Javier Mascherano, Carles Puyol, Dani Alves, Sergio Busquets, Seydou Keita, Xavi, Pedro, David Villa, Lionel Messi
+
+MATCH: 1036404 | sob., 30.04.2011 | Real Sociedad
+PLAYERS: José Manuel Pinto, Gabriel Milito, Gerard Piqué, Andreu Fontàs, Martín Montoya, Seydou Keita, Xavi, Thiago Alcántara, Ibrahim Afellay, Jeffrén, Lionel Messi
+
+MATCH: 1074402 | śr., 02.02.2011 | UD Almería
+PLAYERS: José Manuel Pinto, Gabriel Milito, Sergio Busquets, Adriano, Dani Alves, Javier Mascherano, Seydou Keita, Thiago Alcántara, Nolito, Ibrahim Afellay, Bojan Krkic
+
+MATCH: 1036438 | niedz., 15.05.2011 | Deportivo de La Coruña
+PLAYERS: Víctor Valdés, Andreu Fontàs, Javier Mascherano, Éric Abidal, Marc Bartra, Seydou Keita, Jonathan dos Santos, Thiago Alcántara, Ibrahim Afellay, Jeffrén, Bojan Krkic
+
+MATCH: 1036153 | sob., 30.10.2010 | Sevilla FC
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Éric Abidal, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, Pedro, David Villa, Lionel Messi
+
+MATCH: 1036083 | niedz., 19.09.2010 | Atlético Madryt
+PLAYERS: Víctor Valdés, Gerard Piqué, Carles Puyol, Maxwell, Dani Alves, Sergio Busquets, Andrés Iniesta, Xavi, David Villa, Pedro, Lionel Messi
+

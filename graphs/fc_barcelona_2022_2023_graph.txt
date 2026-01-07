@@ -1,0 +1,270 @@
+# Graph for Java/GraphStream
+# Nodes: 24
+# Edges: 264
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Marc-André ter Stegen | Ronald Araujo | 28 | 49 | 29
+EDGE Marc-André ter Stegen | Andreas Christensen | 27 | 49 | 27
+EDGE Marc-André ter Stegen | Alejandro Balde | 35 | 49 | 35
+EDGE Marc-André ter Stegen | Jules Koundé | 37 | 49 | 38
+EDGE Marc-André ter Stegen | Sergio Busquets | 37 | 49 | 38
+EDGE Marc-André ter Stegen | Pedri | 30 | 49 | 30
+EDGE Marc-André ter Stegen | Frenkie de Jong | 36 | 49 | 36
+EDGE Marc-André ter Stegen | Gavi | 38 | 49 | 39
+EDGE Marc-André ter Stegen | Ousmane Dembélé | 24 | 49 | 25
+EDGE Marc-André ter Stegen | Ansu Fati | 13 | 49 | 14
+EDGE Marc-André ter Stegen | Marcos Alonso | 18 | 49 | 20
+EDGE Marc-André ter Stegen | Ferran Torres | 15 | 49 | 18
+EDGE Marc-André ter Stegen | Raphinha | 32 | 49 | 34
+EDGE Marc-André ter Stegen | Robert Lewandowski | 43 | 49 | 44
+EDGE Marc-André ter Stegen | Eric García | 17 | 49 | 18
+EDGE Marc-André ter Stegen | Sergi Roberto | 21 | 49 | 22
+EDGE Marc-André ter Stegen | Héctor Bellerín | 2 | 49 | 5
+EDGE Marc-André ter Stegen | Franck Kessié | 12 | 49 | 15
+EDGE Marc-André ter Stegen | Jordi Alba | 17 | 49 | 20
+EDGE Marc-André ter Stegen | Gerard Piqué | 5 | 49 | 6
+EDGE Marc-André ter Stegen | Pablo Torre | 1 | 49 | 4
+EDGE Marc-André ter Stegen | Memphis Depay | 2 | 49 | 3
+EDGE Ronald Araujo | Andreas Christensen | 14 | 29 | 27
+EDGE Ronald Araujo | Alejandro Balde | 21 | 29 | 35
+EDGE Ronald Araujo | Jules Koundé | 26 | 29 | 38
+EDGE Ronald Araujo | Sergio Busquets | 23 | 29 | 38
+EDGE Ronald Araujo | Pedri | 17 | 29 | 30
+EDGE Ronald Araujo | Frenkie de Jong | 20 | 29 | 36
+EDGE Ronald Araujo | Gavi | 25 | 29 | 39
+EDGE Ronald Araujo | Ousmane Dembélé | 12 | 29 | 25
+EDGE Ronald Araujo | Ansu Fati | 5 | 29 | 14
+EDGE Ronald Araujo | Marcos Alonso | 8 | 29 | 20
+EDGE Ronald Araujo | Ferran Torres | 8 | 29 | 18
+EDGE Ronald Araujo | Raphinha | 22 | 29 | 34
+EDGE Ronald Araujo | Robert Lewandowski | 23 | 29 | 44
+EDGE Ronald Araujo | Eric García | 8 | 29 | 18
+EDGE Ronald Araujo | Sergi Roberto | 8 | 29 | 22
+EDGE Ronald Araujo | Iñaki Peña | 1 | 29 | 3
+EDGE Ronald Araujo | Jordi Alba | 7 | 29 | 20
+EDGE Ronald Araujo | Héctor Bellerín | 2 | 29 | 5
+EDGE Ronald Araujo | Franck Kessié | 7 | 29 | 15
+EDGE Ronald Araujo | Pablo Torre | 1 | 29 | 4
+EDGE Ronald Araujo | Memphis Depay | 3 | 29 | 3
+EDGE Ronald Araujo | Gerard Piqué | 1 | 29 | 6
+EDGE Andreas Christensen | Alejandro Balde | 19 | 27 | 35
+EDGE Andreas Christensen | Jules Koundé | 19 | 27 | 38
+EDGE Andreas Christensen | Sergio Busquets | 21 | 27 | 38
+EDGE Andreas Christensen | Pedri | 16 | 27 | 30
+EDGE Andreas Christensen | Frenkie de Jong | 22 | 27 | 36
+EDGE Andreas Christensen | Gavi | 21 | 27 | 39
+EDGE Andreas Christensen | Ousmane Dembélé | 13 | 27 | 25
+EDGE Andreas Christensen | Ansu Fati | 8 | 27 | 14
+EDGE Andreas Christensen | Eric García | 7 | 27 | 18
+EDGE Andreas Christensen | Sergi Roberto | 12 | 27 | 22
+EDGE Andreas Christensen | Ferran Torres | 7 | 27 | 18
+EDGE Andreas Christensen | Robert Lewandowski | 24 | 27 | 44
+EDGE Andreas Christensen | Jordi Alba | 9 | 27 | 20
+EDGE Andreas Christensen | Raphinha | 17 | 27 | 34
+EDGE Andreas Christensen | Franck Kessié | 6 | 27 | 15
+EDGE Andreas Christensen | Marcos Alonso | 6 | 27 | 20
+EDGE Andreas Christensen | Pablo Torre | 1 | 27 | 4
+EDGE Andreas Christensen | Gerard Piqué | 1 | 27 | 6
+EDGE Alejandro Balde | Jules Koundé | 28 | 35 | 38
+EDGE Alejandro Balde | Sergio Busquets | 30 | 35 | 38
+EDGE Alejandro Balde | Pedri | 20 | 35 | 30
+EDGE Alejandro Balde | Frenkie de Jong | 27 | 35 | 36
+EDGE Alejandro Balde | Gavi | 26 | 35 | 39
+EDGE Alejandro Balde | Ousmane Dembélé | 17 | 35 | 25
+EDGE Alejandro Balde | Ansu Fati | 8 | 35 | 14
+EDGE Alejandro Balde | Marcos Alonso | 9 | 35 | 20
+EDGE Alejandro Balde | Ferran Torres | 11 | 35 | 18
+EDGE Alejandro Balde | Raphinha | 22 | 35 | 34
+EDGE Alejandro Balde | Robert Lewandowski | 30 | 35 | 44
+EDGE Alejandro Balde | Eric García | 10 | 35 | 18
+EDGE Alejandro Balde | Sergi Roberto | 12 | 35 | 22
+EDGE Alejandro Balde | Héctor Bellerín | 2 | 35 | 5
+EDGE Alejandro Balde | Franck Kessié | 8 | 35 | 15
+EDGE Alejandro Balde | Jordi Alba | 8 | 35 | 20
+EDGE Alejandro Balde | Gerard Piqué | 4 | 35 | 6
+EDGE Alejandro Balde | Pablo Torre | 1 | 35 | 4
+EDGE Alejandro Balde | Memphis Depay | 2 | 35 | 3
+EDGE Jules Koundé | Sergio Busquets | 29 | 38 | 38
+EDGE Jules Koundé | Pedri | 22 | 38 | 30
+EDGE Jules Koundé | Frenkie de Jong | 29 | 38 | 36
+EDGE Jules Koundé | Gavi | 28 | 38 | 39
+EDGE Jules Koundé | Ousmane Dembélé | 18 | 38 | 25
+EDGE Jules Koundé | Ansu Fati | 11 | 38 | 14
+EDGE Jules Koundé | Marcos Alonso | 11 | 38 | 20
+EDGE Jules Koundé | Ferran Torres | 10 | 38 | 18
+EDGE Jules Koundé | Raphinha | 25 | 38 | 34
+EDGE Jules Koundé | Robert Lewandowski | 32 | 38 | 44
+EDGE Jules Koundé | Eric García | 11 | 38 | 18
+EDGE Jules Koundé | Sergi Roberto | 16 | 38 | 22
+EDGE Jules Koundé | Héctor Bellerín | 2 | 38 | 5
+EDGE Jules Koundé | Franck Kessié | 11 | 38 | 15
+EDGE Jules Koundé | Jordi Alba | 11 | 38 | 20
+EDGE Jules Koundé | Iñaki Peña | 1 | 38 | 3
+EDGE Jules Koundé | Pablo Torre | 1 | 38 | 4
+EDGE Jules Koundé | Memphis Depay | 2 | 38 | 3
+EDGE Sergio Busquets | Pedri | 22 | 38 | 30
+EDGE Sergio Busquets | Frenkie de Jong | 25 | 38 | 36
+EDGE Sergio Busquets | Gavi | 29 | 38 | 39
+EDGE Sergio Busquets | Ousmane Dembélé | 21 | 38 | 25
+EDGE Sergio Busquets | Ansu Fati | 8 | 38 | 14
+EDGE Sergio Busquets | Marcos Alonso | 11 | 38 | 20
+EDGE Sergio Busquets | Ferran Torres | 10 | 38 | 18
+EDGE Sergio Busquets | Raphinha | 26 | 38 | 34
+EDGE Sergio Busquets | Robert Lewandowski | 31 | 38 | 44
+EDGE Sergio Busquets | Eric García | 11 | 38 | 18
+EDGE Sergio Busquets | Sergi Roberto | 13 | 38 | 22
+EDGE Sergio Busquets | Héctor Bellerín | 3 | 38 | 5
+EDGE Sergio Busquets | Franck Kessié | 9 | 38 | 15
+EDGE Sergio Busquets | Jordi Alba | 12 | 38 | 20
+EDGE Sergio Busquets | Gerard Piqué | 5 | 38 | 6
+EDGE Sergio Busquets | Iñaki Peña | 1 | 38 | 3
+EDGE Sergio Busquets | Pablo Torre | 1 | 38 | 4
+EDGE Sergio Busquets | Memphis Depay | 2 | 38 | 3
+EDGE Pedri | Frenkie de Jong | 22 | 30 | 36
+EDGE Pedri | Gavi | 23 | 30 | 39
+EDGE Pedri | Ousmane Dembélé | 20 | 30 | 25
+EDGE Pedri | Ansu Fati | 6 | 30 | 14
+EDGE Pedri | Marcos Alonso | 11 | 30 | 20
+EDGE Pedri | Ferran Torres | 6 | 30 | 18
+EDGE Pedri | Raphinha | 18 | 30 | 34
+EDGE Pedri | Robert Lewandowski | 28 | 30 | 44
+EDGE Pedri | Eric García | 10 | 30 | 18
+EDGE Pedri | Sergi Roberto | 9 | 30 | 22
+EDGE Pedri | Héctor Bellerín | 1 | 30 | 5
+EDGE Pedri | Franck Kessié | 4 | 30 | 15
+EDGE Pedri | Gerard Piqué | 3 | 30 | 6
+EDGE Pedri | Jordi Alba | 11 | 30 | 20
+EDGE Pedri | Memphis Depay | 1 | 30 | 3
+EDGE Frenkie de Jong | Gavi | 25 | 36 | 39
+EDGE Frenkie de Jong | Ousmane Dembélé | 16 | 36 | 25
+EDGE Frenkie de Jong | Ansu Fati | 9 | 36 | 14
+EDGE Frenkie de Jong | Marcos Alonso | 12 | 36 | 20
+EDGE Frenkie de Jong | Ferran Torres | 13 | 36 | 18
+EDGE Frenkie de Jong | Raphinha | 21 | 36 | 34
+EDGE Frenkie de Jong | Robert Lewandowski | 31 | 36 | 44
+EDGE Frenkie de Jong | Eric García | 10 | 36 | 18
+EDGE Frenkie de Jong | Sergi Roberto | 14 | 36 | 22
+EDGE Frenkie de Jong | Héctor Bellerín | 2 | 36 | 5
+EDGE Frenkie de Jong | Franck Kessié | 9 | 36 | 15
+EDGE Frenkie de Jong | Jordi Alba | 12 | 36 | 20
+EDGE Frenkie de Jong | Gerard Piqué | 2 | 36 | 6
+EDGE Frenkie de Jong | Pablo Torre | 1 | 36 | 4
+EDGE Frenkie de Jong | Memphis Depay | 2 | 36 | 3
+EDGE Gavi | Ousmane Dembélé | 16 | 39 | 25
+EDGE Gavi | Ansu Fati | 11 | 39 | 14
+EDGE Gavi | Marcos Alonso | 15 | 39 | 20
+EDGE Gavi | Ferran Torres | 12 | 39 | 18
+EDGE Gavi | Raphinha | 28 | 39 | 34
+EDGE Gavi | Robert Lewandowski | 33 | 39 | 44
+EDGE Gavi | Eric García | 13 | 39 | 18
+EDGE Gavi | Sergi Roberto | 16 | 39 | 22
+EDGE Gavi | Jordi Alba | 13 | 39 | 20
+EDGE Gavi | Pablo Torre | 2 | 39 | 4
+EDGE Gavi | Iñaki Peña | 1 | 39 | 3
+EDGE Gavi | Gerard Piqué | 5 | 39 | 6
+EDGE Gavi | Héctor Bellerín | 2 | 39 | 5
+EDGE Gavi | Franck Kessié | 7 | 39 | 15
+EDGE Gavi | Memphis Depay | 1 | 39 | 3
+EDGE Ousmane Dembélé | Ansu Fati | 7 | 25 | 14
+EDGE Ousmane Dembélé | Eric García | 11 | 25 | 18
+EDGE Ousmane Dembélé | Sergi Roberto | 7 | 25 | 22
+EDGE Ousmane Dembélé | Robert Lewandowski | 21 | 25 | 44
+EDGE Ousmane Dembélé | Marcos Alonso | 7 | 25 | 20
+EDGE Ousmane Dembélé | Héctor Bellerín | 2 | 25 | 5
+EDGE Ousmane Dembélé | Franck Kessié | 6 | 25 | 15
+EDGE Ousmane Dembélé | Jordi Alba | 10 | 25 | 20
+EDGE Ousmane Dembélé | Raphinha | 11 | 25 | 34
+EDGE Ousmane Dembélé | Gerard Piqué | 3 | 25 | 6
+EDGE Ousmane Dembélé | Ferran Torres | 4 | 25 | 18
+EDGE Ousmane Dembélé | Iñaki Peña | 1 | 25 | 3
+EDGE Ousmane Dembélé | Pablo Torre | 1 | 25 | 4
+EDGE Ousmane Dembélé | Memphis Depay | 2 | 25 | 3
+EDGE Ansu Fati | Eric García | 5 | 14 | 18
+EDGE Ansu Fati | Sergi Roberto | 8 | 14 | 22
+EDGE Ansu Fati | Raphinha | 6 | 14 | 34
+EDGE Ansu Fati | Robert Lewandowski | 9 | 14 | 44
+EDGE Ansu Fati | Ferran Torres | 5 | 14 | 18
+EDGE Ansu Fati | Jordi Alba | 8 | 14 | 20
+EDGE Ansu Fati | Franck Kessié | 3 | 14 | 15
+EDGE Ansu Fati | Marcos Alonso | 5 | 14 | 20
+EDGE Ansu Fati | Iñaki Peña | 1 | 14 | 3
+EDGE Ansu Fati | Gerard Piqué | 2 | 14 | 6
+EDGE Ansu Fati | Héctor Bellerín | 1 | 14 | 5
+EDGE Ansu Fati | Pablo Torre | 1 | 14 | 4
+EDGE Marcos Alonso | Ferran Torres | 11 | 20 | 18
+EDGE Marcos Alonso | Raphinha | 15 | 20 | 34
+EDGE Marcos Alonso | Robert Lewandowski | 17 | 20 | 44
+EDGE Marcos Alonso | Héctor Bellerín | 3 | 20 | 5
+EDGE Marcos Alonso | Franck Kessié | 7 | 20 | 15
+EDGE Marcos Alonso | Gerard Piqué | 4 | 20 | 6
+EDGE Marcos Alonso | Jordi Alba | 9 | 20 | 20
+EDGE Marcos Alonso | Sergi Roberto | 9 | 20 | 22
+EDGE Marcos Alonso | Iñaki Peña | 2 | 20 | 3
+EDGE Marcos Alonso | Eric García | 7 | 20 | 18
+EDGE Marcos Alonso | Pablo Torre | 3 | 20 | 4
+EDGE Ferran Torres | Raphinha | 10 | 18 | 34
+EDGE Ferran Torres | Robert Lewandowski | 13 | 18 | 44
+EDGE Ferran Torres | Eric García | 6 | 18 | 18
+EDGE Ferran Torres | Sergi Roberto | 8 | 18 | 22
+EDGE Ferran Torres | Gerard Piqué | 4 | 18 | 6
+EDGE Ferran Torres | Jordi Alba | 9 | 18 | 20
+EDGE Ferran Torres | Iñaki Peña | 3 | 18 | 3
+EDGE Ferran Torres | Héctor Bellerín | 4 | 18 | 5
+EDGE Ferran Torres | Franck Kessié | 6 | 18 | 15
+EDGE Ferran Torres | Pablo Torre | 3 | 18 | 4
+EDGE Ferran Torres | Memphis Depay | 2 | 18 | 3
+EDGE Raphinha | Robert Lewandowski | 28 | 34 | 44
+EDGE Raphinha | Eric García | 11 | 34 | 18
+EDGE Raphinha | Sergi Roberto | 16 | 34 | 22
+EDGE Raphinha | Iñaki Peña | 2 | 34 | 3
+EDGE Raphinha | Jordi Alba | 10 | 34 | 20
+EDGE Raphinha | Héctor Bellerín | 3 | 34 | 5
+EDGE Raphinha | Franck Kessié | 9 | 34 | 15
+EDGE Raphinha | Pablo Torre | 3 | 34 | 4
+EDGE Raphinha | Gerard Piqué | 4 | 34 | 6
+EDGE Raphinha | Memphis Depay | 1 | 34 | 3
+EDGE Robert Lewandowski | Eric García | 17 | 44 | 18
+EDGE Robert Lewandowski | Sergi Roberto | 20 | 44 | 22
+EDGE Robert Lewandowski | Héctor Bellerín | 2 | 44 | 5
+EDGE Robert Lewandowski | Franck Kessié | 12 | 44 | 15
+EDGE Robert Lewandowski | Jordi Alba | 18 | 44 | 20
+EDGE Robert Lewandowski | Gerard Piqué | 4 | 44 | 6
+EDGE Robert Lewandowski | Iñaki Peña | 1 | 44 | 3
+EDGE Robert Lewandowski | Pablo Torre | 2 | 44 | 4
+EDGE Robert Lewandowski | Memphis Depay | 1 | 44 | 3
+EDGE Eric García | Sergi Roberto | 11 | 18 | 22
+EDGE Eric García | Jordi Alba | 5 | 18 | 20
+EDGE Eric García | Iñaki Peña | 1 | 18 | 3
+EDGE Eric García | Héctor Bellerín | 1 | 18 | 5
+EDGE Eric García | Franck Kessié | 4 | 18 | 15
+EDGE Eric García | Pablo Torre | 2 | 18 | 4
+EDGE Eric García | Gerard Piqué | 1 | 18 | 6
+EDGE Eric García | Memphis Depay | 1 | 18 | 3
+EDGE Sergi Roberto | Jordi Alba | 8 | 22 | 20
+EDGE Sergi Roberto | Franck Kessié | 7 | 22 | 15
+EDGE Sergi Roberto | Iñaki Peña | 1 | 22 | 3
+EDGE Sergi Roberto | Héctor Bellerín | 1 | 22 | 5
+EDGE Sergi Roberto | Pablo Torre | 2 | 22 | 4
+EDGE Sergi Roberto | Gerard Piqué | 1 | 22 | 6
+EDGE Héctor Bellerín | Franck Kessié | 4 | 5 | 15
+EDGE Héctor Bellerín | Iñaki Peña | 3 | 5 | 3
+EDGE Héctor Bellerín | Jordi Alba | 3 | 5 | 20
+EDGE Héctor Bellerín | Pablo Torre | 3 | 5 | 4
+EDGE Héctor Bellerín | Gerard Piqué | 2 | 5 | 6
+EDGE Héctor Bellerín | Memphis Depay | 2 | 5 | 3
+EDGE Franck Kessié | Jordi Alba | 9 | 15 | 20
+EDGE Franck Kessié | Iñaki Peña | 3 | 15 | 3
+EDGE Franck Kessié | Pablo Torre | 3 | 15 | 4
+EDGE Franck Kessié | Gerard Piqué | 2 | 15 | 6
+EDGE Franck Kessié | Memphis Depay | 2 | 15 | 3
+EDGE Jordi Alba | Gerard Piqué | 4 | 20 | 6
+EDGE Jordi Alba | Iñaki Peña | 3 | 20 | 3
+EDGE Jordi Alba | Pablo Torre | 3 | 20 | 4
+EDGE Jordi Alba | Memphis Depay | 1 | 20 | 3
+EDGE Gerard Piqué | Iñaki Peña | 1 | 6 | 3
+EDGE Gerard Piqué | Pablo Torre | 1 | 6 | 4
+EDGE Gerard Piqué | Memphis Depay | 1 | 6 | 3
+EDGE Iñaki Peña | Pablo Torre | 3 | 3 | 4
+EDGE Iñaki Peña | Memphis Depay | 1 | 3 | 3
+EDGE Pablo Torre | Memphis Depay | 1 | 4 | 3

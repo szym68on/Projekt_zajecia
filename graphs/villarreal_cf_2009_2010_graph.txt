@@ -1,0 +1,292 @@
+# Graph for Java/GraphStream
+# Nodes: 28
+# Edges: 286
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Diego López | Iván Marcano | 22 | 49 | 25
+EDGE Diego López | Diego Godín | 44 | 49 | 44
+EDGE Diego López | Joan Capdevila | 47 | 49 | 48
+EDGE Diego López | Javi Venta | 18 | 49 | 18
+EDGE Diego López | Bruno Soriano | 37 | 49 | 40
+EDGE Diego López | Marcos Senna | 32 | 49 | 33
+EDGE Diego López | Robert Pirès | 19 | 49 | 20
+EDGE Diego López | Damián Escudero | 5 | 49 | 8
+EDGE Diego López | Giuseppe Rossi | 33 | 49 | 34
+EDGE Diego López | Nilmar | 34 | 49 | 36
+EDGE Diego López | Cani | 36 | 49 | 37
+EDGE Diego López | Joseba Llorente | 26 | 49 | 28
+EDGE Diego López | Gonzalo Rodríguez | 25 | 49 | 28
+EDGE Diego López | Ángel López | 31 | 49 | 34
+EDGE Diego López | Ariel Ibagaza | 19 | 49 | 19
+EDGE Diego López | Mateo Musacchio | 5 | 49 | 5
+EDGE Diego López | David Fuster | 14 | 49 | 14
+EDGE Diego López | Sebastián Eguren | 15 | 49 | 16
+EDGE Diego López | Santi Cazorla | 20 | 49 | 20
+EDGE Diego López | Kiko Olivas | 2 | 49 | 4
+EDGE Diego López | Fabricio Fuentes | 1 | 49 | 1
+EDGE Diego López | Javier Matilla | 2 | 49 | 2
+EDGE Diego López | Joan Oriol | 1 | 49 | 1
+EDGE Diego López | Jonathan Pereira | 1 | 49 | 3
+EDGE Diego López | Marco Ruben | 1 | 49 | 1
+EDGE Iván Marcano | Diego Godín | 18 | 25 | 44
+EDGE Iván Marcano | Joan Capdevila | 21 | 25 | 48
+EDGE Iván Marcano | Javi Venta | 12 | 25 | 18
+EDGE Iván Marcano | Bruno Soriano | 19 | 25 | 40
+EDGE Iván Marcano | Marcos Senna | 16 | 25 | 33
+EDGE Iván Marcano | Robert Pirès | 13 | 25 | 20
+EDGE Iván Marcano | Damián Escudero | 7 | 25 | 8
+EDGE Iván Marcano | Giuseppe Rossi | 16 | 25 | 34
+EDGE Iván Marcano | Nilmar | 14 | 25 | 36
+EDGE Iván Marcano | Cani | 16 | 25 | 37
+EDGE Iván Marcano | Joseba Llorente | 13 | 25 | 28
+EDGE Iván Marcano | Ángel López | 13 | 25 | 34
+EDGE Iván Marcano | Ariel Ibagaza | 4 | 25 | 19
+EDGE Iván Marcano | Sebastián Eguren | 11 | 25 | 16
+EDGE Iván Marcano | Santi Cazorla | 9 | 25 | 20
+EDGE Iván Marcano | Gonzalo Rodríguez | 6 | 25 | 28
+EDGE Iván Marcano | Xavier Oliva | 3 | 25 | 3
+EDGE Iván Marcano | Kiko Olivas | 2 | 25 | 4
+EDGE Iván Marcano | Marcos Gullón | 1 | 25 | 1
+EDGE Iván Marcano | Jonathan Pereira | 3 | 25 | 3
+EDGE Iván Marcano | David Fuster | 6 | 25 | 14
+EDGE Iván Marcano | Joan Oriol | 1 | 25 | 1
+EDGE Iván Marcano | Mateo Musacchio | 2 | 25 | 5
+EDGE Iván Marcano | Javier Matilla | 1 | 25 | 2
+EDGE Iván Marcano | Marco Ruben | 1 | 25 | 1
+EDGE Diego Godín | Joan Capdevila | 42 | 44 | 48
+EDGE Diego Godín | Javi Venta | 16 | 44 | 18
+EDGE Diego Godín | Bruno Soriano | 33 | 44 | 40
+EDGE Diego Godín | Marcos Senna | 30 | 44 | 33
+EDGE Diego Godín | Robert Pirès | 17 | 44 | 20
+EDGE Diego Godín | Damián Escudero | 5 | 44 | 8
+EDGE Diego Godín | Giuseppe Rossi | 30 | 44 | 34
+EDGE Diego Godín | Nilmar | 30 | 44 | 36
+EDGE Diego Godín | Cani | 32 | 44 | 37
+EDGE Diego Godín | Joseba Llorente | 24 | 44 | 28
+EDGE Diego Godín | Gonzalo Rodríguez | 21 | 44 | 28
+EDGE Diego Godín | Ángel López | 28 | 44 | 34
+EDGE Diego Godín | Ariel Ibagaza | 18 | 44 | 19
+EDGE Diego Godín | Mateo Musacchio | 3 | 44 | 5
+EDGE Diego Godín | David Fuster | 13 | 44 | 14
+EDGE Diego Godín | Sebastián Eguren | 12 | 44 | 16
+EDGE Diego Godín | Santi Cazorla | 19 | 44 | 20
+EDGE Diego Godín | Kiko Olivas | 2 | 44 | 4
+EDGE Diego Godín | Fabricio Fuentes | 1 | 44 | 1
+EDGE Diego Godín | Javier Matilla | 1 | 44 | 2
+EDGE Diego Godín | Joan Oriol | 1 | 44 | 1
+EDGE Joan Capdevila | Javi Venta | 17 | 48 | 18
+EDGE Joan Capdevila | Bruno Soriano | 37 | 48 | 40
+EDGE Joan Capdevila | Marcos Senna | 32 | 48 | 33
+EDGE Joan Capdevila | Robert Pirès | 19 | 48 | 20
+EDGE Joan Capdevila | Damián Escudero | 5 | 48 | 8
+EDGE Joan Capdevila | Giuseppe Rossi | 31 | 48 | 34
+EDGE Joan Capdevila | Nilmar | 34 | 48 | 36
+EDGE Joan Capdevila | Cani | 36 | 48 | 37
+EDGE Joan Capdevila | Joseba Llorente | 25 | 48 | 28
+EDGE Joan Capdevila | Gonzalo Rodríguez | 26 | 48 | 28
+EDGE Joan Capdevila | Ángel López | 31 | 48 | 34
+EDGE Joan Capdevila | Ariel Ibagaza | 18 | 48 | 19
+EDGE Joan Capdevila | Mateo Musacchio | 4 | 48 | 5
+EDGE Joan Capdevila | David Fuster | 14 | 48 | 14
+EDGE Joan Capdevila | Sebastián Eguren | 14 | 48 | 16
+EDGE Joan Capdevila | Santi Cazorla | 19 | 48 | 20
+EDGE Joan Capdevila | Kiko Olivas | 2 | 48 | 4
+EDGE Joan Capdevila | Xavier Oliva | 1 | 48 | 3
+EDGE Joan Capdevila | Fabricio Fuentes | 1 | 48 | 1
+EDGE Joan Capdevila | Javier Matilla | 2 | 48 | 2
+EDGE Joan Capdevila | Jonathan Pereira | 1 | 48 | 3
+EDGE Joan Capdevila | Marco Ruben | 1 | 48 | 1
+EDGE Javi Venta | Bruno Soriano | 14 | 18 | 40
+EDGE Javi Venta | Marcos Senna | 15 | 18 | 33
+EDGE Javi Venta | Robert Pirès | 9 | 18 | 20
+EDGE Javi Venta | Damián Escudero | 2 | 18 | 8
+EDGE Javi Venta | Giuseppe Rossi | 11 | 18 | 34
+EDGE Javi Venta | Nilmar | 11 | 18 | 36
+EDGE Javi Venta | Cani | 11 | 18 | 37
+EDGE Javi Venta | Joseba Llorente | 9 | 18 | 28
+EDGE Javi Venta | Sebastián Eguren | 6 | 18 | 16
+EDGE Javi Venta | Santi Cazorla | 7 | 18 | 20
+EDGE Javi Venta | David Fuster | 8 | 18 | 14
+EDGE Javi Venta | Gonzalo Rodríguez | 7 | 18 | 28
+EDGE Javi Venta | Javier Matilla | 2 | 18 | 2
+EDGE Javi Venta | Jonathan Pereira | 1 | 18 | 3
+EDGE Javi Venta | Mateo Musacchio | 2 | 18 | 5
+EDGE Javi Venta | Marco Ruben | 1 | 18 | 1
+EDGE Javi Venta | Ariel Ibagaza | 1 | 18 | 19
+EDGE Bruno Soriano | Marcos Senna | 25 | 40 | 33
+EDGE Bruno Soriano | Robert Pirès | 16 | 40 | 20
+EDGE Bruno Soriano | Damián Escudero | 5 | 40 | 8
+EDGE Bruno Soriano | Giuseppe Rossi | 24 | 40 | 34
+EDGE Bruno Soriano | Nilmar | 30 | 40 | 36
+EDGE Bruno Soriano | Cani | 27 | 40 | 37
+EDGE Bruno Soriano | Joseba Llorente | 22 | 40 | 28
+EDGE Bruno Soriano | Gonzalo Rodríguez | 23 | 40 | 28
+EDGE Bruno Soriano | Ángel López | 26 | 40 | 34
+EDGE Bruno Soriano | Ariel Ibagaza | 13 | 40 | 19
+EDGE Bruno Soriano | Mateo Musacchio | 5 | 40 | 5
+EDGE Bruno Soriano | David Fuster | 12 | 40 | 14
+EDGE Bruno Soriano | Santi Cazorla | 13 | 40 | 20
+EDGE Bruno Soriano | Sebastián Eguren | 7 | 40 | 16
+EDGE Bruno Soriano | Xavier Oliva | 3 | 40 | 3
+EDGE Bruno Soriano | Kiko Olivas | 3 | 40 | 4
+EDGE Bruno Soriano | Marcos Gullón | 1 | 40 | 1
+EDGE Bruno Soriano | Jonathan Pereira | 3 | 40 | 3
+EDGE Bruno Soriano | Javier Matilla | 1 | 40 | 2
+EDGE Bruno Soriano | Marco Ruben | 1 | 40 | 1
+EDGE Marcos Senna | Robert Pirès | 14 | 33 | 20
+EDGE Marcos Senna | Damián Escudero | 4 | 33 | 8
+EDGE Marcos Senna | Giuseppe Rossi | 18 | 33 | 34
+EDGE Marcos Senna | Nilmar | 26 | 33 | 36
+EDGE Marcos Senna | Cani | 21 | 33 | 37
+EDGE Marcos Senna | Joseba Llorente | 16 | 33 | 28
+EDGE Marcos Senna | Gonzalo Rodríguez | 15 | 33 | 28
+EDGE Marcos Senna | Ángel López | 18 | 33 | 34
+EDGE Marcos Senna | Ariel Ibagaza | 8 | 33 | 19
+EDGE Marcos Senna | Mateo Musacchio | 3 | 33 | 5
+EDGE Marcos Senna | David Fuster | 12 | 33 | 14
+EDGE Marcos Senna | Sebastián Eguren | 5 | 33 | 16
+EDGE Marcos Senna | Santi Cazorla | 13 | 33 | 20
+EDGE Marcos Senna | Kiko Olivas | 2 | 33 | 4
+EDGE Marcos Senna | Xavier Oliva | 1 | 33 | 3
+EDGE Marcos Senna | Fabricio Fuentes | 1 | 33 | 1
+EDGE Marcos Senna | Javier Matilla | 2 | 33 | 2
+EDGE Marcos Senna | Marco Ruben | 1 | 33 | 1
+EDGE Robert Pirès | Damián Escudero | 3 | 20 | 8
+EDGE Robert Pirès | Giuseppe Rossi | 13 | 20 | 34
+EDGE Robert Pirès | Nilmar | 14 | 20 | 36
+EDGE Robert Pirès | Cani | 11 | 20 | 37
+EDGE Robert Pirès | Joseba Llorente | 7 | 20 | 28
+EDGE Robert Pirès | Ángel López | 11 | 20 | 34
+EDGE Robert Pirès | Ariel Ibagaza | 2 | 20 | 19
+EDGE Robert Pirès | Santi Cazorla | 4 | 20 | 20
+EDGE Robert Pirès | Gonzalo Rodríguez | 10 | 20 | 28
+EDGE Robert Pirès | Sebastián Eguren | 7 | 20 | 16
+EDGE Robert Pirès | Xavier Oliva | 1 | 20 | 3
+EDGE Robert Pirès | Kiko Olivas | 1 | 20 | 4
+EDGE Robert Pirès | Marcos Gullón | 1 | 20 | 1
+EDGE Robert Pirès | Jonathan Pereira | 2 | 20 | 3
+EDGE Robert Pirès | David Fuster | 5 | 20 | 14
+EDGE Robert Pirès | Javier Matilla | 1 | 20 | 2
+EDGE Damián Escudero | Giuseppe Rossi | 4 | 8 | 34
+EDGE Damián Escudero | Nilmar | 4 | 8 | 36
+EDGE Damián Escudero | Mateo Musacchio | 1 | 8 | 5
+EDGE Damián Escudero | Ángel López | 6 | 8 | 34
+EDGE Damián Escudero | David Fuster | 2 | 8 | 14
+EDGE Damián Escudero | Cani | 4 | 8 | 37
+EDGE Damián Escudero | Joseba Llorente | 5 | 8 | 28
+EDGE Damián Escudero | Xavier Oliva | 3 | 8 | 3
+EDGE Damián Escudero | Gonzalo Rodríguez | 3 | 8 | 28
+EDGE Damián Escudero | Kiko Olivas | 2 | 8 | 4
+EDGE Damián Escudero | Marcos Gullón | 1 | 8 | 1
+EDGE Damián Escudero | Jonathan Pereira | 2 | 8 | 3
+EDGE Damián Escudero | Sebastián Eguren | 4 | 8 | 16
+EDGE Damián Escudero | Ariel Ibagaza | 2 | 8 | 19
+EDGE Damián Escudero | Joan Oriol | 1 | 8 | 1
+EDGE Giuseppe Rossi | Nilmar | 20 | 34 | 36
+EDGE Giuseppe Rossi | Cani | 25 | 34 | 37
+EDGE Giuseppe Rossi | Joseba Llorente | 16 | 34 | 28
+EDGE Giuseppe Rossi | Gonzalo Rodríguez | 18 | 34 | 28
+EDGE Giuseppe Rossi | Ángel López | 23 | 34 | 34
+EDGE Giuseppe Rossi | Ariel Ibagaza | 15 | 34 | 19
+EDGE Giuseppe Rossi | Sebastián Eguren | 12 | 34 | 16
+EDGE Giuseppe Rossi | Santi Cazorla | 17 | 34 | 20
+EDGE Giuseppe Rossi | Mateo Musacchio | 3 | 34 | 5
+EDGE Giuseppe Rossi | Xavier Oliva | 1 | 34 | 3
+EDGE Giuseppe Rossi | Kiko Olivas | 2 | 34 | 4
+EDGE Giuseppe Rossi | Marcos Gullón | 1 | 34 | 1
+EDGE Giuseppe Rossi | Jonathan Pereira | 1 | 34 | 3
+EDGE Giuseppe Rossi | Fabricio Fuentes | 1 | 34 | 1
+EDGE Giuseppe Rossi | David Fuster | 4 | 34 | 14
+EDGE Giuseppe Rossi | Joan Oriol | 1 | 34 | 1
+EDGE Nilmar | Gonzalo Rodríguez | 23 | 36 | 28
+EDGE Nilmar | Ángel López | 25 | 36 | 34
+EDGE Nilmar | Ariel Ibagaza | 13 | 36 | 19
+EDGE Nilmar | Cani | 24 | 36 | 37
+EDGE Nilmar | Joseba Llorente | 16 | 36 | 28
+EDGE Nilmar | Santi Cazorla | 11 | 36 | 20
+EDGE Nilmar | Mateo Musacchio | 4 | 36 | 5
+EDGE Nilmar | Sebastián Eguren | 8 | 36 | 16
+EDGE Nilmar | Kiko Olivas | 3 | 36 | 4
+EDGE Nilmar | Xavier Oliva | 2 | 36 | 3
+EDGE Nilmar | David Fuster | 9 | 36 | 14
+EDGE Nilmar | Javier Matilla | 2 | 36 | 2
+EDGE Nilmar | Jonathan Pereira | 2 | 36 | 3
+EDGE Nilmar | Marco Ruben | 1 | 36 | 1
+EDGE Cani | Joseba Llorente | 21 | 37 | 28
+EDGE Cani | Gonzalo Rodríguez | 20 | 37 | 28
+EDGE Cani | Ángel López | 26 | 37 | 34
+EDGE Cani | Ariel Ibagaza | 14 | 37 | 19
+EDGE Cani | Mateo Musacchio | 3 | 37 | 5
+EDGE Cani | David Fuster | 8 | 37 | 14
+EDGE Cani | Sebastián Eguren | 13 | 37 | 16
+EDGE Cani | Santi Cazorla | 15 | 37 | 20
+EDGE Cani | Kiko Olivas | 2 | 37 | 4
+EDGE Cani | Xavier Oliva | 1 | 37 | 3
+EDGE Cani | Fabricio Fuentes | 1 | 37 | 1
+EDGE Cani | Javier Matilla | 1 | 37 | 2
+EDGE Cani | Joan Oriol | 1 | 37 | 1
+EDGE Cani | Jonathan Pereira | 1 | 37 | 3
+EDGE Joseba Llorente | Mateo Musacchio | 4 | 28 | 5
+EDGE Joseba Llorente | Ángel López | 19 | 28 | 34
+EDGE Joseba Llorente | David Fuster | 5 | 28 | 14
+EDGE Joseba Llorente | Ariel Ibagaza | 13 | 28 | 19
+EDGE Joseba Llorente | Sebastián Eguren | 9 | 28 | 16
+EDGE Joseba Llorente | Santi Cazorla | 9 | 28 | 20
+EDGE Joseba Llorente | Gonzalo Rodríguez | 15 | 28 | 28
+EDGE Joseba Llorente | Xavier Oliva | 2 | 28 | 3
+EDGE Joseba Llorente | Fabricio Fuentes | 1 | 28 | 1
+EDGE Joseba Llorente | Kiko Olivas | 1 | 28 | 4
+EDGE Joseba Llorente | Jonathan Pereira | 1 | 28 | 3
+EDGE Joseba Llorente | Joan Oriol | 1 | 28 | 1
+EDGE Gonzalo Rodríguez | Ángel López | 21 | 28 | 34
+EDGE Gonzalo Rodríguez | Ariel Ibagaza | 13 | 28 | 19
+EDGE Gonzalo Rodríguez | Santi Cazorla | 9 | 28 | 20
+EDGE Gonzalo Rodríguez | Mateo Musacchio | 1 | 28 | 5
+EDGE Gonzalo Rodríguez | Sebastián Eguren | 8 | 28 | 16
+EDGE Gonzalo Rodríguez | Xavier Oliva | 3 | 28 | 3
+EDGE Gonzalo Rodríguez | Kiko Olivas | 2 | 28 | 4
+EDGE Gonzalo Rodríguez | Marcos Gullón | 1 | 28 | 1
+EDGE Gonzalo Rodríguez | Jonathan Pereira | 3 | 28 | 3
+EDGE Gonzalo Rodríguez | David Fuster | 6 | 28 | 14
+EDGE Gonzalo Rodríguez | Javier Matilla | 1 | 28 | 2
+EDGE Ángel López | Ariel Ibagaza | 18 | 34 | 19
+EDGE Ángel López | Mateo Musacchio | 3 | 34 | 5
+EDGE Ángel López | David Fuster | 6 | 34 | 14
+EDGE Ángel López | Santi Cazorla | 13 | 34 | 20
+EDGE Ángel López | Sebastián Eguren | 10 | 34 | 16
+EDGE Ángel López | Xavier Oliva | 3 | 34 | 3
+EDGE Ángel López | Kiko Olivas | 4 | 34 | 4
+EDGE Ángel López | Marcos Gullón | 1 | 34 | 1
+EDGE Ángel López | Jonathan Pereira | 2 | 34 | 3
+EDGE Ángel López | Fabricio Fuentes | 1 | 34 | 1
+EDGE Ángel López | Joan Oriol | 1 | 34 | 1
+EDGE Ariel Ibagaza | Santi Cazorla | 7 | 19 | 20
+EDGE Ariel Ibagaza | Mateo Musacchio | 2 | 19 | 5
+EDGE Ariel Ibagaza | David Fuster | 4 | 19 | 14
+EDGE Ariel Ibagaza | Fabricio Fuentes | 1 | 19 | 1
+EDGE Ariel Ibagaza | Sebastián Eguren | 4 | 19 | 16
+EDGE Ariel Ibagaza | Joan Oriol | 1 | 19 | 1
+EDGE Mateo Musacchio | David Fuster | 2 | 5 | 14
+EDGE Mateo Musacchio | Javier Matilla | 1 | 5 | 2
+EDGE Mateo Musacchio | Marco Ruben | 1 | 5 | 1
+EDGE Mateo Musacchio | Santi Cazorla | 1 | 5 | 20
+EDGE David Fuster | Santi Cazorla | 4 | 14 | 20
+EDGE David Fuster | Sebastián Eguren | 2 | 14 | 16
+EDGE David Fuster | Javier Matilla | 2 | 14 | 2
+EDGE David Fuster | Kiko Olivas | 1 | 14 | 4
+EDGE David Fuster | Marco Ruben | 1 | 14 | 1
+EDGE Sebastián Eguren | Santi Cazorla | 7 | 16 | 20
+EDGE Sebastián Eguren | Kiko Olivas | 2 | 16 | 4
+EDGE Sebastián Eguren | Xavier Oliva | 1 | 16 | 3
+EDGE Sebastián Eguren | Jonathan Pereira | 2 | 16 | 3
+EDGE Sebastián Eguren | Joan Oriol | 1 | 16 | 1
+EDGE Santi Cazorla | Kiko Olivas | 2 | 20 | 4
+EDGE Santi Cazorla | Fabricio Fuentes | 1 | 20 | 1
+EDGE Xavier Oliva | Kiko Olivas | 2 | 3 | 4
+EDGE Xavier Oliva | Marcos Gullón | 1 | 3 | 1
+EDGE Xavier Oliva | Jonathan Pereira | 2 | 3 | 3
+EDGE Kiko Olivas | Marcos Gullón | 1 | 4 | 1
+EDGE Kiko Olivas | Jonathan Pereira | 2 | 4 | 3
+EDGE Marcos Gullón | Jonathan Pereira | 1 | 1 | 3
+EDGE Javier Matilla | Marco Ruben | 1 | 2 | 1

@@ -1,0 +1,160 @@
+# Team: Real Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 3461736 | wt., 27.10.2020 | Borussia Mönchengladbach
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Federico Valverde, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3461804 | wt., 01.12.2020 | Szachtar Donieck
+PLAYERS: Thibaut Courtois, Raphaël Varane, Nacho Fernández, Ferland Mendy, Lucas Vázquez, Toni Kroos, Luka Modrić, Martin Ødegaard, Marco Asensio, Rodrygo, Karim Benzema
+
+MATCH: 3537802 | wt., 06.04.2021 | FC Liverpool
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3451418 | sob., 24.04.2021 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, Éder Militão, Raphaël Varane, Nacho Fernández, Daniel Carvajal, Casemiro, Luka Modrić, Isco, Marco Asensio, Rodrygo, Karim Benzema
+
+MATCH: 3451132 | sob., 06.02.2021 | SD Huesca
+PLAYERS: Thibaut Courtois, Raphaël Varane, Nacho Fernández, Ferland Mendy, Álvaro Odriozola, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3451375 | sob., 20.03.2021 | Celta de Vigo
+PLAYERS: Thibaut Courtois, Raphaël Varane, Nacho Fernández, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Federico Valverde, Luka Modrić, Vinicius Junior, Karim Benzema
+
+MATCH: 3451399 | sob., 10.04.2021 | FC Barcelona
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Karim Benzema
+
+MATCH: 3451100 | sob., 23.01.2021 | Deportivo Alavés
+PLAYERS: Thibaut Courtois, Éder Militão, Raphaël Varane, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Eden Hazard, Marco Asensio, Karim Benzema
+
+MATCH: 3451153 | niedz., 14.02.2021 | Valencia CF
+PLAYERS: Thibaut Courtois, Raphaël Varane, Nacho Fernández, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3451045 | niedz., 20.12.2020 | SD Eibar
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Rodrygo, Lucas Vázquez, Karim Benzema
+
+MATCH: 3441592 | niedz., 04.10.2020 | Levante UD
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Nacho Fernández, Casemiro, Luka Modrić, Federico Valverde, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3497554 | czw., 14.01.2021 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Marco Asensio, Eden Hazard, Karim Benzema
+
+MATCH: 3431910 | wt., 09.02.2021 | Getafe CF
+PLAYERS: Thibaut Courtois, Raphaël Varane, Nacho Fernández, Ferland Mendy, Casemiro, Luka Modrić, Marvin Park, Marcelo, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3503943 | śr., 20.01.2021 | CD Alcoyano
+PLAYERS: Andriy Lunin, Víctor Chust, Éder Militão, Marcelo, Álvaro Odriozola, Casemiro, Federico Valverde, Isco, Vinicius Junior, Lucas Vázquez, Mariano Díaz
+
+MATCH: 3451212 | sob., 13.03.2021 | Elche CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Nacho Fernández, Casemiro, Lucas Vázquez, Ferland Mendy, Federico Valverde, Isco, Vinicius Junior, Karim Benzema
+
+MATCH: 3451016 | sob., 28.11.2020 | Deportivo Alavés
+PLAYERS: Thibaut Courtois, Raphaël Varane, Nacho Fernández, Marcelo, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Eden Hazard, Marco Asensio, Mariano Díaz
+
+MATCH: 3451390 | sob., 03.04.2021 | SD Eibar
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Ferland Mendy, Casemiro, Luka Modrić, Lucas Vázquez, Marcelo, Marco Asensio, Isco, Karim Benzema
+
+MATCH: 3461712 | śr., 21.10.2020 | Szachtar Donieck
+PLAYERS: Thibaut Courtois, Éder Militão, Raphaël Varane, Marcelo, Ferland Mendy, Casemiro, Luka Modrić, Federico Valverde, Rodrygo, Marco Asensio, Luka Jović
+
+MATCH: 3431921 | niedz., 20.09.2020 | Real Sociedad
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Toni Kroos, Luka Modrić, Martin Ødegaard, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3451096 | wt., 15.12.2020 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Toni Kroos, Luka Modrić, Federico Valverde, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3450968 | sob., 17.10.2020 | Cádiz CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Nacho Fernández, Toni Kroos, Luka Modrić, Isco, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3537806 | śr., 14.04.2021 | FC Liverpool
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Ferland Mendy, Federico Valverde, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3450999 | niedz., 08.11.2020 | Valencia CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Lucas Vázquez, Luka Modrić, Federico Valverde, Isco, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3451464 | niedz., 16.05.2021 | Athletic Bilbao
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Miguel Gutiérrez, Álvaro Odriozola, Casemiro, Luka Modrić, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3451076 | sob., 02.01.2021 | Celta de Vigo
+PLAYERS: Thibaut Courtois, Raphaël Varane, Nacho Fernández, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Marco Asensio, Lucas Vázquez, Karim Benzema
+
+MATCH: 3451116 | sob., 30.01.2021 | Levante UD
+PLAYERS: Thibaut Courtois, Éder Militão, Raphaël Varane, Ferland Mendy, Álvaro Odriozola, Casemiro, Toni Kroos, Luka Modrić, Eden Hazard, Marco Asensio, Karim Benzema
+
+MATCH: 3451181 | pon., 01.03.2021 | Real Sociedad
+PLAYERS: Thibaut Courtois, Raphaël Varane, Nacho Fernández, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Isco, Marco Asensio, Mariano Díaz
+
+MATCH: 3451438 | sob., 01.05.2021 | CA Osasuna
+PLAYERS: Thibaut Courtois, Éder Militão, Raphaël Varane, Marcelo, Álvaro Odriozola, Casemiro, Antonio Blanco, Eden Hazard, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3461752 | wt., 03.11.2020 | Inter Mediolan
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Federico Valverde, Eden Hazard, Marco Asensio, Karim Benzema
+
+MATCH: 3451406 | śr., 21.04.2021 | Cádiz CF
+PLAYERS: Thibaut Courtois, Éder Militão, Raphaël Varane, Nacho Fernández, Casemiro, Antonio Blanco, Álvaro Odriozola, Marcelo, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3496455 | śr., 24.02.2021 | Atalanta BC
+PLAYERS: Thibaut Courtois, Raphaël Varane, Nacho Fernández, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Marco Asensio, Isco
+
+MATCH: 3451428 | niedz., 18.04.2021 | Getafe CF
+PLAYERS: Thibaut Courtois, Víctor Chust, Éder Militão, Marcelo, Álvaro Odriozola, Luka Modrić, Isco, Marco Asensio, Vinicius Junior, Rodrygo, Mariano Díaz
+
+MATCH: 3552990 | śr., 05.05.2021 | Chelsea FC
+PLAYERS: Thibaut Courtois, Éder Militão, Sergio Ramos, Nacho Fernández, Casemiro, Toni Kroos, Luka Modrić, Ferland Mendy, Vinicius Junior, Eden Hazard, Karim Benzema
+
+MATCH: 3461810 | śr., 09.12.2020 | Borussia Mönchengladbach
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3451009 | sob., 21.11.2020 | Villarreal CF
+PLAYERS: Thibaut Courtois, Raphaël Varane, Nacho Fernández, Ferland Mendy, Daniel Carvajal, Toni Kroos, Luka Modrić, Martin Ødegaard, Eden Hazard, Lucas Vázquez, Mariano Díaz
+
+MATCH: 3431940 | śr., 30.09.2020 | Real Valladolid CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Álvaro Odriozola, Casemiro, Luka Modrić, Federico Valverde, Isco, Karim Benzema, Luka Jović
+
+MATCH: 3451480 | sob., 22.05.2021 | Villarreal CF
+PLAYERS: Thibaut Courtois, Éder Militão, Raphaël Varane, Miguel Gutiérrez, Álvaro Odriozola, Casemiro, Luka Modrić, Federico Valverde, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3450971 | sob., 24.10.2020 | FC Barcelona
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Nacho Fernández, Casemiro, Toni Kroos, Federico Valverde, Vinicius Junior, Marco Asensio, Karim Benzema
+
+MATCH: 3451028 | sob., 05.12.2020 | Sevilla FC
+PLAYERS: Thibaut Courtois, Raphaël Varane, Nacho Fernández, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3451087 | sob., 09.01.2021 | CA Osasuna
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Eden Hazard, Marco Asensio, Karim Benzema
+
+MATCH: 3451036 | sob., 12.12.2020 | Atlético Madryt
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Lucas Vázquez, Karim Benzema
+
+MATCH: 3451164 | sob., 20.02.2021 | Real Valladolid CF
+PLAYERS: Thibaut Courtois, Raphaël Varane, Nacho Fernández, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Marco Asensio, Mariano Díaz
+
+MATCH: 3451457 | czw., 13.05.2021 | Granada CF
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Miguel Gutiérrez, Marvin Park, Casemiro, Luka Modrić, Federico Valverde, Vinicius Junior, Rodrygo, Karim Benzema
+
+MATCH: 3552987 | wt., 27.04.2021 | Chelsea FC
+PLAYERS: Thibaut Courtois, Éder Militão, Raphaël Varane, Nacho Fernández, Casemiro, Toni Kroos, Luka Modrić, Daniel Carvajal, Marcelo, Vinicius Junior, Karim Benzema
+
+MATCH: 3451449 | niedz., 09.05.2021 | Sevilla FC
+PLAYERS: Thibaut Courtois, Éder Militão, Nacho Fernández, Marcelo, Álvaro Odriozola, Casemiro, Toni Kroos, Luka Modrić, Vinicius Junior, Federico Valverde, Karim Benzema
+
+MATCH: 3451055 | śr., 23.12.2020 | Granada CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Rodrygo, Lucas Vázquez, Karim Benzema
+
+MATCH: 3461768 | śr., 25.11.2020 | Inter Mediolan
+PLAYERS: Thibaut Courtois, Raphaël Varane, Nacho Fernández, Ferland Mendy, Daniel Carvajal, Toni Kroos, Luka Modrić, Martin Ødegaard, Eden Hazard, Lucas Vázquez, Mariano Díaz
+
+MATCH: 3496463 | wt., 16.03.2021 | Atalanta BC
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Nacho Fernández, Toni Kroos, Federico Valverde, Lucas Vázquez, Ferland Mendy, Luka Modrić, Vinicius Junior, Karim Benzema
+
+MATCH: 3451193 | niedz., 07.03.2021 | Atlético Madryt
+PLAYERS: Thibaut Courtois, Raphaël Varane, Nacho Fernández, Ferland Mendy, Lucas Vázquez, Casemiro, Toni Kroos, Luka Modrić, Marco Asensio, Rodrygo, Karim Benzema
+
+MATCH: 3451065 | śr., 30.12.2020 | Elche CF
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Marcelo, Daniel Carvajal, Casemiro, Toni Kroos, Luka Modrić, Marco Asensio, Lucas Vázquez, Karim Benzema
+
+MATCH: 3431927 | sob., 26.09.2020 | Real Betis Balompié
+PLAYERS: Thibaut Courtois, Sergio Ramos, Raphaël Varane, Ferland Mendy, Daniel Carvajal, Casemiro, Toni Kroos, Federico Valverde, Martin Ødegaard, Karim Benzema, Luka Jović
+
+MATCH: 3450987 | sob., 31.10.2020 | SD Huesca
+PLAYERS: Thibaut Courtois, Éder Militão, Sergio Ramos, Marcelo, Lucas Vázquez, Casemiro, Luka Modrić, Federico Valverde, Eden Hazard, Marco Asensio, Karim Benzema
+

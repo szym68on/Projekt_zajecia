@@ -1,0 +1,306 @@
+# Graph for Java/GraphStream
+# Nodes: 27
+# Edges: 300
+
+# Format: EDGE player1 | player2 | weight | matches1 | matches2
+
+EDGE Jan Oblak | Diego Godín | 38 | 49 | 43
+EDGE Jan Oblak | Lucas Hernández | 31 | 49 | 40
+EDGE Jan Oblak | Filipe Luís | 25 | 49 | 27
+EDGE Jan Oblak | Juanfran Torres | 21 | 49 | 27
+EDGE Jan Oblak | Thomas Partey | 34 | 49 | 40
+EDGE Jan Oblak | Gabi | 33 | 49 | 38
+EDGE Jan Oblak | Saúl Ñíguez | 46 | 49 | 52
+EDGE Jan Oblak | Koke | 42 | 49 | 49
+EDGE Jan Oblak | Ángel Correa | 32 | 49 | 38
+EDGE Jan Oblak | Antoine Griezmann | 41 | 49 | 45
+EDGE Jan Oblak | Stefan Savic | 30 | 49 | 34
+EDGE Jan Oblak | Kévin Gameiro | 15 | 49 | 18
+EDGE Jan Oblak | José María Giménez | 24 | 49 | 31
+EDGE Jan Oblak | Yannick Carrasco | 11 | 49 | 14
+EDGE Jan Oblak | Fernando Torres | 9 | 49 | 15
+EDGE Jan Oblak | Diego Costa | 16 | 49 | 20
+EDGE Jan Oblak | Sime Vrsaljko | 21 | 49 | 24
+EDGE Jan Oblak | Luciano Vietto | 5 | 49 | 7
+EDGE Jan Oblak | Vitolo | 10 | 49 | 13
+EDGE Jan Oblak | Augusto Fernández | 2 | 49 | 6
+EDGE Jan Oblak | Nico Gaitán | 2 | 49 | 4
+EDGE Jan Oblak | Carlos Isaac | 1 | 49 | 1
+EDGE Jan Oblak | Sergi González | 1 | 49 | 3
+EDGE Diego Godín | Lucas Hernández | 24 | 43 | 40
+EDGE Diego Godín | Filipe Luís | 18 | 43 | 27
+EDGE Diego Godín | Juanfran Torres | 21 | 43 | 27
+EDGE Diego Godín | Thomas Partey | 29 | 43 | 40
+EDGE Diego Godín | Gabi | 30 | 43 | 38
+EDGE Diego Godín | Saúl Ñíguez | 41 | 43 | 52
+EDGE Diego Godín | Koke | 37 | 43 | 49
+EDGE Diego Godín | Ángel Correa | 31 | 43 | 38
+EDGE Diego Godín | Antoine Griezmann | 37 | 43 | 45
+EDGE Diego Godín | Stefan Savic | 23 | 43 | 34
+EDGE Diego Godín | Kévin Gameiro | 17 | 43 | 18
+EDGE Diego Godín | José María Giménez | 20 | 43 | 31
+EDGE Diego Godín | Diego Costa | 14 | 43 | 20
+EDGE Diego Godín | Sime Vrsaljko | 17 | 43 | 24
+EDGE Diego Godín | Fernando Torres | 5 | 43 | 15
+EDGE Diego Godín | Vitolo | 7 | 43 | 13
+EDGE Diego Godín | Axel Werner | 1 | 43 | 3
+EDGE Diego Godín | Augusto Fernández | 2 | 43 | 6
+EDGE Diego Godín | Yannick Carrasco | 7 | 43 | 14
+EDGE Diego Godín | Nico Gaitán | 2 | 43 | 4
+EDGE Diego Godín | Carlos Isaac | 1 | 43 | 1
+EDGE Diego Godín | Miguel Ángel Moyá | 4 | 43 | 7
+EDGE Diego Godín | Sergi González | 1 | 43 | 3
+EDGE Diego Godín | Luciano Vietto | 3 | 43 | 7
+EDGE Lucas Hernández | Filipe Luís | 11 | 40 | 27
+EDGE Lucas Hernández | Juanfran Torres | 18 | 40 | 27
+EDGE Lucas Hernández | Thomas Partey | 24 | 40 | 40
+EDGE Lucas Hernández | Gabi | 22 | 40 | 38
+EDGE Lucas Hernández | Saúl Ñíguez | 34 | 40 | 52
+EDGE Lucas Hernández | Koke | 33 | 40 | 49
+EDGE Lucas Hernández | Ángel Correa | 26 | 40 | 38
+EDGE Lucas Hernández | Antoine Griezmann | 29 | 40 | 45
+EDGE Lucas Hernández | Stefan Savic | 22 | 40 | 34
+EDGE Lucas Hernández | José María Giménez | 22 | 40 | 31
+EDGE Lucas Hernández | Yannick Carrasco | 12 | 40 | 14
+EDGE Lucas Hernández | Fernando Torres | 12 | 40 | 15
+EDGE Lucas Hernández | Axel Werner | 2 | 40 | 3
+EDGE Lucas Hernández | Diego Costa | 16 | 40 | 20
+EDGE Lucas Hernández | Sime Vrsaljko | 17 | 40 | 24
+EDGE Lucas Hernández | Kévin Gameiro | 9 | 40 | 18
+EDGE Lucas Hernández | Luciano Vietto | 5 | 40 | 7
+EDGE Lucas Hernández | Vitolo | 12 | 40 | 13
+EDGE Lucas Hernández | Augusto Fernández | 6 | 40 | 6
+EDGE Lucas Hernández | Carlos Isaac | 1 | 40 | 1
+EDGE Lucas Hernández | Miguel Ángel Moyá | 7 | 40 | 7
+EDGE Lucas Hernández | Sergi González | 2 | 40 | 3
+EDGE Lucas Hernández | Keidi Bare | 1 | 40 | 1
+EDGE Lucas Hernández | Nico Gaitán | 2 | 40 | 4
+EDGE Filipe Luís | Juanfran Torres | 12 | 27 | 27
+EDGE Filipe Luís | Thomas Partey | 22 | 27 | 40
+EDGE Filipe Luís | Gabi | 19 | 27 | 38
+EDGE Filipe Luís | Saúl Ñíguez | 26 | 27 | 52
+EDGE Filipe Luís | Koke | 24 | 27 | 49
+EDGE Filipe Luís | Ángel Correa | 15 | 27 | 38
+EDGE Filipe Luís | Antoine Griezmann | 22 | 27 | 45
+EDGE Filipe Luís | Stefan Savic | 15 | 27 | 34
+EDGE Filipe Luís | Kévin Gameiro | 8 | 27 | 18
+EDGE Filipe Luís | Axel Werner | 2 | 27 | 3
+EDGE Filipe Luís | José María Giménez | 13 | 27 | 31
+EDGE Filipe Luís | Diego Costa | 7 | 27 | 20
+EDGE Filipe Luís | Sime Vrsaljko | 10 | 27 | 24
+EDGE Filipe Luís | Yannick Carrasco | 6 | 27 | 14
+EDGE Filipe Luís | Luciano Vietto | 3 | 27 | 7
+EDGE Filipe Luís | Fernando Torres | 6 | 27 | 15
+EDGE Filipe Luís | Nico Gaitán | 2 | 27 | 4
+EDGE Filipe Luís | Vitolo | 3 | 27 | 13
+EDGE Filipe Luís | Augusto Fernández | 1 | 27 | 6
+EDGE Juanfran Torres | Thomas Partey | 17 | 27 | 40
+EDGE Juanfran Torres | Gabi | 19 | 27 | 38
+EDGE Juanfran Torres | Saúl Ñíguez | 25 | 27 | 52
+EDGE Juanfran Torres | Koke | 20 | 27 | 49
+EDGE Juanfran Torres | Ángel Correa | 20 | 27 | 38
+EDGE Juanfran Torres | Antoine Griezmann | 20 | 27 | 45
+EDGE Juanfran Torres | Stefan Savic | 18 | 27 | 34
+EDGE Juanfran Torres | José María Giménez | 9 | 27 | 31
+EDGE Juanfran Torres | Yannick Carrasco | 6 | 27 | 14
+EDGE Juanfran Torres | Fernando Torres | 8 | 27 | 15
+EDGE Juanfran Torres | Axel Werner | 2 | 27 | 3
+EDGE Juanfran Torres | Diego Costa | 8 | 27 | 20
+EDGE Juanfran Torres | Kévin Gameiro | 7 | 27 | 18
+EDGE Juanfran Torres | Augusto Fernández | 3 | 27 | 6
+EDGE Juanfran Torres | Luciano Vietto | 2 | 27 | 7
+EDGE Juanfran Torres | Vitolo | 7 | 27 | 13
+EDGE Juanfran Torres | Sime Vrsaljko | 1 | 27 | 24
+EDGE Juanfran Torres | Sergi González | 2 | 27 | 3
+EDGE Juanfran Torres | Miguel Ángel Moyá | 4 | 27 | 7
+EDGE Thomas Partey | Gabi | 22 | 40 | 38
+EDGE Thomas Partey | Saúl Ñíguez | 36 | 40 | 52
+EDGE Thomas Partey | Koke | 33 | 40 | 49
+EDGE Thomas Partey | Ángel Correa | 27 | 40 | 38
+EDGE Thomas Partey | Antoine Griezmann | 30 | 40 | 45
+EDGE Thomas Partey | Stefan Savic | 23 | 40 | 34
+EDGE Thomas Partey | Kévin Gameiro | 13 | 40 | 18
+EDGE Thomas Partey | Axel Werner | 3 | 40 | 3
+EDGE Thomas Partey | José María Giménez | 22 | 40 | 31
+EDGE Thomas Partey | Diego Costa | 11 | 40 | 20
+EDGE Thomas Partey | Sime Vrsaljko | 15 | 40 | 24
+EDGE Thomas Partey | Vitolo | 5 | 40 | 13
+EDGE Thomas Partey | Fernando Torres | 9 | 40 | 15
+EDGE Thomas Partey | Augusto Fernández | 4 | 40 | 6
+EDGE Thomas Partey | Yannick Carrasco | 6 | 40 | 14
+EDGE Thomas Partey | Luciano Vietto | 6 | 40 | 7
+EDGE Thomas Partey | Carlos Isaac | 1 | 40 | 1
+EDGE Thomas Partey | Miguel Ángel Moyá | 3 | 40 | 7
+EDGE Thomas Partey | Sergi González | 1 | 40 | 3
+EDGE Thomas Partey | Keidi Bare | 1 | 40 | 1
+EDGE Thomas Partey | Nico Gaitán | 3 | 40 | 4
+EDGE Gabi | Saúl Ñíguez | 34 | 38 | 52
+EDGE Gabi | Koke | 31 | 38 | 49
+EDGE Gabi | Ángel Correa | 22 | 38 | 38
+EDGE Gabi | Antoine Griezmann | 30 | 38 | 45
+EDGE Gabi | Stefan Savic | 25 | 38 | 34
+EDGE Gabi | Kévin Gameiro | 11 | 38 | 18
+EDGE Gabi | José María Giménez | 16 | 38 | 31
+EDGE Gabi | Yannick Carrasco | 6 | 38 | 14
+EDGE Gabi | Fernando Torres | 10 | 38 | 15
+EDGE Gabi | Sime Vrsaljko | 13 | 38 | 24
+EDGE Gabi | Diego Costa | 13 | 38 | 20
+EDGE Gabi | Luciano Vietto | 3 | 38 | 7
+EDGE Gabi | Axel Werner | 2 | 38 | 3
+EDGE Gabi | Vitolo | 10 | 38 | 13
+EDGE Gabi | Augusto Fernández | 2 | 38 | 6
+EDGE Gabi | Nico Gaitán | 1 | 38 | 4
+EDGE Gabi | Carlos Isaac | 1 | 38 | 1
+EDGE Gabi | Miguel Ángel Moyá | 3 | 38 | 7
+EDGE Gabi | Sergi González | 2 | 38 | 3
+EDGE Saúl Ñíguez | Koke | 44 | 52 | 49
+EDGE Saúl Ñíguez | Ángel Correa | 35 | 52 | 38
+EDGE Saúl Ñíguez | Antoine Griezmann | 44 | 52 | 45
+EDGE Saúl Ñíguez | Stefan Savic | 29 | 52 | 34
+EDGE Saúl Ñíguez | Kévin Gameiro | 16 | 52 | 18
+EDGE Saúl Ñíguez | José María Giménez | 27 | 52 | 31
+EDGE Saúl Ñíguez | Yannick Carrasco | 11 | 52 | 14
+EDGE Saúl Ñíguez | Fernando Torres | 9 | 52 | 15
+EDGE Saúl Ñíguez | Axel Werner | 2 | 52 | 3
+EDGE Saúl Ñíguez | Diego Costa | 17 | 52 | 20
+EDGE Saúl Ñíguez | Sime Vrsaljko | 20 | 52 | 24
+EDGE Saúl Ñíguez | Luciano Vietto | 5 | 52 | 7
+EDGE Saúl Ñíguez | Vitolo | 9 | 52 | 13
+EDGE Saúl Ñíguez | Augusto Fernández | 3 | 52 | 6
+EDGE Saúl Ñíguez | Nico Gaitán | 2 | 52 | 4
+EDGE Saúl Ñíguez | Carlos Isaac | 1 | 52 | 1
+EDGE Saúl Ñíguez | Miguel Ángel Moyá | 4 | 52 | 7
+EDGE Koke | Ángel Correa | 31 | 49 | 38
+EDGE Koke | Antoine Griezmann | 39 | 49 | 45
+EDGE Koke | Stefan Savic | 27 | 49 | 34
+EDGE Koke | Kévin Gameiro | 13 | 49 | 18
+EDGE Koke | José María Giménez | 26 | 49 | 31
+EDGE Koke | Yannick Carrasco | 10 | 49 | 14
+EDGE Koke | Fernando Torres | 11 | 49 | 15
+EDGE Koke | Axel Werner | 3 | 49 | 3
+EDGE Koke | Diego Costa | 18 | 49 | 20
+EDGE Koke | Sime Vrsaljko | 21 | 49 | 24
+EDGE Koke | Luciano Vietto | 6 | 49 | 7
+EDGE Koke | Vitolo | 11 | 49 | 13
+EDGE Koke | Carlos Isaac | 1 | 49 | 1
+EDGE Koke | Miguel Ángel Moyá | 4 | 49 | 7
+EDGE Koke | Sergi González | 1 | 49 | 3
+EDGE Koke | Augusto Fernández | 2 | 49 | 6
+EDGE Koke | Nico Gaitán | 2 | 49 | 4
+EDGE Ángel Correa | Antoine Griezmann | 28 | 38 | 45
+EDGE Ángel Correa | Stefan Savic | 21 | 38 | 34
+EDGE Ángel Correa | Kévin Gameiro | 15 | 38 | 18
+EDGE Ángel Correa | Axel Werner | 3 | 38 | 3
+EDGE Ángel Correa | José María Giménez | 19 | 38 | 31
+EDGE Ángel Correa | Diego Costa | 10 | 38 | 20
+EDGE Ángel Correa | Sime Vrsaljko | 14 | 38 | 24
+EDGE Ángel Correa | Fernando Torres | 7 | 38 | 15
+EDGE Ángel Correa | Vitolo | 5 | 38 | 13
+EDGE Ángel Correa | Augusto Fernández | 2 | 38 | 6
+EDGE Ángel Correa | Yannick Carrasco | 8 | 38 | 14
+EDGE Ángel Correa | Luciano Vietto | 3 | 38 | 7
+EDGE Ángel Correa | Carlos Isaac | 1 | 38 | 1
+EDGE Ángel Correa | Miguel Ángel Moyá | 3 | 38 | 7
+EDGE Ángel Correa | Sergi González | 1 | 38 | 3
+EDGE Ángel Correa | Nico Gaitán | 1 | 38 | 4
+EDGE Antoine Griezmann | Stefan Savic | 25 | 45 | 34
+EDGE Antoine Griezmann | Kévin Gameiro | 13 | 45 | 18
+EDGE Antoine Griezmann | José María Giménez | 23 | 45 | 31
+EDGE Antoine Griezmann | Yannick Carrasco | 9 | 45 | 14
+EDGE Antoine Griezmann | Fernando Torres | 5 | 45 | 15
+EDGE Antoine Griezmann | Axel Werner | 1 | 45 | 3
+EDGE Antoine Griezmann | Diego Costa | 18 | 45 | 20
+EDGE Antoine Griezmann | Sime Vrsaljko | 19 | 45 | 24
+EDGE Antoine Griezmann | Luciano Vietto | 3 | 45 | 7
+EDGE Antoine Griezmann | Vitolo | 7 | 45 | 13
+EDGE Antoine Griezmann | Augusto Fernández | 2 | 45 | 6
+EDGE Antoine Griezmann | Nico Gaitán | 2 | 45 | 4
+EDGE Antoine Griezmann | Miguel Ángel Moyá | 3 | 45 | 7
+EDGE Stefan Savic | Kévin Gameiro | 10 | 34 | 18
+EDGE Stefan Savic | José María Giménez | 8 | 34 | 31
+EDGE Stefan Savic | Yannick Carrasco | 9 | 34 | 14
+EDGE Stefan Savic | Fernando Torres | 9 | 34 | 15
+EDGE Stefan Savic | Sime Vrsaljko | 11 | 34 | 24
+EDGE Stefan Savic | Luciano Vietto | 5 | 34 | 7
+EDGE Stefan Savic | Diego Costa | 10 | 34 | 20
+EDGE Stefan Savic | Vitolo | 9 | 34 | 13
+EDGE Stefan Savic | Axel Werner | 1 | 34 | 3
+EDGE Stefan Savic | Augusto Fernández | 3 | 34 | 6
+EDGE Stefan Savic | Carlos Isaac | 1 | 34 | 1
+EDGE Stefan Savic | Miguel Ángel Moyá | 3 | 34 | 7
+EDGE Stefan Savic | Nico Gaitán | 2 | 34 | 4
+EDGE Stefan Savic | Sergi González | 1 | 34 | 3
+EDGE Kévin Gameiro | José María Giménez | 9 | 18 | 31
+EDGE Kévin Gameiro | Sime Vrsaljko | 9 | 18 | 24
+EDGE Kévin Gameiro | Vitolo | 3 | 18 | 13
+EDGE Kévin Gameiro | Yannick Carrasco | 2 | 18 | 14
+EDGE Kévin Gameiro | Nico Gaitán | 1 | 18 | 4
+EDGE Kévin Gameiro | Carlos Isaac | 1 | 18 | 1
+EDGE Kévin Gameiro | Miguel Ángel Moyá | 3 | 18 | 7
+EDGE Kévin Gameiro | Sergi González | 1 | 18 | 3
+EDGE Kévin Gameiro | Fernando Torres | 3 | 18 | 15
+EDGE Kévin Gameiro | Augusto Fernández | 1 | 18 | 6
+EDGE José María Giménez | Yannick Carrasco | 7 | 31 | 14
+EDGE José María Giménez | Fernando Torres | 11 | 31 | 15
+EDGE José María Giménez | Axel Werner | 2 | 31 | 3
+EDGE José María Giménez | Diego Costa | 11 | 31 | 20
+EDGE José María Giménez | Sime Vrsaljko | 15 | 31 | 24
+EDGE José María Giménez | Nico Gaitán | 4 | 31 | 4
+EDGE José María Giménez | Vitolo | 6 | 31 | 13
+EDGE José María Giménez | Miguel Ángel Moyá | 5 | 31 | 7
+EDGE José María Giménez | Sergi González | 2 | 31 | 3
+EDGE José María Giménez | Augusto Fernández | 4 | 31 | 6
+EDGE José María Giménez | Keidi Bare | 1 | 31 | 1
+EDGE José María Giménez | Luciano Vietto | 4 | 31 | 7
+EDGE Yannick Carrasco | Fernando Torres | 5 | 14 | 15
+EDGE Yannick Carrasco | Sime Vrsaljko | 6 | 14 | 24
+EDGE Yannick Carrasco | Luciano Vietto | 4 | 14 | 7
+EDGE Yannick Carrasco | Nico Gaitán | 2 | 14 | 4
+EDGE Yannick Carrasco | Diego Costa | 4 | 14 | 20
+EDGE Yannick Carrasco | Miguel Ángel Moyá | 3 | 14 | 7
+EDGE Yannick Carrasco | Augusto Fernández | 4 | 14 | 6
+EDGE Yannick Carrasco | Sergi González | 1 | 14 | 3
+EDGE Yannick Carrasco | Vitolo | 1 | 14 | 13
+EDGE Fernando Torres | Axel Werner | 2 | 15 | 3
+EDGE Fernando Torres | Sime Vrsaljko | 4 | 15 | 24
+EDGE Fernando Torres | Vitolo | 6 | 15 | 13
+EDGE Fernando Torres | Diego Costa | 2 | 15 | 20
+EDGE Fernando Torres | Miguel Ángel Moyá | 4 | 15 | 7
+EDGE Fernando Torres | Sergi González | 3 | 15 | 3
+EDGE Fernando Torres | Augusto Fernández | 5 | 15 | 6
+EDGE Fernando Torres | Keidi Bare | 1 | 15 | 1
+EDGE Fernando Torres | Nico Gaitán | 2 | 15 | 4
+EDGE Fernando Torres | Luciano Vietto | 2 | 15 | 7
+EDGE Axel Werner | Diego Costa | 2 | 3 | 20
+EDGE Axel Werner | Sime Vrsaljko | 1 | 3 | 24
+EDGE Axel Werner | Vitolo | 1 | 3 | 13
+EDGE Diego Costa | Sime Vrsaljko | 11 | 20 | 24
+EDGE Diego Costa | Vitolo | 8 | 20 | 13
+EDGE Diego Costa | Miguel Ángel Moyá | 2 | 20 | 7
+EDGE Diego Costa | Sergi González | 1 | 20 | 3
+EDGE Diego Costa | Augusto Fernández | 1 | 20 | 6
+EDGE Sime Vrsaljko | Luciano Vietto | 3 | 24 | 7
+EDGE Sime Vrsaljko | Vitolo | 5 | 24 | 13
+EDGE Sime Vrsaljko | Nico Gaitán | 2 | 24 | 4
+EDGE Sime Vrsaljko | Miguel Ángel Moyá | 2 | 24 | 7
+EDGE Sime Vrsaljko | Sergi González | 1 | 24 | 3
+EDGE Sime Vrsaljko | Augusto Fernández | 1 | 24 | 6
+EDGE Sime Vrsaljko | Keidi Bare | 1 | 24 | 1
+EDGE Luciano Vietto | Miguel Ángel Moyá | 2 | 7 | 7
+EDGE Luciano Vietto | Sergi González | 1 | 7 | 3
+EDGE Luciano Vietto | Augusto Fernández | 2 | 7 | 6
+EDGE Luciano Vietto | Keidi Bare | 1 | 7 | 1
+EDGE Luciano Vietto | Nico Gaitán | 2 | 7 | 4
+EDGE Vitolo | Sergi González | 2 | 13 | 3
+EDGE Vitolo | Miguel Ángel Moyá | 2 | 13 | 7
+EDGE Vitolo | Augusto Fernández | 1 | 13 | 6
+EDGE Augusto Fernández | Miguel Ángel Moyá | 4 | 6 | 7
+EDGE Augusto Fernández | Sergi González | 2 | 6 | 3
+EDGE Augusto Fernández | Keidi Bare | 1 | 6 | 1
+EDGE Augusto Fernández | Nico Gaitán | 2 | 6 | 4
+EDGE Nico Gaitán | Miguel Ángel Moyá | 2 | 4 | 7
+EDGE Nico Gaitán | Sergi González | 1 | 4 | 3
+EDGE Nico Gaitán | Keidi Bare | 1 | 4 | 1
+EDGE Miguel Ángel Moyá | Sergi González | 2 | 7 | 3
+EDGE Miguel Ángel Moyá | Keidi Bare | 1 | 7 | 1
+EDGE Sergi González | Keidi Bare | 1 | 3 | 1

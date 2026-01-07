@@ -1,0 +1,175 @@
+# Team: Atlético Madryt
+# Format: MATCH: id | date | opponent
+#         PLAYERS: player1, player2, ...
+
+MATCH: 2647659 | śr., 06.01.2016 | Rayo Vallecano
+PLAYERS: Miguel Ángel Moyá, Stefan Savic, José María Giménez, Guilherme Siqueira, Jesús Gámez, Matías Kranevitter, Thomas Partey, Augusto Fernández, Óliver Torres, Yannick Carrasco, Fernando Torres
+
+MATCH: 2594504 | sob., 19.09.2015 | SD Eibar
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Antoine Griezmann, Jackson Martínez, Luciano Vietto
+
+MATCH: 2594640 | śr., 30.12.2015 | Rayo Vallecano
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Jesús Gámez, Juanfran Torres, Saúl Ñíguez, Koke, Óliver Torres, Yannick Carrasco, Antoine Griezmann, Fernando Torres
+
+MATCH: 2682242 | wt., 03.05.2016 | Bayern Monachium
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Augusto Fernández, Gabi, Saúl Ñíguez, Koke, Antoine Griezmann, Fernando Torres
+
+MATCH: 2594480 | sob., 22.08.2015 | UD Las Palmas
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Óliver Torres, Koke, Antoine Griezmann, Jackson Martínez
+
+MATCH: 2594694 | sob., 06.02.2016 | SD Eibar
+PLAYERS: Jan Oblak, José María Giménez, Saúl Ñíguez, Lucas Hernández, Jesús Gámez, Thomas Partey, Gabi, Koke, Yannick Carrasco, Ángel Correa, Antoine Griezmann
+
+MATCH: 2618614 | śr., 25.11.2015 | Galatasaray
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Jesús Gámez, Tiago Mendes, Koke, Gabi, Yannick Carrasco, Antoine Griezmann, Fernando Torres
+
+MATCH: 2675295 | wt., 05.04.2016 | FC Barcelona
+PLAYERS: Jan Oblak, Diego Godín, Lucas Hernández, Filipe Luís, Juanfran Torres, Gabi, Koke, Saúl Ñíguez, Yannick Carrasco, Antoine Griezmann, Fernando Torres
+
+MATCH: 2594840 | niedz., 08.05.2016 | Levante UD
+PLAYERS: Jan Oblak, Stefan Savic, José María Giménez, Filipe Luís, Juanfran Torres, Augusto Fernández, Gabi, Saúl Ñíguez, Koke, Ángel Correa, Fernando Torres
+
+MATCH: 2594483 | niedz., 30.08.2015 | Sevilla FC
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Jesús Gámez, Juanfran Torres, Tiago Mendes, Gabi, Óliver Torres, Koke, Antoine Griezmann, Fernando Torres
+
+MATCH: 2594767 | sob., 19.03.2016 | Sporting Gijón
+PLAYERS: Jan Oblak, José María Giménez, Lucas Hernández, Filipe Luís, Jesús Gámez, Matías Kranevitter, Saúl Ñíguez, Koke, Antoine Griezmann, Ángel Correa, Luciano Vietto
+
+MATCH: 2594659 | niedz., 10.01.2016 | Celta de Vigo
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Augusto Fernández, Gabi, Saúl Ñíguez, Koke, Antoine Griezmann, Luciano Vietto
+
+MATCH: 2594673 | niedz., 24.01.2016 | Sevilla FC
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Juanfran Torres, Augusto Fernández, Gabi, Saúl Ñíguez, Koke, Antoine Griezmann, Luciano Vietto
+
+MATCH: 2594525 | sob., 26.09.2015 | Villarreal CF
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Jesús Gámez, Tiago Mendes, Gabi, Óliver Torres, Saúl Ñíguez, Antoine Griezmann, Jackson Martínez
+
+MATCH: 2594650 | sob., 02.01.2016 | Levante UD
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Juanfran Torres, Gabi, Saúl Ñíguez, Koke, Ángel Correa, Antoine Griezmann, Jackson Martínez
+
+MATCH: 2618569 | śr., 30.09.2015 | Benfika Lizbona
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Óliver Torres, Antoine Griezmann, Ángel Correa, Jackson Martínez
+
+MATCH: 2618631 | wt., 08.12.2015 | Benfika Lizbona
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Juanfran Torres, Saúl Ñíguez, Koke, Gabi, Antoine Griezmann, Yannick Carrasco, Luciano Vietto
+
+MATCH: 2656742 | śr., 20.01.2016 | Celta de Vigo
+PLAYERS: Miguel Ángel Moyá, Diego Godín, Stefan Savic, Filipe Luís, Jesús Gámez, Augusto Fernández, Gabi, Koke, Yannick Carrasco, Antoine Griezmann, Jackson Martínez
+
+MATCH: 2594778 | sob., 02.04.2016 | Real Betis Balompié
+PLAYERS: Jan Oblak, Nacho Monsalve, Lucas Hernández, Filipe Luís, Juanfran Torres, Augusto Fernández, Gabi, Saúl Ñíguez, Koke, Antoine Griezmann, Fernando Torres
+
+MATCH: 2594704 | niedz., 14.02.2016 | Getafe CF
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Gabi, Saúl Ñíguez, Koke, Yannick Carrasco, Antoine Griezmann, Fernando Torres
+
+MATCH: 2594493 | sob., 12.09.2015 | FC Barcelona
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Gabi, Tiago Mendes, Óliver Torres, Koke, Antoine Griezmann, Fernando Torres
+
+MATCH: 2594725 | sob., 27.02.2016 | Real Madryt
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Augusto Fernández, Gabi, Saúl Ñíguez, Koke, Antoine Griezmann, Fernando Torres
+
+MATCH: 2618539 | wt., 15.09.2015 | Galatasaray
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Guilherme Siqueira, Juanfran Torres, Saúl Ñíguez, Tiago Mendes, Koke, Antoine Griezmann, Luciano Vietto, Jackson Martínez
+
+MATCH: 2645819 | wt., 15.03.2016 | PSV Eindhoven
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Gabi, Augusto Fernández, Saúl Ñíguez, Koke, Yannick Carrasco, Antoine Griezmann
+
+MATCH: 2594567 | pt., 30.10.2015 | Deportivo de La Coruña
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Yannick Carrasco, Koke, Antoine Griezmann, Jackson Martínez
+
+MATCH: 2594715 | niedz., 21.02.2016 | Villarreal CF
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Juanfran Torres, Saúl Ñíguez, Gabi, Koke, Ángel Correa, Antoine Griezmann, Fernando Torres
+
+MATCH: 2594746 | niedz., 06.03.2016 | Valencia CF
+PLAYERS: Jan Oblak, José María Giménez, Lucas Hernández, Filipe Luís, Juanfran Torres, Matías Kranevitter, Gabi, Koke, Saúl Ñíguez, Antoine Griezmann, Luciano Vietto
+
+MATCH: 2594799 | niedz., 17.04.2016 | Granada CF
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Lucas Hernández, Juanfran Torres, Gabi, Koke, Saúl Ñíguez, Yannick Carrasco, Antoine Griezmann, Fernando Torres
+
+MATCH: 2633812 | wt., 01.12.2015 | CF Reus Deportiu
+PLAYERS: Miguel Ángel Moyá, Stefan Savic, Lucas Hernández, Guilherme Siqueira, Jesús Gámez, Thomas Partey, Saúl Ñíguez, Óliver Torres, Koke, Ángel Correa, Luciano Vietto
+
+MATCH: 2594630 | niedz., 20.12.2015 | Málaga CF
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Gabi, Saúl Ñíguez, Koke, Yannick Carrasco, Antoine Griezmann, Luciano Vietto
+
+MATCH: 2594809 | śr., 20.04.2016 | Athletic Bilbao
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Juanfran Torres, Thomas Partey, Augusto Fernández, Saúl Ñíguez, Koke, Antoine Griezmann, Fernando Torres
+
+MATCH: 2618590 | śr., 21.10.2015 | FC Astana
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Guilherme Siqueira, Juanfran Torres, Tiago Mendes, Gabi, Saúl Ñíguez, Yannick Carrasco, Antoine Griezmann, Jackson Martínez
+
+MATCH: 2594577 | niedz., 08.11.2015 | Sporting Gijón
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Juanfran Torres, Gabi, Tiago Mendes, Koke, Yannick Carrasco, Antoine Griezmann, Jackson Martínez
+
+MATCH: 2594788 | sob., 09.04.2016 | RCD Espanyol
+PLAYERS: Jan Oblak, Diego Godín, Lucas Hernández, Filipe Luís, Juanfran Torres, Augusto Fernández, Koke, Gabi, Yannick Carrasco, Antoine Griezmann, Fernando Torres
+
+MATCH: 2633843 | czw., 17.12.2015 | CF Reus Deportiu
+PLAYERS: Miguel Ángel Moyá, Stefan Savic, Lucas Hernández, Guilherme Siqueira, Jesús Gámez, Thomas Partey, Saúl Ñíguez, Óliver Torres, Koke, Ángel Correa, Fernando Torres
+
+MATCH: 2594670 | niedz., 17.01.2016 | UD Las Palmas
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Augusto Fernández, Gabi, Koke, Saúl Ñíguez, Antoine Griezmann, Luciano Vietto
+
+MATCH: 2645811 | śr., 24.02.2016 | PSV Eindhoven
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Juanfran Torres, Koke, Gabi, Óliver Torres, Saúl Ñíguez, Antoine Griezmann, Luciano Vietto
+
+MATCH: 2682240 | śr., 27.04.2016 | Bayern Monachium
+PLAYERS: Jan Oblak, Stefan Savic, José María Giménez, Filipe Luís, Juanfran Torres, Gabi, Augusto Fernández, Saúl Ñíguez, Koke, Antoine Griezmann, Fernando Torres
+
+MATCH: 2656746 | śr., 27.01.2016 | Celta de Vigo
+PLAYERS: Miguel Ángel Moyá, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Gabi, Saúl Ñíguez, Koke, Yannick Carrasco, Antoine Griezmann, Luciano Vietto
+
+MATCH: 2647660 | czw., 14.01.2016 | Rayo Vallecano
+PLAYERS: Miguel Ángel Moyá, Diego Godín, Stefan Savic, Filipe Luís, Jesús Gámez, Matías Kranevitter, Thomas Partey, Koke, Ángel Correa, Yannick Carrasco, Jackson Martínez
+
+MATCH: 2618598 | wt., 03.11.2015 | FC Astana
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Guilherme Siqueira, Juanfran Torres, Tiago Mendes, Gabi, Saúl Ñíguez, Koke, Antoine Griezmann, Fernando Torres
+
+MATCH: 2594820 | sob., 23.04.2016 | Málaga CF
+PLAYERS: Jan Oblak, José María Giménez, Lucas Hernández, Filipe Luís, Juanfran Torres, Saúl Ñíguez, Gabi, Koke, Yannick Carrasco, Antoine Griezmann, Fernando Torres
+
+MATCH: 2594849 | sob., 14.05.2016 | Celta de Vigo
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Juanfran Torres, Augusto Fernández, Gabi, Saúl Ñíguez, Koke, Antoine Griezmann, Fernando Torres
+
+MATCH: 2594588 | niedz., 22.11.2015 | Real Betis Balompié
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Jesús Gámez, Tiago Mendes, Koke, Gabi, Yannick Carrasco, Antoine Griezmann, Fernando Torres
+
+MATCH: 2594736 | wt., 01.03.2016 | Real Sociedad
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Gabi, Augusto Fernández, Koke, Saúl Ñíguez, Antoine Griezmann, Luciano Vietto
+
+MATCH: 2675299 | śr., 13.04.2016 | FC Barcelona
+PLAYERS: Jan Oblak, Diego Godín, Lucas Hernández, Filipe Luís, Juanfran Torres, Augusto Fernández, Gabi, Saúl Ñíguez, Koke, Yannick Carrasco, Antoine Griezmann
+
+MATCH: 2594683 | sob., 30.01.2016 | FC Barcelona
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Augusto Fernández, Gabi, Saúl Ñíguez, Koke, Yannick Carrasco, Antoine Griezmann
+
+MATCH: 2594609 | sob., 05.12.2015 | Granada CF
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Gabi, Saúl Ñíguez, Koke, Yannick Carrasco, Antoine Griezmann, Fernando Torres
+
+MATCH: 2594619 | niedz., 13.12.2015 | Athletic Bilbao
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Gabi, Koke, Saúl Ñíguez, Yannick Carrasco, Antoine Griezmann, Luciano Vietto
+
+MATCH: 2594514 | wt., 22.09.2015 | Getafe CF
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Guilherme Siqueira, Juanfran Torres, Saúl Ñíguez, Gabi, Óliver Torres, Yannick Carrasco, Antoine Griezmann, Fernando Torres
+
+MATCH: 2594757 | sob., 12.03.2016 | Deportivo de La Coruña
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Koke, Gabi, Saúl Ñíguez, Yannick Carrasco, Antoine Griezmann, Luciano Vietto
+
+MATCH: 2594598 | sob., 28.11.2015 | RCD Espanyol
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Saúl Ñíguez, Tiago Mendes, Óliver Torres, Koke, Antoine Griezmann, Luciano Vietto
+
+MATCH: 2594535 | niedz., 04.10.2015 | Real Madryt
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Óliver Torres, Antoine Griezmann, Ángel Correa, Fernando Torres
+
+MATCH: 2594546 | niedz., 18.10.2015 | Real Sociedad
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Ángel Correa, Antoine Griezmann, Jackson Martínez
+
+MATCH: 2594830 | sob., 30.04.2016 | Rayo Vallecano
+PLAYERS: Jan Oblak, José María Giménez, Lucas Hernández, Jesús Gámez, Juanfran Torres, Matías Kranevitter, Gabi, Thomas Partey, Óliver Torres, Ángel Correa, Luciano Vietto
+
+MATCH: 2690027 | sob., 28.05.2016 | Real Madryt
+PLAYERS: Jan Oblak, Diego Godín, Stefan Savic, Filipe Luís, Juanfran Torres, Augusto Fernández, Gabi, Saúl Ñíguez, Koke, Antoine Griezmann, Fernando Torres
+
+MATCH: 2594556 | niedz., 25.10.2015 | Valencia CF
+PLAYERS: Jan Oblak, Diego Godín, José María Giménez, Filipe Luís, Juanfran Torres, Tiago Mendes, Gabi, Koke, Yannick Carrasco, Antoine Griezmann, Jackson Martínez
+
