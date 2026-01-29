@@ -125,7 +125,7 @@ cd football-team-evolution
 pip3 install -r requirements.txt
 ```
 
-#### 4. Build and Run Visualization 🚀
+#### 4. Build and Run Visualization
 ```bash
 cd visualization
 mvn clean install
@@ -174,7 +174,7 @@ cd football-team-evolution
 pip3 install -r requirements.txt
 ```
 
-#### 4. Build and Run Visualization 🚀
+#### 4. Build and Run Visualization
 ```bash
 cd visualization
 mvn clean install
@@ -280,7 +280,7 @@ where △ is symmetric difference (partnerships lost + partnerships gained)
 - Aleksandra Szymańska
 - Karolina Woch
 
-**University**: Cardinal Stefan Wyszyński University in Warsaw 🎓  
+**University**: Cardinal Stefan Wyszyński University in Warsaw
 **Course**: Team Project  
 **Year**: 2025/2026
 
