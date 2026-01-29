@@ -1,0 +1,3413 @@
+[
+  {
+    "club": "real_madryt",
+    "season_from": "2005_2006",
+    "season_to": "2006_2007",
+    "v_score": 0.528,
+    "e_score": 0.781,
+    "stats": {
+      "total_players_t": 25,
+      "total_players_t1": 28,
+      "total_edges_t": 252,
+      "total_edges_t1": 287
+    },
+    "players_left": [
+      {
+        "name": "Júlio Baptista",
+        "matches": 35
+      },
+      {
+        "name": "Zinédine Zidane",
+        "matches": 30
+      },
+      {
+        "name": "Pablo García",
+        "matches": 21
+      },
+      {
+        "name": "Thomas Gravesen",
+        "matches": 20
+      },
+      {
+        "name": "Carlos Diogo",
+        "matches": 12
+      },
+      {
+        "name": "Jonathan Woodgate",
+        "matches": 11
+      },
+      {
+        "name": "Roberto Soldado",
+        "matches": 5
+      },
+      {
+        "name": "Javier Balboa",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Ruud van Nistelrooy",
+        "matches": 46
+      },
+      {
+        "name": "Mahamadou Diarra",
+        "matches": 41
+      },
+      {
+        "name": "Fabio Cannavaro",
+        "matches": 38
+      },
+      {
+        "name": "Emerson",
+        "matches": 33
+      },
+      {
+        "name": "Miguel Torres",
+        "matches": 23
+      },
+      {
+        "name": "José Antonio Reyes",
+        "matches": 19
+      },
+      {
+        "name": "Gonzalo Higuaín",
+        "matches": 17
+      },
+      {
+        "name": "Fernando Gago",
+        "matches": 17
+      },
+      {
+        "name": "Javi García",
+        "matches": 2
+      },
+      {
+        "name": "Miguel Ángel Nieto",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Iker Casillas",
+        "player2": "Júlio Baptista",
+        "weight": 31
+      },
+      {
+        "player1": "Júlio Baptista",
+        "player2": "Sergio Ramos",
+        "weight": 31
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Zinédine Zidane",
+        "weight": 30
+      },
+      {
+        "player1": "Zinédine Zidane",
+        "player2": "Roberto Carlos",
+        "weight": 28
+      },
+      {
+        "player1": "Júlio Baptista",
+        "player2": "Robinho",
+        "weight": 28
+      },
+      {
+        "player1": "Júlio Baptista",
+        "player2": "Roberto Carlos",
+        "weight": 28
+      },
+      {
+        "player1": "Júlio Baptista",
+        "player2": "David Beckham",
+        "weight": 28
+      },
+      {
+        "player1": "Zinédine Zidane",
+        "player2": "Sergio Ramos",
+        "weight": 25
+      },
+      {
+        "player1": "Zinédine Zidane",
+        "player2": "Robinho",
+        "weight": 24
+      },
+      {
+        "player1": "Júlio Baptista",
+        "player2": "Guti",
+        "weight": 23
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Iker Casillas",
+        "player2": "Ruud van Nistelrooy",
+        "weight": 43
+      },
+      {
+        "player1": "Ruud van Nistelrooy",
+        "player2": "Sergio Ramos",
+        "weight": 41
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Fabio Cannavaro",
+        "weight": 38
+      },
+      {
+        "player1": "Mahamadou Diarra",
+        "player2": "Ruud van Nistelrooy",
+        "weight": 38
+      },
+      {
+        "player1": "Ruud van Nistelrooy",
+        "player2": "Raúl",
+        "weight": 37
+      },
+      {
+        "player1": "Ruud van Nistelrooy",
+        "player2": "Fabio Cannavaro",
+        "weight": 36
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Mahamadou Diarra",
+        "weight": 36
+      },
+      {
+        "player1": "Mahamadou Diarra",
+        "player2": "Sergio Ramos",
+        "weight": 35
+      },
+      {
+        "player1": "Fabio Cannavaro",
+        "player2": "Raúl",
+        "weight": 34
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Emerson",
+        "weight": 33
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2006_2007",
+    "season_to": "2007_2008",
+    "v_score": 0.675,
+    "e_score": 0.848,
+    "stats": {
+      "total_players_t": 28,
+      "total_players_t1": 25,
+      "total_edges_t": 287,
+      "total_edges_t1": 273
+    },
+    "players_left": [
+      {
+        "name": "Emerson",
+        "matches": 33
+      },
+      {
+        "name": "Roberto Carlos",
+        "matches": 31
+      },
+      {
+        "name": "Iván Helguera",
+        "matches": 28
+      },
+      {
+        "name": "David Beckham",
+        "matches": 19
+      },
+      {
+        "name": "José Antonio Reyes",
+        "matches": 19
+      },
+      {
+        "name": "Antonio Cassano",
+        "matches": 8
+      },
+      {
+        "name": "Álvaro Mejía",
+        "matches": 7
+      },
+      {
+        "name": "Ronaldo",
+        "matches": 6
+      },
+      {
+        "name": "Raúl Bravo",
+        "matches": 6
+      },
+      {
+        "name": "Cicinho",
+        "matches": 6
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Wesley Sneijder",
+        "matches": 34
+      },
+      {
+        "name": "Pepe",
+        "matches": 23
+      },
+      {
+        "name": "Gabriel Heinze",
+        "matches": 23
+      },
+      {
+        "name": "Arjen Robben",
+        "matches": 16
+      },
+      {
+        "name": "Júlio Baptista",
+        "matches": 16
+      },
+      {
+        "name": "Christoph Metzelder",
+        "matches": 11
+      },
+      {
+        "name": "Royston Drenthe",
+        "matches": 10
+      },
+      {
+        "name": "Javier Saviola",
+        "matches": 7
+      },
+      {
+        "name": "Jerzy Dudek",
+        "matches": 5
+      },
+      {
+        "name": "Roberto Soldado",
+        "matches": 2
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Iker Casillas",
+        "player2": "Emerson",
+        "weight": 33
+      },
+      {
+        "player1": "Emerson",
+        "player2": "Ruud van Nistelrooy",
+        "weight": 31
+      },
+      {
+        "player1": "Emerson",
+        "player2": "Fabio Cannavaro",
+        "weight": 30
+      },
+      {
+        "player1": "Emerson",
+        "player2": "Sergio Ramos",
+        "weight": 30
+      },
+      {
+        "player1": "Emerson",
+        "player2": "Raúl",
+        "weight": 30
+      },
+      {
+        "player1": "Ruud van Nistelrooy",
+        "player2": "Roberto Carlos",
+        "weight": 29
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Roberto Carlos",
+        "weight": 29
+      },
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Roberto Carlos",
+        "weight": 27
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Iván Helguera",
+        "weight": 26
+      },
+      {
+        "player1": "Ruud van Nistelrooy",
+        "player2": "Iván Helguera",
+        "weight": 26
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Wesley Sneijder",
+        "player2": "Raúl",
+        "weight": 33
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Wesley Sneijder",
+        "weight": 31
+      },
+      {
+        "player1": "Wesley Sneijder",
+        "player2": "Sergio Ramos",
+        "weight": 30
+      },
+      {
+        "player1": "Wesley Sneijder",
+        "player2": "Fabio Cannavaro",
+        "weight": 29
+      },
+      {
+        "player1": "Marcelo",
+        "player2": "Guti",
+        "weight": 24
+      },
+      {
+        "player1": "Wesley Sneijder",
+        "player2": "Robinho",
+        "weight": 24
+      },
+      {
+        "player1": "Pepe",
+        "player2": "Raúl",
+        "weight": 23
+      },
+      {
+        "player1": "Wesley Sneijder",
+        "player2": "Mahamadou Diarra",
+        "weight": 23
+      },
+      {
+        "player1": "Marcelo",
+        "player2": "Fernando Gago",
+        "weight": 21
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Pepe",
+        "weight": 21
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2007_2008",
+    "season_to": "2008_2009",
+    "v_score": 0.323,
+    "e_score": 0.495,
+    "stats": {
+      "total_players_t": 25,
+      "total_players_t1": 27,
+      "total_edges_t": 273,
+      "total_edges_t1": 296
+    },
+    "players_left": [
+      {
+        "name": "Júlio Baptista",
+        "matches": 16
+      },
+      {
+        "name": "Roberto Soldado",
+        "matches": 2
+      },
+      {
+        "name": "Javier Balboa",
+        "matches": 2
+      },
+      {
+        "name": "Jordi Codina",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Rafael van der Vaart",
+        "matches": 22
+      },
+      {
+        "name": "Lassana Diarra",
+        "matches": 21
+      },
+      {
+        "name": "Klaas-Jan Huntelaar",
+        "matches": 13
+      },
+      {
+        "name": "Rubén de la Red",
+        "matches": 8
+      },
+      {
+        "name": "Javi García",
+        "matches": 4
+      },
+      {
+        "name": "Gary Kagelmacher",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Robinho",
+        "weight": 30
+      },
+      {
+        "player1": "Fabio Cannavaro",
+        "player2": "Robinho",
+        "weight": 28
+      },
+      {
+        "player1": "Wesley Sneijder",
+        "player2": "Robinho",
+        "weight": 24
+      },
+      {
+        "player1": "Robinho",
+        "player2": "Guti",
+        "weight": 23
+      },
+      {
+        "player1": "Marcelo",
+        "player2": "Robinho",
+        "weight": 22
+      },
+      {
+        "player1": "Robinho",
+        "player2": "Fernando Gago",
+        "weight": 20
+      },
+      {
+        "player1": "Pepe",
+        "player2": "Robinho",
+        "weight": 20
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Júlio Baptista",
+        "weight": 15
+      },
+      {
+        "player1": "Júlio Baptista",
+        "player2": "Fabio Cannavaro",
+        "weight": 15
+      },
+      {
+        "player1": "Júlio Baptista",
+        "player2": "Raúl",
+        "weight": 15
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Raúl",
+        "player2": "Lassana Diarra",
+        "weight": 21
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Lassana Diarra",
+        "weight": 21
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Rafael van der Vaart",
+        "weight": 20
+      },
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Lassana Diarra",
+        "weight": 19
+      },
+      {
+        "player1": "Fabio Cannavaro",
+        "player2": "Lassana Diarra",
+        "weight": 19
+      },
+      {
+        "player1": "Raúl",
+        "player2": "Rafael van der Vaart",
+        "weight": 18
+      },
+      {
+        "player1": "Arjen Robben",
+        "player2": "Lassana Diarra",
+        "weight": 18
+      },
+      {
+        "player1": "Lassana Diarra",
+        "player2": "Gabriel Heinze",
+        "weight": 17
+      },
+      {
+        "player1": "Gonzalo Higuaín",
+        "player2": "Lassana Diarra",
+        "weight": 16
+      },
+      {
+        "player1": "Gonzalo Higuaín",
+        "player2": "Rafael van der Vaart",
+        "weight": 16
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2008_2009",
+    "season_to": "2009_2010",
+    "v_score": 0.571,
+    "e_score": 0.807,
+    "stats": {
+      "total_players_t": 27,
+      "total_players_t1": 23,
+      "total_edges_t": 296,
+      "total_edges_t1": 230
+    },
+    "players_left": [
+      {
+        "name": "Fabio Cannavaro",
+        "matches": 37
+      },
+      {
+        "name": "Gabriel Heinze",
+        "matches": 34
+      },
+      {
+        "name": "Arjen Robben",
+        "matches": 31
+      },
+      {
+        "name": "Wesley Sneijder",
+        "matches": 23
+      },
+      {
+        "name": "Klaas-Jan Huntelaar",
+        "matches": 13
+      },
+      {
+        "name": "Miguel Torres",
+        "matches": 12
+      },
+      {
+        "name": "Míchel Salgado",
+        "matches": 10
+      },
+      {
+        "name": "Rubén de la Red",
+        "matches": 8
+      },
+      {
+        "name": "Javier Saviola",
+        "matches": 4
+      },
+      {
+        "name": "Javi García",
+        "matches": 4
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Raúl Albiol",
+        "matches": 42
+      },
+      {
+        "name": "Xabi Alonso",
+        "matches": 41
+      },
+      {
+        "name": "Álvaro Arbeloa",
+        "matches": 38
+      },
+      {
+        "name": "Cristiano Ronaldo",
+        "matches": 33
+      },
+      {
+        "name": "Kaká",
+        "matches": 29
+      },
+      {
+        "name": "Esteban Granero",
+        "matches": 25
+      },
+      {
+        "name": "Ezequiel Garay",
+        "matches": 20
+      },
+      {
+        "name": "Karim Benzema",
+        "matches": 18
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Iker Casillas",
+        "player2": "Fabio Cannavaro",
+        "weight": 35
+      },
+      {
+        "player1": "Fabio Cannavaro",
+        "player2": "Raúl",
+        "weight": 34
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Gabriel Heinze",
+        "weight": 33
+      },
+      {
+        "player1": "Fabio Cannavaro",
+        "player2": "Sergio Ramos",
+        "weight": 33
+      },
+      {
+        "player1": "Raúl",
+        "player2": "Gabriel Heinze",
+        "weight": 31
+      },
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Gabriel Heinze",
+        "weight": 30
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Arjen Robben",
+        "weight": 30
+      },
+      {
+        "player1": "Gonzalo Higuaín",
+        "player2": "Fabio Cannavaro",
+        "weight": 30
+      },
+      {
+        "player1": "Arjen Robben",
+        "player2": "Raúl",
+        "weight": 28
+      },
+      {
+        "player1": "Fabio Cannavaro",
+        "player2": "Gabriel Heinze",
+        "weight": 26
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Iker Casillas",
+        "player2": "Xabi Alonso",
+        "weight": 41
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Raúl Albiol",
+        "weight": 40
+      },
+      {
+        "player1": "Marcelo",
+        "player2": "Xabi Alonso",
+        "weight": 36
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Álvaro Arbeloa",
+        "weight": 36
+      },
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Xabi Alonso",
+        "weight": 36
+      },
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Xabi Alonso",
+        "weight": 35
+      },
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Sergio Ramos",
+        "weight": 35
+      },
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Marcelo",
+        "weight": 34
+      },
+      {
+        "player1": "Álvaro Arbeloa",
+        "player2": "Xabi Alonso",
+        "weight": 33
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Cristiano Ronaldo",
+        "weight": 33
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2009_2010",
+    "season_to": "2010_2011",
+    "v_score": 0.485,
+    "e_score": 0.703,
+    "stats": {
+      "total_players_t": 23,
+      "total_players_t1": 27,
+      "total_edges_t": 230,
+      "total_edges_t1": 290
+    },
+    "players_left": [
+      {
+        "name": "Rafael van der Vaart",
+        "matches": 18
+      },
+      {
+        "name": "Raúl",
+        "matches": 13
+      },
+      {
+        "name": "Guti",
+        "matches": 13
+      },
+      {
+        "name": "Royston Drenthe",
+        "matches": 5
+      },
+      {
+        "name": "Christoph Metzelder",
+        "matches": 3
+      },
+      {
+        "name": "Ruud van Nistelrooy",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Ricardo Carvalho",
+        "matches": 46
+      },
+      {
+        "name": "Mesut Özil",
+        "matches": 45
+      },
+      {
+        "name": "Ángel Di María",
+        "matches": 42
+      },
+      {
+        "name": "Sami Khedira",
+        "matches": 34
+      },
+      {
+        "name": "Emmanuel Adebayor",
+        "matches": 9
+      },
+      {
+        "name": "Sergio Canales",
+        "matches": 6
+      },
+      {
+        "name": "Pedro León",
+        "matches": 5
+      },
+      {
+        "name": "Antonio Adán",
+        "matches": 3
+      },
+      {
+        "name": "Nacho Fernández",
+        "matches": 2
+      },
+      {
+        "name": "David Mateos",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Iker Casillas",
+        "player2": "Rafael van der Vaart",
+        "weight": 17
+      },
+      {
+        "player1": "Álvaro Arbeloa",
+        "player2": "Rafael van der Vaart",
+        "weight": 16
+      },
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Rafael van der Vaart",
+        "weight": 16
+      },
+      {
+        "player1": "Gonzalo Higuaín",
+        "player2": "Rafael van der Vaart",
+        "weight": 16
+      },
+      {
+        "player1": "Marcelo",
+        "player2": "Rafael van der Vaart",
+        "weight": 16
+      },
+      {
+        "player1": "Rafael van der Vaart",
+        "player2": "Xabi Alonso",
+        "weight": 15
+      },
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Fernando Gago",
+        "weight": 15
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Rafael van der Vaart",
+        "weight": 15
+      },
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Rafael van der Vaart",
+        "weight": 15
+      },
+      {
+        "player1": "Gonzalo Higuaín",
+        "player2": "Fernando Gago",
+        "weight": 14
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Iker Casillas",
+        "player2": "Mesut Özil",
+        "weight": 43
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Ricardo Carvalho",
+        "weight": 42
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Mesut Özil",
+        "weight": 42
+      },
+      {
+        "player1": "Mesut Özil",
+        "player2": "Xabi Alonso",
+        "weight": 41
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Ricardo Carvalho",
+        "weight": 41
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Ángel Di María",
+        "weight": 40
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Ángel Di María",
+        "weight": 38
+      },
+      {
+        "player1": "Mesut Özil",
+        "player2": "Marcelo",
+        "weight": 38
+      },
+      {
+        "player1": "Marcelo",
+        "player2": "Ricardo Carvalho",
+        "weight": 37
+      },
+      {
+        "player1": "Xabi Alonso",
+        "player2": "Ricardo Carvalho",
+        "weight": 37
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2010_2011",
+    "season_to": "2011_2012",
+    "v_score": 0.455,
+    "e_score": 0.621,
+    "stats": {
+      "total_players_t": 27,
+      "total_players_t1": 24,
+      "total_edges_t": 290,
+      "total_edges_t1": 259
+    },
+    "players_left": [
+      {
+        "name": "Emmanuel Adebayor",
+        "matches": 9
+      },
+      {
+        "name": "Sergio Canales",
+        "matches": 6
+      },
+      {
+        "name": "Pedro León",
+        "matches": 5
+      },
+      {
+        "name": "Ezequiel Garay",
+        "matches": 5
+      },
+      {
+        "name": "Mahamadou Diarra",
+        "matches": 3
+      },
+      {
+        "name": "Nacho Fernández",
+        "matches": 2
+      },
+      {
+        "name": "Jerzy Dudek",
+        "matches": 2
+      },
+      {
+        "name": "Fernando Gago",
+        "matches": 2
+      },
+      {
+        "name": "David Mateos",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Fábio Coentrão",
+        "matches": 23
+      },
+      {
+        "name": "Raphaël Varane",
+        "matches": 13
+      },
+      {
+        "name": "José Callejón",
+        "matches": 11
+      },
+      {
+        "name": "Nuri Şahin",
+        "matches": 8
+      },
+      {
+        "name": "Hamit Altıntop",
+        "matches": 5
+      },
+      {
+        "name": "Jorge Casado",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Mesut Özil",
+        "player2": "Emmanuel Adebayor",
+        "weight": 9
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Emmanuel Adebayor",
+        "weight": 8
+      },
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Emmanuel Adebayor",
+        "weight": 7
+      },
+      {
+        "player1": "Emmanuel Adebayor",
+        "player2": "Ricardo Carvalho",
+        "weight": 7
+      },
+      {
+        "player1": "Emmanuel Adebayor",
+        "player2": "Xabi Alonso",
+        "weight": 7
+      },
+      {
+        "player1": "Álvaro Arbeloa",
+        "player2": "Emmanuel Adebayor",
+        "weight": 7
+      },
+      {
+        "player1": "Emmanuel Adebayor",
+        "player2": "Ángel Di María",
+        "weight": 6
+      },
+      {
+        "player1": "Lassana Diarra",
+        "player2": "Esteban Granero",
+        "weight": 6
+      },
+      {
+        "player1": "Emmanuel Adebayor",
+        "player2": "Marcelo",
+        "weight": 6
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Emmanuel Adebayor",
+        "weight": 6
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Fábio Coentrão",
+        "weight": 22
+      },
+      {
+        "player1": "Pepe",
+        "player2": "Fábio Coentrão",
+        "weight": 21
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Fábio Coentrão",
+        "weight": 21
+      },
+      {
+        "player1": "Fábio Coentrão",
+        "player2": "Xabi Alonso",
+        "weight": 20
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Fábio Coentrão",
+        "weight": 20
+      },
+      {
+        "player1": "Fábio Coentrão",
+        "player2": "Mesut Özil",
+        "weight": 18
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Fábio Coentrão",
+        "weight": 17
+      },
+      {
+        "player1": "Fábio Coentrão",
+        "player2": "Álvaro Arbeloa",
+        "weight": 13
+      },
+      {
+        "player1": "Fábio Coentrão",
+        "player2": "Ángel Di María",
+        "weight": 13
+      },
+      {
+        "player1": "Fábio Coentrão",
+        "player2": "Sami Khedira",
+        "weight": 12
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2011_2012",
+    "season_to": "2012_2013",
+    "v_score": 0.412,
+    "e_score": 0.559,
+    "stats": {
+      "total_players_t": 24,
+      "total_players_t1": 30,
+      "total_edges_t": 259,
+      "total_edges_t1": 329
+    },
+    "players_left": [
+      {
+        "name": "Esteban Granero",
+        "matches": 10
+      },
+      {
+        "name": "Nuri Şahin",
+        "matches": 8
+      },
+      {
+        "name": "Hamit Altıntop",
+        "matches": 5
+      },
+      {
+        "name": "Jorge Casado",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Luka Modrić",
+        "matches": 36
+      },
+      {
+        "name": "Michael Essien",
+        "matches": 31
+      },
+      {
+        "name": "Diego López",
+        "matches": 25
+      },
+      {
+        "name": "Nacho Fernández",
+        "matches": 9
+      },
+      {
+        "name": "Álvaro Morata",
+        "matches": 7
+      },
+      {
+        "name": "Casemiro",
+        "matches": 1
+      },
+      {
+        "name": "Jesús Fernández",
+        "matches": 1
+      },
+      {
+        "name": "José Rodríguez",
+        "matches": 1
+      },
+      {
+        "name": "Denis Cheryshev",
+        "matches": 1
+      },
+      {
+        "name": "Álex Fernández",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Karim Benzema",
+        "player2": "Lassana Diarra",
+        "weight": 13
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Esteban Granero",
+        "weight": 9
+      },
+      {
+        "player1": "Lassana Diarra",
+        "player2": "Kaká",
+        "weight": 8
+      },
+      {
+        "player1": "Sami Khedira",
+        "player2": "Lassana Diarra",
+        "weight": 8
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Esteban Granero",
+        "weight": 8
+      },
+      {
+        "player1": "Marcelo",
+        "player2": "Esteban Granero",
+        "weight": 7
+      },
+      {
+        "player1": "Mesut Özil",
+        "player2": "Esteban Granero",
+        "weight": 7
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Esteban Granero",
+        "weight": 7
+      },
+      {
+        "player1": "Raphaël Varane",
+        "player2": "Esteban Granero",
+        "weight": 6
+      },
+      {
+        "player1": "Nuri Şahin",
+        "player2": "Raphaël Varane",
+        "weight": 6
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Luka Modrić",
+        "weight": 28
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Michael Essien",
+        "weight": 24
+      },
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Luka Modrić",
+        "weight": 22
+      },
+      {
+        "player1": "Pepe",
+        "player2": "Luka Modrić",
+        "weight": 21
+      },
+      {
+        "player1": "Luka Modrić",
+        "player2": "Michael Essien",
+        "weight": 20
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Diego López",
+        "weight": 19
+      },
+      {
+        "player1": "Gonzalo Higuaín",
+        "player2": "Luka Modrić",
+        "weight": 19
+      },
+      {
+        "player1": "Mesut Özil",
+        "player2": "Michael Essien",
+        "weight": 19
+      },
+      {
+        "player1": "Luka Modrić",
+        "player2": "Xabi Alonso",
+        "weight": 19
+      },
+      {
+        "player1": "Mesut Özil",
+        "player2": "Luka Modrić",
+        "weight": 19
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2012_2013",
+    "season_to": "2013_2014",
+    "v_score": 0.486,
+    "e_score": 0.706,
+    "stats": {
+      "total_players_t": 30,
+      "total_players_t1": 23,
+      "total_edges_t": 329,
+      "total_edges_t1": 234
+    },
+    "players_left": [
+      {
+        "name": "Michael Essien",
+        "matches": 31
+      },
+      {
+        "name": "Gonzalo Higuaín",
+        "matches": 27
+      },
+      {
+        "name": "José Callejón",
+        "matches": 21
+      },
+      {
+        "name": "Raúl Albiol",
+        "matches": 20
+      },
+      {
+        "name": "Ricardo Carvalho",
+        "matches": 16
+      },
+      {
+        "name": "Kaká",
+        "matches": 15
+      },
+      {
+        "name": "Antonio Adán",
+        "matches": 7
+      },
+      {
+        "name": "Lassana Diarra",
+        "matches": 2
+      },
+      {
+        "name": "Jesús Fernández",
+        "matches": 1
+      },
+      {
+        "name": "José Rodríguez",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Daniel Carvajal",
+        "matches": 37
+      },
+      {
+        "name": "Gareth Bale",
+        "matches": 36
+      },
+      {
+        "name": "Isco",
+        "matches": 35
+      },
+      {
+        "name": "Asier Illarramendi",
+        "matches": 27
+      },
+      {
+        "name": "Jesé",
+        "matches": 12
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Mesut Özil",
+        "player2": "Xabi Alonso",
+        "weight": 31
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Michael Essien",
+        "weight": 24
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Mesut Özil",
+        "weight": 22
+      },
+      {
+        "player1": "Gonzalo Higuaín",
+        "player2": "Cristiano Ronaldo",
+        "weight": 21
+      },
+      {
+        "player1": "Mesut Özil",
+        "player2": "Fábio Coentrão",
+        "weight": 20
+      },
+      {
+        "player1": "Luka Modrić",
+        "player2": "Michael Essien",
+        "weight": 20
+      },
+      {
+        "player1": "Gonzalo Higuaín",
+        "player2": "Ángel Di María",
+        "weight": 20
+      },
+      {
+        "player1": "Raphaël Varane",
+        "player2": "Mesut Özil",
+        "weight": 19
+      },
+      {
+        "player1": "Gonzalo Higuaín",
+        "player2": "Sergio Ramos",
+        "weight": 19
+      },
+      {
+        "player1": "Gonzalo Higuaín",
+        "player2": "Luka Modrić",
+        "weight": 19
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Karim Benzema",
+        "player2": "Gareth Bale",
+        "weight": 33
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Daniel Carvajal",
+        "weight": 32
+      },
+      {
+        "player1": "Pepe",
+        "player2": "Daniel Carvajal",
+        "weight": 31
+      },
+      {
+        "player1": "Pepe",
+        "player2": "Gareth Bale",
+        "weight": 30
+      },
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Isco",
+        "weight": 30
+      },
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Gareth Bale",
+        "weight": 30
+      },
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Daniel Carvajal",
+        "weight": 30
+      },
+      {
+        "player1": "Gareth Bale",
+        "player2": "Luka Modrić",
+        "weight": 29
+      },
+      {
+        "player1": "Daniel Carvajal",
+        "player2": "Luka Modrić",
+        "weight": 28
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Daniel Carvajal",
+        "weight": 28
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2013_2014",
+    "season_to": "2014_2015",
+    "v_score": 0.4,
+    "e_score": 0.587,
+    "stats": {
+      "total_players_t": 23,
+      "total_players_t1": 25,
+      "total_edges_t": 234,
+      "total_edges_t1": 248
+    },
+    "players_left": [
+      {
+        "name": "Ángel Di María",
+        "matches": 43
+      },
+      {
+        "name": "Diego López",
+        "matches": 36
+      },
+      {
+        "name": "Álvaro Morata",
+        "matches": 6
+      },
+      {
+        "name": "Casemiro",
+        "matches": 4
+      },
+      {
+        "name": "Mesut Özil",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Toni Kroos",
+        "matches": 54
+      },
+      {
+        "name": "James Rodríguez",
+        "matches": 44
+      },
+      {
+        "name": "Chicharito",
+        "matches": 12
+      },
+      {
+        "name": "Keylor Navas",
+        "matches": 11
+      },
+      {
+        "name": "Lucas Silva",
+        "matches": 4
+      },
+      {
+        "name": "Fernando Pacheco",
+        "matches": 1
+      },
+      {
+        "name": "Álvaro Medrán",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Ángel Di María",
+        "weight": 38
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Ángel Di María",
+        "weight": 35
+      },
+      {
+        "player1": "Pepe",
+        "player2": "Ángel Di María",
+        "weight": 35
+      },
+      {
+        "player1": "Luka Modrić",
+        "player2": "Ángel Di María",
+        "weight": 32
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Diego López",
+        "weight": 32
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Ángel Di María",
+        "weight": 32
+      },
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Diego López",
+        "weight": 30
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Diego López",
+        "weight": 29
+      },
+      {
+        "player1": "Pepe",
+        "player2": "Diego López",
+        "weight": 29
+      },
+      {
+        "player1": "Luka Modrić",
+        "player2": "Diego López",
+        "weight": 28
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Toni Kroos",
+        "weight": 49
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Toni Kroos",
+        "weight": 46
+      },
+      {
+        "player1": "Gareth Bale",
+        "player2": "Toni Kroos",
+        "weight": 44
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Toni Kroos",
+        "weight": 43
+      },
+      {
+        "player1": "Marcelo",
+        "player2": "Toni Kroos",
+        "weight": 43
+      },
+      {
+        "player1": "James Rodríguez",
+        "player2": "Toni Kroos",
+        "weight": 42
+      },
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Toni Kroos",
+        "weight": 39
+      },
+      {
+        "player1": "James Rodríguez",
+        "player2": "Cristiano Ronaldo",
+        "weight": 37
+      },
+      {
+        "player1": "Isco",
+        "player2": "Toni Kroos",
+        "weight": 37
+      },
+      {
+        "player1": "James Rodríguez",
+        "player2": "Sergio Ramos",
+        "weight": 36
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2014_2015",
+    "season_to": "2015_2016",
+    "v_score": 0.515,
+    "e_score": 0.691,
+    "stats": {
+      "total_players_t": 25,
+      "total_players_t1": 24,
+      "total_edges_t": 248,
+      "total_edges_t1": 243
+    },
+    "players_left": [
+      {
+        "name": "Iker Casillas",
+        "matches": 47
+      },
+      {
+        "name": "Asier Illarramendi",
+        "matches": 15
+      },
+      {
+        "name": "Fábio Coentrão",
+        "matches": 12
+      },
+      {
+        "name": "Chicharito",
+        "matches": 12
+      },
+      {
+        "name": "Sami Khedira",
+        "matches": 7
+      },
+      {
+        "name": "Lucas Silva",
+        "matches": 4
+      },
+      {
+        "name": "Xabi Alonso",
+        "matches": 2
+      },
+      {
+        "name": "Fernando Pacheco",
+        "matches": 1
+      },
+      {
+        "name": "Álvaro Medrán",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Casemiro",
+        "matches": 28
+      },
+      {
+        "name": "Danilo",
+        "matches": 28
+      },
+      {
+        "name": "Lucas Vázquez",
+        "matches": 13
+      },
+      {
+        "name": "Mateo Kovacic",
+        "matches": 11
+      },
+      {
+        "name": "Kiko Casilla",
+        "matches": 7
+      },
+      {
+        "name": "Borja Mayoral",
+        "matches": 3
+      },
+      {
+        "name": "Denis Cheryshev",
+        "matches": 1
+      },
+      {
+        "name": "Marcos Llorente",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Iker Casillas",
+        "player2": "Toni Kroos",
+        "weight": 46
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Cristiano Ronaldo",
+        "weight": 43
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Marcelo",
+        "weight": 39
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Gareth Bale",
+        "weight": 38
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Karim Benzema",
+        "weight": 38
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Sergio Ramos",
+        "weight": 35
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "James Rodríguez",
+        "weight": 35
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Isco",
+        "weight": 32
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Daniel Carvajal",
+        "weight": 32
+      },
+      {
+        "player1": "Iker Casillas",
+        "player2": "Pepe",
+        "weight": 31
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Danilo",
+        "weight": 26
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Cristiano Ronaldo",
+        "weight": 25
+      },
+      {
+        "player1": "Danilo",
+        "player2": "Keylor Navas",
+        "weight": 24
+      },
+      {
+        "player1": "Danilo",
+        "player2": "Toni Kroos",
+        "weight": 24
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Keylor Navas",
+        "weight": 21
+      },
+      {
+        "player1": "Luka Modrić",
+        "player2": "Danilo",
+        "weight": 21
+      },
+      {
+        "player1": "Marcelo",
+        "player2": "Danilo",
+        "weight": 19
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Luka Modrić",
+        "weight": 19
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Sergio Ramos",
+        "weight": 19
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Toni Kroos",
+        "weight": 19
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2015_2016",
+    "season_to": "2016_2017",
+    "v_score": 0.367,
+    "e_score": 0.489,
+    "stats": {
+      "total_players_t": 24,
+      "total_players_t1": 25,
+      "total_edges_t": 243,
+      "total_edges_t1": 260
+    },
+    "players_left": [
+      {
+        "name": "Jesé",
+        "matches": 11
+      },
+      {
+        "name": "Álvaro Arbeloa",
+        "matches": 5
+      },
+      {
+        "name": "Borja Mayoral",
+        "matches": 3
+      },
+      {
+        "name": "Denis Cheryshev",
+        "matches": 1
+      },
+      {
+        "name": "Marcos Llorente",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Marco Asensio",
+        "matches": 19
+      },
+      {
+        "name": "Álvaro Morata",
+        "matches": 19
+      },
+      {
+        "name": "Fábio Coentrão",
+        "matches": 3
+      },
+      {
+        "name": "Mariano Díaz",
+        "matches": 2
+      },
+      {
+        "name": "Álvaro Tejero",
+        "matches": 1
+      },
+      {
+        "name": "Martin Ødegaard",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Jesé",
+        "player2": "Isco",
+        "weight": 10
+      },
+      {
+        "player1": "Jesé",
+        "player2": "Cristiano Ronaldo",
+        "weight": 9
+      },
+      {
+        "player1": "Jesé",
+        "player2": "Toni Kroos",
+        "weight": 9
+      },
+      {
+        "player1": "Jesé",
+        "player2": "Marcelo",
+        "weight": 9
+      },
+      {
+        "player1": "Jesé",
+        "player2": "Keylor Navas",
+        "weight": 8
+      },
+      {
+        "player1": "Jesé",
+        "player2": "Raphaël Varane",
+        "weight": 7
+      },
+      {
+        "player1": "Jesé",
+        "player2": "Luka Modrić",
+        "weight": 7
+      },
+      {
+        "player1": "Jesé",
+        "player2": "Danilo",
+        "weight": 6
+      },
+      {
+        "player1": "Jesé",
+        "player2": "Sergio Ramos",
+        "weight": 6
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Jesé",
+        "weight": 6
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Nacho Fernández",
+        "weight": 16
+      },
+      {
+        "player1": "Marco Asensio",
+        "player2": "Sergio Ramos",
+        "weight": 14
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Toni Kroos",
+        "weight": 14
+      },
+      {
+        "player1": "Marco Asensio",
+        "player2": "Kiko Casilla",
+        "weight": 14
+      },
+      {
+        "player1": "Marco Asensio",
+        "player2": "Nacho Fernández",
+        "weight": 13
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Sergio Ramos",
+        "weight": 13
+      },
+      {
+        "player1": "Marco Asensio",
+        "player2": "Casemiro",
+        "weight": 13
+      },
+      {
+        "player1": "Marco Asensio",
+        "player2": "Álvaro Morata",
+        "weight": 13
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Mateo Kovacic",
+        "weight": 12
+      },
+      {
+        "player1": "Marco Asensio",
+        "player2": "James Rodríguez",
+        "weight": 12
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2016_2017",
+    "season_to": "2017_2018",
+    "v_score": 0.471,
+    "e_score": 0.664,
+    "stats": {
+      "total_players_t": 25,
+      "total_players_t1": 27,
+      "total_edges_t": 260,
+      "total_edges_t1": 289
+    },
+    "players_left": [
+      {
+        "name": "Danilo",
+        "matches": 24
+      },
+      {
+        "name": "James Rodríguez",
+        "matches": 20
+      },
+      {
+        "name": "Álvaro Morata",
+        "matches": 19
+      },
+      {
+        "name": "Pepe",
+        "matches": 17
+      },
+      {
+        "name": "Fábio Coentrão",
+        "matches": 3
+      },
+      {
+        "name": "Mariano Díaz",
+        "matches": 2
+      },
+      {
+        "name": "Martin Ødegaard",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Theo Hernández",
+        "matches": 17
+      },
+      {
+        "name": "Achraf Hakimi",
+        "matches": 14
+      },
+      {
+        "name": "Jesús Vallejo",
+        "matches": 12
+      },
+      {
+        "name": "Marcos Llorente",
+        "matches": 11
+      },
+      {
+        "name": "Borja Mayoral",
+        "matches": 9
+      },
+      {
+        "name": "Dani Ceballos",
+        "matches": 9
+      },
+      {
+        "name": "Luca Zidane",
+        "matches": 1
+      },
+      {
+        "name": "Óscar Rodríguez",
+        "matches": 1
+      },
+      {
+        "name": "Franchu",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Danilo",
+        "weight": 18
+      },
+      {
+        "player1": "Toni Kroos",
+        "player2": "Danilo",
+        "weight": 17
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Danilo",
+        "weight": 16
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Nacho Fernández",
+        "weight": 16
+      },
+      {
+        "player1": "James Rodríguez",
+        "player2": "Sergio Ramos",
+        "weight": 15
+      },
+      {
+        "player1": "Nacho Fernández",
+        "player2": "Danilo",
+        "weight": 15
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Toni Kroos",
+        "weight": 14
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Danilo",
+        "weight": 14
+      },
+      {
+        "player1": "Danilo",
+        "player2": "Keylor Navas",
+        "weight": 14
+      },
+      {
+        "player1": "Raphaël Varane",
+        "player2": "Danilo",
+        "weight": 14
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Lucas Vázquez",
+        "player2": "Theo Hernández",
+        "weight": 12
+      },
+      {
+        "player1": "Nacho Fernández",
+        "player2": "Theo Hernández",
+        "weight": 12
+      },
+      {
+        "player1": "Marco Asensio",
+        "player2": "Theo Hernández",
+        "weight": 12
+      },
+      {
+        "player1": "Nacho Fernández",
+        "player2": "Achraf Hakimi",
+        "weight": 11
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Theo Hernández",
+        "weight": 10
+      },
+      {
+        "player1": "Mateo Kovacic",
+        "player2": "Theo Hernández",
+        "weight": 10
+      },
+      {
+        "player1": "Theo Hernández",
+        "player2": "Kiko Casilla",
+        "weight": 10
+      },
+      {
+        "player1": "Lucas Vázquez",
+        "player2": "Jesús Vallejo",
+        "weight": 9
+      },
+      {
+        "player1": "Theo Hernández",
+        "player2": "Marcos Llorente",
+        "weight": 9
+      },
+      {
+        "player1": "Nacho Fernández",
+        "player2": "Marcos Llorente",
+        "weight": 9
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2017_2018",
+    "season_to": "2018_2019",
+    "v_score": 0.486,
+    "e_score": 0.7,
+    "stats": {
+      "total_players_t": 27,
+      "total_players_t1": 26,
+      "total_edges_t": 289,
+      "total_edges_t1": 296
+    },
+    "players_left": [
+      {
+        "name": "Cristiano Ronaldo",
+        "matches": 42
+      },
+      {
+        "name": "Mateo Kovacic",
+        "matches": 21
+      },
+      {
+        "name": "Kiko Casilla",
+        "matches": 17
+      },
+      {
+        "name": "Theo Hernández",
+        "matches": 17
+      },
+      {
+        "name": "Achraf Hakimi",
+        "matches": 14
+      },
+      {
+        "name": "Borja Mayoral",
+        "matches": 9
+      },
+      {
+        "name": "Álvaro Tejero",
+        "matches": 2
+      },
+      {
+        "name": "Óscar Rodríguez",
+        "matches": 1
+      },
+      {
+        "name": "Franchu",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Thibaut Courtois",
+        "matches": 35
+      },
+      {
+        "name": "Álvaro Odriozola",
+        "matches": 21
+      },
+      {
+        "name": "Sergio Reguilón",
+        "matches": 21
+      },
+      {
+        "name": "Vinicius Junior",
+        "matches": 20
+      },
+      {
+        "name": "Federico Valverde",
+        "matches": 10
+      },
+      {
+        "name": "Brahim Díaz",
+        "matches": 5
+      },
+      {
+        "name": "Mariano Díaz",
+        "matches": 4
+      },
+      {
+        "name": "Javi Sánchez",
+        "matches": 3
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Marcelo",
+        "weight": 35
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Raphaël Varane",
+        "weight": 35
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Cristiano Ronaldo",
+        "weight": 34
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Keylor Navas",
+        "weight": 33
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Toni Kroos",
+        "weight": 33
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Luka Modrić",
+        "weight": 31
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Sergio Ramos",
+        "weight": 31
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Daniel Carvajal",
+        "weight": 28
+      },
+      {
+        "player1": "Cristiano Ronaldo",
+        "player2": "Isco",
+        "weight": 26
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Cristiano Ronaldo",
+        "weight": 26
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Karim Benzema",
+        "player2": "Thibaut Courtois",
+        "weight": 32
+      },
+      {
+        "player1": "Luka Modrić",
+        "player2": "Thibaut Courtois",
+        "weight": 30
+      },
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Thibaut Courtois",
+        "weight": 28
+      },
+      {
+        "player1": "Thibaut Courtois",
+        "player2": "Toni Kroos",
+        "weight": 27
+      },
+      {
+        "player1": "Raphaël Varane",
+        "player2": "Thibaut Courtois",
+        "weight": 27
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Thibaut Courtois",
+        "weight": 25
+      },
+      {
+        "player1": "Daniel Carvajal",
+        "player2": "Thibaut Courtois",
+        "weight": 21
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Sergio Reguilón",
+        "weight": 20
+      },
+      {
+        "player1": "Gareth Bale",
+        "player2": "Thibaut Courtois",
+        "weight": 20
+      },
+      {
+        "player1": "Lucas Vázquez",
+        "player2": "Thibaut Courtois",
+        "weight": 19
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2018_2019",
+    "season_to": "2019_2020",
+    "v_score": 0.455,
+    "e_score": 0.674,
+    "stats": {
+      "total_players_t": 26,
+      "total_players_t1": 25,
+      "total_edges_t": 296,
+      "total_edges_t1": 274
+    },
+    "players_left": [
+      {
+        "name": "Keylor Navas",
+        "matches": 21
+      },
+      {
+        "name": "Sergio Reguilón",
+        "matches": 21
+      },
+      {
+        "name": "Dani Ceballos",
+        "matches": 19
+      },
+      {
+        "name": "Marcos Llorente",
+        "matches": 14
+      },
+      {
+        "name": "Jesús Vallejo",
+        "matches": 6
+      },
+      {
+        "name": "Mariano Díaz",
+        "matches": 4
+      },
+      {
+        "name": "Javi Sánchez",
+        "matches": 3
+      },
+      {
+        "name": "Luca Zidane",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Ferland Mendy",
+        "matches": 25
+      },
+      {
+        "name": "Eden Hazard",
+        "matches": 20
+      },
+      {
+        "name": "Rodrygo",
+        "matches": 16
+      },
+      {
+        "name": "Éder Militão",
+        "matches": 15
+      },
+      {
+        "name": "James Rodríguez",
+        "matches": 9
+      },
+      {
+        "name": "Alphonse Areola",
+        "matches": 8
+      },
+      {
+        "name": "Luka Jović",
+        "matches": 8
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Karim Benzema",
+        "player2": "Sergio Reguilón",
+        "weight": 20
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Keylor Navas",
+        "weight": 19
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Sergio Reguilón",
+        "weight": 18
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Dani Ceballos",
+        "weight": 18
+      },
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Dani Ceballos",
+        "weight": 16
+      },
+      {
+        "player1": "Sergio Reguilón",
+        "player2": "Luka Modrić",
+        "weight": 15
+      },
+      {
+        "player1": "Raphaël Varane",
+        "player2": "Keylor Navas",
+        "weight": 15
+      },
+      {
+        "player1": "Sergio Reguilón",
+        "player2": "Sergio Ramos",
+        "weight": 14
+      },
+      {
+        "player1": "Sergio Reguilón",
+        "player2": "Raphaël Varane",
+        "weight": 14
+      },
+      {
+        "player1": "Daniel Carvajal",
+        "player2": "Keylor Navas",
+        "weight": 14
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Thibaut Courtois",
+        "player2": "Ferland Mendy",
+        "weight": 23
+      },
+      {
+        "player1": "Raphaël Varane",
+        "player2": "Ferland Mendy",
+        "weight": 23
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Ferland Mendy",
+        "weight": 23
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Ferland Mendy",
+        "weight": 22
+      },
+      {
+        "player1": "Daniel Carvajal",
+        "player2": "Ferland Mendy",
+        "weight": 21
+      },
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Ferland Mendy",
+        "weight": 20
+      },
+      {
+        "player1": "Eden Hazard",
+        "player2": "Daniel Carvajal",
+        "weight": 20
+      },
+      {
+        "player1": "Raphaël Varane",
+        "player2": "Eden Hazard",
+        "weight": 20
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Eden Hazard",
+        "weight": 20
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Eden Hazard",
+        "weight": 19
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2019_2020",
+    "season_to": "2020_2021",
+    "v_score": 0.344,
+    "e_score": 0.473,
+    "stats": {
+      "total_players_t": 25,
+      "total_players_t1": 28,
+      "total_edges_t": 274,
+      "total_edges_t1": 300
+    },
+    "players_left": [
+      {
+        "name": "Gareth Bale",
+        "matches": 14
+      },
+      {
+        "name": "James Rodríguez",
+        "matches": 9
+      },
+      {
+        "name": "Alphonse Areola",
+        "matches": 8
+      },
+      {
+        "name": "Brahim Díaz",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Mariano Díaz",
+        "matches": 7
+      },
+      {
+        "name": "Martin Ødegaard",
+        "matches": 5
+      },
+      {
+        "name": "Miguel Gutiérrez",
+        "matches": 3
+      },
+      {
+        "name": "Antonio Blanco",
+        "matches": 2
+      },
+      {
+        "name": "Marvin Park",
+        "matches": 2
+      },
+      {
+        "name": "Víctor Chust",
+        "matches": 2
+      },
+      {
+        "name": "Andriy Lunin",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Karim Benzema",
+        "player2": "Gareth Bale",
+        "weight": 14
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Gareth Bale",
+        "weight": 13
+      },
+      {
+        "player1": "Daniel Carvajal",
+        "player2": "Gareth Bale",
+        "weight": 13
+      },
+      {
+        "player1": "Raphaël Varane",
+        "player2": "Gareth Bale",
+        "weight": 12
+      },
+      {
+        "player1": "Gareth Bale",
+        "player2": "Toni Kroos",
+        "weight": 11
+      },
+      {
+        "player1": "Sergio Ramos",
+        "player2": "Gareth Bale",
+        "weight": 11
+      },
+      {
+        "player1": "Gareth Bale",
+        "player2": "Thibaut Courtois",
+        "weight": 11
+      },
+      {
+        "player1": "Eden Hazard",
+        "player2": "Rodrygo",
+        "weight": 8
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "James Rodríguez",
+        "weight": 8
+      },
+      {
+        "player1": "James Rodríguez",
+        "player2": "Daniel Carvajal",
+        "weight": 7
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Marco Asensio",
+        "player2": "Nacho Fernández",
+        "weight": 16
+      },
+      {
+        "player1": "Marco Asensio",
+        "player2": "Eden Hazard",
+        "weight": 8
+      },
+      {
+        "player1": "Luka Modrić",
+        "player2": "Mariano Díaz",
+        "weight": 6
+      },
+      {
+        "player1": "Lucas Vázquez",
+        "player2": "Mariano Díaz",
+        "weight": 6
+      },
+      {
+        "player1": "Mariano Díaz",
+        "player2": "Thibaut Courtois",
+        "weight": 6
+      },
+      {
+        "player1": "Mariano Díaz",
+        "player2": "Toni Kroos",
+        "weight": 5
+      },
+      {
+        "player1": "Raphaël Varane",
+        "player2": "Martin Ødegaard",
+        "weight": 5
+      },
+      {
+        "player1": "Martin Ødegaard",
+        "player2": "Ferland Mendy",
+        "weight": 5
+      },
+      {
+        "player1": "Martin Ødegaard",
+        "player2": "Thibaut Courtois",
+        "weight": 5
+      },
+      {
+        "player1": "Nacho Fernández",
+        "player2": "Mariano Díaz",
+        "weight": 5
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2020_2021",
+    "season_to": "2021_2022",
+    "v_score": 0.364,
+    "e_score": 0.577,
+    "stats": {
+      "total_players_t": 28,
+      "total_players_t1": 26,
+      "total_edges_t": 300,
+      "total_edges_t1": 279
+    },
+    "players_left": [
+      {
+        "name": "Raphaël Varane",
+        "matches": 41
+      },
+      {
+        "name": "Sergio Ramos",
+        "matches": 21
+      },
+      {
+        "name": "Álvaro Odriozola",
+        "matches": 10
+      },
+      {
+        "name": "Martin Ødegaard",
+        "matches": 5
+      },
+      {
+        "name": "Antonio Blanco",
+        "matches": 2
+      },
+      {
+        "name": "Marvin Park",
+        "matches": 2
+      },
+      {
+        "name": "Víctor Chust",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "David Alaba",
+        "matches": 46
+      },
+      {
+        "name": "Eduardo Camavinga",
+        "matches": 16
+      },
+      {
+        "name": "Gareth Bale",
+        "matches": 4
+      },
+      {
+        "name": "Jesús Vallejo",
+        "matches": 4
+      },
+      {
+        "name": "Dani Ceballos",
+        "matches": 2
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Raphaël Varane",
+        "player2": "Thibaut Courtois",
+        "weight": 41
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Raphaël Varane",
+        "weight": 34
+      },
+      {
+        "player1": "Raphaël Varane",
+        "player2": "Luka Modrić",
+        "weight": 33
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Raphaël Varane",
+        "weight": 33
+      },
+      {
+        "player1": "Raphaël Varane",
+        "player2": "Toni Kroos",
+        "weight": 31
+      },
+      {
+        "player1": "Raphaël Varane",
+        "player2": "Ferland Mendy",
+        "weight": 31
+      },
+      {
+        "player1": "Lucas Vázquez",
+        "player2": "Raphaël Varane",
+        "weight": 26
+      },
+      {
+        "player1": "Marco Asensio",
+        "player2": "Raphaël Varane",
+        "weight": 24
+      },
+      {
+        "player1": "Raphaël Varane",
+        "player2": "Vinicius Junior",
+        "weight": 22
+      },
+      {
+        "player1": "Nacho Fernández",
+        "player2": "Raphaël Varane",
+        "weight": 22
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "David Alaba",
+        "player2": "Thibaut Courtois",
+        "weight": 44
+      },
+      {
+        "player1": "David Alaba",
+        "player2": "Éder Militão",
+        "weight": 42
+      },
+      {
+        "player1": "David Alaba",
+        "player2": "Vinicius Junior",
+        "weight": 40
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "David Alaba",
+        "weight": 38
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "David Alaba",
+        "weight": 38
+      },
+      {
+        "player1": "David Alaba",
+        "player2": "Toni Kroos",
+        "weight": 33
+      },
+      {
+        "player1": "David Alaba",
+        "player2": "Luka Modrić",
+        "weight": 33
+      },
+      {
+        "player1": "David Alaba",
+        "player2": "Ferland Mendy",
+        "weight": 26
+      },
+      {
+        "player1": "Daniel Carvajal",
+        "player2": "David Alaba",
+        "weight": 24
+      },
+      {
+        "player1": "Federico Valverde",
+        "player2": "David Alaba",
+        "weight": 24
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2021_2022",
+    "season_to": "2022_2023",
+    "v_score": 0.31,
+    "e_score": 0.544,
+    "stats": {
+      "total_players_t": 26,
+      "total_players_t1": 23,
+      "total_edges_t": 279,
+      "total_edges_t1": 216
+    },
+    "players_left": [
+      {
+        "name": "Marcelo",
+        "matches": 7
+      },
+      {
+        "name": "Miguel Gutiérrez",
+        "matches": 4
+      },
+      {
+        "name": "Gareth Bale",
+        "matches": 4
+      },
+      {
+        "name": "Jesús Vallejo",
+        "matches": 4
+      },
+      {
+        "name": "Isco",
+        "matches": 3
+      },
+      {
+        "name": "Luka Jović",
+        "matches": 3
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Antonio Rüdiger",
+        "matches": 39
+      },
+      {
+        "name": "Aurélien Tchouaméni",
+        "matches": 33
+      },
+      {
+        "name": "Álvaro Odriozola",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Casemiro",
+        "player2": "Lucas Vázquez",
+        "weight": 20
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Nacho Fernández",
+        "weight": 19
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Marco Asensio",
+        "weight": 19
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Rodrygo",
+        "weight": 19
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Eden Hazard",
+        "weight": 8
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Eduardo Camavinga",
+        "weight": 8
+      },
+      {
+        "player1": "Rodrygo",
+        "player2": "Marcelo",
+        "weight": 6
+      },
+      {
+        "player1": "David Alaba",
+        "player2": "Marcelo",
+        "weight": 6
+      },
+      {
+        "player1": "Casemiro",
+        "player2": "Marcelo",
+        "weight": 5
+      },
+      {
+        "player1": "Marcelo",
+        "player2": "Éder Militão",
+        "weight": 5
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Antonio Rüdiger",
+        "player2": "Vinicius Junior",
+        "weight": 35
+      },
+      {
+        "player1": "Antonio Rüdiger",
+        "player2": "Thibaut Courtois",
+        "weight": 31
+      },
+      {
+        "player1": "Federico Valverde",
+        "player2": "Antonio Rüdiger",
+        "weight": 31
+      },
+      {
+        "player1": "Antonio Rüdiger",
+        "player2": "Toni Kroos",
+        "weight": 29
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Antonio Rüdiger",
+        "weight": 29
+      },
+      {
+        "player1": "Aurélien Tchouaméni",
+        "player2": "Vinicius Junior",
+        "weight": 27
+      },
+      {
+        "player1": "Antonio Rüdiger",
+        "player2": "Eduardo Camavinga",
+        "weight": 27
+      },
+      {
+        "player1": "Antonio Rüdiger",
+        "player2": "Éder Militão",
+        "weight": 26
+      },
+      {
+        "player1": "Aurélien Tchouaméni",
+        "player2": "Éder Militão",
+        "weight": 25
+      },
+      {
+        "player1": "Nacho Fernández",
+        "player2": "Antonio Rüdiger",
+        "weight": 24
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2022_2023",
+    "season_to": "2023_2024",
+    "v_score": 0.469,
+    "e_score": 0.625,
+    "stats": {
+      "total_players_t": 23,
+      "total_players_t1": 26,
+      "total_edges_t": 216,
+      "total_edges_t1": 268
+    },
+    "players_left": [
+      {
+        "name": "Karim Benzema",
+        "matches": 42
+      },
+      {
+        "name": "Marco Asensio",
+        "matches": 18
+      },
+      {
+        "name": "Eden Hazard",
+        "matches": 4
+      },
+      {
+        "name": "Casemiro",
+        "matches": 1
+      },
+      {
+        "name": "Mariano Díaz",
+        "matches": 1
+      },
+      {
+        "name": "Álvaro Odriozola",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Jude Bellingham",
+        "matches": 39
+      },
+      {
+        "name": "Brahim Díaz",
+        "matches": 22
+      },
+      {
+        "name": "Kepa Arrizabalaga",
+        "matches": 19
+      },
+      {
+        "name": "Fran García",
+        "matches": 18
+      },
+      {
+        "name": "Joselu",
+        "matches": 18
+      },
+      {
+        "name": "Arda Güler",
+        "matches": 5
+      },
+      {
+        "name": "Álvaro Carrillo",
+        "matches": 1
+      },
+      {
+        "name": "Nico Paz",
+        "matches": 1
+      },
+      {
+        "name": "Vinícius Tobias",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Karim Benzema",
+        "player2": "Vinicius Junior",
+        "weight": 38
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Thibaut Courtois",
+        "weight": 35
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Federico Valverde",
+        "weight": 34
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Éder Militão",
+        "weight": 34
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Toni Kroos",
+        "weight": 33
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Antonio Rüdiger",
+        "weight": 29
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Eduardo Camavinga",
+        "weight": 29
+      },
+      {
+        "player1": "David Alaba",
+        "player2": "Thibaut Courtois",
+        "weight": 27
+      },
+      {
+        "player1": "Karim Benzema",
+        "player2": "Daniel Carvajal",
+        "weight": 25
+      },
+      {
+        "player1": "Aurélien Tchouaméni",
+        "player2": "Thibaut Courtois",
+        "weight": 24
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Jude Bellingham",
+        "player2": "Federico Valverde",
+        "weight": 37
+      },
+      {
+        "player1": "Jude Bellingham",
+        "player2": "Antonio Rüdiger",
+        "weight": 34
+      },
+      {
+        "player1": "Jude Bellingham",
+        "player2": "Rodrygo",
+        "weight": 33
+      },
+      {
+        "player1": "Jude Bellingham",
+        "player2": "Daniel Carvajal",
+        "weight": 30
+      },
+      {
+        "player1": "Jude Bellingham",
+        "player2": "Toni Kroos",
+        "weight": 27
+      },
+      {
+        "player1": "Jude Bellingham",
+        "player2": "Vinicius Junior",
+        "weight": 25
+      },
+      {
+        "player1": "Jude Bellingham",
+        "player2": "Ferland Mendy",
+        "weight": 24
+      },
+      {
+        "player1": "Jude Bellingham",
+        "player2": "Aurélien Tchouaméni",
+        "weight": 23
+      },
+      {
+        "player1": "Jude Bellingham",
+        "player2": "Eduardo Camavinga",
+        "weight": 21
+      },
+      {
+        "player1": "Jude Bellingham",
+        "player2": "Andriy Lunin",
+        "weight": 20
+      }
+    ]
+  },
+  {
+    "club": "real_madryt",
+    "season_from": "2023_2024",
+    "season_to": "2024_2025",
+    "v_score": 0.486,
+    "e_score": 0.625,
+    "stats": {
+      "total_players_t": 26,
+      "total_players_t1": 30,
+      "total_edges_t": 268,
+      "total_edges_t1": 311
+    },
+    "players_left": [
+      {
+        "name": "Toni Kroos",
+        "matches": 33
+      },
+      {
+        "name": "Nacho Fernández",
+        "matches": 31
+      },
+      {
+        "name": "Kepa Arrizabalaga",
+        "matches": 19
+      },
+      {
+        "name": "Joselu",
+        "matches": 18
+      },
+      {
+        "name": "Álvaro Carrillo",
+        "matches": 1
+      },
+      {
+        "name": "Nico Paz",
+        "matches": 1
+      },
+      {
+        "name": "Vinícius Tobias",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Kylian Mbappé",
+        "matches": 52
+      },
+      {
+        "name": "Raúl Asencio",
+        "matches": 35
+      },
+      {
+        "name": "Endrick",
+        "matches": 8
+      },
+      {
+        "name": "Gonzalo García",
+        "matches": 6
+      },
+      {
+        "name": "Trent Alexander-Arnold",
+        "matches": 5
+      },
+      {
+        "name": "Dean Huijsen",
+        "matches": 5
+      },
+      {
+        "name": "Jacobo Ramón",
+        "matches": 3
+      },
+      {
+        "name": "Diego Aguado",
+        "matches": 1
+      },
+      {
+        "name": "Lorenzo Aguado",
+        "matches": 1
+      },
+      {
+        "name": "Jesús Vallejo",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Federico Valverde",
+        "player2": "Toni Kroos",
+        "weight": 32
+      },
+      {
+        "player1": "Rodrygo",
+        "player2": "Toni Kroos",
+        "weight": 31
+      },
+      {
+        "player1": "Antonio Rüdiger",
+        "player2": "Toni Kroos",
+        "weight": 28
+      },
+      {
+        "player1": "Jude Bellingham",
+        "player2": "Toni Kroos",
+        "weight": 27
+      },
+      {
+        "player1": "Daniel Carvajal",
+        "player2": "Toni Kroos",
+        "weight": 26
+      },
+      {
+        "player1": "Nacho Fernández",
+        "player2": "Federico Valverde",
+        "weight": 26
+      },
+      {
+        "player1": "Toni Kroos",
+        "player2": "Ferland Mendy",
+        "weight": 24
+      },
+      {
+        "player1": "Vinicius Junior",
+        "player2": "Toni Kroos",
+        "weight": 23
+      },
+      {
+        "player1": "Nacho Fernández",
+        "player2": "Rodrygo",
+        "weight": 23
+      },
+      {
+        "player1": "Andriy Lunin",
+        "player2": "Toni Kroos",
+        "weight": 22
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Federico Valverde",
+        "player2": "Kylian Mbappé",
+        "weight": 47
+      },
+      {
+        "player1": "Aurélien Tchouaméni",
+        "player2": "Thibaut Courtois",
+        "weight": 44
+      },
+      {
+        "player1": "Jude Bellingham",
+        "player2": "Kylian Mbappé",
+        "weight": 43
+      },
+      {
+        "player1": "Aurélien Tchouaméni",
+        "player2": "Kylian Mbappé",
+        "weight": 42
+      },
+      {
+        "player1": "Kylian Mbappé",
+        "player2": "Thibaut Courtois",
+        "weight": 42
+      },
+      {
+        "player1": "Kylian Mbappé",
+        "player2": "Antonio Rüdiger",
+        "weight": 40
+      },
+      {
+        "player1": "Vinicius Junior",
+        "player2": "Kylian Mbappé",
+        "weight": 37
+      },
+      {
+        "player1": "Lucas Vázquez",
+        "player2": "Kylian Mbappé",
+        "weight": 33
+      },
+      {
+        "player1": "Rodrygo",
+        "player2": "Kylian Mbappé",
+        "weight": 33
+      },
+      {
+        "player1": "Raúl Asencio",
+        "player2": "Federico Valverde",
+        "weight": 30
+      }
+    ]
+  }
+]

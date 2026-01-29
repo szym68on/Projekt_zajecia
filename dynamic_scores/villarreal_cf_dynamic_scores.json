@@ -1,0 +1,3717 @@
+[
+  {
+    "club": "villarreal_cf",
+    "season_from": "2005_2006",
+    "season_to": "2006_2007",
+    "v_score": 0.59,
+    "e_score": 0.787,
+    "stats": {
+      "total_players_t": 29,
+      "total_players_t1": 26,
+      "total_edges_t": 328,
+      "total_edges_t1": 292
+    },
+    "players_left": [
+      {
+        "name": "Juan Pablo Sorín",
+        "matches": 28
+      },
+      {
+        "name": "Santi Cazorla",
+        "matches": 15
+      },
+      {
+        "name": "Luciano Figueroa",
+        "matches": 13
+      },
+      {
+        "name": "Roger García",
+        "matches": 11
+      },
+      {
+        "name": "César Arzo",
+        "matches": 10
+      },
+      {
+        "name": "Héctor Font",
+        "matches": 10
+      },
+      {
+        "name": "Jan Kromkamp",
+        "matches": 10
+      },
+      {
+        "name": "Antonio Guayre",
+        "matches": 9
+      },
+      {
+        "name": "Javier Calleja",
+        "matches": 3
+      },
+      {
+        "name": "Javi Rubio",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Fabricio Fuentes",
+        "matches": 35
+      },
+      {
+        "name": "Cani",
+        "matches": 32
+      },
+      {
+        "name": "José Enrique",
+        "matches": 24
+      },
+      {
+        "name": "Marquitos",
+        "matches": 23
+      },
+      {
+        "name": "Pascal Cygan",
+        "matches": 20
+      },
+      {
+        "name": "Matías Fernández",
+        "matches": 16
+      },
+      {
+        "name": "Leandro Somoza",
+        "matches": 13
+      },
+      {
+        "name": "Nihat Kahveci",
+        "matches": 11
+      },
+      {
+        "name": "Robert Pirès",
+        "matches": 10
+      },
+      {
+        "name": "Jon Dahl Tomasson",
+        "matches": 7
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Gonzalo Rodríguez",
+        "player2": "Rodolfo Arruabarrena",
+        "weight": 35
+      },
+      {
+        "player1": "Gonzalo Rodríguez",
+        "player2": "José Mari",
+        "weight": 28
+      },
+      {
+        "player1": "Gonzalo Rodríguez",
+        "player2": "Juan Román Riquelme",
+        "weight": 27
+      },
+      {
+        "player1": "Juan Pablo Sorín",
+        "player2": "Rodolfo Arruabarrena",
+        "weight": 26
+      },
+      {
+        "player1": "Diego Forlán",
+        "player2": "Juan Pablo Sorín",
+        "weight": 24
+      },
+      {
+        "player1": "Marcos Senna",
+        "player2": "Juan Pablo Sorín",
+        "weight": 23
+      },
+      {
+        "player1": "Javi Venta",
+        "player2": "Juan Pablo Sorín",
+        "weight": 22
+      },
+      {
+        "player1": "Juan Román Riquelme",
+        "player2": "Juan Pablo Sorín",
+        "weight": 22
+      },
+      {
+        "player1": "Gonzalo Rodríguez",
+        "player2": "Juan Pablo Sorín",
+        "weight": 21
+      },
+      {
+        "player1": "Gonzalo Rodríguez",
+        "player2": "Juan Manuel Peña",
+        "weight": 20
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Fabricio Fuentes",
+        "player2": "Diego Forlán",
+        "weight": 33
+      },
+      {
+        "player1": "Marcos Senna",
+        "player2": "Fabricio Fuentes",
+        "weight": 30
+      },
+      {
+        "player1": "Cani",
+        "player2": "Diego Forlán",
+        "weight": 30
+      },
+      {
+        "player1": "Fabricio Fuentes",
+        "player2": "Cani",
+        "weight": 25
+      },
+      {
+        "player1": "Marcos Senna",
+        "player2": "Cani",
+        "weight": 25
+      },
+      {
+        "player1": "Sebastián Viera",
+        "player2": "Fabricio Fuentes",
+        "weight": 23
+      },
+      {
+        "player1": "Fabricio Fuentes",
+        "player2": "José Enrique",
+        "weight": 22
+      },
+      {
+        "player1": "Fabricio Fuentes",
+        "player2": "Josico",
+        "weight": 22
+      },
+      {
+        "player1": "Diego Forlán",
+        "player2": "Marquitos",
+        "weight": 22
+      },
+      {
+        "player1": "Fabricio Fuentes",
+        "player2": "Marquitos",
+        "weight": 21
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2006_2007",
+    "season_to": "2007_2008",
+    "v_score": 0.6,
+    "e_score": 0.808,
+    "stats": {
+      "total_players_t": 26,
+      "total_players_t1": 23,
+      "total_edges_t": 292,
+      "total_edges_t1": 247
+    },
+    "players_left": [
+      {
+        "name": "Diego Forlán",
+        "matches": 40
+      },
+      {
+        "name": "José Enrique",
+        "matches": 24
+      },
+      {
+        "name": "Marquitos",
+        "matches": 23
+      },
+      {
+        "name": "Quique Álvarez",
+        "matches": 18
+      },
+      {
+        "name": "Rodolfo Arruabarrena",
+        "matches": 17
+      },
+      {
+        "name": "Alessio Tacchinardi",
+        "matches": 16
+      },
+      {
+        "name": "Mariano Barbosa",
+        "matches": 14
+      },
+      {
+        "name": "Juan Román Riquelme",
+        "matches": 13
+      },
+      {
+        "name": "Leandro Somoza",
+        "matches": 13
+      },
+      {
+        "name": "Juan Manuel Peña",
+        "matches": 8
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Joan Capdevila",
+        "matches": 43
+      },
+      {
+        "name": "Santi Cazorla",
+        "matches": 38
+      },
+      {
+        "name": "Diego López",
+        "matches": 34
+      },
+      {
+        "name": "Diego Godín",
+        "matches": 32
+      },
+      {
+        "name": "Giuseppe Rossi",
+        "matches": 29
+      },
+      {
+        "name": "Ángel López",
+        "matches": 26
+      },
+      {
+        "name": "Bruno Soriano",
+        "matches": 22
+      },
+      {
+        "name": "Sebastián Eguren",
+        "matches": 14
+      },
+      {
+        "name": "Rio Mavuba",
+        "matches": 9
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Fabricio Fuentes",
+        "player2": "Diego Forlán",
+        "weight": 33
+      },
+      {
+        "player1": "Marcos Senna",
+        "player2": "Diego Forlán",
+        "weight": 31
+      },
+      {
+        "player1": "Cani",
+        "player2": "Diego Forlán",
+        "weight": 30
+      },
+      {
+        "player1": "Sebastián Viera",
+        "player2": "Diego Forlán",
+        "weight": 27
+      },
+      {
+        "player1": "Josemi",
+        "player2": "Diego Forlán",
+        "weight": 23
+      },
+      {
+        "player1": "Josico",
+        "player2": "Diego Forlán",
+        "weight": 23
+      },
+      {
+        "player1": "Fabricio Fuentes",
+        "player2": "José Enrique",
+        "weight": 22
+      },
+      {
+        "player1": "Diego Forlán",
+        "player2": "Marquitos",
+        "weight": 22
+      },
+      {
+        "player1": "Fabricio Fuentes",
+        "player2": "Marquitos",
+        "weight": 21
+      },
+      {
+        "player1": "José Enrique",
+        "player2": "Diego Forlán",
+        "weight": 21
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Marcos Senna",
+        "weight": 37
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Santi Cazorla",
+        "weight": 30
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Robert Pirès",
+        "weight": 29
+      },
+      {
+        "player1": "Marcos Senna",
+        "player2": "Santi Cazorla",
+        "weight": 28
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Diego Godín",
+        "weight": 28
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Nihat Kahveci",
+        "weight": 26
+      },
+      {
+        "player1": "Marcos Senna",
+        "player2": "Diego Godín",
+        "weight": 26
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Diego López",
+        "weight": 26
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Diego López",
+        "weight": 25
+      },
+      {
+        "player1": "Diego López",
+        "player2": "Santi Cazorla",
+        "weight": 25
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2007_2008",
+    "season_to": "2008_2009",
+    "v_score": 0.321,
+    "e_score": 0.527,
+    "stats": {
+      "total_players_t": 23,
+      "total_players_t1": 24,
+      "total_edges_t": 247,
+      "total_edges_t1": 251
+    },
+    "players_left": [
+      {
+        "name": "Jon Dahl Tomasson",
+        "matches": 19
+      },
+      {
+        "name": "Josico",
+        "matches": 16
+      },
+      {
+        "name": "Rio Mavuba",
+        "matches": 9
+      },
+      {
+        "name": "Josemi",
+        "matches": 7
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Joseba Llorente",
+        "matches": 32
+      },
+      {
+        "name": "Ariel Ibagaza",
+        "matches": 24
+      },
+      {
+        "name": "Edmílson",
+        "matches": 8
+      },
+      {
+        "name": "Jozy Altidore",
+        "matches": 4
+      },
+      {
+        "name": "Javier Matilla",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Sebastián Viera",
+        "weight": 18
+      },
+      {
+        "player1": "Pascal Cygan",
+        "player2": "Nihat Kahveci",
+        "weight": 15
+      },
+      {
+        "player1": "Sebastián Viera",
+        "player2": "Robert Pirès",
+        "weight": 15
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Josico",
+        "weight": 14
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Jon Dahl Tomasson",
+        "weight": 14
+      },
+      {
+        "player1": "Marcos Senna",
+        "player2": "Jon Dahl Tomasson",
+        "weight": 14
+      },
+      {
+        "player1": "Jon Dahl Tomasson",
+        "player2": "Diego López",
+        "weight": 14
+      },
+      {
+        "player1": "Sebastián Viera",
+        "player2": "Santi Cazorla",
+        "weight": 13
+      },
+      {
+        "player1": "Jon Dahl Tomasson",
+        "player2": "Santi Cazorla",
+        "weight": 13
+      },
+      {
+        "player1": "Jon Dahl Tomasson",
+        "player2": "Javi Venta",
+        "weight": 13
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Joseba Llorente",
+        "player2": "Diego López",
+        "weight": 32
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Joseba Llorente",
+        "weight": 30
+      },
+      {
+        "player1": "Joseba Llorente",
+        "player2": "Diego Godín",
+        "weight": 28
+      },
+      {
+        "player1": "Gonzalo Rodríguez",
+        "player2": "Joseba Llorente",
+        "weight": 25
+      },
+      {
+        "player1": "Ariel Ibagaza",
+        "player2": "Diego López",
+        "weight": 23
+      },
+      {
+        "player1": "Joseba Llorente",
+        "player2": "Giuseppe Rossi",
+        "weight": 22
+      },
+      {
+        "player1": "Joseba Llorente",
+        "player2": "Marcos Senna",
+        "weight": 22
+      },
+      {
+        "player1": "Joseba Llorente",
+        "player2": "Sebastián Eguren",
+        "weight": 21
+      },
+      {
+        "player1": "Joseba Llorente",
+        "player2": "Santi Cazorla",
+        "weight": 20
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Ariel Ibagaza",
+        "weight": 20
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2008_2009",
+    "season_to": "2009_2010",
+    "v_score": 0.514,
+    "e_score": 0.715,
+    "stats": {
+      "total_players_t": 24,
+      "total_players_t1": 28,
+      "total_edges_t": 251,
+      "total_edges_t1": 286
+    },
+    "players_left": [
+      {
+        "name": "Matías Fernández",
+        "matches": 11
+      },
+      {
+        "name": "Nihat Kahveci",
+        "matches": 9
+      },
+      {
+        "name": "Guillermo Franco",
+        "matches": 9
+      },
+      {
+        "name": "Edmílson",
+        "matches": 8
+      },
+      {
+        "name": "Pascal Cygan",
+        "matches": 5
+      },
+      {
+        "name": "Jozy Altidore",
+        "matches": 4
+      },
+      {
+        "name": "Sebastián Viera",
+        "matches": 3
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Nilmar",
+        "matches": 36
+      },
+      {
+        "name": "Iván Marcano",
+        "matches": 25
+      },
+      {
+        "name": "David Fuster",
+        "matches": 14
+      },
+      {
+        "name": "Damián Escudero",
+        "matches": 8
+      },
+      {
+        "name": "Mateo Musacchio",
+        "matches": 5
+      },
+      {
+        "name": "Kiko Olivas",
+        "matches": 4
+      },
+      {
+        "name": "Jonathan Pereira",
+        "matches": 3
+      },
+      {
+        "name": "Xavier Oliva",
+        "matches": 3
+      },
+      {
+        "name": "Marco Ruben",
+        "matches": 1
+      },
+      {
+        "name": "Marcos Gullón",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Fabricio Fuentes",
+        "player2": "Sebastián Eguren",
+        "weight": 12
+      },
+      {
+        "player1": "Fabricio Fuentes",
+        "player2": "Javi Venta",
+        "weight": 12
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Nihat Kahveci",
+        "weight": 9
+      },
+      {
+        "player1": "Cani",
+        "player2": "Matías Fernández",
+        "weight": 9
+      },
+      {
+        "player1": "Nihat Kahveci",
+        "player2": "Diego López",
+        "weight": 9
+      },
+      {
+        "player1": "Robert Pirès",
+        "player2": "Fabricio Fuentes",
+        "weight": 9
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Nihat Kahveci",
+        "weight": 8
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Matías Fernández",
+        "weight": 8
+      },
+      {
+        "player1": "Matías Fernández",
+        "player2": "Diego López",
+        "weight": 8
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Fabricio Fuentes",
+        "weight": 8
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Nilmar",
+        "weight": 34
+      },
+      {
+        "player1": "Nilmar",
+        "player2": "Diego López",
+        "weight": 34
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Nilmar",
+        "weight": 30
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Nilmar",
+        "weight": 30
+      },
+      {
+        "player1": "Marcos Senna",
+        "player2": "Nilmar",
+        "weight": 26
+      },
+      {
+        "player1": "Ángel López",
+        "player2": "Nilmar",
+        "weight": 25
+      },
+      {
+        "player1": "Nilmar",
+        "player2": "Cani",
+        "weight": 24
+      },
+      {
+        "player1": "Gonzalo Rodríguez",
+        "player2": "Nilmar",
+        "weight": 23
+      },
+      {
+        "player1": "Diego López",
+        "player2": "Iván Marcano",
+        "weight": 22
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Iván Marcano",
+        "weight": 21
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2009_2010",
+    "season_to": "2010_2011",
+    "v_score": 0.59,
+    "e_score": 0.832,
+    "stats": {
+      "total_players_t": 28,
+      "total_players_t1": 27,
+      "total_edges_t": 286,
+      "total_edges_t1": 277
+    },
+    "players_left": [
+      {
+        "name": "Diego Godín",
+        "matches": 44
+      },
+      {
+        "name": "Joseba Llorente",
+        "matches": 28
+      },
+      {
+        "name": "Iván Marcano",
+        "matches": 25
+      },
+      {
+        "name": "Robert Pirès",
+        "matches": 20
+      },
+      {
+        "name": "Ariel Ibagaza",
+        "matches": 19
+      },
+      {
+        "name": "Javi Venta",
+        "matches": 18
+      },
+      {
+        "name": "Sebastián Eguren",
+        "matches": 16
+      },
+      {
+        "name": "David Fuster",
+        "matches": 14
+      },
+      {
+        "name": "Damián Escudero",
+        "matches": 8
+      },
+      {
+        "name": "Jonathan Pereira",
+        "matches": 3
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Borja Valero",
+        "matches": 51
+      },
+      {
+        "name": "Carlos Marchena",
+        "matches": 36
+      },
+      {
+        "name": "Mario Gaspar",
+        "matches": 34
+      },
+      {
+        "name": "José Manuel Catalá",
+        "matches": 22
+      },
+      {
+        "name": "Jozy Altidore",
+        "matches": 7
+      },
+      {
+        "name": "Juan Carlos",
+        "matches": 6
+      },
+      {
+        "name": "Jefferson Montero",
+        "matches": 5
+      },
+      {
+        "name": "Mubarak Wakaso",
+        "matches": 3
+      },
+      {
+        "name": "Cristóbal Márquez",
+        "matches": 3
+      },
+      {
+        "name": "Carlos Tomás",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Diego Godín",
+        "player2": "Diego López",
+        "weight": 44
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Diego Godín",
+        "weight": 42
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Diego Godín",
+        "weight": 33
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Cani",
+        "weight": 32
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Giuseppe Rossi",
+        "weight": 30
+      },
+      {
+        "player1": "Marcos Senna",
+        "player2": "Diego Godín",
+        "weight": 30
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Nilmar",
+        "weight": 30
+      },
+      {
+        "player1": "Ángel López",
+        "player2": "Diego Godín",
+        "weight": 28
+      },
+      {
+        "player1": "Joseba Llorente",
+        "player2": "Diego López",
+        "weight": 26
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Joseba Llorente",
+        "weight": 25
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Giuseppe Rossi",
+        "player2": "Borja Valero",
+        "weight": 47
+      },
+      {
+        "player1": "Diego López",
+        "player2": "Borja Valero",
+        "weight": 47
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Borja Valero",
+        "weight": 46
+      },
+      {
+        "player1": "Borja Valero",
+        "player2": "Santi Cazorla",
+        "weight": 42
+      },
+      {
+        "player1": "Mateo Musacchio",
+        "player2": "Borja Valero",
+        "weight": 40
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Borja Valero",
+        "weight": 38
+      },
+      {
+        "player1": "Diego López",
+        "player2": "Carlos Marchena",
+        "weight": 36
+      },
+      {
+        "player1": "Cani",
+        "player2": "Borja Valero",
+        "weight": 34
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Carlos Marchena",
+        "weight": 34
+      },
+      {
+        "player1": "Carlos Marchena",
+        "player2": "Borja Valero",
+        "weight": 33
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2010_2011",
+    "season_to": "2011_2012",
+    "v_score": 0.556,
+    "e_score": 0.742,
+    "stats": {
+      "total_players_t": 27,
+      "total_players_t1": 25,
+      "total_edges_t": 277,
+      "total_edges_t1": 269
+    },
+    "players_left": [
+      {
+        "name": "Santi Cazorla",
+        "matches": 48
+      },
+      {
+        "name": "Joan Capdevila",
+        "matches": 42
+      },
+      {
+        "name": "Javier Matilla",
+        "matches": 9
+      },
+      {
+        "name": "Jozy Altidore",
+        "matches": 7
+      },
+      {
+        "name": "Juan Carlos",
+        "matches": 6
+      },
+      {
+        "name": "Jefferson Montero",
+        "matches": 5
+      },
+      {
+        "name": "Cristóbal Márquez",
+        "matches": 3
+      },
+      {
+        "name": "Kiko Olivas",
+        "matches": 3
+      },
+      {
+        "name": "Carlos Tomás",
+        "matches": 1
+      },
+      {
+        "name": "Marcos Gullón",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Cristian Zapata",
+        "matches": 36
+      },
+      {
+        "name": "Hernán Pérez",
+        "matches": 17
+      },
+      {
+        "name": "Jonathan de Guzmán",
+        "matches": 17
+      },
+      {
+        "name": "Javier Camuñas",
+        "matches": 12
+      },
+      {
+        "name": "Jaume Costa",
+        "matches": 7
+      },
+      {
+        "name": "Alejandro Martinuccio",
+        "matches": 5
+      },
+      {
+        "name": "Joselu Moreno",
+        "matches": 5
+      },
+      {
+        "name": "César Sánchez",
+        "matches": 3
+      },
+      {
+        "name": "Gonzalo Castellani",
+        "matches": 2
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Santi Cazorla",
+        "weight": 46
+      },
+      {
+        "player1": "Giuseppe Rossi",
+        "player2": "Santi Cazorla",
+        "weight": 45
+      },
+      {
+        "player1": "Diego López",
+        "player2": "Santi Cazorla",
+        "weight": 45
+      },
+      {
+        "player1": "Borja Valero",
+        "player2": "Santi Cazorla",
+        "weight": 42
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Bruno Soriano",
+        "weight": 40
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Diego López",
+        "weight": 39
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Giuseppe Rossi",
+        "weight": 38
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Borja Valero",
+        "weight": 38
+      },
+      {
+        "player1": "Joan Capdevila",
+        "player2": "Santi Cazorla",
+        "weight": 37
+      },
+      {
+        "player1": "Mateo Musacchio",
+        "player2": "Santi Cazorla",
+        "weight": 36
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Cristian Zapata",
+        "weight": 35
+      },
+      {
+        "player1": "Cristian Zapata",
+        "player2": "Diego López",
+        "weight": 33
+      },
+      {
+        "player1": "Cristian Zapata",
+        "player2": "Borja Valero",
+        "weight": 30
+      },
+      {
+        "player1": "Cristian Zapata",
+        "player2": "Mateo Musacchio",
+        "weight": 26
+      },
+      {
+        "player1": "Cristian Zapata",
+        "player2": "Cani",
+        "weight": 25
+      },
+      {
+        "player1": "Marcos Senna",
+        "player2": "Cristian Zapata",
+        "weight": 24
+      },
+      {
+        "player1": "Marco Ruben",
+        "player2": "Cristian Zapata",
+        "weight": 20
+      },
+      {
+        "player1": "Nilmar",
+        "player2": "Cristian Zapata",
+        "weight": 19
+      },
+      {
+        "player1": "Diego López",
+        "player2": "Jonathan de Guzmán",
+        "weight": 17
+      },
+      {
+        "player1": "Cristian Zapata",
+        "player2": "Mario Gaspar",
+        "weight": 16
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2011_2012",
+    "season_to": "2012_2013",
+    "v_score": 0.833,
+    "e_score": 0.953,
+    "stats": {
+      "total_players_t": 25,
+      "total_players_t1": 31,
+      "total_edges_t": 269,
+      "total_edges_t1": 335
+    },
+    "players_left": [
+      {
+        "name": "Diego López",
+        "matches": 45
+      },
+      {
+        "name": "Borja Valero",
+        "matches": 42
+      },
+      {
+        "name": "Cristian Zapata",
+        "matches": 36
+      },
+      {
+        "name": "Marco Ruben",
+        "matches": 29
+      },
+      {
+        "name": "Gonzalo Rodríguez",
+        "matches": 27
+      },
+      {
+        "name": "Nilmar",
+        "matches": 19
+      },
+      {
+        "name": "Ángel López",
+        "matches": 18
+      },
+      {
+        "name": "Jonathan de Guzmán",
+        "matches": 17
+      },
+      {
+        "name": "José Manuel Catalá",
+        "matches": 17
+      },
+      {
+        "name": "Carlos Marchena",
+        "matches": 15
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Juan Carlos",
+        "matches": 32
+      },
+      {
+        "name": "Olof Mellberg",
+        "matches": 26
+      },
+      {
+        "name": "Ikechukwu Uche",
+        "matches": 23
+      },
+      {
+        "name": "Manu Trigueros",
+        "matches": 21
+      },
+      {
+        "name": "Moi Gómez",
+        "matches": 17
+      },
+      {
+        "name": "Javi Venta",
+        "matches": 16
+      },
+      {
+        "name": "Fernando Cavenaghi",
+        "matches": 16
+      },
+      {
+        "name": "Jérémy Perbet",
+        "matches": 15
+      },
+      {
+        "name": "Jonathan Pereira",
+        "matches": 11
+      },
+      {
+        "name": "Chechu Dorado",
+        "matches": 11
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Diego López",
+        "weight": 43
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Borja Valero",
+        "weight": 40
+      },
+      {
+        "player1": "Diego López",
+        "player2": "Borja Valero",
+        "weight": 40
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Cristian Zapata",
+        "weight": 35
+      },
+      {
+        "player1": "Mateo Musacchio",
+        "player2": "Diego López",
+        "weight": 35
+      },
+      {
+        "player1": "Cristian Zapata",
+        "player2": "Diego López",
+        "weight": 33
+      },
+      {
+        "player1": "Mateo Musacchio",
+        "player2": "Borja Valero",
+        "weight": 32
+      },
+      {
+        "player1": "Cani",
+        "player2": "Diego López",
+        "weight": 30
+      },
+      {
+        "player1": "Cani",
+        "player2": "Borja Valero",
+        "weight": 30
+      },
+      {
+        "player1": "Cristian Zapata",
+        "player2": "Borja Valero",
+        "weight": 30
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Juan Carlos",
+        "player2": "Mateo Musacchio",
+        "weight": 29
+      },
+      {
+        "player1": "Juan Carlos",
+        "player2": "Cani",
+        "weight": 27
+      },
+      {
+        "player1": "Juan Carlos",
+        "player2": "Bruno Soriano",
+        "weight": 27
+      },
+      {
+        "player1": "Juan Carlos",
+        "player2": "Mario Gaspar",
+        "weight": 26
+      },
+      {
+        "player1": "Cani",
+        "player2": "Olof Mellberg",
+        "weight": 24
+      },
+      {
+        "player1": "Mateo Musacchio",
+        "player2": "Olof Mellberg",
+        "weight": 23
+      },
+      {
+        "player1": "Mateo Musacchio",
+        "player2": "Ikechukwu Uche",
+        "weight": 22
+      },
+      {
+        "player1": "Juan Carlos",
+        "player2": "Olof Mellberg",
+        "weight": 21
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Ikechukwu Uche",
+        "weight": 21
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Olof Mellberg",
+        "weight": 21
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2012_2013",
+    "season_to": "2013_2014",
+    "v_score": 0.634,
+    "e_score": 0.807,
+    "stats": {
+      "total_players_t": 31,
+      "total_players_t1": 25,
+      "total_edges_t": 335,
+      "total_edges_t1": 252
+    },
+    "players_left": [
+      {
+        "name": "Olof Mellberg",
+        "matches": 26
+      },
+      {
+        "name": "Marcos Senna",
+        "matches": 25
+      },
+      {
+        "name": "Joan Oriol",
+        "matches": 22
+      },
+      {
+        "name": "Javi Venta",
+        "matches": 16
+      },
+      {
+        "name": "Fernando Cavenaghi",
+        "matches": 16
+      },
+      {
+        "name": "Héctor Canteros",
+        "matches": 10
+      },
+      {
+        "name": "Diego Mariño",
+        "matches": 10
+      },
+      {
+        "name": "Javier Farinós",
+        "matches": 8
+      },
+      {
+        "name": "Gerard Moreno",
+        "matches": 8
+      },
+      {
+        "name": "Walter Pandiani",
+        "matches": 4
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Sergio Asenjo",
+        "matches": 35
+      },
+      {
+        "name": "Giovani dos Santos",
+        "matches": 28
+      },
+      {
+        "name": "Tomás Pina",
+        "matches": 25
+      },
+      {
+        "name": "Gabriel Paulista",
+        "matches": 20
+      },
+      {
+        "name": "Bojan Jokic",
+        "matches": 18
+      },
+      {
+        "name": "Aleksandar Pantic",
+        "matches": 10
+      },
+      {
+        "name": "Óliver Torres",
+        "matches": 6
+      },
+      {
+        "name": "Matías Nahuel",
+        "matches": 2
+      },
+      {
+        "name": "Edu Ramos",
+        "matches": 2
+      },
+      {
+        "name": "Joan Román",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Cani",
+        "player2": "Olof Mellberg",
+        "weight": 24
+      },
+      {
+        "player1": "Marcos Senna",
+        "player2": "Mateo Musacchio",
+        "weight": 23
+      },
+      {
+        "player1": "Mateo Musacchio",
+        "player2": "Olof Mellberg",
+        "weight": 23
+      },
+      {
+        "player1": "Juan Carlos",
+        "player2": "Olof Mellberg",
+        "weight": 21
+      },
+      {
+        "player1": "Joan Oriol",
+        "player2": "Mateo Musacchio",
+        "weight": 21
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Olof Mellberg",
+        "weight": 21
+      },
+      {
+        "player1": "Marcos Senna",
+        "player2": "Cani",
+        "weight": 21
+      },
+      {
+        "player1": "Marcos Senna",
+        "player2": "Manu Trigueros",
+        "weight": 19
+      },
+      {
+        "player1": "Joan Oriol",
+        "player2": "Bruno Soriano",
+        "weight": 19
+      },
+      {
+        "player1": "Joan Oriol",
+        "player2": "Cani",
+        "weight": 19
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Mario Gaspar",
+        "weight": 33
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Sergio Asenjo",
+        "weight": 32
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Mateo Musacchio",
+        "weight": 29
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Jaume Costa",
+        "weight": 26
+      },
+      {
+        "player1": "Giovani dos Santos",
+        "player2": "Mateo Musacchio",
+        "weight": 26
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Giovani dos Santos",
+        "weight": 25
+      },
+      {
+        "player1": "Giovani dos Santos",
+        "player2": "Mario Gaspar",
+        "weight": 25
+      },
+      {
+        "player1": "Giovani dos Santos",
+        "player2": "Sergio Asenjo",
+        "weight": 23
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Cani",
+        "weight": 23
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Tomás Pina",
+        "weight": 21
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2013_2014",
+    "season_to": "2014_2015",
+    "v_score": 0.579,
+    "e_score": 0.781,
+    "stats": {
+      "total_players_t": 25,
+      "total_players_t1": 29,
+      "total_edges_t": 252,
+      "total_edges_t1": 333
+    },
+    "players_left": [
+      {
+        "name": "Javier Aquino",
+        "matches": 21
+      },
+      {
+        "name": "Jonathan Pereira",
+        "matches": 18
+      },
+      {
+        "name": "Jérémy Perbet",
+        "matches": 16
+      },
+      {
+        "name": "Hernán Pérez",
+        "matches": 10
+      },
+      {
+        "name": "Aleksandar Pantic",
+        "matches": 10
+      },
+      {
+        "name": "Óliver Torres",
+        "matches": 6
+      },
+      {
+        "name": "Pablo Iñiguez",
+        "matches": 3
+      },
+      {
+        "name": "Edu Ramos",
+        "matches": 2
+      },
+      {
+        "name": "Joan Román",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Víctor Ruiz",
+        "matches": 34
+      },
+      {
+        "name": "Gerard Moreno",
+        "matches": 30
+      },
+      {
+        "name": "Luciano Vietto",
+        "matches": 29
+      },
+      {
+        "name": "Jonathan dos Santos",
+        "matches": 28
+      },
+      {
+        "name": "Denis Cheryshev",
+        "matches": 27
+      },
+      {
+        "name": "Antonio Rukavina",
+        "matches": 25
+      },
+      {
+        "name": "Joel Campbell",
+        "matches": 18
+      },
+      {
+        "name": "Eric Bailly",
+        "matches": 12
+      },
+      {
+        "name": "Javier Espinosa",
+        "matches": 9
+      },
+      {
+        "name": "Adrián Marín",
+        "matches": 8
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Javier Aquino",
+        "player2": "Mateo Musacchio",
+        "weight": 19
+      },
+      {
+        "player1": "Javier Aquino",
+        "player2": "Mario Gaspar",
+        "weight": 18
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Jonathan Pereira",
+        "weight": 18
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Javier Aquino",
+        "weight": 18
+      },
+      {
+        "player1": "Javier Aquino",
+        "player2": "Sergio Asenjo",
+        "weight": 17
+      },
+      {
+        "player1": "Javier Aquino",
+        "player2": "Jaume Costa",
+        "weight": 16
+      },
+      {
+        "player1": "Javier Aquino",
+        "player2": "Giovani dos Santos",
+        "weight": 16
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Jonathan Pereira",
+        "weight": 15
+      },
+      {
+        "player1": "Mateo Musacchio",
+        "player2": "Jonathan Pereira",
+        "weight": 15
+      },
+      {
+        "player1": "Jonathan Pereira",
+        "player2": "Mario Gaspar",
+        "weight": 15
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Mario Gaspar",
+        "player2": "Víctor Ruiz",
+        "weight": 30
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Víctor Ruiz",
+        "weight": 28
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Denis Cheryshev",
+        "weight": 27
+      },
+      {
+        "player1": "Mario Gaspar",
+        "player2": "Luciano Vietto",
+        "weight": 27
+      },
+      {
+        "player1": "Denis Cheryshev",
+        "player2": "Mario Gaspar",
+        "weight": 25
+      },
+      {
+        "player1": "Manu Trigueros",
+        "player2": "Víctor Ruiz",
+        "weight": 25
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Luciano Vietto",
+        "weight": 24
+      },
+      {
+        "player1": "Jaume Costa",
+        "player2": "Víctor Ruiz",
+        "weight": 24
+      },
+      {
+        "player1": "Jonathan dos Santos",
+        "player2": "Mario Gaspar",
+        "weight": 24
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Jonathan dos Santos",
+        "weight": 22
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2014_2015",
+    "season_to": "2015_2016",
+    "v_score": 0.674,
+    "e_score": 0.866,
+    "stats": {
+      "total_players_t": 29,
+      "total_players_t1": 28,
+      "total_edges_t": 333,
+      "total_edges_t1": 317
+    },
+    "players_left": [
+      {
+        "name": "Gerard Moreno",
+        "matches": 30
+      },
+      {
+        "name": "Luciano Vietto",
+        "matches": 29
+      },
+      {
+        "name": "Gabriel Paulista",
+        "matches": 28
+      },
+      {
+        "name": "Ikechukwu Uche",
+        "matches": 27
+      },
+      {
+        "name": "Denis Cheryshev",
+        "matches": 27
+      },
+      {
+        "name": "Moi Gómez",
+        "matches": 25
+      },
+      {
+        "name": "Giovani dos Santos",
+        "matches": 21
+      },
+      {
+        "name": "Chechu Dorado",
+        "matches": 20
+      },
+      {
+        "name": "Joel Campbell",
+        "matches": 18
+      },
+      {
+        "name": "Cani",
+        "matches": 10
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Roberto Soldado",
+        "matches": 39
+      },
+      {
+        "name": "Alphonse Areola",
+        "matches": 37
+      },
+      {
+        "name": "Denis Suárez",
+        "matches": 36
+      },
+      {
+        "name": "Cédric Bakambu",
+        "matches": 34
+      },
+      {
+        "name": "Samu Castillejo",
+        "matches": 31
+      },
+      {
+        "name": "Léo Baptistão",
+        "matches": 17
+      },
+      {
+        "name": "Samu García",
+        "matches": 15
+      },
+      {
+        "name": "Mariano Barbosa",
+        "matches": 12
+      },
+      {
+        "name": "Adrián López",
+        "matches": 11
+      },
+      {
+        "name": "Daniele Bonera",
+        "matches": 11
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Denis Cheryshev",
+        "weight": 27
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Ikechukwu Uche",
+        "weight": 27
+      },
+      {
+        "player1": "Mario Gaspar",
+        "player2": "Luciano Vietto",
+        "weight": 27
+      },
+      {
+        "player1": "Manu Trigueros",
+        "player2": "Ikechukwu Uche",
+        "weight": 25
+      },
+      {
+        "player1": "Denis Cheryshev",
+        "player2": "Mario Gaspar",
+        "weight": 25
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Luciano Vietto",
+        "weight": 24
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Gabriel Paulista",
+        "weight": 24
+      },
+      {
+        "player1": "Ikechukwu Uche",
+        "player2": "Mario Gaspar",
+        "weight": 24
+      },
+      {
+        "player1": "Gabriel Paulista",
+        "player2": "Mario Gaspar",
+        "weight": 24
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Moi Gómez",
+        "weight": 23
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Roberto Soldado",
+        "player2": "Víctor Ruiz",
+        "weight": 37
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Roberto Soldado",
+        "weight": 33
+      },
+      {
+        "player1": "Denis Suárez",
+        "player2": "Víctor Ruiz",
+        "weight": 33
+      },
+      {
+        "player1": "Alphonse Areola",
+        "player2": "Víctor Ruiz",
+        "weight": 33
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Denis Suárez",
+        "weight": 32
+      },
+      {
+        "player1": "Roberto Soldado",
+        "player2": "Mario Gaspar",
+        "weight": 31
+      },
+      {
+        "player1": "Alphonse Areola",
+        "player2": "Mario Gaspar",
+        "weight": 31
+      },
+      {
+        "player1": "Alphonse Areola",
+        "player2": "Roberto Soldado",
+        "weight": 30
+      },
+      {
+        "player1": "Víctor Ruiz",
+        "player2": "Cédric Bakambu",
+        "weight": 30
+      },
+      {
+        "player1": "Denis Suárez",
+        "player2": "Mario Gaspar",
+        "weight": 30
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2015_2016",
+    "season_to": "2016_2017",
+    "v_score": 0.568,
+    "e_score": 0.787,
+    "stats": {
+      "total_players_t": 28,
+      "total_players_t1": 25,
+      "total_edges_t": 317,
+      "total_edges_t1": 281
+    },
+    "players_left": [
+      {
+        "name": "Alphonse Areola",
+        "matches": 37
+      },
+      {
+        "name": "Denis Suárez",
+        "matches": 36
+      },
+      {
+        "name": "Eric Bailly",
+        "matches": 35
+      },
+      {
+        "name": "Tomás Pina",
+        "matches": 27
+      },
+      {
+        "name": "Matías Nahuel",
+        "matches": 17
+      },
+      {
+        "name": "Léo Baptistão",
+        "matches": 17
+      },
+      {
+        "name": "Samu García",
+        "matches": 15
+      },
+      {
+        "name": "Adrián Marín",
+        "matches": 13
+      },
+      {
+        "name": "Bojan Jokic",
+        "matches": 7
+      },
+      {
+        "name": "Alfonso Pedraza",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Roberto Soriano",
+        "matches": 38
+      },
+      {
+        "name": "Nicola Sansone",
+        "matches": 29
+      },
+      {
+        "name": "Álvaro González",
+        "matches": 28
+      },
+      {
+        "name": "Andrés Fernández",
+        "matches": 19
+      },
+      {
+        "name": "Alexandre Pato",
+        "matches": 19
+      },
+      {
+        "name": "Cote",
+        "matches": 17
+      },
+      {
+        "name": "Rafael Borré",
+        "matches": 12
+      },
+      {
+        "name": "Denis Cheryshev",
+        "matches": 8
+      },
+      {
+        "name": "Alfred N'Diaye",
+        "matches": 6
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Denis Suárez",
+        "player2": "Víctor Ruiz",
+        "weight": 33
+      },
+      {
+        "player1": "Alphonse Areola",
+        "player2": "Víctor Ruiz",
+        "weight": 33
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Denis Suárez",
+        "weight": 32
+      },
+      {
+        "player1": "Alphonse Areola",
+        "player2": "Mario Gaspar",
+        "weight": 31
+      },
+      {
+        "player1": "Alphonse Areola",
+        "player2": "Roberto Soldado",
+        "weight": 30
+      },
+      {
+        "player1": "Denis Suárez",
+        "player2": "Mario Gaspar",
+        "weight": 30
+      },
+      {
+        "player1": "Víctor Ruiz",
+        "player2": "Eric Bailly",
+        "weight": 28
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Alphonse Areola",
+        "weight": 28
+      },
+      {
+        "player1": "Roberto Soldado",
+        "player2": "Denis Suárez",
+        "weight": 28
+      },
+      {
+        "player1": "Denis Suárez",
+        "player2": "Cédric Bakambu",
+        "weight": 27
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Roberto Soriano",
+        "player2": "Mario Gaspar",
+        "weight": 35
+      },
+      {
+        "player1": "Roberto Soriano",
+        "player2": "Manu Trigueros",
+        "weight": 32
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Roberto Soriano",
+        "weight": 31
+      },
+      {
+        "player1": "Roberto Soriano",
+        "player2": "Jaume Costa",
+        "weight": 28
+      },
+      {
+        "player1": "Nicola Sansone",
+        "player2": "Mario Gaspar",
+        "weight": 27
+      },
+      {
+        "player1": "Roberto Soriano",
+        "player2": "Víctor Ruiz",
+        "weight": 27
+      },
+      {
+        "player1": "Nicola Sansone",
+        "player2": "Roberto Soriano",
+        "weight": 26
+      },
+      {
+        "player1": "Nicola Sansone",
+        "player2": "Manu Trigueros",
+        "weight": 26
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Nicola Sansone",
+        "weight": 25
+      },
+      {
+        "player1": "Roberto Soriano",
+        "player2": "Sergio Asenjo",
+        "weight": 24
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2016_2017",
+    "season_to": "2017_2018",
+    "v_score": 0.595,
+    "e_score": 0.779,
+    "stats": {
+      "total_players_t": 25,
+      "total_players_t1": 34,
+      "total_edges_t": 281,
+      "total_edges_t1": 371
+    },
+    "players_left": [
+      {
+        "name": "Bruno Soriano",
+        "matches": 44
+      },
+      {
+        "name": "Jonathan dos Santos",
+        "matches": 32
+      },
+      {
+        "name": "Mateo Musacchio",
+        "matches": 30
+      },
+      {
+        "name": "Alexandre Pato",
+        "matches": 19
+      },
+      {
+        "name": "Cote",
+        "matches": 17
+      },
+      {
+        "name": "Rafael Borré",
+        "matches": 12
+      },
+      {
+        "name": "Roberto Soldado",
+        "matches": 11
+      },
+      {
+        "name": "Adrián López",
+        "matches": 7
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Pablo Fornals",
+        "matches": 38
+      },
+      {
+        "name": "Carlos Bacca",
+        "matches": 37
+      },
+      {
+        "name": "Dani Raba",
+        "matches": 18
+      },
+      {
+        "name": "Enes Ünal",
+        "matches": 17
+      },
+      {
+        "name": "Adrián Marín",
+        "matches": 7
+      },
+      {
+        "name": "Javi Fuego",
+        "matches": 7
+      },
+      {
+        "name": "Ramiro Guerra",
+        "matches": 5
+      },
+      {
+        "name": "Rúben Semedo",
+        "matches": 4
+      },
+      {
+        "name": "Pau Torres",
+        "matches": 4
+      },
+      {
+        "name": "Chuca",
+        "matches": 3
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Manu Trigueros",
+        "weight": 36
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Mario Gaspar",
+        "weight": 36
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Roberto Soriano",
+        "weight": 31
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Víctor Ruiz",
+        "weight": 31
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Jaume Costa",
+        "weight": 30
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Sergio Asenjo",
+        "weight": 28
+      },
+      {
+        "player1": "Mateo Musacchio",
+        "player2": "Manu Trigueros",
+        "weight": 27
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Samu Castillejo",
+        "weight": 26
+      },
+      {
+        "player1": "Bruno Soriano",
+        "player2": "Jonathan dos Santos",
+        "weight": 26
+      },
+      {
+        "player1": "Mateo Musacchio",
+        "player2": "Mario Gaspar",
+        "weight": 26
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Pablo Fornals",
+        "player2": "Rodri",
+        "weight": 35
+      },
+      {
+        "player1": "Carlos Bacca",
+        "player2": "Manu Trigueros",
+        "weight": 34
+      },
+      {
+        "player1": "Carlos Bacca",
+        "player2": "Rodri",
+        "weight": 33
+      },
+      {
+        "player1": "Pablo Fornals",
+        "player2": "Manu Trigueros",
+        "weight": 33
+      },
+      {
+        "player1": "Carlos Bacca",
+        "player2": "Pablo Fornals",
+        "weight": 31
+      },
+      {
+        "player1": "Pablo Fornals",
+        "player2": "Álvaro González",
+        "weight": 30
+      },
+      {
+        "player1": "Pablo Fornals",
+        "player2": "Jaume Costa",
+        "weight": 30
+      },
+      {
+        "player1": "Carlos Bacca",
+        "player2": "Jaume Costa",
+        "weight": 29
+      },
+      {
+        "player1": "Pablo Fornals",
+        "player2": "Mario Gaspar",
+        "weight": 29
+      },
+      {
+        "player1": "Carlos Bacca",
+        "player2": "Víctor Ruiz",
+        "weight": 28
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2017_2018",
+    "season_to": "2018_2019",
+    "v_score": 0.708,
+    "e_score": 0.885,
+    "stats": {
+      "total_players_t": 34,
+      "total_players_t1": 28,
+      "total_edges_t": 371,
+      "total_edges_t1": 329
+    },
+    "players_left": [
+      {
+        "name": "Rodri",
+        "matches": 43
+      },
+      {
+        "name": "Samu Castillejo",
+        "matches": 29
+      },
+      {
+        "name": "Antonio Rukavina",
+        "matches": 21
+      },
+      {
+        "name": "Mariano Barbosa",
+        "matches": 20
+      },
+      {
+        "name": "Cédric Bakambu",
+        "matches": 18
+      },
+      {
+        "name": "Enes Ünal",
+        "matches": 17
+      },
+      {
+        "name": "Roberto Soriano",
+        "matches": 17
+      },
+      {
+        "name": "Denis Cheryshev",
+        "matches": 12
+      },
+      {
+        "name": "Adrián Marín",
+        "matches": 7
+      },
+      {
+        "name": "Ramiro Guerra",
+        "matches": 5
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Ramiro Funes Mori",
+        "matches": 39
+      },
+      {
+        "name": "Santi Cazorla",
+        "matches": 34
+      },
+      {
+        "name": "Gerard Moreno",
+        "matches": 32
+      },
+      {
+        "name": "Karl Toko Ekambi",
+        "matches": 31
+      },
+      {
+        "name": "Alfonso Pedraza",
+        "matches": 30
+      },
+      {
+        "name": "Samuel Chukwueze",
+        "matches": 26
+      },
+      {
+        "name": "Santiago Cáseres",
+        "matches": 26
+      },
+      {
+        "name": "Vicente Iborra",
+        "matches": 22
+      },
+      {
+        "name": "Miguel Layún",
+        "matches": 11
+      },
+      {
+        "name": "Miguel Llambrich",
+        "matches": 11
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Manu Trigueros",
+        "player2": "Rodri",
+        "weight": 36
+      },
+      {
+        "player1": "Álvaro González",
+        "player2": "Rodri",
+        "weight": 35
+      },
+      {
+        "player1": "Pablo Fornals",
+        "player2": "Rodri",
+        "weight": 35
+      },
+      {
+        "player1": "Mario Gaspar",
+        "player2": "Rodri",
+        "weight": 34
+      },
+      {
+        "player1": "Carlos Bacca",
+        "player2": "Rodri",
+        "weight": 33
+      },
+      {
+        "player1": "Jaume Costa",
+        "player2": "Rodri",
+        "weight": 31
+      },
+      {
+        "player1": "Víctor Ruiz",
+        "player2": "Rodri",
+        "weight": 30
+      },
+      {
+        "player1": "Samu Castillejo",
+        "player2": "Manu Trigueros",
+        "weight": 26
+      },
+      {
+        "player1": "Samu Castillejo",
+        "player2": "Rodri",
+        "weight": 25
+      },
+      {
+        "player1": "Samu Castillejo",
+        "player2": "Mario Gaspar",
+        "weight": 24
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Pablo Fornals",
+        "player2": "Ramiro Funes Mori",
+        "weight": 30
+      },
+      {
+        "player1": "Álvaro González",
+        "player2": "Ramiro Funes Mori",
+        "weight": 29
+      },
+      {
+        "player1": "Mario Gaspar",
+        "player2": "Santi Cazorla",
+        "weight": 29
+      },
+      {
+        "player1": "Gerard Moreno",
+        "player2": "Pablo Fornals",
+        "weight": 28
+      },
+      {
+        "player1": "Ramiro Funes Mori",
+        "player2": "Mario Gaspar",
+        "weight": 27
+      },
+      {
+        "player1": "Álvaro González",
+        "player2": "Santi Cazorla",
+        "weight": 26
+      },
+      {
+        "player1": "Karl Toko Ekambi",
+        "player2": "Álvaro González",
+        "weight": 26
+      },
+      {
+        "player1": "Gerard Moreno",
+        "player2": "Álvaro González",
+        "weight": 25
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Santi Cazorla",
+        "weight": 25
+      },
+      {
+        "player1": "Pablo Fornals",
+        "player2": "Santi Cazorla",
+        "weight": 24
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2018_2019",
+    "season_to": "2019_2020",
+    "v_score": 0.69,
+    "e_score": 0.852,
+    "stats": {
+      "total_players_t": 28,
+      "total_players_t1": 27,
+      "total_edges_t": 329,
+      "total_edges_t1": 270
+    },
+    "players_left": [
+      {
+        "name": "Álvaro González",
+        "matches": 41
+      },
+      {
+        "name": "Pablo Fornals",
+        "matches": 38
+      },
+      {
+        "name": "Víctor Ruiz",
+        "matches": 33
+      },
+      {
+        "name": "Alfonso Pedraza",
+        "matches": 30
+      },
+      {
+        "name": "Jaume Costa",
+        "matches": 26
+      },
+      {
+        "name": "Santiago Cáseres",
+        "matches": 26
+      },
+      {
+        "name": "Miguel Layún",
+        "matches": 11
+      },
+      {
+        "name": "Miguel Llambrich",
+        "matches": 11
+      },
+      {
+        "name": "Dani Raba",
+        "matches": 10
+      },
+      {
+        "name": "Daniele Bonera",
+        "matches": 10
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Raúl Albiol",
+        "matches": 38
+      },
+      {
+        "name": "Pau Torres",
+        "matches": 35
+      },
+      {
+        "name": "Frank Anguissa",
+        "matches": 31
+      },
+      {
+        "name": "Moi Gómez",
+        "matches": 28
+      },
+      {
+        "name": "Rubén Peña",
+        "matches": 24
+      },
+      {
+        "name": "Alberto Moreno",
+        "matches": 18
+      },
+      {
+        "name": "Javi Ontiveros",
+        "matches": 12
+      },
+      {
+        "name": "Paco Alcácer",
+        "matches": 11
+      },
+      {
+        "name": "Soufiane Chakla",
+        "matches": 3
+      },
+      {
+        "name": "Leo Suárez",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Pablo Fornals",
+        "player2": "Álvaro González",
+        "weight": 32
+      },
+      {
+        "player1": "Álvaro González",
+        "player2": "Mario Gaspar",
+        "weight": 30
+      },
+      {
+        "player1": "Pablo Fornals",
+        "player2": "Ramiro Funes Mori",
+        "weight": 30
+      },
+      {
+        "player1": "Álvaro González",
+        "player2": "Ramiro Funes Mori",
+        "weight": 29
+      },
+      {
+        "player1": "Pablo Fornals",
+        "player2": "Mario Gaspar",
+        "weight": 29
+      },
+      {
+        "player1": "Gerard Moreno",
+        "player2": "Pablo Fornals",
+        "weight": 28
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Álvaro González",
+        "weight": 27
+      },
+      {
+        "player1": "Víctor Ruiz",
+        "player2": "Mario Gaspar",
+        "weight": 27
+      },
+      {
+        "player1": "Álvaro González",
+        "player2": "Santi Cazorla",
+        "weight": 26
+      },
+      {
+        "player1": "Karl Toko Ekambi",
+        "player2": "Álvaro González",
+        "weight": 26
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Vicente Iborra",
+        "weight": 32
+      },
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Sergio Asenjo",
+        "weight": 32
+      },
+      {
+        "player1": "Gerard Moreno",
+        "player2": "Raúl Albiol",
+        "weight": 31
+      },
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Pau Torres",
+        "weight": 31
+      },
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Santi Cazorla",
+        "weight": 29
+      },
+      {
+        "player1": "Gerard Moreno",
+        "player2": "Pau Torres",
+        "weight": 29
+      },
+      {
+        "player1": "Pau Torres",
+        "player2": "Frank Anguissa",
+        "weight": 29
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Pau Torres",
+        "weight": 29
+      },
+      {
+        "player1": "Pau Torres",
+        "player2": "Vicente Iborra",
+        "weight": 28
+      },
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Frank Anguissa",
+        "weight": 27
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2019_2020",
+    "season_to": "2020_2021",
+    "v_score": 0.59,
+    "e_score": 0.812,
+    "stats": {
+      "total_players_t": 27,
+      "total_players_t1": 28,
+      "total_edges_t": 270,
+      "total_edges_t1": 342
+    },
+    "players_left": [
+      {
+        "name": "Santi Cazorla",
+        "matches": 32
+      },
+      {
+        "name": "Frank Anguissa",
+        "matches": 31
+      },
+      {
+        "name": "Xavi Quintillà",
+        "matches": 20
+      },
+      {
+        "name": "Karl Toko Ekambi",
+        "matches": 12
+      },
+      {
+        "name": "Javi Ontiveros",
+        "matches": 12
+      },
+      {
+        "name": "Andrés Fernández",
+        "matches": 9
+      },
+      {
+        "name": "Manu Morlanes",
+        "matches": 7
+      },
+      {
+        "name": "Leo Suárez",
+        "matches": 1
+      },
+      {
+        "name": "Sergio Lozano",
+        "matches": 1
+      },
+      {
+        "name": "Miguel Leal",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Dani Parejo",
+        "matches": 47
+      },
+      {
+        "name": "Alfonso Pedraza",
+        "matches": 36
+      },
+      {
+        "name": "Juan Foyth",
+        "matches": 27
+      },
+      {
+        "name": "Étienne Capoue",
+        "matches": 25
+      },
+      {
+        "name": "Gerónimo Rulli",
+        "matches": 20
+      },
+      {
+        "name": "Pervis Estupiñán",
+        "matches": 17
+      },
+      {
+        "name": "Francis Coquelin",
+        "matches": 14
+      },
+      {
+        "name": "Yéremy Pino",
+        "matches": 12
+      },
+      {
+        "name": "Jaume Costa",
+        "matches": 11
+      },
+      {
+        "name": "Álex Baena",
+        "matches": 10
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Santi Cazorla",
+        "weight": 29
+      },
+      {
+        "player1": "Pau Torres",
+        "player2": "Frank Anguissa",
+        "weight": 29
+      },
+      {
+        "player1": "Vicente Iborra",
+        "player2": "Santi Cazorla",
+        "weight": 28
+      },
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Frank Anguissa",
+        "weight": 27
+      },
+      {
+        "player1": "Gerard Moreno",
+        "player2": "Santi Cazorla",
+        "weight": 26
+      },
+      {
+        "player1": "Pau Torres",
+        "player2": "Santi Cazorla",
+        "weight": 26
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Frank Anguissa",
+        "weight": 26
+      },
+      {
+        "player1": "Gerard Moreno",
+        "player2": "Frank Anguissa",
+        "weight": 25
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Santi Cazorla",
+        "weight": 25
+      },
+      {
+        "player1": "Vicente Iborra",
+        "player2": "Frank Anguissa",
+        "weight": 24
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Dani Parejo",
+        "weight": 44
+      },
+      {
+        "player1": "Dani Parejo",
+        "player2": "Pau Torres",
+        "weight": 40
+      },
+      {
+        "player1": "Dani Parejo",
+        "player2": "Manu Trigueros",
+        "weight": 38
+      },
+      {
+        "player1": "Gerard Moreno",
+        "player2": "Dani Parejo",
+        "weight": 38
+      },
+      {
+        "player1": "Dani Parejo",
+        "player2": "Sergio Asenjo",
+        "weight": 35
+      },
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Alfonso Pedraza",
+        "weight": 32
+      },
+      {
+        "player1": "Pau Torres",
+        "player2": "Alfonso Pedraza",
+        "weight": 32
+      },
+      {
+        "player1": "Dani Parejo",
+        "player2": "Alfonso Pedraza",
+        "weight": 31
+      },
+      {
+        "player1": "Manu Trigueros",
+        "player2": "Alfonso Pedraza",
+        "weight": 31
+      },
+      {
+        "player1": "Dani Parejo",
+        "player2": "Moi Gómez",
+        "weight": 29
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2020_2021",
+    "season_to": "2021_2022",
+    "v_score": 0.4,
+    "e_score": 0.614,
+    "stats": {
+      "total_players_t": 28,
+      "total_players_t1": 28,
+      "total_edges_t": 342,
+      "total_edges_t1": 322
+    },
+    "players_left": [
+      {
+        "name": "Carlos Bacca",
+        "matches": 18
+      },
+      {
+        "name": "Ramiro Funes Mori",
+        "matches": 16
+      },
+      {
+        "name": "Jaume Costa",
+        "matches": 11
+      },
+      {
+        "name": "Fer Niño",
+        "matches": 11
+      },
+      {
+        "name": "Álex Baena",
+        "matches": 10
+      },
+      {
+        "name": "Takefusa Kubo",
+        "matches": 7
+      },
+      {
+        "name": "Soufiane Chakla",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Arnaut Danjuma",
+        "matches": 27
+      },
+      {
+        "name": "Giovani Lo Celso",
+        "matches": 17
+      },
+      {
+        "name": "Boulaye Dia",
+        "matches": 17
+      },
+      {
+        "name": "Aïssa Mandi",
+        "matches": 16
+      },
+      {
+        "name": "Serge Aurier",
+        "matches": 11
+      },
+      {
+        "name": "Adrián Dela",
+        "matches": 1
+      },
+      {
+        "name": "Nicolas Jackson",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Carlos Bacca",
+        "player2": "Manu Trigueros",
+        "weight": 15
+      },
+      {
+        "player1": "Carlos Bacca",
+        "player2": "Dani Parejo",
+        "weight": 13
+      },
+      {
+        "player1": "Carlos Bacca",
+        "player2": "Raúl Albiol",
+        "weight": 12
+      },
+      {
+        "player1": "Carlos Bacca",
+        "player2": "Alfonso Pedraza",
+        "weight": 11
+      },
+      {
+        "player1": "Gerard Moreno",
+        "player2": "Carlos Bacca",
+        "weight": 11
+      },
+      {
+        "player1": "Carlos Bacca",
+        "player2": "Juan Foyth",
+        "weight": 11
+      },
+      {
+        "player1": "Carlos Bacca",
+        "player2": "Pau Torres",
+        "weight": 10
+      },
+      {
+        "player1": "Dani Parejo",
+        "player2": "Ramiro Funes Mori",
+        "weight": 10
+      },
+      {
+        "player1": "Manu Trigueros",
+        "player2": "Ramiro Funes Mori",
+        "weight": 10
+      },
+      {
+        "player1": "Fer Niño",
+        "player2": "Manu Trigueros",
+        "weight": 9
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Pau Torres",
+        "player2": "Arnaut Danjuma",
+        "weight": 26
+      },
+      {
+        "player1": "Dani Parejo",
+        "player2": "Arnaut Danjuma",
+        "weight": 26
+      },
+      {
+        "player1": "Gerónimo Rulli",
+        "player2": "Arnaut Danjuma",
+        "weight": 24
+      },
+      {
+        "player1": "Étienne Capoue",
+        "player2": "Arnaut Danjuma",
+        "weight": 23
+      },
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Arnaut Danjuma",
+        "weight": 22
+      },
+      {
+        "player1": "Yéremy Pino",
+        "player2": "Arnaut Danjuma",
+        "weight": 18
+      },
+      {
+        "player1": "Dani Parejo",
+        "player2": "Giovani Lo Celso",
+        "weight": 17
+      },
+      {
+        "player1": "Alberto Moreno",
+        "player2": "Gerónimo Rulli",
+        "weight": 17
+      },
+      {
+        "player1": "Juan Foyth",
+        "player2": "Arnaut Danjuma",
+        "weight": 17
+      },
+      {
+        "player1": "Pau Torres",
+        "player2": "Giovani Lo Celso",
+        "weight": 16
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2021_2022",
+    "season_to": "2022_2023",
+    "v_score": 0.538,
+    "e_score": 0.767,
+    "stats": {
+      "total_players_t": 28,
+      "total_players_t1": 29,
+      "total_edges_t": 322,
+      "total_edges_t1": 344
+    },
+    "players_left": [
+      {
+        "name": "Pervis Estupiñán",
+        "matches": 25
+      },
+      {
+        "name": "Moi Gómez",
+        "matches": 17
+      },
+      {
+        "name": "Boulaye Dia",
+        "matches": 17
+      },
+      {
+        "name": "Vicente Iborra",
+        "matches": 14
+      },
+      {
+        "name": "Paco Alcácer",
+        "matches": 13
+      },
+      {
+        "name": "Serge Aurier",
+        "matches": 11
+      },
+      {
+        "name": "Mario Gaspar",
+        "matches": 10
+      },
+      {
+        "name": "Sergio Asenjo",
+        "matches": 8
+      },
+      {
+        "name": "Dani Raba",
+        "matches": 3
+      },
+      {
+        "name": "Rubén Peña",
+        "matches": 3
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Álex Baena",
+        "matches": 32
+      },
+      {
+        "name": "Pepe Reina",
+        "matches": 32
+      },
+      {
+        "name": "José Luis Morales",
+        "matches": 19
+      },
+      {
+        "name": "Jorge Cuenca",
+        "matches": 17
+      },
+      {
+        "name": "Kiko Femenía",
+        "matches": 17
+      },
+      {
+        "name": "Johan Mojica",
+        "matches": 14
+      },
+      {
+        "name": "Manu Morlanes",
+        "matches": 12
+      },
+      {
+        "name": "Ramón Terrats",
+        "matches": 12
+      },
+      {
+        "name": "Filip Jørgensen",
+        "matches": 6
+      },
+      {
+        "name": "Jorge Pascual",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Pervis Estupiñán",
+        "player2": "Gerónimo Rulli",
+        "weight": 23
+      },
+      {
+        "player1": "Pau Torres",
+        "player2": "Pervis Estupiñán",
+        "weight": 22
+      },
+      {
+        "player1": "Étienne Capoue",
+        "player2": "Pervis Estupiñán",
+        "weight": 22
+      },
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Pervis Estupiñán",
+        "weight": 22
+      },
+      {
+        "player1": "Dani Parejo",
+        "player2": "Pervis Estupiñán",
+        "weight": 21
+      },
+      {
+        "player1": "Juan Foyth",
+        "player2": "Pervis Estupiñán",
+        "weight": 17
+      },
+      {
+        "player1": "Juan Foyth",
+        "player2": "Arnaut Danjuma",
+        "weight": 17
+      },
+      {
+        "player1": "Pervis Estupiñán",
+        "player2": "Arnaut Danjuma",
+        "weight": 15
+      },
+      {
+        "player1": "Pau Torres",
+        "player2": "Moi Gómez",
+        "weight": 14
+      },
+      {
+        "player1": "Boulaye Dia",
+        "player2": "Pau Torres",
+        "weight": 14
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Pepe Reina",
+        "player2": "Samuel Chukwueze",
+        "weight": 28
+      },
+      {
+        "player1": "Samuel Chukwueze",
+        "player2": "Álex Baena",
+        "weight": 27
+      },
+      {
+        "player1": "Dani Parejo",
+        "player2": "Pepe Reina",
+        "weight": 24
+      },
+      {
+        "player1": "Pepe Reina",
+        "player2": "Yéremy Pino",
+        "weight": 23
+      },
+      {
+        "player1": "Dani Parejo",
+        "player2": "Álex Baena",
+        "weight": 22
+      },
+      {
+        "player1": "Pepe Reina",
+        "player2": "Aïssa Mandi",
+        "weight": 22
+      },
+      {
+        "player1": "Pepe Reina",
+        "player2": "Álex Baena",
+        "weight": 22
+      },
+      {
+        "player1": "Juan Foyth",
+        "player2": "Pepe Reina",
+        "weight": 21
+      },
+      {
+        "player1": "Aïssa Mandi",
+        "player2": "Álex Baena",
+        "weight": 21
+      },
+      {
+        "player1": "Pepe Reina",
+        "player2": "Pau Torres",
+        "weight": 21
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2022_2023",
+    "season_to": "2023_2024",
+    "v_score": 0.537,
+    "e_score": 0.75,
+    "stats": {
+      "total_players_t": 29,
+      "total_players_t1": 31,
+      "total_edges_t": 344,
+      "total_edges_t1": 386
+    },
+    "players_left": [
+      {
+        "name": "Samuel Chukwueze",
+        "matches": 39
+      },
+      {
+        "name": "Pau Torres",
+        "matches": 36
+      },
+      {
+        "name": "Nicolas Jackson",
+        "matches": 20
+      },
+      {
+        "name": "Giovani Lo Celso",
+        "matches": 16
+      },
+      {
+        "name": "Johan Mojica",
+        "matches": 14
+      },
+      {
+        "name": "Gerónimo Rulli",
+        "matches": 14
+      },
+      {
+        "name": "Manu Morlanes",
+        "matches": 12
+      },
+      {
+        "name": "Arnaut Danjuma",
+        "matches": 10
+      },
+      {
+        "name": "Adrián Dela",
+        "matches": 5
+      },
+      {
+        "name": "Diego Collado",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Alexander Sørloth",
+        "matches": 34
+      },
+      {
+        "name": "Santi Comesaña",
+        "matches": 28
+      },
+      {
+        "name": "Ilias Akhomach",
+        "matches": 24
+      },
+      {
+        "name": "Yerson Mosquera",
+        "matches": 15
+      },
+      {
+        "name": "Adrià Altimira",
+        "matches": 15
+      },
+      {
+        "name": "Eric Bailly",
+        "matches": 12
+      },
+      {
+        "name": "Gonçalo Guedes",
+        "matches": 11
+      },
+      {
+        "name": "Matteo Gabbia",
+        "matches": 11
+      },
+      {
+        "name": "Bertrand Traoré",
+        "matches": 6
+      },
+      {
+        "name": "Ben Brereton Díaz",
+        "matches": 6
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Dani Parejo",
+        "player2": "Pau Torres",
+        "weight": 35
+      },
+      {
+        "player1": "Dani Parejo",
+        "player2": "Samuel Chukwueze",
+        "weight": 30
+      },
+      {
+        "player1": "Pau Torres",
+        "player2": "Yéremy Pino",
+        "weight": 29
+      },
+      {
+        "player1": "Pepe Reina",
+        "player2": "Samuel Chukwueze",
+        "weight": 28
+      },
+      {
+        "player1": "Samuel Chukwueze",
+        "player2": "Álex Baena",
+        "weight": 27
+      },
+      {
+        "player1": "Samuel Chukwueze",
+        "player2": "Aïssa Mandi",
+        "weight": 25
+      },
+      {
+        "player1": "Samuel Chukwueze",
+        "player2": "Yéremy Pino",
+        "weight": 25
+      },
+      {
+        "player1": "Pau Torres",
+        "player2": "Samuel Chukwueze",
+        "weight": 25
+      },
+      {
+        "player1": "Juan Foyth",
+        "player2": "Samuel Chukwueze",
+        "weight": 22
+      },
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Pau Torres",
+        "weight": 22
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Alexander Sørloth",
+        "player2": "Filip Jørgensen",
+        "weight": 29
+      },
+      {
+        "player1": "Alexander Sørloth",
+        "player2": "Álex Baena",
+        "weight": 28
+      },
+      {
+        "player1": "Dani Parejo",
+        "player2": "Alexander Sørloth",
+        "weight": 26
+      },
+      {
+        "player1": "Gerard Moreno",
+        "player2": "Alexander Sørloth",
+        "weight": 22
+      },
+      {
+        "player1": "Santi Comesaña",
+        "player2": "Álex Baena",
+        "weight": 22
+      },
+      {
+        "player1": "Ilias Akhomach",
+        "player2": "Álex Baena",
+        "weight": 20
+      },
+      {
+        "player1": "Santi Comesaña",
+        "player2": "Filip Jørgensen",
+        "weight": 19
+      },
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Alexander Sørloth",
+        "weight": 18
+      },
+      {
+        "player1": "Santi Comesaña",
+        "player2": "Jorge Cuenca",
+        "weight": 18
+      },
+      {
+        "player1": "Santi Comesaña",
+        "player2": "Alexander Sørloth",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "club": "villarreal_cf",
+    "season_from": "2023_2024",
+    "season_to": "2024_2025",
+    "v_score": 0.717,
+    "e_score": 0.908,
+    "stats": {
+      "total_players_t": 31,
+      "total_players_t1": 28,
+      "total_edges_t": 386,
+      "total_edges_t1": 302
+    },
+    "players_left": [
+      {
+        "name": "Filip Jørgensen",
+        "matches": 37
+      },
+      {
+        "name": "Alexander Sørloth",
+        "matches": 34
+      },
+      {
+        "name": "Jorge Cuenca",
+        "matches": 28
+      },
+      {
+        "name": "Alberto Moreno",
+        "matches": 22
+      },
+      {
+        "name": "Étienne Capoue",
+        "matches": 20
+      },
+      {
+        "name": "Aïssa Mandi",
+        "matches": 18
+      },
+      {
+        "name": "Yerson Mosquera",
+        "matches": 15
+      },
+      {
+        "name": "Adrià Altimira",
+        "matches": 15
+      },
+      {
+        "name": "José Luis Morales",
+        "matches": 12
+      },
+      {
+        "name": "Francis Coquelin",
+        "matches": 12
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Sergi Cardona",
+        "matches": 34
+      },
+      {
+        "name": "Logan Costa",
+        "matches": 30
+      },
+      {
+        "name": "Pape Gueye",
+        "matches": 27
+      },
+      {
+        "name": "Thierno Barry",
+        "matches": 26
+      },
+      {
+        "name": "Ayoze Pérez",
+        "matches": 23
+      },
+      {
+        "name": "Diego Conde",
+        "matches": 22
+      },
+      {
+        "name": "Luiz Júnior",
+        "matches": 18
+      },
+      {
+        "name": "Nicolas Pépé",
+        "matches": 15
+      },
+      {
+        "name": "Willy Kambwala",
+        "matches": 14
+      },
+      {
+        "name": "Pau Navarro",
+        "matches": 10
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Filip Jørgensen",
+        "player2": "Álex Baena",
+        "weight": 31
+      },
+      {
+        "player1": "Dani Parejo",
+        "player2": "Filip Jørgensen",
+        "weight": 29
+      },
+      {
+        "player1": "Alexander Sørloth",
+        "player2": "Filip Jørgensen",
+        "weight": 29
+      },
+      {
+        "player1": "Alexander Sørloth",
+        "player2": "Álex Baena",
+        "weight": 28
+      },
+      {
+        "player1": "Gerard Moreno",
+        "player2": "Filip Jørgensen",
+        "weight": 28
+      },
+      {
+        "player1": "Dani Parejo",
+        "player2": "Alexander Sørloth",
+        "weight": 26
+      },
+      {
+        "player1": "Raúl Albiol",
+        "player2": "Filip Jørgensen",
+        "weight": 24
+      },
+      {
+        "player1": "Gerard Moreno",
+        "player2": "Alexander Sørloth",
+        "weight": 22
+      },
+      {
+        "player1": "Filip Jørgensen",
+        "player2": "Jorge Cuenca",
+        "weight": 21
+      },
+      {
+        "player1": "Álex Baena",
+        "player2": "Jorge Cuenca",
+        "weight": 21
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Santi Comesaña",
+        "player2": "Sergi Cardona",
+        "weight": 28
+      },
+      {
+        "player1": "Álex Baena",
+        "player2": "Sergi Cardona",
+        "weight": 27
+      },
+      {
+        "player1": "Logan Costa",
+        "player2": "Sergi Cardona",
+        "weight": 25
+      },
+      {
+        "player1": "Kiko Femenía",
+        "player2": "Sergi Cardona",
+        "weight": 25
+      },
+      {
+        "player1": "Dani Parejo",
+        "player2": "Sergi Cardona",
+        "weight": 24
+      },
+      {
+        "player1": "Santi Comesaña",
+        "player2": "Thierno Barry",
+        "weight": 22
+      },
+      {
+        "player1": "Thierno Barry",
+        "player2": "Sergi Cardona",
+        "weight": 22
+      },
+      {
+        "player1": "Pape Gueye",
+        "player2": "Sergi Cardona",
+        "weight": 22
+      },
+      {
+        "player1": "Dani Parejo",
+        "player2": "Logan Costa",
+        "weight": 22
+      },
+      {
+        "player1": "Logan Costa",
+        "player2": "Álex Baena",
+        "weight": 21
+      }
+    ]
+  }
+]

@@ -1,0 +1,3301 @@
+[
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2005_2006",
+    "season_to": "2006_2007",
+    "v_score": 0.514,
+    "e_score": 0.68,
+    "stats": {
+      "total_players_t": 32,
+      "total_players_t1": 23,
+      "total_edges_t": 318,
+      "total_edges_t1": 226
+    },
+    "players_left": [
+      {
+        "name": "Carlos Gurpegui",
+        "matches": 33
+      },
+      {
+        "name": "Mari Lacruz",
+        "matches": 28
+      },
+      {
+        "name": "Julen Guerrero",
+        "matches": 8
+      },
+      {
+        "name": "Ibon Gutiérrez",
+        "matches": 7
+      },
+      {
+        "name": "Endika Bordas",
+        "matches": 2
+      },
+      {
+        "name": "David de Paula",
+        "matches": 2
+      },
+      {
+        "name": "Francisco Tarantino",
+        "matches": 2
+      },
+      {
+        "name": "Pablo Paredes",
+        "matches": 1
+      },
+      {
+        "name": "Aritz Solabarrieta",
+        "matches": 1
+      },
+      {
+        "name": "Gontzal Rodríguez",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Josu Sarriegi",
+        "matches": 38
+      },
+      {
+        "name": "Javi Martínez",
+        "matches": 32
+      },
+      {
+        "name": "Igor Gabilondo",
+        "matches": 28
+      },
+      {
+        "name": "Joseba Garmendia",
+        "matches": 6
+      },
+      {
+        "name": "Javier Iturriaga",
+        "matches": 3
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Carlos Gurpegui",
+        "player2": "Pablo Orbaiz",
+        "weight": 31
+      },
+      {
+        "player1": "Carlos Gurpegui",
+        "player2": "Fran Yeste",
+        "weight": 29
+      },
+      {
+        "player1": "Carlos Gurpegui",
+        "player2": "Luis Prieto",
+        "weight": 29
+      },
+      {
+        "player1": "Carlos Gurpegui",
+        "player2": "Andoni Iraola",
+        "weight": 28
+      },
+      {
+        "player1": "Mari Lacruz",
+        "player2": "Pablo Orbaiz",
+        "weight": 27
+      },
+      {
+        "player1": "Carlos Gurpegui",
+        "player2": "Joseba Etxeberria",
+        "weight": 24
+      },
+      {
+        "player1": "Mari Lacruz",
+        "player2": "Luis Prieto",
+        "weight": 24
+      },
+      {
+        "player1": "Mari Lacruz",
+        "player2": "Andoni Iraola",
+        "weight": 23
+      },
+      {
+        "player1": "Mari Lacruz",
+        "player2": "Fran Yeste",
+        "weight": 23
+      },
+      {
+        "player1": "Mari Lacruz",
+        "player2": "Carlos Gurpegui",
+        "weight": 21
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Andoni Iraola",
+        "player2": "Josu Sarriegi",
+        "weight": 35
+      },
+      {
+        "player1": "Fran Yeste",
+        "player2": "Josu Sarriegi",
+        "weight": 31
+      },
+      {
+        "player1": "Ander Murillo",
+        "player2": "Josu Sarriegi",
+        "weight": 31
+      },
+      {
+        "player1": "Javi Martínez",
+        "player2": "Josu Sarriegi",
+        "weight": 30
+      },
+      {
+        "player1": "Unai Expósito",
+        "player2": "Josu Sarriegi",
+        "weight": 29
+      },
+      {
+        "player1": "Andoni Iraola",
+        "player2": "Javi Martínez",
+        "weight": 29
+      },
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Josu Sarriegi",
+        "weight": 27
+      },
+      {
+        "player1": "Daniel Aranzubia",
+        "player2": "Josu Sarriegi",
+        "weight": 27
+      },
+      {
+        "player1": "Fran Yeste",
+        "player2": "Javi Martínez",
+        "weight": 26
+      },
+      {
+        "player1": "Igor Gabilondo",
+        "player2": "Josu Sarriegi",
+        "weight": 26
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2006_2007",
+    "season_to": "2007_2008",
+    "v_score": 0.568,
+    "e_score": 0.793,
+    "stats": {
+      "total_players_t": 23,
+      "total_players_t1": 30,
+      "total_edges_t": 226,
+      "total_edges_t1": 316
+    },
+    "players_left": [
+      {
+        "name": "Josu Sarriegi",
+        "matches": 38
+      },
+      {
+        "name": "Javi Casas",
+        "matches": 20
+      },
+      {
+        "name": "Ismael Urzaiz",
+        "matches": 20
+      },
+      {
+        "name": "Iñaki Lafuente",
+        "matches": 12
+      },
+      {
+        "name": "Javi González",
+        "matches": 8
+      },
+      {
+        "name": "Javier Iturriaga",
+        "matches": 3
+      },
+      {
+        "name": "Mikel Dañobeitia",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Aitor Ocio",
+        "matches": 30
+      },
+      {
+        "name": "Markel Susaeta",
+        "matches": 27
+      },
+      {
+        "name": "Koikili",
+        "matches": 26
+      },
+      {
+        "name": "David López",
+        "matches": 23
+      },
+      {
+        "name": "Asier del Horno",
+        "matches": 18
+      },
+      {
+        "name": "Armando Ribeiro",
+        "matches": 16
+      },
+      {
+        "name": "Gorka Iraizoz",
+        "matches": 14
+      },
+      {
+        "name": "Iñaki Muñoz",
+        "matches": 8
+      },
+      {
+        "name": "Carlos Gurpegui",
+        "matches": 5
+      },
+      {
+        "name": "Aitor Ramos",
+        "matches": 3
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Andoni Iraola",
+        "player2": "Josu Sarriegi",
+        "weight": 35
+      },
+      {
+        "player1": "Fran Yeste",
+        "player2": "Josu Sarriegi",
+        "weight": 31
+      },
+      {
+        "player1": "Ander Murillo",
+        "player2": "Josu Sarriegi",
+        "weight": 31
+      },
+      {
+        "player1": "Javi Martínez",
+        "player2": "Josu Sarriegi",
+        "weight": 30
+      },
+      {
+        "player1": "Unai Expósito",
+        "player2": "Josu Sarriegi",
+        "weight": 29
+      },
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Josu Sarriegi",
+        "weight": 27
+      },
+      {
+        "player1": "Andoni Iraola",
+        "player2": "Unai Expósito",
+        "weight": 27
+      },
+      {
+        "player1": "Daniel Aranzubia",
+        "player2": "Josu Sarriegi",
+        "weight": 27
+      },
+      {
+        "player1": "Ander Murillo",
+        "player2": "Fran Yeste",
+        "weight": 26
+      },
+      {
+        "player1": "Igor Gabilondo",
+        "player2": "Josu Sarriegi",
+        "weight": 26
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Fernando Llorente",
+        "player2": "Fernando Amorebieta",
+        "weight": 28
+      },
+      {
+        "player1": "Andoni Iraola",
+        "player2": "Aitor Ocio",
+        "weight": 26
+      },
+      {
+        "player1": "Aitor Ocio",
+        "player2": "Fernando Amorebieta",
+        "weight": 26
+      },
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Andoni Iraola",
+        "weight": 26
+      },
+      {
+        "player1": "Aitor Ocio",
+        "player2": "Javi Martínez",
+        "weight": 25
+      },
+      {
+        "player1": "Koikili",
+        "player2": "Fernando Amorebieta",
+        "weight": 24
+      },
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Fernando Amorebieta",
+        "weight": 23
+      },
+      {
+        "player1": "Andoni Iraola",
+        "player2": "Koikili",
+        "weight": 22
+      },
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Javi Martínez",
+        "weight": 21
+      },
+      {
+        "player1": "Koikili",
+        "player2": "Aitor Ocio",
+        "weight": 21
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2007_2008",
+    "season_to": "2008_2009",
+    "v_score": 0.474,
+    "e_score": 0.67,
+    "stats": {
+      "total_players_t": 30,
+      "total_players_t1": 28,
+      "total_edges_t": 316,
+      "total_edges_t1": 284
+    },
+    "players_left": [
+      {
+        "name": "Aritz Aduriz",
+        "matches": 23
+      },
+      {
+        "name": "Asier del Horno",
+        "matches": 18
+      },
+      {
+        "name": "Daniel Aranzubia",
+        "matches": 14
+      },
+      {
+        "name": "Tiko",
+        "matches": 4
+      },
+      {
+        "name": "Unai Expósito",
+        "matches": 3
+      },
+      {
+        "name": "Aitor Ramos",
+        "matches": 3
+      },
+      {
+        "name": "Luis Prieto",
+        "matches": 1
+      },
+      {
+        "name": "Urko Arroyo",
+        "matches": 1
+      },
+      {
+        "name": "David Cuéllar",
+        "matches": 1
+      },
+      {
+        "name": "Iban Zubiaurre",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Mikel Balenziaga",
+        "matches": 22
+      },
+      {
+        "name": "Gaizka Toquero",
+        "matches": 12
+      },
+      {
+        "name": "Xabi Etxeita",
+        "matches": 8
+      },
+      {
+        "name": "Ander Iturraspe",
+        "matches": 2
+      },
+      {
+        "name": "Joseba del Olmo",
+        "matches": 2
+      },
+      {
+        "name": "Eneko Bóveda",
+        "matches": 1
+      },
+      {
+        "name": "Javi Casas",
+        "matches": 1
+      },
+      {
+        "name": "Adrien Goñi",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Andoni Iraola",
+        "weight": 21
+      },
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Fernando Amorebieta",
+        "weight": 20
+      },
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Javi Martínez",
+        "weight": 19
+      },
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Aitor Ocio",
+        "weight": 19
+      },
+      {
+        "player1": "Asier del Horno",
+        "player2": "Andoni Iraola",
+        "weight": 18
+      },
+      {
+        "player1": "Asier del Horno",
+        "player2": "Fernando Amorebieta",
+        "weight": 16
+      },
+      {
+        "player1": "Armando Ribeiro",
+        "player2": "Javi Martínez",
+        "weight": 15
+      },
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Aritz Aduriz",
+        "weight": 15
+      },
+      {
+        "player1": "Armando Ribeiro",
+        "player2": "Andoni Iraola",
+        "weight": 15
+      },
+      {
+        "player1": "Armando Ribeiro",
+        "player2": "Fernando Llorente",
+        "weight": 15
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Ion Vélez",
+        "player2": "Fernando Llorente",
+        "weight": 20
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Mikel Balenziaga",
+        "weight": 20
+      },
+      {
+        "player1": "Andoni Iraola",
+        "player2": "Mikel Balenziaga",
+        "weight": 18
+      },
+      {
+        "player1": "Fernando Llorente",
+        "player2": "Mikel Balenziaga",
+        "weight": 18
+      },
+      {
+        "player1": "David López",
+        "player2": "Mikel Balenziaga",
+        "weight": 17
+      },
+      {
+        "player1": "Mikel Balenziaga",
+        "player2": "Fernando Amorebieta",
+        "weight": 17
+      },
+      {
+        "player1": "Aitor Ocio",
+        "player2": "Mikel Balenziaga",
+        "weight": 17
+      },
+      {
+        "player1": "Mikel Balenziaga",
+        "player2": "Javi Martínez",
+        "weight": 15
+      },
+      {
+        "player1": "Mikel Balenziaga",
+        "player2": "Pablo Orbaiz",
+        "weight": 13
+      },
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Mikel Balenziaga",
+        "weight": 13
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2008_2009",
+    "season_to": "2009_2010",
+    "v_score": 0.444,
+    "e_score": 0.616,
+    "stats": {
+      "total_players_t": 28,
+      "total_players_t1": 28,
+      "total_edges_t": 284,
+      "total_edges_t1": 293
+    },
+    "players_left": [
+      {
+        "name": "Mikel Balenziaga",
+        "matches": 22
+      },
+      {
+        "name": "Joseba Garmendia",
+        "matches": 6
+      },
+      {
+        "name": "Joseba del Olmo",
+        "matches": 2
+      },
+      {
+        "name": "Iñaki Muñoz",
+        "matches": 2
+      },
+      {
+        "name": "Eneko Bóveda",
+        "matches": 1
+      },
+      {
+        "name": "Javi Casas",
+        "matches": 1
+      },
+      {
+        "name": "Adrien Goñi",
+        "matches": 1
+      },
+      {
+        "name": "Ander Murillo",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Xabier Castillo",
+        "matches": 29
+      },
+      {
+        "name": "Mikel San José",
+        "matches": 28
+      },
+      {
+        "name": "Óscar de Marcos",
+        "matches": 15
+      },
+      {
+        "name": "Iker Muniain",
+        "matches": 8
+      },
+      {
+        "name": "Iñigo Díaz de Cerio",
+        "matches": 2
+      },
+      {
+        "name": "Jon Aurtenetxe",
+        "matches": 1
+      },
+      {
+        "name": "Iñigo Pérez",
+        "matches": 1
+      },
+      {
+        "name": "Xabier Etxebarria",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "David López",
+        "player2": "Aitor Ocio",
+        "weight": 25
+      },
+      {
+        "player1": "Ion Vélez",
+        "player2": "Fernando Llorente",
+        "weight": 20
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Mikel Balenziaga",
+        "weight": 20
+      },
+      {
+        "player1": "Ion Vélez",
+        "player2": "Aitor Ocio",
+        "weight": 19
+      },
+      {
+        "player1": "Andoni Iraola",
+        "player2": "Mikel Balenziaga",
+        "weight": 18
+      },
+      {
+        "player1": "Fernando Llorente",
+        "player2": "Mikel Balenziaga",
+        "weight": 18
+      },
+      {
+        "player1": "David López",
+        "player2": "Mikel Balenziaga",
+        "weight": 17
+      },
+      {
+        "player1": "Mikel Balenziaga",
+        "player2": "Fernando Amorebieta",
+        "weight": 17
+      },
+      {
+        "player1": "Aitor Ocio",
+        "player2": "Mikel Balenziaga",
+        "weight": 17
+      },
+      {
+        "player1": "Mikel Balenziaga",
+        "player2": "Javi Martínez",
+        "weight": 15
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Xabier Castillo",
+        "weight": 29
+      },
+      {
+        "player1": "Xabier Castillo",
+        "player2": "Andoni Iraola",
+        "weight": 29
+      },
+      {
+        "player1": "Xabier Castillo",
+        "player2": "Fernando Llorente",
+        "weight": 27
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Mikel San José",
+        "weight": 27
+      },
+      {
+        "player1": "Mikel San José",
+        "player2": "Fernando Llorente",
+        "weight": 26
+      },
+      {
+        "player1": "Xabier Castillo",
+        "player2": "Fernando Amorebieta",
+        "weight": 26
+      },
+      {
+        "player1": "Mikel San José",
+        "player2": "Javi Martínez",
+        "weight": 26
+      },
+      {
+        "player1": "Mikel San José",
+        "player2": "Andoni Iraola",
+        "weight": 26
+      },
+      {
+        "player1": "Xabier Castillo",
+        "player2": "Javi Martínez",
+        "weight": 25
+      },
+      {
+        "player1": "Mikel San José",
+        "player2": "Fernando Amorebieta",
+        "weight": 24
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2009_2010",
+    "season_to": "2010_2011",
+    "v_score": 0.375,
+    "e_score": 0.546,
+    "stats": {
+      "total_players_t": 28,
+      "total_players_t1": 24,
+      "total_edges_t": 293,
+      "total_edges_t1": 232
+    },
+    "players_left": [
+      {
+        "name": "Fran Yeste",
+        "matches": 24
+      },
+      {
+        "name": "Joseba Etxeberria",
+        "matches": 7
+      },
+      {
+        "name": "Xabi Etxeita",
+        "matches": 3
+      },
+      {
+        "name": "Armando Ribeiro",
+        "matches": 3
+      },
+      {
+        "name": "Iñigo Díaz de Cerio",
+        "matches": 2
+      },
+      {
+        "name": "Iñigo Pérez",
+        "matches": 1
+      },
+      {
+        "name": "Xabier Etxebarria",
+        "matches": 1
+      },
+      {
+        "name": "Ion Vélez",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Borja Ekiza",
+        "matches": 21
+      },
+      {
+        "name": "Igor Martínez",
+        "matches": 6
+      },
+      {
+        "name": "Raúl Fernández",
+        "matches": 1
+      },
+      {
+        "name": "Mikel Balenziaga",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Fran Yeste",
+        "weight": 24
+      },
+      {
+        "player1": "Fran Yeste",
+        "player2": "Andoni Iraola",
+        "weight": 22
+      },
+      {
+        "player1": "Fran Yeste",
+        "player2": "Fernando Llorente",
+        "weight": 21
+      },
+      {
+        "player1": "Fran Yeste",
+        "player2": "Fernando Amorebieta",
+        "weight": 21
+      },
+      {
+        "player1": "Fran Yeste",
+        "player2": "Javi Martínez",
+        "weight": 20
+      },
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Fran Yeste",
+        "weight": 16
+      },
+      {
+        "player1": "Xabier Castillo",
+        "player2": "Fran Yeste",
+        "weight": 14
+      },
+      {
+        "player1": "Gaizka Toquero",
+        "player2": "Fran Yeste",
+        "weight": 14
+      },
+      {
+        "player1": "Carlos Gurpegui",
+        "player2": "Fran Yeste",
+        "weight": 13
+      },
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Fernando Amorebieta",
+        "weight": 13
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Andoni Iraola",
+        "player2": "Borja Ekiza",
+        "weight": 20
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Borja Ekiza",
+        "weight": 20
+      },
+      {
+        "player1": "Fernando Llorente",
+        "player2": "Borja Ekiza",
+        "weight": 20
+      },
+      {
+        "player1": "Iker Muniain",
+        "player2": "Borja Ekiza",
+        "weight": 19
+      },
+      {
+        "player1": "Borja Ekiza",
+        "player2": "Javi Martínez",
+        "weight": 19
+      },
+      {
+        "player1": "Gaizka Toquero",
+        "player2": "Borja Ekiza",
+        "weight": 17
+      },
+      {
+        "player1": "David López",
+        "player2": "Iker Muniain",
+        "weight": 16
+      },
+      {
+        "player1": "Mikel San José",
+        "player2": "Borja Ekiza",
+        "weight": 14
+      },
+      {
+        "player1": "David López",
+        "player2": "Borja Ekiza",
+        "weight": 14
+      },
+      {
+        "player1": "Carlos Gurpegui",
+        "player2": "Borja Ekiza",
+        "weight": 13
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2010_2011",
+    "season_to": "2011_2012",
+    "v_score": 0.393,
+    "e_score": 0.615,
+    "stats": {
+      "total_players_t": 24,
+      "total_players_t1": 21,
+      "total_edges_t": 232,
+      "total_edges_t1": 189
+    },
+    "players_left": [
+      {
+        "name": "Pablo Orbaiz",
+        "matches": 19
+      },
+      {
+        "name": "Koikili",
+        "matches": 18
+      },
+      {
+        "name": "Ustaritz",
+        "matches": 12
+      },
+      {
+        "name": "Xabier Castillo",
+        "matches": 11
+      },
+      {
+        "name": "Igor Martínez",
+        "matches": 6
+      },
+      {
+        "name": "Aitor Ocio",
+        "matches": 4
+      },
+      {
+        "name": "Mikel Balenziaga",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Ander Herrera",
+        "matches": 45
+      },
+      {
+        "name": "Iñigo Pérez",
+        "matches": 17
+      },
+      {
+        "name": "Ibai Gómez",
+        "matches": 10
+      },
+      {
+        "name": "Jonás Ramalho",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Carlos Gurpegui",
+        "player2": "Gaizka Toquero",
+        "weight": 23
+      },
+      {
+        "player1": "Andoni Iraola",
+        "player2": "Pablo Orbaiz",
+        "weight": 19
+      },
+      {
+        "player1": "Fernando Llorente",
+        "player2": "Pablo Orbaiz",
+        "weight": 19
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Koikili",
+        "weight": 18
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Pablo Orbaiz",
+        "weight": 18
+      },
+      {
+        "player1": "Fernando Llorente",
+        "player2": "Koikili",
+        "weight": 17
+      },
+      {
+        "player1": "Koikili",
+        "player2": "Javi Martínez",
+        "weight": 17
+      },
+      {
+        "player1": "Andoni Iraola",
+        "player2": "Koikili",
+        "weight": 17
+      },
+      {
+        "player1": "Carlos Gurpegui",
+        "player2": "Koikili",
+        "weight": 15
+      },
+      {
+        "player1": "Iker Muniain",
+        "player2": "Koikili",
+        "weight": 15
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Ander Iturraspe",
+        "weight": 48
+      },
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Jon Aurtenetxe",
+        "weight": 45
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Ander Herrera",
+        "weight": 44
+      },
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Fernando Amorebieta",
+        "weight": 44
+      },
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Ander Herrera",
+        "weight": 41
+      },
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Ander Herrera",
+        "weight": 41
+      },
+      {
+        "player1": "Ander Iturraspe",
+        "player2": "Ander Herrera",
+        "weight": 40
+      },
+      {
+        "player1": "Iker Muniain",
+        "player2": "Ander Herrera",
+        "weight": 40
+      },
+      {
+        "player1": "Ander Herrera",
+        "player2": "Javi Martínez",
+        "weight": 38
+      },
+      {
+        "player1": "Andoni Iraola",
+        "player2": "Ander Herrera",
+        "weight": 38
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2011_2012",
+    "season_to": "2012_2013",
+    "v_score": 0.379,
+    "e_score": 0.582,
+    "stats": {
+      "total_players_t": 21,
+      "total_players_t1": 26,
+      "total_edges_t": 189,
+      "total_edges_t1": 259
+    },
+    "players_left": [
+      {
+        "name": "Javi Martínez",
+        "matches": 53
+      },
+      {
+        "name": "Igor Gabilondo",
+        "matches": 12
+      },
+      {
+        "name": "David López",
+        "matches": 5
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Aritz Aduriz",
+        "matches": 38
+      },
+      {
+        "name": "Aymeric Laporte",
+        "matches": 16
+      },
+      {
+        "name": "Isma López",
+        "matches": 12
+      },
+      {
+        "name": "Xabier Castillo",
+        "matches": 8
+      },
+      {
+        "name": "Igor Martínez",
+        "matches": 2
+      },
+      {
+        "name": "Álvaro Peña",
+        "matches": 1
+      },
+      {
+        "name": "Erik Morán",
+        "matches": 1
+      },
+      {
+        "name": "Iñigo Ruiz de Galarreta",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Javi Martínez",
+        "weight": 53
+      },
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Javi Martínez",
+        "weight": 50
+      },
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Javi Martínez",
+        "weight": 49
+      },
+      {
+        "player1": "Iker Muniain",
+        "player2": "Javi Martínez",
+        "weight": 48
+      },
+      {
+        "player1": "Andoni Iraola",
+        "player2": "Javi Martínez",
+        "weight": 46
+      },
+      {
+        "player1": "Jon Aurtenetxe",
+        "player2": "Javi Martínez",
+        "weight": 44
+      },
+      {
+        "player1": "Ander Iturraspe",
+        "player2": "Javi Martínez",
+        "weight": 44
+      },
+      {
+        "player1": "Javi Martínez",
+        "player2": "Fernando Amorebieta",
+        "weight": 43
+      },
+      {
+        "player1": "Fernando Llorente",
+        "player2": "Javi Martínez",
+        "weight": 41
+      },
+      {
+        "player1": "Ander Herrera",
+        "player2": "Javi Martínez",
+        "weight": 38
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Aritz Aduriz",
+        "weight": 37
+      },
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Aritz Aduriz",
+        "weight": 37
+      },
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Andoni Iraola",
+        "weight": 35
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Aritz Aduriz",
+        "weight": 34
+      },
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Ander Iturraspe",
+        "weight": 28
+      },
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Iker Muniain",
+        "weight": 27
+      },
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Ander Herrera",
+        "weight": 27
+      },
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Carlos Gurpegui",
+        "weight": 26
+      },
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Jon Aurtenetxe",
+        "weight": 23
+      },
+      {
+        "player1": "Mikel San José",
+        "player2": "Aritz Aduriz",
+        "weight": 21
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2012_2013",
+    "season_to": "2013_2014",
+    "v_score": 0.559,
+    "e_score": 0.783,
+    "stats": {
+      "total_players_t": 26,
+      "total_players_t1": 23,
+      "total_edges_t": 259,
+      "total_edges_t1": 218
+    },
+    "players_left": [
+      {
+        "name": "Jon Aurtenetxe",
+        "matches": 28
+      },
+      {
+        "name": "Fernando Amorebieta",
+        "matches": 16
+      },
+      {
+        "name": "Isma López",
+        "matches": 12
+      },
+      {
+        "name": "Raúl Fernández",
+        "matches": 9
+      },
+      {
+        "name": "Iñigo Pérez",
+        "matches": 8
+      },
+      {
+        "name": "Fernando Llorente",
+        "matches": 8
+      },
+      {
+        "name": "Xabier Castillo",
+        "matches": 8
+      },
+      {
+        "name": "Jonás Ramalho",
+        "matches": 8
+      },
+      {
+        "name": "Igor Martínez",
+        "matches": 2
+      },
+      {
+        "name": "Álvaro Peña",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Mikel Balenziaga",
+        "matches": 37
+      },
+      {
+        "name": "Mikel Rico",
+        "matches": 37
+      },
+      {
+        "name": "Beñat Etxebarria",
+        "matches": 13
+      },
+      {
+        "name": "Iago Herrerín",
+        "matches": 11
+      },
+      {
+        "name": "Kike Sola",
+        "matches": 4
+      },
+      {
+        "name": "Guillermo Fernández",
+        "matches": 4
+      },
+      {
+        "name": "Xabi Etxeita",
+        "matches": 2
+      },
+      {
+        "name": "Enric Saborit",
+        "matches": 2
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Jon Aurtenetxe",
+        "weight": 26
+      },
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Jon Aurtenetxe",
+        "weight": 25
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Jon Aurtenetxe",
+        "weight": 24
+      },
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Borja Ekiza",
+        "weight": 24
+      },
+      {
+        "player1": "Jon Aurtenetxe",
+        "player2": "Andoni Iraola",
+        "weight": 23
+      },
+      {
+        "player1": "Jon Aurtenetxe",
+        "player2": "Ander Herrera",
+        "weight": 23
+      },
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Jon Aurtenetxe",
+        "weight": 23
+      },
+      {
+        "player1": "Jon Aurtenetxe",
+        "player2": "Iker Muniain",
+        "weight": 20
+      },
+      {
+        "player1": "Jon Aurtenetxe",
+        "player2": "Ander Iturraspe",
+        "weight": 20
+      },
+      {
+        "player1": "Mikel San José",
+        "player2": "Jon Aurtenetxe",
+        "weight": 19
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Ander Iturraspe",
+        "player2": "Mikel Balenziaga",
+        "weight": 33
+      },
+      {
+        "player1": "Mikel Rico",
+        "player2": "Mikel Balenziaga",
+        "weight": 33
+      },
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Mikel Balenziaga",
+        "weight": 32
+      },
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Mikel Rico",
+        "weight": 31
+      },
+      {
+        "player1": "Ander Iturraspe",
+        "player2": "Mikel Rico",
+        "weight": 30
+      },
+      {
+        "player1": "Ander Herrera",
+        "player2": "Mikel Balenziaga",
+        "weight": 30
+      },
+      {
+        "player1": "Iker Muniain",
+        "player2": "Mikel Balenziaga",
+        "weight": 30
+      },
+      {
+        "player1": "Aymeric Laporte",
+        "player2": "Mikel Rico",
+        "weight": 30
+      },
+      {
+        "player1": "Aymeric Laporte",
+        "player2": "Mikel Balenziaga",
+        "weight": 29
+      },
+      {
+        "player1": "Mikel Rico",
+        "player2": "Ander Herrera",
+        "weight": 29
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2013_2014",
+    "season_to": "2014_2015",
+    "v_score": 0.345,
+    "e_score": 0.538,
+    "stats": {
+      "total_players_t": 23,
+      "total_players_t1": 25,
+      "total_edges_t": 218,
+      "total_edges_t1": 263
+    },
+    "players_left": [
+      {
+        "name": "Ander Herrera",
+        "matches": 35
+      },
+      {
+        "name": "Gaizka Toquero",
+        "matches": 6
+      },
+      {
+        "name": "Enric Saborit",
+        "matches": 2
+      },
+      {
+        "name": "Borja Ekiza",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Iñaki Williams",
+        "matches": 20
+      },
+      {
+        "name": "Borja Viguera",
+        "matches": 14
+      },
+      {
+        "name": "Unai López",
+        "matches": 12
+      },
+      {
+        "name": "Jon Aurtenetxe",
+        "matches": 6
+      },
+      {
+        "name": "Ager Aketxe",
+        "matches": 4
+      },
+      {
+        "name": "Unai Bustinza",
+        "matches": 2
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Ander Herrera",
+        "weight": 31
+      },
+      {
+        "player1": "Ander Iturraspe",
+        "player2": "Ander Herrera",
+        "weight": 30
+      },
+      {
+        "player1": "Ander Herrera",
+        "player2": "Mikel Balenziaga",
+        "weight": 30
+      },
+      {
+        "player1": "Mikel Rico",
+        "player2": "Ander Herrera",
+        "weight": 29
+      },
+      {
+        "player1": "Aymeric Laporte",
+        "player2": "Ander Herrera",
+        "weight": 29
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Ander Herrera",
+        "weight": 28
+      },
+      {
+        "player1": "Iker Muniain",
+        "player2": "Ander Herrera",
+        "weight": 27
+      },
+      {
+        "player1": "Andoni Iraola",
+        "player2": "Ander Herrera",
+        "weight": 26
+      },
+      {
+        "player1": "Carlos Gurpegui",
+        "player2": "Ander Herrera",
+        "weight": 24
+      },
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Ander Herrera",
+        "weight": 23
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Iñaki Williams",
+        "weight": 17
+      },
+      {
+        "player1": "Xabi Etxeita",
+        "player2": "Andoni Iraola",
+        "weight": 16
+      },
+      {
+        "player1": "Mikel San José",
+        "player2": "Iñaki Williams",
+        "weight": 15
+      },
+      {
+        "player1": "Xabi Etxeita",
+        "player2": "Iñaki Williams",
+        "weight": 15
+      },
+      {
+        "player1": "Iñaki Williams",
+        "player2": "Mikel Rico",
+        "weight": 15
+      },
+      {
+        "player1": "Iñaki Williams",
+        "player2": "Aymeric Laporte",
+        "weight": 15
+      },
+      {
+        "player1": "Iñaki Williams",
+        "player2": "Beñat Etxebarria",
+        "weight": 15
+      },
+      {
+        "player1": "Iñaki Williams",
+        "player2": "Mikel Balenziaga",
+        "weight": 14
+      },
+      {
+        "player1": "Borja Viguera",
+        "player2": "Aymeric Laporte",
+        "weight": 13
+      },
+      {
+        "player1": "Borja Viguera",
+        "player2": "Mikel Rico",
+        "weight": 12
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2014_2015",
+    "season_to": "2015_2016",
+    "v_score": 0.406,
+    "e_score": 0.631,
+    "stats": {
+      "total_players_t": 25,
+      "total_players_t1": 26,
+      "total_edges_t": 263,
+      "total_edges_t1": 297
+    },
+    "players_left": [
+      {
+        "name": "Andoni Iraola",
+        "matches": 25
+      },
+      {
+        "name": "Unai López",
+        "matches": 12
+      },
+      {
+        "name": "Guillermo Fernández",
+        "matches": 9
+      },
+      {
+        "name": "Jon Aurtenetxe",
+        "matches": 6
+      },
+      {
+        "name": "Erik Morán",
+        "matches": 2
+      },
+      {
+        "name": "Unai Bustinza",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Raúl García",
+        "matches": 36
+      },
+      {
+        "name": "Eneko Bóveda",
+        "matches": 25
+      },
+      {
+        "name": "Javi Eraso",
+        "matches": 23
+      },
+      {
+        "name": "Iñigo Lekue",
+        "matches": 22
+      },
+      {
+        "name": "Sabin Merino",
+        "matches": 21
+      },
+      {
+        "name": "Gorka Elustondo",
+        "matches": 9
+      },
+      {
+        "name": "Enric Saborit",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Andoni Iraola",
+        "player2": "Aymeric Laporte",
+        "weight": 21
+      },
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Andoni Iraola",
+        "weight": 20
+      },
+      {
+        "player1": "Andoni Iraola",
+        "player2": "Mikel Rico",
+        "weight": 19
+      },
+      {
+        "player1": "Andoni Iraola",
+        "player2": "Mikel Balenziaga",
+        "weight": 19
+      },
+      {
+        "player1": "Xabi Etxeita",
+        "player2": "Andoni Iraola",
+        "weight": 16
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Andoni Iraola",
+        "weight": 16
+      },
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Andoni Iraola",
+        "weight": 16
+      },
+      {
+        "player1": "Mikel San José",
+        "player2": "Andoni Iraola",
+        "weight": 16
+      },
+      {
+        "player1": "Iker Muniain",
+        "player2": "Andoni Iraola",
+        "weight": 15
+      },
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Andoni Iraola",
+        "weight": 14
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Raúl García",
+        "weight": 31
+      },
+      {
+        "player1": "Xabi Etxeita",
+        "player2": "Raúl García",
+        "weight": 31
+      },
+      {
+        "player1": "Mikel San José",
+        "player2": "Raúl García",
+        "weight": 30
+      },
+      {
+        "player1": "Raúl García",
+        "player2": "Beñat Etxebarria",
+        "weight": 30
+      },
+      {
+        "player1": "Raúl García",
+        "player2": "Mikel Balenziaga",
+        "weight": 30
+      },
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Raúl García",
+        "weight": 30
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Raúl García",
+        "weight": 27
+      },
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Raúl García",
+        "weight": 25
+      },
+      {
+        "player1": "Raúl García",
+        "player2": "Aymeric Laporte",
+        "weight": 22
+      },
+      {
+        "player1": "Raúl García",
+        "player2": "Iñaki Williams",
+        "weight": 21
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2015_2016",
+    "season_to": "2016_2017",
+    "v_score": 0.276,
+    "e_score": 0.497,
+    "stats": {
+      "total_players_t": 26,
+      "total_players_t1": 24,
+      "total_edges_t": 297,
+      "total_edges_t1": 256
+    },
+    "players_left": [
+      {
+        "name": "Carlos Gurpegui",
+        "matches": 20
+      },
+      {
+        "name": "Borja Viguera",
+        "matches": 6
+      },
+      {
+        "name": "Ager Aketxe",
+        "matches": 5
+      },
+      {
+        "name": "Kike Sola",
+        "matches": 5
+      },
+      {
+        "name": "Ibai Gómez",
+        "matches": 4
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Yeray Álvarez",
+        "matches": 33
+      },
+      {
+        "name": "Kepa Arrizabalaga",
+        "matches": 23
+      },
+      {
+        "name": "Mikel Vesga",
+        "matches": 5
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Xabi Etxeita",
+        "player2": "Iago Herrerín",
+        "weight": 15
+      },
+      {
+        "player1": "Mikel San José",
+        "player2": "Carlos Gurpegui",
+        "weight": 15
+      },
+      {
+        "player1": "Carlos Gurpegui",
+        "player2": "Mikel Balenziaga",
+        "weight": 14
+      },
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Carlos Gurpegui",
+        "weight": 14
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Carlos Gurpegui",
+        "weight": 13
+      },
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Carlos Gurpegui",
+        "weight": 13
+      },
+      {
+        "player1": "Javi Eraso",
+        "player2": "Iago Herrerín",
+        "weight": 13
+      },
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Carlos Gurpegui",
+        "weight": 12
+      },
+      {
+        "player1": "Carlos Gurpegui",
+        "player2": "Beñat Etxebarria",
+        "weight": 11
+      },
+      {
+        "player1": "Eneko Bóveda",
+        "player2": "Iago Herrerín",
+        "weight": 10
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Yeray Álvarez",
+        "player2": "Iñaki Williams",
+        "weight": 29
+      },
+      {
+        "player1": "Yeray Álvarez",
+        "player2": "Mikel Balenziaga",
+        "weight": 29
+      },
+      {
+        "player1": "Yeray Álvarez",
+        "player2": "Raúl García",
+        "weight": 29
+      },
+      {
+        "player1": "Yeray Álvarez",
+        "player2": "Iker Muniain",
+        "weight": 26
+      },
+      {
+        "player1": "Yeray Álvarez",
+        "player2": "Aymeric Laporte",
+        "weight": 26
+      },
+      {
+        "player1": "Yeray Álvarez",
+        "player2": "Beñat Etxebarria",
+        "weight": 24
+      },
+      {
+        "player1": "Mikel San José",
+        "player2": "Yeray Álvarez",
+        "weight": 24
+      },
+      {
+        "player1": "Yeray Álvarez",
+        "player2": "Aritz Aduriz",
+        "weight": 23
+      },
+      {
+        "player1": "Kepa Arrizabalaga",
+        "player2": "Mikel Balenziaga",
+        "weight": 22
+      },
+      {
+        "player1": "Raúl García",
+        "player2": "Kepa Arrizabalaga",
+        "weight": 21
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2016_2017",
+    "season_to": "2017_2018",
+    "v_score": 0.323,
+    "e_score": 0.48,
+    "stats": {
+      "total_players_t": 24,
+      "total_players_t1": 28,
+      "total_edges_t": 256,
+      "total_edges_t1": 311
+    },
+    "players_left": [
+      {
+        "name": "Gorka Iraizoz",
+        "matches": 22
+      },
+      {
+        "name": "Javi Eraso",
+        "matches": 7
+      },
+      {
+        "name": "Gorka Elustondo",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Unai Núñez",
+        "matches": 35
+      },
+      {
+        "name": "Iñigo Córdoba",
+        "matches": 25
+      },
+      {
+        "name": "Iñigo Martínez",
+        "matches": 16
+      },
+      {
+        "name": "Ager Aketxe",
+        "matches": 3
+      },
+      {
+        "name": "Kike Sola",
+        "matches": 1
+      },
+      {
+        "name": "Andoni López",
+        "matches": 1
+      },
+      {
+        "name": "Óscar Gil",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Yeray Álvarez",
+        "player2": "Aymeric Laporte",
+        "weight": 26
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Iñaki Williams",
+        "weight": 19
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Mikel San José",
+        "weight": 18
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Raúl García",
+        "weight": 18
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Aymeric Laporte",
+        "weight": 18
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Mikel Balenziaga",
+        "weight": 16
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Iker Muniain",
+        "weight": 15
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Beñat Etxebarria",
+        "weight": 12
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Óscar de Marcos",
+        "weight": 12
+      },
+      {
+        "player1": "Gorka Iraizoz",
+        "player2": "Iñigo Lekue",
+        "weight": 12
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Unai Núñez",
+        "player2": "Iñaki Williams",
+        "weight": 29
+      },
+      {
+        "player1": "Unai Núñez",
+        "player2": "Raúl García",
+        "weight": 28
+      },
+      {
+        "player1": "Unai Núñez",
+        "player2": "Kepa Arrizabalaga",
+        "weight": 26
+      },
+      {
+        "player1": "Mikel San José",
+        "player2": "Unai Núñez",
+        "weight": 23
+      },
+      {
+        "player1": "Mikel San José",
+        "player2": "Iñigo Córdoba",
+        "weight": 23
+      },
+      {
+        "player1": "Unai Núñez",
+        "player2": "Markel Susaeta",
+        "weight": 22
+      },
+      {
+        "player1": "Unai Núñez",
+        "player2": "Iñigo Lekue",
+        "weight": 22
+      },
+      {
+        "player1": "Iñaki Williams",
+        "player2": "Iñigo Córdoba",
+        "weight": 20
+      },
+      {
+        "player1": "Unai Núñez",
+        "player2": "Aritz Aduriz",
+        "weight": 20
+      },
+      {
+        "player1": "Unai Núñez",
+        "player2": "Aymeric Laporte",
+        "weight": 20
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2017_2018",
+    "season_to": "2018_2019",
+    "v_score": 0.541,
+    "e_score": 0.726,
+    "stats": {
+      "total_players_t": 28,
+      "total_players_t1": 26,
+      "total_edges_t": 311,
+      "total_edges_t1": 279
+    },
+    "players_left": [
+      {
+        "name": "Kepa Arrizabalaga",
+        "matches": 31
+      },
+      {
+        "name": "Aymeric Laporte",
+        "matches": 30
+      },
+      {
+        "name": "Enric Saborit",
+        "matches": 20
+      },
+      {
+        "name": "Xabi Etxeita",
+        "matches": 19
+      },
+      {
+        "name": "Mikel Vesga",
+        "matches": 18
+      },
+      {
+        "name": "Eneko Bóveda",
+        "matches": 7
+      },
+      {
+        "name": "Sabin Merino",
+        "matches": 6
+      },
+      {
+        "name": "Ager Aketxe",
+        "matches": 3
+      },
+      {
+        "name": "Kike Sola",
+        "matches": 1
+      },
+      {
+        "name": "Andoni López",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Yuri Berchiche",
+        "matches": 37
+      },
+      {
+        "name": "Dani García",
+        "matches": 30
+      },
+      {
+        "name": "Ander Capa",
+        "matches": 19
+      },
+      {
+        "name": "Unai Simón",
+        "matches": 11
+      },
+      {
+        "name": "Ibai Gómez",
+        "matches": 7
+      },
+      {
+        "name": "Peru Nolaskoain",
+        "matches": 6
+      },
+      {
+        "name": "Unai López",
+        "matches": 4
+      },
+      {
+        "name": "Gorka Guruzeta",
+        "matches": 3
+      },
+      {
+        "name": "Cristian Ganea",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Unai Núñez",
+        "player2": "Kepa Arrizabalaga",
+        "weight": 26
+      },
+      {
+        "player1": "Kepa Arrizabalaga",
+        "player2": "Iñaki Williams",
+        "weight": 24
+      },
+      {
+        "player1": "Raúl García",
+        "player2": "Aymeric Laporte",
+        "weight": 23
+      },
+      {
+        "player1": "Aritz Aduriz",
+        "player2": "Aymeric Laporte",
+        "weight": 23
+      },
+      {
+        "player1": "Kepa Arrizabalaga",
+        "player2": "Raúl García",
+        "weight": 22
+      },
+      {
+        "player1": "Mikel San José",
+        "player2": "Kepa Arrizabalaga",
+        "weight": 22
+      },
+      {
+        "player1": "Iñaki Williams",
+        "player2": "Aymeric Laporte",
+        "weight": 21
+      },
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Kepa Arrizabalaga",
+        "weight": 21
+      },
+      {
+        "player1": "Aymeric Laporte",
+        "player2": "Mikel Balenziaga",
+        "weight": 20
+      },
+      {
+        "player1": "Unai Núñez",
+        "player2": "Aymeric Laporte",
+        "weight": 20
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Yuri Berchiche",
+        "player2": "Iñaki Williams",
+        "weight": 34
+      },
+      {
+        "player1": "Yuri Berchiche",
+        "player2": "Iñigo Martínez",
+        "weight": 33
+      },
+      {
+        "player1": "Yeray Álvarez",
+        "player2": "Yuri Berchiche",
+        "weight": 30
+      },
+      {
+        "player1": "Dani García",
+        "player2": "Yuri Berchiche",
+        "weight": 29
+      },
+      {
+        "player1": "Yuri Berchiche",
+        "player2": "Iago Herrerín",
+        "weight": 28
+      },
+      {
+        "player1": "Yeray Álvarez",
+        "player2": "Dani García",
+        "weight": 27
+      },
+      {
+        "player1": "Dani García",
+        "player2": "Iñaki Williams",
+        "weight": 27
+      },
+      {
+        "player1": "Yuri Berchiche",
+        "player2": "Iker Muniain",
+        "weight": 26
+      },
+      {
+        "player1": "Yuri Berchiche",
+        "player2": "Raúl García",
+        "weight": 26
+      },
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Yuri Berchiche",
+        "weight": 26
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2018_2019",
+    "season_to": "2019_2020",
+    "v_score": 0.424,
+    "e_score": 0.614,
+    "stats": {
+      "total_players_t": 26,
+      "total_players_t1": 26,
+      "total_edges_t": 279,
+      "total_edges_t1": 278
+    },
+    "players_left": [
+      {
+        "name": "Markel Susaeta",
+        "matches": 18
+      },
+      {
+        "name": "Aritz Aduriz",
+        "matches": 13
+      },
+      {
+        "name": "Peru Nolaskoain",
+        "matches": 6
+      },
+      {
+        "name": "Gorka Guruzeta",
+        "matches": 3
+      },
+      {
+        "name": "Ander Iturraspe",
+        "matches": 3
+      },
+      {
+        "name": "Mikel Rico",
+        "matches": 3
+      },
+      {
+        "name": "Cristian Ganea",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Mikel Vesga",
+        "matches": 18
+      },
+      {
+        "name": "Oihan Sancet",
+        "matches": 9
+      },
+      {
+        "name": "Asier Villalibre",
+        "matches": 7
+      },
+      {
+        "name": "Kenan Kodro",
+        "matches": 4
+      },
+      {
+        "name": "Gaizka Larrazabal",
+        "matches": 3
+      },
+      {
+        "name": "Unai Vencedor",
+        "matches": 2
+      },
+      {
+        "name": "Álex Berenguer",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Iago Herrerín",
+        "weight": 21
+      },
+      {
+        "player1": "Mikel San José",
+        "player2": "Iago Herrerín",
+        "weight": 16
+      },
+      {
+        "player1": "Yuri Berchiche",
+        "player2": "Markel Susaeta",
+        "weight": 15
+      },
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Iñigo Martínez",
+        "weight": 14
+      },
+      {
+        "player1": "Yeray Álvarez",
+        "player2": "Markel Susaeta",
+        "weight": 13
+      },
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Markel Susaeta",
+        "weight": 13
+      },
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Iñaki Williams",
+        "weight": 13
+      },
+      {
+        "player1": "Mikel San José",
+        "player2": "Óscar de Marcos",
+        "weight": 13
+      },
+      {
+        "player1": "Markel Susaeta",
+        "player2": "Raúl García",
+        "weight": 13
+      },
+      {
+        "player1": "Dani García",
+        "player2": "Markel Susaeta",
+        "weight": 12
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Unai López",
+        "player2": "Ander Capa",
+        "weight": 19
+      },
+      {
+        "player1": "Iñigo Córdoba",
+        "player2": "Unai López",
+        "weight": 16
+      },
+      {
+        "player1": "Mikel Vesga",
+        "player2": "Iñigo Martínez",
+        "weight": 16
+      },
+      {
+        "player1": "Unai Núñez",
+        "player2": "Mikel Vesga",
+        "weight": 15
+      },
+      {
+        "player1": "Raúl García",
+        "player2": "Mikel Vesga",
+        "weight": 15
+      },
+      {
+        "player1": "Unai Simón",
+        "player2": "Mikel Vesga",
+        "weight": 14
+      },
+      {
+        "player1": "Iñaki Williams",
+        "player2": "Mikel Vesga",
+        "weight": 14
+      },
+      {
+        "player1": "Yeray Álvarez",
+        "player2": "Mikel Vesga",
+        "weight": 13
+      },
+      {
+        "player1": "Mikel Vesga",
+        "player2": "Ander Capa",
+        "weight": 13
+      },
+      {
+        "player1": "Yuri Berchiche",
+        "player2": "Mikel Vesga",
+        "weight": 12
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2019_2020",
+    "season_to": "2020_2021",
+    "v_score": 0.25,
+    "e_score": 0.48,
+    "stats": {
+      "total_players_t": 26,
+      "total_players_t1": 23,
+      "total_edges_t": 278,
+      "total_edges_t1": 219
+    },
+    "players_left": [
+      {
+        "name": "Iago Herrerín",
+        "matches": 8
+      },
+      {
+        "name": "Beñat Etxebarria",
+        "matches": 6
+      },
+      {
+        "name": "Mikel San José",
+        "matches": 4
+      },
+      {
+        "name": "Kenan Kodro",
+        "matches": 4
+      },
+      {
+        "name": "Gaizka Larrazabal",
+        "matches": 3
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Jon Morcillo",
+        "matches": 10
+      },
+      {
+        "name": "Jokin Ezkieta",
+        "matches": 2
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Yeray Álvarez",
+        "player2": "Iñigo Córdoba",
+        "weight": 16
+      },
+      {
+        "player1": "Iker Muniain",
+        "player2": "Iñigo Córdoba",
+        "weight": 13
+      },
+      {
+        "player1": "Iago Herrerín",
+        "player2": "Iñigo Martínez",
+        "weight": 8
+      },
+      {
+        "player1": "Iñigo Lekue",
+        "player2": "Raúl García",
+        "weight": 7
+      },
+      {
+        "player1": "Raúl García",
+        "player2": "Iago Herrerín",
+        "weight": 7
+      },
+      {
+        "player1": "Iñigo Lekue",
+        "player2": "Iñigo Martínez",
+        "weight": 7
+      },
+      {
+        "player1": "Raúl García",
+        "player2": "Ibai Gómez",
+        "weight": 7
+      },
+      {
+        "player1": "Iñigo Córdoba",
+        "player2": "Mikel Vesga",
+        "weight": 6
+      },
+      {
+        "player1": "Iago Herrerín",
+        "player2": "Ander Capa",
+        "weight": 6
+      },
+      {
+        "player1": "Dani García",
+        "player2": "Iago Herrerín",
+        "weight": 6
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Álex Berenguer",
+        "player2": "Mikel Vesga",
+        "weight": 15
+      },
+      {
+        "player1": "Unai Núñez",
+        "player2": "Álex Berenguer",
+        "weight": 12
+      },
+      {
+        "player1": "Álex Berenguer",
+        "player2": "Asier Villalibre",
+        "weight": 11
+      },
+      {
+        "player1": "Álex Berenguer",
+        "player2": "Ander Capa",
+        "weight": 11
+      },
+      {
+        "player1": "Unai Simón",
+        "player2": "Jon Morcillo",
+        "weight": 9
+      },
+      {
+        "player1": "Unai Núñez",
+        "player2": "Jon Morcillo",
+        "weight": 8
+      },
+      {
+        "player1": "Álex Berenguer",
+        "player2": "Mikel Balenziaga",
+        "weight": 8
+      },
+      {
+        "player1": "Oihan Sancet",
+        "player2": "Asier Villalibre",
+        "weight": 7
+      },
+      {
+        "player1": "Jon Morcillo",
+        "player2": "Mikel Balenziaga",
+        "weight": 7
+      },
+      {
+        "player1": "Jon Morcillo",
+        "player2": "Iñigo Martínez",
+        "weight": 7
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2020_2021",
+    "season_to": "2021_2022",
+    "v_score": 0.433,
+    "e_score": 0.629,
+    "stats": {
+      "total_players_t": 23,
+      "total_players_t1": 24,
+      "total_edges_t": 219,
+      "total_edges_t1": 247
+    },
+    "players_left": [
+      {
+        "name": "Ander Capa",
+        "matches": 17
+      },
+      {
+        "name": "Unai López",
+        "matches": 11
+      },
+      {
+        "name": "Jon Morcillo",
+        "matches": 10
+      },
+      {
+        "name": "Ibai Gómez",
+        "matches": 3
+      },
+      {
+        "name": "Jokin Ezkieta",
+        "matches": 2
+      },
+      {
+        "name": "Iñigo Córdoba",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Dani Vivian",
+        "matches": 24
+      },
+      {
+        "name": "Nico Williams",
+        "matches": 14
+      },
+      {
+        "name": "Oier Zarraga",
+        "matches": 10
+      },
+      {
+        "name": "Julen Agirrezabala",
+        "matches": 9
+      },
+      {
+        "name": "Nico Serrano",
+        "matches": 4
+      },
+      {
+        "name": "Álex Petxarroman",
+        "matches": 2
+      },
+      {
+        "name": "Peru Nolaskoain",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Unai Simón",
+        "player2": "Ander Capa",
+        "weight": 17
+      },
+      {
+        "player1": "Iñaki Williams",
+        "player2": "Ander Capa",
+        "weight": 15
+      },
+      {
+        "player1": "Ander Capa",
+        "player2": "Iñigo Martínez",
+        "weight": 14
+      },
+      {
+        "player1": "Iker Muniain",
+        "player2": "Ander Capa",
+        "weight": 14
+      },
+      {
+        "player1": "Yuri Berchiche",
+        "player2": "Ander Capa",
+        "weight": 13
+      },
+      {
+        "player1": "Álex Berenguer",
+        "player2": "Ander Capa",
+        "weight": 11
+      },
+      {
+        "player1": "Dani García",
+        "player2": "Ander Capa",
+        "weight": 10
+      },
+      {
+        "player1": "Yeray Álvarez",
+        "player2": "Ander Capa",
+        "weight": 10
+      },
+      {
+        "player1": "Unai Simón",
+        "player2": "Unai López",
+        "weight": 10
+      },
+      {
+        "player1": "Mikel Vesga",
+        "player2": "Ander Capa",
+        "weight": 10
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Iñigo Lekue",
+        "player2": "Raúl García",
+        "weight": 20
+      },
+      {
+        "player1": "Iñigo Lekue",
+        "player2": "Iker Muniain",
+        "weight": 20
+      },
+      {
+        "player1": "Unai Simón",
+        "player2": "Dani Vivian",
+        "weight": 20
+      },
+      {
+        "player1": "Dani Vivian",
+        "player2": "Iker Muniain",
+        "weight": 20
+      },
+      {
+        "player1": "Dani Vivian",
+        "player2": "Álex Berenguer",
+        "weight": 19
+      },
+      {
+        "player1": "Iñigo Lekue",
+        "player2": "Iñigo Martínez",
+        "weight": 19
+      },
+      {
+        "player1": "Oihan Sancet",
+        "player2": "Iker Muniain",
+        "weight": 18
+      },
+      {
+        "player1": "Dani Vivian",
+        "player2": "Iñaki Williams",
+        "weight": 18
+      },
+      {
+        "player1": "Iñigo Lekue",
+        "player2": "Iñaki Williams",
+        "weight": 18
+      },
+      {
+        "player1": "Dani Vivian",
+        "player2": "Unai Vencedor",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2021_2022",
+    "season_to": "2022_2023",
+    "v_score": 0.321,
+    "e_score": 0.508,
+    "stats": {
+      "total_players_t": 24,
+      "total_players_t1": 23,
+      "total_edges_t": 247,
+      "total_edges_t1": 223
+    },
+    "players_left": [
+      {
+        "name": "Unai Vencedor",
+        "matches": 29
+      },
+      {
+        "name": "Unai Núñez",
+        "matches": 7
+      },
+      {
+        "name": "Nico Serrano",
+        "matches": 4
+      },
+      {
+        "name": "Álex Petxarroman",
+        "matches": 2
+      },
+      {
+        "name": "Peru Nolaskoain",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Gorka Guruzeta",
+        "matches": 20
+      },
+      {
+        "name": "Ander Herrera",
+        "matches": 11
+      },
+      {
+        "name": "Aitor Paredes",
+        "matches": 9
+      },
+      {
+        "name": "Ander Capa",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Unai Vencedor",
+        "player2": "Iker Muniain",
+        "weight": 27
+      },
+      {
+        "player1": "Iñaki Williams",
+        "player2": "Unai Vencedor",
+        "weight": 26
+      },
+      {
+        "player1": "Unai Simón",
+        "player2": "Unai Vencedor",
+        "weight": 25
+      },
+      {
+        "player1": "Iker Muniain",
+        "player2": "Mikel Balenziaga",
+        "weight": 22
+      },
+      {
+        "player1": "Unai Simón",
+        "player2": "Mikel Balenziaga",
+        "weight": 21
+      },
+      {
+        "player1": "Álex Berenguer",
+        "player2": "Unai Vencedor",
+        "weight": 20
+      },
+      {
+        "player1": "Unai Vencedor",
+        "player2": "Iñigo Martínez",
+        "weight": 19
+      },
+      {
+        "player1": "Dani García",
+        "player2": "Unai Vencedor",
+        "weight": 19
+      },
+      {
+        "player1": "Unai Vencedor",
+        "player2": "Mikel Balenziaga",
+        "weight": 18
+      },
+      {
+        "player1": "Yeray Álvarez",
+        "player2": "Unai Vencedor",
+        "weight": 18
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Yuri Berchiche",
+        "player2": "Gorka Guruzeta",
+        "weight": 19
+      },
+      {
+        "player1": "Oihan Sancet",
+        "player2": "Gorka Guruzeta",
+        "weight": 17
+      },
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Gorka Guruzeta",
+        "weight": 16
+      },
+      {
+        "player1": "Gorka Guruzeta",
+        "player2": "Mikel Vesga",
+        "weight": 16
+      },
+      {
+        "player1": "Iñaki Williams",
+        "player2": "Gorka Guruzeta",
+        "weight": 16
+      },
+      {
+        "player1": "Dani Vivian",
+        "player2": "Gorka Guruzeta",
+        "weight": 15
+      },
+      {
+        "player1": "Yeray Álvarez",
+        "player2": "Gorka Guruzeta",
+        "weight": 15
+      },
+      {
+        "player1": "Gorka Guruzeta",
+        "player2": "Nico Williams",
+        "weight": 15
+      },
+      {
+        "player1": "Unai Simón",
+        "player2": "Gorka Guruzeta",
+        "weight": 13
+      },
+      {
+        "player1": "Nico Williams",
+        "player2": "Ander Herrera",
+        "weight": 10
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2022_2023",
+    "season_to": "2023_2024",
+    "v_score": 0.387,
+    "e_score": 0.56,
+    "stats": {
+      "total_players_t": 23,
+      "total_players_t1": 27,
+      "total_edges_t": 223,
+      "total_edges_t1": 297
+    },
+    "players_left": [
+      {
+        "name": "Iñigo Martínez",
+        "matches": 18
+      },
+      {
+        "name": "Oier Zarraga",
+        "matches": 9
+      },
+      {
+        "name": "Ander Capa",
+        "matches": 1
+      },
+      {
+        "name": "Mikel Balenziaga",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Iñigo Ruiz de Galarreta",
+        "matches": 28
+      },
+      {
+        "name": "Beñat Prados",
+        "matches": 23
+      },
+      {
+        "name": "Unai Gómez",
+        "matches": 11
+      },
+      {
+        "name": "Imanol García de Albéniz",
+        "matches": 6
+      },
+      {
+        "name": "Adu Ares",
+        "matches": 5
+      },
+      {
+        "name": "Peru Nolaskoain",
+        "matches": 2
+      },
+      {
+        "name": "Unai Egiluz",
+        "matches": 1
+      },
+      {
+        "name": "Mikel Jauregizar",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Nico Williams",
+        "player2": "Iñigo Martínez",
+        "weight": 16
+      },
+      {
+        "player1": "Iñaki Williams",
+        "player2": "Iñigo Martínez",
+        "weight": 16
+      },
+      {
+        "player1": "Oihan Sancet",
+        "player2": "Iñigo Martínez",
+        "weight": 15
+      },
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Iñigo Martínez",
+        "weight": 15
+      },
+      {
+        "player1": "Álex Berenguer",
+        "player2": "Iñigo Martínez",
+        "weight": 13
+      },
+      {
+        "player1": "Mikel Vesga",
+        "player2": "Iñigo Martínez",
+        "weight": 13
+      },
+      {
+        "player1": "Unai Simón",
+        "player2": "Iñigo Martínez",
+        "weight": 12
+      },
+      {
+        "player1": "Yeray Álvarez",
+        "player2": "Iñigo Martínez",
+        "weight": 11
+      },
+      {
+        "player1": "Yuri Berchiche",
+        "player2": "Iñigo Martínez",
+        "weight": 11
+      },
+      {
+        "player1": "Dani García",
+        "player2": "Iñigo Martínez",
+        "weight": 10
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Aitor Paredes",
+        "player2": "Iñigo Ruiz de Galarreta",
+        "weight": 25
+      },
+      {
+        "player1": "Dani Vivian",
+        "player2": "Iñigo Ruiz de Galarreta",
+        "weight": 25
+      },
+      {
+        "player1": "Unai Simón",
+        "player2": "Iñigo Ruiz de Galarreta",
+        "weight": 24
+      },
+      {
+        "player1": "Iñigo Ruiz de Galarreta",
+        "player2": "Gorka Guruzeta",
+        "weight": 24
+      },
+      {
+        "player1": "Iñaki Williams",
+        "player2": "Iñigo Ruiz de Galarreta",
+        "weight": 24
+      },
+      {
+        "player1": "Iñigo Ruiz de Galarreta",
+        "player2": "Nico Williams",
+        "weight": 23
+      },
+      {
+        "player1": "Oihan Sancet",
+        "player2": "Iñigo Ruiz de Galarreta",
+        "weight": 21
+      },
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Iñigo Ruiz de Galarreta",
+        "weight": 20
+      },
+      {
+        "player1": "Aitor Paredes",
+        "player2": "Beñat Prados",
+        "weight": 18
+      },
+      {
+        "player1": "Beñat Prados",
+        "player2": "Gorka Guruzeta",
+        "weight": 17
+      }
+    ]
+  },
+  {
+    "club": "athletic_bilbao",
+    "season_from": "2023_2024",
+    "season_to": "2024_2025",
+    "v_score": 0.472,
+    "e_score": 0.659,
+    "stats": {
+      "total_players_t": 27,
+      "total_players_t1": 28,
+      "total_edges_t": 297,
+      "total_edges_t1": 324
+    },
+    "players_left": [
+      {
+        "name": "Iker Muniain",
+        "matches": 9
+      },
+      {
+        "name": "Dani García",
+        "matches": 7
+      },
+      {
+        "name": "Asier Villalibre",
+        "matches": 7
+      },
+      {
+        "name": "Imanol García de Albéniz",
+        "matches": 6
+      },
+      {
+        "name": "Adu Ares",
+        "matches": 5
+      },
+      {
+        "name": "Raúl García",
+        "matches": 3
+      },
+      {
+        "name": "Peru Nolaskoain",
+        "matches": 2
+      },
+      {
+        "name": "Unai Egiluz",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Andoni Gorosabel",
+        "matches": 23
+      },
+      {
+        "name": "Adama Boiro",
+        "matches": 15
+      },
+      {
+        "name": "Maroan Sannadi",
+        "matches": 13
+      },
+      {
+        "name": "Álvaro Djaló",
+        "matches": 11
+      },
+      {
+        "name": "Unai Núñez",
+        "matches": 11
+      },
+      {
+        "name": "Álex Padilla",
+        "matches": 3
+      },
+      {
+        "name": "Nico Serrano",
+        "matches": 2
+      },
+      {
+        "name": "Peio Canales",
+        "matches": 2
+      },
+      {
+        "name": "Aingeru Olabarrieta",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Unai Simón",
+        "player2": "Ander Herrera",
+        "weight": 10
+      },
+      {
+        "player1": "Unai Simón",
+        "player2": "Dani García",
+        "weight": 7
+      },
+      {
+        "player1": "Dani Vivian",
+        "player2": "Iker Muniain",
+        "weight": 7
+      },
+      {
+        "player1": "Iker Muniain",
+        "player2": "Nico Williams",
+        "weight": 6
+      },
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Iker Muniain",
+        "weight": 6
+      },
+      {
+        "player1": "Álex Berenguer",
+        "player2": "Asier Villalibre",
+        "weight": 5
+      },
+      {
+        "player1": "Iñaki Williams",
+        "player2": "Iker Muniain",
+        "weight": 5
+      },
+      {
+        "player1": "Yuri Berchiche",
+        "player2": "Iker Muniain",
+        "weight": 5
+      },
+      {
+        "player1": "Iker Muniain",
+        "player2": "Julen Agirrezabala",
+        "weight": 5
+      },
+      {
+        "player1": "Dani García",
+        "player2": "Gorka Guruzeta",
+        "weight": 5
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Iñaki Williams",
+        "player2": "Mikel Jauregizar",
+        "weight": 28
+      },
+      {
+        "player1": "Dani Vivian",
+        "player2": "Mikel Jauregizar",
+        "weight": 26
+      },
+      {
+        "player1": "Óscar de Marcos",
+        "player2": "Mikel Jauregizar",
+        "weight": 21
+      },
+      {
+        "player1": "Mikel Jauregizar",
+        "player2": "Julen Agirrezabala",
+        "weight": 20
+      },
+      {
+        "player1": "Gorka Guruzeta",
+        "player2": "Mikel Jauregizar",
+        "weight": 19
+      },
+      {
+        "player1": "Andoni Gorosabel",
+        "player2": "Iñaki Williams",
+        "weight": 17
+      },
+      {
+        "player1": "Álex Berenguer",
+        "player2": "Andoni Gorosabel",
+        "weight": 16
+      },
+      {
+        "player1": "Dani Vivian",
+        "player2": "Andoni Gorosabel",
+        "weight": 16
+      },
+      {
+        "player1": "Andoni Gorosabel",
+        "player2": "Gorka Guruzeta",
+        "weight": 15
+      },
+      {
+        "player1": "Oihan Sancet",
+        "player2": "Mikel Jauregizar",
+        "weight": 15
+      }
+    ]
+  }
+]

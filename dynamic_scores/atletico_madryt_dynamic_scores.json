@@ -1,0 +1,3553 @@
+[
+  {
+    "club": "atletico_madryt",
+    "season_from": "2005_2006",
+    "season_to": "2006_2007",
+    "v_score": 0.686,
+    "e_score": 0.86,
+    "stats": {
+      "total_players_t": 24,
+      "total_players_t1": 22,
+      "total_edges_t": 227,
+      "total_edges_t1": 213
+    },
+    "players_left": [
+      {
+        "name": "Mateja Kežman",
+        "matches": 29
+      },
+      {
+        "name": "Juan Velasco",
+        "matches": 26
+      },
+      {
+        "name": "Ariel Ibagaza",
+        "matches": 20
+      },
+      {
+        "name": "José Ignacio Zahinos",
+        "matches": 16
+      },
+      {
+        "name": "Francisco Molinero",
+        "matches": 11
+      },
+      {
+        "name": "García Calvo",
+        "matches": 9
+      },
+      {
+        "name": "Gonzalo Colsa",
+        "matches": 6
+      },
+      {
+        "name": "Ismael Falcón",
+        "matches": 5
+      },
+      {
+        "name": "Mario Suárez",
+        "matches": 3
+      },
+      {
+        "name": "Manu del Moral",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Georgios Seitaridis",
+        "matches": 31
+      },
+      {
+        "name": "Maniche",
+        "matches": 26
+      },
+      {
+        "name": "Sergio Agüero",
+        "matches": 26
+      },
+      {
+        "name": "José Manuel Jurado",
+        "matches": 24
+      },
+      {
+        "name": "Zé Castro",
+        "matches": 23
+      },
+      {
+        "name": "Mariano Pernía",
+        "matches": 18
+      },
+      {
+        "name": "Costinha",
+        "matches": 17
+      },
+      {
+        "name": "Mista",
+        "matches": 14
+      },
+      {
+        "name": "Fabiano Eller",
+        "matches": 12
+      },
+      {
+        "name": "Iván Cuéllar",
+        "matches": 8
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Mateja Kežman",
+        "player2": "Fernando Torres",
+        "weight": 28
+      },
+      {
+        "player1": "Leo Franco",
+        "player2": "Mateja Kežman",
+        "weight": 28
+      },
+      {
+        "player1": "Antonio López",
+        "player2": "Mateja Kežman",
+        "weight": 27
+      },
+      {
+        "player1": "Juan Velasco",
+        "player2": "Fernando Torres",
+        "weight": 26
+      },
+      {
+        "player1": "Juan Velasco",
+        "player2": "Martin Petrov",
+        "weight": 25
+      },
+      {
+        "player1": "Juan Velasco",
+        "player2": "Antonio López",
+        "weight": 25
+      },
+      {
+        "player1": "Mateja Kežman",
+        "player2": "Martin Petrov",
+        "weight": 25
+      },
+      {
+        "player1": "Pablo Ibáñez",
+        "player2": "Mateja Kežman",
+        "weight": 25
+      },
+      {
+        "player1": "Juan Velasco",
+        "player2": "Pablo Ibáñez",
+        "weight": 25
+      },
+      {
+        "player1": "Luis Amaranto Perea",
+        "player2": "Mateja Kežman",
+        "weight": 24
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Georgios Seitaridis",
+        "player2": "Fernando Torres",
+        "weight": 30
+      },
+      {
+        "player1": "Maniche",
+        "player2": "Fernando Torres",
+        "weight": 26
+      },
+      {
+        "player1": "Peter Luccin",
+        "player2": "Georgios Seitaridis",
+        "weight": 26
+      },
+      {
+        "player1": "Leo Franco",
+        "player2": "Georgios Seitaridis",
+        "weight": 25
+      },
+      {
+        "player1": "Antonio López",
+        "player2": "Georgios Seitaridis",
+        "weight": 25
+      },
+      {
+        "player1": "Sergio Agüero",
+        "player2": "Fernando Torres",
+        "weight": 24
+      },
+      {
+        "player1": "Maniche",
+        "player2": "Peter Luccin",
+        "weight": 24
+      },
+      {
+        "player1": "Maniche",
+        "player2": "Georgios Seitaridis",
+        "weight": 24
+      },
+      {
+        "player1": "José Manuel Jurado",
+        "player2": "Fernando Torres",
+        "weight": 23
+      },
+      {
+        "player1": "Maniche",
+        "player2": "Antonio López",
+        "weight": 23
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2006_2007",
+    "season_to": "2007_2008",
+    "v_score": 0.515,
+    "e_score": 0.725,
+    "stats": {
+      "total_players_t": 22,
+      "total_players_t1": 27,
+      "total_edges_t": 213,
+      "total_edges_t1": 297
+    },
+    "players_left": [
+      {
+        "name": "Fernando Torres",
+        "matches": 39
+      },
+      {
+        "name": "Luciano Galletti",
+        "matches": 29
+      },
+      {
+        "name": "Costinha",
+        "matches": 17
+      },
+      {
+        "name": "Iván Cuéllar",
+        "matches": 8
+      },
+      {
+        "name": "Gabi",
+        "matches": 8
+      },
+      {
+        "name": "Víctor Bravo",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Diego Forlán",
+        "matches": 49
+      },
+      {
+        "name": "Raúl García",
+        "matches": 44
+      },
+      {
+        "name": "Simão",
+        "matches": 30
+      },
+      {
+        "name": "Christian Abbiati",
+        "matches": 29
+      },
+      {
+        "name": "Cléber Santana",
+        "matches": 25
+      },
+      {
+        "name": "Luis García",
+        "matches": 25
+      },
+      {
+        "name": "José Antonio Reyes",
+        "matches": 17
+      },
+      {
+        "name": "Ignacio Camacho",
+        "matches": 9
+      },
+      {
+        "name": "Thiago Motta",
+        "matches": 7
+      },
+      {
+        "name": "Ismael Falcón",
+        "matches": 6
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Peter Luccin",
+        "player2": "Fernando Torres",
+        "weight": 32
+      },
+      {
+        "player1": "Leo Franco",
+        "player2": "Fernando Torres",
+        "weight": 32
+      },
+      {
+        "player1": "Antonio López",
+        "player2": "Fernando Torres",
+        "weight": 31
+      },
+      {
+        "player1": "Georgios Seitaridis",
+        "player2": "Fernando Torres",
+        "weight": 30
+      },
+      {
+        "player1": "Luciano Galletti",
+        "player2": "Fernando Torres",
+        "weight": 28
+      },
+      {
+        "player1": "Maniche",
+        "player2": "Fernando Torres",
+        "weight": 26
+      },
+      {
+        "player1": "Luis Amaranto Perea",
+        "player2": "Fernando Torres",
+        "weight": 26
+      },
+      {
+        "player1": "Antonio López",
+        "player2": "Luciano Galletti",
+        "weight": 25
+      },
+      {
+        "player1": "Peter Luccin",
+        "player2": "Luciano Galletti",
+        "weight": 24
+      },
+      {
+        "player1": "Sergio Agüero",
+        "player2": "Fernando Torres",
+        "weight": 24
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Sergio Agüero",
+        "player2": "Diego Forlán",
+        "weight": 40
+      },
+      {
+        "player1": "Pablo Ibáñez",
+        "player2": "Diego Forlán",
+        "weight": 40
+      },
+      {
+        "player1": "Raúl García",
+        "player2": "Diego Forlán",
+        "weight": 40
+      },
+      {
+        "player1": "Raúl García",
+        "player2": "Sergio Agüero",
+        "weight": 39
+      },
+      {
+        "player1": "Luis Amaranto Perea",
+        "player2": "Diego Forlán",
+        "weight": 37
+      },
+      {
+        "player1": "Raúl García",
+        "player2": "Pablo Ibáñez",
+        "weight": 36
+      },
+      {
+        "player1": "Maxi Rodríguez",
+        "player2": "Diego Forlán",
+        "weight": 36
+      },
+      {
+        "player1": "Mariano Pernía",
+        "player2": "Diego Forlán",
+        "weight": 35
+      },
+      {
+        "player1": "Raúl García",
+        "player2": "Maxi Rodríguez",
+        "weight": 34
+      },
+      {
+        "player1": "Luis Amaranto Perea",
+        "player2": "Raúl García",
+        "weight": 33
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2007_2008",
+    "season_to": "2008_2009",
+    "v_score": 0.559,
+    "e_score": 0.779,
+    "stats": {
+      "total_players_t": 27,
+      "total_players_t1": 22,
+      "total_edges_t": 297,
+      "total_edges_t1": 228
+    },
+    "players_left": [
+      {
+        "name": "Christian Abbiati",
+        "matches": 29
+      },
+      {
+        "name": "Cléber Santana",
+        "matches": 25
+      },
+      {
+        "name": "Fabiano Eller",
+        "matches": 24
+      },
+      {
+        "name": "José Antonio Reyes",
+        "matches": 17
+      },
+      {
+        "name": "Zé Castro",
+        "matches": 13
+      },
+      {
+        "name": "Juan Valera",
+        "matches": 11
+      },
+      {
+        "name": "Mista",
+        "matches": 10
+      },
+      {
+        "name": "José Manuel Jurado",
+        "matches": 9
+      },
+      {
+        "name": "Thiago Motta",
+        "matches": 7
+      },
+      {
+        "name": "Ismael Falcón",
+        "matches": 6
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Paulo Assunção",
+        "matches": 41
+      },
+      {
+        "name": "Tomas Ujfalusi",
+        "matches": 40
+      },
+      {
+        "name": "John Heitinga",
+        "matches": 33
+      },
+      {
+        "name": "Florent Sinama-Pongolle",
+        "matches": 20
+      },
+      {
+        "name": "Grégory Coupet",
+        "matches": 11
+      },
+      {
+        "name": "Éver Banega",
+        "matches": 8
+      },
+      {
+        "name": "Álvaro Domínguez",
+        "matches": 5
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Christian Abbiati",
+        "player2": "Diego Forlán",
+        "weight": 28
+      },
+      {
+        "player1": "Christian Abbiati",
+        "player2": "Antonio López",
+        "weight": 23
+      },
+      {
+        "player1": "Raúl García",
+        "player2": "Christian Abbiati",
+        "weight": 22
+      },
+      {
+        "player1": "Christian Abbiati",
+        "player2": "Sergio Agüero",
+        "weight": 22
+      },
+      {
+        "player1": "Diego Forlán",
+        "player2": "Fabiano Eller",
+        "weight": 22
+      },
+      {
+        "player1": "Christian Abbiati",
+        "player2": "Pablo Ibáñez",
+        "weight": 22
+      },
+      {
+        "player1": "Cléber Santana",
+        "player2": "Diego Forlán",
+        "weight": 21
+      },
+      {
+        "player1": "Luis Amaranto Perea",
+        "player2": "Christian Abbiati",
+        "weight": 20
+      },
+      {
+        "player1": "Christian Abbiati",
+        "player2": "Maxi Rodríguez",
+        "weight": 20
+      },
+      {
+        "player1": "Christian Abbiati",
+        "player2": "Fabiano Eller",
+        "weight": 19
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Paulo Assunção",
+        "player2": "Leo Franco",
+        "weight": 36
+      },
+      {
+        "player1": "Sergio Agüero",
+        "player2": "Tomas Ujfalusi",
+        "weight": 36
+      },
+      {
+        "player1": "Simão",
+        "player2": "Paulo Assunção",
+        "weight": 35
+      },
+      {
+        "player1": "Paulo Assunção",
+        "player2": "Diego Forlán",
+        "weight": 35
+      },
+      {
+        "player1": "Paulo Assunção",
+        "player2": "Sergio Agüero",
+        "weight": 34
+      },
+      {
+        "player1": "Paulo Assunção",
+        "player2": "Tomas Ujfalusi",
+        "weight": 34
+      },
+      {
+        "player1": "Simão",
+        "player2": "Tomas Ujfalusi",
+        "weight": 33
+      },
+      {
+        "player1": "Leo Franco",
+        "player2": "Tomas Ujfalusi",
+        "weight": 33
+      },
+      {
+        "player1": "Diego Forlán",
+        "player2": "Tomas Ujfalusi",
+        "weight": 32
+      },
+      {
+        "player1": "Paulo Assunção",
+        "player2": "Maxi Rodríguez",
+        "weight": 31
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2008_2009",
+    "season_to": "2009_2010",
+    "v_score": 0.595,
+    "e_score": 0.807,
+    "stats": {
+      "total_players_t": 22,
+      "total_players_t1": 30,
+      "total_edges_t": 228,
+      "total_edges_t1": 315
+    },
+    "players_left": [
+      {
+        "name": "Leo Franco",
+        "matches": 41
+      },
+      {
+        "name": "Maniche",
+        "matches": 22
+      },
+      {
+        "name": "Georgios Seitaridis",
+        "matches": 16
+      },
+      {
+        "name": "Grégory Coupet",
+        "matches": 11
+      },
+      {
+        "name": "Luis García",
+        "matches": 10
+      },
+      {
+        "name": "Éver Banega",
+        "matches": 8
+      },
+      {
+        "name": "Miguel de las Cuevas",
+        "matches": 4
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "José Manuel Jurado",
+        "matches": 42
+      },
+      {
+        "name": "José Antonio Reyes",
+        "matches": 37
+      },
+      {
+        "name": "David de Gea",
+        "matches": 34
+      },
+      {
+        "name": "Sergio Asenjo",
+        "matches": 25
+      },
+      {
+        "name": "Juan Valera",
+        "matches": 25
+      },
+      {
+        "name": "Juanito",
+        "matches": 23
+      },
+      {
+        "name": "Tiago Mendes",
+        "matches": 21
+      },
+      {
+        "name": "Cléber Santana",
+        "matches": 16
+      },
+      {
+        "name": "Ibrahima Balde",
+        "matches": 5
+      },
+      {
+        "name": "Eduardo Salvio",
+        "matches": 5
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Leo Franco",
+        "player2": "Diego Forlán",
+        "weight": 38
+      },
+      {
+        "player1": "Paulo Assunção",
+        "player2": "Leo Franco",
+        "weight": 36
+      },
+      {
+        "player1": "Simão",
+        "player2": "Leo Franco",
+        "weight": 35
+      },
+      {
+        "player1": "Leo Franco",
+        "player2": "Sergio Agüero",
+        "weight": 34
+      },
+      {
+        "player1": "Leo Franco",
+        "player2": "Tomas Ujfalusi",
+        "weight": 33
+      },
+      {
+        "player1": "Leo Franco",
+        "player2": "Maxi Rodríguez",
+        "weight": 29
+      },
+      {
+        "player1": "Leo Franco",
+        "player2": "John Heitinga",
+        "weight": 28
+      },
+      {
+        "player1": "Luis Amaranto Perea",
+        "player2": "Leo Franco",
+        "weight": 27
+      },
+      {
+        "player1": "Paulo Assunção",
+        "player2": "Mariano Pernía",
+        "weight": 27
+      },
+      {
+        "player1": "Raúl García",
+        "player2": "Leo Franco",
+        "weight": 27
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "José Manuel Jurado",
+        "player2": "Luis Amaranto Perea",
+        "weight": 33
+      },
+      {
+        "player1": "Paulo Assunção",
+        "player2": "José Antonio Reyes",
+        "weight": 32
+      },
+      {
+        "player1": "José Manuel Jurado",
+        "player2": "Paulo Assunção",
+        "weight": 31
+      },
+      {
+        "player1": "José Manuel Jurado",
+        "player2": "Tomas Ujfalusi",
+        "weight": 31
+      },
+      {
+        "player1": "David de Gea",
+        "player2": "Álvaro Domínguez",
+        "weight": 31
+      },
+      {
+        "player1": "Luis Amaranto Perea",
+        "player2": "José Antonio Reyes",
+        "weight": 31
+      },
+      {
+        "player1": "José Antonio Reyes",
+        "player2": "Álvaro Domínguez",
+        "weight": 31
+      },
+      {
+        "player1": "José Manuel Jurado",
+        "player2": "Álvaro Domínguez",
+        "weight": 30
+      },
+      {
+        "player1": "José Manuel Jurado",
+        "player2": "Simão",
+        "weight": 30
+      },
+      {
+        "player1": "Simão",
+        "player2": "José Antonio Reyes",
+        "weight": 29
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2009_2010",
+    "season_to": "2010_2011",
+    "v_score": 0.538,
+    "e_score": 0.773,
+    "stats": {
+      "total_players_t": 30,
+      "total_players_t1": 27,
+      "total_edges_t": 315,
+      "total_edges_t1": 284
+    },
+    "players_left": [
+      {
+        "name": "Sergio Asenjo",
+        "matches": 25
+      },
+      {
+        "name": "Cléber Santana",
+        "matches": 16
+      },
+      {
+        "name": "Maxi Rodríguez",
+        "matches": 14
+      },
+      {
+        "name": "Pablo Ibáñez",
+        "matches": 11
+      },
+      {
+        "name": "Florent Sinama-Pongolle",
+        "matches": 6
+      },
+      {
+        "name": "Ibrahima Balde",
+        "matches": 5
+      },
+      {
+        "name": "Eduardo Salvio",
+        "matches": 5
+      },
+      {
+        "name": "Roberto",
+        "matches": 4
+      },
+      {
+        "name": "Leandro Cabrera",
+        "matches": 4
+      },
+      {
+        "name": "John Heitinga",
+        "matches": 3
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Filipe Luís",
+        "matches": 30
+      },
+      {
+        "name": "Diego Godín",
+        "matches": 30
+      },
+      {
+        "name": "Mario Suárez",
+        "matches": 22
+      },
+      {
+        "name": "Diego Costa",
+        "matches": 19
+      },
+      {
+        "name": "Elias",
+        "matches": 11
+      },
+      {
+        "name": "Fran Mérida",
+        "matches": 10
+      },
+      {
+        "name": "Juanfran Torres",
+        "matches": 6
+      },
+      {
+        "name": "Jorge Pulido",
+        "matches": 3
+      },
+      {
+        "name": "Alberto Perea",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "José Manuel Jurado",
+        "player2": "Álvaro Domínguez",
+        "weight": 30
+      },
+      {
+        "player1": "José Manuel Jurado",
+        "player2": "Simão",
+        "weight": 30
+      },
+      {
+        "player1": "Paulo Assunção",
+        "player2": "Sergio Asenjo",
+        "weight": 21
+      },
+      {
+        "player1": "Simão",
+        "player2": "Sergio Asenjo",
+        "weight": 21
+      },
+      {
+        "player1": "Juanito",
+        "player2": "Diego Forlán",
+        "weight": 19
+      },
+      {
+        "player1": "Luis Amaranto Perea",
+        "player2": "Sergio Asenjo",
+        "weight": 18
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Tomas Ujfalusi",
+        "weight": 18
+      },
+      {
+        "player1": "Sergio Asenjo",
+        "player2": "Diego Forlán",
+        "weight": 18
+      },
+      {
+        "player1": "Simão",
+        "player2": "Juanito",
+        "weight": 18
+      },
+      {
+        "player1": "José Manuel Jurado",
+        "player2": "Juan Valera",
+        "weight": 18
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Filipe Luís",
+        "player2": "David de Gea",
+        "weight": 29
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "David de Gea",
+        "weight": 29
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Tomas Ujfalusi",
+        "weight": 27
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "José Antonio Reyes",
+        "weight": 27
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "José Antonio Reyes",
+        "weight": 27
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Sergio Agüero",
+        "weight": 25
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Sergio Agüero",
+        "weight": 24
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Tomas Ujfalusi",
+        "weight": 24
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Luis Amaranto Perea",
+        "weight": 22
+      },
+      {
+        "player1": "Mario Suárez",
+        "player2": "David de Gea",
+        "weight": 22
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2010_2011",
+    "season_to": "2011_2012",
+    "v_score": 0.641,
+    "e_score": 0.852,
+    "stats": {
+      "total_players_t": 27,
+      "total_players_t1": 26,
+      "total_edges_t": 284,
+      "total_edges_t1": 268
+    },
+    "players_left": [
+      {
+        "name": "David de Gea",
+        "matches": 49
+      },
+      {
+        "name": "Tomas Ujfalusi",
+        "matches": 42
+      },
+      {
+        "name": "Sergio Agüero",
+        "matches": 39
+      },
+      {
+        "name": "Raúl García",
+        "matches": 27
+      },
+      {
+        "name": "Simão",
+        "matches": 23
+      },
+      {
+        "name": "Diego Costa",
+        "matches": 19
+      },
+      {
+        "name": "Juan Valera",
+        "matches": 15
+      },
+      {
+        "name": "Elias",
+        "matches": 11
+      },
+      {
+        "name": "Fran Mérida",
+        "matches": 10
+      },
+      {
+        "name": "Ignacio Camacho",
+        "matches": 3
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Thibaut Courtois",
+        "matches": 52
+      },
+      {
+        "name": "Gabi",
+        "matches": 47
+      },
+      {
+        "name": "Radamel Falcao",
+        "matches": 47
+      },
+      {
+        "name": "Adrián López",
+        "matches": 46
+      },
+      {
+        "name": "Miranda",
+        "matches": 40
+      },
+      {
+        "name": "Diego",
+        "matches": 39
+      },
+      {
+        "name": "Arda Turan",
+        "matches": 34
+      },
+      {
+        "name": "Eduardo Salvio",
+        "matches": 24
+      },
+      {
+        "name": "Sílvio",
+        "matches": 12
+      },
+      {
+        "name": "Sergio Asenjo",
+        "matches": 4
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "José Antonio Reyes",
+        "player2": "David de Gea",
+        "weight": 41
+      },
+      {
+        "player1": "Tomas Ujfalusi",
+        "player2": "David de Gea",
+        "weight": 41
+      },
+      {
+        "player1": "Sergio Agüero",
+        "player2": "David de Gea",
+        "weight": 39
+      },
+      {
+        "player1": "Luis Amaranto Perea",
+        "player2": "David de Gea",
+        "weight": 37
+      },
+      {
+        "player1": "José Antonio Reyes",
+        "player2": "Tomas Ujfalusi",
+        "weight": 36
+      },
+      {
+        "player1": "Sergio Agüero",
+        "player2": "José Antonio Reyes",
+        "weight": 34
+      },
+      {
+        "player1": "Sergio Agüero",
+        "player2": "Tomas Ujfalusi",
+        "weight": 34
+      },
+      {
+        "player1": "Tiago Mendes",
+        "player2": "David de Gea",
+        "weight": 33
+      },
+      {
+        "player1": "Diego Forlán",
+        "player2": "David de Gea",
+        "weight": 31
+      },
+      {
+        "player1": "Luis Amaranto Perea",
+        "player2": "Tomas Ujfalusi",
+        "weight": 31
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Filipe Luís",
+        "player2": "Thibaut Courtois",
+        "weight": 47
+      },
+      {
+        "player1": "Radamel Falcao",
+        "player2": "Thibaut Courtois",
+        "weight": 44
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Radamel Falcao",
+        "weight": 43
+      },
+      {
+        "player1": "Gabi",
+        "player2": "Thibaut Courtois",
+        "weight": 42
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Adrián López",
+        "weight": 41
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Gabi",
+        "weight": 41
+      },
+      {
+        "player1": "Adrián López",
+        "player2": "Thibaut Courtois",
+        "weight": 40
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Thibaut Courtois",
+        "weight": 38
+      },
+      {
+        "player1": "Thibaut Courtois",
+        "player2": "Miranda",
+        "weight": 37
+      },
+      {
+        "player1": "Radamel Falcao",
+        "player2": "Gabi",
+        "weight": 37
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2011_2012",
+    "season_to": "2012_2013",
+    "v_score": 0.543,
+    "e_score": 0.78,
+    "stats": {
+      "total_players_t": 26,
+      "total_players_t1": 25,
+      "total_edges_t": 268,
+      "total_edges_t1": 264
+    },
+    "players_left": [
+      {
+        "name": "Diego",
+        "matches": 39
+      },
+      {
+        "name": "Álvaro Domínguez",
+        "matches": 31
+      },
+      {
+        "name": "Eduardo Salvio",
+        "matches": 24
+      },
+      {
+        "name": "Luis Amaranto Perea",
+        "matches": 23
+      },
+      {
+        "name": "José Antonio Reyes",
+        "matches": 12
+      },
+      {
+        "name": "Paulo Assunção",
+        "matches": 11
+      },
+      {
+        "name": "Antonio López",
+        "matches": 6
+      },
+      {
+        "name": "Joel Robles",
+        "matches": 3
+      },
+      {
+        "name": "Diego Forlán",
+        "matches": 2
+      },
+      {
+        "name": "Pizzi",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Diego Costa",
+        "matches": 36
+      },
+      {
+        "name": "Raúl García",
+        "matches": 23
+      },
+      {
+        "name": "Cristian Rodríguez",
+        "matches": 20
+      },
+      {
+        "name": "Cata Díaz",
+        "matches": 18
+      },
+      {
+        "name": "Emre Belözoğlu",
+        "matches": 11
+      },
+      {
+        "name": "Domingo Cisma",
+        "matches": 10
+      },
+      {
+        "name": "Saúl Ñíguez",
+        "matches": 2
+      },
+      {
+        "name": "Emiliano Insúa",
+        "matches": 2
+      },
+      {
+        "name": "Abdelkader Oueslati",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Diego",
+        "player2": "Thibaut Courtois",
+        "weight": 36
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Diego",
+        "weight": 36
+      },
+      {
+        "player1": "Diego",
+        "player2": "Radamel Falcao",
+        "weight": 35
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Diego",
+        "weight": 30
+      },
+      {
+        "player1": "Diego",
+        "player2": "Gabi",
+        "weight": 30
+      },
+      {
+        "player1": "Adrián López",
+        "player2": "Diego",
+        "weight": 27
+      },
+      {
+        "player1": "Arda Turan",
+        "player2": "Diego",
+        "weight": 26
+      },
+      {
+        "player1": "Diego",
+        "player2": "Miranda",
+        "weight": 26
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Álvaro Domínguez",
+        "weight": 26
+      },
+      {
+        "player1": "Thibaut Courtois",
+        "player2": "Álvaro Domínguez",
+        "weight": 25
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Diego Costa",
+        "player2": "Thibaut Courtois",
+        "weight": 31
+      },
+      {
+        "player1": "Diego Costa",
+        "player2": "Koke",
+        "weight": 30
+      },
+      {
+        "player1": "Diego Costa",
+        "player2": "Gabi",
+        "weight": 29
+      },
+      {
+        "player1": "Juanfran Torres",
+        "player2": "Diego Costa",
+        "weight": 29
+      },
+      {
+        "player1": "Diego Costa",
+        "player2": "Miranda",
+        "weight": 29
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Diego Costa",
+        "weight": 28
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Diego Costa",
+        "weight": 27
+      },
+      {
+        "player1": "Diego Costa",
+        "player2": "Radamel Falcao",
+        "weight": 23
+      },
+      {
+        "player1": "Arda Turan",
+        "player2": "Diego Costa",
+        "weight": 23
+      },
+      {
+        "player1": "Diego Costa",
+        "player2": "Mario Suárez",
+        "weight": 21
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2012_2013",
+    "season_to": "2013_2014",
+    "v_score": 0.543,
+    "e_score": 0.732,
+    "stats": {
+      "total_players_t": 25,
+      "total_players_t1": 26,
+      "total_edges_t": 264,
+      "total_edges_t1": 290
+    },
+    "players_left": [
+      {
+        "name": "Radamel Falcao",
+        "matches": 41
+      },
+      {
+        "name": "Cata Díaz",
+        "matches": 18
+      },
+      {
+        "name": "Emre Belözoğlu",
+        "matches": 11
+      },
+      {
+        "name": "Domingo Cisma",
+        "matches": 10
+      },
+      {
+        "name": "Sergio Asenjo",
+        "matches": 10
+      },
+      {
+        "name": "Jorge Pulido",
+        "matches": 8
+      },
+      {
+        "name": "Sílvio",
+        "matches": 7
+      },
+      {
+        "name": "Saúl Ñíguez",
+        "matches": 2
+      },
+      {
+        "name": "Abdelkader Oueslati",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "David Villa",
+        "matches": 39
+      },
+      {
+        "name": "Toby Alderweireld",
+        "matches": 18
+      },
+      {
+        "name": "Diego",
+        "matches": 7
+      },
+      {
+        "name": "José Sosa",
+        "matches": 6
+      },
+      {
+        "name": "Óliver Torres",
+        "matches": 5
+      },
+      {
+        "name": "Daniel Aranzubia",
+        "matches": 5
+      },
+      {
+        "name": "Josuha Guilavogui",
+        "matches": 4
+      },
+      {
+        "name": "Léo Baptistão",
+        "matches": 3
+      },
+      {
+        "name": "José María Giménez",
+        "matches": 2
+      },
+      {
+        "name": "Carlos Ramos",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Radamel Falcao",
+        "player2": "Miranda",
+        "weight": 39
+      },
+      {
+        "player1": "Radamel Falcao",
+        "player2": "Thibaut Courtois",
+        "weight": 38
+      },
+      {
+        "player1": "Juanfran Torres",
+        "player2": "Radamel Falcao",
+        "weight": 37
+      },
+      {
+        "player1": "Radamel Falcao",
+        "player2": "Gabi",
+        "weight": 37
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Radamel Falcao",
+        "weight": 36
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Radamel Falcao",
+        "weight": 34
+      },
+      {
+        "player1": "Arda Turan",
+        "player2": "Radamel Falcao",
+        "weight": 30
+      },
+      {
+        "player1": "Radamel Falcao",
+        "player2": "Koke",
+        "weight": 28
+      },
+      {
+        "player1": "Radamel Falcao",
+        "player2": "Mario Suárez",
+        "weight": 28
+      },
+      {
+        "player1": "Diego Costa",
+        "player2": "Radamel Falcao",
+        "weight": 23
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Thibaut Courtois",
+        "player2": "David Villa",
+        "weight": 39
+      },
+      {
+        "player1": "Gabi",
+        "player2": "David Villa",
+        "weight": 37
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "David Villa",
+        "weight": 36
+      },
+      {
+        "player1": "Juanfran Torres",
+        "player2": "David Villa",
+        "weight": 36
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "David Villa",
+        "weight": 35
+      },
+      {
+        "player1": "David Villa",
+        "player2": "Miranda",
+        "weight": 34
+      },
+      {
+        "player1": "Koke",
+        "player2": "David Villa",
+        "weight": 34
+      },
+      {
+        "player1": "Diego Costa",
+        "player2": "David Villa",
+        "weight": 32
+      },
+      {
+        "player1": "Tiago Mendes",
+        "player2": "David Villa",
+        "weight": 23
+      },
+      {
+        "player1": "Arda Turan",
+        "player2": "David Villa",
+        "weight": 22
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2013_2014",
+    "season_to": "2014_2015",
+    "v_score": 0.711,
+    "e_score": 0.899,
+    "stats": {
+      "total_players_t": 26,
+      "total_players_t1": 23,
+      "total_edges_t": 290,
+      "total_edges_t1": 201
+    },
+    "players_left": [
+      {
+        "name": "Thibaut Courtois",
+        "matches": 56
+      },
+      {
+        "name": "Diego Costa",
+        "matches": 50
+      },
+      {
+        "name": "Filipe Luís",
+        "matches": 49
+      },
+      {
+        "name": "David Villa",
+        "matches": 39
+      },
+      {
+        "name": "Toby Alderweireld",
+        "matches": 18
+      },
+      {
+        "name": "Adrián López",
+        "matches": 15
+      },
+      {
+        "name": "Emiliano Insúa",
+        "matches": 11
+      },
+      {
+        "name": "Javier Manquillo",
+        "matches": 7
+      },
+      {
+        "name": "Diego",
+        "matches": 7
+      },
+      {
+        "name": "José Sosa",
+        "matches": 6
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Antoine Griezmann",
+        "matches": 17
+      },
+      {
+        "name": "Guilherme Siqueira",
+        "matches": 16
+      },
+      {
+        "name": "Mario Mandžukić",
+        "matches": 14
+      },
+      {
+        "name": "Miguel Ángel Moyá",
+        "matches": 14
+      },
+      {
+        "name": "Saúl Ñíguez",
+        "matches": 8
+      },
+      {
+        "name": "Jan Oblak",
+        "matches": 7
+      },
+      {
+        "name": "Fernando Torres",
+        "matches": 4
+      },
+      {
+        "name": "Jesús Gámez",
+        "matches": 4
+      },
+      {
+        "name": "Cristian Ansaldi",
+        "matches": 3
+      },
+      {
+        "name": "Raúl Jiménez",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Juanfran Torres",
+        "player2": "Thibaut Courtois",
+        "weight": 53
+      },
+      {
+        "player1": "Gabi",
+        "player2": "Thibaut Courtois",
+        "weight": 51
+      },
+      {
+        "player1": "Koke",
+        "player2": "Thibaut Courtois",
+        "weight": 50
+      },
+      {
+        "player1": "Thibaut Courtois",
+        "player2": "Miranda",
+        "weight": 49
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Thibaut Courtois",
+        "weight": 49
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Thibaut Courtois",
+        "weight": 48
+      },
+      {
+        "player1": "Diego Costa",
+        "player2": "Thibaut Courtois",
+        "weight": 48
+      },
+      {
+        "player1": "Diego Costa",
+        "player2": "Gabi",
+        "weight": 46
+      },
+      {
+        "player1": "Juanfran Torres",
+        "player2": "Diego Costa",
+        "weight": 46
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Diego Costa",
+        "weight": 46
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Juanfran Torres",
+        "player2": "Antoine Griezmann",
+        "weight": 16
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Antoine Griezmann",
+        "weight": 15
+      },
+      {
+        "player1": "Guilherme Siqueira",
+        "player2": "Juanfran Torres",
+        "weight": 14
+      },
+      {
+        "player1": "Juanfran Torres",
+        "player2": "Mario Mandžukić",
+        "weight": 14
+      },
+      {
+        "player1": "Guilherme Siqueira",
+        "player2": "Antoine Griezmann",
+        "weight": 14
+      },
+      {
+        "player1": "Juanfran Torres",
+        "player2": "Miguel Ángel Moyá",
+        "weight": 14
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Gabi",
+        "weight": 14
+      },
+      {
+        "player1": "Guilherme Siqueira",
+        "player2": "Gabi",
+        "weight": 14
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Guilherme Siqueira",
+        "weight": 13
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Koke",
+        "weight": 13
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2014_2015",
+    "season_to": "2015_2016",
+    "v_score": 0.588,
+    "e_score": 0.792,
+    "stats": {
+      "total_players_t": 23,
+      "total_players_t1": 25,
+      "total_edges_t": 201,
+      "total_edges_t1": 276
+    },
+    "players_left": [
+      {
+        "name": "Miranda",
+        "matches": 14
+      },
+      {
+        "name": "Arda Turan",
+        "matches": 14
+      },
+      {
+        "name": "Mario Mandžukić",
+        "matches": 14
+      },
+      {
+        "name": "Raúl García",
+        "matches": 9
+      },
+      {
+        "name": "Mario Suárez",
+        "matches": 8
+      },
+      {
+        "name": "Cristian Ansaldi",
+        "matches": 3
+      },
+      {
+        "name": "Cristian Rodríguez",
+        "matches": 1
+      },
+      {
+        "name": "Raúl Jiménez",
+        "matches": 1
+      },
+      {
+        "name": "Alessio Cerci",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Filipe Luís",
+        "matches": 45
+      },
+      {
+        "name": "Yannick Carrasco",
+        "matches": 26
+      },
+      {
+        "name": "Stefan Savic",
+        "matches": 20
+      },
+      {
+        "name": "Augusto Fernández",
+        "matches": 18
+      },
+      {
+        "name": "Luciano Vietto",
+        "matches": 17
+      },
+      {
+        "name": "Óliver Torres",
+        "matches": 14
+      },
+      {
+        "name": "Jackson Martínez",
+        "matches": 13
+      },
+      {
+        "name": "Ángel Correa",
+        "matches": 12
+      },
+      {
+        "name": "Thomas Partey",
+        "matches": 7
+      },
+      {
+        "name": "Matías Kranevitter",
+        "matches": 5
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Arda Turan",
+        "player2": "Juanfran Torres",
+        "weight": 14
+      },
+      {
+        "player1": "Juanfran Torres",
+        "player2": "Mario Mandžukić",
+        "weight": 14
+      },
+      {
+        "player1": "Juanfran Torres",
+        "player2": "Miranda",
+        "weight": 14
+      },
+      {
+        "player1": "Mario Mandžukić",
+        "player2": "Gabi",
+        "weight": 12
+      },
+      {
+        "player1": "Arda Turan",
+        "player2": "Diego Godín",
+        "weight": 12
+      },
+      {
+        "player1": "Gabi",
+        "player2": "Miranda",
+        "weight": 12
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Mario Mandžukić",
+        "weight": 12
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Miranda",
+        "weight": 12
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Miranda",
+        "weight": 12
+      },
+      {
+        "player1": "Tiago Mendes",
+        "player2": "Miguel Ángel Moyá",
+        "weight": 12
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Filipe Luís",
+        "player2": "Antoine Griezmann",
+        "weight": 43
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Jan Oblak",
+        "weight": 42
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Koke",
+        "weight": 42
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Gabi",
+        "weight": 41
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Diego Godín",
+        "weight": 39
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Juanfran Torres",
+        "weight": 39
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Saúl Ñíguez",
+        "weight": 31
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "José María Giménez",
+        "weight": 29
+      },
+      {
+        "player1": "Yannick Carrasco",
+        "player2": "Antoine Griezmann",
+        "weight": 24
+      },
+      {
+        "player1": "Yannick Carrasco",
+        "player2": "Koke",
+        "weight": 23
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2015_2016",
+    "season_to": "2016_2017",
+    "v_score": 0.379,
+    "e_score": 0.58,
+    "stats": {
+      "total_players_t": 25,
+      "total_players_t1": 22,
+      "total_edges_t": 276,
+      "total_edges_t1": 211
+    },
+    "players_left": [
+      {
+        "name": "Luciano Vietto",
+        "matches": 17
+      },
+      {
+        "name": "Óliver Torres",
+        "matches": 14
+      },
+      {
+        "name": "Jackson Martínez",
+        "matches": 13
+      },
+      {
+        "name": "Jesús Gámez",
+        "matches": 13
+      },
+      {
+        "name": "Guilherme Siqueira",
+        "matches": 7
+      },
+      {
+        "name": "Matías Kranevitter",
+        "matches": 5
+      },
+      {
+        "name": "Nacho Monsalve",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Kévin Gameiro",
+        "matches": 27
+      },
+      {
+        "name": "Sime Vrsaljko",
+        "matches": 21
+      },
+      {
+        "name": "Nico Gaitán",
+        "matches": 19
+      },
+      {
+        "name": "Caio Henrique",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Koke",
+        "player2": "Luciano Vietto",
+        "weight": 16
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Luciano Vietto",
+        "weight": 15
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Luciano Vietto",
+        "weight": 15
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Luciano Vietto",
+        "weight": 15
+      },
+      {
+        "player1": "Juanfran Torres",
+        "player2": "Luciano Vietto",
+        "weight": 15
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Luciano Vietto",
+        "weight": 14
+      },
+      {
+        "player1": "José María Giménez",
+        "player2": "Luciano Vietto",
+        "weight": 13
+      },
+      {
+        "player1": "Gabi",
+        "player2": "Luciano Vietto",
+        "weight": 13
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Luciano Vietto",
+        "weight": 13
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Jackson Martínez",
+        "weight": 13
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Kévin Gameiro",
+        "weight": 25
+      },
+      {
+        "player1": "Gabi",
+        "player2": "Kévin Gameiro",
+        "weight": 25
+      },
+      {
+        "player1": "Koke",
+        "player2": "Kévin Gameiro",
+        "weight": 25
+      },
+      {
+        "player1": "Filipe Luís",
+        "player2": "Kévin Gameiro",
+        "weight": 23
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Kévin Gameiro",
+        "weight": 21
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Kévin Gameiro",
+        "weight": 21
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Kévin Gameiro",
+        "weight": 20
+      },
+      {
+        "player1": "Stefan Savic",
+        "player2": "Kévin Gameiro",
+        "weight": 20
+      },
+      {
+        "player1": "Sime Vrsaljko",
+        "player2": "Koke",
+        "weight": 19
+      },
+      {
+        "player1": "Sime Vrsaljko",
+        "player2": "Antoine Griezmann",
+        "weight": 19
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2016_2017",
+    "season_to": "2017_2018",
+    "v_score": 0.31,
+    "e_score": 0.447,
+    "stats": {
+      "total_players_t": 22,
+      "total_players_t1": 27,
+      "total_edges_t": 211,
+      "total_edges_t1": 300
+    },
+    "players_left": [
+      {
+        "name": "Tiago Mendes",
+        "matches": 6
+      },
+      {
+        "name": "Caio Henrique",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Diego Costa",
+        "matches": 20
+      },
+      {
+        "name": "Vitolo",
+        "matches": 13
+      },
+      {
+        "name": "Luciano Vietto",
+        "matches": 7
+      },
+      {
+        "name": "Sergi González",
+        "matches": 3
+      },
+      {
+        "name": "Axel Werner",
+        "matches": 3
+      },
+      {
+        "name": "Keidi Bare",
+        "matches": 1
+      },
+      {
+        "name": "Carlos Isaac",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Filipe Luís",
+        "player2": "Miguel Ángel Moyá",
+        "weight": 12
+      },
+      {
+        "player1": "Juanfran Torres",
+        "player2": "Nico Gaitán",
+        "weight": 11
+      },
+      {
+        "player1": "Tiago Mendes",
+        "player2": "Koke",
+        "weight": 6
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Tiago Mendes",
+        "weight": 6
+      },
+      {
+        "player1": "Tiago Mendes",
+        "player2": "Gabi",
+        "weight": 6
+      },
+      {
+        "player1": "Tiago Mendes",
+        "player2": "Antoine Griezmann",
+        "weight": 5
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Tiago Mendes",
+        "weight": 5
+      },
+      {
+        "player1": "Tiago Mendes",
+        "player2": "Kévin Gameiro",
+        "weight": 5
+      },
+      {
+        "player1": "Tiago Mendes",
+        "player2": "Juanfran Torres",
+        "weight": 4
+      },
+      {
+        "player1": "Yannick Carrasco",
+        "player2": "Tiago Mendes",
+        "weight": 4
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Diego Costa",
+        "weight": 18
+      },
+      {
+        "player1": "Diego Costa",
+        "player2": "Koke",
+        "weight": 18
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Diego Costa",
+        "weight": 17
+      },
+      {
+        "player1": "Diego Costa",
+        "player2": "Lucas Hernández",
+        "weight": 16
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Diego Costa",
+        "weight": 16
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Diego Costa",
+        "weight": 14
+      },
+      {
+        "player1": "Diego Costa",
+        "player2": "Gabi",
+        "weight": 13
+      },
+      {
+        "player1": "Vitolo",
+        "player2": "Lucas Hernández",
+        "weight": 12
+      },
+      {
+        "player1": "Vitolo",
+        "player2": "Koke",
+        "weight": 11
+      },
+      {
+        "player1": "Diego Costa",
+        "player2": "Thomas Partey",
+        "weight": 11
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2017_2018",
+    "season_to": "2018_2019",
+    "v_score": 0.595,
+    "e_score": 0.794,
+    "stats": {
+      "total_players_t": 27,
+      "total_players_t1": 25,
+      "total_edges_t": 300,
+      "total_edges_t1": 257
+    },
+    "players_left": [
+      {
+        "name": "Gabi",
+        "matches": 38
+      },
+      {
+        "name": "Sime Vrsaljko",
+        "matches": 24
+      },
+      {
+        "name": "Kévin Gameiro",
+        "matches": 18
+      },
+      {
+        "name": "Fernando Torres",
+        "matches": 15
+      },
+      {
+        "name": "Yannick Carrasco",
+        "matches": 14
+      },
+      {
+        "name": "Miguel Ángel Moyá",
+        "matches": 7
+      },
+      {
+        "name": "Luciano Vietto",
+        "matches": 7
+      },
+      {
+        "name": "Augusto Fernández",
+        "matches": 6
+      },
+      {
+        "name": "Nico Gaitán",
+        "matches": 4
+      },
+      {
+        "name": "Sergi González",
+        "matches": 3
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Rodri",
+        "matches": 41
+      },
+      {
+        "name": "Thomas Lemar",
+        "matches": 31
+      },
+      {
+        "name": "Santiago Arias",
+        "matches": 28
+      },
+      {
+        "name": "Álvaro Morata",
+        "matches": 14
+      },
+      {
+        "name": "Nikola Kalinić",
+        "matches": 12
+      },
+      {
+        "name": "Javi Montero",
+        "matches": 7
+      },
+      {
+        "name": "Antonio Adán",
+        "matches": 5
+      },
+      {
+        "name": "Gelson Martins",
+        "matches": 4
+      },
+      {
+        "name": "Toni Moya",
+        "matches": 2
+      },
+      {
+        "name": "Andrés Solano",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Gabi",
+        "weight": 34
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Gabi",
+        "weight": 33
+      },
+      {
+        "player1": "Koke",
+        "player2": "Gabi",
+        "weight": 31
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Gabi",
+        "weight": 30
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Gabi",
+        "weight": 30
+      },
+      {
+        "player1": "Stefan Savic",
+        "player2": "Gabi",
+        "weight": 25
+      },
+      {
+        "player1": "Gabi",
+        "player2": "Lucas Hernández",
+        "weight": 22
+      },
+      {
+        "player1": "Thomas Partey",
+        "player2": "Gabi",
+        "weight": 22
+      },
+      {
+        "player1": "Ángel Correa",
+        "player2": "Gabi",
+        "weight": 22
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Sime Vrsaljko",
+        "weight": 21
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Rodri",
+        "weight": 39
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Rodri",
+        "weight": 38
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Rodri",
+        "weight": 34
+      },
+      {
+        "player1": "Koke",
+        "player2": "Rodri",
+        "weight": 31
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Thomas Lemar",
+        "weight": 29
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Rodri",
+        "weight": 28
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Thomas Lemar",
+        "weight": 27
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Thomas Lemar",
+        "weight": 25
+      },
+      {
+        "player1": "Koke",
+        "player2": "Thomas Lemar",
+        "weight": 24
+      },
+      {
+        "player1": "Thomas Lemar",
+        "player2": "Rodri",
+        "weight": 24
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2018_2019",
+    "season_to": "2019_2020",
+    "v_score": 0.629,
+    "e_score": 0.835,
+    "stats": {
+      "total_players_t": 25,
+      "total_players_t1": 23,
+      "total_edges_t": 257,
+      "total_edges_t1": 230
+    },
+    "players_left": [
+      {
+        "name": "Antoine Griezmann",
+        "matches": 47
+      },
+      {
+        "name": "Rodri",
+        "matches": 41
+      },
+      {
+        "name": "Diego Godín",
+        "matches": 37
+      },
+      {
+        "name": "Filipe Luís",
+        "matches": 28
+      },
+      {
+        "name": "Juanfran Torres",
+        "matches": 26
+      },
+      {
+        "name": "Lucas Hernández",
+        "matches": 20
+      },
+      {
+        "name": "Nikola Kalinić",
+        "matches": 12
+      },
+      {
+        "name": "Javi Montero",
+        "matches": 7
+      },
+      {
+        "name": "Gelson Martins",
+        "matches": 4
+      },
+      {
+        "name": "Toni Moya",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Renan Lodi",
+        "matches": 39
+      },
+      {
+        "name": "Felipe",
+        "matches": 33
+      },
+      {
+        "name": "Kieran Trippier",
+        "matches": 31
+      },
+      {
+        "name": "João Félix",
+        "matches": 28
+      },
+      {
+        "name": "Mario Hermoso",
+        "matches": 19
+      },
+      {
+        "name": "Héctor Herrera",
+        "matches": 18
+      },
+      {
+        "name": "Marcos Llorente",
+        "matches": 18
+      },
+      {
+        "name": "Yannick Carrasco",
+        "matches": 7
+      },
+      {
+        "name": "Sime Vrsaljko",
+        "matches": 5
+      },
+      {
+        "name": "Manu Sánchez",
+        "matches": 5
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Jan Oblak",
+        "player2": "Antoine Griezmann",
+        "weight": 45
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Antoine Griezmann",
+        "weight": 40
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Rodri",
+        "weight": 39
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Rodri",
+        "weight": 38
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Koke",
+        "weight": 37
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Antoine Griezmann",
+        "weight": 35
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Rodri",
+        "weight": 34
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Diego Godín",
+        "weight": 34
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Diego Godín",
+        "weight": 33
+      },
+      {
+        "player1": "Diego Godín",
+        "player2": "Koke",
+        "weight": 32
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Jan Oblak",
+        "player2": "Renan Lodi",
+        "weight": 39
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Renan Lodi",
+        "weight": 37
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Felipe",
+        "weight": 32
+      },
+      {
+        "player1": "Thomas Partey",
+        "player2": "Renan Lodi",
+        "weight": 32
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Felipe",
+        "weight": 31
+      },
+      {
+        "player1": "Koke",
+        "player2": "Renan Lodi",
+        "weight": 31
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Kieran Trippier",
+        "weight": 31
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Kieran Trippier",
+        "weight": 28
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "João Félix",
+        "weight": 27
+      },
+      {
+        "player1": "Thomas Partey",
+        "player2": "Felipe",
+        "weight": 27
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2019_2020",
+    "season_to": "2020_2021",
+    "v_score": 0.31,
+    "e_score": 0.497,
+    "stats": {
+      "total_players_t": 23,
+      "total_players_t1": 26,
+      "total_edges_t": 230,
+      "total_edges_t1": 248
+    },
+    "players_left": [
+      {
+        "name": "Álvaro Morata",
+        "matches": 32
+      },
+      {
+        "name": "Santiago Arias",
+        "matches": 14
+      },
+      {
+        "name": "Antonio Adán",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Luis Suárez",
+        "matches": 36
+      },
+      {
+        "name": "Geoffrey Kondogbia",
+        "matches": 6
+      },
+      {
+        "name": "Lucas Torreira",
+        "matches": 5
+      },
+      {
+        "name": "Ricard Sánchez",
+        "matches": 2
+      },
+      {
+        "name": "Miguel San Román",
+        "matches": 1
+      },
+      {
+        "name": "Ivo Grbic",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Jan Oblak",
+        "player2": "Álvaro Morata",
+        "weight": 32
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Álvaro Morata",
+        "weight": 29
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Thomas Partey",
+        "weight": 29
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Koke",
+        "weight": 24
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Felipe",
+        "weight": 24
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Renan Lodi",
+        "weight": 23
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Kieran Trippier",
+        "weight": 22
+      },
+      {
+        "player1": "Ángel Correa",
+        "player2": "Álvaro Morata",
+        "weight": 20
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "João Félix",
+        "weight": 19
+      },
+      {
+        "player1": "José María Giménez",
+        "player2": "Thomas Partey",
+        "weight": 17
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Jan Oblak",
+        "player2": "Luis Suárez",
+        "weight": 36
+      },
+      {
+        "player1": "Luis Suárez",
+        "player2": "Marcos Llorente",
+        "weight": 33
+      },
+      {
+        "player1": "Koke",
+        "player2": "Luis Suárez",
+        "weight": 31
+      },
+      {
+        "player1": "Stefan Savic",
+        "player2": "Luis Suárez",
+        "weight": 31
+      },
+      {
+        "player1": "Mario Hermoso",
+        "player2": "Luis Suárez",
+        "weight": 28
+      },
+      {
+        "player1": "Felipe",
+        "player2": "Luis Suárez",
+        "weight": 25
+      },
+      {
+        "player1": "Kieran Trippier",
+        "player2": "Luis Suárez",
+        "weight": 25
+      },
+      {
+        "player1": "Ángel Correa",
+        "player2": "Luis Suárez",
+        "weight": 24
+      },
+      {
+        "player1": "Yannick Carrasco",
+        "player2": "Luis Suárez",
+        "weight": 22
+      },
+      {
+        "player1": "Luis Suárez",
+        "player2": "Thomas Lemar",
+        "weight": 19
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2020_2021",
+    "season_to": "2021_2022",
+    "v_score": 0.419,
+    "e_score": 0.58,
+    "stats": {
+      "total_players_t": 26,
+      "total_players_t1": 23,
+      "total_edges_t": 248,
+      "total_edges_t1": 225
+    },
+    "players_left": [
+      {
+        "name": "Lucas Torreira",
+        "matches": 5
+      },
+      {
+        "name": "Vitolo",
+        "matches": 5
+      },
+      {
+        "name": "Diego Costa",
+        "matches": 2
+      },
+      {
+        "name": "Ricard Sánchez",
+        "matches": 2
+      },
+      {
+        "name": "Thomas Partey",
+        "matches": 2
+      },
+      {
+        "name": "Miguel San Román",
+        "matches": 1
+      },
+      {
+        "name": "Manu Sánchez",
+        "matches": 1
+      },
+      {
+        "name": "Ivo Grbic",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Rodrigo De Paul",
+        "matches": 31
+      },
+      {
+        "name": "Antoine Griezmann",
+        "matches": 27
+      },
+      {
+        "name": "Reinildo Mandava",
+        "matches": 19
+      },
+      {
+        "name": "Matheus Cunha",
+        "matches": 9
+      },
+      {
+        "name": "Javi Serrano",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Kieran Trippier",
+        "weight": 21
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Luis Suárez",
+        "weight": 19
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Felipe",
+        "weight": 18
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "João Félix",
+        "weight": 14
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Renan Lodi",
+        "weight": 14
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Héctor Herrera",
+        "weight": 7
+      },
+      {
+        "player1": "Vitolo",
+        "player2": "Felipe",
+        "weight": 4
+      },
+      {
+        "player1": "Ángel Correa",
+        "player2": "Lucas Torreira",
+        "weight": 4
+      },
+      {
+        "player1": "Saúl Ñíguez",
+        "player2": "Vitolo",
+        "weight": 4
+      },
+      {
+        "player1": "Ángel Correa",
+        "player2": "Vitolo",
+        "weight": 4
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Jan Oblak",
+        "player2": "Rodrigo De Paul",
+        "weight": 31
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Antoine Griezmann",
+        "weight": 27
+      },
+      {
+        "player1": "Koke",
+        "player2": "Rodrigo De Paul",
+        "weight": 25
+      },
+      {
+        "player1": "Yannick Carrasco",
+        "player2": "Rodrigo De Paul",
+        "weight": 24
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Koke",
+        "weight": 22
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Stefan Savic",
+        "weight": 21
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Marcos Llorente",
+        "weight": 21
+      },
+      {
+        "player1": "Rodrigo De Paul",
+        "player2": "Marcos Llorente",
+        "weight": 20
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Rodrigo De Paul",
+        "weight": 19
+      },
+      {
+        "player1": "Stefan Savic",
+        "player2": "Rodrigo De Paul",
+        "weight": 19
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2021_2022",
+    "season_to": "2022_2023",
+    "v_score": 0.433,
+    "e_score": 0.647,
+    "stats": {
+      "total_players_t": 23,
+      "total_players_t1": 24,
+      "total_edges_t": 225,
+      "total_edges_t1": 243
+    },
+    "players_left": [
+      {
+        "name": "Luis Suárez",
+        "matches": 26
+      },
+      {
+        "name": "Renan Lodi",
+        "matches": 19
+      },
+      {
+        "name": "Kieran Trippier",
+        "matches": 15
+      },
+      {
+        "name": "Sime Vrsaljko",
+        "matches": 15
+      },
+      {
+        "name": "Héctor Herrera",
+        "matches": 11
+      },
+      {
+        "name": "Javi Serrano",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Nahuel Molina",
+        "matches": 43
+      },
+      {
+        "name": "Axel Witsel",
+        "matches": 33
+      },
+      {
+        "name": "Álvaro Morata",
+        "matches": 31
+      },
+      {
+        "name": "Ivo Grbic",
+        "matches": 11
+      },
+      {
+        "name": "Pablo Barrios",
+        "matches": 8
+      },
+      {
+        "name": "Memphis Depay",
+        "matches": 3
+      },
+      {
+        "name": "Sergio Reguilón",
+        "matches": 2
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Jan Oblak",
+        "player2": "Luis Suárez",
+        "weight": 26
+      },
+      {
+        "player1": "Yannick Carrasco",
+        "player2": "Luis Suárez",
+        "weight": 24
+      },
+      {
+        "player1": "Koke",
+        "player2": "Luis Suárez",
+        "weight": 21
+      },
+      {
+        "player1": "Mario Hermoso",
+        "player2": "Luis Suárez",
+        "weight": 20
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Renan Lodi",
+        "weight": 19
+      },
+      {
+        "player1": "José María Giménez",
+        "player2": "Luis Suárez",
+        "weight": 18
+      },
+      {
+        "player1": "Luis Suárez",
+        "player2": "Marcos Llorente",
+        "weight": 17
+      },
+      {
+        "player1": "Rodrigo De Paul",
+        "player2": "Luis Suárez",
+        "weight": 16
+      },
+      {
+        "player1": "Renan Lodi",
+        "player2": "Marcos Llorente",
+        "weight": 15
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Kieran Trippier",
+        "weight": 15
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Nahuel Molina",
+        "player2": "Antoine Griezmann",
+        "weight": 36
+      },
+      {
+        "player1": "Nahuel Molina",
+        "player2": "Koke",
+        "weight": 33
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Nahuel Molina",
+        "weight": 32
+      },
+      {
+        "player1": "Nahuel Molina",
+        "player2": "Mario Hermoso",
+        "weight": 28
+      },
+      {
+        "player1": "Axel Witsel",
+        "player2": "Nahuel Molina",
+        "weight": 28
+      },
+      {
+        "player1": "José María Giménez",
+        "player2": "Nahuel Molina",
+        "weight": 28
+      },
+      {
+        "player1": "Nahuel Molina",
+        "player2": "Reinildo Mandava",
+        "weight": 28
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Nahuel Molina",
+        "weight": 27
+      },
+      {
+        "player1": "Nahuel Molina",
+        "player2": "Stefan Savic",
+        "weight": 26
+      },
+      {
+        "player1": "Yannick Carrasco",
+        "player2": "Nahuel Molina",
+        "weight": 26
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2022_2023",
+    "season_to": "2023_2024",
+    "v_score": 0.419,
+    "e_score": 0.616,
+    "stats": {
+      "total_players_t": 24,
+      "total_players_t1": 25,
+      "total_edges_t": 243,
+      "total_edges_t1": 262
+    },
+    "players_left": [
+      {
+        "name": "Geoffrey Kondogbia",
+        "matches": 13
+      },
+      {
+        "name": "João Félix",
+        "matches": 11
+      },
+      {
+        "name": "Ivo Grbic",
+        "matches": 11
+      },
+      {
+        "name": "Felipe",
+        "matches": 3
+      },
+      {
+        "name": "Matheus Cunha",
+        "matches": 2
+      },
+      {
+        "name": "Sergio Reguilón",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Samuel Lino",
+        "matches": 36
+      },
+      {
+        "name": "Rodrigo Riquelme",
+        "matches": 20
+      },
+      {
+        "name": "César Azpilicueta",
+        "matches": 18
+      },
+      {
+        "name": "Gabriel Paulista",
+        "matches": 5
+      },
+      {
+        "name": "Javi Galán",
+        "matches": 2
+      },
+      {
+        "name": "Arthur Vermeeren",
+        "matches": 2
+      },
+      {
+        "name": "Çağlar Söyüncü",
+        "matches": 2
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Yannick Carrasco",
+        "player2": "José María Giménez",
+        "weight": 25
+      },
+      {
+        "player1": "Nahuel Molina",
+        "player2": "Thomas Lemar",
+        "weight": 19
+      },
+      {
+        "player1": "José María Giménez",
+        "player2": "Thomas Lemar",
+        "weight": 14
+      },
+      {
+        "player1": "Yannick Carrasco",
+        "player2": "Reinildo Mandava",
+        "weight": 14
+      },
+      {
+        "player1": "Reinildo Mandava",
+        "player2": "Geoffrey Kondogbia",
+        "weight": 12
+      },
+      {
+        "player1": "Reinildo Mandava",
+        "player2": "Thomas Lemar",
+        "weight": 11
+      },
+      {
+        "player1": "Nahuel Molina",
+        "player2": "Ivo Grbic",
+        "weight": 11
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Geoffrey Kondogbia",
+        "weight": 11
+      },
+      {
+        "player1": "Axel Witsel",
+        "player2": "Ivo Grbic",
+        "weight": 11
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Geoffrey Kondogbia",
+        "weight": 10
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Jan Oblak",
+        "player2": "Samuel Lino",
+        "weight": 36
+      },
+      {
+        "player1": "Koke",
+        "player2": "Samuel Lino",
+        "weight": 33
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Samuel Lino",
+        "weight": 29
+      },
+      {
+        "player1": "Axel Witsel",
+        "player2": "Samuel Lino",
+        "weight": 29
+      },
+      {
+        "player1": "Samuel Lino",
+        "player2": "Marcos Llorente",
+        "weight": 28
+      },
+      {
+        "player1": "Samuel Lino",
+        "player2": "Rodrigo De Paul",
+        "weight": 26
+      },
+      {
+        "player1": "Mario Hermoso",
+        "player2": "Samuel Lino",
+        "weight": 25
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Samuel Lino",
+        "weight": 21
+      },
+      {
+        "player1": "Nahuel Molina",
+        "player2": "Samuel Lino",
+        "weight": 20
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Rodrigo Riquelme",
+        "weight": 20
+      }
+    ]
+  },
+  {
+    "club": "atletico_madryt",
+    "season_from": "2023_2024",
+    "season_to": "2024_2025",
+    "v_score": 0.559,
+    "e_score": 0.756,
+    "stats": {
+      "total_players_t": 25,
+      "total_players_t1": 24,
+      "total_edges_t": 262,
+      "total_edges_t1": 248
+    },
+    "players_left": [
+      {
+        "name": "Mario Hermoso",
+        "matches": 42
+      },
+      {
+        "name": "Álvaro Morata",
+        "matches": 33
+      },
+      {
+        "name": "Stefan Savic",
+        "matches": 26
+      },
+      {
+        "name": "Saúl Ñíguez",
+        "matches": 23
+      },
+      {
+        "name": "Memphis Depay",
+        "matches": 11
+      },
+      {
+        "name": "Gabriel Paulista",
+        "matches": 5
+      },
+      {
+        "name": "Yannick Carrasco",
+        "matches": 3
+      },
+      {
+        "name": "Thomas Lemar",
+        "matches": 3
+      },
+      {
+        "name": "Arthur Vermeeren",
+        "matches": 2
+      },
+      {
+        "name": "Çağlar Söyüncü",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Julián Alvarez",
+        "matches": 47
+      },
+      {
+        "name": "Giuliano Simeone",
+        "matches": 41
+      },
+      {
+        "name": "Robin Le Normand",
+        "matches": 34
+      },
+      {
+        "name": "Clément Lenglet",
+        "matches": 34
+      },
+      {
+        "name": "Conor Gallagher",
+        "matches": 28
+      },
+      {
+        "name": "Alexander Sørloth",
+        "matches": 22
+      },
+      {
+        "name": "Juan Musso",
+        "matches": 9
+      },
+      {
+        "name": "Javi Serrano",
+        "matches": 1
+      },
+      {
+        "name": "Ilias Kostis",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Jan Oblak",
+        "player2": "Mario Hermoso",
+        "weight": 42
+      },
+      {
+        "player1": "Axel Witsel",
+        "player2": "Mario Hermoso",
+        "weight": 37
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Mario Hermoso",
+        "weight": 37
+      },
+      {
+        "player1": "Mario Hermoso",
+        "player2": "Koke",
+        "weight": 35
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Álvaro Morata",
+        "weight": 33
+      },
+      {
+        "player1": "Mario Hermoso",
+        "player2": "Marcos Llorente",
+        "weight": 32
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Axel Witsel",
+        "weight": 30
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Mario Hermoso",
+        "weight": 29
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Antoine Griezmann",
+        "weight": 29
+      },
+      {
+        "player1": "Álvaro Morata",
+        "player2": "Koke",
+        "weight": 29
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Jan Oblak",
+        "player2": "Julián Alvarez",
+        "weight": 41
+      },
+      {
+        "player1": "Rodrigo De Paul",
+        "player2": "Julián Alvarez",
+        "weight": 37
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Giuliano Simeone",
+        "weight": 36
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Julián Alvarez",
+        "weight": 36
+      },
+      {
+        "player1": "Giuliano Simeone",
+        "player2": "Julián Alvarez",
+        "weight": 36
+      },
+      {
+        "player1": "Julián Alvarez",
+        "player2": "Marcos Llorente",
+        "weight": 35
+      },
+      {
+        "player1": "Giuliano Simeone",
+        "player2": "Pablo Barrios",
+        "weight": 34
+      },
+      {
+        "player1": "Julián Alvarez",
+        "player2": "Pablo Barrios",
+        "weight": 34
+      },
+      {
+        "player1": "Jan Oblak",
+        "player2": "Clément Lenglet",
+        "weight": 31
+      },
+      {
+        "player1": "Giuliano Simeone",
+        "player2": "Rodrigo De Paul",
+        "weight": 31
+      }
+    ]
+  }
+]

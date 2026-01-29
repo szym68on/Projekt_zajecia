@@ -1,0 +1,3481 @@
+[
+  {
+    "club": "fc_barcelona",
+    "season_from": "2005_2006",
+    "season_to": "2006_2007",
+    "v_score": 0.4,
+    "e_score": 0.565,
+    "stats": {
+      "total_players_t": 26,
+      "total_players_t1": 22,
+      "total_edges_t": 262,
+      "total_edges_t1": 226
+    },
+    "players_left": [
+      {
+        "name": "Mark van Bommel",
+        "matches": 26
+      },
+      {
+        "name": "Henrik Larsson",
+        "matches": 21
+      },
+      {
+        "name": "Gabri",
+        "matches": 8
+      },
+      {
+        "name": "Rodri",
+        "matches": 3
+      },
+      {
+        "name": "Maxi López",
+        "matches": 2
+      },
+      {
+        "name": "Andrea Orlandi",
+        "matches": 1
+      },
+      {
+        "name": "Ludovic Sylvestre",
+        "matches": 1
+      },
+      {
+        "name": "Jesús Olmo",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Gianluca Zambrotta",
+        "matches": 36
+      },
+      {
+        "name": "Lilian Thuram",
+        "matches": 28
+      },
+      {
+        "name": "Eidur Gudjohnsen",
+        "matches": 22
+      },
+      {
+        "name": "Javier Saviola",
+        "matches": 12
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Mark van Bommel",
+        "player2": "Víctor Valdés",
+        "weight": 24
+      },
+      {
+        "player1": "Mark van Bommel",
+        "player2": "Carles Puyol",
+        "weight": 23
+      },
+      {
+        "player1": "Mark van Bommel",
+        "player2": "Oleguer",
+        "weight": 21
+      },
+      {
+        "player1": "Samuel Eto'o",
+        "player2": "Mark van Bommel",
+        "weight": 21
+      },
+      {
+        "player1": "Mark van Bommel",
+        "player2": "Ronaldinho",
+        "weight": 19
+      },
+      {
+        "player1": "Henrik Larsson",
+        "player2": "Carles Puyol",
+        "weight": 17
+      },
+      {
+        "player1": "Henrik Larsson",
+        "player2": "Víctor Valdés",
+        "weight": 16
+      },
+      {
+        "player1": "Henrik Larsson",
+        "player2": "Oleguer",
+        "weight": 16
+      },
+      {
+        "player1": "Mark van Bommel",
+        "player2": "Giovanni van Bronckhorst",
+        "weight": 16
+      },
+      {
+        "player1": "Mark van Bommel",
+        "player2": "Deco",
+        "weight": 15
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Gianluca Zambrotta",
+        "player2": "Carles Puyol",
+        "weight": 34
+      },
+      {
+        "player1": "Gianluca Zambrotta",
+        "player2": "Víctor Valdés",
+        "weight": 32
+      },
+      {
+        "player1": "Gianluca Zambrotta",
+        "player2": "Deco",
+        "weight": 31
+      },
+      {
+        "player1": "Gianluca Zambrotta",
+        "player2": "Ronaldinho",
+        "weight": 30
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Gianluca Zambrotta",
+        "weight": 27
+      },
+      {
+        "player1": "Lilian Thuram",
+        "player2": "Víctor Valdés",
+        "weight": 26
+      },
+      {
+        "player1": "Gianluca Zambrotta",
+        "player2": "Andrés Iniesta",
+        "weight": 25
+      },
+      {
+        "player1": "Lilian Thuram",
+        "player2": "Ronaldinho",
+        "weight": 24
+      },
+      {
+        "player1": "Lilian Thuram",
+        "player2": "Carles Puyol",
+        "weight": 24
+      },
+      {
+        "player1": "Lilian Thuram",
+        "player2": "Andrés Iniesta",
+        "weight": 23
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2006_2007",
+    "season_to": "2007_2008",
+    "v_score": 0.452,
+    "e_score": 0.67,
+    "stats": {
+      "total_players_t": 22,
+      "total_players_t1": 26,
+      "total_edges_t": 226,
+      "total_edges_t1": 274
+    },
+    "players_left": [
+      {
+        "name": "Giovanni van Bronckhorst",
+        "matches": 31
+      },
+      {
+        "name": "Ludovic Giuly",
+        "matches": 27
+      },
+      {
+        "name": "Thiago Motta",
+        "matches": 19
+      },
+      {
+        "name": "Juliano Belletti",
+        "matches": 15
+      },
+      {
+        "name": "Javier Saviola",
+        "matches": 12
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Éric Abidal",
+        "matches": 43
+      },
+      {
+        "name": "Gabriel Milito",
+        "matches": 41
+      },
+      {
+        "name": "Thierry Henry",
+        "matches": 40
+      },
+      {
+        "name": "Yaya Touré",
+        "matches": 37
+      },
+      {
+        "name": "Bojan Krkic",
+        "matches": 20
+      },
+      {
+        "name": "Giovani dos Santos",
+        "matches": 16
+      },
+      {
+        "name": "José Manuel Pinto",
+        "matches": 3
+      },
+      {
+        "name": "Oier Olazábal",
+        "matches": 1
+      },
+      {
+        "name": "Víctor Sánchez",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Carles Puyol",
+        "player2": "Giovanni van Bronckhorst",
+        "weight": 29
+      },
+      {
+        "player1": "Giovanni van Bronckhorst",
+        "player2": "Víctor Valdés",
+        "weight": 26
+      },
+      {
+        "player1": "Ludovic Giuly",
+        "player2": "Carles Puyol",
+        "weight": 26
+      },
+      {
+        "player1": "Ronaldinho",
+        "player2": "Giovanni van Bronckhorst",
+        "weight": 25
+      },
+      {
+        "player1": "Deco",
+        "player2": "Giovanni van Bronckhorst",
+        "weight": 23
+      },
+      {
+        "player1": "Andrés Iniesta",
+        "player2": "Giovanni van Bronckhorst",
+        "weight": 22
+      },
+      {
+        "player1": "Ludovic Giuly",
+        "player2": "Víctor Valdés",
+        "weight": 22
+      },
+      {
+        "player1": "Gianluca Zambrotta",
+        "player2": "Giovanni van Bronckhorst",
+        "weight": 22
+      },
+      {
+        "player1": "Ludovic Giuly",
+        "player2": "Andrés Iniesta",
+        "weight": 21
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Giovanni van Bronckhorst",
+        "weight": 20
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Éric Abidal",
+        "player2": "Víctor Valdés",
+        "weight": 41
+      },
+      {
+        "player1": "Gabriel Milito",
+        "player2": "Víctor Valdés",
+        "weight": 40
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Éric Abidal",
+        "weight": 38
+      },
+      {
+        "player1": "Thierry Henry",
+        "player2": "Víctor Valdés",
+        "weight": 36
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Gabriel Milito",
+        "weight": 36
+      },
+      {
+        "player1": "Gabriel Milito",
+        "player2": "Andrés Iniesta",
+        "weight": 35
+      },
+      {
+        "player1": "Éric Abidal",
+        "player2": "Andrés Iniesta",
+        "weight": 34
+      },
+      {
+        "player1": "Yaya Touré",
+        "player2": "Víctor Valdés",
+        "weight": 34
+      },
+      {
+        "player1": "Gabriel Milito",
+        "player2": "Éric Abidal",
+        "weight": 33
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Thierry Henry",
+        "weight": 33
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2007_2008",
+    "season_to": "2008_2009",
+    "v_score": 0.514,
+    "e_score": 0.784,
+    "stats": {
+      "total_players_t": 26,
+      "total_players_t1": 26,
+      "total_edges_t": 274,
+      "total_edges_t1": 267
+    },
+    "players_left": [
+      {
+        "name": "Gabriel Milito",
+        "matches": 41
+      },
+      {
+        "name": "Gianluca Zambrotta",
+        "matches": 37
+      },
+      {
+        "name": "Lilian Thuram",
+        "matches": 25
+      },
+      {
+        "name": "Deco",
+        "matches": 24
+      },
+      {
+        "name": "Ronaldinho",
+        "matches": 20
+      },
+      {
+        "name": "Giovani dos Santos",
+        "matches": 16
+      },
+      {
+        "name": "Oleguer",
+        "matches": 9
+      },
+      {
+        "name": "Edmílson",
+        "matches": 7
+      },
+      {
+        "name": "Santiago Ezquerro",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Dani Alves",
+        "matches": 52
+      },
+      {
+        "name": "Gerard Piqué",
+        "matches": 44
+      },
+      {
+        "name": "Sergio Busquets",
+        "matches": 31
+      },
+      {
+        "name": "Seydou Keita",
+        "matches": 29
+      },
+      {
+        "name": "Aleksandr Hleb",
+        "matches": 19
+      },
+      {
+        "name": "Martín Cáceres",
+        "matches": 16
+      },
+      {
+        "name": "Pedro",
+        "matches": 6
+      },
+      {
+        "name": "Xavi Torres",
+        "matches": 2
+      },
+      {
+        "name": "Víctor Vázquez",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Gabriel Milito",
+        "player2": "Víctor Valdés",
+        "weight": 40
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Gabriel Milito",
+        "weight": 36
+      },
+      {
+        "player1": "Gianluca Zambrotta",
+        "player2": "Víctor Valdés",
+        "weight": 35
+      },
+      {
+        "player1": "Gabriel Milito",
+        "player2": "Andrés Iniesta",
+        "weight": 35
+      },
+      {
+        "player1": "Gabriel Milito",
+        "player2": "Éric Abidal",
+        "weight": 33
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Gianluca Zambrotta",
+        "weight": 31
+      },
+      {
+        "player1": "Gabriel Milito",
+        "player2": "Carles Puyol",
+        "weight": 31
+      },
+      {
+        "player1": "Gianluca Zambrotta",
+        "player2": "Yaya Touré",
+        "weight": 27
+      },
+      {
+        "player1": "Gianluca Zambrotta",
+        "player2": "Thierry Henry",
+        "weight": 27
+      },
+      {
+        "player1": "Gianluca Zambrotta",
+        "player2": "Carles Puyol",
+        "weight": 27
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Dani Alves",
+        "player2": "Víctor Valdés",
+        "weight": 43
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Dani Alves",
+        "weight": 43
+      },
+      {
+        "player1": "Samuel Eto'o",
+        "player2": "Dani Alves",
+        "weight": 39
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Lionel Messi",
+        "weight": 38
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Gerard Piqué",
+        "weight": 37
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Gerard Piqué",
+        "weight": 37
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Yaya Touré",
+        "weight": 36
+      },
+      {
+        "player1": "Gerard Piqué",
+        "player2": "Víctor Valdés",
+        "weight": 36
+      },
+      {
+        "player1": "Samuel Eto'o",
+        "player2": "Gerard Piqué",
+        "weight": 34
+      },
+      {
+        "player1": "Carles Puyol",
+        "player2": "Dani Alves",
+        "weight": 34
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2008_2009",
+    "season_to": "2009_2010",
+    "v_score": 0.529,
+    "e_score": 0.704,
+    "stats": {
+      "total_players_t": 26,
+      "total_players_t1": 24,
+      "total_edges_t": 267,
+      "total_edges_t1": 245
+    },
+    "players_left": [
+      {
+        "name": "Samuel Eto'o",
+        "matches": 46
+      },
+      {
+        "name": "Sylvinho",
+        "matches": 22
+      },
+      {
+        "name": "Aleksandr Hleb",
+        "matches": 19
+      },
+      {
+        "name": "Eidur Gudjohnsen",
+        "matches": 17
+      },
+      {
+        "name": "Martín Cáceres",
+        "matches": 16
+      },
+      {
+        "name": "Víctor Sánchez",
+        "matches": 6
+      },
+      {
+        "name": "Xavi Torres",
+        "matches": 2
+      },
+      {
+        "name": "Víctor Vázquez",
+        "matches": 1
+      },
+      {
+        "name": "Albert Jorquera",
+        "matches": 1
+      },
+      {
+        "name": "Oier Olazábal",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Zlatan Ibrahimović",
+        "matches": 37
+      },
+      {
+        "name": "Maxwell",
+        "matches": 33
+      },
+      {
+        "name": "Gabriel Milito",
+        "matches": 12
+      },
+      {
+        "name": "Dmytro Chygrynskyi",
+        "matches": 12
+      },
+      {
+        "name": "Jeffrén",
+        "matches": 8
+      },
+      {
+        "name": "Jonathan dos Santos",
+        "matches": 2
+      },
+      {
+        "name": "Gai Assulin",
+        "matches": 1
+      },
+      {
+        "name": "Thiago Alcántara",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Xavi",
+        "player2": "Samuel Eto'o",
+        "weight": 43
+      },
+      {
+        "player1": "Samuel Eto'o",
+        "player2": "Víctor Valdés",
+        "weight": 42
+      },
+      {
+        "player1": "Samuel Eto'o",
+        "player2": "Dani Alves",
+        "weight": 39
+      },
+      {
+        "player1": "Samuel Eto'o",
+        "player2": "Gerard Piqué",
+        "weight": 34
+      },
+      {
+        "player1": "Samuel Eto'o",
+        "player2": "Carles Puyol",
+        "weight": 33
+      },
+      {
+        "player1": "Samuel Eto'o",
+        "player2": "Lionel Messi",
+        "weight": 32
+      },
+      {
+        "player1": "Samuel Eto'o",
+        "player2": "Yaya Touré",
+        "weight": 31
+      },
+      {
+        "player1": "Samuel Eto'o",
+        "player2": "Thierry Henry",
+        "weight": 30
+      },
+      {
+        "player1": "Samuel Eto'o",
+        "player2": "Andrés Iniesta",
+        "weight": 29
+      },
+      {
+        "player1": "Samuel Eto'o",
+        "player2": "Éric Abidal",
+        "weight": 28
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Zlatan Ibrahimović",
+        "player2": "Víctor Valdés",
+        "weight": 36
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Zlatan Ibrahimović",
+        "weight": 33
+      },
+      {
+        "player1": "Carles Puyol",
+        "player2": "Zlatan Ibrahimović",
+        "weight": 32
+      },
+      {
+        "player1": "Maxwell",
+        "player2": "Víctor Valdés",
+        "weight": 30
+      },
+      {
+        "player1": "Zlatan Ibrahimović",
+        "player2": "Gerard Piqué",
+        "weight": 30
+      },
+      {
+        "player1": "Zlatan Ibrahimović",
+        "player2": "Lionel Messi",
+        "weight": 29
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Zlatan Ibrahimović",
+        "weight": 28
+      },
+      {
+        "player1": "Maxwell",
+        "player2": "Lionel Messi",
+        "weight": 26
+      },
+      {
+        "player1": "Maxwell",
+        "player2": "Dani Alves",
+        "weight": 25
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Maxwell",
+        "weight": 24
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2009_2010",
+    "season_to": "2010_2011",
+    "v_score": 0.472,
+    "e_score": 0.67,
+    "stats": {
+      "total_players_t": 24,
+      "total_players_t1": 31,
+      "total_edges_t": 245,
+      "total_edges_t1": 323
+    },
+    "players_left": [
+      {
+        "name": "Yaya Touré",
+        "matches": 30
+      },
+      {
+        "name": "Thierry Henry",
+        "matches": 23
+      },
+      {
+        "name": "Rafa Márquez",
+        "matches": 14
+      },
+      {
+        "name": "Dmytro Chygrynskyi",
+        "matches": 12
+      },
+      {
+        "name": "Gai Assulin",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "David Villa",
+        "matches": 48
+      },
+      {
+        "name": "Javier Mascherano",
+        "matches": 35
+      },
+      {
+        "name": "Adriano",
+        "matches": 23
+      },
+      {
+        "name": "Ibrahim Afellay",
+        "matches": 10
+      },
+      {
+        "name": "Andreu Fontàs",
+        "matches": 7
+      },
+      {
+        "name": "Marc Bartra",
+        "matches": 4
+      },
+      {
+        "name": "Nolito",
+        "matches": 2
+      },
+      {
+        "name": "Sergi Roberto",
+        "matches": 1
+      },
+      {
+        "name": "Rubén Miño",
+        "matches": 1
+      },
+      {
+        "name": "Sergi Gómez",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Zlatan Ibrahimović",
+        "player2": "Víctor Valdés",
+        "weight": 36
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Zlatan Ibrahimović",
+        "weight": 33
+      },
+      {
+        "player1": "Carles Puyol",
+        "player2": "Zlatan Ibrahimović",
+        "weight": 32
+      },
+      {
+        "player1": "Zlatan Ibrahimović",
+        "player2": "Gerard Piqué",
+        "weight": 30
+      },
+      {
+        "player1": "Zlatan Ibrahimović",
+        "player2": "Lionel Messi",
+        "weight": 29
+      },
+      {
+        "player1": "Yaya Touré",
+        "player2": "Víctor Valdés",
+        "weight": 29
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Zlatan Ibrahimović",
+        "weight": 23
+      },
+      {
+        "player1": "Carles Puyol",
+        "player2": "Yaya Touré",
+        "weight": 23
+      },
+      {
+        "player1": "Thierry Henry",
+        "player2": "Víctor Valdés",
+        "weight": 22
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Yaya Touré",
+        "weight": 22
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Andrés Iniesta",
+        "player2": "David Villa",
+        "weight": 43
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "David Villa",
+        "weight": 43
+      },
+      {
+        "player1": "David Villa",
+        "player2": "Lionel Messi",
+        "weight": 42
+      },
+      {
+        "player1": "Xavi",
+        "player2": "David Villa",
+        "weight": 41
+      },
+      {
+        "player1": "David Villa",
+        "player2": "Víctor Valdés",
+        "weight": 40
+      },
+      {
+        "player1": "Gerard Piqué",
+        "player2": "David Villa",
+        "weight": 40
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "David Villa",
+        "weight": 39
+      },
+      {
+        "player1": "Pedro",
+        "player2": "David Villa",
+        "weight": 34
+      },
+      {
+        "player1": "Éric Abidal",
+        "player2": "David Villa",
+        "weight": 28
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Javier Mascherano",
+        "weight": 27
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2010_2011",
+    "season_to": "2011_2012",
+    "v_score": 0.361,
+    "e_score": 0.584,
+    "stats": {
+      "total_players_t": 31,
+      "total_players_t1": 28,
+      "total_edges_t": 323,
+      "total_edges_t1": 307
+    },
+    "players_left": [
+      {
+        "name": "Bojan Krkic",
+        "matches": 17
+      },
+      {
+        "name": "Gabriel Milito",
+        "matches": 12
+      },
+      {
+        "name": "Jeffrén",
+        "matches": 6
+      },
+      {
+        "name": "Nolito",
+        "matches": 2
+      },
+      {
+        "name": "Rubén Miño",
+        "matches": 1
+      },
+      {
+        "name": "Sergi Gómez",
+        "matches": 1
+      },
+      {
+        "name": "Oriol Romeu",
+        "matches": 1
+      },
+      {
+        "name": "Zlatan Ibrahimović",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Cesc Fàbregas",
+        "matches": 38
+      },
+      {
+        "name": "Alexis Sánchez",
+        "matches": 31
+      },
+      {
+        "name": "Isaac Cuenca",
+        "matches": 20
+      },
+      {
+        "name": "Cristian Tello",
+        "matches": 4
+      },
+      {
+        "name": "Rafinha",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Maxwell",
+        "player2": "Bojan Krkic",
+        "weight": 13
+      },
+      {
+        "player1": "Bojan Krkic",
+        "player2": "Javier Mascherano",
+        "weight": 13
+      },
+      {
+        "player1": "Seydou Keita",
+        "player2": "Bojan Krkic",
+        "weight": 12
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Bojan Krkic",
+        "weight": 10
+      },
+      {
+        "player1": "Bojan Krkic",
+        "player2": "Gerard Piqué",
+        "weight": 9
+      },
+      {
+        "player1": "Seydou Keita",
+        "player2": "Gabriel Milito",
+        "weight": 9
+      },
+      {
+        "player1": "Gabriel Milito",
+        "player2": "Dani Alves",
+        "weight": 9
+      },
+      {
+        "player1": "Gabriel Milito",
+        "player2": "Bojan Krkic",
+        "weight": 9
+      },
+      {
+        "player1": "Maxwell",
+        "player2": "Adriano",
+        "weight": 9
+      },
+      {
+        "player1": "Gabriel Milito",
+        "player2": "Javier Mascherano",
+        "weight": 9
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Cesc Fàbregas",
+        "player2": "Lionel Messi",
+        "weight": 33
+      },
+      {
+        "player1": "Cesc Fàbregas",
+        "player2": "Víctor Valdés",
+        "weight": 31
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Cesc Fàbregas",
+        "weight": 31
+      },
+      {
+        "player1": "Carles Puyol",
+        "player2": "Cesc Fàbregas",
+        "weight": 30
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Cesc Fàbregas",
+        "weight": 29
+      },
+      {
+        "player1": "Alexis Sánchez",
+        "player2": "Lionel Messi",
+        "weight": 29
+      },
+      {
+        "player1": "Javier Mascherano",
+        "player2": "Cesc Fàbregas",
+        "weight": 27
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Cesc Fàbregas",
+        "weight": 26
+      },
+      {
+        "player1": "Alexis Sánchez",
+        "player2": "Víctor Valdés",
+        "weight": 24
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Alexis Sánchez",
+        "weight": 23
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2011_2012",
+    "season_to": "2012_2013",
+    "v_score": 0.258,
+    "e_score": 0.528,
+    "stats": {
+      "total_players_t": 28,
+      "total_players_t1": 26,
+      "total_edges_t": 307,
+      "total_edges_t1": 267
+    },
+    "players_left": [
+      {
+        "name": "Seydou Keita",
+        "matches": 22
+      },
+      {
+        "name": "Isaac Cuenca",
+        "matches": 20
+      },
+      {
+        "name": "Maxwell",
+        "matches": 6
+      },
+      {
+        "name": "Andreu Fontàs",
+        "matches": 5
+      },
+      {
+        "name": "Ibrahim Afellay",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Jordi Alba",
+        "matches": 41
+      },
+      {
+        "name": "Alex Song",
+        "matches": 25
+      },
+      {
+        "name": "Carles Planas",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Éric Abidal",
+        "player2": "Lionel Messi",
+        "weight": 35
+      },
+      {
+        "player1": "Éric Abidal",
+        "player2": "Javier Mascherano",
+        "weight": 27
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Éric Abidal",
+        "weight": 27
+      },
+      {
+        "player1": "Carles Puyol",
+        "player2": "Éric Abidal",
+        "weight": 20
+      },
+      {
+        "player1": "Seydou Keita",
+        "player2": "Víctor Valdés",
+        "weight": 19
+      },
+      {
+        "player1": "Seydou Keita",
+        "player2": "Lionel Messi",
+        "weight": 19
+      },
+      {
+        "player1": "Seydou Keita",
+        "player2": "Javier Mascherano",
+        "weight": 18
+      },
+      {
+        "player1": "Seydou Keita",
+        "player2": "Dani Alves",
+        "weight": 16
+      },
+      {
+        "player1": "Carles Puyol",
+        "player2": "Isaac Cuenca",
+        "weight": 15
+      },
+      {
+        "player1": "Isaac Cuenca",
+        "player2": "Javier Mascherano",
+        "weight": 15
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Jordi Alba",
+        "player2": "Lionel Messi",
+        "weight": 35
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Jordi Alba",
+        "weight": 34
+      },
+      {
+        "player1": "Andrés Iniesta",
+        "player2": "Jordi Alba",
+        "weight": 33
+      },
+      {
+        "player1": "Jordi Alba",
+        "player2": "Víctor Valdés",
+        "weight": 33
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Jordi Alba",
+        "weight": 32
+      },
+      {
+        "player1": "Pedro",
+        "player2": "Jordi Alba",
+        "weight": 32
+      },
+      {
+        "player1": "Jordi Alba",
+        "player2": "Gerard Piqué",
+        "weight": 32
+      },
+      {
+        "player1": "Jordi Alba",
+        "player2": "Cesc Fàbregas",
+        "weight": 28
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Jordi Alba",
+        "weight": 28
+      },
+      {
+        "player1": "Jordi Alba",
+        "player2": "Javier Mascherano",
+        "weight": 24
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2012_2013",
+    "season_to": "2013_2014",
+    "v_score": 0.259,
+    "e_score": 0.379,
+    "stats": {
+      "total_players_t": 26,
+      "total_players_t1": 21,
+      "total_edges_t": 267,
+      "total_edges_t1": 208
+    },
+    "players_left": [
+      {
+        "name": "David Villa",
+        "matches": 26
+      },
+      {
+        "name": "Thiago Alcántara",
+        "matches": 20
+      },
+      {
+        "name": "Éric Abidal",
+        "matches": 2
+      },
+      {
+        "name": "Carles Planas",
+        "matches": 1
+      },
+      {
+        "name": "Jonathan dos Santos",
+        "matches": 1
+      },
+      {
+        "name": "Rafinha",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Neymar",
+        "matches": 32
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Javier Mascherano",
+        "player2": "David Villa",
+        "weight": 18
+      },
+      {
+        "player1": "Andrés Iniesta",
+        "player2": "David Villa",
+        "weight": 17
+      },
+      {
+        "player1": "David Villa",
+        "player2": "Víctor Valdés",
+        "weight": 17
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "David Villa",
+        "weight": 16
+      },
+      {
+        "player1": "Jordi Alba",
+        "player2": "David Villa",
+        "weight": 16
+      },
+      {
+        "player1": "Thiago Alcántara",
+        "player2": "Alex Song",
+        "weight": 15
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Thiago Alcántara",
+        "weight": 15
+      },
+      {
+        "player1": "Gerard Piqué",
+        "player2": "David Villa",
+        "weight": 15
+      },
+      {
+        "player1": "Alex Song",
+        "player2": "David Villa",
+        "weight": 15
+      },
+      {
+        "player1": "Cesc Fàbregas",
+        "player2": "David Villa",
+        "weight": 15
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Cesc Fàbregas",
+        "player2": "Neymar",
+        "weight": 25
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Neymar",
+        "weight": 25
+      },
+      {
+        "player1": "Javier Mascherano",
+        "player2": "Neymar",
+        "weight": 24
+      },
+      {
+        "player1": "Gerard Piqué",
+        "player2": "Neymar",
+        "weight": 23
+      },
+      {
+        "player1": "Lionel Messi",
+        "player2": "Neymar",
+        "weight": 23
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Neymar",
+        "weight": 23
+      },
+      {
+        "player1": "Andrés Iniesta",
+        "player2": "Neymar",
+        "weight": 22
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Neymar",
+        "weight": 21
+      },
+      {
+        "player1": "Víctor Valdés",
+        "player2": "Neymar",
+        "weight": 20
+      },
+      {
+        "player1": "Adriano",
+        "player2": "Neymar",
+        "weight": 19
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2013_2014",
+    "season_to": "2014_2015",
+    "v_score": 0.588,
+    "e_score": 0.779,
+    "stats": {
+      "total_players_t": 21,
+      "total_players_t1": 27,
+      "total_edges_t": 208,
+      "total_edges_t1": 283
+    },
+    "players_left": [
+      {
+        "name": "Cesc Fàbregas",
+        "matches": 44
+      },
+      {
+        "name": "Alexis Sánchez",
+        "matches": 38
+      },
+      {
+        "name": "Víctor Valdés",
+        "matches": 34
+      },
+      {
+        "name": "José Manuel Pinto",
+        "matches": 25
+      },
+      {
+        "name": "Alex Song",
+        "matches": 18
+      },
+      {
+        "name": "Carles Puyol",
+        "matches": 12
+      },
+      {
+        "name": "Cristian Tello",
+        "matches": 6
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Luis Suárez",
+        "matches": 41
+      },
+      {
+        "name": "Ivan Rakitic",
+        "matches": 39
+      },
+      {
+        "name": "Claudio Bravo",
+        "matches": 37
+      },
+      {
+        "name": "Jérémy Mathieu",
+        "matches": 29
+      },
+      {
+        "name": "Marc-André ter Stegen",
+        "matches": 21
+      },
+      {
+        "name": "Rafinha",
+        "matches": 19
+      },
+      {
+        "name": "Munir El Haddadi",
+        "matches": 11
+      },
+      {
+        "name": "Sergi Samper",
+        "matches": 3
+      },
+      {
+        "name": "Jordi Masip",
+        "matches": 2
+      },
+      {
+        "name": "Douglas",
+        "matches": 2
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Cesc Fàbregas",
+        "weight": 34
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Alexis Sánchez",
+        "weight": 31
+      },
+      {
+        "player1": "Javier Mascherano",
+        "player2": "Cesc Fàbregas",
+        "weight": 31
+      },
+      {
+        "player1": "Gerard Piqué",
+        "player2": "Cesc Fàbregas",
+        "weight": 30
+      },
+      {
+        "player1": "Cesc Fàbregas",
+        "player2": "Lionel Messi",
+        "weight": 29
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Cesc Fàbregas",
+        "weight": 29
+      },
+      {
+        "player1": "Javier Mascherano",
+        "player2": "Alexis Sánchez",
+        "weight": 28
+      },
+      {
+        "player1": "Víctor Valdés",
+        "player2": "Lionel Messi",
+        "weight": 28
+      },
+      {
+        "player1": "Andrés Iniesta",
+        "player2": "Cesc Fàbregas",
+        "weight": 28
+      },
+      {
+        "player1": "Pedro",
+        "player2": "Cesc Fàbregas",
+        "weight": 28
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Luis Suárez",
+        "player2": "Lionel Messi",
+        "weight": 40
+      },
+      {
+        "player1": "Ivan Rakitic",
+        "player2": "Lionel Messi",
+        "weight": 38
+      },
+      {
+        "player1": "Claudio Bravo",
+        "player2": "Lionel Messi",
+        "weight": 36
+      },
+      {
+        "player1": "Gerard Piqué",
+        "player2": "Luis Suárez",
+        "weight": 35
+      },
+      {
+        "player1": "Luis Suárez",
+        "player2": "Neymar",
+        "weight": 35
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Luis Suárez",
+        "weight": 35
+      },
+      {
+        "player1": "Jordi Alba",
+        "player2": "Ivan Rakitic",
+        "weight": 34
+      },
+      {
+        "player1": "Javier Mascherano",
+        "player2": "Luis Suárez",
+        "weight": 33
+      },
+      {
+        "player1": "Jordi Alba",
+        "player2": "Luis Suárez",
+        "weight": 33
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Luis Suárez",
+        "weight": 31
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2014_2015",
+    "season_to": "2015_2016",
+    "v_score": 0.25,
+    "e_score": 0.486,
+    "stats": {
+      "total_players_t": 27,
+      "total_players_t1": 29,
+      "total_edges_t": 283,
+      "total_edges_t1": 306
+    },
+    "players_left": [
+      {
+        "name": "Xavi",
+        "matches": 21
+      },
+      {
+        "name": "Martín Montoya",
+        "matches": 10
+      },
+      {
+        "name": "Adama Traoré",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Arda Turan",
+        "matches": 13
+      },
+      {
+        "name": "Sandro Ramírez",
+        "matches": 9
+      },
+      {
+        "name": "Aleix Vidal",
+        "matches": 9
+      },
+      {
+        "name": "Wilfrid Kaptoum",
+        "matches": 2
+      },
+      {
+        "name": "Aitor Cantalapiedra",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Xavi",
+        "player2": "Lionel Messi",
+        "weight": 20
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Claudio Bravo",
+        "weight": 18
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Neymar",
+        "weight": 17
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Dani Alves",
+        "weight": 17
+      },
+      {
+        "player1": "Pedro",
+        "player2": "Jordi Alba",
+        "weight": 15
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Jérémy Mathieu",
+        "weight": 14
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Luis Suárez",
+        "weight": 14
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Javier Mascherano",
+        "weight": 14
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Xavi",
+        "weight": 13
+      },
+      {
+        "player1": "Xavi",
+        "player2": "Gerard Piqué",
+        "weight": 13
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Sergi Roberto",
+        "player2": "Sergio Busquets",
+        "weight": 23
+      },
+      {
+        "player1": "Arda Turan",
+        "player2": "Lionel Messi",
+        "weight": 12
+      },
+      {
+        "player1": "Thomas Vermaelen",
+        "player2": "Ivan Rakitic",
+        "weight": 11
+      },
+      {
+        "player1": "Arda Turan",
+        "player2": "Neymar",
+        "weight": 10
+      },
+      {
+        "player1": "Thomas Vermaelen",
+        "player2": "Luis Suárez",
+        "weight": 10
+      },
+      {
+        "player1": "Arda Turan",
+        "player2": "Gerard Piqué",
+        "weight": 10
+      },
+      {
+        "player1": "Javier Mascherano",
+        "player2": "Thomas Vermaelen",
+        "weight": 10
+      },
+      {
+        "player1": "Arda Turan",
+        "player2": "Sergio Busquets",
+        "weight": 9
+      },
+      {
+        "player1": "Arda Turan",
+        "player2": "Claudio Bravo",
+        "weight": 9
+      },
+      {
+        "player1": "Arda Turan",
+        "player2": "Luis Suárez",
+        "weight": 9
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2015_2016",
+    "season_to": "2016_2017",
+    "v_score": 0.564,
+    "e_score": 0.735,
+    "stats": {
+      "total_players_t": 29,
+      "total_players_t1": 27,
+      "total_edges_t": 306,
+      "total_edges_t1": 272
+    },
+    "players_left": [
+      {
+        "name": "Dani Alves",
+        "matches": 43
+      },
+      {
+        "name": "Thomas Vermaelen",
+        "matches": 15
+      },
+      {
+        "name": "Adriano",
+        "matches": 10
+      },
+      {
+        "name": "Marc Bartra",
+        "matches": 10
+      },
+      {
+        "name": "Sandro Ramírez",
+        "matches": 9
+      },
+      {
+        "name": "Sergi Samper",
+        "matches": 4
+      },
+      {
+        "name": "Pedro",
+        "matches": 2
+      },
+      {
+        "name": "Jordi Masip",
+        "matches": 2
+      },
+      {
+        "name": "Wilfrid Kaptoum",
+        "matches": 2
+      },
+      {
+        "name": "Gerard Gumbau",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Samuel Umtiti",
+        "matches": 42
+      },
+      {
+        "name": "André Gomes",
+        "matches": 27
+      },
+      {
+        "name": "Lucas Digne",
+        "matches": 20
+      },
+      {
+        "name": "Denis Suárez",
+        "matches": 18
+      },
+      {
+        "name": "Paco Alcácer",
+        "matches": 11
+      },
+      {
+        "name": "Jasper Cillessen",
+        "matches": 10
+      },
+      {
+        "name": "Marlon",
+        "matches": 2
+      },
+      {
+        "name": "Àlex Carbonell",
+        "matches": 1
+      },
+      {
+        "name": "Borja López",
+        "matches": 1
+      },
+      {
+        "name": "Carles Aleñá",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Dani Alves",
+        "player2": "Javier Mascherano",
+        "weight": 39
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Luis Suárez",
+        "weight": 38
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Dani Alves",
+        "weight": 37
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Ivan Rakitic",
+        "weight": 34
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Neymar",
+        "weight": 34
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Gerard Piqué",
+        "weight": 33
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Lionel Messi",
+        "weight": 32
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Andrés Iniesta",
+        "weight": 30
+      },
+      {
+        "player1": "Dani Alves",
+        "player2": "Jordi Alba",
+        "weight": 29
+      },
+      {
+        "player1": "Claudio Bravo",
+        "player2": "Neymar",
+        "weight": 29
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Samuel Umtiti",
+        "player2": "Lionel Messi",
+        "weight": 40
+      },
+      {
+        "player1": "Samuel Umtiti",
+        "player2": "Luis Suárez",
+        "weight": 36
+      },
+      {
+        "player1": "Samuel Umtiti",
+        "player2": "Sergio Busquets",
+        "weight": 31
+      },
+      {
+        "player1": "Samuel Umtiti",
+        "player2": "Marc-André ter Stegen",
+        "weight": 31
+      },
+      {
+        "player1": "Samuel Umtiti",
+        "player2": "Neymar",
+        "weight": 31
+      },
+      {
+        "player1": "Samuel Umtiti",
+        "player2": "Ivan Rakitic",
+        "weight": 30
+      },
+      {
+        "player1": "Samuel Umtiti",
+        "player2": "Sergi Roberto",
+        "weight": 27
+      },
+      {
+        "player1": "Samuel Umtiti",
+        "player2": "Gerard Piqué",
+        "weight": 26
+      },
+      {
+        "player1": "Samuel Umtiti",
+        "player2": "Jordi Alba",
+        "weight": 24
+      },
+      {
+        "player1": "Lionel Messi",
+        "player2": "André Gomes",
+        "weight": 23
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2016_2017",
+    "season_to": "2017_2018",
+    "v_score": 0.5,
+    "e_score": 0.682,
+    "stats": {
+      "total_players_t": 27,
+      "total_players_t1": 27,
+      "total_edges_t": 272,
+      "total_edges_t1": 304
+    },
+    "players_left": [
+      {
+        "name": "Neymar",
+        "matches": 45
+      },
+      {
+        "name": "Arda Turan",
+        "matches": 20
+      },
+      {
+        "name": "Rafinha",
+        "matches": 18
+      },
+      {
+        "name": "Jérémy Mathieu",
+        "matches": 14
+      },
+      {
+        "name": "Claudio Bravo",
+        "matches": 3
+      },
+      {
+        "name": "Marlon",
+        "matches": 2
+      },
+      {
+        "name": "Munir El Haddadi",
+        "matches": 1
+      },
+      {
+        "name": "Àlex Carbonell",
+        "matches": 1
+      },
+      {
+        "name": "Borja López",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Nélson Semedo",
+        "matches": 28
+      },
+      {
+        "name": "Paulinho",
+        "matches": 27
+      },
+      {
+        "name": "Philippe Coutinho",
+        "matches": 17
+      },
+      {
+        "name": "Thomas Vermaelen",
+        "matches": 17
+      },
+      {
+        "name": "Ousmane Dembélé",
+        "matches": 14
+      },
+      {
+        "name": "Gerard Deulofeu",
+        "matches": 10
+      },
+      {
+        "name": "Yerry Mina",
+        "matches": 4
+      },
+      {
+        "name": "José Manuel Arnáiz",
+        "matches": 2
+      },
+      {
+        "name": "Uri Busquets",
+        "matches": 1
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Luis Suárez",
+        "player2": "Neymar",
+        "weight": 41
+      },
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "Neymar",
+        "weight": 39
+      },
+      {
+        "player1": "Lionel Messi",
+        "player2": "Neymar",
+        "weight": 38
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Neymar",
+        "weight": 37
+      },
+      {
+        "player1": "Neymar",
+        "player2": "Ivan Rakitic",
+        "weight": 33
+      },
+      {
+        "player1": "Gerard Piqué",
+        "player2": "Neymar",
+        "weight": 32
+      },
+      {
+        "player1": "Sergi Roberto",
+        "player2": "Neymar",
+        "weight": 32
+      },
+      {
+        "player1": "Samuel Umtiti",
+        "player2": "Neymar",
+        "weight": 31
+      },
+      {
+        "player1": "Javier Mascherano",
+        "player2": "Neymar",
+        "weight": 26
+      },
+      {
+        "player1": "Jordi Alba",
+        "player2": "Neymar",
+        "weight": 25
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "Paulinho",
+        "weight": 24
+      },
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "Nélson Semedo",
+        "weight": 22
+      },
+      {
+        "player1": "Nélson Semedo",
+        "player2": "Gerard Piqué",
+        "weight": 22
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Nélson Semedo",
+        "weight": 22
+      },
+      {
+        "player1": "Paulinho",
+        "player2": "Lionel Messi",
+        "weight": 21
+      },
+      {
+        "player1": "Paulinho",
+        "player2": "Luis Suárez",
+        "weight": 21
+      },
+      {
+        "player1": "Paulinho",
+        "player2": "Gerard Piqué",
+        "weight": 21
+      },
+      {
+        "player1": "Nélson Semedo",
+        "player2": "Luis Suárez",
+        "weight": 21
+      },
+      {
+        "player1": "Nélson Semedo",
+        "player2": "Ivan Rakitic",
+        "weight": 20
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Paulinho",
+        "weight": 20
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2017_2018",
+    "season_to": "2018_2019",
+    "v_score": 0.595,
+    "e_score": 0.797,
+    "stats": {
+      "total_players_t": 27,
+      "total_players_t1": 32,
+      "total_edges_t": 304,
+      "total_edges_t1": 337
+    },
+    "players_left": [
+      {
+        "name": "Andrés Iniesta",
+        "matches": 39
+      },
+      {
+        "name": "Paulinho",
+        "matches": 27
+      },
+      {
+        "name": "Lucas Digne",
+        "matches": 15
+      },
+      {
+        "name": "André Gomes",
+        "matches": 12
+      },
+      {
+        "name": "Aleix Vidal",
+        "matches": 11
+      },
+      {
+        "name": "Paco Alcácer",
+        "matches": 11
+      },
+      {
+        "name": "Gerard Deulofeu",
+        "matches": 10
+      },
+      {
+        "name": "Javier Mascherano",
+        "matches": 10
+      },
+      {
+        "name": "Yerry Mina",
+        "matches": 4
+      },
+      {
+        "name": "José Manuel Arnáiz",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Clément Lenglet",
+        "matches": 40
+      },
+      {
+        "name": "Arthur Melo",
+        "matches": 32
+      },
+      {
+        "name": "Arturo Vidal",
+        "matches": 29
+      },
+      {
+        "name": "Malcom",
+        "matches": 11
+      },
+      {
+        "name": "Rafinha",
+        "matches": 5
+      },
+      {
+        "name": "Kevin-Prince Boateng",
+        "matches": 4
+      },
+      {
+        "name": "Munir El Haddadi",
+        "matches": 4
+      },
+      {
+        "name": "Juan Miranda",
+        "matches": 4
+      },
+      {
+        "name": "Jeison Murillo",
+        "matches": 3
+      },
+      {
+        "name": "Chumi",
+        "matches": 3
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Andrés Iniesta",
+        "player2": "Luis Suárez",
+        "weight": 36
+      },
+      {
+        "player1": "Andrés Iniesta",
+        "player2": "Lionel Messi",
+        "weight": 34
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Andrés Iniesta",
+        "weight": 34
+      },
+      {
+        "player1": "Andrés Iniesta",
+        "player2": "Gerard Piqué",
+        "weight": 33
+      },
+      {
+        "player1": "Andrés Iniesta",
+        "player2": "Marc-André ter Stegen",
+        "weight": 33
+      },
+      {
+        "player1": "Andrés Iniesta",
+        "player2": "Ivan Rakitic",
+        "weight": 33
+      },
+      {
+        "player1": "Samuel Umtiti",
+        "player2": "Andrés Iniesta",
+        "weight": 31
+      },
+      {
+        "player1": "Andrés Iniesta",
+        "player2": "Jordi Alba",
+        "weight": 31
+      },
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "Paulinho",
+        "weight": 24
+      },
+      {
+        "player1": "Sergi Roberto",
+        "player2": "Andrés Iniesta",
+        "weight": 24
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Jordi Alba",
+        "player2": "Clément Lenglet",
+        "weight": 37
+      },
+      {
+        "player1": "Ivan Rakitic",
+        "player2": "Clément Lenglet",
+        "weight": 37
+      },
+      {
+        "player1": "Gerard Piqué",
+        "player2": "Clément Lenglet",
+        "weight": 37
+      },
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "Clément Lenglet",
+        "weight": 34
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Clément Lenglet",
+        "weight": 33
+      },
+      {
+        "player1": "Luis Suárez",
+        "player2": "Clément Lenglet",
+        "weight": 33
+      },
+      {
+        "player1": "Lionel Messi",
+        "player2": "Clément Lenglet",
+        "weight": 30
+      },
+      {
+        "player1": "Arthur Melo",
+        "player2": "Jordi Alba",
+        "weight": 29
+      },
+      {
+        "player1": "Arthur Melo",
+        "player2": "Gerard Piqué",
+        "weight": 28
+      },
+      {
+        "player1": "Arthur Melo",
+        "player2": "Luis Suárez",
+        "weight": 27
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2018_2019",
+    "season_to": "2019_2020",
+    "v_score": 0.525,
+    "e_score": 0.751,
+    "stats": {
+      "total_players_t": 32,
+      "total_players_t1": 27,
+      "total_edges_t": 337,
+      "total_edges_t1": 295
+    },
+    "players_left": [
+      {
+        "name": "Philippe Coutinho",
+        "matches": 38
+      },
+      {
+        "name": "Malcom",
+        "matches": 11
+      },
+      {
+        "name": "Jasper Cillessen",
+        "matches": 11
+      },
+      {
+        "name": "Thomas Vermaelen",
+        "matches": 9
+      },
+      {
+        "name": "Kevin-Prince Boateng",
+        "matches": 4
+      },
+      {
+        "name": "Munir El Haddadi",
+        "matches": 4
+      },
+      {
+        "name": "Juan Miranda",
+        "matches": 4
+      },
+      {
+        "name": "Jeison Murillo",
+        "matches": 3
+      },
+      {
+        "name": "Chumi",
+        "matches": 3
+      },
+      {
+        "name": "Denis Suárez",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Antoine Griezmann",
+        "matches": 41
+      },
+      {
+        "name": "Frenkie de Jong",
+        "matches": 36
+      },
+      {
+        "name": "Ansu Fati",
+        "matches": 15
+      },
+      {
+        "name": "Junior Firpo",
+        "matches": 15
+      },
+      {
+        "name": "Carles Pérez",
+        "matches": 7
+      },
+      {
+        "name": "Neto",
+        "matches": 5
+      },
+      {
+        "name": "Martin Braithwaite",
+        "matches": 4
+      },
+      {
+        "name": "Ronald Araujo",
+        "matches": 2
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Philippe Coutinho",
+        "player2": "Gerard Piqué",
+        "weight": 34
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Philippe Coutinho",
+        "weight": 33
+      },
+      {
+        "player1": "Philippe Coutinho",
+        "player2": "Ivan Rakitic",
+        "weight": 33
+      },
+      {
+        "player1": "Jordi Alba",
+        "player2": "Philippe Coutinho",
+        "weight": 32
+      },
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "Philippe Coutinho",
+        "weight": 32
+      },
+      {
+        "player1": "Philippe Coutinho",
+        "player2": "Luis Suárez",
+        "weight": 30
+      },
+      {
+        "player1": "Philippe Coutinho",
+        "player2": "Clément Lenglet",
+        "weight": 26
+      },
+      {
+        "player1": "Philippe Coutinho",
+        "player2": "Lionel Messi",
+        "weight": 26
+      },
+      {
+        "player1": "Sergi Roberto",
+        "player2": "Philippe Coutinho",
+        "weight": 23
+      },
+      {
+        "player1": "Arthur Melo",
+        "player2": "Philippe Coutinho",
+        "weight": 22
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Gerard Piqué",
+        "weight": 37
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Marc-André ter Stegen",
+        "weight": 37
+      },
+      {
+        "player1": "Frenkie de Jong",
+        "player2": "Marc-André ter Stegen",
+        "weight": 33
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Antoine Griezmann",
+        "weight": 32
+      },
+      {
+        "player1": "Frenkie de Jong",
+        "player2": "Gerard Piqué",
+        "weight": 32
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Lionel Messi",
+        "weight": 32
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Clément Lenglet",
+        "weight": 31
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Frenkie de Jong",
+        "weight": 31
+      },
+      {
+        "player1": "Frenkie de Jong",
+        "player2": "Lionel Messi",
+        "weight": 28
+      },
+      {
+        "player1": "Sergi Roberto",
+        "player2": "Antoine Griezmann",
+        "weight": 28
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2019_2020",
+    "season_to": "2020_2021",
+    "v_score": 0.471,
+    "e_score": 0.736,
+    "stats": {
+      "total_players_t": 27,
+      "total_players_t1": 25,
+      "total_edges_t": 295,
+      "total_edges_t1": 266
+    },
+    "players_left": [
+      {
+        "name": "Nélson Semedo",
+        "matches": 34
+      },
+      {
+        "name": "Luis Suárez",
+        "matches": 29
+      },
+      {
+        "name": "Ivan Rakitic",
+        "matches": 22
+      },
+      {
+        "name": "Arturo Vidal",
+        "matches": 22
+      },
+      {
+        "name": "Arthur Melo",
+        "matches": 17
+      },
+      {
+        "name": "Carles Pérez",
+        "matches": 7
+      },
+      {
+        "name": "Jean-Clair Todibo",
+        "matches": 2
+      },
+      {
+        "name": "Moussa Wagué",
+        "matches": 2
+      },
+      {
+        "name": "Rafinha",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Pedri",
+        "matches": 40
+      },
+      {
+        "name": "Sergiño Dest",
+        "matches": 33
+      },
+      {
+        "name": "Óscar Mingueza",
+        "matches": 32
+      },
+      {
+        "name": "Miralem Pjanić",
+        "matches": 13
+      },
+      {
+        "name": "Philippe Coutinho",
+        "matches": 10
+      },
+      {
+        "name": "Francisco Trincão",
+        "matches": 10
+      },
+      {
+        "name": "Ilaix Moriba",
+        "matches": 5
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "Nélson Semedo",
+        "weight": 33
+      },
+      {
+        "player1": "Nélson Semedo",
+        "player2": "Gerard Piqué",
+        "weight": 32
+      },
+      {
+        "player1": "Nélson Semedo",
+        "player2": "Clément Lenglet",
+        "weight": 29
+      },
+      {
+        "player1": "Nélson Semedo",
+        "player2": "Lionel Messi",
+        "weight": 27
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Nélson Semedo",
+        "weight": 26
+      },
+      {
+        "player1": "Gerard Piqué",
+        "player2": "Luis Suárez",
+        "weight": 26
+      },
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "Luis Suárez",
+        "weight": 26
+      },
+      {
+        "player1": "Luis Suárez",
+        "player2": "Lionel Messi",
+        "weight": 25
+      },
+      {
+        "player1": "Luis Suárez",
+        "player2": "Clément Lenglet",
+        "weight": 24
+      },
+      {
+        "player1": "Frenkie de Jong",
+        "player2": "Nélson Semedo",
+        "weight": 24
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Pedri",
+        "player2": "Marc-André ter Stegen",
+        "weight": 37
+      },
+      {
+        "player1": "Pedri",
+        "player2": "Frenkie de Jong",
+        "weight": 37
+      },
+      {
+        "player1": "Pedri",
+        "player2": "Jordi Alba",
+        "weight": 37
+      },
+      {
+        "player1": "Pedri",
+        "player2": "Lionel Messi",
+        "weight": 35
+      },
+      {
+        "player1": "Pedri",
+        "player2": "Antoine Griezmann",
+        "weight": 32
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Pedri",
+        "weight": 31
+      },
+      {
+        "player1": "Pedri",
+        "player2": "Clément Lenglet",
+        "weight": 31
+      },
+      {
+        "player1": "Sergiño Dest",
+        "player2": "Frenkie de Jong",
+        "weight": 30
+      },
+      {
+        "player1": "Sergiño Dest",
+        "player2": "Lionel Messi",
+        "weight": 29
+      },
+      {
+        "player1": "Sergiño Dest",
+        "player2": "Jordi Alba",
+        "weight": 28
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2020_2021",
+    "season_to": "2021_2022",
+    "v_score": 0.537,
+    "e_score": 0.769,
+    "stats": {
+      "total_players_t": 25,
+      "total_players_t1": 35,
+      "total_edges_t": 266,
+      "total_edges_t1": 405
+    },
+    "players_left": [
+      {
+        "name": "Lionel Messi",
+        "matches": 45
+      },
+      {
+        "name": "Miralem Pjanić",
+        "matches": 13
+      },
+      {
+        "name": "Francisco Trincão",
+        "matches": 10
+      },
+      {
+        "name": "Junior Firpo",
+        "matches": 7
+      },
+      {
+        "name": "Ilaix Moriba",
+        "matches": 5
+      },
+      {
+        "name": "Carles Aleñá",
+        "matches": 1
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Gavi",
+        "matches": 36
+      },
+      {
+        "name": "Eric García",
+        "matches": 32
+      },
+      {
+        "name": "Memphis Depay",
+        "matches": 27
+      },
+      {
+        "name": "Ferran Torres",
+        "matches": 25
+      },
+      {
+        "name": "Pierre-Emerick Aubameyang",
+        "matches": 18
+      },
+      {
+        "name": "Nico González",
+        "matches": 17
+      },
+      {
+        "name": "Dani Alves",
+        "matches": 16
+      },
+      {
+        "name": "Luuk de Jong",
+        "matches": 10
+      },
+      {
+        "name": "Adama Traoré",
+        "matches": 9
+      },
+      {
+        "name": "Abde Ezzalzouli",
+        "matches": 7
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Frenkie de Jong",
+        "player2": "Lionel Messi",
+        "weight": 43
+      },
+      {
+        "player1": "Jordi Alba",
+        "player2": "Lionel Messi",
+        "weight": 41
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Lionel Messi",
+        "weight": 37
+      },
+      {
+        "player1": "Antoine Griezmann",
+        "player2": "Lionel Messi",
+        "weight": 37
+      },
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "Lionel Messi",
+        "weight": 36
+      },
+      {
+        "player1": "Lionel Messi",
+        "player2": "Clément Lenglet",
+        "weight": 35
+      },
+      {
+        "player1": "Pedri",
+        "player2": "Lionel Messi",
+        "weight": 35
+      },
+      {
+        "player1": "Pedri",
+        "player2": "Clément Lenglet",
+        "weight": 31
+      },
+      {
+        "player1": "Sergiño Dest",
+        "player2": "Lionel Messi",
+        "weight": 29
+      },
+      {
+        "player1": "Óscar Mingueza",
+        "player2": "Antoine Griezmann",
+        "weight": 26
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Gavi",
+        "player2": "Marc-André ter Stegen",
+        "weight": 35
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Gavi",
+        "weight": 35
+      },
+      {
+        "player1": "Gavi",
+        "player2": "Jordi Alba",
+        "weight": 30
+      },
+      {
+        "player1": "Eric García",
+        "player2": "Jordi Alba",
+        "weight": 28
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Eric García",
+        "weight": 28
+      },
+      {
+        "player1": "Eric García",
+        "player2": "Marc-André ter Stegen",
+        "weight": 28
+      },
+      {
+        "player1": "Gavi",
+        "player2": "Frenkie de Jong",
+        "weight": 26
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Memphis Depay",
+        "weight": 25
+      },
+      {
+        "player1": "Ferran Torres",
+        "player2": "Marc-André ter Stegen",
+        "weight": 24
+      },
+      {
+        "player1": "Gavi",
+        "player2": "Gerard Piqué",
+        "weight": 24
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2021_2022",
+    "season_to": "2022_2023",
+    "v_score": 0.659,
+    "e_score": 0.841,
+    "stats": {
+      "total_players_t": 35,
+      "total_players_t1": 24,
+      "total_edges_t": 405,
+      "total_edges_t1": 264
+    },
+    "players_left": [
+      {
+        "name": "Sergiño Dest",
+        "matches": 23
+      },
+      {
+        "name": "Pierre-Emerick Aubameyang",
+        "matches": 18
+      },
+      {
+        "name": "Nico González",
+        "matches": 17
+      },
+      {
+        "name": "Dani Alves",
+        "matches": 16
+      },
+      {
+        "name": "Óscar Mingueza",
+        "matches": 14
+      },
+      {
+        "name": "Clément Lenglet",
+        "matches": 11
+      },
+      {
+        "name": "Luuk de Jong",
+        "matches": 10
+      },
+      {
+        "name": "Adama Traoré",
+        "matches": 9
+      },
+      {
+        "name": "Abde Ezzalzouli",
+        "matches": 7
+      },
+      {
+        "name": "Ferran Jutglà",
+        "matches": 6
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Robert Lewandowski",
+        "matches": 44
+      },
+      {
+        "name": "Jules Koundé",
+        "matches": 38
+      },
+      {
+        "name": "Raphinha",
+        "matches": 34
+      },
+      {
+        "name": "Andreas Christensen",
+        "matches": 27
+      },
+      {
+        "name": "Marcos Alonso",
+        "matches": 20
+      },
+      {
+        "name": "Franck Kessié",
+        "matches": 15
+      },
+      {
+        "name": "Héctor Bellerín",
+        "matches": 5
+      },
+      {
+        "name": "Pablo Torre",
+        "matches": 4
+      },
+      {
+        "name": "Iñaki Peña",
+        "matches": 3
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Sergiño Dest",
+        "weight": 22
+      },
+      {
+        "player1": "Sergiño Dest",
+        "player2": "Marc-André ter Stegen",
+        "weight": 21
+      },
+      {
+        "player1": "Sergiño Dest",
+        "player2": "Frenkie de Jong",
+        "weight": 18
+      },
+      {
+        "player1": "Pierre-Emerick Aubameyang",
+        "player2": "Marc-André ter Stegen",
+        "weight": 18
+      },
+      {
+        "player1": "Sergiño Dest",
+        "player2": "Gerard Piqué",
+        "weight": 17
+      },
+      {
+        "player1": "Pierre-Emerick Aubameyang",
+        "player2": "Ferran Torres",
+        "weight": 17
+      },
+      {
+        "player1": "Sergiño Dest",
+        "player2": "Jordi Alba",
+        "weight": 17
+      },
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "Nico González",
+        "weight": 16
+      },
+      {
+        "player1": "Sergiño Dest",
+        "player2": "Memphis Depay",
+        "weight": 16
+      },
+      {
+        "player1": "Pierre-Emerick Aubameyang",
+        "player2": "Jordi Alba",
+        "weight": 16
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "Robert Lewandowski",
+        "weight": 43
+      },
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "Jules Koundé",
+        "weight": 37
+      },
+      {
+        "player1": "Gavi",
+        "player2": "Robert Lewandowski",
+        "weight": 33
+      },
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "Raphinha",
+        "weight": 32
+      },
+      {
+        "player1": "Robert Lewandowski",
+        "player2": "Jules Koundé",
+        "weight": 32
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Robert Lewandowski",
+        "weight": 31
+      },
+      {
+        "player1": "Frenkie de Jong",
+        "player2": "Robert Lewandowski",
+        "weight": 31
+      },
+      {
+        "player1": "Alejandro Balde",
+        "player2": "Robert Lewandowski",
+        "weight": 30
+      },
+      {
+        "player1": "Frenkie de Jong",
+        "player2": "Jules Koundé",
+        "weight": 29
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Jules Koundé",
+        "weight": 29
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2022_2023",
+    "season_to": "2023_2024",
+    "v_score": 0.6,
+    "e_score": 0.822,
+    "stats": {
+      "total_players_t": 24,
+      "total_players_t1": 25,
+      "total_edges_t": 264,
+      "total_edges_t1": 279
+    },
+    "players_left": [
+      {
+        "name": "Sergio Busquets",
+        "matches": 38
+      },
+      {
+        "name": "Ousmane Dembélé",
+        "matches": 25
+      },
+      {
+        "name": "Jordi Alba",
+        "matches": 20
+      },
+      {
+        "name": "Eric García",
+        "matches": 18
+      },
+      {
+        "name": "Franck Kessié",
+        "matches": 15
+      },
+      {
+        "name": "Ansu Fati",
+        "matches": 14
+      },
+      {
+        "name": "Gerard Piqué",
+        "matches": 6
+      },
+      {
+        "name": "Héctor Bellerín",
+        "matches": 5
+      },
+      {
+        "name": "Pablo Torre",
+        "matches": 4
+      },
+      {
+        "name": "Memphis Depay",
+        "matches": 3
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "İlkay Gündoğan",
+        "matches": 45
+      },
+      {
+        "name": "João Cancelo",
+        "matches": 38
+      },
+      {
+        "name": "Lamine Yamal",
+        "matches": 30
+      },
+      {
+        "name": "João Félix",
+        "matches": 24
+      },
+      {
+        "name": "Pau Cubarsí",
+        "matches": 21
+      },
+      {
+        "name": "Fermín López",
+        "matches": 19
+      },
+      {
+        "name": "Oriol Romeu",
+        "matches": 17
+      },
+      {
+        "name": "Iñigo Martínez",
+        "matches": 16
+      },
+      {
+        "name": "Héctor Fort",
+        "matches": 6
+      },
+      {
+        "name": "Marc Guiu",
+        "matches": 2
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Marc-André ter Stegen",
+        "weight": 37
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Robert Lewandowski",
+        "weight": 31
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Alejandro Balde",
+        "weight": 30
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Gavi",
+        "weight": 29
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Jules Koundé",
+        "weight": 29
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Raphinha",
+        "weight": 26
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Frenkie de Jong",
+        "weight": 25
+      },
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "Ousmane Dembélé",
+        "weight": 24
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Ronald Araujo",
+        "weight": 23
+      },
+      {
+        "player1": "Sergio Busquets",
+        "player2": "Pedri",
+        "weight": 22
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "İlkay Gündoğan",
+        "player2": "Robert Lewandowski",
+        "weight": 39
+      },
+      {
+        "player1": "İlkay Gündoğan",
+        "player2": "Jules Koundé",
+        "weight": 39
+      },
+      {
+        "player1": "João Cancelo",
+        "player2": "İlkay Gündoğan",
+        "weight": 35
+      },
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "İlkay Gündoğan",
+        "weight": 32
+      },
+      {
+        "player1": "João Cancelo",
+        "player2": "Robert Lewandowski",
+        "weight": 32
+      },
+      {
+        "player1": "İlkay Gündoğan",
+        "player2": "Ronald Araujo",
+        "weight": 31
+      },
+      {
+        "player1": "João Cancelo",
+        "player2": "Jules Koundé",
+        "weight": 31
+      },
+      {
+        "player1": "Andreas Christensen",
+        "player2": "İlkay Gündoğan",
+        "weight": 30
+      },
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "João Cancelo",
+        "weight": 29
+      },
+      {
+        "player1": "Lamine Yamal",
+        "player2": "Jules Koundé",
+        "weight": 28
+      }
+    ]
+  },
+  {
+    "club": "fc_barcelona",
+    "season_from": "2023_2024",
+    "season_to": "2024_2025",
+    "v_score": 0.528,
+    "e_score": 0.733,
+    "stats": {
+      "total_players_t": 25,
+      "total_players_t1": 28,
+      "total_edges_t": 279,
+      "total_edges_t1": 310
+    },
+    "players_left": [
+      {
+        "name": "İlkay Gündoğan",
+        "matches": 45
+      },
+      {
+        "name": "João Cancelo",
+        "matches": 38
+      },
+      {
+        "name": "João Félix",
+        "matches": 24
+      },
+      {
+        "name": "Oriol Romeu",
+        "matches": 17
+      },
+      {
+        "name": "Sergi Roberto",
+        "matches": 15
+      },
+      {
+        "name": "Marcos Alonso",
+        "matches": 5
+      },
+      {
+        "name": "Marc Guiu",
+        "matches": 2
+      },
+      {
+        "name": "Vitor Roque",
+        "matches": 2
+      }
+    ],
+    "players_joined": [
+      {
+        "name": "Wojciech Szczesny",
+        "matches": 30
+      },
+      {
+        "name": "Marc Casadó",
+        "matches": 29
+      },
+      {
+        "name": "Dani Olmo",
+        "matches": 22
+      },
+      {
+        "name": "Gerard Martín",
+        "matches": 19
+      },
+      {
+        "name": "Eric García",
+        "matches": 19
+      },
+      {
+        "name": "Pablo Torre",
+        "matches": 5
+      },
+      {
+        "name": "Ansu Fati",
+        "matches": 3
+      },
+      {
+        "name": "Marc Bernal",
+        "matches": 3
+      },
+      {
+        "name": "Pau Víctor",
+        "matches": 2
+      },
+      {
+        "name": "Sergi Domínguez",
+        "matches": 2
+      }
+    ],
+    "edges_lost": [
+      {
+        "player1": "İlkay Gündoğan",
+        "player2": "Robert Lewandowski",
+        "weight": 39
+      },
+      {
+        "player1": "İlkay Gündoğan",
+        "player2": "Jules Koundé",
+        "weight": 39
+      },
+      {
+        "player1": "João Cancelo",
+        "player2": "İlkay Gündoğan",
+        "weight": 35
+      },
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "İlkay Gündoğan",
+        "weight": 32
+      },
+      {
+        "player1": "João Cancelo",
+        "player2": "Robert Lewandowski",
+        "weight": 32
+      },
+      {
+        "player1": "İlkay Gündoğan",
+        "player2": "Ronald Araujo",
+        "weight": 31
+      },
+      {
+        "player1": "Andreas Christensen",
+        "player2": "Jules Koundé",
+        "weight": 31
+      },
+      {
+        "player1": "João Cancelo",
+        "player2": "Jules Koundé",
+        "weight": 31
+      },
+      {
+        "player1": "Andreas Christensen",
+        "player2": "İlkay Gündoğan",
+        "weight": 30
+      },
+      {
+        "player1": "Marc-André ter Stegen",
+        "player2": "João Cancelo",
+        "weight": 29
+      }
+    ],
+    "edges_gained": [
+      {
+        "player1": "Marc Casadó",
+        "player2": "Raphinha",
+        "weight": 29
+      },
+      {
+        "player1": "Marc Casadó",
+        "player2": "Pau Cubarsí",
+        "weight": 28
+      },
+      {
+        "player1": "Pedri",
+        "player2": "Wojciech Szczesny",
+        "weight": 28
+      },
+      {
+        "player1": "Wojciech Szczesny",
+        "player2": "Lamine Yamal",
+        "weight": 28
+      },
+      {
+        "player1": "Marc Casadó",
+        "player2": "Robert Lewandowski",
+        "weight": 27
+      },
+      {
+        "player1": "Marc Casadó",
+        "player2": "Jules Koundé",
+        "weight": 27
+      },
+      {
+        "player1": "Pedri",
+        "player2": "Marc Casadó",
+        "weight": 26
+      },
+      {
+        "player1": "Wojciech Szczesny",
+        "player2": "Jules Koundé",
+        "weight": 25
+      },
+      {
+        "player1": "Alejandro Balde",
+        "player2": "Marc Casadó",
+        "weight": 25
+      },
+      {
+        "player1": "Marc Casadó",
+        "player2": "Lamine Yamal",
+        "weight": 25
+      }
+    ]
+  }
+]

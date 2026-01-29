@@ -1,0 +1,215 @@
+{
+  "summary": {
+    "total_transitions": 95,
+    "avg_v_score": 0.492,
+    "avg_e_score": 0.69
+  },
+  "top_v_changes": [
+    {
+      "club": "villarreal_cf",
+      "transition": "2011_2012 -> 2012_2013",
+      "v_score": 0.833
+    },
+    {
+      "club": "villarreal_cf",
+      "transition": "2023_2024 -> 2024_2025",
+      "v_score": 0.717
+    },
+    {
+      "club": "atletico_madryt",
+      "transition": "2013_2014 -> 2014_2015",
+      "v_score": 0.711
+    },
+    {
+      "club": "villarreal_cf",
+      "transition": "2017_2018 -> 2018_2019",
+      "v_score": 0.708
+    },
+    {
+      "club": "villarreal_cf",
+      "transition": "2018_2019 -> 2019_2020",
+      "v_score": 0.69
+    },
+    {
+      "club": "atletico_madryt",
+      "transition": "2005_2006 -> 2006_2007",
+      "v_score": 0.686
+    },
+    {
+      "club": "real_madryt",
+      "transition": "2006_2007 -> 2007_2008",
+      "v_score": 0.675
+    },
+    {
+      "club": "villarreal_cf",
+      "transition": "2014_2015 -> 2015_2016",
+      "v_score": 0.674
+    },
+    {
+      "club": "fc_barcelona",
+      "transition": "2021_2022 -> 2022_2023",
+      "v_score": 0.659
+    },
+    {
+      "club": "atletico_madryt",
+      "transition": "2010_2011 -> 2011_2012",
+      "v_score": 0.641
+    }
+  ],
+  "top_e_changes": [
+    {
+      "club": "villarreal_cf",
+      "transition": "2011_2012 -> 2012_2013",
+      "e_score": 0.953
+    },
+    {
+      "club": "villarreal_cf",
+      "transition": "2023_2024 -> 2024_2025",
+      "e_score": 0.908
+    },
+    {
+      "club": "atletico_madryt",
+      "transition": "2013_2014 -> 2014_2015",
+      "e_score": 0.899
+    },
+    {
+      "club": "villarreal_cf",
+      "transition": "2017_2018 -> 2018_2019",
+      "e_score": 0.885
+    },
+    {
+      "club": "villarreal_cf",
+      "transition": "2014_2015 -> 2015_2016",
+      "e_score": 0.866
+    },
+    {
+      "club": "atletico_madryt",
+      "transition": "2005_2006 -> 2006_2007",
+      "e_score": 0.86
+    },
+    {
+      "club": "atletico_madryt",
+      "transition": "2010_2011 -> 2011_2012",
+      "e_score": 0.852
+    },
+    {
+      "club": "villarreal_cf",
+      "transition": "2018_2019 -> 2019_2020",
+      "e_score": 0.852
+    },
+    {
+      "club": "real_madryt",
+      "transition": "2006_2007 -> 2007_2008",
+      "e_score": 0.848
+    },
+    {
+      "club": "fc_barcelona",
+      "transition": "2021_2022 -> 2022_2023",
+      "e_score": 0.841
+    }
+  ],
+  "most_stable_v": [
+    {
+      "club": "athletic_bilbao",
+      "transition": "2019_2020 -> 2020_2021",
+      "v_score": 0.25
+    },
+    {
+      "club": "fc_barcelona",
+      "transition": "2014_2015 -> 2015_2016",
+      "v_score": 0.25
+    },
+    {
+      "club": "fc_barcelona",
+      "transition": "2011_2012 -> 2012_2013",
+      "v_score": 0.258
+    },
+    {
+      "club": "fc_barcelona",
+      "transition": "2012_2013 -> 2013_2014",
+      "v_score": 0.259
+    },
+    {
+      "club": "athletic_bilbao",
+      "transition": "2015_2016 -> 2016_2017",
+      "v_score": 0.276
+    },
+    {
+      "club": "atletico_madryt",
+      "transition": "2016_2017 -> 2017_2018",
+      "v_score": 0.31
+    },
+    {
+      "club": "atletico_madryt",
+      "transition": "2019_2020 -> 2020_2021",
+      "v_score": 0.31
+    },
+    {
+      "club": "real_madryt",
+      "transition": "2021_2022 -> 2022_2023",
+      "v_score": 0.31
+    },
+    {
+      "club": "athletic_bilbao",
+      "transition": "2021_2022 -> 2022_2023",
+      "v_score": 0.321
+    },
+    {
+      "club": "villarreal_cf",
+      "transition": "2007_2008 -> 2008_2009",
+      "v_score": 0.321
+    }
+  ],
+  "most_stable_e": [
+    {
+      "club": "fc_barcelona",
+      "transition": "2012_2013 -> 2013_2014",
+      "e_score": 0.379
+    },
+    {
+      "club": "atletico_madryt",
+      "transition": "2016_2017 -> 2017_2018",
+      "e_score": 0.447
+    },
+    {
+      "club": "real_madryt",
+      "transition": "2019_2020 -> 2020_2021",
+      "e_score": 0.473
+    },
+    {
+      "club": "athletic_bilbao",
+      "transition": "2016_2017 -> 2017_2018",
+      "e_score": 0.48
+    },
+    {
+      "club": "athletic_bilbao",
+      "transition": "2019_2020 -> 2020_2021",
+      "e_score": 0.48
+    },
+    {
+      "club": "fc_barcelona",
+      "transition": "2014_2015 -> 2015_2016",
+      "e_score": 0.486
+    },
+    {
+      "club": "real_madryt",
+      "transition": "2015_2016 -> 2016_2017",
+      "e_score": 0.489
+    },
+    {
+      "club": "real_madryt",
+      "transition": "2007_2008 -> 2008_2009",
+      "e_score": 0.495
+    },
+    {
+      "club": "athletic_bilbao",
+      "transition": "2015_2016 -> 2016_2017",
+      "e_score": 0.497
+    },
+    {
+      "club": "atletico_madryt",
+      "transition": "2019_2020 -> 2020_2021",
+      "e_score": 0.497
+    }
+  ]
+}
